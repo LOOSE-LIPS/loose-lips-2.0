@@ -42,6 +42,7 @@
 				<p class="leading-5 text-gray-700 dark:text-gray-300">
 					{project?.description}
 				</p>
+				<img src="{project?.img}" alt="" style="height: 16em;">
 			</div>
 		</div>
 	</ExternalLink>

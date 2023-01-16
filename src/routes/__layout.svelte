@@ -44,16 +44,20 @@
 			label: 'LL',
 		},
 		{
-			path: '/about',
+			path: '/blog',
+			label: 'BLOG',
+		},
+		{
+			path: '/crew',
 			label: 'CREW',
+		},
+		{
+			path: '/events',
+			label: 'EVENTS',
 		},
 		{
 			path: '/projects',
 			label: 'MIXES',
-		},
-		{
-			path: '/blog',
-			label: 'BLOG',
 		},
 	];
 

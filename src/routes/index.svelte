@@ -1,3 +1,13 @@
+<!-- HOME PAGE OF WEBSITE
+
+
+
+
+
+
+ -->
+
+
 <script lang="ts" context="module">
 	/**
 	 * @type {import('@sveltejs/kit').Load}
@@ -12,17 +22,7 @@
 </script>
 
 <script lang="ts">
-	// Start: External Imports
-	// End: External Imports
-
-	// Start: Svelte Imports
-	// End: Svelte Imports
-
-	// Start: Local Imports
-
-	// Core services
-
-	// Utils
+	// Imports
 
 	// Components
 	import HeadTags from '$components/head-tags/HeadTags.svelte';
@@ -33,12 +33,14 @@
 	import type { IMetaTagProperties } from '$models/interfaces/imeta-tag-properties.interface';
 	import type { IProjectCard } from '$models/interfaces/iproject-card.interface';
 	import type { IBlog } from '$models/interfaces/iblog.interface';
-	import type { IModernImage } from '$models/interfaces/imodern-image.interface'
-	// End: Local Imports
+  	import { LoggerUtils } from '$lib/utils/logger';
+
 
 	// Exports
 	export let blogs!: IBlog[];
-	// Start: Local component properties
+	
+
+	// Add metatags for page
 	/**
 	 * @type {IMetaTagProperties}
 	 */
@@ -50,13 +52,14 @@
 	};
 
 
-
+	// Add featured mix series
 	const projects: IProjectCard[] = [
 		{
 			title: 'Sveltekit Starter',
 			description:
 				'Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.',
 			slug: 'https://github.com/navneetsharmaui/sveltekit-starter',
+			img: '',
 			icon: '',
 		},
 		{
@@ -64,6 +67,7 @@
 			description:
 				'Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.',
 			slug: 'https://github.com/navneetsharmaui/sveltekit-blog',
+			img: '',
 			icon: '',
 		},
 		{
@@ -71,6 +75,7 @@
 			description:
 				'Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.',
 			slug: 'https://github.com/navneetsharmaui/sveltekit-starter',
+			img: 'DIDO_WEB',
 			icon: '',
 		},
 		{
@@ -78,14 +83,11 @@
 			description:
 				'Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.',
 			slug: 'https://github.com/navneetsharmaui/sveltekit-blog',
-			icon: 'mosh3.jpg',
+			img: 'mosh3.jpg',
+			icon: '',
 		},
 	];
-	// End: Local component properties
 
-	// Start: Local component methods
-
-	// End: Local component methods
 </script>
 
 <!-- Start: Header Tag -->
@@ -108,15 +110,6 @@
 <!-- Start: Home Page container -->
 
 <div class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
-<!-- <div class="audio" style="position:fixed;left:0;bottom:0;width:;">
-	<Aplayer audio={
-		{name:'君の知らない物語',
-		artist: 'supercell',
-		cover: 'https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.jpg',
-		url: "https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.mp3"}} />
-
-</div> -->
-
 	
 	<img src="logo-loose-lips.gif" alt="" style="margin-top: -2vh;">
 
@@ -134,7 +127,8 @@ transform: translate(-50%, 0px);">
 </a>
 <p class="font-bold text-2xl text-white text-center" style="margin: auto;transform: rotate(-15deg);" >HAVE A LOOKSY</p>
 <h2 id="featured" class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white" style="margin-top: 5em;"> Featured </h2>
-<img src="DIDO_WEB.jpg" alt="featured">
+<img src="DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/asEvnIJ7GfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 		<!-- Start: Top Projects -->
@@ -178,7 +172,15 @@ transform: translate(-50%, 0px);">
 
 </div>
 <!-- End: Home Page container -->
+<!-- Old code for audio player
+	<div class="audio" style="position:fixed;left:0;bottom:0;width:;">
+	<Aplayer audio={
+		{name:'君の知らない物語',
+		artist: 'supercell',
+		cover: 'https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.jpg',
+		url: "https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.mp3"}} />
 
+</div> -->
 <style>
 
 
@@ -247,9 +249,6 @@ p {
 }
 p {
   transition: all 0.5s ease-in-out;
-}
-body{
-	
 }
 
 </style>

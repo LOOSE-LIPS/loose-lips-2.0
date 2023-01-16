@@ -10,40 +10,40 @@
 	<slot />
 	<div class="w-full max-w-2xl grid grid-cols-1 gap-4 pb-16 sm:grid-cols-3">
 		<div class="flex flex-col space-y-4">
-			<a sveltekit:prefetch href="/" class="{linkClass}" aria-label="{'Footer home link'}">Home</a>
+			<a sveltekit:prefetch href="/" class="{linkClass}" aria-label="{'Footer home link'}">Loose Lips</a>
 			<a sveltekit:prefetch href="/about" class="{linkClass}" aria-label="{'Footer about link'}"> About </a>
 			<a sveltekit:prefetch href="/blog" class="{linkClass}" aria-label="{'Footer about link'}"> Blog </a>
-			<a sveltekit:prefetch href="/projects" class="{linkClass}" aria-label="{'Footer about link'}"> Projects </a>
+			<a sveltekit:prefetch href="/projects" class="{linkClass}" aria-label="{'Footer about link'}"> Crew </a>
+			<a sveltekit:prefetch href="/about" class="{linkClass}" aria-label="{'Footer about link'}"> Events </a>
 		</div>
 		<div class="flex flex-col space-y-4">
 			<ExternalLink
 				href="https://www.linkedin.com/in/asnavneetsharma/"
 				cssClasses="{linkClass}"
-				ariaLabel="{'Footer LinkedIn link'}">LinkedIn</ExternalLink
+				ariaLabel="{'Footer LinkedIn link'}">Soundcloud</ExternalLink
 			>
 			<ExternalLink
 				href="https://github.com/navneetsharmaui"
 				cssClasses="{linkClass}"
-				ariaLabel="{'Footer GitHub link'}">GitHub</ExternalLink
+				ariaLabel="{'Footer GitHub link'}">Mixcloud</ExternalLink
 			>
 			<ExternalLink
 				href="https://twitter.com/asnavneetsharma"
 				cssClasses="{linkClass}"
-				ariaLabel="{'Footer Twitter link'}">Twitter</ExternalLink
+				ariaLabel="{'Footer Twitter link'}">Bandcamp</ExternalLink
 			>
 			<ExternalLink
 				href="https://www.instagram.com/asnavneetsharma/"
 				cssClasses="{linkClass}"
-				ariaLabel="{'Footer Instagram link'}">Instagram</ExternalLink
+				ariaLabel="{'Footer Instagram link'}">Github</ExternalLink
 			>
 		</div>
 		<div class="flex flex-col space-y-4">
-			<a sveltekit:prefetch href="/snippets" class="{linkClass}" aria-label="{'Footer Snippets link'}">Snippets</a
-			>
+			<a sveltekit:prefetch href="/snippets" class="{linkClass}" aria-label="{'Footer Snippets link'}">Sitemap</a>
 			<a sveltekit:prefetch href="/tags" class="{linkClass}" aria-label="{'Footer tags link'}">Tags</a>
-			<a sveltekit:prefetch href="/dashboard" class="{linkClass}" aria-label="{'Footer dashobard link'}">
-				Dashboard
-			</a>
+			<a sveltekit:prefetch href="/dashboard" class="{linkClass}" aria-label="{'Footer dashobard link'}">Contact</a>
 		</div>
+	
 	</div>
+	<p style="color: white;text-align:center;font-size:small;font-weight:italic">copyright ©  2023 All rights reserved Loose-Lips ltd</p>
 </footer>
