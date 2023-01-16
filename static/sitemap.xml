@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+    <url><loc>https://sveltekit-blog-starter.vercel.app/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://sveltekit-blog-starter.vercel.app/about/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://sveltekit-blog-starter.vercel.app/blog/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://sveltekit-blog-starter.vercel.app/dashboard/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://sveltekit-blog-starter.vercel.app/projects/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://sveltekit-blog-starter.vercel.app/snippets/</loc><priority>0.85</priority></url>
+  
+
+    <url><loc>https://sveltekit-blog-starter.vercel.app/tags/</loc><priority>0.85</priority></url>
+  
+  
+    <url>
+      <loc>https://sveltekit-blog-starter.vercel.app/blog/yet-another-blog-post/</loc>
+      <priority>0.69</priority>
+    </url>
+  
+
+    <url>
+      <loc>https://sveltekit-blog-starter.vercel.app/blog/a-second-post/</loc>
+      <priority>0.69</priority>
+    </url>
+  
+
+    <url>
+      <loc>https://sveltekit-blog-starter.vercel.app/blog/first-post/</loc>
+      <priority>0.69</priority>
+    </url>
+  
+
+    <url>
+      <loc>https://sveltekit-blog-starter.vercel.app/blog/welcome-to-my-blog/</loc>
+      <priority>0.69</priority>
+    </url>
+  
+    
+      <url><loc>https://sveltekit-blog-starter.vercel.app/tags/angular/</loc><priority>0.85</priority></url>
+        
+
+      <url><loc>https://sveltekit-blog-starter.vercel.app/tags/typescript/</loc><priority>0.85</priority></url>
+        
+
+      <url><loc>https://sveltekit-blog-starter.vercel.app/tags/web-development/</loc><priority>0.85</priority></url>
+        
+
+      <url><loc>https://sveltekit-blog-starter.vercel.app/tags/programming/</loc><priority>0.85</priority></url>
+        
+
+      <url><loc>https://sveltekit-blog-starter.vercel.app/tags/react/</loc><priority>0.85</priority></url>
+        
+
+      <url><loc>https://sveltekit-blog-starter.vercel.app/tags/svelte/</loc><priority>0.85</priority></url>
+        
+
+      <url><loc>https://sveltekit-blog-starter.vercel.app/tags/javascript/</loc><priority>0.85</priority></url>
+        
+
+      <url><loc>https://sveltekit-blog-starter.vercel.app/tags/svelte-kit/</loc><priority>0.85</priority></url>
+        
+
+      <url><loc>https://sveltekit-blog-starter.vercel.app/tags/tailwind/</loc><priority>0.85</priority></url>
+        
+
+      <url><loc>https://sveltekit-blog-starter.vercel.app/tags/markdown/</loc><priority>0.85</priority></url>
+        
+</urlset>
