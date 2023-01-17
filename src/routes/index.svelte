@@ -105,7 +105,7 @@ transform: translate(-50%, 0px);">
 <div class="flex flex-row justify-left items-start max-w-5xl mx-auto">
 	<div class="p-5">
 <!-- Start: Events -->
-	<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"> Upcoming Events </h2>
+	<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"> Upcoming Events </h2>
 	{#if events.length > 0}
 		{#each events as event}
 			<ProjectCard project="{event}" />
@@ -117,7 +117,7 @@ transform: translate(-50%, 0px);">
 	<!-- End: Top Events -->
 	</div>
 <div class="p-5">
-	<h2 id="featured" class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white" style="margin-top: 5em;"> Featured </h2>
+	<h2 id="featured" class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"> Featured </h2>
 	<img src="DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/asEvnIJ7GfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		
@@ -225,5 +225,11 @@ p {
 p {
   transition: all 0.5s ease-in-out;
 }
+:global(body) {
+        /* this will apply to <body> */
+			background-image: radial-gradient(black 1px, transparent 0);
+  background-size: 40px 40px;
+  background-position: -19px -19px;
+    }
 
 </style>
