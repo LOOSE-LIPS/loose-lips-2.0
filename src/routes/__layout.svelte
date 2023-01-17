@@ -78,7 +78,7 @@
 	<Header
 		on:toggleTheme="{(e) => toggleThemeMode(e)}"
 		navLinks="{navLinks}"
-		logoImage="{'mosh1.gif'}"
+		logoImage="{'https://i1.sndcdn.com/avatars-C6z0Vyr2LPCI6uHm-ZLN5qA-t200x200.jpg'}"
 		title="{'LOOSE LIPS'}"
 		useThemeModeButton="{true}"
 		useTitleAndLogo="{true}"
