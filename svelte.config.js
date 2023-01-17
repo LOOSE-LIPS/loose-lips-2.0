@@ -18,6 +18,7 @@ import { fileURLToPath } from 'url';
 // Adapters
 import staticAdapter from '@sveltejs/adapter-static';
 import nodeAdapter from '@sveltejs/adapter-node';
+
 import netlifyAdapter from '@sveltejs/adapter-netlify';
 import vercelAdapter from '@sveltejs/adapter-vercel';
 
@@ -64,6 +65,7 @@ const config = {
 	kit: {
 		// hydrate the <div id="svelte"> element in src/app.html
 		target: '#sveltekit-blog',
+		adapter: netlify(),
 		ssr: true,
 		prerender: {
 			crawl: true,

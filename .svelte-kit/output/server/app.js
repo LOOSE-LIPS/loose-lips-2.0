@@ -1509,9 +1509,9 @@ function init(settings = default_settings) {
     amp: false,
     dev: false,
     entry: {
-      file: assets + "/_app/start-a00216fd.js",
+      file: assets + "/_app/start-b7014c23.js",
       css: [assets + "/_app/assets/start-464e9d0a.css", assets + "/_app/assets/vendor-863873a7.css"],
-      js: [assets + "/_app/start-a00216fd.js", assets + "/_app/chunks/vendor-b3989e7d.js"]
+      js: [assets + "/_app/start-b7014c23.js", assets + "/_app/chunks/vendor-b3989e7d.js"]
     },
     fetched: void 0,
     floc: false,
@@ -1604,6 +1604,13 @@ const manifest = {
     },
     {
       type: "page",
+      pattern: /^\/events\/?$/,
+      params: empty,
+      a: ["src/routes/__layout.svelte", "src/routes/events/index.svelte"],
+      b: ["src/routes/__error.svelte"]
+    },
+    {
+      type: "page",
       pattern: /^\/about\/?$/,
       params: empty,
       a: ["src/routes/__layout.svelte", "src/routes/about/index.svelte"],
@@ -1626,30 +1633,30 @@ const manifest = {
     },
     {
       type: "page",
-      pattern: /^\/blog\/yet-another-blog-post\/?$/,
+      pattern: /^\/blog\/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022\/?$/,
       params: empty,
-      a: ["src/routes/__layout.svelte", "src/routes/blog/yet-another-blog-post/index.md"],
+      a: ["src/routes/__layout.svelte", "src/routes/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md"],
       b: ["src/routes/__error.svelte"]
     },
     {
       type: "page",
-      pattern: /^\/blog\/welcome-to-my-blog\/?$/,
+      pattern: /^\/blog\/elkka-live-at-corsica-studios-090222\/?$/,
       params: empty,
-      a: ["src/routes/__layout.svelte", "src/routes/blog/welcome-to-my-blog/index.md"],
+      a: ["src/routes/__layout.svelte", "src/routes/blog/elkka-live-at-corsica-studios-090222/index.md"],
       b: ["src/routes/__error.svelte"]
     },
     {
       type: "page",
-      pattern: /^\/blog\/a-second-post\/?$/,
+      pattern: /^\/blog\/sphie-resuscitation-kim-cosmik-remix\/?$/,
       params: empty,
-      a: ["src/routes/__layout.svelte", "src/routes/blog/a-second-post/index.md"],
+      a: ["src/routes/__layout.svelte", "src/routes/blog/sphie-resuscitation-kim-cosmik-remix/index.md"],
       b: ["src/routes/__error.svelte"]
     },
     {
       type: "page",
-      pattern: /^\/blog\/first-post\/?$/,
+      pattern: /^\/crew\/?$/,
       params: empty,
-      a: ["src/routes/__layout.svelte", "src/routes/blog/first-post/index.md"],
+      a: ["src/routes/__layout.svelte", "src/routes/crew/index.svelte"],
       b: ["src/routes/__error.svelte"]
     },
     {
@@ -1706,24 +1713,27 @@ const module_lookup = {
     return __error;
   }),
   "src/routes/index.svelte": () => Promise.resolve().then(function() {
-    return index$e;
+    return index$f;
   }),
   "src/routes/dashboard/index.svelte": () => Promise.resolve().then(function() {
-    return index$d;
+    return index$e;
   }),
   "src/routes/projects/index.svelte": () => Promise.resolve().then(function() {
-    return index$c;
+    return index$d;
   }),
   "src/routes/snippets/index.svelte": () => Promise.resolve().then(function() {
-    return index$b;
+    return index$c;
   }),
   "src/routes/snippets/yet-another-snippet/index.md": () => Promise.resolve().then(function() {
-    return index$a;
+    return index$b;
   }),
   "src/routes/snippets/second-snippet/index.md": () => Promise.resolve().then(function() {
-    return index$9;
+    return index$a;
   }),
   "src/routes/snippets/first-snippet/index.md": () => Promise.resolve().then(function() {
+    return index$9;
+  }),
+  "src/routes/events/index.svelte": () => Promise.resolve().then(function() {
     return index$8;
   }),
   "src/routes/about/index.svelte": () => Promise.resolve().then(function() {
@@ -1732,16 +1742,16 @@ const module_lookup = {
   "src/routes/blog/index.svelte": () => Promise.resolve().then(function() {
     return index$6;
   }),
-  "src/routes/blog/yet-another-blog-post/index.md": () => Promise.resolve().then(function() {
+  "src/routes/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md": () => Promise.resolve().then(function() {
     return index$5;
   }),
-  "src/routes/blog/welcome-to-my-blog/index.md": () => Promise.resolve().then(function() {
+  "src/routes/blog/elkka-live-at-corsica-studios-090222/index.md": () => Promise.resolve().then(function() {
     return index$4;
   }),
-  "src/routes/blog/a-second-post/index.md": () => Promise.resolve().then(function() {
+  "src/routes/blog/sphie-resuscitation-kim-cosmik-remix/index.md": () => Promise.resolve().then(function() {
     return index$3;
   }),
-  "src/routes/blog/first-post/index.md": () => Promise.resolve().then(function() {
+  "src/routes/crew/index.svelte": () => Promise.resolve().then(function() {
     return index$2;
   }),
   "src/routes/tags/index.svelte": () => Promise.resolve().then(function() {
@@ -1751,7 +1761,7 @@ const module_lookup = {
     return index;
   })
 };
-const metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-2cb11f83.js", "css": ["assets/pages/__layout.svelte-2c8df9aa.css", "assets/vendor-863873a7.css"], "js": ["pages/__layout.svelte-2cb11f83.js", "chunks/vendor-b3989e7d.js", "chunks/ExternalLink-f61f9259.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/__error.svelte": { "entry": "pages/__error.svelte-8303b3fd.js", "css": ["assets/pages/__error.svelte-44d0ffb3.css", "assets/vendor-863873a7.css"], "js": ["pages/__error.svelte-8303b3fd.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-bc0fbd27.js", "css": ["assets/pages/index.svelte-ad1899c7.css", "assets/vendor-863873a7.css"], "js": ["pages/index.svelte-bc0fbd27.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/BlogPost-98029569.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js", "chunks/ProjectCard-fc7d96a8.js", "chunks/ExternalLink-f61f9259.js"], "styles": [] }, "src/routes/dashboard/index.svelte": { "entry": "pages/dashboard/index.svelte-a338066f.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/dashboard/index.svelte-a338066f.js", "chunks/vendor-b3989e7d.js", "chunks/ExternalLink-f61f9259.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/projects/index.svelte": { "entry": "pages/projects/index.svelte-d60005e9.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/projects/index.svelte-d60005e9.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/ExternalLink-f61f9259.js", "chunks/ProjectCard-fc7d96a8.js"], "styles": [] }, "src/routes/snippets/index.svelte": { "entry": "pages/snippets/index.svelte-e42d8823.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/index.svelte-e42d8823.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/snippets/yet-another-snippet/index.md": { "entry": "pages/snippets/yet-another-snippet/index.md-0aafaaae.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/yet-another-snippet/index.md-0aafaaae.js", "chunks/vendor-b3989e7d.js", "chunks/SnippetsLayout-03fc2523.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js"], "styles": [] }, "src/routes/snippets/second-snippet/index.md": { "entry": "pages/snippets/second-snippet/index.md-e8d7b3f0.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/second-snippet/index.md-e8d7b3f0.js", "chunks/vendor-b3989e7d.js", "chunks/SnippetsLayout-03fc2523.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js"], "styles": [] }, "src/routes/snippets/first-snippet/index.md": { "entry": "pages/snippets/first-snippet/index.md-774c636d.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/first-snippet/index.md-774c636d.js", "chunks/vendor-b3989e7d.js", "chunks/SnippetsLayout-03fc2523.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js"], "styles": [] }, "src/routes/about/index.svelte": { "entry": "pages/about/index.svelte-8937cbcd.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/about/index.svelte-8937cbcd.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/ExternalLink-f61f9259.js"], "styles": [] }, "src/routes/blog/index.svelte": { "entry": "pages/blog/index.svelte-088b3795.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/index.svelte-088b3795.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/BlogPost-98029569.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/yet-another-blog-post/index.md": { "entry": "pages/blog/yet-another-blog-post/index.md-a2343773.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/yet-another-blog-post/index.md-a2343773.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-c9127499.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/welcome-to-my-blog/index.md": { "entry": "pages/blog/welcome-to-my-blog/index.md-fcbe711d.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/welcome-to-my-blog/index.md-fcbe711d.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-c9127499.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/a-second-post/index.md": { "entry": "pages/blog/a-second-post/index.md-666539a3.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/a-second-post/index.md-666539a3.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-c9127499.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/first-post/index.md": { "entry": "pages/blog/first-post/index.md-2917f75f.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/first-post/index.md-2917f75f.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-c9127499.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/tags/index.svelte": { "entry": "pages/tags/index.svelte-043a98c4.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/tags/index.svelte-043a98c4.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/tags/[tag]/index.svelte": { "entry": "pages/tags/[tag]/index.svelte-2f5280e6.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/tags/[tag]/index.svelte-2f5280e6.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/BlogPost-98029569.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] } };
+const metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-02b246df.js", "css": ["assets/pages/__layout.svelte-400331e9.css", "assets/vendor-863873a7.css"], "js": ["pages/__layout.svelte-02b246df.js", "chunks/vendor-b3989e7d.js", "chunks/ExternalLink-f61f9259.js", "chunks/environment-6b8e8328.js"], "styles": [] }, "src/routes/__error.svelte": { "entry": "pages/__error.svelte-f42073fe.js", "css": ["assets/pages/__error.svelte-44d0ffb3.css", "assets/vendor-863873a7.css"], "js": ["pages/__error.svelte-f42073fe.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-ffb26c9f.js", "css": ["assets/pages/index.svelte-aabab0ea.css", "assets/vendor-863873a7.css"], "js": ["pages/index.svelte-ffb26c9f.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js", "chunks/BlogPost-a258f5e3.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js", "chunks/ProjectCard-a3d29106.js", "chunks/ExternalLink-f61f9259.js", "chunks/logger-5ce91bfc.js"], "styles": [] }, "src/routes/dashboard/index.svelte": { "entry": "pages/dashboard/index.svelte-f7c7afb9.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/dashboard/index.svelte-f7c7afb9.js", "chunks/vendor-b3989e7d.js", "chunks/ExternalLink-f61f9259.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js"], "styles": [] }, "src/routes/projects/index.svelte": { "entry": "pages/projects/index.svelte-597d9b40.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/projects/index.svelte-597d9b40.js", "chunks/vendor-b3989e7d.js", "chunks/env-a13806e5.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js"], "styles": [] }, "src/routes/snippets/index.svelte": { "entry": "pages/snippets/index.svelte-0d19910c.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/index.svelte-0d19910c.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js"], "styles": [] }, "src/routes/snippets/yet-another-snippet/index.md": { "entry": "pages/snippets/yet-another-snippet/index.md-36fae9c1.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/yet-another-snippet/index.md-36fae9c1.js", "chunks/vendor-b3989e7d.js", "chunks/SnippetsLayout-d03a1a6b.js", "chunks/environment-6b8e8328.js", "chunks/HeadTags-2692fef2.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js"], "styles": [] }, "src/routes/snippets/second-snippet/index.md": { "entry": "pages/snippets/second-snippet/index.md-6e300a86.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/second-snippet/index.md-6e300a86.js", "chunks/vendor-b3989e7d.js", "chunks/SnippetsLayout-d03a1a6b.js", "chunks/environment-6b8e8328.js", "chunks/HeadTags-2692fef2.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js"], "styles": [] }, "src/routes/snippets/first-snippet/index.md": { "entry": "pages/snippets/first-snippet/index.md-165e981d.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/first-snippet/index.md-165e981d.js", "chunks/vendor-b3989e7d.js", "chunks/SnippetsLayout-d03a1a6b.js", "chunks/environment-6b8e8328.js", "chunks/HeadTags-2692fef2.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js"], "styles": [] }, "src/routes/events/index.svelte": { "entry": "pages/events/index.svelte-e45b6727.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/events/index.svelte-e45b6727.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js", "chunks/ProjectCard-a3d29106.js", "chunks/ExternalLink-f61f9259.js", "chunks/logger-5ce91bfc.js"], "styles": [] }, "src/routes/about/index.svelte": { "entry": "pages/about/index.svelte-c7c81f95.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/about/index.svelte-c7c81f95.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js", "chunks/ExternalLink-f61f9259.js"], "styles": [] }, "src/routes/blog/index.svelte": { "entry": "pages/blog/index.svelte-5ab21917.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/index.svelte-5ab21917.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js", "chunks/BlogPost-a258f5e3.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md": { "entry": "pages/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md-d3134678.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md-d3134678.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-edf28bb7.js", "chunks/environment-6b8e8328.js", "chunks/HeadTags-2692fef2.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/elkka-live-at-corsica-studios-090222/index.md": { "entry": "pages/blog/elkka-live-at-corsica-studios-090222/index.md-4de376b2.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/elkka-live-at-corsica-studios-090222/index.md-4de376b2.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-edf28bb7.js", "chunks/environment-6b8e8328.js", "chunks/HeadTags-2692fef2.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/sphie-resuscitation-kim-cosmik-remix/index.md": { "entry": "pages/blog/sphie-resuscitation-kim-cosmik-remix/index.md-9f702d2a.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/sphie-resuscitation-kim-cosmik-remix/index.md-9f702d2a.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-edf28bb7.js", "chunks/environment-6b8e8328.js", "chunks/HeadTags-2692fef2.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/crew/index.svelte": { "entry": "pages/crew/index.svelte-1db7d296.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/crew/index.svelte-1db7d296.js", "chunks/vendor-b3989e7d.js", "chunks/env-a13806e5.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js", "chunks/ExternalLink-f61f9259.js", "chunks/ProjectCard-a3d29106.js"], "styles": [] }, "src/routes/tags/index.svelte": { "entry": "pages/tags/index.svelte-92224808.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/tags/index.svelte-92224808.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/tags/[tag]/index.svelte": { "entry": "pages/tags/[tag]/index.svelte-b6b3894a.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/tags/[tag]/index.svelte-b6b3894a.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-2692fef2.js", "chunks/environment-6b8e8328.js", "chunks/BlogPost-a258f5e3.js", "chunks/TagsContainer-2f511c62.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] } };
 async function load_component(file) {
   const { entry, css: css2, js, styles } = metadata_lookup[file];
   return {
@@ -1777,11 +1787,11 @@ async function get$4({
 }) {
   var _a, _b;
   const modules = { "./first-snippet/index.md": () => Promise.resolve().then(function() {
-    return index$8;
-  }), "./second-snippet/index.md": () => Promise.resolve().then(function() {
     return index$9;
-  }), "./yet-another-snippet/index.md": () => Promise.resolve().then(function() {
+  }), "./second-snippet/index.md": () => Promise.resolve().then(function() {
     return index$a;
+  }), "./yet-another-snippet/index.md": () => Promise.resolve().then(function() {
+    return index$b;
   }) };
   const snipptePromises = [];
   const limit = Number((_a = query.get("limit")) != null ? _a : Infinity);
@@ -1818,14 +1828,12 @@ var index_json$4 = /* @__PURE__ */ Object.freeze({
 });
 async function get$3({ query }) {
   var _a, _b;
-  const modules = { "./a-second-post/index.md": () => Promise.resolve().then(function() {
-    return index$3;
-  }), "./first-post/index.md": () => Promise.resolve().then(function() {
-    return index$2;
-  }), "./welcome-to-my-blog/index.md": () => Promise.resolve().then(function() {
-    return index$4;
-  }), "./yet-another-blog-post/index.md": () => Promise.resolve().then(function() {
+  const modules = { "./1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md": () => Promise.resolve().then(function() {
     return index$5;
+  }), "./elkka-live-at-corsica-studios-090222/index.md": () => Promise.resolve().then(function() {
+    return index$4;
+  }), "./sphie-resuscitation-kim-cosmik-remix/index.md": () => Promise.resolve().then(function() {
+    return index$3;
   }) };
   const postPromises = [];
   const limit = Number((_a = query.get("limit")) != null ? _a : Infinity);
@@ -1875,19 +1883,19 @@ var EnvironmentType;
   EnvironmentType2[EnvironmentType2["DEV"] = 2] = "DEV";
   EnvironmentType2[EnvironmentType2["LOCAL"] = 3] = "LOCAL";
 })(EnvironmentType || (EnvironmentType = {}));
-var SVELTEKIT_DATA_ENPOINTS_PROD;
-(function(SVELTEKIT_DATA_ENPOINTS_PROD2) {
-  SVELTEKIT_DATA_ENPOINTS_PROD2["SERVICE"] = "/service";
-})(SVELTEKIT_DATA_ENPOINTS_PROD || (SVELTEKIT_DATA_ENPOINTS_PROD = {}));
-var SVELTEKIT_SEARCH_ENPOINTS_PROD;
-(function(SVELTEKIT_SEARCH_ENPOINTS_PROD2) {
-  SVELTEKIT_SEARCH_ENPOINTS_PROD2["SEARCH"] = "/search";
-})(SVELTEKIT_SEARCH_ENPOINTS_PROD || (SVELTEKIT_SEARCH_ENPOINTS_PROD = {}));
+var SVELTEKIT_DATA_ENPOINTS;
+(function(SVELTEKIT_DATA_ENPOINTS2) {
+  SVELTEKIT_DATA_ENPOINTS2["SERVICE"] = "/service";
+})(SVELTEKIT_DATA_ENPOINTS || (SVELTEKIT_DATA_ENPOINTS = {}));
+var SVELTEKIT_SEARCH_ENPOINTS;
+(function(SVELTEKIT_SEARCH_ENPOINTS2) {
+  SVELTEKIT_SEARCH_ENPOINTS2["SEARCH"] = "/search";
+})(SVELTEKIT_SEARCH_ENPOINTS || (SVELTEKIT_SEARCH_ENPOINTS = {}));
 const environment = {
-  name: EnvironmentName.PRODUCTION,
-  environmentType: EnvironmentType.PROD,
-  production: true,
-  isDebugMode: false,
+  name: EnvironmentName.LOCAL,
+  environmentType: EnvironmentType.LOCAL,
+  production: false,
+  isDebugMode: true,
   launchURL: {}.SVELTEKIT_BLOG_BASE_URL,
   apiUrls: {
     CHUCK_NORRIS: {}.SVELTEKIT_BLOG_CHUCK_NORRIS_API_URL,
@@ -1897,8 +1905,8 @@ const environment = {
   chuckNorriesAPIConfig: {
     defaultAPILang: "en-US",
     endPoints: {
-      SEARCH: SVELTEKIT_SEARCH_ENPOINTS_PROD.SEARCH,
-      SERVICE: SVELTEKIT_DATA_ENPOINTS_PROD.SERVICE
+      SEARCH: SVELTEKIT_SEARCH_ENPOINTS.SEARCH,
+      SERVICE: SVELTEKIT_DATA_ENPOINTS.SERVICE
     }
   },
   sessionConfig: {
@@ -2063,7 +2071,7 @@ var index_json = /* @__PURE__ */ Object.freeze({
   [Symbol.toStringTag]: "Module",
   get
 });
-var tailwind = '/*! tailwindcss v2.2.7 | MIT License | https://tailwindcss.com*//*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */html{-webkit-text-size-adjust:100%;line-height:1.15;-moz-tab-size:4;-o-tab-size:4;tab-size:4}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;margin:0}hr{color:inherit;height:0}abbr[title]{-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-color:inherit;text-indent:0}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}::-moz-focus-inner{border-style:none;padding:0}:-moz-focusring{outline:1px dotted ButtonText}:-moz-ui-invalid{box-shadow:none}legend{padding:0}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}button{background-color:transparent;background-image:none}fieldset,ol,ul{margin:0;padding:0}ol,ul{list-style:none}html{font-family:Raleway,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}body{font-family:inherit;line-height:inherit}*,:after,:before{border:0 solid;box-sizing:border-box}hr{border-top-width:1px}img{border-style:solid}textarea{resize:vertical}input::-moz-placeholder,textarea::-moz-placeholder{color:#9ca3af;opacity:1}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#9ca3af;opacity:1}input::placeholder,textarea::placeholder{color:#9ca3af;opacity:1}[role=button],button{cursor:pointer}table{border-collapse:collapse}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}button,input,optgroup,select,textarea{color:inherit;line-height:inherit;padding:0}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{height:auto;max-width:100%}[hidden]{display:none}*,:after,:before{--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-transform:translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));--tw-border-opacity:1;--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-blur:var(--tw-empty,/*!*/ /*!*/);--tw-brightness:var(--tw-empty,/*!*/ /*!*/);--tw-contrast:var(--tw-empty,/*!*/ /*!*/);--tw-grayscale:var(--tw-empty,/*!*/ /*!*/);--tw-hue-rotate:var(--tw-empty,/*!*/ /*!*/);--tw-invert:var(--tw-empty,/*!*/ /*!*/);--tw-saturate:var(--tw-empty,/*!*/ /*!*/);--tw-sepia:var(--tw-empty,/*!*/ /*!*/);--tw-drop-shadow:var(--tw-empty,/*!*/ /*!*/);--tw-filter:var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);border-color:rgba(229,231,235,var(--tw-border-opacity))}.container{width:100%}@media (min-width:640px){.container{max-width:640px}}@media (min-width:768px){.container{max-width:768px}}@media (min-width:1024px){.container{max-width:1024px}}@media (min-width:1280px){.container{max-width:1280px}}@media (min-width:1536px){.container{max-width:1536px}}.prose{color:#374151;max-width:65ch}.prose [class~=lead]{color:#4b5563;font-size:1.25em;line-height:1.6;margin-bottom:1.2em;margin-top:1.2em}.prose a{color:#3b82f6;font-weight:500;text-decoration:underline}.prose a:hover{color:#1d4ed8}.prose a code{color:#60a5fa}.prose strong{color:#111827;font-weight:600}.prose ol[type=A]{--list-counter-style:upper-alpha}.prose ol[type=a]{--list-counter-style:lower-alpha}.prose ol[type=A s]{--list-counter-style:upper-alpha}.prose ol[type=a s]{--list-counter-style:lower-alpha}.prose ol[type=I]{--list-counter-style:upper-roman}.prose ol[type=i]{--list-counter-style:lower-roman}.prose ol[type=I s]{--list-counter-style:upper-roman}.prose ol[type=i s]{--list-counter-style:lower-roman}.prose ol[type="1"]{--list-counter-style:decimal}.prose ol>li{padding-left:1.75em;position:relative}.prose ol>li:before{color:#6b7280;content:counter(list-item,var(--list-counter-style,decimal)) ".";font-weight:400;left:0;position:absolute}.prose ul>li{padding-left:1.75em;position:relative}.prose ul>li:before{background-color:#d1d5db;border-radius:50%;content:"";height:.375em;left:.25em;position:absolute;top:.6875em;width:.375em}.prose hr{border-color:#e5e7eb;border-top-width:1px;margin-bottom:3em;margin-top:3em}.prose blockquote{border-left-color:#e5e7eb;border-left-width:.25rem;color:#111827;font-style:italic;font-weight:500;margin-bottom:1.6em;margin-top:1.6em;padding-left:1em;quotes:"\\201C""\\201D""\\2018""\\2019"}.prose h1{color:#111827;font-size:2.25em;font-weight:800;line-height:1.1111111;margin-bottom:.8888889em;margin-top:0}.prose h2{color:#111827;font-size:1.5em;font-weight:700;line-height:1.3333333;margin-bottom:1em;margin-top:2em}.prose h3{color:#111827;font-size:1.25em;font-weight:600;line-height:1.6;margin-bottom:.6em;margin-top:1.6em}.prose h4{color:#111827;font-weight:600;line-height:1.5;margin-bottom:.5em;margin-top:1.5em}.prose figure figcaption{color:#6b7280;font-size:.875em;line-height:1.4285714;margin-top:.8571429em}.prose code{color:#ec4899;font-size:.875em;font-weight:600}.prose code:after,.prose code:before{content:"`"}.prose a code{color:#111827}.prose pre{background-color:#1f2937;border-radius:.375rem;color:#e5e7eb;font-size:.875em;line-height:1.7142857;margin-bottom:1.7142857em;margin-top:1.7142857em;overflow-x:auto;padding:.8571429em 1.1428571em}.prose pre code{background-color:transparent;border-radius:0;border-width:0;color:inherit;font-family:inherit;font-size:inherit;font-weight:400;line-height:inherit;padding:0}.prose pre code:after,.prose pre code:before{content:none}.prose table{font-size:.875em;line-height:1.7142857;margin-bottom:2em;margin-top:2em;table-layout:auto;text-align:left;width:100%}.prose thead{border-bottom-color:#d1d5db;border-bottom-width:1px;color:#111827;font-weight:600}.prose thead th{padding-bottom:.5714286em;padding-left:.5714286em;padding-right:.5714286em;vertical-align:bottom}.prose tbody tr{border-bottom-color:#e5e7eb;border-bottom-width:1px}.prose tbody tr:last-child{border-bottom-width:0}.prose tbody td{padding:.5714286em;vertical-align:top}.prose{font-size:1rem;line-height:1.75}.prose p{margin-bottom:1.25em;margin-top:1.25em}.prose figure,.prose img,.prose video{margin-bottom:2em;margin-top:2em}.prose figure>*{margin-bottom:0;margin-top:0}.prose h2 code{font-size:.875em}.prose h3 code{font-size:.9em}.prose ol,.prose ul{margin-bottom:1.25em;margin-top:1.25em}.prose li{margin-bottom:.5em;margin-top:.5em}.prose>ul>li p{margin-bottom:.75em;margin-top:.75em}.prose>ul>li>:first-child{margin-top:1.25em}.prose>ul>li>:last-child{margin-bottom:1.25em}.prose>ol>li>:first-child{margin-top:1.25em}.prose>ol>li>:last-child{margin-bottom:1.25em}.prose ol ol,.prose ol ul,.prose ul ol,.prose ul ul{margin-bottom:.75em;margin-top:.75em}.prose h2+*,.prose h3+*,.prose h4+*,.prose hr+*{margin-top:0}.prose thead th:first-child{padding-left:0}.prose thead th:last-child{padding-right:0}.prose tbody td:first-child{padding-left:0}.prose tbody td:last-child{padding-right:0}.prose>:first-child{margin-top:0}.prose>:last-child{margin-bottom:0}.prose h2,.prose h3,.prose h4{scroll-margin-top:8rem}.sr-only{clip:rect(0,0,0,0);border-width:0;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}.static{position:static}.absolute{position:absolute}.relative{position:relative}.right-3{right:.75rem}.top-3{top:.75rem}.z-10{z-index:10}.mx-auto{margin-left:auto;margin-right:auto}.my-2{margin-bottom:.5rem;margin-top:.5rem}.mx-2{margin-left:.5rem;margin-right:.5rem}.my-4{margin-bottom:1rem;margin-top:1rem}.mx-3{margin-left:.75rem;margin-right:.75rem}.mb-16{margin-bottom:4rem}.mb-4{margin-bottom:1rem}.mt-8{margin-top:2rem}.mb-8{margin-bottom:2rem}.mt-4{margin-top:1rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-16{margin-top:4rem}.mt-2{margin-top:.5rem}.mb-2{margin-bottom:.5rem}.ml-auto{margin-left:auto}.mt-1{margin-top:.25rem}.mr-4{margin-right:1rem}.mb-10{margin-bottom:2.5rem}.mr-3{margin-right:.75rem}.ml-1{margin-left:.25rem}.block{display:block}.flex{display:flex}.inline-flex{display:inline-flex}.grid{display:grid}.hidden{display:none}.h-5{height:1.25rem}.h-7{height:1.75rem}.h-4{height:1rem}.h-14{height:3.5rem}.h-12{height:3rem}.h-10{height:2.5rem}.h-8{height:2rem}.h-3{height:.75rem}.w-full{width:100%}.w-5{width:1.25rem}.w-7{width:1.75rem}.w-32{width:8rem}.w-4{width:1rem}.w-14{width:3.5rem}.w-auto{width:auto}.w-8{width:2rem}.w-3{width:.75rem}.w-1\\/2{width:50%}.w-60{width:15rem}.max-w-2xl{max-width:42rem}.max-w-none{max-width:none}.max-w-full{max-width:100%}.max-w-max{max-width:-webkit-max-content;max-width:-moz-max-content;max-width:max-content}.max-w-4xl{max-width:56rem}.max-w-3xl{max-width:48rem}.flex-shrink-0{flex-shrink:0}.transform{transform:var(--tw-transform)}@-webkit-keyframes e{to{transform:rotate(1turn)}}@keyframes e{to{transform:rotate(1turn)}}.animate-spin{-webkit-animation:e 1s linear infinite;animation:e 1s linear infinite}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}.flex-row{flex-direction:row}.flex-row-reverse{flex-direction:row-reverse}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-start{align-items:flex-start}.items-center{align-items:center}.items-baseline{align-items:baseline}.justify-start{justify-content:flex-start}.justify-end{justify-content:flex-end}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.gap-4{gap:1rem}.space-x-0>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(0px*(1 - var(--tw-space-x-reverse)));margin-right:calc(0px*var(--tw-space-x-reverse))}.space-y-4>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(1rem*var(--tw-space-y-reverse));margin-top:calc(1rem*(1 - var(--tw-space-y-reverse)))}.space-x-2>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(.5rem*var(--tw-space-x-reverse))}.truncate{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.rounded-md{border-radius:.375rem}.rounded-full{border-radius:9999px}.rounded{border-radius:.25rem}.border{border-width:1px}.border-b{border-bottom-width:1px}.border-gray-300{--tw-border-opacity:1;border-color:rgba(209,213,219,var(--tw-border-opacity))}.border-gray-100{--tw-border-opacity:1;border-color:rgba(243,244,246,var(--tw-border-opacity))}.border-gray-200{--tw-border-opacity:1;border-color:rgba(229,231,235,var(--tw-border-opacity))}.border-green-200{--tw-border-opacity:1;border-color:rgba(167,243,208,var(--tw-border-opacity))}.bg-yellow-50{--tw-bg-opacity:1;background-color:rgba(255,251,235,var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgba(255,255,255,var(--tw-bg-opacity))}.bg-green-50{--tw-bg-opacity:1;background-color:rgba(236,253,245,var(--tw-bg-opacity))}.bg-opacity-60{--tw-bg-opacity:0.6}.p-4{padding:1rem}.p-6{padding:1.5rem}.p-1{padding:.25rem}.p-1\\.5{padding:.375rem}.px-8{padding-left:2rem;padding-right:2rem}.px-4{padding-left:1rem;padding-right:1rem}.py-2{padding-bottom:.5rem;padding-top:.5rem}.pt-4{padding-top:1rem}.pb-5{padding-bottom:1.25rem}.pb-16{padding-bottom:4rem}.pt-2{padding-top:.5rem}.pb-2{padding-bottom:.5rem}.pl-3{padding-left:.75rem}.text-left{text-align:left}.text-center{text-align:center}.text-2xl{font-size:1.5rem;line-height:2rem}.text-3xl{font-size:1.875rem;line-height:2.25rem}.text-xl{font-size:1.25rem;line-height:1.75rem}.text-xs{font-size:.75rem;line-height:1rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-lg{font-size:1.125rem;line-height:1.75rem}.font-bold{font-weight:700}.font-medium{font-weight:500}.leading-6{line-height:1.5rem}.leading-5{line-height:1.25rem}.tracking-tight{letter-spacing:-.025em}.text-white{--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))}.text-black{--tw-text-opacity:1;color:rgba(0,0,0,var(--tw-text-opacity))}.text-gray-600{--tw-text-opacity:1;color:rgba(75,85,99,var(--tw-text-opacity))}.text-blue-500{--tw-text-opacity:1;color:rgba(59,130,246,var(--tw-text-opacity))}.text-gray-500{--tw-text-opacity:1;color:rgba(107,114,128,var(--tw-text-opacity))}.text-gray-900{--tw-text-opacity:1;color:rgba(17,24,39,var(--tw-text-opacity))}.text-gray-400{--tw-text-opacity:1;color:rgba(156,163,175,var(--tw-text-opacity))}.text-gray-700{--tw-text-opacity:1;color:rgba(55,65,81,var(--tw-text-opacity))}.text-gray-800{--tw-text-opacity:1;color:rgba(31,41,55,var(--tw-text-opacity))}.text-red-800{--tw-text-opacity:1;color:rgba(153,27,27,var(--tw-text-opacity))}.text-green-500{--tw-text-opacity:1;color:rgba(16,185,129,var(--tw-text-opacity))}.text-green-700{--tw-text-opacity:1;color:rgba(4,120,87,var(--tw-text-opacity))}.opacity-25{opacity:.25}.opacity-75{opacity:.75}.shadow{--tw-shadow:0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px 0 rgba(0,0,0,0.06);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.blur{--tw-blur:blur(8px)}.blur,.drop-shadow{filter:var(--tw-filter)}.drop-shadow{--tw-drop-shadow:drop-shadow(0 1px 2px rgba(0,0,0,0.1)) drop-shadow(0 1px 1px rgba(0,0,0,0.06))}.drop-shadow-xl{--tw-drop-shadow:drop-shadow(0 20px 13px rgba(0,0,0,0.03)) drop-shadow(0 8px 5px rgba(0,0,0,0.08))}.drop-shadow-xl,.filter{filter:var(--tw-filter)}.transition{transition-duration:.15s;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-backdrop-filter;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1)}@font-face{font-display:swap;font-family:Raleway;font-style:normal;font-weight:400;src:url(/fonts/Raleway-400-normal.woff2) format("woff2")}@font-face{font-display:swap;font-family:Raleway;font-style:normal;font-weight:500;src:url(/fonts/Raleway-500-normal.woff2) format("woff2")}@font-face{font-display:swap;font-family:Raleway;font-style:normal;font-weight:600;src:url(/fonts/Raleway-600-normal.woff2) format("woff2")}@font-face{font-display:swap;font-family:Raleway;font-style:normal;font-weight:700;src:url(/fonts/Raleway-700-normal.woff2) format("woff2")}::-moz-selection{background-color:#80b9d3;color:#fefefe}::selection{background-color:#80b9d3;color:#fefefe}::-webkit-scrollbar-track{background-color:#666;border-radius:4px;box-shadow:inset 0 0 6px rgba(0,0,0,.3)}::-webkit-scrollbar{background-color:#666;width:6px}::-webkit-scrollbar-thumb{background-color:#3b3838;border-radius:4px;box-shadow:inset 0 0 6px rgba(0,0,0,.3)}html{min-width:360px;scroll-behavior:smooth}#navneetsharma-blog{display:flex;flex-direction:column;min-height:100vh}.sticky-nav{-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);position:sticky;top:0;transition:background-color .1s ease-in-out;z-index:10}.skip-nav{--tw-translate-y:-3rem;left:25%;padding:.5rem 1rem;position:absolute;top:-2rem;transform:var(--tw-transform);transition-duration:.15s;transition-duration:.2s;transition-property:transform;transition-timing-function:cubic-bezier(.4,0,.2,1)}.skip-nav:focus{--tw-translate-y:0.75rem;top:1rem;transform:var(--tw-transform)}main{min-height:calc(100vh - 104px)}@supports not ((-webkit-backdrop-filter:none) or (backdrop-filter:none)){.sticky-nav{--tw-bg-opacity:1;-webkit-backdrop-filter:none;backdrop-filter:none}}@supports ((-webkit-backdrop-filter:none) or (backdrop-filter:none)){.sticky-nav{-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}}.anchor,.anchor:hover{text-decoration:none;visibility:visible}.prose a{--tw-text-opacity:1;color:rgba(37,99,235,var(--tw-text-opacity));font-weight:600;text-decoration:underline}.prose .anchor:after{--tw-text-opacity:1;color:rgba(75,85,99,var(--tw-text-opacity))}.dark .prose .anchor:after{--tw-text-opacity:1;color:rgba(209,213,219,var(--tw-text-opacity))}.prose .anchor,.prose :hover>.anchor{text-decoration:none;visibility:visible}.prose .anchor{--tw-text-opacity:1;color:rgba(55,65,81,var(--tw-text-opacity))}.dark .prose .anchor{--tw-text-opacity:1;color:rgba(107,114,128,var(--tw-text-opacity))}.prose pre{background-color:rgba(249,250,251,var(--tw-bg-opacity));border-color:rgba(229,231,235,var(--tw-border-opacity));border-width:1px}.dark .prose pre,.prose pre{--tw-border-opacity:1;--tw-bg-opacity:1}.dark .prose pre{background-color:rgba(17,24,39,var(--tw-bg-opacity));border-color:rgba(55,65,81,var(--tw-border-opacity))}.prose code{background-color:rgba(243,244,246,var(--tw-bg-opacity));border-color:rgba(243,244,246,var(--tw-border-opacity));border-radius:.375rem;border-width:1px;color:rgba(31,41,55,var(--tw-text-opacity));padding:.125rem .25rem}.dark .prose code,.prose code{--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1}.dark .prose code{background-color:rgba(17,24,39,var(--tw-bg-opacity));border-color:rgba(31,41,55,var(--tw-border-opacity));color:rgba(229,231,235,var(--tw-text-opacity))}.prose img{margin:0}.prose>:first-child{margin-bottom:1.25em!important;margin-top:1.25em!important}.token.cdata,.token.comment,.token.doctype,.token.prolog{--tw-text-opacity:1;color:rgba(55,65,81,var(--tw-text-opacity))}.dark .token.cdata,.dark .token.comment,.dark .token.doctype,.dark .token.prolog{--tw-text-opacity:1;color:rgba(209,213,219,var(--tw-text-opacity))}.token.punctuation{--tw-text-opacity:1;color:rgba(55,65,81,var(--tw-text-opacity))}.dark .token.punctuation{--tw-text-opacity:1;color:rgba(209,213,219,var(--tw-text-opacity))}.token.boolean,.token.constant,.token.deleted,.token.number,.token.property,.token.symbol,.token.tag{--tw-text-opacity:1;color:rgba(16,185,129,var(--tw-text-opacity))}.token.attr-name,.token.builtin,.token.char,.token.inserted,.token.selector,.token.string{--tw-text-opacity:1;color:rgba(139,92,246,var(--tw-text-opacity))}.language-css .token.string,.style .token.string,.token.entity,.token.operator,.token.url{--tw-text-opacity:1;color:rgba(245,158,11,var(--tw-text-opacity))}.token.atrule,.token.attr-value,.token.keyword{--tw-text-opacity:1;color:rgba(59,130,246,var(--tw-text-opacity))}.token.class-name,.token.function{--tw-text-opacity:1;color:rgba(236,72,153,var(--tw-text-opacity))}.token.important,.token.regex,.token.variable{--tw-text-opacity:1;color:rgba(245,158,11,var(--tw-text-opacity))}code[class*=language-],pre[class*=language-]{--tw-text-opacity:1;color:rgba(31,41,55,var(--tw-text-opacity))}.dark code[class*=language-],.dark pre[class*=language-]{--tw-text-opacity:1;color:rgba(249,250,251,var(--tw-text-opacity))}pre::-webkit-scrollbar{display:none}pre{-ms-overflow-style:none;scrollbar-width:none}.rehype-code-title{--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgba(229,231,235,var(--tw-bg-opacity));border-color:rgba(229,231,235,var(--tw-border-opacity));border-top-left-radius:.25rem;border-top-right-radius:.25rem;border-width:1px 1px 0;color:rgba(31,41,55,var(--tw-text-opacity));font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-size:.875rem;font-weight:700;line-height:1.25rem;padding:.75rem 1.25rem}.dark .rehype-code-title{--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgba(31,41,55,var(--tw-bg-opacity));border-color:rgba(55,65,81,var(--tw-border-opacity));color:rgba(229,231,235,var(--tw-text-opacity))}.rehype-code-title+pre{border-top-left-radius:0;border-top-right-radius:0;margin-top:0}.highlight-line{--tw-border-opacity:1;--tw-bg-opacity:1;background-color:rgba(243,244,246,var(--tw-bg-opacity));border-color:rgba(59,130,246,var(--tw-border-opacity));border-left-width:4px;display:block;margin-left:-1rem;margin-right:-1rem;padding-left:1rem;padding-right:1rem}.dark .highlight-line{--tw-bg-opacity:1;background-color:rgba(31,41,55,var(--tw-bg-opacity))}input[type=email],input[type=text]{-webkit-appearance:none;-moz-appearance:none;appearance:none}.metric-card>a{text-decoration:none}.metric-card>p{margin-bottom:.5rem;margin-top:.5rem}.step>h3{margin-bottom:0;margin-top:0}.prose .tweet a{font-weight:inherit;text-decoration:inherit}table{display:table;overflow-y:scroll}.sticky-theme-mode-button{position:absolute;right:10px;top:10px}iframe{height:35rem;width:100%}.nav-active-route{--tw-border-opacity:1;border-bottom-width:2px;border-color:rgba(31,41,55,var(--tw-border-opacity));font-weight:600}.dark .nav-active-route{--tw-border-opacity:1;border-color:rgba(243,244,246,var(--tw-border-opacity))}.nav-active-route{transition:border .5s ease-in-out}.nav-inactive-route{--tw-border-opacity:1;--tw-border-opacity:0;border-bottom-width:2px;border-color:rgba(255,251,235,var(--tw-border-opacity))}.dark .nav-inactive-route{--tw-border-opacity:1;border-color:rgba(0,0,0,var(--tw-border-opacity))}.nav-link-divider{align-items:center;display:flex;height:1rem;justify-content:center;padding-left:.5rem;padding-right:.5rem;width:1rem}.bread-crumb-active{--tw-text-opacity:1;color:rgba(31,41,55,var(--tw-text-opacity))}.dark .bread-crumb-active{--tw-text-opacity:1;color:rgba(107,114,128,var(--tw-text-opacity))}.autocomplete-suggestion-header{--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgba(255,251,235,var(--tw-bg-opacity));color:rgba(37,99,235,var(--tw-text-opacity));display:inline-block;font-size:.75rem;font-weight:600;line-height:1rem;margin:0;padding-right:.5rem;position:relative;z-index:50;z-index:9999}.blog-post-layout-container{align-items:flex-start;display:flex;flex-direction:column;justify-content:center;margin-bottom:4rem;margin-left:auto;margin-right:auto;max-width:42rem;position:relative;width:100%;z-index:1}.blog-post-layout-container .blog-post-layout-background-container{height:100%;left:0;min-height:100%;min-width:100%;position:absolute;top:0;width:100%;z-index:-1}.blog-post-layout-container .blog-post-layout-background-container .blog-post-layout-background{--tw-border-opacity:1;align-items:flex-start;border-color:rgba(249,250,251,var(--tw-border-opacity));border-left-width:1px;display:flex;flex-direction:row;height:100%;justify-content:flex-start;min-height:100%;min-width:100%;z-index:0}.blog-post-layout-container\n	.blog-post-layout-background-container\n	.blog-post-layout-background\n	.blog-post-layout-background-line{--tw-border-opacity:1;border-color:rgba(249,250,251,var(--tw-border-opacity));border-right-width:1px;height:100%;min-height:100%;width:20%}.blog-post-image-container{-webkit-backface-visibility:hidden;backface-visibility:hidden;border-radius:.25rem;box-shadow:0 0 15px rgb(0 0 0/15%);margin:0;max-height:12rem;overflow:hidden;padding:0;text-decoration:none;transform:var(--tw-transform);transition-duration:.15s;transition-duration:.2s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1);width:100%}@media (min-width:768px){.blog-post-image-container{max-height:24rem}}.blog-post-image{-webkit-backface-visibility:hidden;backface-visibility:hidden;border-radius:.25rem;transform:var(--tw-transform);transition-duration:.15s;transition-duration:.2s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1)}.banner-image-container-tag-button{--tw-bg-opacity:1;--tw-text-opacity:1;--tw-shadow:0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px 0 rgba(0,0,0,0.06);align-items:center;background-color:rgba(255,251,235,var(--tw-bg-opacity));border-radius:.25rem;border-width:0;box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);color:rgba(31,41,55,var(--tw-text-opacity));cursor:pointer;display:flex;flex-direction:row;font-size:.75rem;font-weight:600;justify-content:center;line-height:1rem;margin-left:.375rem;opacity:1;padding:.375rem .625rem;text-decoration:none;transform:var(--tw-transform);transition-duration:.15s;transition-property:opacity;transition-timing-function:cubic-bezier(.4,0,.2,1);white-space:nowrap}.banner-image-container-tag-button:hover{--tw-shadow:0 20px 25px -5px rgba(0,0,0,0.1),0 10px 10px -5px rgba(0,0,0,0.04);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.banner-image-container-tag-button:first-child{margin-left:0}.banner-image-container-tag-button-indicator-blue:before{background-color:rgba(59,130,246,var(--tw-bg-opacity))}.banner-image-container-tag-button-indicator-blue:before,.banner-image-container-tag-button-indicator-red:before{--tw-bg-opacity:1;border-radius:9999px;content:"";display:inline-block;height:.75rem;margin-right:.5rem;transform:var(--tw-transform);transition-duration:.15s;transition-duration:.2s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1);width:.75rem}.banner-image-container-tag-button-indicator-red:before{background-color:rgba(239,68,68,var(--tw-bg-opacity))}@-webkit-keyframes f{0%{opacity:0;transform:translateY(-1000px)}to{opacity:1;transform:translateY(0)}}@keyframes f{0%{opacity:0;transform:translateY(-1000px)}to{opacity:1;transform:translateY(0)}}@-webkit-keyframes g{0%{opacity:1;transform:translateY(0)}to{opacity:0;transform:translateY(-1000px)}}@keyframes g{0%{opacity:1;transform:translateY(0)}to{opacity:0;transform:translateY(-1000px)}}.alert-banner{-webkit-animation:f .5s cubic-bezier(.25,.46,.45,.94) both;animation:f .5s cubic-bezier(.25,.46,.45,.94) both}.alert-banner input:checked~*{-webkit-animation:g .5s cubic-bezier(.55,.085,.68,.53) both;animation:g .5s cubic-bezier(.55,.085,.68,.53) both}.hover\\:border-2:hover{border-width:2px}.hover\\:border-b-2:hover{border-bottom-width:2px}.hover\\:border-gray-800:hover{--tw-border-opacity:1;border-color:rgba(31,41,55,var(--tw-border-opacity))}.hover\\:border-gray-500:hover{--tw-border-opacity:1;border-color:rgba(107,114,128,var(--tw-border-opacity))}.hover\\:text-blue-700:hover{--tw-text-opacity:1;color:rgba(29,78,216,var(--tw-text-opacity))}.hover\\:text-blue-900:hover{--tw-text-opacity:1;color:rgba(30,58,138,var(--tw-text-opacity))}.hover\\:text-gray-900:hover{--tw-text-opacity:1;color:rgba(17,24,39,var(--tw-text-opacity))}.hover\\:text-gray-600:hover{--tw-text-opacity:1;color:rgba(75,85,99,var(--tw-text-opacity))}.hover\\:text-gray-800:hover{--tw-text-opacity:1;color:rgba(31,41,55,var(--tw-text-opacity))}.hover\\:shadow:hover{--tw-shadow:0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px 0 rgba(0,0,0,0.06)}.hover\\:shadow-md:hover,.hover\\:shadow:hover{box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.hover\\:shadow-md:hover{--tw-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06)}.hover\\:transition-shadow:hover{transition-duration:.15s;transition-property:box-shadow;transition-timing-function:cubic-bezier(.4,0,.2,1)}.focus\\:border-blue-500:focus{--tw-border-opacity:1;border-color:rgba(59,130,246,var(--tw-border-opacity))}.focus\\:ring-blue-500:focus{--tw-ring-opacity:1;--tw-ring-color:rgba(59,130,246,var(--tw-ring-opacity))}.dark .dark\\:prose-dark{color:#d1d5db}.dark .dark\\:prose-dark a{color:#60a5fa}.dark .dark\\:prose-dark a:hover{color:#2563eb}.dark .dark\\:prose-dark a code{color:#60a5fa}.dark .dark\\:prose-dark blockquote{border-left-color:#374151;color:#d1d5db}.dark .dark\\:prose-dark h2,.dark .dark\\:prose-dark h3,.dark .dark\\:prose-dark h4{color:#f3f4f6;scroll-margin-top:8rem}.dark .dark\\:prose-dark hr{border-color:#374151}.dark .dark\\:prose-dark ol li:before{color:#6b7280}.dark .dark\\:prose-dark ul li:before{background-color:#6b7280}.dark .dark\\:prose-dark strong{color:#d1d5db}.dark .dark\\:prose-dark thead{color:#f3f4f6}.dark .dark\\:prose-dark tbody tr{border-bottom-color:#374151}.dark .dark\\:border-gray-900{--tw-border-opacity:1;border-color:rgba(17,24,39,var(--tw-border-opacity))}.dark .dark\\:border-gray-800{--tw-border-opacity:1;border-color:rgba(31,41,55,var(--tw-border-opacity))}.dark .dark\\:border-green-900{--tw-border-opacity:1;border-color:rgba(6,78,59,var(--tw-border-opacity))}.dark .dark\\:bg-black{--tw-bg-opacity:1;background-color:rgba(0,0,0,var(--tw-bg-opacity))}.dark .dark\\:bg-gray-800{--tw-bg-opacity:1;background-color:rgba(31,41,55,var(--tw-bg-opacity))}.dark .dark\\:bg-green-900{--tw-bg-opacity:1;background-color:rgba(6,78,59,var(--tw-bg-opacity))}.dark .dark\\:text-white{--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))}.dark .dark\\:text-gray-400{--tw-text-opacity:1;color:rgba(156,163,175,var(--tw-text-opacity))}.dark .dark\\:text-gray-50{--tw-text-opacity:1;color:rgba(249,250,251,var(--tw-text-opacity))}.dark .dark\\:text-gray-100{--tw-text-opacity:1;color:rgba(243,244,246,var(--tw-text-opacity))}.dark .dark\\:text-gray-300{--tw-text-opacity:1;color:rgba(209,213,219,var(--tw-text-opacity))}.dark .dark\\:text-gray-200{--tw-text-opacity:1;color:rgba(229,231,235,var(--tw-text-opacity))}.dark .dark\\:text-red-400{--tw-text-opacity:1;color:rgba(248,113,113,var(--tw-text-opacity))}.dark .dark\\:text-green-400{--tw-text-opacity:1;color:rgba(52,211,153,var(--tw-text-opacity))}.dark .dark\\:shadow-dark{--tw-shadow:0 1px 3px 0 hsla(0,2%,84%,0.1),0 1px 2px 0 hsla(0,2%,84%,0.06);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.dark .dark\\:hover\\:border-gray-100:hover{--tw-border-opacity:1;border-color:rgba(243,244,246,var(--tw-border-opacity))}.dark .dark\\:hover\\:border-gray-300:hover{--tw-border-opacity:1;border-color:rgba(209,213,219,var(--tw-border-opacity))}.dark .dark\\:hover\\:text-blue-500:hover{--tw-text-opacity:1;color:rgba(59,130,246,var(--tw-text-opacity))}.dark .dark\\:hover\\:text-gray-500:hover{--tw-text-opacity:1;color:rgba(107,114,128,var(--tw-text-opacity))}.dark .dark\\:hover\\:shadow-dark:hover{--tw-shadow:0 1px 3px 0 hsla(0,2%,84%,0.1),0 1px 2px 0 hsla(0,2%,84%,0.06)}.dark .dark\\:hover\\:shadow-dark-lg:hover,.dark .dark\\:hover\\:shadow-dark:hover{box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.dark .dark\\:hover\\:shadow-dark-lg:hover{--tw-shadow:0 10px 15px -3px hsla(0,2%,84%,0.1),0 4px 6px -2px hsla(0,2%,84%,0.05)}.dark .dark\\:hover\\:transition-shadow:hover{transition-duration:.15s;transition-property:box-shadow;transition-timing-function:cubic-bezier(.4,0,.2,1)}@media (min-width:640px){.sm\\:mt-0{margin-top:0}.sm\\:block{display:block}.sm\\:w-96{width:24rem}.sm\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.sm\\:grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.sm\\:flex-row{flex-direction:row}.sm\\:space-x-2>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(.5rem*var(--tw-space-x-reverse))}.sm\\:p-3\\.5{padding:.875rem}.sm\\:p-3{padding:.75rem}}@media (min-width:768px){.md\\:container{width:100%}@media (min-width:640px){.md\\:container{max-width:640px}}@media (min-width:768px){.md\\:container{max-width:768px}}@media (min-width:1024px){.md\\:container{max-width:1024px}}@media (min-width:1280px){.md\\:container{max-width:1280px}}@media (min-width:1536px){.md\\:container{max-width:1536px}}.md\\:mx-auto{margin-left:auto;margin-right:auto}.md\\:mt-0{margin-top:0}.md\\:mb-0{margin-bottom:0}.md\\:h-14{height:3.5rem}.md\\:w-full{width:100%}.md\\:flex-row{flex-direction:row}.md\\:items-center{align-items:center}.md\\:text-right{text-align:right}.md\\:text-4xl{font-size:2.25rem;line-height:2.5rem}.md\\:text-5xl{font-size:3rem;line-height:1}.md\\:text-xl{font-size:1.25rem;line-height:1.75rem}}';
+var tailwind = '/*! tailwindcss v2.2.7 | MIT License | https://tailwindcss.com*//*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */html{-webkit-text-size-adjust:100%;line-height:1.15;-moz-tab-size:4;-o-tab-size:4;tab-size:4}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;margin:0}hr{color:inherit;height:0}abbr[title]{-webkit-text-decoration:underline dotted;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-color:inherit;text-indent:0}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button}::-moz-focus-inner{border-style:none;padding:0}:-moz-focusring{outline:1px dotted ButtonText}:-moz-ui-invalid{box-shadow:none}legend{padding:0}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}button{background-color:transparent;background-image:none}fieldset,ol,ul{margin:0;padding:0}ol,ul{list-style:none}html{font-family:Raleway,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}body{font-family:inherit;line-height:inherit}*,:after,:before{border:0 solid;box-sizing:border-box}hr{border-top-width:1px}img{border-style:solid}textarea{resize:vertical}input::-moz-placeholder,textarea::-moz-placeholder{color:#9ca3af;opacity:1}input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#9ca3af;opacity:1}input::placeholder,textarea::placeholder{color:#9ca3af;opacity:1}[role=button],button{cursor:pointer}table{border-collapse:collapse}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}button,input,optgroup,select,textarea{color:inherit;line-height:inherit;padding:0}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{height:auto;max-width:100%}[hidden]{display:none}*,:after,:before{--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-transform:translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));--tw-border-opacity:1;--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-blur:var(--tw-empty,/*!*/ /*!*/);--tw-brightness:var(--tw-empty,/*!*/ /*!*/);--tw-contrast:var(--tw-empty,/*!*/ /*!*/);--tw-grayscale:var(--tw-empty,/*!*/ /*!*/);--tw-hue-rotate:var(--tw-empty,/*!*/ /*!*/);--tw-invert:var(--tw-empty,/*!*/ /*!*/);--tw-saturate:var(--tw-empty,/*!*/ /*!*/);--tw-sepia:var(--tw-empty,/*!*/ /*!*/);--tw-drop-shadow:var(--tw-empty,/*!*/ /*!*/);--tw-filter:var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);border-color:rgba(229,231,235,var(--tw-border-opacity))}.container{width:100%}@media (min-width:640px){.container{max-width:640px}}@media (min-width:768px){.container{max-width:768px}}@media (min-width:1024px){.container{max-width:1024px}}@media (min-width:1280px){.container{max-width:1280px}}@media (min-width:1536px){.container{max-width:1536px}}.prose{color:#374151;max-width:65ch}.prose [class~=lead]{color:#4b5563;font-size:1.25em;line-height:1.6;margin-bottom:1.2em;margin-top:1.2em}.prose a{color:#3b82f6;font-weight:500;text-decoration:underline}.prose a:hover{color:#1d4ed8}.prose a code{color:#60a5fa}.prose strong{color:#111827;font-weight:600}.prose ol[type=A]{--list-counter-style:upper-alpha}.prose ol[type=a]{--list-counter-style:lower-alpha}.prose ol[type=A s]{--list-counter-style:upper-alpha}.prose ol[type=a s]{--list-counter-style:lower-alpha}.prose ol[type=I]{--list-counter-style:upper-roman}.prose ol[type=i]{--list-counter-style:lower-roman}.prose ol[type=I s]{--list-counter-style:upper-roman}.prose ol[type=i s]{--list-counter-style:lower-roman}.prose ol[type="1"]{--list-counter-style:decimal}.prose ol>li{padding-left:1.75em;position:relative}.prose ol>li:before{color:#6b7280;content:counter(list-item,var(--list-counter-style,decimal)) ".";font-weight:400;left:0;position:absolute}.prose ul>li{padding-left:1.75em;position:relative}.prose ul>li:before{background-color:#d1d5db;border-radius:50%;content:"";height:.375em;left:.25em;position:absolute;top:.6875em;width:.375em}.prose hr{border-color:#e5e7eb;border-top-width:1px;margin-bottom:3em;margin-top:3em}.prose blockquote{border-left-color:#e5e7eb;border-left-width:.25rem;color:#111827;font-style:italic;font-weight:500;margin-bottom:1.6em;margin-top:1.6em;padding-left:1em;quotes:"\\201C""\\201D""\\2018""\\2019"}.prose h1{color:#111827;font-size:2.25em;font-weight:800;line-height:1.1111111;margin-bottom:.8888889em;margin-top:0}.prose h2{color:#111827;font-size:1.5em;font-weight:700;line-height:1.3333333;margin-bottom:1em;margin-top:2em}.prose h3{color:#111827;font-size:1.25em;font-weight:600;line-height:1.6;margin-bottom:.6em;margin-top:1.6em}.prose h4{color:#111827;font-weight:600;line-height:1.5;margin-bottom:.5em;margin-top:1.5em}.prose figure figcaption{color:#6b7280;font-size:.875em;line-height:1.4285714;margin-top:.8571429em}.prose code{color:#ec4899;font-size:.875em;font-weight:600}.prose code:after,.prose code:before{content:"`"}.prose a code{color:#111827}.prose pre{background-color:#1f2937;border-radius:.375rem;color:#e5e7eb;font-size:.875em;line-height:1.7142857;margin-bottom:1.7142857em;margin-top:1.7142857em;overflow-x:auto;padding:.8571429em 1.1428571em}.prose pre code{background-color:transparent;border-radius:0;border-width:0;color:inherit;font-family:inherit;font-size:inherit;font-weight:400;line-height:inherit;padding:0}.prose pre code:after,.prose pre code:before{content:none}.prose table{font-size:.875em;line-height:1.7142857;margin-bottom:2em;margin-top:2em;table-layout:auto;text-align:left;width:100%}.prose thead{border-bottom-color:#d1d5db;border-bottom-width:1px;color:#111827;font-weight:600}.prose thead th{padding-bottom:.5714286em;padding-left:.5714286em;padding-right:.5714286em;vertical-align:bottom}.prose tbody tr{border-bottom-color:#e5e7eb;border-bottom-width:1px}.prose tbody tr:last-child{border-bottom-width:0}.prose tbody td{padding:.5714286em;vertical-align:top}.prose{font-size:1rem;line-height:1.75}.prose p{margin-bottom:1.25em;margin-top:1.25em}.prose figure,.prose img,.prose video{margin-bottom:2em;margin-top:2em}.prose figure>*{margin-bottom:0;margin-top:0}.prose h2 code{font-size:.875em}.prose h3 code{font-size:.9em}.prose ol,.prose ul{margin-bottom:1.25em;margin-top:1.25em}.prose li{margin-bottom:.5em;margin-top:.5em}.prose>ul>li p{margin-bottom:.75em;margin-top:.75em}.prose>ul>li>:first-child{margin-top:1.25em}.prose>ul>li>:last-child{margin-bottom:1.25em}.prose>ol>li>:first-child{margin-top:1.25em}.prose>ol>li>:last-child{margin-bottom:1.25em}.prose ol ol,.prose ol ul,.prose ul ol,.prose ul ul{margin-bottom:.75em;margin-top:.75em}.prose h2+*,.prose h3+*,.prose h4+*,.prose hr+*{margin-top:0}.prose thead th:first-child{padding-left:0}.prose thead th:last-child{padding-right:0}.prose tbody td:first-child{padding-left:0}.prose tbody td:last-child{padding-right:0}.prose>:first-child{margin-top:0}.prose>:last-child{margin-bottom:0}.prose h2,.prose h3,.prose h4{scroll-margin-top:8rem}.static{position:static}.absolute{position:absolute}.relative{position:relative}.right-3{right:.75rem}.top-3{top:.75rem}.z-10{z-index:10}.mx-auto{margin-left:auto;margin-right:auto}.my-2{margin-bottom:.5rem;margin-top:.5rem}.mx-2{margin-left:.5rem;margin-right:.5rem}.my-4{margin-bottom:1rem;margin-top:1rem}.mx-3{margin-left:.75rem;margin-right:.75rem}.mb-16{margin-bottom:4rem}.mb-4{margin-bottom:1rem}.mt-8{margin-top:2rem}.mb-8{margin-bottom:2rem}.mt-4{margin-top:1rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-16{margin-top:4rem}.mt-2{margin-top:.5rem}.mb-2{margin-bottom:.5rem}.ml-auto{margin-left:auto}.mt-1{margin-top:.25rem}.mr-4{margin-right:1rem}.mb-5{margin-bottom:1.25rem}.mt-5{margin-top:1.25rem}.mb-10{margin-bottom:2.5rem}.mr-3{margin-right:.75rem}.ml-1{margin-left:.25rem}.block{display:block}.flex{display:flex}.inline-flex{display:inline-flex}.grid{display:grid}.hidden{display:none}.h-5{height:1.25rem}.h-7{height:1.75rem}.h-4{height:1rem}.h-14{height:3.5rem}.h-12{height:3rem}.h-10{height:2.5rem}.h-8{height:2rem}.h-3{height:.75rem}.w-full{width:100%}.w-5{width:1.25rem}.w-7{width:1.75rem}.w-32{width:8rem}.w-4{width:1rem}.w-14{width:3.5rem}.w-auto{width:auto}.w-8{width:2rem}.w-3{width:.75rem}.w-1\\/2{width:50%}.w-60{width:15rem}.max-w-2xl{max-width:42rem}.max-w-5xl{max-width:64rem}.max-w-6xl{max-width:72rem}.max-w-none{max-width:none}.max-w-full{max-width:100%}.max-w-max{max-width:-webkit-max-content;max-width:-moz-max-content;max-width:max-content}.max-w-4xl{max-width:56rem}.max-w-3xl{max-width:48rem}.flex-shrink-0{flex-shrink:0}.transform{transform:var(--tw-transform)}@-webkit-keyframes e{to{transform:rotate(1turn)}}@keyframes e{to{transform:rotate(1turn)}}.animate-spin{-webkit-animation:e 1s linear infinite;animation:e 1s linear infinite}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}.flex-row{flex-direction:row}.flex-row-reverse{flex-direction:row-reverse}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-start{align-items:flex-start}.items-center{align-items:center}.items-baseline{align-items:baseline}.justify-start{justify-content:flex-start}.justify-end{justify-content:flex-end}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.gap-4{gap:1rem}.space-x-0>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(0px*(1 - var(--tw-space-x-reverse)));margin-right:calc(0px*var(--tw-space-x-reverse))}.space-y-4>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-bottom:calc(1rem*var(--tw-space-y-reverse));margin-top:calc(1rem*(1 - var(--tw-space-y-reverse)))}.space-x-2>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(.5rem*var(--tw-space-x-reverse))}.truncate{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.rounded-md{border-radius:.375rem}.rounded-full{border-radius:9999px}.rounded{border-radius:.25rem}.border{border-width:1px}.border-b{border-bottom-width:1px}.border-gray-300{--tw-border-opacity:1;border-color:rgba(209,213,219,var(--tw-border-opacity))}.border-gray-100{--tw-border-opacity:1;border-color:rgba(243,244,246,var(--tw-border-opacity))}.border-gray-200{--tw-border-opacity:1;border-color:rgba(229,231,235,var(--tw-border-opacity))}.border-green-200{--tw-border-opacity:1;border-color:rgba(167,243,208,var(--tw-border-opacity))}.bg-yellow-50{--tw-bg-opacity:1;background-color:rgba(255,251,235,var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgba(255,255,255,var(--tw-bg-opacity))}.bg-green-50{--tw-bg-opacity:1;background-color:rgba(236,253,245,var(--tw-bg-opacity))}.bg-opacity-60{--tw-bg-opacity:0.6}.p-5{padding:1.25rem}.p-4{padding:1rem}.p-6{padding:1.5rem}.p-1{padding:.25rem}.p-1\\.5{padding:.375rem}.px-8{padding-left:2rem;padding-right:2rem}.px-4{padding-left:1rem;padding-right:1rem}.py-2{padding-bottom:.5rem;padding-top:.5rem}.pt-4{padding-top:1rem}.pb-5{padding-bottom:1.25rem}.pb-16{padding-bottom:4rem}.pt-2{padding-top:.5rem}.pb-2{padding-bottom:.5rem}.pl-3{padding-left:.75rem}.text-left{text-align:left}.text-2xl{font-size:1.5rem;line-height:2rem}.text-3xl{font-size:1.875rem;line-height:2.25rem}.text-xl{font-size:1.25rem;line-height:1.75rem}.text-xs{font-size:.75rem;line-height:1rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-lg{font-size:1.125rem;line-height:1.75rem}.text-4xl{font-size:2.25rem;line-height:2.5rem}.font-bold{font-weight:700}.font-medium{font-weight:500}.leading-6{line-height:1.5rem}.leading-5{line-height:1.25rem}.tracking-tight{letter-spacing:-.025em}.text-black{--tw-text-opacity:1;color:rgba(0,0,0,var(--tw-text-opacity))}.text-white{--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))}.text-gray-600{--tw-text-opacity:1;color:rgba(75,85,99,var(--tw-text-opacity))}.text-blue-500{--tw-text-opacity:1;color:rgba(59,130,246,var(--tw-text-opacity))}.text-gray-900{--tw-text-opacity:1;color:rgba(17,24,39,var(--tw-text-opacity))}.text-gray-400{--tw-text-opacity:1;color:rgba(156,163,175,var(--tw-text-opacity))}.text-gray-500{--tw-text-opacity:1;color:rgba(107,114,128,var(--tw-text-opacity))}.text-gray-700{--tw-text-opacity:1;color:rgba(55,65,81,var(--tw-text-opacity))}.text-gray-800{--tw-text-opacity:1;color:rgba(31,41,55,var(--tw-text-opacity))}.text-red-800{--tw-text-opacity:1;color:rgba(153,27,27,var(--tw-text-opacity))}.text-green-500{--tw-text-opacity:1;color:rgba(16,185,129,var(--tw-text-opacity))}.text-green-700{--tw-text-opacity:1;color:rgba(4,120,87,var(--tw-text-opacity))}.opacity-25{opacity:.25}.opacity-75{opacity:.75}.shadow{--tw-shadow:0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px 0 rgba(0,0,0,0.06);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.blur{--tw-blur:blur(8px)}.blur,.drop-shadow{filter:var(--tw-filter)}.drop-shadow{--tw-drop-shadow:drop-shadow(0 1px 2px rgba(0,0,0,0.1)) drop-shadow(0 1px 1px rgba(0,0,0,0.06))}.drop-shadow-xl{--tw-drop-shadow:drop-shadow(0 20px 13px rgba(0,0,0,0.03)) drop-shadow(0 8px 5px rgba(0,0,0,0.08))}.drop-shadow-xl,.filter{filter:var(--tw-filter)}.transition{transition-duration:.15s;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-backdrop-filter;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1)}@font-face{font-display:swap;font-family:Raleway;font-style:normal;font-weight:400;src:url(/fonts/Raleway-400-normal.woff2) format("woff2")}@font-face{font-display:swap;font-family:Raleway;font-style:normal;font-weight:500;src:url(/fonts/Raleway-500-normal.woff2) format("woff2")}@font-face{font-display:swap;font-family:Raleway;font-style:normal;font-weight:600;src:url(/fonts/Raleway-600-normal.woff2) format("woff2")}@font-face{font-display:swap;font-family:Raleway;font-style:normal;font-weight:700;src:url(/fonts/Raleway-700-normal.woff2) format("woff2")}::-moz-selection{background-color:#80b9d3;color:#fefefe}::selection{background-color:#80b9d3;color:#fefefe}::-webkit-scrollbar-track{background-color:#666;border-radius:4px;box-shadow:inset 0 0 6px rgba(0,0,0,.3)}::-webkit-scrollbar{background-color:#666;width:6px}::-webkit-scrollbar-thumb{background-color:#3b3838;border-radius:4px;box-shadow:inset 0 0 6px rgba(0,0,0,.3)}html{min-width:360px;scroll-behavior:smooth}#navneetsharma-blog{display:flex;flex-direction:column;min-height:100vh}.sticky-nav{-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);position:sticky;top:0;transition:background-color .1s ease-in-out;z-index:10}.skip-nav{--tw-translate-y:-3rem;left:25%;padding:.5rem 1rem;position:absolute;top:-2rem;transform:var(--tw-transform);transition-duration:.15s;transition-duration:.2s;transition-property:transform;transition-timing-function:cubic-bezier(.4,0,.2,1)}.skip-nav:focus{--tw-translate-y:0.75rem;top:1rem;transform:var(--tw-transform)}main{min-height:calc(100vh - 104px)}@supports not ((-webkit-backdrop-filter:none) or (backdrop-filter:none)){.sticky-nav{--tw-bg-opacity:1;-webkit-backdrop-filter:none;backdrop-filter:none}}@supports ((-webkit-backdrop-filter:none) or (backdrop-filter:none)){.sticky-nav{-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}}.anchor,.anchor:hover{text-decoration:none;visibility:visible}.prose a{--tw-text-opacity:1;color:rgba(37,99,235,var(--tw-text-opacity));font-weight:600;text-decoration:underline}.prose .anchor:after{--tw-text-opacity:1;color:rgba(75,85,99,var(--tw-text-opacity))}.dark .prose .anchor:after{--tw-text-opacity:1;color:rgba(209,213,219,var(--tw-text-opacity))}.prose .anchor,.prose :hover>.anchor{text-decoration:none;visibility:visible}.prose .anchor{--tw-text-opacity:1;color:rgba(55,65,81,var(--tw-text-opacity))}.dark .prose .anchor{--tw-text-opacity:1;color:rgba(107,114,128,var(--tw-text-opacity))}.prose pre{background-color:rgba(249,250,251,var(--tw-bg-opacity));border-color:rgba(229,231,235,var(--tw-border-opacity));border-width:1px}.dark .prose pre,.prose pre{--tw-border-opacity:1;--tw-bg-opacity:1}.dark .prose pre{background-color:rgba(17,24,39,var(--tw-bg-opacity));border-color:rgba(55,65,81,var(--tw-border-opacity))}.prose code{background-color:rgba(243,244,246,var(--tw-bg-opacity));border-color:rgba(243,244,246,var(--tw-border-opacity));border-radius:.375rem;border-width:1px;color:rgba(31,41,55,var(--tw-text-opacity));padding:.125rem .25rem}.dark .prose code,.prose code{--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1}.dark .prose code{background-color:rgba(17,24,39,var(--tw-bg-opacity));border-color:rgba(31,41,55,var(--tw-border-opacity));color:rgba(229,231,235,var(--tw-text-opacity))}.prose img{margin:0}.prose>:first-child{margin-bottom:1.25em!important;margin-top:1.25em!important}.token.cdata,.token.comment,.token.doctype,.token.prolog{--tw-text-opacity:1;color:rgba(55,65,81,var(--tw-text-opacity))}.dark .token.cdata,.dark .token.comment,.dark .token.doctype,.dark .token.prolog{--tw-text-opacity:1;color:rgba(209,213,219,var(--tw-text-opacity))}.token.punctuation{--tw-text-opacity:1;color:rgba(55,65,81,var(--tw-text-opacity))}.dark .token.punctuation{--tw-text-opacity:1;color:rgba(209,213,219,var(--tw-text-opacity))}.token.boolean,.token.constant,.token.deleted,.token.number,.token.property,.token.symbol,.token.tag{--tw-text-opacity:1;color:rgba(16,185,129,var(--tw-text-opacity))}.token.attr-name,.token.builtin,.token.char,.token.inserted,.token.selector,.token.string{--tw-text-opacity:1;color:rgba(139,92,246,var(--tw-text-opacity))}.language-css .token.string,.style .token.string,.token.entity,.token.operator,.token.url{--tw-text-opacity:1;color:rgba(245,158,11,var(--tw-text-opacity))}.token.atrule,.token.attr-value,.token.keyword{--tw-text-opacity:1;color:rgba(59,130,246,var(--tw-text-opacity))}.token.class-name,.token.function{--tw-text-opacity:1;color:rgba(236,72,153,var(--tw-text-opacity))}.token.important,.token.regex,.token.variable{--tw-text-opacity:1;color:rgba(245,158,11,var(--tw-text-opacity))}code[class*=language-],pre[class*=language-]{--tw-text-opacity:1;color:rgba(31,41,55,var(--tw-text-opacity))}.dark code[class*=language-],.dark pre[class*=language-]{--tw-text-opacity:1;color:rgba(249,250,251,var(--tw-text-opacity))}pre::-webkit-scrollbar{display:none}pre{-ms-overflow-style:none;scrollbar-width:none}.rehype-code-title{--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgba(229,231,235,var(--tw-bg-opacity));border-color:rgba(229,231,235,var(--tw-border-opacity));border-top-left-radius:.25rem;border-top-right-radius:.25rem;border-width:1px 1px 0;color:rgba(31,41,55,var(--tw-text-opacity));font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-size:.875rem;font-weight:700;line-height:1.25rem;padding:.75rem 1.25rem}.dark .rehype-code-title{--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgba(31,41,55,var(--tw-bg-opacity));border-color:rgba(55,65,81,var(--tw-border-opacity));color:rgba(229,231,235,var(--tw-text-opacity))}.rehype-code-title+pre{border-top-left-radius:0;border-top-right-radius:0;margin-top:0}.highlight-line{--tw-border-opacity:1;--tw-bg-opacity:1;background-color:rgba(243,244,246,var(--tw-bg-opacity));border-color:rgba(59,130,246,var(--tw-border-opacity));border-left-width:4px;display:block;margin-left:-1rem;margin-right:-1rem;padding-left:1rem;padding-right:1rem}.dark .highlight-line{--tw-bg-opacity:1;background-color:rgba(31,41,55,var(--tw-bg-opacity))}input[type=email],input[type=text]{-webkit-appearance:none;-moz-appearance:none;appearance:none}.metric-card>a{text-decoration:none}.metric-card>p{margin-bottom:.5rem;margin-top:.5rem}.step>h3{margin-bottom:0;margin-top:0}.prose .tweet a{font-weight:inherit;text-decoration:inherit}table{display:table;overflow-y:scroll}.sticky-theme-mode-button{position:absolute;right:10px;top:10px}iframe{height:35rem;width:100%}.nav-active-route{--tw-border-opacity:1;border-bottom-width:2px;border-color:rgba(31,41,55,var(--tw-border-opacity));font-weight:600}.dark .nav-active-route{--tw-border-opacity:1;border-color:rgba(243,244,246,var(--tw-border-opacity))}.nav-active-route{transition:border .5s ease-in-out}.nav-inactive-route{--tw-border-opacity:1;--tw-border-opacity:0;border-bottom-width:2px;border-color:rgba(255,251,235,var(--tw-border-opacity))}.dark .nav-inactive-route{--tw-border-opacity:1;border-color:rgba(0,0,0,var(--tw-border-opacity))}.nav-link-divider{align-items:center;display:flex;height:1rem;justify-content:center;padding-left:.5rem;padding-right:.5rem;width:1rem}.bread-crumb-active{--tw-text-opacity:1;color:rgba(31,41,55,var(--tw-text-opacity))}.dark .bread-crumb-active{--tw-text-opacity:1;color:rgba(107,114,128,var(--tw-text-opacity))}.autocomplete-suggestion-header{--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgba(255,251,235,var(--tw-bg-opacity));color:rgba(37,99,235,var(--tw-text-opacity));display:inline-block;font-size:.75rem;font-weight:600;line-height:1rem;margin:0;padding-right:.5rem;position:relative;z-index:50;z-index:9999}.blog-post-layout-container{align-items:flex-start;display:flex;flex-direction:column;justify-content:center;margin-bottom:4rem;margin-left:auto;margin-right:auto;max-width:42rem;position:relative;width:100%;z-index:1}.blog-post-layout-container .blog-post-layout-background-container{height:100%;left:0;min-height:100%;min-width:100%;position:absolute;top:0;width:100%;z-index:-1}.blog-post-layout-container .blog-post-layout-background-container .blog-post-layout-background{--tw-border-opacity:1;align-items:flex-start;border-color:rgba(249,250,251,var(--tw-border-opacity));border-left-width:1px;display:flex;flex-direction:row;height:100%;justify-content:flex-start;min-height:100%;min-width:100%;z-index:0}.blog-post-layout-container\n	.blog-post-layout-background-container\n	.blog-post-layout-background\n	.blog-post-layout-background-line{--tw-border-opacity:1;border-color:rgba(249,250,251,var(--tw-border-opacity));border-right-width:1px;height:100%;min-height:100%;width:20%}.blog-post-image-container{-webkit-backface-visibility:hidden;backface-visibility:hidden;border-radius:.25rem;box-shadow:0 0 15px rgb(0 0 0/15%);margin:0;max-height:12rem;overflow:hidden;padding:0;text-decoration:none;transform:var(--tw-transform);transition-duration:.15s;transition-duration:.2s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1);width:100%}@media (min-width:768px){.blog-post-image-container{max-height:24rem}}.blog-post-image{-webkit-backface-visibility:hidden;backface-visibility:hidden;border-radius:.25rem;transform:var(--tw-transform);transition-duration:.15s;transition-duration:.2s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1)}.banner-image-container-tag-button{--tw-bg-opacity:1;--tw-text-opacity:1;--tw-shadow:0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px 0 rgba(0,0,0,0.06);align-items:center;background-color:rgba(255,251,235,var(--tw-bg-opacity));border-radius:.25rem;border-width:0;box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow);color:rgba(31,41,55,var(--tw-text-opacity));cursor:pointer;display:flex;flex-direction:row;font-size:.75rem;font-weight:600;justify-content:center;line-height:1rem;margin-left:.375rem;opacity:1;padding:.375rem .625rem;text-decoration:none;transform:var(--tw-transform);transition-duration:.15s;transition-property:opacity;transition-timing-function:cubic-bezier(.4,0,.2,1);white-space:nowrap}.banner-image-container-tag-button:hover{--tw-shadow:0 20px 25px -5px rgba(0,0,0,0.1),0 10px 10px -5px rgba(0,0,0,0.04);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.banner-image-container-tag-button:first-child{margin-left:0}.banner-image-container-tag-button-indicator-blue:before{background-color:rgba(59,130,246,var(--tw-bg-opacity))}.banner-image-container-tag-button-indicator-blue:before,.banner-image-container-tag-button-indicator-red:before{--tw-bg-opacity:1;border-radius:9999px;content:"";display:inline-block;height:.75rem;margin-right:.5rem;transform:var(--tw-transform);transition-duration:.15s;transition-duration:.2s;transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1);width:.75rem}.banner-image-container-tag-button-indicator-red:before{background-color:rgba(239,68,68,var(--tw-bg-opacity))}@-webkit-keyframes f{0%{opacity:0;transform:translateY(-1000px)}to{opacity:1;transform:translateY(0)}}@keyframes f{0%{opacity:0;transform:translateY(-1000px)}to{opacity:1;transform:translateY(0)}}@-webkit-keyframes g{0%{opacity:1;transform:translateY(0)}to{opacity:0;transform:translateY(-1000px)}}@keyframes g{0%{opacity:1;transform:translateY(0)}to{opacity:0;transform:translateY(-1000px)}}.alert-banner{-webkit-animation:f .5s cubic-bezier(.25,.46,.45,.94) both;animation:f .5s cubic-bezier(.25,.46,.45,.94) both}.alert-banner input:checked~*{-webkit-animation:g .5s cubic-bezier(.55,.085,.68,.53) both;animation:g .5s cubic-bezier(.55,.085,.68,.53) both}.hover\\:border-2:hover{border-width:2px}.hover\\:border-b-2:hover{border-bottom-width:2px}.hover\\:border-gray-800:hover{--tw-border-opacity:1;border-color:rgba(31,41,55,var(--tw-border-opacity))}.hover\\:border-gray-500:hover{--tw-border-opacity:1;border-color:rgba(107,114,128,var(--tw-border-opacity))}.hover\\:text-blue-700:hover{--tw-text-opacity:1;color:rgba(29,78,216,var(--tw-text-opacity))}.hover\\:text-white:hover{--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))}.hover\\:text-gray-900:hover{--tw-text-opacity:1;color:rgba(17,24,39,var(--tw-text-opacity))}.hover\\:text-gray-600:hover{--tw-text-opacity:1;color:rgba(75,85,99,var(--tw-text-opacity))}.hover\\:text-gray-800:hover{--tw-text-opacity:1;color:rgba(31,41,55,var(--tw-text-opacity))}.hover\\:shadow:hover{--tw-shadow:0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px 0 rgba(0,0,0,0.06)}.hover\\:shadow-md:hover,.hover\\:shadow:hover{box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.hover\\:shadow-md:hover{--tw-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06)}.hover\\:transition-shadow:hover{transition-duration:.15s;transition-property:box-shadow;transition-timing-function:cubic-bezier(.4,0,.2,1)}.focus\\:border-blue-500:focus{--tw-border-opacity:1;border-color:rgba(59,130,246,var(--tw-border-opacity))}.focus\\:ring-blue-500:focus{--tw-ring-opacity:1;--tw-ring-color:rgba(59,130,246,var(--tw-ring-opacity))}.dark .dark\\:prose-dark{color:#d1d5db}.dark .dark\\:prose-dark a{color:#60a5fa}.dark .dark\\:prose-dark a:hover{color:#2563eb}.dark .dark\\:prose-dark a code{color:#60a5fa}.dark .dark\\:prose-dark blockquote{border-left-color:#374151;color:#d1d5db}.dark .dark\\:prose-dark h2,.dark .dark\\:prose-dark h3,.dark .dark\\:prose-dark h4{color:#f3f4f6;scroll-margin-top:8rem}.dark .dark\\:prose-dark hr{border-color:#374151}.dark .dark\\:prose-dark ol li:before{color:#6b7280}.dark .dark\\:prose-dark ul li:before{background-color:#6b7280}.dark .dark\\:prose-dark strong{color:#d1d5db}.dark .dark\\:prose-dark thead{color:#f3f4f6}.dark .dark\\:prose-dark tbody tr{border-bottom-color:#374151}.dark .dark\\:border-gray-900{--tw-border-opacity:1;border-color:rgba(17,24,39,var(--tw-border-opacity))}.dark .dark\\:border-gray-800{--tw-border-opacity:1;border-color:rgba(31,41,55,var(--tw-border-opacity))}.dark .dark\\:border-green-900{--tw-border-opacity:1;border-color:rgba(6,78,59,var(--tw-border-opacity))}.dark .dark\\:bg-black{--tw-bg-opacity:1;background-color:rgba(0,0,0,var(--tw-bg-opacity))}.dark .dark\\:bg-gray-800{--tw-bg-opacity:1;background-color:rgba(31,41,55,var(--tw-bg-opacity))}.dark .dark\\:bg-green-900{--tw-bg-opacity:1;background-color:rgba(6,78,59,var(--tw-bg-opacity))}.dark .dark\\:text-white{--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))}.dark .dark\\:text-gray-400{--tw-text-opacity:1;color:rgba(156,163,175,var(--tw-text-opacity))}.dark .dark\\:text-gray-100{--tw-text-opacity:1;color:rgba(243,244,246,var(--tw-text-opacity))}.dark .dark\\:text-gray-300{--tw-text-opacity:1;color:rgba(209,213,219,var(--tw-text-opacity))}.dark .dark\\:text-gray-50{--tw-text-opacity:1;color:rgba(249,250,251,var(--tw-text-opacity))}.dark .dark\\:text-gray-200{--tw-text-opacity:1;color:rgba(229,231,235,var(--tw-text-opacity))}.dark .dark\\:text-red-400{--tw-text-opacity:1;color:rgba(248,113,113,var(--tw-text-opacity))}.dark .dark\\:text-green-400{--tw-text-opacity:1;color:rgba(52,211,153,var(--tw-text-opacity))}.dark .dark\\:shadow-dark{--tw-shadow:0 1px 3px 0 hsla(0,2%,84%,0.1),0 1px 2px 0 hsla(0,2%,84%,0.06);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.dark .dark\\:hover\\:border-gray-100:hover{--tw-border-opacity:1;border-color:rgba(243,244,246,var(--tw-border-opacity))}.dark .dark\\:hover\\:border-gray-300:hover{--tw-border-opacity:1;border-color:rgba(209,213,219,var(--tw-border-opacity))}.dark .dark\\:hover\\:text-white:hover{--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))}.dark .dark\\:hover\\:text-gray-500:hover{--tw-text-opacity:1;color:rgba(107,114,128,var(--tw-text-opacity))}.dark .dark\\:hover\\:shadow-dark:hover{--tw-shadow:0 1px 3px 0 hsla(0,2%,84%,0.1),0 1px 2px 0 hsla(0,2%,84%,0.06)}.dark .dark\\:hover\\:shadow-dark-lg:hover,.dark .dark\\:hover\\:shadow-dark:hover{box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)}.dark .dark\\:hover\\:shadow-dark-lg:hover{--tw-shadow:0 10px 15px -3px hsla(0,2%,84%,0.1),0 4px 6px -2px hsla(0,2%,84%,0.05)}.dark .dark\\:hover\\:transition-shadow:hover{transition-duration:.15s;transition-property:box-shadow;transition-timing-function:cubic-bezier(.4,0,.2,1)}@media (min-width:640px){.sm\\:mt-0{margin-top:0}.sm\\:block{display:block}.sm\\:w-96{width:24rem}.sm\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.sm\\:grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.sm\\:flex-row{flex-direction:row}.sm\\:space-x-2>:not([hidden])~:not([hidden]){--tw-space-x-reverse:0;margin-left:calc(.5rem*(1 - var(--tw-space-x-reverse)));margin-right:calc(.5rem*var(--tw-space-x-reverse))}.sm\\:p-3\\.5{padding:.875rem}.sm\\:p-3{padding:.75rem}}@media (min-width:768px){.md\\:container{width:100%}@media (min-width:640px){.md\\:container{max-width:640px}}@media (min-width:768px){.md\\:container{max-width:768px}}@media (min-width:1024px){.md\\:container{max-width:1024px}}@media (min-width:1280px){.md\\:container{max-width:1280px}}@media (min-width:1536px){.md\\:container{max-width:1536px}}.md\\:mx-auto{margin-left:auto;margin-right:auto}.md\\:mt-0{margin-top:0}.md\\:mb-0{margin-bottom:0}.md\\:h-14{height:3.5rem}.md\\:w-full{width:100%}.md\\:flex-row{flex-direction:row}.md\\:items-center{align-items:center}.md\\:text-right{text-align:right}.md\\:text-4xl{font-size:2.25rem;line-height:2.5rem}.md\\:text-5xl{font-size:3rem;line-height:1}.md\\:text-xl{font-size:1.25rem;line-height:1.75rem}}';
 const browser = false;
 const dev = false;
 const getStores = () => {
@@ -2390,8 +2398,8 @@ const NavigationBar = create_ssr_component(($$result, $$props, $$bindings, slots
   if ($$props.useThemeModeButton === void 0 && $$bindings.useThemeModeButton && useThemeModeButton !== void 0)
     $$bindings.useThemeModeButton(useThemeModeButton);
   $$unsubscribe_page();
-  return `<header class="${"relative flex text-gray-900 bg-yellow-50 dark:bg-black bg-opacity-60 dark:text-gray-100 w-full"}"><nav class="${"flex flex-wrap items-center justify-between w-full max-w-4xl p-6 mx-auto"}">${useTitleAndLogo ? `<div class="${"w-auto p-1 text-gray-900 dark:text-gray-100 font-bold"}" style="${"position: fixed; left: 50%; top: 10%; transform: translate(-50%, -50%);"}"><a sveltekit:prefetch href="${"/"}" class="${"flex flex-row h-12 justify-center items-center drop-shadow-xl"}"${add_attribute("aria-label", title, 0)}><img class="${"h-10 md:h-14 w-auto"}" alt="${"Loose Lips"}" loading="${"eager"}" decoding="${"async"}" width="${"3.5rem"}" height="${"3.5rem"}"${add_attribute("src", logoImage, 0)}></a></div>` : ``}
-		<div class="${"flex flex-row items-center"}" style="${"position: fixed; right: 0 !important; display: flex; flex-direction: column; margin-top: 40%; text-align: right;font-size:6em;"}">${each(navLinks, (navLink, index2) => `<a sveltekit:prefetch${add_attribute("href", navLink.path, 0)} class="${[
+  return `<header class="${"relative flex text-gray-900 bg-yellow-50 dark:bg-black bg-opacity-60 dark:text-gray-100 w-full"}"><nav class="${"flex flex-wrap items-center justify-between w-full max-w-4xl p-6 mx-auto"}">${useTitleAndLogo ? `<div class="${"w-auto p-1 text-gray-900 dark:text-gray-100 font-bold"}" style="${"position: fixed; left: 50%; top: 10%; transform: translate(-50%, -50%);"}"><a sveltekit:prefetch href="${"/"}" class="${"flex flex-row h-12 justify-center items-center drop-shadow-xl"}"${add_attribute("aria-label", title, 0)}><img class="${"h-10 md:h-14 w-auto"}" alt="${"LL"}" loading="${"eager"}" decoding="${"async"}" width="${"3.5rem"}" height="${"3.5rem"}"${add_attribute("src", logoImage, 0)}></a></div>` : ``}
+		<div class="${"flex flex-row items-center"}" style="${"position: fixed; right: 0 !important; display: flex; flex-direction: column; margin-top: 45%; text-align: right;font-size:6em;"}">${each(navLinks, (navLink, index2) => `<a sveltekit:prefetch${add_attribute("href", navLink.path, 0)} class="${[
     "p-1.5 text-gray-900 sm:p-3.5 dark:text-gray-100 hover:border-b-2 hover:border-gray-800 dark:hover:border-gray-100",
     ($page.path === navLink.path || $page.path === `${navLink.path}/` ? "nav-active-route" : "") + " " + ($page.path !== navLink.path && $page.path !== `${navLink.path}/` ? "nav-inactive-route" : "")
   ].join(" ").trim()}">${escape(navLink.label)}
@@ -2456,34 +2464,35 @@ const linkClass = "text-gray-500 hover:text-gray-600 dark:text-gray-400 dark:hov
 const Footer = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `<footer class="${"flex flex-col justify-center items-start max-w-2xl mx-auto w-full mb-8"}"><hr class="${"w-full border-1 border-gray-200 dark:border-gray-800 mb-8"}">
 	${slots.default ? slots.default({}) : ``}
-	<div class="${"w-full max-w-2xl grid grid-cols-1 gap-4 pb-16 sm:grid-cols-3"}"><div class="${"flex flex-col space-y-4"}"><a sveltekit:prefetch href="${"/"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer home link", 0)}>Home</a>
+	<div class="${"w-full max-w-2xl grid grid-cols-1 gap-4 pb-16 sm:grid-cols-3"}"><div class="${"flex flex-col space-y-4"}"><a sveltekit:prefetch href="${"/"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer home link", 0)}>Loose Lips</a>
 			<a sveltekit:prefetch href="${"/about"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>About </a>
 			<a sveltekit:prefetch href="${"/blog"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Blog </a>
-			<a sveltekit:prefetch href="${"/projects"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Projects </a></div>
+			<a sveltekit:prefetch href="${"/projects"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Crew </a>
+			<a sveltekit:prefetch href="${"/about"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Events </a></div>
 		<div class="${"flex flex-col space-y-4"}">${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
     href: "https://www.linkedin.com/in/asnavneetsharma/",
     cssClasses: linkClass,
     ariaLabel: "Footer LinkedIn link"
-  }, {}, { default: () => `LinkedIn` })}
+  }, {}, { default: () => `Soundcloud` })}
 			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
     href: "https://github.com/navneetsharmaui",
     cssClasses: linkClass,
     ariaLabel: "Footer GitHub link"
-  }, {}, { default: () => `GitHub` })}
+  }, {}, { default: () => `Mixcloud` })}
 			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
     href: "https://twitter.com/asnavneetsharma",
     cssClasses: linkClass,
     ariaLabel: "Footer Twitter link"
-  }, {}, { default: () => `Twitter` })}
+  }, {}, { default: () => `Bandcamp` })}
 			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
     href: "https://www.instagram.com/asnavneetsharma/",
     cssClasses: linkClass,
     ariaLabel: "Footer Instagram link"
-  }, {}, { default: () => `Instagram` })}</div>
-		<div class="${"flex flex-col space-y-4"}"><a sveltekit:prefetch href="${"/snippets"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer Snippets link", 0)}>Snippets</a>
+  }, {}, { default: () => `Github` })}</div>
+		<div class="${"flex flex-col space-y-4"}"><a sveltekit:prefetch href="${"/snippets"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer Snippets link", 0)}>Sitemap</a>
 			<a sveltekit:prefetch href="${"/tags"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer tags link", 0)}>Tags</a>
-			<a sveltekit:prefetch href="${"/dashboard"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer dashobard link", 0)}>Dashboard
-			</a></div></div></footer>`;
+			<a sveltekit:prefetch href="${"/dashboard"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer dashobard link", 0)}>Contact</a></div></div>
+	<p style="${"color: white;text-align:center;font-size:small;font-weight:italic"}">copyright \xA9  2023 All rights reserved Loose-Lips ltd</p></footer>`;
 });
 const RouteTransition = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { referesh = "" } = $$props;
@@ -2492,7 +2501,7 @@ const RouteTransition = create_ssr_component(($$result, $$props, $$bindings, slo
   return `<span>${slots.default ? slots.default({}) : ``}</span>`;
 });
 var NowPlaying_svelte_svelte_type_style_lang = ".playing.svelte-scrvw2{min-height:17px;min-width:17px}.crest.svelte-scrvw2{background:#65696d;border-radius:2px;height:20px;margin-right:3px;width:3px}.crest.svelte-scrvw2:hover{background:#19af55}.crest.svelte-scrvw2:first-child{-webkit-animation:b .7s ease infinite;animation:b .7s ease infinite}.crest.svelte-scrvw2:nth-child(2){-webkit-animation:b 1.4s ease infinite;animation:b 1.4s ease infinite}.crest.svelte-scrvw2:nth-child(3){-webkit-animation:b .35s ease infinite;animation:b .35s ease infinite}.crest.svelte-scrvw2:nth-child(4){-webkit-animation:b .55s ease infinite;animation:b .55s ease infinite}.crest.svelte-scrvw2:nth-child(5){-webkit-animation:b .45s ease infinite;animation:b .45s ease infinite;-webkit-animation:b .85s ease infinite;animation:b .85s ease infinite}.crest.svelte-scrvw2:nth-child(6){-webkit-animation:b .65s ease infinite;animation:b .65s ease infinite}@-webkit-keyframes b{0%{height:3px}25%{height:10px}50%{height:15px}75%{height:17px}to{height:3px}}@keyframes b{0%{height:3px}25%{height:10px}50%{height:15px}75%{height:17px}to{height:3px}}";
-var __awaiter$6 = function(thisArg, _arguments, P, generator) {
+var __awaiter$7 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
     return value instanceof P ? value : new P(function(resolve2) {
       resolve2(value);
@@ -2519,8 +2528,8 @@ var __awaiter$6 = function(thisArg, _arguments, P, generator) {
     step((generator = generator.apply(thisArg, _arguments || [])).next());
   });
 };
-function load$7({ page: page2 }) {
-  return __awaiter$6(this, void 0, void 0, function* () {
+function load$8({ page: page2 }) {
+  return __awaiter$7(this, void 0, void 0, function* () {
     return { props: { path: page2.path } };
   });
 }
@@ -2528,9 +2537,10 @@ const _layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { path = "" } = $$props;
   const navLinks = [
     { path: "/", label: "LL" },
-    { path: "/about", label: "CREW" },
-    { path: "/projects", label: "MIXES" },
-    { path: "/blog", label: "BLOG" }
+    { path: "/blog", label: "BLOG" },
+    { path: "/crew", label: "CREW" },
+    { path: "/events", label: "EVENTS" },
+    { path: "/projects", label: "MIXES" }
   ];
   if ($$props.path === void 0 && $$bindings.path && path !== void 0)
     $$bindings.path(path);
@@ -2556,7 +2566,7 @@ var __layout = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": _layout,
-  load: load$7
+  load: load$8
 });
 const SEO = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { metaData = {} } = $$props;
@@ -2597,7 +2607,7 @@ const SEO = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       }
     }
   }
-  return `${$$result.head += `<meta name="${"robots"}"${add_attribute("content", metaData.robots, 0)} data-svelte="svelte-1dteyl7"><meta name="${"googlebot"}"${add_attribute("content", metaData.robots, 0)} data-svelte="svelte-1dteyl7">${`<link rel="${"alternate"}" type="${"application/rss+xml"}" title="${"Sveltekit Blog - RSS Feed"}" href="${"/rss.xml"}" data-svelte="svelte-1dteyl7">`}${`<link rel="${"sitemap"}" type="${"application/xml"}" title="${"Sveltekit Blog - Sitemap"}" href="${"/sitemap.xml"}" data-svelte="svelte-1dteyl7">`}${metaData && metaData.title ? `${$$result.title = `<title>${escape(metaData.title)}</title>`, ""}
+  return `${$$result.head += `<meta name="${"robots"}"${add_attribute("content", metaData.robots, 0)} data-svelte="svelte-1dteyl7"><meta name="${"googlebot"}"${add_attribute("content", metaData.robots, 0)} data-svelte="svelte-1dteyl7">${``}${``}${metaData && metaData.title ? `${$$result.title = `<title>${escape(metaData.title)}</title>`, ""}
 		<meta name="${"title"}"${add_attribute("content", metaData.title, 0)} data-svelte="svelte-1dteyl7">` : ``}${metaData && metaData.description ? `<meta name="${"description"}"${add_attribute("content", metaData.description, 0)} data-svelte="svelte-1dteyl7">` : ``}${metaData && metaData.keywords ? `<meta name="${"keywords"}"${add_attribute("content", metaData.keywords.join(", "), 0)} data-svelte="svelte-1dteyl7">` : ``}${metaData && metaData.url && BASE_URL ? `<link rel="${"canonical"}"${add_attribute("href", `${BASE_URL}${metaData.url}/`, 0)} data-svelte="svelte-1dteyl7">` : ``}${metaData && metaData.twitter ? `<meta name="${"twitter:card"}" content="${"summary_large_image"}" data-svelte="svelte-1dteyl7">
 
 		${each(Object.keys(metaData.twitter), (tag) => `<meta name="${"twitter:" + escape(tag)}"${add_attribute("content", metaData.twitter[tag], 0)} data-svelte="svelte-1dteyl7">`)}` : ``}${metaData && metaData.openGraph ? `${each(Object.keys(metaData.openGraph), (tag) => `<meta name="${"og:" + escape(tag)}"${add_attribute("content", metaData.openGraph[tag], 0)} data-svelte="svelte-1dteyl7">`)}` : ``}${metaData && metaData.article ? `${each(Object.keys(metaData.article), (tag) => `<meta name="${"article:" + escape(tag)}"${add_attribute("content", metaData.article[tag], 0)} data-svelte="svelte-1dteyl7">`)}` : ``}${metaData && metaData.url ? `<!-- HTML_TAG_START -->${jsonLd({
@@ -2632,7 +2642,7 @@ const css$1 = {
   code: "h1.svelte-x715fd{font-size:2.8em;font-weight:700;margin:0 0 .5em}@media(min-width:480px){h1.svelte-x715fd{font-size:4em}}",
   map: '{"version":3,"file":"__error.svelte","sources":["__error.svelte"],"sourcesContent":["<style lang=\\"scss\\" type=\\"text/scss\\">h1{font-size:2.8em;font-weight:700;margin:0 0 .5em}@media (min-width:480px){h1{font-size:4em}}</style>\\n\\n<script lang=\\"ts\\" context=\\"module\\">export function load({ error, status }) {\\n    return {\\n        props: {\\n            title: `${status}: ${error.message}`,\\n            status,\\n            error,\\n        },\\n    };\\n}\\n<\/script>\\n\\n<script lang=\\"ts\\">import { dev } from \'$app/env\';\\nimport HeadTags from \'$components/head-tags/HeadTags.svelte\';\\n;\\n// End: Local Imports\\n// Start: Exported Properties\\n/**\\n * @type {string}\\n */\\nexport let status;\\n/**\\n * @type {string}\\n */\\nexport let error;\\n// End: Exported Properties\\n/**\\n * @type {IMetaTagProperties}\\n */\\nconst metaData = {\\n    title: `${status} | Sveltekit`,\\n    description: \'404 page of Sveltekit starter project\',\\n};\\n<\/script>\\n\\n<!-- Start: Header Tage -->\\n<HeadTags metaData=\\"{metaData}\\" />\\n<!-- End: Header Tage -->\\n\\n<!-- Start: Error View Layout -->\\n<div class=\\"md:container md:mx-auto\\">\\n\\t<div class=\\"flex flex-col justify-center items-center\\">\\n\\t\\t<!-- Start: Error Status Code -->\\n\\t\\t<h1>\\n\\t\\t\\t{status}\\n\\t\\t</h1>\\n\\t\\t<!-- End: Error Status Code -->\\n\\t\\t<p>\\n\\t\\t\\t{error.name}\\n\\t\\t</p>\\n\\t\\t<!-- Start: Error Message container -->\\n\\t\\t{#if dev && error.stack}\\n\\t\\t\\t<pre> {error.message} </pre>\\n\\t\\t{/if}\\n\\t\\t<!-- End: Error Message container -->\\n\\t</div>\\n</div>\\n<!-- End: Error View Layout -->\\n"],"names":[],"mappings":"AAAoC,gBAAE,CAAC,UAAU,KAAK,CAAC,YAAY,GAAG,CAAC,OAAO,CAAC,CAAC,CAAC,CAAC,IAAI,CAAC,MAAM,AAAC,WAAW,KAAK,CAAC,CAAC,gBAAE,CAAC,UAAU,GAAG,CAAC,CAAC"}'
 };
-function load$6({ error: error2, status }) {
+function load$7({ error: error2, status }) {
   return {
     props: {
       title: `${status}: ${error2.message}`,
@@ -2671,7 +2681,7 @@ var __error = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": _error,
-  load: load$6
+  load: load$7
 });
 const convertToSlug = (value) => value.toLowerCase().replace(/[^\w ]+/g, "").replace(/ +/g, "-");
 const Tag = create_ssr_component(($$result, $$props, $$bindings, slots) => {
@@ -2692,10 +2702,10 @@ const BlogPost = create_ssr_component(($$result, $$props, $$bindings, slots) => 
   let { blog } = $$props;
   if ($$props.blog === void 0 && $$bindings.blog && blog !== void 0)
     $$bindings.blog(blog);
-  return `${blog && (blog == null ? void 0 : blog.slug) ? `<div class="${"mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5"}"><div class="${"flex flex-col md:flex-row justify-between"}"><a sveltekit:prefetch${add_attribute("href", `/blog/${blog.slug}`, 0)} class="${"w-full"}"><h3 class="${"text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100"}">${escape(blog.title)}</h3></a>
-			<img${add_attribute("src", blog.banner, 0)} alt="${""}" style="${"height: 16em;"}">
+  return `${blog && (blog == null ? void 0 : blog.slug) ? `<div class="${"mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5"}"><div class="${"flex flex-col md:flex-row justify-between"}"><img${add_attribute("src", blog.banner, 0)} alt="${""}" style="${"height: 24em;width:100%;"}">
 			
 			</div>
+		<a sveltekit:prefetch${add_attribute("href", `/blog/${blog.slug}`, 0)} class="${"w-full"}"><h3 class="${"text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100"}">${escape(blog.title)}</h3></a>
 		<p class="${"text-gray-600 dark:text-gray-400"}">${escape(blog.description)}</p>
 		<p class="${"text-gray-600 dark:text-gray-400"}">${escape(blog.date)}</p>
 		${validate_component(TagsContainer, "TagsContainer").$$render($$result, { tags: blog.tags }, {}, {})}</div>
@@ -2709,17 +2719,145 @@ const ProjectCard = create_ssr_component(($$result, $$props, $$bindings, slots) 
     href: project.slug,
     ariaLabel: project.title
   }, {}, {
-    default: () => `<div class="${"mb-4 hover:transition-shadow hover:shadow dark:hover:transition-shadow dark:hover:shadow-dark flex items-center border border-gray-200 dark:border-gray-800 rounded p-4"}"><div class="${"h-14 w-14 ml-2 mr-4 flex-shrink-0"}"><span class="${"sr-only"}">Svelte</span>
-				<img${add_attribute("alt", "Sveltekit Blogger", 0)}${add_attribute("src", "/images/author/sveltekit-blogger.svg", 0)} width="${"1.75rem"}" height="${"1.75rem"}" class="${"h-14 w-14 min-w-sm text-gray-900 dark:text-gray-100"}"></div>
-			<div><h3 class="${"text-lg font-bold tracking-tight text-gray-900 dark:text-gray-100"}">${escape(project == null ? void 0 : project.title)}</h3>
-				<p class="${"leading-5 text-gray-700 dark:text-gray-300"}">${escape(project == null ? void 0 : project.description)}</p></div></div>`
+    default: () => `<div class="${"mb-4 hover:transition-shadow hover:shadow dark:hover:transition-shadow dark:hover:shadow-dark flex items-center border border-gray-200 dark:border-gray-800 rounded p-4"}"><div class="${"h-14 w-14 ml-2 mr-4 flex-shrink-0"}"></div>
+			<div><h2 class="${"text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 mb-5"}">${escape(project == null ? void 0 : project.title)}</h2>
+				<p class="${"leading-5 text-gray-700 dark:text-gray-300"}" style="${"float: right;"}">${escape(project == null ? void 0 : project.date)}</p>
+				<img${add_attribute("src", project == null ? void 0 : project.img, 0)} alt="${""}" style="${"height: 26em;"}">
+				<p class="${"leading-5 text-gray-700 dark:text-gray-300 mt-5"}">${escape(project == null ? void 0 : project.description)}</p></div></div>`
   })}` : ``}`;
 });
-var index_svelte_svelte_type_style_lang = ".perspective-text.svelte-14rta08.svelte-14rta08{color:#fff;font-family:Arial;font-size:12.2em;font-weight:900;letter-spacing:-8px;perspective:23rem;position:absolute;text-transform:uppercase;z-index:1}.viewAll.svelte-14rta08.svelte-14rta08:hover{text-decoration:underline}.perspective-line.svelte-14rta08.svelte-14rta08{height:1.4em;overflow-x:hidden}p.svelte-14rta08.svelte-14rta08{height:1.4em;line-height:1.4em;margin:0}.perspective-line.svelte-14rta08.svelte-14rta08{overflow-x:hidden!important;position:static}.perspective-line.svelte-14rta08.svelte-14rta08:first-child{left:29px}.perspective-line.svelte-14rta08.svelte-14rta08:nth-child(2){left:58px}.perspective-line.svelte-14rta08.svelte-14rta08:nth-child(3){left:87px}.perspective-line.svelte-14rta08.svelte-14rta08:nth-child(4){left:116px}.perspective-line.svelte-14rta08.svelte-14rta08:nth-child(5){left:145px}.perspective-line.svelte-14rta08:hover p.svelte-14rta08{transform:translateY(-50px)}p.svelte-14rta08.svelte-14rta08{transition:all .5s ease-in-out}";
+var LogLevel;
+(function(LogLevel2) {
+  LogLevel2[LogLevel2["off"] = 0] = "off";
+  LogLevel2[LogLevel2["Debug"] = 1] = "Debug";
+  LogLevel2[LogLevel2["Error"] = 2] = "Error";
+  LogLevel2[LogLevel2["Warning"] = 3] = "Warning";
+  LogLevel2[LogLevel2["Info"] = 4] = "Info";
+})(LogLevel || (LogLevel = {}));
+var index_svelte_svelte_type_style_lang = ".perspective-text.svelte-kfmfhr.svelte-kfmfhr{color:#fff;font-family:Arial;font-size:12.2em;font-weight:900;letter-spacing:-8px;margin-left:1.5em;perspective:23rem;position:absolute;text-transform:uppercase;z-index:1}.viewAll.svelte-kfmfhr.svelte-kfmfhr:hover{text-decoration:underline}.perspective-line.svelte-kfmfhr.svelte-kfmfhr{height:1.4em;overflow-x:hidden}p.svelte-kfmfhr.svelte-kfmfhr{height:1.4em;line-height:1.4em;margin:0}.perspective-line.svelte-kfmfhr.svelte-kfmfhr{overflow-x:hidden!important;position:static}.perspective-line.svelte-kfmfhr.svelte-kfmfhr:first-child{left:29px}.perspective-line.svelte-kfmfhr.svelte-kfmfhr:nth-child(2){left:58px}.perspective-line.svelte-kfmfhr.svelte-kfmfhr:nth-child(3){left:87px}.perspective-line.svelte-kfmfhr.svelte-kfmfhr:nth-child(4){left:116px}.perspective-line.svelte-kfmfhr.svelte-kfmfhr:nth-child(5){left:145px}.perspective-line.svelte-kfmfhr:hover p.svelte-kfmfhr{transform:translateY(-50px)}p.svelte-kfmfhr.svelte-kfmfhr{transition:all .5s ease-in-out}";
 const css = {
-  code: ".perspective-text.svelte-14rta08.svelte-14rta08{color:#fff;font-family:Arial;font-size:12.2em;font-weight:900;letter-spacing:-8px;perspective:23rem;position:absolute;text-transform:uppercase;z-index:1}.viewAll.svelte-14rta08.svelte-14rta08:hover{text-decoration:underline}.perspective-line.svelte-14rta08.svelte-14rta08{height:1.4em;overflow-x:hidden}p.svelte-14rta08.svelte-14rta08{height:1.4em;line-height:1.4em;margin:0}.perspective-line.svelte-14rta08.svelte-14rta08{overflow-x:hidden!important;position:static}.perspective-line.svelte-14rta08.svelte-14rta08:first-child{left:29px}.perspective-line.svelte-14rta08.svelte-14rta08:nth-child(2){left:58px}.perspective-line.svelte-14rta08.svelte-14rta08:nth-child(3){left:87px}.perspective-line.svelte-14rta08.svelte-14rta08:nth-child(4){left:116px}.perspective-line.svelte-14rta08.svelte-14rta08:nth-child(5){left:145px}.perspective-line.svelte-14rta08:hover p.svelte-14rta08{transform:translateY(-50px)}p.svelte-14rta08.svelte-14rta08{transition:all .5s ease-in-out}",
-  map: `{"version":3,"file":"index.svelte","sources":["index.svelte"],"sourcesContent":["<script lang=\\"ts\\" context=\\"module\\">var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {\\n    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }\\n    return new (P || (P = Promise))(function (resolve, reject) {\\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\\n        function rejected(value) { try { step(generator[\\"throw\\"](value)); } catch (e) { reject(e); } }\\n        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }\\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\\n    });\\n};\\n/**\\n * @type {import('@sveltejs/kit').Load}\\n */\\nexport function load({ fetch }) {\\n    return __awaiter(this, void 0, void 0, function* () {\\n        return {\\n            props: {\\n                blogs: yield fetch(\`/blog.json?recent=\${5}\`).then((res) => res.json()),\\n            },\\n        };\\n    });\\n}\\n<\/script>\\n\\n<script lang=\\"ts\\">// Start: External Imports\\n// End: External Imports\\nimport HeadTags from '$components/head-tags/HeadTags.svelte';\\nimport BlogPost from '$components/blog-post/BlogPost.svelte';\\nimport ProjectCard from '$components/project-card/ProjectCard.svelte';\\n;\\n;\\n;\\n;\\n// End: Local Imports\\n// Exports\\nexport let blogs;\\n// Start: Local component properties\\n/**\\n * @type {IMetaTagProperties}\\n */\\nconst metaData = {\\n    title: \`LOOSE LIPS | Live\`,\\n    description: 'Loose lips label radio and blogging website).',\\n    keywords: ['radio', 'mixes', 'london radio', 'music'],\\n};\\nconst projects = [\\n    {\\n        title: 'Sveltekit Starter',\\n        description: 'Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.',\\n        slug: 'https://github.com/navneetsharmaui/sveltekit-starter',\\n        icon: '',\\n    },\\n    {\\n        title: 'Sveltekit Blog',\\n        description: 'Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.',\\n        slug: 'https://github.com/navneetsharmaui/sveltekit-blog',\\n        icon: '',\\n    },\\n    {\\n        title: 'Sveltekit Starter',\\n        description: 'Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.',\\n        slug: 'https://github.com/navneetsharmaui/sveltekit-starter',\\n        icon: '',\\n    },\\n    {\\n        title: 'Sveltekit Blog',\\n        description: 'Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.',\\n        slug: 'https://github.com/navneetsharmaui/sveltekit-blog',\\n        icon: 'mosh3.jpg',\\n    },\\n];\\n// End: Local component properties\\n// Start: Local component methods\\n// End: Local component methods\\n<\/script>\\n\\n<!-- Start: Header Tag -->\\n<HeadTags metaData=\\"{metaData}\\" />\\n<!-- End: Header Tag -->\\n\\n<div class=\\"perspective-text\\">\\n\\n\\t<div class=\\"perspective-line\\">\\n\\t  <p style=\\"margin-left: 23px;\\">LOOSE </p>\\n\\t</div>\\n\\t<div class=\\"perspective-line\\">\\n\\t  <p style=\\"margin-left: 56px;\\">LIPS</p>\\n\\t</div>\\n\\t<div class=\\"perspective-line\\">\\n\\t  <p style=\\"margin-left: 14px;\\">2.0</p>\\n\\t</div>\\n\\t\\n  </div>\\n<!-- Start: Home Page container -->\\n\\n<div class=\\"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16\\">\\n<!-- <div class=\\"audio\\" style=\\"position:fixed;left:0;bottom:0;width:;\\">\\n\\t<Aplayer audio={\\n\\t\\t{name:'\u541B\u306E\u77E5\u3089\u306A\u3044\u7269\u8A9E',\\n\\t\\tartist: 'supercell',\\n\\t\\tcover: 'https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.jpg',\\n\\t\\turl: \\"https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.mp3\\"}} />\\n\\n</div> -->\\n\\n\\t\\n\\t<img src=\\"logo-loose-lips.gif\\" alt=\\"\\" style=\\"margin-top: -2vh;\\">\\n\\n\\t<a href=\\"#featured\\" style=\\"\\nwidth: 0;\\nheight: 0;\\nborder-left: 40px solid transparent;\\nborder-right: 40px solid transparent;\\nborder-top: 25px solid #8ef6cf;\\ndisplay: block;\\nmargin:auto;\\nmargin-top:5%;\\ncolor: white\\ntransform: translate(-50%, 0px);\\">\\n</a>\\n<p class=\\"font-bold text-2xl text-white text-center\\" style=\\"margin: auto;transform: rotate(-15deg);\\" >HAVE A LOOKSY</p>\\n<h2 id=\\"featured\\" class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white\\" style=\\"margin-top: 5em;\\"> Featured </h2>\\n<img src=\\"DIDO_WEB.jpg\\" alt=\\"featured\\">\\n\\n\\n\\t\\t<!-- Start: Top Projects -->\\n\\t\\t<h2 class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white\\"> Mix Series </h2>\\n\\n\\t\\t{#if projects.length > 0}\\n\\t\\t\\t{#each projects as project}\\n\\t\\t\\t\\t<ProjectCard project=\\"{project}\\" />\\n\\t\\t\\t{/each}\\n\\t\\t{/if}\\n\\t\\t<a href=\\"tags/react\\" class=\\"viewAll\\">\\n\\t\\t\\t<p class=\\"font-italic text-m text-white\\">View all</p>\\n\\t\\t</a>\\n\\t\\t\\n\\t\\t<!-- End: Top Projects -->\\n\\n\\n\\t\\t<!-- Start: Top Projects -->\\n\\t\\t<h2 class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white\\"> Radio Series </h2>\\n\\n\\t\\t{#if projects.length > 0}\\n\\t\\t\\t{#each projects as project}\\n\\t\\t\\t\\t<ProjectCard project=\\"{project}\\" />\\n\\t\\t\\t{/each}\\n\\t\\t{/if}\\n\\t\\t<a href=\\"tags/react\\" class=\\"viewAll\\">\\n\\t\\t\\t<p class=\\"font-italic text-m text-white\\">View all</p>\\n\\t\\t</a>\\n\\t\\t<!-- End: Top Projects -->\\n\\n\\t\\t\\t<!-- Start: Popular Blog Section -->\\n\\t<h2 class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em\\" style=\\"margin-top: 15%;\\"> Recent Posts </h2>\\n\\n\\t{#if blogs.length > 0}\\n\\t\\t{#each blogs as blog, index (blog.slug)}\\n\\t\\t\\t<BlogPost blog=\\"{blog}\\" />\\n\\t\\t{/each}\\n\\t{/if}\\n\\t<!-- End: Popular Blog Section -->\\n\\n\\n</div>\\n<!-- End: Home Page container -->\\n\\n<style>.perspective-text{color:#fff;font-family:Arial;font-size:12.2em;font-weight:900;letter-spacing:-8px;perspective:23rem;position:absolute;text-transform:uppercase;z-index:1}.viewAll:hover{text-decoration:underline}.perspective-line{height:1.4em;overflow-x:hidden}p{height:1.4em;line-height:1.4em;margin:0}.perspective-line{overflow-x:hidden!important;position:static}.perspective-line:first-child{left:29px}.perspective-line:nth-child(2){left:58px}.perspective-line:nth-child(3){left:87px}.perspective-line:nth-child(4){left:116px}.perspective-line:nth-child(5){left:145px}.perspective-line:hover p{transform:translateY(-50px)}p{transition:all .5s ease-in-out}</style>"],"names":[],"mappings":"AAsKO,+CAAiB,CAAC,MAAM,IAAI,CAAC,YAAY,KAAK,CAAC,UAAU,MAAM,CAAC,YAAY,GAAG,CAAC,eAAe,IAAI,CAAC,YAAY,KAAK,CAAC,SAAS,QAAQ,CAAC,eAAe,SAAS,CAAC,QAAQ,CAAC,CAAC,sCAAQ,MAAM,CAAC,gBAAgB,SAAS,CAAC,+CAAiB,CAAC,OAAO,KAAK,CAAC,WAAW,MAAM,CAAC,+BAAC,CAAC,OAAO,KAAK,CAAC,YAAY,KAAK,CAAC,OAAO,CAAC,CAAC,+CAAiB,CAAC,WAAW,MAAM,UAAU,CAAC,SAAS,MAAM,CAAC,+CAAiB,YAAY,CAAC,KAAK,IAAI,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,IAAI,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,IAAI,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,KAAK,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,KAAK,CAAC,gCAAiB,MAAM,CAAC,gBAAC,CAAC,UAAU,WAAW,KAAK,CAAC,CAAC,+BAAC,CAAC,WAAW,GAAG,CAAC,GAAG,CAAC,WAAW,CAAC"}`
+  code: ".perspective-text.svelte-kfmfhr.svelte-kfmfhr{color:#fff;font-family:Arial;font-size:12.2em;font-weight:900;letter-spacing:-8px;margin-left:1.5em;perspective:23rem;position:absolute;text-transform:uppercase;z-index:1}.viewAll.svelte-kfmfhr.svelte-kfmfhr:hover{text-decoration:underline}.perspective-line.svelte-kfmfhr.svelte-kfmfhr{height:1.4em;overflow-x:hidden}p.svelte-kfmfhr.svelte-kfmfhr{height:1.4em;line-height:1.4em;margin:0}.perspective-line.svelte-kfmfhr.svelte-kfmfhr{overflow-x:hidden!important;position:static}.perspective-line.svelte-kfmfhr.svelte-kfmfhr:first-child{left:29px}.perspective-line.svelte-kfmfhr.svelte-kfmfhr:nth-child(2){left:58px}.perspective-line.svelte-kfmfhr.svelte-kfmfhr:nth-child(3){left:87px}.perspective-line.svelte-kfmfhr.svelte-kfmfhr:nth-child(4){left:116px}.perspective-line.svelte-kfmfhr.svelte-kfmfhr:nth-child(5){left:145px}.perspective-line.svelte-kfmfhr:hover p.svelte-kfmfhr{transform:translateY(-50px)}p.svelte-kfmfhr.svelte-kfmfhr{transition:all .5s ease-in-out}",
+  map: `{"version":3,"file":"index.svelte","sources":["index.svelte"],"sourcesContent":["<!-- HOME PAGE OF WEBSITE\\n\\n\\n\\n\\n\\n\\n -->\\n\\n\\n<script lang=\\"ts\\" context=\\"module\\">var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {\\n    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }\\n    return new (P || (P = Promise))(function (resolve, reject) {\\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\\n        function rejected(value) { try { step(generator[\\"throw\\"](value)); } catch (e) { reject(e); } }\\n        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }\\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\\n    });\\n};\\n/**\\n * @type {import('@sveltejs/kit').Load}\\n */\\nexport function load({ fetch }) {\\n    return __awaiter(this, void 0, void 0, function* () {\\n        return {\\n            props: {\\n                blogs: yield fetch(\`/blog.json?recent=\${5}\`).then((res) => res.json()),\\n            },\\n        };\\n    });\\n}\\n<\/script>\\n\\n<script lang=\\"ts\\">// Imports\\nimport HeadTags from '$components/head-tags/HeadTags.svelte';\\nimport BlogPost from '$components/blog-post/BlogPost.svelte';\\nimport ProjectCard from '$components/project-card/ProjectCard.svelte';\\n;\\n;\\n;\\nimport { LoggerUtils } from '$lib/utils/logger';\\n// Exports\\nexport let blogs;\\n// Add metatags for page\\n/**\\n * @type {IMetaTagProperties}\\n */\\nconst metaData = {\\n    title: \`LOOSE LIPS | Live\`,\\n    description: 'Loose lips label radio and blogging website).',\\n    keywords: ['radio', 'mixes', 'london radio', 'music'],\\n};\\n// EVENTS DATA\\nconst events = [\\n    {\\n        title: 'Loose Lips presents: Sunil Sharpe, Cersy & Kortzer',\\n        description: 'Loose Lips brings the legendary Irish turntablist Sunil Sharpe to an exciting new Manchester spot fitted with a beautiful Danley soundsystem. Supported by up and coming techno talent Cersy, and Loose Lips resident Kortzer.',\\n        slug: 'https://github.com/navneetsharmaui/sveltekit-starter',\\n        img: 'https://imgproxy.ra.co/_/quality:66/w:1500/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vODkxMjlmZGEzN2EzZjIxMDEwOTg1YzZiZmNmNjVjZDFlMGI1ZWIwYi5wbmc=',\\n        icon: '',\\n        date: '28/01/2023',\\n    },\\n];\\n<\/script>\\n\\n<!-- Start: Header Tag -->\\n<HeadTags metaData=\\"{metaData}\\" />\\n<!-- End: Header Tag -->\\n\\n<div class=\\"perspective-text\\">\\n\\t<div class=\\"perspective-line\\">\\n\\t  <p style=\\"margin-left: 23px;transform:rotate(4deg)\\" class=\\"text-black dark:text-white\\">LOOSE </p>\\n\\t</div>\\n\\t<div class=\\"perspective-line\\">\\n\\t  <p style=\\"margin-left: 56px;transform:rotate(-4deg)\\" class=\\"text-black dark:text-white\\">LIPS</p>\\n\\t</div>\\n\\t<div class=\\"perspective-line\\">\\n\\t  <p style=\\"margin-left: 14px;\\" class=\\"text-black dark:text-white\\">2.0</p>\\n\\t</div>\\n\\t\\n  </div>\\n<!-- Start: Home Page container -->\\n\\n<div class=\\"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)\\">\\n\\t\\n\\t<img src=\\"logo-loose-lips.gif\\" alt=\\"\\" style=\\"margin-top: -2vh;\\">\\n\\n\\t<a href=\\"#featured\\" style=\\"\\nwidth: 0;\\nheight: 0;\\nborder-left: 40px solid transparent;\\nborder-right: 40px solid transparent;\\nborder-top: 25px solid #8ef6cf;\\ndisplay: block;\\nmargin:auto;\\nmargin-top:5%;\\ncolor: white\\ntransform: translate(-50%, 0px);\\">\\n</a>\\n<p class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white\\" style=\\"margin: auto;transform: rotate(-15deg);\\" >HAVE A LOOKSY</p>\\n\\n</div>\\n<div class=\\"flex flex-row justify-left items-start max-w-5xl mx-auto\\">\\n\\t<div class=\\"p-5\\">\\n<!-- Start: Events -->\\n\\t<h2 class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white\\"> Upcoming Events </h2>\\n\\t{#if events.length > 0}\\n\\t\\t{#each events as event}\\n\\t\\t\\t<ProjectCard project=\\"{event}\\" />\\n\\t\\t{/each}\\n\\t{/if}\\n\\t<a href=\\"events\\" class=\\"viewAll\\">\\n\\t\\t<p class=\\"font-italic text-m text-white\\">View past events</p>\\n\\t</a>\\n\\t<!-- End: Top Events -->\\n\\t</div>\\n<div class=\\"p-5\\">\\n\\t<h2 id=\\"featured\\" class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white\\" style=\\"margin-top: 5em;\\"> Featured </h2>\\n\\t<img src=\\"DIDO_WEB.jpg\\" alt=\\"featured\\" style=\\"margin-bottom: 2.5em;\\">\\n\\t<iframe width=\\"560\\" height=\\"315\\" src=\\"https://www.youtube.com/embed/asEvnIJ7GfA\\" title=\\"YouTube video player\\" frameborder=\\"0\\" allow=\\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\\" allowfullscreen></iframe>\\n\\t\\t\\n</div>\\n\\n</div>\\n<div class=\\"flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)\\">\\n\\n\\t\\t\\t<!-- Start: Popular Blog Section -->\\n\\t\\t\\t<h2 class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em\\" style=\\"margin-top: 15%;\\"> Recent Posts </h2>\\n\\t\\t\\t<div>\\n\\t\\t\\t\\t\\n\\t\\t\\t</div>\\n\\t\\t\\t{#if blogs.length > 0}\\n\\t\\t\\t\\t{#each blogs as blog, index (blog.slug)}\\n\\n\\t\\t\\t\\t<div class=\\"p-5\\">\\n\\t\\t\\t\\t\\t<BlogPost blog=\\"{blog}\\" />\\n\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t{/each}\\n\\t\\t\\t{/if}\\n\\t\\t\\t<!-- End: Popular Blog Section -->\\n\\t\\t\\n</div>\\n\\n\\n<!-- End: Home Page container -->\\n<!-- Old code for audio player\\n\\t<div class=\\"audio\\" style=\\"position:fixed;left:0;bottom:0;width:;\\">\\n\\t<Aplayer audio={\\n\\t\\t{name:'\u541B\u306E\u77E5\u3089\u306A\u3044\u7269\u8A9E',\\n\\t\\tartist: 'supercell',\\n\\t\\tcover: 'https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.jpg',\\n\\t\\turl: \\"https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.mp3\\"}} />\\n\\n</div> -->\\n<style>.perspective-text{color:#fff;font-family:Arial;font-size:12.2em;font-weight:900;letter-spacing:-8px;margin-left:1.5em;perspective:23rem;position:absolute;text-transform:uppercase;z-index:1}.viewAll:hover{text-decoration:underline}.perspective-line{height:1.4em;overflow-x:hidden}p{height:1.4em;line-height:1.4em;margin:0}.perspective-line{overflow-x:hidden!important;position:static}.perspective-line:first-child{left:29px}.perspective-line:nth-child(2){left:58px}.perspective-line:nth-child(3){left:87px}.perspective-line:nth-child(4){left:116px}.perspective-line:nth-child(5){left:145px}.perspective-line:hover p{transform:translateY(-50px)}p{transition:all .5s ease-in-out}</style>"],"names":[],"mappings":"AA2JO,6CAAiB,CAAC,MAAM,IAAI,CAAC,YAAY,KAAK,CAAC,UAAU,MAAM,CAAC,YAAY,GAAG,CAAC,eAAe,IAAI,CAAC,YAAY,KAAK,CAAC,YAAY,KAAK,CAAC,SAAS,QAAQ,CAAC,eAAe,SAAS,CAAC,QAAQ,CAAC,CAAC,oCAAQ,MAAM,CAAC,gBAAgB,SAAS,CAAC,6CAAiB,CAAC,OAAO,KAAK,CAAC,WAAW,MAAM,CAAC,6BAAC,CAAC,OAAO,KAAK,CAAC,YAAY,KAAK,CAAC,OAAO,CAAC,CAAC,6CAAiB,CAAC,WAAW,MAAM,UAAU,CAAC,SAAS,MAAM,CAAC,6CAAiB,YAAY,CAAC,KAAK,IAAI,CAAC,6CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,IAAI,CAAC,6CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,IAAI,CAAC,6CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,KAAK,CAAC,6CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,KAAK,CAAC,+BAAiB,MAAM,CAAC,eAAC,CAAC,UAAU,WAAW,KAAK,CAAC,CAAC,6BAAC,CAAC,WAAW,GAAG,CAAC,GAAG,CAAC,WAAW,CAAC"}`
 };
+var __awaiter$6 = function(thisArg, _arguments, P, generator) {
+  function adopt(value) {
+    return value instanceof P ? value : new P(function(resolve2) {
+      resolve2(value);
+    });
+  }
+  return new (P || (P = Promise))(function(resolve2, reject) {
+    function fulfilled(value) {
+      try {
+        step(generator.next(value));
+      } catch (e) {
+        reject(e);
+      }
+    }
+    function rejected(value) {
+      try {
+        step(generator["throw"](value));
+      } catch (e) {
+        reject(e);
+      }
+    }
+    function step(result) {
+      result.done ? resolve2(result.value) : adopt(result.value).then(fulfilled, rejected);
+    }
+    step((generator = generator.apply(thisArg, _arguments || [])).next());
+  });
+};
+function load$6({ fetch: fetch2 }) {
+  return __awaiter$6(this, void 0, void 0, function* () {
+    return {
+      props: {
+        blogs: yield fetch2(`/blog.json?recent=${5}`).then((res) => res.json())
+      }
+    };
+  });
+}
+const Routes = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  let { blogs } = $$props;
+  const metaData = {
+    title: `LOOSE LIPS | Live`,
+    description: "Loose lips label radio and blogging website).",
+    keywords: ["radio", "mixes", "london radio", "music"]
+  };
+  const events = [
+    {
+      title: "Loose Lips presents: Sunil Sharpe, Cersy & Kortzer",
+      description: "Loose Lips brings the legendary Irish turntablist Sunil Sharpe to an exciting new Manchester spot fitted with a beautiful Danley soundsystem. Supported by up and coming techno talent Cersy, and Loose Lips resident Kortzer.",
+      slug: "https://github.com/navneetsharmaui/sveltekit-starter",
+      img: "https://imgproxy.ra.co/_/quality:66/w:1500/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vODkxMjlmZGEzN2EzZjIxMDEwOTg1YzZiZmNmNjVjZDFlMGI1ZWIwYi5wbmc=",
+      icon: "",
+      date: "28/01/2023"
+    }
+  ];
+  if ($$props.blogs === void 0 && $$bindings.blogs && blogs !== void 0)
+    $$bindings.blogs(blogs);
+  $$result.css.add(css);
+  return `
+
+
+
+
+
+
+
+${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
+
+
+<div class="${"perspective-text svelte-kfmfhr"}"><div class="${"perspective-line svelte-kfmfhr"}"><p style="${"margin-left: 23px;transform:rotate(4deg)"}" class="${"text-black dark:text-white svelte-kfmfhr"}">LOOSE </p></div>
+	<div class="${"perspective-line svelte-kfmfhr"}"><p style="${"margin-left: 56px;transform:rotate(-4deg)"}" class="${"text-black dark:text-white svelte-kfmfhr"}">LIPS</p></div>
+	<div class="${"perspective-line svelte-kfmfhr"}"><p style="${"margin-left: 14px;"}" class="${"text-black dark:text-white svelte-kfmfhr"}">2.0</p></div></div>
+
+
+<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)"}"><img src="${"logo-loose-lips.gif"}" alt="${""}" style="${"margin-top: -2vh;"}">
+
+	<a href="${"#featured"}" style="${"width: 0; height: 0; border-left: 40px solid transparent; border-right: 40px solid transparent; border-top: 25px solid #8ef6cf; display: block; margin:auto; margin-top:5%; color: white transform: translate(-50%, 0px);"}"></a>
+<p class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white svelte-kfmfhr"}" style="${"margin: auto;transform: rotate(-15deg);"}">HAVE A LOOKSY</p></div>
+<div class="${"flex flex-row justify-left items-start max-w-5xl mx-auto"}"><div class="${"p-5"}">
+	<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"}">Upcoming Events </h2>
+	${events.length > 0 ? `${each(events, (event) => `${validate_component(ProjectCard, "ProjectCard").$$render($$result, { project: event }, {}, {})}`)}` : ``}
+	<a href="${"events"}" class="${"viewAll svelte-kfmfhr"}"><p class="${"font-italic text-m text-white svelte-kfmfhr"}">View past events</p></a>
+	</div>
+<div class="${"p-5"}"><h2 id="${"featured"}" class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white"}" style="${"margin-top: 5em;"}">Featured </h2>
+	<img src="${"DIDO_WEB.jpg"}" alt="${"featured"}" style="${"margin-bottom: 2.5em;"}">
+	<iframe width="${"560"}" height="${"315"}" src="${"https://www.youtube.com/embed/asEvnIJ7GfA"}" title="${"YouTube video player"}" frameborder="${"0"}" allow="${"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"}" allowfullscreen></iframe></div></div>
+<div class="${"flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)"}">
+			<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"}" style="${"margin-top: 15%;"}">Recent Posts </h2>
+			<div></div>
+			${blogs.length > 0 ? `${each(blogs, (blog, index2) => `<div class="${"p-5"}">${validate_component(BlogPost, "BlogPost").$$render($$result, { blog }, {}, {})}
+				</div>`)}` : ``}
+			</div>
+
+
+
+`;
+});
+var index$f = /* @__PURE__ */ Object.freeze({
+  __proto__: null,
+  [Symbol.toStringTag]: "Module",
+  "default": Routes,
+  load: load$6
+});
+const Track = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  let { track } = $$props;
+  if ($$props.track === void 0 && $$bindings.track && track !== void 0)
+    $$bindings.track(track);
+  return `${track ? `<div class="${"flex flex-row items-baseline border-b border-gray-100 dark:border-gray-800 max-w-3xl w-full mt-8"}"><p class="${"text-sm font-bold text-gray-500 dark:text-gray-400"}">${escape(track.ranking)}</p>
+			<div class="${"flex flex-col pl-3"}">${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
+    href: track.songUrl,
+    cssClasses: "font-medium text-gray-900 dark:text-gray-100 truncate w-60 sm:w-96 md:w-full",
+    ariaLabel: track.title
+  }, {}, { default: () => `${escape(track.title)}` })}
+				<p class="${"text-gray-500 mb-4 truncate w-60 sm:w-96 md:w-full"}" color="${"gray.500"}">${escape(track.artist)}</p></div></div>` : ``}`;
+});
+const TopTracks = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  let { topTracks } = $$props;
+  if ($$props.topTracks === void 0 && $$bindings.topTracks && topTracks !== void 0)
+    $$bindings.topTracks(topTracks);
+  return `${each(topTracks, (topTrack, index2) => `${validate_component(Track, "Track").$$render($$result, { track: topTrack }, {}, {})}`)}`;
+});
 var __awaiter$5 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
     return value instanceof P ? value : new P(function(resolve2) {
@@ -2751,113 +2889,84 @@ function load$5({ fetch: fetch2 }) {
   return __awaiter$5(this, void 0, void 0, function* () {
     return {
       props: {
-        blogs: yield fetch2(`/blog.json?recent=${5}`).then((res) => res.json())
+        topTracks: yield fetch2(`/api/top-tracks.json`).then((res) => res.json())
       }
     };
   });
 }
-const Routes = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  let { blogs } = $$props;
+const Dashboard = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  let { topTracks } = $$props;
   const metaData = {
-    title: `LOOSE LIPS | Live`,
-    description: "Loose lips label radio and blogging website).",
-    keywords: ["radio", "mixes", "london radio", "music"]
+    title: "Dashboard | Sveltekit Blog",
+    description: "Dashboard page of Sveltekit blog starter project",
+    url: "/dashboard",
+    keywords: ["sveltekit", "sveltekit starter", "sveltekit starter dashboard"],
+    searchUrl: "/dashboard"
   };
-  const projects = [
-    {
-      title: "Sveltekit Starter",
-      description: "Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.",
-      slug: "https://github.com/navneetsharmaui/sveltekit-starter",
-      icon: ""
-    },
-    {
-      title: "Sveltekit Blog",
-      description: "Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.",
-      slug: "https://github.com/navneetsharmaui/sveltekit-blog",
-      icon: ""
-    },
-    {
-      title: "Sveltekit Starter",
-      description: "Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.",
-      slug: "https://github.com/navneetsharmaui/sveltekit-starter",
-      icon: ""
-    },
-    {
-      title: "Sveltekit Blog",
-      description: "Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.",
-      slug: "https://github.com/navneetsharmaui/sveltekit-blog",
-      icon: "mosh3.jpg"
-    }
-  ];
-  if ($$props.blogs === void 0 && $$bindings.blogs && blogs !== void 0)
-    $$bindings.blogs(blogs);
-  $$result.css.add(css);
+  if ($$props.topTracks === void 0 && $$bindings.topTracks && topTracks !== void 0)
+    $$bindings.topTracks(topTracks);
   return `
 ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
 
 
-<div class="${"perspective-text svelte-14rta08"}"><div class="${"perspective-line svelte-14rta08"}"><p style="${"margin-left: 23px;"}" class="${"svelte-14rta08"}">LOOSE </p></div>
-	<div class="${"perspective-line svelte-14rta08"}"><p style="${"margin-left: 56px;"}" class="${"svelte-14rta08"}">LIPS</p></div>
-	<div class="${"perspective-line svelte-14rta08"}"><p style="${"margin-left: 14px;"}" class="${"svelte-14rta08"}">2.0</p></div></div>
-
-
-<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}">
-
-	
-	<img src="${"logo-loose-lips.gif"}" alt="${""}" style="${"margin-top: -2vh;"}">
-
-	<a href="${"#featured"}" style="${"width: 0; height: 0; border-left: 40px solid transparent; border-right: 40px solid transparent; border-top: 25px solid #8ef6cf; display: block; margin:auto; margin-top:5%; color: white transform: translate(-50%, 0px);"}"></a>
-<p class="${"font-bold text-2xl text-white text-center svelte-14rta08"}" style="${"margin: auto;transform: rotate(-15deg);"}">HAVE A LOOKSY</p>
-<h2 id="${"featured"}" class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"}" style="${"margin-top: 5em;"}">Featured </h2>
-<img src="${"DIDO_WEB.jpg"}" alt="${"featured"}">
-
-
-		
-		<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"}">Mix Series </h2>
-
-		${projects.length > 0 ? `${each(projects, (project) => `${validate_component(ProjectCard, "ProjectCard").$$render($$result, { project }, {}, {})}`)}` : ``}
-		<a href="${"tags/react"}" class="${"viewAll svelte-14rta08"}"><p class="${"font-italic text-m text-white svelte-14rta08"}">View all</p></a>
-		
-		
-
-
-		
-		<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"}">Radio Series </h2>
-
-		${projects.length > 0 ? `${each(projects, (project) => `${validate_component(ProjectCard, "ProjectCard").$$render($$result, { project }, {}, {})}`)}` : ``}
-		<a href="${"tags/react"}" class="${"viewAll svelte-14rta08"}"><p class="${"font-italic text-m text-white svelte-14rta08"}">View all</p></a>
-		
-
-			
-	<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"}" style="${"margin-top: 15%;"}">Recent Posts </h2>
-
-	${blogs.length > 0 ? `${each(blogs, (blog, index2) => `${validate_component(BlogPost, "BlogPost").$$render($$result, { blog }, {}, {})}`)}` : ``}
-	</div>
-`;
+<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white"}">Dashboard </h1>
+	<div class="${"mb-8"}"><p class="${"text-gray-600 dark:text-gray-400 mb-4"}">This the dashboard view for my portfolio to track the metric related to the various platforms I use and are
+			availabe for the public use. Right now it just tracks GitHub metrics.
+		</p></div>
+	<h2 class="${"font-bold text-3xl tracking-tight mb-4 mt-16 text-black dark:text-white"}">Top Tracks </h2>
+	<p class="${"text-gray-600 dark:text-gray-400 mb-4"}">Curious what I&#39;m currently jamming to? Here&#39;s my top tracks on Spotify updated daily.
+	</p>
+	${validate_component(TopTracks, "TopTracks").$$render($$result, { topTracks }, {}, {})}</div>`;
 });
 var index$e = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
-  "default": Routes,
+  "default": Dashboard,
   load: load$5
 });
-const Track = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  let { track } = $$props;
-  if ($$props.track === void 0 && $$bindings.track && track !== void 0)
-    $$bindings.track(track);
-  return `${track ? `<div class="${"flex flex-row items-baseline border-b border-gray-100 dark:border-gray-800 max-w-3xl w-full mt-8"}"><p class="${"text-sm font-bold text-gray-500 dark:text-gray-400"}">${escape(track.ranking)}</p>
-			<div class="${"flex flex-col pl-3"}">${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
-    href: track.songUrl,
-    cssClasses: "font-medium text-gray-900 dark:text-gray-100 truncate w-60 sm:w-96 md:w-full",
-    ariaLabel: track.title
-  }, {}, { default: () => `${escape(track.title)}` })}
-				<p class="${"text-gray-500 mb-4 truncate w-60 sm:w-96 md:w-full"}" color="${"gray.500"}">${escape(track.artist)}</p></div></div>` : ``}`;
+const hydrate$1 = dev;
+const router$1 = browser;
+const prerender$1 = true;
+const Projects = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  const metaData = {
+    title: "Project | Sveltekit Blog",
+    description: "Project page of Sveltekit blog starter project",
+    url: "/projects",
+    keywords: ["sveltekit", "sveltekit starter", "sveltekit starter about"],
+    searchUrl: "/projects"
+  };
+  return `
+${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
+
+
+
+<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 dark:text-white"}">Coming soon... </h1></div>
+`;
 });
-const TopTracks = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  let { topTracks } = $$props;
-  if ($$props.topTracks === void 0 && $$bindings.topTracks && topTracks !== void 0)
-    $$bindings.topTracks(topTracks);
-  return `${each(topTracks, (topTrack, index2) => `${validate_component(Track, "Track").$$render($$result, { track: topTrack }, {}, {})}`)}`;
+var index$d = /* @__PURE__ */ Object.freeze({
+  __proto__: null,
+  [Symbol.toStringTag]: "Module",
+  "default": Projects,
+  hydrate: hydrate$1,
+  router: router$1,
+  prerender: prerender$1
+});
+const SnippetCard = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  let { title = "" } = $$props;
+  let { description: description2 = "" } = $$props;
+  let { slug = "" } = $$props;
+  let { logo = "" } = $$props;
+  if ($$props.title === void 0 && $$bindings.title && title !== void 0)
+    $$bindings.title(title);
+  if ($$props.description === void 0 && $$bindings.description && description2 !== void 0)
+    $$bindings.description(description2);
+  if ($$props.slug === void 0 && $$bindings.slug && slug !== void 0)
+    $$bindings.slug(slug);
+  if ($$props.logo === void 0 && $$bindings.logo && logo !== void 0)
+    $$bindings.logo(logo);
+  return `<a sveltekit:prefetch${add_attribute("href", `/snippets/${slug}`, 0)} class="${"border border-grey-200 dark:border-gray-900 rounded filter hover:shadow-md dark:hover:shadow-dark p-4 w-full"}"><img${add_attribute("alt", title, 0)}${add_attribute("height", 32, 0)}${add_attribute("width", 32, 0)}${add_attribute("src", `/logos/${logo}`, 0)} class="${"filter drop-shadow rounded-full"}">
+	<h3 class="${"text-lg font-bold text-left mt-2 text-gray-900 dark:text-gray-100"}">${escape(title)}</h3>
+	<p class="${"mt-1 text-gray-700 dark:text-gray-400"}">${escape(description2)}</p></a>`;
 });
 var __awaiter$4 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
@@ -2888,141 +2997,6 @@ var __awaiter$4 = function(thisArg, _arguments, P, generator) {
 };
 function load$4({ fetch: fetch2 }) {
   return __awaiter$4(this, void 0, void 0, function* () {
-    return {
-      props: {
-        topTracks: yield fetch2(`/api/top-tracks.json`).then((res) => res.json())
-      }
-    };
-  });
-}
-const Dashboard = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  let { topTracks } = $$props;
-  const metaData = {
-    title: "Dashboard | Sveltekit Blog",
-    description: "Dashboard page of Sveltekit blog starter project",
-    url: "/dashboard",
-    keywords: ["sveltekit", "sveltekit starter", "sveltekit starter dashboard"],
-    searchUrl: "/dashboard"
-  };
-  if ($$props.topTracks === void 0 && $$bindings.topTracks && topTracks !== void 0)
-    $$bindings.topTracks(topTracks);
-  return `
-${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
-
-
-<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white"}">Dashboard </h1>
-	<div class="${"mb-8"}"><p class="${"text-gray-600 dark:text-gray-400 mb-4"}">This the dashboard view for my portfolio to track the metric related to the various platforms I use and are
-			availabe for the public use. Right now it just tracks GitHub metrics.
-		</p></div>
-	<h2 class="${"font-bold text-3xl tracking-tight mb-4 mt-16 text-black dark:text-white"}">Top Tracks </h2>
-	<p class="${"text-gray-600 dark:text-gray-400 mb-4"}">Curious what I&#39;m currently jamming to? Here&#39;s my top tracks on Spotify updated daily.
-	</p>
-	${validate_component(TopTracks, "TopTracks").$$render($$result, { topTracks }, {}, {})}</div>`;
-});
-var index$d = /* @__PURE__ */ Object.freeze({
-  __proto__: null,
-  [Symbol.toStringTag]: "Module",
-  "default": Dashboard,
-  load: load$4
-});
-const hydrate = dev;
-const router = browser;
-const prerender = true;
-const Projects = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  const metaData = {
-    title: "Project | Sveltekit Blog",
-    description: "Project page of Sveltekit blog starter project",
-    url: "/projects",
-    keywords: ["sveltekit", "sveltekit starter", "sveltekit starter about"],
-    searchUrl: "/projects"
-  };
-  const projects = [
-    {
-      title: "Sveltekit Starter",
-      description: "Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.",
-      slug: "https://github.com/navneetsharmaui/sveltekit-starter",
-      icon: ""
-    },
-    {
-      title: "Sveltekit Blog",
-      description: "Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.",
-      slug: "https://github.com/navneetsharmaui/sveltekit-blog",
-      icon: ""
-    }
-  ];
-  return `
-${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
-
-
-
-<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 dark:text-white"}">Project </h1>
-	<div class="${"mb-8 prose leading-6 text-gray-600 dark:text-gray-400"}"><p>Hey, I&#39;m Sveltekit Blogger. I&#39;m a Software Developer, writer and creator of\xA0
-			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
-    href: "https://github.com/navneetsharmaui/sveltkit-starter"
-  }, {}, {
-    default: () => `Sveltekit Starter Project`
-  })}
-			\xA0and\xA0
-			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
-    href: "https://github.com/navneetsharmaui/sveltekit-blog"
-  }, {}, { default: () => `Sveltekit Blog Project` })}</p></div>
-	${projects.length > 0 ? `${each(projects, (project) => `${validate_component(ProjectCard, "ProjectCard").$$render($$result, { project }, {}, {})}`)}` : ``}</div>
-`;
-});
-var index$c = /* @__PURE__ */ Object.freeze({
-  __proto__: null,
-  [Symbol.toStringTag]: "Module",
-  "default": Projects,
-  hydrate,
-  router,
-  prerender
-});
-const SnippetCard = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  let { title = "" } = $$props;
-  let { description: description2 = "" } = $$props;
-  let { slug = "" } = $$props;
-  let { logo = "" } = $$props;
-  if ($$props.title === void 0 && $$bindings.title && title !== void 0)
-    $$bindings.title(title);
-  if ($$props.description === void 0 && $$bindings.description && description2 !== void 0)
-    $$bindings.description(description2);
-  if ($$props.slug === void 0 && $$bindings.slug && slug !== void 0)
-    $$bindings.slug(slug);
-  if ($$props.logo === void 0 && $$bindings.logo && logo !== void 0)
-    $$bindings.logo(logo);
-  return `<a sveltekit:prefetch${add_attribute("href", `/snippets/${slug}`, 0)} class="${"border border-grey-200 dark:border-gray-900 rounded filter hover:shadow-md dark:hover:shadow-dark p-4 w-full"}"><img${add_attribute("alt", title, 0)}${add_attribute("height", 32, 0)}${add_attribute("width", 32, 0)}${add_attribute("src", `/logos/${logo}`, 0)} class="${"filter drop-shadow rounded-full"}">
-	<h3 class="${"text-lg font-bold text-left mt-2 text-gray-900 dark:text-gray-100"}">${escape(title)}</h3>
-	<p class="${"mt-1 text-gray-700 dark:text-gray-400"}">${escape(description2)}</p></a>`;
-});
-var __awaiter$3 = function(thisArg, _arguments, P, generator) {
-  function adopt(value) {
-    return value instanceof P ? value : new P(function(resolve2) {
-      resolve2(value);
-    });
-  }
-  return new (P || (P = Promise))(function(resolve2, reject) {
-    function fulfilled(value) {
-      try {
-        step(generator.next(value));
-      } catch (e) {
-        reject(e);
-      }
-    }
-    function rejected(value) {
-      try {
-        step(generator["throw"](value));
-      } catch (e) {
-        reject(e);
-      }
-    }
-    function step(result) {
-      result.done ? resolve2(result.value) : adopt(result.value).then(fulfilled, rejected);
-    }
-    step((generator = generator.apply(thisArg, _arguments || [])).next());
-  });
-};
-function load$3({ fetch: fetch2 }) {
-  return __awaiter$3(this, void 0, void 0, function* () {
     return {
       props: {
         snippets: yield fetch2("/snippets.json").then((res) => res.json())
@@ -3060,11 +3034,11 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
 
 `;
 });
-var index$b = /* @__PURE__ */ Object.freeze({
+var index$c = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Snippets,
-  load: load$3
+  load: load$4
 });
 const linkStyles = "inline-flex text-gray-700 hover:text-gray-800";
 const ShareButtons = create_ssr_component(($$result, $$props, $$bindings, slots) => {
@@ -3239,7 +3213,7 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
     default: () => `${escape("Edit on GitHub")}`
   })}</div></article>`;
 });
-const metadata$6 = {
+const metadata$5 = {
   "layout": "snippet",
   "title": "Yet Another Snippet",
   "description": "Page views over a given range.",
@@ -3252,7 +3226,54 @@ const metadata$6 = {
   "tags": ["snippets", "google", "Programming"]
 };
 const Yet_another_snippet = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$6), {}, {
+  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$5), {}, {
+    default: () => `<pre class="${"language-ts"}"><!-- HTML_TAG_START -->${`<code class="language-ts">
+<span class="token keyword">import</span> <span class="token punctuation">&#123;</span> ReactiveFormsModule <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/forms'</span><span class="token punctuation">;</span>
+
+<span class="token decorator"><span class="token at operator">@</span><span class="token function">NgModule</span></span><span class="token punctuation">(</span><span class="token punctuation">&#123;</span>
+  imports<span class="token operator">:</span> <span class="token punctuation">[</span>
+    ReactiveFormsModule
+  <span class="token punctuation">]</span><span class="token punctuation">,</span>
+<span class="token punctuation">&#125;</span><span class="token punctuation">)</span>
+<span class="token keyword">export</span> <span class="token keyword">class</span> <span class="token class-name">AppModule</span> <span class="token punctuation">&#123;</span> <span class="token punctuation">&#125;</span></code>`}<!-- HTML_TAG_END --></pre>
+<h2 id="${"usage"}"><a class="${"anchor"}" href="${"#usage"}">Usage</a></h2>
+<pre class="${"language-ts"}"><!-- HTML_TAG_START -->${`<code class="language-ts">
+<span class="token keyword">import</span> <span class="token punctuation">&#123;</span> Component <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/core'</span><span class="token punctuation">;</span>
+<span class="token keyword">import</span> <span class="token punctuation">&#123;</span> FormControl <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/forms'</span><span class="token punctuation">;</span>
+
+<span class="token decorator"><span class="token at operator">@</span><span class="token function">Component</span></span><span class="token punctuation">(</span><span class="token punctuation">&#123;</span>
+  selector<span class="token operator">:</span> <span class="token string">'app-name-editor'</span><span class="token punctuation">,</span>
+  templateUrl<span class="token operator">:</span> <span class="token string">'./name-editor.component.html'</span><span class="token punctuation">,</span>
+  styleUrls<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token string">'./name-editor.component.css'</span><span class="token punctuation">]</span>
+<span class="token punctuation">&#125;</span><span class="token punctuation">)</span>
+<span class="token keyword">export</span> <span class="token keyword">class</span> <span class="token class-name">NameEditorComponent</span> <span class="token punctuation">&#123;</span>
+  name <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">FormControl</span><span class="token punctuation">(</span><span class="token string">''</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">&#125;</span></code>`}<!-- HTML_TAG_END --></pre>
+<p>Aliquam id mauris ornare, semper lorem eget, volutpat tortor. Phasellus neque urna, maximus non ornare non, tristique aliquam metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec laoreet eleifend quam eget semper. Phasellus porttitor massa eget tristique tempus. Sed posuere, ex et tristique ultrices, nulla ligula dictum lacus, ut commodo nisi neque ut mi. In auctor lacus sem, vitae commodo sem tempor vel. Proin viverra aliquam eros. Vestibulum imperdiet diam a diam suscipit tincidunt. Sed vitae orci nunc.</p>
+<h2 id="${"pellentesque"}"><a class="${"anchor"}" href="${"#pellentesque"}">Pellentesque</a></h2>
+<p>Pellentesque id metus sed arcu egestas posuere vehicula eget magna. Praesent eu dui sed eros blandit volutpat tempus sit amet magna. Vestibulum sed ex a lorem imperdiet eleifend. Nulla ultricies tortor sit amet volutpat accumsan. Sed non nunc dignissim, aliquet nunc at, fringilla nisl. Donec pharetra feugiat sapien viverra posuere. Suspendisse et aliquet urna. Cras at nibh nec lacus vehicula scelerisque. In iaculis, nibh nec congue congue, augue diam rhoncus lorem, feugiat dapibus sem nulla ut diam. Integer fringilla eget erat nec imperdiet. Nam accumsan et arcu sed sodales. Donec rutrum mi quam, nec fermentum nibh finibus nec. Proin semper, lacus et hendrerit suscipit, lorem nunc pharetra augue, vel pretium sem urna ut urna.</p>`
+  })}`;
+});
+var index$b = /* @__PURE__ */ Object.freeze({
+  __proto__: null,
+  [Symbol.toStringTag]: "Module",
+  "default": Yet_another_snippet,
+  metadata: metadata$5
+});
+const metadata$4 = {
+  "layout": "snippet",
+  "title": "A Second Snippet",
+  "description": "Page views over a given range.",
+  "logo": "google-analytics.png",
+  "slug": "second-snippet",
+  "author": "Sveltekit Blogger",
+  "date": "2021-08-01",
+  "banner": "/images/snippets/second-snippet/banner.jpg",
+  "published": true,
+  "tags": ["snippets", "google", "Programming"]
+};
+const Second_snippet = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$4), {}, {
     default: () => `<pre class="${"language-ts"}"><!-- HTML_TAG_START -->${`<code class="language-ts">
 <span class="token keyword">import</span> <span class="token punctuation">&#123;</span> ReactiveFormsModule <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/forms'</span><span class="token punctuation">;</span>
 
@@ -3283,23 +3304,23 @@ const Yet_another_snippet = create_ssr_component(($$result, $$props, $$bindings,
 var index$a = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
-  "default": Yet_another_snippet,
-  metadata: metadata$6
+  "default": Second_snippet,
+  metadata: metadata$4
 });
-const metadata$5 = {
+const metadata$3 = {
   "layout": "snippet",
-  "title": "A Second Snippet",
+  "title": "First Snippet",
   "description": "Page views over a given range.",
   "logo": "google-analytics.png",
-  "slug": "second-snippet",
+  "slug": "first-snippet",
   "author": "Sveltekit Blogger",
   "date": "2021-08-01",
-  "banner": "/images/snippets/second-snippet/banner.jpg",
+  "banner": "/images/snippets/fist-snippet/banner.jpg",
   "published": true,
   "tags": ["snippets", "google", "Programming"]
 };
-const Second_snippet = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$5), {}, {
+const First_snippet = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$3), {}, {
     default: () => `<pre class="${"language-ts"}"><!-- HTML_TAG_START -->${`<code class="language-ts">
 <span class="token keyword">import</span> <span class="token punctuation">&#123;</span> ReactiveFormsModule <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/forms'</span><span class="token punctuation">;</span>
 
@@ -3330,55 +3351,89 @@ const Second_snippet = create_ssr_component(($$result, $$props, $$bindings, slot
 var index$9 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
-  "default": Second_snippet,
-  metadata: metadata$5
+  "default": First_snippet,
+  metadata: metadata$3
 });
-const metadata$4 = {
-  "layout": "snippet",
-  "title": "First Snippet",
-  "description": "Page views over a given range.",
-  "logo": "google-analytics.png",
-  "slug": "first-snippet",
-  "author": "Sveltekit Blogger",
-  "date": "2021-08-01",
-  "banner": "/images/snippets/fist-snippet/banner.jpg",
-  "published": true,
-  "tags": ["snippets", "google", "Programming"]
+var __awaiter$3 = function(thisArg, _arguments, P, generator) {
+  function adopt(value) {
+    return value instanceof P ? value : new P(function(resolve2) {
+      resolve2(value);
+    });
+  }
+  return new (P || (P = Promise))(function(resolve2, reject) {
+    function fulfilled(value) {
+      try {
+        step(generator.next(value));
+      } catch (e) {
+        reject(e);
+      }
+    }
+    function rejected(value) {
+      try {
+        step(generator["throw"](value));
+      } catch (e) {
+        reject(e);
+      }
+    }
+    function step(result) {
+      result.done ? resolve2(result.value) : adopt(result.value).then(fulfilled, rejected);
+    }
+    step((generator = generator.apply(thisArg, _arguments || [])).next());
+  });
 };
-const First_snippet = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$4), {}, {
-    default: () => `<pre class="${"language-ts"}"><!-- HTML_TAG_START -->${`<code class="language-ts">
-<span class="token keyword">import</span> <span class="token punctuation">&#123;</span> ReactiveFormsModule <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/forms'</span><span class="token punctuation">;</span>
+function load$3({ fetch: fetch2 }) {
+  return __awaiter$3(this, void 0, void 0, function* () {
+    return {
+      props: {
+        blogs: yield fetch2(`/blog.json?recent=${5}`).then((res) => res.json())
+      }
+    };
+  });
+}
+const Events = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  const metaData = {
+    title: `LOOSE LIPS | Live`,
+    description: "Loose lips label radio and blogging website).",
+    keywords: ["radio", "mixes", "london radio", "music"]
+  };
+  const events = [
+    {
+      title: "Loose Lips presents: Sunil Sharpe, Cersy & Kortzer",
+      description: "Loose Lips brings the legendary Irish turntablist Sunil Sharpe to an exciting new Manchester spot fitted with a beautiful Danley soundsystem. Supported by up and coming techno talent Cersy, and Loose Lips resident Kortzer.",
+      slug: "https://github.com/navneetsharmaui/sveltekit-starter",
+      img: "https://imgproxy.ra.co/_/quality:66/w:1500/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vODkxMjlmZGEzN2EzZjIxMDEwOTg1YzZiZmNmNjVjZDFlMGI1ZWIwYi5wbmc=",
+      icon: "",
+      date: "28/01/2023"
+    }
+  ];
+  return `
 
-<span class="token decorator"><span class="token at operator">@</span><span class="token function">NgModule</span></span><span class="token punctuation">(</span><span class="token punctuation">&#123;</span>
-  imports<span class="token operator">:</span> <span class="token punctuation">[</span>
-    ReactiveFormsModule
-  <span class="token punctuation">]</span><span class="token punctuation">,</span>
-<span class="token punctuation">&#125;</span><span class="token punctuation">)</span>
-<span class="token keyword">export</span> <span class="token keyword">class</span> <span class="token class-name">AppModule</span> <span class="token punctuation">&#123;</span> <span class="token punctuation">&#125;</span></code>`}<!-- HTML_TAG_END --></pre>
-<h2 id="${"usage"}"><a class="${"anchor"}" href="${"#usage"}">Usage</a></h2>
-<pre class="${"language-ts"}"><!-- HTML_TAG_START -->${`<code class="language-ts">
-<span class="token keyword">import</span> <span class="token punctuation">&#123;</span> Component <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/core'</span><span class="token punctuation">;</span>
-<span class="token keyword">import</span> <span class="token punctuation">&#123;</span> FormControl <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/forms'</span><span class="token punctuation">;</span>
 
-<span class="token decorator"><span class="token at operator">@</span><span class="token function">Component</span></span><span class="token punctuation">(</span><span class="token punctuation">&#123;</span>
-  selector<span class="token operator">:</span> <span class="token string">'app-name-editor'</span><span class="token punctuation">,</span>
-  templateUrl<span class="token operator">:</span> <span class="token string">'./name-editor.component.html'</span><span class="token punctuation">,</span>
-  styleUrls<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token string">'./name-editor.component.css'</span><span class="token punctuation">]</span>
-<span class="token punctuation">&#125;</span><span class="token punctuation">)</span>
-<span class="token keyword">export</span> <span class="token keyword">class</span> <span class="token class-name">NameEditorComponent</span> <span class="token punctuation">&#123;</span>
-  name <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">FormControl</span><span class="token punctuation">(</span><span class="token string">''</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span class="token punctuation">&#125;</span></code>`}<!-- HTML_TAG_END --></pre>
-<p>Aliquam id mauris ornare, semper lorem eget, volutpat tortor. Phasellus neque urna, maximus non ornare non, tristique aliquam metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec laoreet eleifend quam eget semper. Phasellus porttitor massa eget tristique tempus. Sed posuere, ex et tristique ultrices, nulla ligula dictum lacus, ut commodo nisi neque ut mi. In auctor lacus sem, vitae commodo sem tempor vel. Proin viverra aliquam eros. Vestibulum imperdiet diam a diam suscipit tincidunt. Sed vitae orci nunc.</p>
-<h2 id="${"pellentesque"}"><a class="${"anchor"}" href="${"#pellentesque"}">Pellentesque</a></h2>
-<p>Pellentesque id metus sed arcu egestas posuere vehicula eget magna. Praesent eu dui sed eros blandit volutpat tempus sit amet magna. Vestibulum sed ex a lorem imperdiet eleifend. Nulla ultricies tortor sit amet volutpat accumsan. Sed non nunc dignissim, aliquet nunc at, fringilla nisl. Donec pharetra feugiat sapien viverra posuere. Suspendisse et aliquet urna. Cras at nibh nec lacus vehicula scelerisque. In iaculis, nibh nec congue congue, augue diam rhoncus lorem, feugiat dapibus sem nulla ut diam. Integer fringilla eget erat nec imperdiet. Nam accumsan et arcu sed sodales. Donec rutrum mi quam, nec fermentum nibh finibus nec. Proin semper, lacus et hendrerit suscipit, lorem nunc pharetra augue, vel pretium sem urna ut urna.</p>`
-  })}`;
+ 
+
+
+
+
+${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
+
+
+
+
+<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}">
+		<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"}">Upcoming Events </h2>
+		${events.length > 0 ? `${each(events, (event) => `${validate_component(ProjectCard, "ProjectCard").$$render($$result, { project: event }, {}, {})}`)}` : ``}
+		<a href="${"events"}" class="${"viewAll"}"><p class="${"font-italic text-m text-white"}">View past events</p></a>
+
+			
+			<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"}">Past Events </h2>
+			${events.length > 0 ? `${each(events, (event) => `${validate_component(ProjectCard, "ProjectCard").$$render($$result, { project: event }, {}, {})}`)}` : ``}
+			<a href="${"events"}" class="${"viewAll"}"><p class="${"font-italic text-m text-white"}">View past events</p></a></div>`;
 });
 var index$8 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
-  "default": First_snippet,
-  metadata: metadata$4
+  "default": Events,
+  load: load$3
 });
 const About = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   const metaData = {
@@ -3480,8 +3535,8 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
 
 	<p class="${"text-gray-600 dark:text-gray-400 mb-4"}">Discover a wealth of music-related content with our extensive collection of blog posts. From in-depth album reviews and artist interviews to the latest industry news and concert coverage, our team of passionate music enthusiasts bring you the best of the music scene.
 		</p>
-	<div class="${"flex flex-row flex-wrap w-full mt-4 items-center"}">${each(tags, (tag, index2) => `<a sveltekit:prefetch${add_attribute("href", `/tags/${convertToSlug(tag)}`, 0)}${add_attribute("aria-label", tag, 0)} class="${"text-xl font-bold text-black-400 dark:text-black-300 hover:text-blue-900 dark:hover:text-blue-500"}">${escape(tag.toUpperCase())}</a>
-			${index2 !== tags.length - 1 ? `<p class="${"mr-2 ml-2 text-gray-500 dark:text-gray-50"}">${escape(` \u2022 `)}
+	<div class="${"flex flex-row flex-wrap w-full mt-4 items-center"}">${each(tags, (tag, index2) => `<a sveltekit:prefetch${add_attribute("href", `/tags/${convertToSlug(tag)}`, 0)}${add_attribute("aria-label", tag, 0)} class="${"text-xl font-bold text-black-400 text-black dark:text-white hover:text-white dark:hover:text-white"}">${escape(tag.toUpperCase())}</a>
+			${index2 !== tags.length - 1 ? `<p class="${"mr-2 ml-2 text-black dark:text-white"}">${escape(` \u2022 `)}
 				</p>` : ``}`)}</div>
 	
 	<div class="${"relative w-full mb-4"}"><input aria-label="${"Search articles"}" type="${"text"}" placeholder="${"Search articles"}" class="${"px-4 py-2 border border-gray-300 dark:border-gray-900 focus:ring-blue-500 focus:border-blue-500 block w-full rounded-md bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"}"${add_attribute("value", searchValue, 0)}>
@@ -3626,131 +3681,174 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
     nextHref: nextArticleLink
   }, {}, {})}</div>` : ``}</article>`;
 });
-const metadata$3 = {
+const metadata$2 = {
   "layout": "blog",
-  "title": "Yet another article",
-  "slug": "yet-another-blog-post",
-  "description": "Fusce ac lorem sit amet metus vestibulum dapibus ut at mauris. Etiam ut pulvinar nibh.",
-  "author": "Sveltekit Blogger",
-  "date": "2021-09-11",
-  "banner": "/images/blogs/yet-another-blog-post/banner.jpg",
+  "title": "10/10 DJ Sets that I was too tired to write about in 2022",
+  "slug": "1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022",
+  "description": "This is Will's ninth post-lockdown gig review, as always he did not receive payment or press tickets for this, just went as a punter and felt like there was a story there.",
+  "author": "Will Soer",
+  "date": "2022-07-09",
+  "banner": "https://web.archive.org/web/20221110171633im_/https://loose-lips.co.uk/img/blog/634d58f9a3591/634d58f9a4a49.jpg",
   "published": true,
-  "tags": ["Angular", "Typescript", "web development", "Programming", "React"]
+  "tags": ["Event Review"]
 };
-const Yet_another_blog_post = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$3), {}, {
-    default: () => `<h2 id="${"lorem-ipsum"}"><a class="${"anchor"}" href="${"#lorem-ipsum"}">Lorem ipsum</a></h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat, lacus et accumsan lobortis, justo sapien mattis felis, et lacinia ante libero ut augue. Etiam nec odio at erat commodo scelerisque. Phasellus convallis, mauris a tincidunt convallis, leo velit efficitur arcu, vitae rutrum justo dolor at nisl. Donec ut scelerisque ligula, eu ultrices libero. Quisque tincidunt ex sed scelerisque vulputate. Phasellus eget urna dui. Vestibulum fermentum dolor non dolor aliquam maximus. Fusce ac lorem sit amet metus vestibulum dapibus ut at mauris. Etiam ut pulvinar nibh. Donec maximus mollis mauris quis viverra. Etiam malesuada nisi sapien, et ornare velit venenatis id. Curabitur sollicitudin ipsum id nisi convallis placerat.</p>
-<pre class="${"language-jsx"}"><!-- HTML_TAG_START -->${`<code class="language-jsx"><span class="token keyword">const</span> snapshot <span class="token operator">=</span> <span class="token keyword">await</span> db<span class="token punctuation">.</span><span class="token function">ref</span><span class="token punctuation">(</span><span class="token string">'views'</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">once</span><span class="token punctuation">(</span><span class="token string">'value'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span class="token keyword">const</span> views <span class="token operator">=</span> snapshot<span class="token punctuation">.</span><span class="token function">val</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span class="token keyword">const</span> allViews <span class="token operator">=</span> Object<span class="token punctuation">.</span><span class="token function">values</span><span class="token punctuation">(</span>views<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">reduce</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token parameter">total<span class="token punctuation">,</span> value</span><span class="token punctuation">)</span> <span class="token operator">=></span> total <span class="token operator">+</span> value<span class="token punctuation">)</span><span class="token punctuation">;</span></code>`}<!-- HTML_TAG_END --></pre>
-<p>Etiam commodo vulputate feugiat. Suspendisse accumsan varius maximus. Etiam vitae odio est. Nulla lobortis sit amet lacus non pellentesque. Mauris finibus mattis libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras fringilla mattis enim et iaculis. Donec nec erat a massa egestas varius. Vestibulum et accumsan risus. Nulla felis ligula, vehicula sit amet augue vel, porttitor vestibulum ante. Nullam faucibus sed tortor eu lobortis. Ut facilisis eget leo eu lacinia. Etiam luctus scelerisque urna, quis vestibulum tellus scelerisque eu. Donec sit amet lectus sit amet arcu ullamcorper sollicitudin.</p>
-<h2 id="${"phasellus"}"><a class="${"anchor"}" href="${"#phasellus"}">Phasellus</a></h2>
-<p>Phasellus quis faucibus tortor, vel rhoncus nibh. Curabitur gravida massa nisi, sed tempus justo maximus id. Etiam at nunc finibus, venenatis nulla ac, hendrerit diam. Quisque tortor neque, mattis id turpis at, posuere mollis justo. Sed non massa et massa eleifend eleifend consectetur consectetur ex. Pellentesque in risus sed justo dapibus eleifend quis nec sem. Quisque id neque ultrices, tempor massa vel, tempor dui. Nunc ut tincidunt ex, at aliquet enim. Donec tincidunt laoreet convallis. Phasellus mattis nec magna at viverra. Quisque consectetur erat sit amet nisl molestie ultrices. Nulla facilisi. Quisque rutrum maximus ex ut iaculis. Aliquam hendrerit eros ex, vestibulum mollis libero tempus eget.</p>
-<p>Aliquam id mauris ornare, semper lorem eget, volutpat tortor. Phasellus neque urna, maximus non ornare non, tristique aliquam metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec laoreet eleifend quam eget semper. Phasellus porttitor massa eget tristique tempus. Sed posuere, ex et tristique ultrices, nulla ligula dictum lacus, ut commodo nisi neque ut mi. In auctor lacus sem, vitae commodo sem tempor vel. Proin viverra aliquam eros. Vestibulum imperdiet diam a diam suscipit tincidunt. Sed vitae orci nunc.</p>
-<h2 id="${"pellentesque"}"><a class="${"anchor"}" href="${"#pellentesque"}">Pellentesque</a></h2>
-<p>Pellentesque id metus sed arcu egestas posuere vehicula eget magna. Praesent eu dui sed eros blandit volutpat tempus sit amet magna. Vestibulum sed ex a lorem imperdiet eleifend. Nulla ultricies tortor sit amet volutpat accumsan. Sed non nunc dignissim, aliquet nunc at, fringilla nisl. Donec pharetra feugiat sapien viverra posuere. Suspendisse et aliquet urna. Cras at nibh nec lacus vehicula scelerisque. In iaculis, nibh nec congue congue, augue diam rhoncus lorem, feugiat dapibus sem nulla ut diam. Integer fringilla eget erat nec imperdiet. Nam accumsan et arcu sed sodales. Donec rutrum mi quam, nec fermentum nibh finibus nec. Proin semper, lacus et hendrerit suscipit, lorem nunc pharetra augue, vel pretium sem urna ut urna.</p>
-<h2 id="${"quis"}"><a class="${"anchor"}" href="${"#quis"}">Quis</a></h2>
-<p>Phasellus quis faucibus tortor, vel rhoncus nibh. Curabitur gravida massa nisi, sed tempus justo maximus id. Etiam at nunc finibus, venenatis nulla ac, hendrerit diam. Quisque tortor neque, mattis id turpis at, posuere mollis justo. Sed non massa et massa eleifend eleifend consectetur consectetur ex. Pellentesque in risus sed justo dapibus eleifend quis nec sem. Quisque id neque ultrices, tempor massa vel, tempor dui. Nunc ut tincidunt ex, at aliquet enim. Donec tincidunt laoreet convallis. Phasellus mattis nec magna at viverra. Quisque consectetur erat sit amet nisl molestie ultrices. Nulla facilisi. Quisque rutrum maximus ex ut iaculis. Aliquam hendrerit eros ex, vestibulum mollis libero tempus eget.</p>
-<p>Aliquam id mauris ornare, semper lorem eget, volutpat tortor. Phasellus neque urna, maximus non ornare non, tristique aliquam metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec laoreet eleifend quam eget semper. Phasellus porttitor massa eget tristique tempus. Sed posuere, ex et tristique ultrices, nulla ligula dictum lacus, ut commodo nisi neque ut mi. In auctor lacus sem, vitae commodo sem tempor vel. Proin viverra aliquam eros. Vestibulum imperdiet diam a diam suscipit tincidunt. Sed vitae orci nunc.</p>
-<h2 id="${"magna"}"><a class="${"anchor"}" href="${"#magna"}">Magna</a></h2>
-<p>Pellentesque id metus sed arcu egestas posuere vehicula eget magna. Praesent eu dui sed eros blandit volutpat tempus sit amet magna. Vestibulum sed ex a lorem imperdiet eleifend. Nulla ultricies tortor sit amet volutpat accumsan. Sed non nunc dignissim, aliquet nunc at, fringilla nisl. Donec pharetra feugiat sapien viverra posuere. Suspendisse et aliquet urna. Cras at nibh nec lacus vehicula scelerisque. In iaculis, nibh nec congue congue, augue diam rhoncus lorem, feugiat dapibus sem nulla ut diam. Integer fringilla eget erat nec imperdiet. Nam accumsan et arcu sed sodales. Donec rutrum mi quam, nec fermentum nibh finibus nec. Proin semper, lacus et hendrerit suscipit, lorem nunc pharetra augue, vel pretium sem urna ut urna.</p>`
+const _1010_dj_sets_that_i_was_too_tired_to_write_about_in_2022 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$2), {}, {
+    default: () => `<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171515im_/https://loose-lips.co.uk/img/wysiwyg/634d5881bf12c.jpg"}"></a></p>
+<blockquote><p>This is Will\u2019s ninth post-lockdown gig review, as always he did not receive payment or press tickets for this, just went as a punter and felt like there was a story there. You can read his other ones here.</p></blockquote>
+<p>Blah blah blah burnout post covid you know the drill. I was just thinking back on this year, and I realised that something strange has happened, or rather something strange for a person like me who makes sense of the world through stories and narratives, who likes to note down interesting occurrences and discuss them with pals. I was finding it tricky to remember my top nights out of 2022 off the top of my head.\xA0</p>
+<p>I asked my partner and our best bud (we often go out as a three), and they said the same thing. I imagine that a lot of the DJs feel the same way, I saw a lot of them talking about 2022 as the longer summer of their lives, and we\u2019re just now starting to see a wave of amazing artists cancelling shows or tours for financial reasons (eg Santigold, Blue Lab Beats and Animal Collective).\xA0</p>
+<p>Well you know what, I may be lying in a puddle on the sofa with a head full of phlegm and 404 page errors, but goddamn it I will not let these post-lockdown memories be lost to the sands of time. These artists are fighting for their craft and our shuffling feet, and they deserve to be remembered, even if I don\u2019t have the notes to put together a proper review; the track IDs I mention are mostly just songs that me or my buds recognized. Let\u2019s get into it.</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171654im_/https://loose-lips.co.uk/img/wysiwyg/63500b74f41f5.jpg"}"></a></p>
+<h2 id="${"moxie--uniiqu3---melt-festival-11--120622"}"><a class="${"anchor"}" href="${"#moxie--uniiqu3---melt-festival-11--120622"}">Moxie &amp; UNIIQU3 - Melt Festival, 11 &amp; 12/06/22</a></h2>
+<p>Two totally different DJ sets from the best blockbuster dance festival in Europe, I\u2019m calling it; diverse crowds, beautiful surroundings, you can swim in the lake in the morning to cool off, and it\u2019s near Berlin so people with more serotonin than me can just keep going! This year\u2019s event was a slightly funny one as the festival had been off for a year, so naturally there were some hiccups in the organisation, including moving the all-night stage right next to the campsite, not great for crotchety old men like me who like to sleep sometimes. However, one really cool addition to the festival was the \u2018Radio\u2019 stage, which was also right next to the campsite, but was only on in the daytime. Moreover, it was on an actual beach, you could literally wade in and out of the crowd, or lie on the side, love it.\xA0</p>
+<p>Moxie (my favourite House/Techno DJ) did two DJ sets in the weekend, one of them was at the iconic \u2018Big Wheel\u2019 stage underneath an enormous crane (this\xA0kinda vibe), and one was at the Radio stage. The latter was a gorgeous moment for me, dancing with my eyes gazing out towards the water to glistening metropolitan grooves, the kind of moment that\u2019s hard to write about really, though I will share my favourite track ID, from a producer who Moxie plays out a lot; Leave Your Life by Alex Kassian. I mean, just listen to that tune, it is simply perfect. Or go ahead and\xA0listen to the full set, like all of the Radio stage sets it was livestreamed. I should say that the guy in the photo above isn\u2019t me, although he was clearly having a great time too.</p>
+<p>Then there was UNIIQU3, on the last night of Melt festival, at the Big Wheel stage. Jersey Club really is just the best genre to make me feel crazy, partly because it\u2019s crazy how many times I\u2019ve had to dance to music that isn\u2019t Jersey Club. Last year I went crazy watching Anu play a load of Jersey Club tunes, and this year we got to New Jersey Club\u2019s hometown club queen. It was a lovely moment as my festi crew had strayed and split at points over the weekend (I spent most of that Moxie set solo), but at this time we were all together, throwing it down and being silly in the sunshine #yolo, memory is fuzzy but I thiiiink she played Twerkulater by City Girls, and she definitely played her own tunes; personal anthem Microdosing plus a fucking huge remix she made of Where\u2019s Your Head At by Basement Jaxx.\xA0</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171619im_/https://loose-lips.co.uk/img/wysiwyg/63500c79df595.jpg"}"></a></p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171713im_/https://loose-lips.co.uk/img/wysiwyg/63500c8c8b0c4.jpg"}"></a></p>
+<h2 id="${"ag---vogue-fabrics-dalston-290722"}"><a class="${"anchor"}" href="${"#ag---vogue-fabrics-dalston-290722"}">A.G - Vogue Fabrics Dalston, 29/07/22</a></h2>
+<p>This was comfortably my favourite set of the year so far, it\u2019s also the main reason I wanted to write this article. I know a few others that I want to cover off the top of my head, but this was comfortably the best DJ set that I experienced this year (judged purely in terms of the music), and funnily enough it was the same day that my second favourite album of the year was released too; Renaissance by Beyonc\xE9. A.G didn\u2019t fuck around, she played like three different tracks of that album, along with recent hits like Doja by Central Cee, looping that iconic \u2018how can I be homophobic, my b***h is gay\u2019 lyric.</p>
+<p>It\u2019s funny, a lot of DJs will use famous tracks to inject some life into their set, but A.G fucking bulldozed the vibe with bangers, blending up to three of them at once and twisting them in insanely creative ways that responded to the queer dancefloor in front of her, maybe my favourite was her playing a Drill remix of Lady Gaga\u2019s Just Dance, with those massive synths sounded like heroin.</p>
+<p>The crowd was a starkly contrasted mixture of Dalston queers and random dudes, and one of the two main speaker stacks was broken for a lot of the night, but you really cannot keep the baddest of them all down, she destroyed it and twisted it with meta moments like playing Beyonc\xE9\u2019s Alien Superstar, with its intro \u2018Please do not be alarmed, remain calm, do not attempt to leave the dancefloor, the DJ booth is conducting a troubleshoot test of the entire system.\u2019</p>
+<p>Side-note; A.G released a really sick grime instrumental production around that time called GML, with a set of different versions with different vocal styles on top of it, perfect for looping over and over in the afterglow of the dance. But yeah for the love of god people book A.G if you really wanna make people dance. I know I sound performative saying that and my audience for these articles isn\u2019t too London promoters, it my mates and my mum, but I really really mean it.</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171559im_/https://loose-lips.co.uk/img/wysiwyg/634d56d31fbf3.jpg"}"></a></p>
+<h2 id="${"shivum-sharma---keep-hush-at-the-victoria-dalston-170822"}"><a class="${"anchor"}" href="${"#shivum-sharma---keep-hush-at-the-victoria-dalston-170822"}">Shivum Sharma - Keep Hush at the Victoria Dalston, 17/08/22</a></h2>
+<p>This was a super bizarre one, 6pm on a Wednesday in the back of a pub, we thought Shivum was going to perform some tunes from his gorgeous, lush, super chill debut EP, as this event was under his name, but instead it was a dance event that he had curated themselves, and he DJ-ed at the very start! All the DJs were sick - Lexii had a MVP moment playing a Jersey Club remix of Waiting For Tonight by Jennifer Lopez, seriously gucci shit. But my favourite set was Shivum\u2019s, it was really smooth and sweet and elevated, just like their EP, but also totally different because it was, you know, a dance music DJ set.\xA0</p>
+<p>About halfway through the set, he played a voguey blend of SWV - Rain, really cute moment as it been a really rainy track that day, my bud Angus (who helped me write this review) had actually been playing the original that day at the deli where he works, lovely. Around the end there was also a remix of Liquorice\xA0by Azealia Banks, just to get my late-period-Millennial heart a flutter. Beaut. Here\u2019s a link to the stream!</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171550im_/https://loose-lips.co.uk/img/wysiwyg/634d57ed9977c.jpg"}"></a></p>
+<h2 id="${"ok-williams---possibly-maybe-adonis-200822"}"><a class="${"anchor"}" href="${"#ok-williams---possibly-maybe-adonis-200822"}">OK Williams - Possibly Maybe, Adonis, 20/08/22</a></h2>
+<p>This one was absolute rave bliss, taking place at the Cause\u2019s temporary outdoor home out in Canning Town, with cable cars dotting the distant sunset. It\u2019s worth mentioning at this point that, like a few of the events I\u2019ve covered so far, this was a queer event, and moreover this particular event, Adonis, was home to a real queer community, 97% gay men. Add into this the fact that almost all the DJs were women/female-presenting, and you\u2019ve got a really fun cock-tail. Ugh look guys I\u2019m flagging, my standard of writing is not where I want it to be, you get the idea if was a cool event for me. So cool that I found myself having these big revelations about myself my life and my partner and my friend and sharing them with tears in my eyes, I\u2019m really grateful to the Adonis crowd for welcoming us.</p>
+<p>ANYWAY the outdoor part of the event was headlined by OK Williams, and to nobody\u2019s surprise she smashed it, total vibes from start to finish. At one point my partner had an \u2018OH MY GOD THIS SONG\u2019 moment that meant we had to run over to the dance floor (Saturday Night - Whigfield) only to bump into my buddy who had just had the exact same moment for the previous track; Sfire 7 (by Sfire, an early project from the late trans production visionary Sophie). At the very end, OK Williams was playing some big housey tune, blended it into a looped beat, this big bumping tribalistic rrrrraaaaaawwwwr type of vibe, and then slowed that beat down, unlooped it, and allowed the track to reveal itself as Gimme More by Britney Spears (although my partner had already worked this out, come on Will you know this, I walk to this song so often). Fuuuuck me we cheered, and this gorgeous queen whose outfit we had been admiring earlier climbed up into the rafters above the DJ decks and hung above us like a sexy bat.</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171522im_/https://loose-lips.co.uk/img/wysiwyg/634d57fa6a91b.jpg"}"></a></p>
+<h2 id="${"shy-one-martelo--benji-b---notting-hill-carnival-deviation-stage-280822"}"><a class="${"anchor"}" href="${"#shy-one-martelo--benji-b---notting-hill-carnival-deviation-stage-280822"}">Shy One, Martelo &amp; Benji B - Notting Hill Carnival Deviation stage, 28/08/22</a></h2>
+<p>Notting Hill Carnival! One of my all-time favourite DJs and curators Benji B usually puts on his Deviation sound system there, I was worried it might be off this year but with two days to go he shares a cheeky animation of a whistle with a rave siren behind it on Instagram. It\u2019s back at St Luke\u2019s Road, the same place as last time in 2019, that August day I managed to catch the last half hour, having been working as a tour guide that day and somehow found my friends, using only the word \u2018deviation\u2019 and strangers\u2019 directions. Well, I got a Monday to Friday job now muthafuckas, giving me enough time to rest and be nice and sober on a Saturday before heading to carnival nice n early the next day, with those same people I went to meet back in 2019, my partner and my best mate.</p>
+<p>The stage is at the edge of the carnival site, near a tube station, so it creeps up on us suddenly as we arrive at 12:45am. Shy one had just started DJing, and the mc Judah has been wheeling up almost all of her tracks, \u201Cno no no it\u2019s the Magnum talking\u201D, referring to a drink that Shy One just bought that morning in an off license. How do I know that???? She posted it in her insta story, alongside her set times, she was the only DJ I knew was coming up. And yeah wowwwww she killed it, starting with a set of old school Reggae classics before sliding into modern times, with Blind To You by Collie Buddz, Fall In Love by Popcaan and Ramping Shop by Vybz Cartel. Oooooooooooh baby it felt good, the crowds hadn\u2019t bulked yet, people were smiling, there was a random guy doing his plants on a balcony behind the stage and ye waved and the crowd whooped. A couple of times Benji B reached forward and clicked a small synth looking thing next to the decks, manipulating a serene rave siren. Ooooh ah oooh ah ooooh.</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171516im_/https://loose-lips.co.uk/img/wysiwyg/634d581931145.jpg"}"></a></p>
+<p>Then Martelo came in and the crowd got packed but he kept us moving baby, turned the tempo up dramatically, beautiful scenes, also layering in some balmy bangers like Together by Ruff Sqwad, Wasting Time\xA0by Brent Faiyaz and Millionaire by Kelis ooooh yes. You know I was actually listening to Martelo live on nts when I first got my job offer (having been trying to get a steady gig for like 16 months) what serendipity, he\u2019s so sick.</p>
+<p>We headed out as Sherelle came on, as the crowds were getting pretty rammed and we deserved a break. We then made the stupid mistake of trying to find a friend of ours (hands up that was my idea, I thought I could be special and pull it off), a friend whose group headed on after we got there, then my pals had to use the toilet and this took them an hour etc etc, leaving me writing the last few stand 4:12pm queuing for food whilst my mates search for toilets. I didn\u2019t have the boost in my system to keep raving it up in the masses, but I got to see the quality, the sauce, the niceness.</p>
+<p>Well, that\u2019s what I wrote at 4:12pm. After wolfing down my food and finding my partner and my bud by some toilets with a humungous we caught up about our day, and decided to go back to the Deviation stage for one last hurrah. We arrived to find the music was off, someone had been injured opposite the stage and police were demanding that the crowd make way. It took ages for this to happen, and even then the police wouldn\u2019t ok the music, leading to this really weird situation.</p>
+<p>MC Judah standing on stage, he had been addressing the crowd over and over and over asking us to make way, and now he\u2019s addressing the constable (he stutters), \u2018we\u2019ve done what you said, please can we turn the music back on\u2026 please\u2026 <em>looks out across the stage</em> well I wait for your signal.\u201D A few minutes later he repeated this, waited again, until finally he announced that the music was returning. The crazy thing is that, after a couple of rapid fire sets from a DJ and a rap performance from the Minikingz, it all ended in a 30 minute DJ set from Benji B. 30 minutes to justify all of that effort and waiting, just as I\u2019d experienced 3 years ago. He didn\u2019t need it, the final 3 minutes alone were worth the entry price, he finished off with Rock The Boat\xA0by Aaliyah and Family Ties by Baby Keem. Water and fire. A lot of that final set was at the gradual, head nod tempo of Rock The Boat, waves of bass rippling through us alongside the shaking sweaty tides of the crowd, yes Benji, nothing I love more than a DJ who cuts the tempo at the moment of climax, easy, there\u2019s nowhere that we need to get to, the procession of punters trying to get from one side of the crowd to another can march on and our legs may ache but we stay here and bathe in excellence.</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171520im_/https://loose-lips.co.uk/img/wysiwyg/634d58509b092.jpg"}"></a></p>
+<h2 id="${"digital-mystikz---waterworks-festival-september-17th"}"><a class="${"anchor"}" href="${"#digital-mystikz---waterworks-festival-september-17th"}">Digital Mystikz - Waterworks Festival, September 17th</a></h2>
+<p>This festival was all a bit up and down for me, my head just wasn\u2019t quite and some of the programming was a bit confusing. I actually messaged waterworks\u2019 Instagram account to complain about it like a fucking nerd; \u201CHello hello, only saying this as last year\u2019s festival was an absolute 10/10 for me and I hold it in such high regard, I\u2019m a little bit disappointed with the way that this year\u2019s set times are stacked up. I really loved how last year finished with a bunch of female DJs getting the stage-headline slot that they deserved and don\u2019t tend to get at other events (Josey Rebelle / Saoirse / Shanti Celeste), all of this year\u2019s stage headliners are male, and most of them are really big. But yeah I\u2019m still super super super excited for the festival and I get that there were probably outside influences to this, just wanted to say this in case anyone in the team is interested.\u201D</p>
+<p>As we came to the end of the day, the problem for us wasn\u2019t just that the a lot of the headliners weren\u2019t particularly musically exciting for us, but the more interesting ones were just too rammed, we went from stage to stage to stage, no no no. Just when all was seemingly lost, we wandered over to the Siren stage (which last year had been an utter roadblock), and lo and behold, Digital Mystikz (the only non-white headliner) were playing to a nice comfy crowd with space to dance near the bass. They also had Sgt Pokes and Flowdan on the mics, the latter did a bit of Horror Show Style, mmmm baby I love that tune. Anyway at this point we had 45 minutes left of the festival, I ran to the bar to grab us some drinks, this process took longer than I\u2019d have liked but I got back with 35 minutes to spare.</p>
+<p>\u201CThis is our last song!\u201D WHAT THE FUCK, oh god I do remember that a couple of the stages were finishing 30 mins early but I swear this wasn\u2019t one of them, agggggghhhh fuck no time for whinging, let\u2019s just enjoy this dirty stinking bass while we can. The track ends and cuts to silence. \u201CActually I don\u2019t think it\u2019s fair that we finish now, do you?\u201D The next track begins. They pranked us!!! Ahaha amazing, what a croc, now we can get back to being very excited and giddy and shaking our butts to a VIP remix of Coki\u2019s Night. \u201CLet\u2019s get emotional, guys\u2026 I know you\u2019re actually sweet, even when you got a screw face I know you don\u2019t mean it\u201D mate I may well get up onstage and give you a kiss if you keep going like this, you saved my life. Dubstep forever!</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171515im_/https://loose-lips.co.uk/img/wysiwyg/634d5881bf12c.jpg"}"></a></p>`
   })}`;
 });
 var index$5 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
-  "default": Yet_another_blog_post,
-  metadata: metadata$3
+  "default": _1010_dj_sets_that_i_was_too_tired_to_write_about_in_2022,
+  metadata: metadata$2
 });
-const metadata$2 = {
+const metadata$1 = {
   "layout": "blog",
-  "title": "Welcome to my blog!",
-  "slug": "welcome-to-my-blog",
-  "description": "Fusce ac lorem sit amet metus vestibulum dapibus ut at mauris. Etiam ut pulvinar nibh.",
-  "author": "Sveltekit Blogger",
+  "title": "Elkka (live) @ Corsica Studios - 09/02/22",
+  "slug": "elkka-live-at-corsica-studios-090222",
+  "description": "This is Will's seventh post-lockdown gig review, as always he did not receive payment or press tickets for this, just went as a punter and felt like there was a story there. ",
+  "author": "Will Soer",
   "date": "2021-09-01",
-  "banner": "/images/blogs/welcome-to-my-blog/banner.jpg",
+  "banner": "https://web.archive.org/web/20220218205113im_/https://loose-lips.co.uk/img/blog/620d4f6948465/620d4f6949320.jpg",
   "published": true,
-  "tags": ["React", "JavaScript", "web development", "Programming"]
+  "tags": ["Event Review"]
 };
-const Welcome_to_my_blog = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$2), {}, {
-    default: () => `<h2 id="${"lorem-ipsum"}"><a class="${"anchor"}" href="${"#lorem-ipsum"}">Lorem ipsum</a></h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat, lacus et accumsan lobortis, justo sapien mattis felis, et lacinia ante libero ut augue. Etiam nec odio at erat commodo scelerisque. Phasellus convallis, mauris a tincidunt convallis, leo velit efficitur arcu, vitae rutrum justo dolor at nisl. Donec ut scelerisque ligula, eu ultrices libero. Quisque tincidunt ex sed scelerisque vulputate. Phasellus eget urna dui. Vestibulum fermentum dolor non dolor aliquam maximus. Fusce ac lorem sit amet metus vestibulum dapibus ut at mauris. Etiam ut pulvinar nibh. Donec maximus mollis mauris quis viverra. Etiam malesuada nisi sapien, et ornare velit venenatis id. Curabitur sollicitudin ipsum id nisi convallis placerat.</p>
-<p>Etiam commodo vulputate feugiat. Suspendisse accumsan varius maximus. Etiam vitae odio est. Nulla lobortis sit amet lacus non pellentesque. Mauris finibus mattis libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras fringilla mattis enim et iaculis. Donec nec erat a massa egestas varius. Vestibulum et accumsan risus. Nulla felis ligula, vehicula sit amet augue vel, porttitor vestibulum ante. Nullam faucibus sed tortor eu lobortis. Ut facilisis eget leo eu lacinia. Etiam luctus scelerisque urna, quis vestibulum tellus scelerisque eu. Donec sit amet lectus sit amet arcu ullamcorper sollicitudin.</p>
-<h2 id="${"phasellus"}"><a class="${"anchor"}" href="${"#phasellus"}">Phasellus</a></h2>
-<p>Phasellus quis faucibus tortor, vel rhoncus nibh. Curabitur gravida massa nisi, sed tempus justo maximus id. Etiam at nunc finibus, venenatis nulla ac, hendrerit diam. Quisque tortor neque, mattis id turpis at, posuere mollis justo. Sed non massa et massa eleifend eleifend consectetur consectetur ex. Pellentesque in risus sed justo dapibus eleifend quis nec sem. Quisque id neque ultrices, tempor massa vel, tempor dui. Nunc ut tincidunt ex, at aliquet enim. Donec tincidunt laoreet convallis. Phasellus mattis nec magna at viverra. Quisque consectetur erat sit amet nisl molestie ultrices. Nulla facilisi. Quisque rutrum maximus ex ut iaculis. Aliquam hendrerit eros ex, vestibulum mollis libero tempus eget.</p>
-<p>Aliquam id mauris ornare, semper lorem eget, volutpat tortor. Phasellus neque urna, maximus non ornare non, tristique aliquam metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec laoreet eleifend quam eget semper. Phasellus porttitor massa eget tristique tempus. Sed posuere, ex et tristique ultrices, nulla ligula dictum lacus, ut commodo nisi neque ut mi. In auctor lacus sem, vitae commodo sem tempor vel. Proin viverra aliquam eros. Vestibulum imperdiet diam a diam suscipit tincidunt. Sed vitae orci nunc.</p>
-<h2 id="${"pellentesque"}"><a class="${"anchor"}" href="${"#pellentesque"}">Pellentesque</a></h2>
-<p>Pellentesque id metus sed arcu egestas posuere vehicula eget magna. Praesent eu dui sed eros blandit volutpat tempus sit amet magna. Vestibulum sed ex a lorem imperdiet eleifend. Nulla ultricies tortor sit amet volutpat accumsan. Sed non nunc dignissim, aliquet nunc at, fringilla nisl. Donec pharetra feugiat sapien viverra posuere. Suspendisse et aliquet urna. Cras at nibh nec lacus vehicula scelerisque. In iaculis, nibh nec congue congue, augue diam rhoncus lorem, feugiat dapibus sem nulla ut diam. Integer fringilla eget erat nec imperdiet. Nam accumsan et arcu sed sodales. Donec rutrum mi quam, nec fermentum nibh finibus nec. Proin semper, lacus et hendrerit suscipit, lorem nunc pharetra augue, vel pretium sem urna ut urna.</p>`
+const Elkka_live_at_corsica_studios_090222 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$1), {}, {
+    default: () => `<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20220218205113im_/https://loose-lips.co.uk/img/blog/620d4f6948465/620d4f6949320.jpg"}"></a></p>
+<blockquote><p>This is Will\u2019s seventh post-lockdown gig review, as always he did not receive payment or press tickets for this, just went as a punter and felt like there was a story there. You can read his other ones here</p></blockquote>
+<p>Elkka only played her first live (ie: non-DJ) gig in the summer of 2020. I caught the end of her set when she supported Jon Hopkins, Moderat and Max Cooper back in October, and thought it was awesome, the music was ecstatic and colourful, I preferred it to all the rest of the night\u2019s tunes. It felt right for 2021, all the tension and build up and excitement and complexity of these times. She had recently delivered a fantastic DJ mix for RA, telling them in the accompanying interview that \u2018I love both DJing and performing live but I think live shows are that bit more personal and vulnerable for me. I sing on some tracks here and there and that connects with people on a different level, I believe.\u2019 I really liked her Euphoric Melodies\xA0EP, and its follow-up\xA0Harmonic Frequencies, so when a headline gig at Corsica Studios came up I snatched up a couple of tickets. I invited my mate \u2018M\u2019 with whom I used to share a flat, both of us have taken on more time consuming jobs since then and have spent considerably less time mucking about in the kitchen or the dancefloor, so it seemed like a good time to catch back up.</p>
+<p>Now the last time I went to Corsica Studios for a gig (as opposed to a 6am-finish clubnight), it was for Mansur Brown. It was an intimate, sold out gig like this one, with fans gathered in a tight cluster beneath the stage. We all love to feel close to the artist, but I often find tight crowds awkward and uncomfortable, that other kind of intimacy where you\u2019re packed up against people who are all looking out of the crowd and into something else, like you\u2019re queuing up for something. I also feel uncomfortable when my big head blocks someone else\u2019s view, especially as I really don\u2019t like having the back of someone\u2019s head up against my face either. That Mansur Brown gig was one of them, my gig buddy was super late, we were stood in a kind of bottleneck at the back of the room (which confusingly seemed to contain as many people as the main room itself). At these kinds of gigs it sometimes feels like you\u2019ve turned up to strengthen your bond to the artist, but you\u2019ll enjoy listening to the music more when you take it into a different setting, when you can sit down, go for a run, dance around in your room.</p>
+<p>This is awkwardness can be exacerbated by the whole post-covid social awkwardness situation, and also by gigs that aren\u2019t visually engaging, when those little bits of perspective that you do get don\u2019t quite justify the squeeze of the crowd. The lead singer from Franz Ferdinand once commented on the acts popular whilst his band was coming up in the early 00s, how they wanted to bring some showmanship to a scene full of blokes standing at laptops, semi-motionless, watched by a motionless crowd. At their worst, live synthesizer gigs can be like watching someone playing video games without being able to see the screen. At their best they can be, well, they can be all sorts of things. Back in my first ever Loose Lips piece in 2018, I wrote that \u2018at their best, live electronic performances can help fans respect and explore the human musicianship that goes into making it.\u2019 I think what I was trying to say was that you can watch a human in a properly explorative, creative state, free to the tap directly into their own inspiration. A state where, as described by Ralph Waldo Emerson, \u2018the laws of the universe will appear less complex, and solitude will not be solitude.\u2019 These musical performances can channel the classic dance music emotions of excitement and tension, and other feelings too. Seeing someone press a switch and immediately feeling the music in their head flood into yours, that\u2019s another kind of intimacy.</p>
+<p>But yeah, like I said I really didn\u2019t want to get bottlenecked again, especially as M is even taller than me, so I suggested we get to the gig really early, so early that even with M turning up 1 hour late it was still easy for us to nab a spot to the side of the space and near the front, where we could clearly see the gig without blocking anyone\u2019s view. I didn\u2019t mind M being late, he gave me enough warning that I was able to switch part of my journey from bus to walk, and enjoy listening to this amazing project (listen to it soon before it gets taken down!) that Benji B and Virgil Abloh put together their Virgil\u2019s last ever Louis Vuitton show, creatively directing a collaboration between Tyler the Creator, legendary Brazilian composer Arthur Verocai and the first ever all-BAME orchestra, the Chineke! Orchestra. It\u2019s amazing, I thoroughly recommend it, and it was a great thing to listen to before the absolutely total opposite was presented by Elkka, one vision presented by one woman with a set of machines and a microphone, set up on a stage about a foot or so above the ground.</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20220218205628im_/https://loose-lips.co.uk/img/wysiwyg/620d56ca675af.JPG"}"></a></p>
+<p>It wasn\u2019t just Elkka\u2019s singing that made the show feel intimate, it was clear that she was actually feeling this music. It\u2019s not that she was dancing, so much as she was moving around the instruments and allowing the music to move through her. At one of my favourite moments she kind of looked like she was stood facing into gale force winds at a cliff\u2019s edge, staying connected to the synth by the tips of her fingers. The function of this music that she\u2019s aiming for very universal, music to heal to, music to re-energise you, memories of connection and burnt orange vibes to pull the sunshine into your lockdown bedroom and get you back on your feet. When I say that the show felt intimate, I don\u2019t mean it in the sense of a singer songwriter sharing personal experiences, it was intimate like the \u2018peace be with you\u2019 and touch of hands at church, mutual intimacy that gives both participants direction for their own private moments.\xA0</p>
+<p>It\u2019s like how both of Elkka\u2019s EP cover artworks feature photos of her with her eyes closed, the focus is not just on her, but on the practice of getting close to own your essence. I could try and go into more of my memories of the gig, which tracks sounded best and the story of how I jussst missed out on a swig from the bottle of Tequila that she passed into the crowd, but it\u2019s not the story of the night that I particularly wanted to share in this review; I went to a gig, enjoyed it, had a little dance with a good friend of mine, got a McPlant with him at Waterloo afterwards and parted with a hearty hug, we both had a great time. The story that I found more interesting was the way that Elkka was able to deliver a performance that felt really pure and powerful and direct, the product of genuinely valuing the healing powers of music. As M once said to me, \u2018what I care about is the beat and what it does to me.\u2019 The gig was great, I\u2019m really excited to see what Elkka does next.\xA0</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20220219023454im_/https://loose-lips.co.uk/img/wysiwyg/620d56d7e64dd.JPG"}"></a></p>`
   })}`;
 });
 var index$4 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
-  "default": Welcome_to_my_blog,
-  metadata: metadata$2
+  "default": Elkka_live_at_corsica_studios_090222,
+  metadata: metadata$1
 });
-const metadata$1 = {
+const metadata = {
   "layout": "blog",
-  "title": "A second blog post",
-  "slug": "a-second-post",
-  "description": "Fusce ac lorem sit amet metus vestibulum dapibus ut at mauris. Etiam ut pulvinar nibh.",
-  "author": "Sveltekit Blogger",
-  "date": "2021-09-08",
-  "banner": "/images/blogs/a-second-post/banner.jpg",
-  "published": true,
-  "tags": ["Svelte", "JavaScript", "Typescript", "web development", "Programming"]
+  "title": "sphie resuscitation kim-cosmik remix",
+  "slug": "sphie-resuscitation-kim-cosmik-remix",
+  "author": "Will Soer",
+  "description": "Truly it was a great journey, and in it I met with many, whom to know was to love; but whom never could I see again; for life has not space enough; and each must do his duty to the security and well-being of the Redoubt.",
+  "banner": "https://web.archive.org/web/20220403120820im_/https://loose-lips.co.uk/img/blog/62236a21df6f3/62236a21e07cc.jpg",
+  "tags": ["Review"],
+  "date": "2022-03-19",
+  "published": true
 };
-const A_second_post = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$1), {}, {
-    default: () => `<h2 id="${"lorem-ipsum"}"><a class="${"anchor"}" href="${"#lorem-ipsum"}">Lorem ipsum</a></h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut volutpat, lacus et accumsan lobortis, justo sapien mattis felis, et lacinia ante libero ut augue. Etiam nec odio at erat commodo scelerisque. Phasellus convallis, mauris a tincidunt convallis, leo velit efficitur arcu, vitae rutrum justo dolor at nisl. Donec ut scelerisque ligula, eu ultrices libero. Quisque tincidunt ex sed scelerisque vulputate. Phasellus eget urna dui. Vestibulum fermentum dolor non dolor aliquam maximus. Fusce ac lorem sit amet metus vestibulum dapibus ut at mauris. Etiam ut pulvinar nibh. Donec maximus mollis mauris quis viverra. Etiam malesuada nisi sapien, et ornare velit venenatis id. Curabitur sollicitudin ipsum id nisi convallis placerat.</p>
-<p>Etiam commodo vulputate feugiat. Suspendisse accumsan varius maximus. Etiam vitae odio est. Nulla lobortis sit amet lacus non pellentesque. Mauris finibus mattis libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras fringilla mattis enim et iaculis. Donec nec erat a massa egestas varius. Vestibulum et accumsan risus. Nulla felis ligula, vehicula sit amet augue vel, porttitor vestibulum ante. Nullam faucibus sed tortor eu lobortis. Ut facilisis eget leo eu lacinia. Etiam luctus scelerisque urna, quis vestibulum tellus scelerisque eu. Donec sit amet lectus sit amet arcu ullamcorper sollicitudin.</p>
-<pre class="${"language-jsx"}"><!-- HTML_TAG_START -->${`<code class="language-jsx"><span class="token keyword">const</span> snapshot <span class="token operator">=</span> <span class="token keyword">await</span> db<span class="token punctuation">.</span><span class="token function">ref</span><span class="token punctuation">(</span><span class="token string">'views'</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">once</span><span class="token punctuation">(</span><span class="token string">'value'</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span class="token keyword">const</span> views <span class="token operator">=</span> snapshot<span class="token punctuation">.</span><span class="token function">val</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
-<span class="token keyword">const</span> allViews <span class="token operator">=</span> Object<span class="token punctuation">.</span><span class="token function">values</span><span class="token punctuation">(</span>views<span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token function">reduce</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token parameter">total<span class="token punctuation">,</span> value</span><span class="token punctuation">)</span> <span class="token operator">=></span> total <span class="token operator">+</span> value<span class="token punctuation">)</span><span class="token punctuation">;</span></code>`}<!-- HTML_TAG_END --></pre>
-<h2 id="${"phasellus"}"><a class="${"anchor"}" href="${"#phasellus"}">Phasellus</a></h2>
-<p>Phasellus quis faucibus tortor, vel rhoncus nibh. Curabitur gravida massa nisi, sed tempus justo maximus id. Etiam at nunc finibus, venenatis nulla ac, hendrerit diam. Quisque tortor neque, mattis id turpis at, posuere mollis justo. Sed non massa et massa eleifend eleifend consectetur consectetur ex. Pellentesque in risus sed justo dapibus eleifend quis nec sem. Quisque id neque ultrices, tempor massa vel, tempor dui. Nunc ut tincidunt ex, at aliquet enim. Donec tincidunt laoreet convallis. Phasellus mattis nec magna at viverra. Quisque consectetur erat sit amet nisl molestie ultrices. Nulla facilisi. Quisque rutrum maximus ex ut iaculis. Aliquam hendrerit eros ex, vestibulum mollis libero tempus eget.</p>
-<p>Aliquam id mauris ornare, semper lorem eget, volutpat tortor. Phasellus neque urna, maximus non ornare non, tristique aliquam metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec laoreet eleifend quam eget semper. Phasellus porttitor massa eget tristique tempus. Sed posuere, ex et tristique ultrices, nulla ligula dictum lacus, ut commodo nisi neque ut mi. In auctor lacus sem, vitae commodo sem tempor vel. Proin viverra aliquam eros. Vestibulum imperdiet diam a diam suscipit tincidunt. Sed vitae orci nunc.</p>
-<h2 id="${"pellentesque"}"><a class="${"anchor"}" href="${"#pellentesque"}">Pellentesque</a></h2>
-<p>Pellentesque id metus sed arcu egestas posuere vehicula eget magna. Praesent eu dui sed eros blandit volutpat tempus sit amet magna. Vestibulum sed ex a lorem imperdiet eleifend. Nulla ultricies tortor sit amet volutpat accumsan. Sed non nunc dignissim, aliquet nunc at, fringilla nisl. Donec pharetra feugiat sapien viverra posuere. Suspendisse et aliquet urna. Cras at nibh nec lacus vehicula scelerisque. In iaculis, nibh nec congue congue, augue diam rhoncus lorem, feugiat dapibus sem nulla ut diam. Integer fringilla eget erat nec imperdiet. Nam accumsan et arcu sed sodales. Donec rutrum mi quam, nec fermentum nibh finibus nec. Proin semper, lacus et hendrerit suscipit, lorem nunc pharetra augue, vel pretium sem urna ut urna.</p>`
+const Sphie_resuscitation_kim_cosmik_remix = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata), {}, {
+    default: () => `<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20220403120820im_/https://loose-lips.co.uk/img/blog/62236a21df6f3/62236a21e07cc.jpg"}"></a></p>
+<p>Oooooh daym you do it well. This tune (available on bandcamp and soundcloud\xA0now) is simultaneously so\xA0rude and so inviting. I really don\u2019t like doing track or album reviews, I find them to be a really boring way of promoting music whilst simultaneously indulging in the fantasy that us music journalists have some kind of objective understanding of what\u2019s good. But this track is just perfect for me so I don\u2019t need to try and be objective, it\u2019s peak out of body pop, exactly the kind of thing I would play on my show, Kim Cosmik must have surely known this when she sent it to me (it\u2019s released on her label, Cybersoul).\xA0</p>
+<p>It reminds me of early midtempo Electro classics like Cybotron\u2019s 1983 tune Clear, and yet it doesn\u2019t feel retro at all because the gritty RUDE beat is meshed into this web of utopian sass. It reminds me of a ridiculously good animated Netflix show called Arcane,\xA0it mixed elements of fantasy and steampunk, tracking the development of a very society whose sophisticated technology combines clockwork with intrinsically powerful materials. One character named Sevika has a bionic arm, containing a mechanism that pumps her veins with \u2018Shimmer\u2019, a translucent, radioactive liquid. Sevika is a villain in the show, but if she had a non-evil-twin sister who used shimmer to colour her hair and power her synthesizer, this would be the kind of music that she would make, designed to soundtrack illegal zeppelin raves. Exquisite.\xA0</p>
+<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20220403120820im_/https://loose-lips.co.uk/img/wysiwyg/6246f1d6152a5.jpg"}"></a></p>`
   })}`;
 });
 var index$3 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
-  "default": A_second_post,
-  metadata: metadata$1
+  "default": Sphie_resuscitation_kim_cosmik_remix,
+  metadata
 });
-const metadata = {
-  "layout": "blog",
-  "title": "First post",
-  "slug": "first-post",
-  "author": "Sveltekit Blogger",
-  "description": "Truly it was a great journey, and in it I met with many, whom to know was to love; but whom never could I see again; for life has not space enough; and each must do his duty to the security and well-being of the Redoubt.",
-  "banner": "/images/blogs/first-post/banner.jpg",
-  "tags": ["Svelte Kit", "Tailwind", "Markdown"],
-  "date": "2021-09-06",
-  "published": true
-};
-const First_post = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata), {}, {
-    default: () => `<p>Truly it was a great journey, and in it I met with many, whom to know was to love; but whom never could I see again; for life has not space enough; and each must do his duty to the security and well-being of the Redoubt. Yet, for all that I have set down, we travelled much, always; but there were so many millions, and so few years.</p>
-<h2 id="${"sample-svelte-component"}"><a class="${"anchor"}" href="${"#sample-svelte-component"}">Sample svelte component</a></h2>
-<p>Atticus said to Jem one day, \u201CI\u2019d rather you shot at tin cans in the backyard, but I know you\u2019ll go after birds. Shoot all the blue jays you want, if you can hit \u2018em, but remember it\u2019s a sin to kill a mockingbird.\u201D That was the only time I ever heard Atticus say it was a sin to do something, and I asked Miss Maudie about it. \u201CYour father\u2019s right,\u201D she said. \u201CMockingbirds don\u2019t do one thing except make music for us to enjoy. They don\u2019t eat up people\u2019s gardens, don\u2019t nest in corn cribs, they don\u2019t do one thing but sing their hearts out for us. That\u2019s why it\u2019s a sin to kill a mockingbird.</p>
-<p>I took a deep breath and listened to the old brag of my heart. I am, I am, I am.</p>
-<p>We believe that we can change the things around us in accordance with our desires\u2014we believe it because otherwise we can see no favourable outcome. We do not think of the outcome which generally comes to pass and is also favourable: we do not succeed in changing things in accordance with our desires, but gradually our desires change. The situation that we hoped to change because it was intolerable becomes unimportant to us. We have failed to surmount the obstacle, as we were absolutely determined to do, but life has taken us round it, led us beyond it, and then if we turn round to gaze into the distance of the past, we can barely see it, so imperceptible has it become.</p>
-<p>The most beautiful things in the world cannot be seen or touched, they are felt with the heart.</p>
-<p>Hello babies. Welcome to Earth. It\u2019s hot in the summer and cold in the winter. It\u2019s round and wet and crowded. On the outside, babies, you\u2019ve got a hundred years here. There\u2019s only one rule that I know of, babies-\u201CGod damn it, you\u2019ve got to be kind.</p>`
-  })}`;
+const hydrate = dev;
+const router = browser;
+const prerender = true;
+const Crew = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  const metaData = {
+    title: "Project | Sveltekit Blog",
+    description: "Project page of Sveltekit blog starter project",
+    url: "/projects",
+    keywords: ["sveltekit", "sveltekit starter", "sveltekit starter about"],
+    searchUrl: "/projects"
+  };
+  const projects = [
+    {
+      title: "Sveltekit Starter",
+      description: "Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.",
+      slug: "https://github.com/navneetsharmaui/sveltekit-starter",
+      icon: ""
+    },
+    {
+      title: "Sveltekit Blog",
+      description: "Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.",
+      slug: "https://github.com/navneetsharmaui/sveltekit-blog",
+      icon: ""
+    }
+  ];
+  return `
+${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
+
+
+
+<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 dark:text-white"}">Project </h1>
+	<div class="${"mb-8 prose leading-6 text-gray-600 dark:text-gray-400"}"><p>Hey, I&#39;m Sveltekit Blogger. I&#39;m a Software Developer, writer and creator of\xA0
+			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
+    href: "https://github.com/navneetsharmaui/sveltkit-starter"
+  }, {}, {
+    default: () => `Sveltekit Starter Project`
+  })}
+			\xA0and\xA0
+			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
+    href: "https://github.com/navneetsharmaui/sveltekit-blog"
+  }, {}, { default: () => `Sveltekit Blog Project` })}</p></div>
+	${projects.length > 0 ? `${each(projects, (project) => `${validate_component(ProjectCard, "ProjectCard").$$render($$result, { project }, {}, {})}`)}` : ``}</div>
+`;
 });
 var index$2 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
-  "default": First_post,
-  metadata
+  "default": Crew,
+  hydrate,
+  router,
+  prerender
 });
 var __awaiter$1 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
