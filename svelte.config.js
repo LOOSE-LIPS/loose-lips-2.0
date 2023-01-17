@@ -19,7 +19,7 @@ import { fileURLToPath } from 'url';
 import staticAdapter from '@sveltejs/adapter-static';
 import nodeAdapter from '@sveltejs/adapter-node';
 
-import netlifyAdapter from '@sveltejs/adapter-netlify';
+import netlify from '@sveltejs/adapter-netlify';
 import vercelAdapter from '@sveltejs/adapter-vercel';
 
 // Custom require function as replacement for the require from the commonJS in ES Module
@@ -65,8 +65,8 @@ const config = {
 	kit: {
 		// hydrate the <div id="svelte"> element in src/app.html
 		target: '#sveltekit-blog',
-		adapter: netlify(),
 		ssr: true,
+		adapter: netlify(),
 		prerender: {
 			crawl: true,
 			enabled: true,
