@@ -80,7 +80,6 @@
 	<div class="perspective-line">
 	  <p style="margin-left: 14px;" class="text-black dark:text-white">2.0</p>
 	</div>
-	
   </div>
 <!-- Start: Home Page container -->
 
