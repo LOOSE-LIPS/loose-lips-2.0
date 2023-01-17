@@ -5,6 +5,6 @@
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
 [build]
-  command = "npm run dev"
+  command = "npm run build"
   publish = "build/"
   functions = "functions/"
