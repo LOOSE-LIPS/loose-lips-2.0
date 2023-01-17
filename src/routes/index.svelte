@@ -86,7 +86,7 @@
 
 <div class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)">
 	
-	<img src="logo-loose-lips.gif" alt="" style="margin-top: -2vh;">
+	<img src="images/logo-loose-lips.gif" alt="" style="margin-top: -2vh;">
 
 	<a href="#featured" style="
 width: 0;
