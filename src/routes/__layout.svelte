@@ -78,7 +78,7 @@
 	<Header
 		on:toggleTheme="{(e) => toggleThemeMode(e)}"
 		navLinks="{navLinks}"
-		logoImage="{'./mosh1.gif'}"
+		logoImage="{'mosh1.gif'}"
 		title="{'LOOSE LIPS'}"
 		useThemeModeButton="{true}"
 		useTitleAndLogo="{true}"
