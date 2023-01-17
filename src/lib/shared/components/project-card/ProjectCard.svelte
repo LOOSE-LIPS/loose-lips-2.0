@@ -26,23 +26,19 @@
 			class="mb-4 hover:transition-shadow hover:shadow dark:hover:transition-shadow dark:hover:shadow-dark flex items-center border border-gray-200 dark:border-gray-800 rounded p-4"
 		>
 			<div class="h-14 w-14 ml-2 mr-4 flex-shrink-0">
-				<span class="sr-only">Svelte</span>
-				<img
-					alt="{'Sveltekit Blogger'}"
-					src="{'/images/author/sveltekit-blogger.svg'}"
-					width="1.75rem"
-					height="1.75rem"
-					class="h-14 w-14 min-w-sm text-gray-900 dark:text-gray-100"
-				/>
+	
 			</div>
 			<div>
-				<h3 class="text-lg font-bold tracking-tight text-gray-900 dark:text-gray-100">
+				<h2 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 mb-5">
 					{project?.title}
-				</h3>
-				<p class="leading-5 text-gray-700 dark:text-gray-300">
+				</h2>
+				<p class="leading-5 text-gray-700 dark:text-gray-300" style="float: right;">
+					{project?.date}
+				</p>
+				<img src="{project?.img}" alt="" style="height: 26em;">
+				<p class="leading-5 text-gray-700 dark:text-gray-300 mt-5">
 					{project?.description}
 				</p>
-				<img src="{project?.img}" alt="" style="height: 16em;">
 			</div>
 		</div>
 	</ExternalLink>

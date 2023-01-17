@@ -51,40 +51,16 @@
 		keywords: ['radio', 'mixes', 'london radio', 'music'],
 	};
 
-
-	// Add featured mix series
-	const projects: IProjectCard[] = [
+	// EVENTS DATA
+	const events: IProjectCard[] = [
 		{
-			title: 'Sveltekit Starter',
+			title: 'Loose Lips presents: Sunil Sharpe, Cersy & Kortzer',
 			description:
-				'Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.',
+				'Loose Lips brings the legendary Irish turntablist Sunil Sharpe to an exciting new Manchester spot fitted with a beautiful Danley soundsystem. Supported by up and coming techno talent Cersy, and Loose Lips resident Kortzer.',
 			slug: 'https://github.com/navneetsharmaui/sveltekit-starter',
-			img: '',
+			img: 'https://imgproxy.ra.co/_/quality:66/w:1500/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vODkxMjlmZGEzN2EzZjIxMDEwOTg1YzZiZmNmNjVjZDFlMGI1ZWIwYi5wbmc=',
 			icon: '',
-		},
-		{
-			title: 'Sveltekit Blog',
-			description:
-				'Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.',
-			slug: 'https://github.com/navneetsharmaui/sveltekit-blog',
-			img: '',
-			icon: '',
-		},
-		{
-			title: 'Sveltekit Starter',
-			description:
-				'Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.',
-			slug: 'https://github.com/navneetsharmaui/sveltekit-starter',
-			img: 'DIDO_WEB',
-			icon: '',
-		},
-		{
-			title: 'Sveltekit Blog',
-			description:
-				'Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.',
-			slug: 'https://github.com/navneetsharmaui/sveltekit-blog',
-			img: 'mosh3.jpg',
-			icon: '',
+			date: '28/01/2023',
 		},
 	];
 
@@ -95,21 +71,20 @@
 <!-- End: Header Tag -->
 
 <div class="perspective-text">
-
 	<div class="perspective-line">
-	  <p style="margin-left: 23px;">LOOSE </p>
+	  <p style="margin-left: 23px;transform:rotate(4deg)" class="text-black dark:text-white">LOOSE </p>
 	</div>
 	<div class="perspective-line">
-	  <p style="margin-left: 56px;">LIPS</p>
+	  <p style="margin-left: 56px;transform:rotate(-4deg)" class="text-black dark:text-white">LIPS</p>
 	</div>
 	<div class="perspective-line">
-	  <p style="margin-left: 14px;">2.0</p>
+	  <p style="margin-left: 14px;" class="text-black dark:text-white">2.0</p>
 	</div>
 	
   </div>
 <!-- Start: Home Page container -->
 
-<div class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
+<div class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)">
 	
 	<img src="logo-loose-lips.gif" alt="" style="margin-top: -2vh;">
 
@@ -125,52 +100,52 @@ margin-top:5%;
 color: white
 transform: translate(-50%, 0px);">
 </a>
-<p class="font-bold text-2xl text-white text-center" style="margin: auto;transform: rotate(-15deg);" >HAVE A LOOKSY</p>
-<h2 id="featured" class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white" style="margin-top: 5em;"> Featured </h2>
-<img src="DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/asEvnIJ7GfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-		<!-- Start: Top Projects -->
-		<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"> Mix Series </h2>
-
-		{#if projects.length > 0}
-			{#each projects as project}
-				<ProjectCard project="{project}" />
-			{/each}
-		{/if}
-		<a href="tags/react" class="viewAll">
-			<p class="font-italic text-m text-white">View all</p>
-		</a>
-		
-		<!-- End: Top Projects -->
-
-
-		<!-- Start: Top Projects -->
-		<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"> Radio Series </h2>
-
-		{#if projects.length > 0}
-			{#each projects as project}
-				<ProjectCard project="{project}" />
-			{/each}
-		{/if}
-		<a href="tags/react" class="viewAll">
-			<p class="font-italic text-m text-white">View all</p>
-		</a>
-		<!-- End: Top Projects -->
-
-			<!-- Start: Popular Blog Section -->
-	<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em" style="margin-top: 15%;"> Recent Posts </h2>
-
-	{#if blogs.length > 0}
-		{#each blogs as blog, index (blog.slug)}
-			<BlogPost blog="{blog}" />
-		{/each}
-	{/if}
-	<!-- End: Popular Blog Section -->
-
+<p class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white" style="margin: auto;transform: rotate(-15deg);" >HAVE A LOOKSY</p>
 
 </div>
+<div class="flex flex-row justify-left items-start max-w-5xl mx-auto">
+	<div class="p-5">
+<!-- Start: Events -->
+	<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"> Upcoming Events </h2>
+	{#if events.length > 0}
+		{#each events as event}
+			<ProjectCard project="{event}" />
+		{/each}
+	{/if}
+	<a href="events" class="viewAll">
+		<p class="font-italic text-m text-white">View past events</p>
+	</a>
+	<!-- End: Top Events -->
+	</div>
+<div class="p-5">
+	<h2 id="featured" class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white" style="margin-top: 5em;"> Featured </h2>
+	<img src="DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/asEvnIJ7GfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		
+</div>
+
+</div>
+<div class="flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)">
+
+			<!-- Start: Popular Blog Section -->
+			<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em" style="margin-top: 15%;"> Recent Posts </h2>
+			<div>
+				
+			</div>
+			{#if blogs.length > 0}
+				{#each blogs as blog, index (blog.slug)}
+
+				<div class="p-5">
+					<BlogPost blog="{blog}" />
+				</div>
+						
+				{/each}
+			{/if}
+			<!-- End: Popular Blog Section -->
+		
+</div>
+
+
 <!-- End: Home Page container -->
 <!-- Old code for audio player
 	<div class="audio" style="position:fixed;left:0;bottom:0;width:;">
@@ -194,6 +169,7 @@ transform: translate(-50%, 0px);">
   perspective: 23rem;
   z-index: 10;
   position: absolute;
+  margin-left: 1.5em;
 }
 .perspective-line {
   height: 1.4em;

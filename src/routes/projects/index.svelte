@@ -38,22 +38,20 @@
 		searchUrl: '/projects',
 	};
 
-	const projects: IProjectCard[] = [
+		// EVENTS DATA
+		const events: IProjectCard[] = [
 		{
-			title: 'Sveltekit Starter',
+			title: 'Loose Lips presents: Sunil Sharpe, Cersy & Kortzer',
 			description:
-				'Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.',
+				'Loose Lips brings the legendary Irish turntablist Sunil Sharpe to an exciting new Manchester spot fitted with a beautiful Danley soundsystem. Supported by up and coming techno talent Cersy, and Loose Lips resident Kortzer.',
 			slug: 'https://github.com/navneetsharmaui/sveltekit-starter',
+			img: 'https://imgproxy.ra.co/_/quality:66/w:1500/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vODkxMjlmZGEzN2EzZjIxMDEwOTg1YzZiZmNmNjVjZDFlMGI1ZWIwYi5wbmc=',
 			icon: '',
-		},
-		{
-			title: 'Sveltekit Blog',
-			description:
-				'Sveltekit Blog starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application and blog.',
-			slug: 'https://github.com/navneetsharmaui/sveltekit-blog',
-			icon: '',
+			date: '28/01/2023',
 		},
 	];
+
+
 
 	// End: Local component properties
 </script>
@@ -64,21 +62,6 @@
 
 <!-- Start: Project page section -->
 <div class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
-	<h1 class="font-bold text-3xl md:text-5xl tracking-tight mb-4 dark:text-white"> Project </h1>
-	<div class="mb-8 prose leading-6 text-gray-600 dark:text-gray-400">
-		<p>
-			Hey, I'm Sveltekit Blogger. I'm a Software Developer, writer and creator of&nbsp;
-			<ExternalLink href="https://github.com/navneetsharmaui/sveltkit-starter"
-				>Sveltekit Starter Project</ExternalLink
-			>
-			&nbsp;and&nbsp;
-			<ExternalLink href="https://github.com/navneetsharmaui/sveltekit-blog">Sveltekit Blog Project</ExternalLink>
-		</p>
-	</div>
-	{#if projects.length > 0}
-		{#each projects as project}
-			<ProjectCard project="{project}" />
-		{/each}
-	{/if}
+	<h1 class="font-bold text-3xl md:text-5xl tracking-tight mb-4 dark:text-white"> Coming soon... </h1>
 </div>
 <!-- End: Project page section -->

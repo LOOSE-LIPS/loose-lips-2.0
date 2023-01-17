@@ -21,17 +21,17 @@
 {#if blog && blog?.slug}
 	<div class="mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5">
 		<div class="flex flex-col md:flex-row justify-between">
-			<a sveltekit:prefetch href="{`/blog/${blog.slug}`}" class="w-full">
-				<h3 class="text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100">
-					{blog.title}
-				</h3>
-			</a>
-			<img src="{blog.banner}" alt="" style="height: 16em;">
+			<img src="{blog.banner}" alt="" style="height: 24em;width:100%;">
 			
 			<!-- <p class="text-gray-500 text-left md:text-right w-32 mb-4 md:mb-0">
 					{`${views ? new Number(views).toLocaleString() : '–––'} views`}
 				</p> -->
 		</div>
+		<a sveltekit:prefetch href="{`/blog/${blog.slug}`}" class="w-full">
+			<h3 class="text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100">
+				{blog.title}
+			</h3>
+		</a>
 		<p class="text-gray-600 dark:text-gray-400">{blog.description}</p>
 		<p class="text-gray-600 dark:text-gray-400">{blog.date}</p>
 		<TagsContainer tags="{blog.tags}" />

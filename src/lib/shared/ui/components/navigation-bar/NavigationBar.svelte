@@ -49,7 +49,7 @@
 				>
 					<img
 						class="h-10 md:h-14 w-auto"
-						alt="Loose Lips"
+						alt="LL"
 						loading="eager"
 						decoding="async"
 						width="3.5rem"

@@ -11,10 +11,9 @@ const c = [
 	() => import("../../../src/routes/events/index.svelte"),
 	() => import("../../../src/routes/about/index.svelte"),
 	() => import("../../../src/routes/blog/index.svelte"),
-	() => import("../../../src/routes/blog/yet-another-blog-post/index.md"),
-	() => import("../../../src/routes/blog/welcome-to-my-blog/index.md"),
-	() => import("../../../src/routes/blog/a-second-post/index.md"),
-	() => import("../../../src/routes/blog/first-post/index.md"),
+	() => import("../../../src/routes/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md"),
+	() => import("../../../src/routes/blog/elkka-live-at-corsica-studios-090222/index.md"),
+	() => import("../../../src/routes/blog/sphie-resuscitation-kim-cosmik-remix/index.md"),
 	() => import("../../../src/routes/crew/index.svelte"),
 	() => import("../../../src/routes/tags/index.svelte"),
 	() => import("../../../src/routes/tags/[tag]/index.svelte")
@@ -59,26 +58,23 @@ export const routes = [
 	// src/routes/blog/index.svelte
 	[/^\/blog\/?$/, [c[0], c[11]], [c[1]]],
 
-	// src/routes/blog/yet-another-blog-post/index.md
-	[/^\/blog\/yet-another-blog-post\/?$/, [c[0], c[12]], [c[1]]],
+	// src/routes/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md
+	[/^\/blog\/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022\/?$/, [c[0], c[12]], [c[1]]],
 
-	// src/routes/blog/welcome-to-my-blog/index.md
-	[/^\/blog\/welcome-to-my-blog\/?$/, [c[0], c[13]], [c[1]]],
+	// src/routes/blog/elkka-live-at-corsica-studios-090222/index.md
+	[/^\/blog\/elkka-live-at-corsica-studios-090222\/?$/, [c[0], c[13]], [c[1]]],
 
-	// src/routes/blog/a-second-post/index.md
-	[/^\/blog\/a-second-post\/?$/, [c[0], c[14]], [c[1]]],
-
-	// src/routes/blog/first-post/index.md
-	[/^\/blog\/first-post\/?$/, [c[0], c[15]], [c[1]]],
+	// src/routes/blog/sphie-resuscitation-kim-cosmik-remix/index.md
+	[/^\/blog\/sphie-resuscitation-kim-cosmik-remix\/?$/, [c[0], c[14]], [c[1]]],
 
 	// src/routes/crew/index.svelte
-	[/^\/crew\/?$/, [c[0], c[16]], [c[1]]],
+	[/^\/crew\/?$/, [c[0], c[15]], [c[1]]],
 
 	// src/routes/tags/index.svelte
-	[/^\/tags\/?$/, [c[0], c[17]], [c[1]]],
+	[/^\/tags\/?$/, [c[0], c[16]], [c[1]]],
 
 	// src/routes/tags/[tag]/index.svelte
-	[/^\/tags\/([^/]+?)\/?$/, [c[0], c[18]], [c[1]], (m) => ({ tag: d(m[1])})],
+	[/^\/tags\/([^/]+?)\/?$/, [c[0], c[17]], [c[1]], (m) => ({ tag: d(m[1])})],
 
 	// src/routes/api/now-playing/index.json.ts
 	[/^\/api\/now-playing\.json$/],
