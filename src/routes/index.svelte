@@ -72,10 +72,10 @@
 
 <div class="perspective-text">
 	<div class="perspective-line">
-	  <p style="margin-left: 23px;transform:rotate(4deg)" class="text-black dark:text-white">LOOSE </p>
+	  <p style="margin-left: 23px;" class="text-black dark:text-white">LOOSE </p>
 	</div>
 	<div class="perspective-line">
-	  <p style="margin-left: 56px;transform:rotate(-4deg)" class="text-black dark:text-white">LIPS</p>
+	  <p style="margin-left: 56px;" class="text-black dark:text-white">LIPS</p>
 	</div>
 	<div class="perspective-line">
 	  <p style="margin-left: 14px;" class="text-black dark:text-white">2.0</p>
@@ -96,16 +96,23 @@ border-top: 25px solid #8ef6cf;
 display: block;
 margin:auto;
 margin-top:5%;
-color: white
+color: white;
+z-index:15;
 transform: translate(-50%, 0px);">
 </a>
 <p class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white" style="margin: auto;transform: rotate(-15deg);" >HAVE A LOOKSY</p>
 
 </div>
+<div class="p-5">
+	<h2 id="featured" class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"> Featured </h2>
+	<img src="DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/asEvnIJ7GfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+		
+</div>
 <div class="flex flex-row justify-left items-start max-w-5xl mx-auto">
 	<div class="p-5">
 <!-- Start: Events -->
-	<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"> Upcoming Events </h2>
+	<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-1xl text-black dark:text-white"> Upcoming Events </h2>
 	{#if events.length > 0}
 		{#each events as event}
 			<ProjectCard project="{event}" />
@@ -116,12 +123,6 @@ transform: translate(-50%, 0px);">
 	</a>
 	<!-- End: Top Events -->
 	</div>
-<div class="p-5">
-	<h2 id="featured" class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"> Featured </h2>
-	<img src="DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/asEvnIJ7GfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-		
-</div>
 
 </div>
 <div class="flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)">
@@ -203,6 +204,7 @@ p {
 }
 .perspective-line:hover p{
   transform: translate(0, -50px);
+  transform: rotate(4deg);
 }
 .perspective-line:nth-child(1) {
   left: 29px;

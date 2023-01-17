@@ -38,7 +38,7 @@
 	<nav class="flex flex-wrap items-center justify-between w-full max-w-4xl p-6 mx-auto">
 		{#if useTitleAndLogo}
 			<div class="w-auto p-1 text-gray-900 dark:text-gray-100 font-bold" style="position: fixed;
-			left: 50%;
+			left: 5%;
 			top: 10%;
 			transform: translate(-50%, -50%);">
 				<a
