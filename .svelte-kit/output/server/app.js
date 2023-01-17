@@ -2547,7 +2547,7 @@ const _layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `<div class="${"dark:bg-black bg-yellow-50"}">
 	${validate_component(Header, "Header").$$render($$result, {
     navLinks,
-    logoImage: "mosh1.gif",
+    logoImage: "https://i1.sndcdn.com/avatars-C6z0Vyr2LPCI6uHm-ZLN5qA-t200x200.jpg",
     title: "LOOSE LIPS",
     useThemeModeButton: true,
     useTitleAndLogo: true
