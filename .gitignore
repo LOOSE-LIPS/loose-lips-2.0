@@ -1,6 +1,7 @@
 # build folder
 dist/
 build/
+node_modules
 
 # logs
 logs/
