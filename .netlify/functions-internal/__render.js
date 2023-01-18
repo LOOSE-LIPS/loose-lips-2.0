@@ -19471,7 +19471,7 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
 <article class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 w-full"}"><div class="${"flex justify-between w-full mb-8"}"><div><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white"}">${escape(title)}</h1>
 			<p class="${"text-gray-700 dark:text-gray-300"}">${escape(description2)}</p></div>
 		<div class="${"mt-2 sm:mt-0"}"><img${add_attribute("alt", title, 0)}${add_attribute("height", 48, 0)}${add_attribute("width", 48, 0)}${add_attribute("src", `/logos/${logo}`, 0)} class="${"drop-shadow rounded-full"}"></div></div>
-	<div class="${"flex flex-col md:flex-row justify-between items-start md:items-center w-full mt-2"}"><div class="${"flex items-center"}"><img${add_attribute("alt", "Sveltekit Blogger", 0)}${add_attribute("src", "/images/author/sveltekit-blogger.svg", 0)} class="${"rounded-full w-7 h-7"}">
+	<div class="${"flex flex-col md:flex-row justify-between items-start md:items-center w-full mt-2"}"><div class="${"flex items-center"}"><img${add_attribute("alt", "Sveltekit Blogger", 0)}${add_attribute("src", "/images/author/favicon-32x32.png", 0)} class="${"rounded-full w-7 h-7"}">
 			<p class="${"text-sm text-gray-700 dark:text-gray-300 ml-2"}">${escape(author)}
 				${escape(" / ")}
 				${escape(blogTypeDate(date))}</p></div>
@@ -19934,7 +19934,7 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
 
 
 <article class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 w-full"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white"}">${escape(title)}</h1>
-	<div class="${"flex flex-col md:flex-row justify-between items-start md:items-center w-full mt-2"}"><div class="${"flex items-center"}"><img${add_attribute("alt", "Sveltekit Blogger", 0)}${add_attribute("src", "/images/author/sveltekit-blogger.svg", 0)} class="${"rounded-full w-7 h-7"}">
+	<div class="${"flex flex-col md:flex-row justify-between items-start md:items-center w-full mt-2"}"><div class="${"flex items-center"}"><img${add_attribute("alt", "Sveltekit Blogger", 0)}${add_attribute("src", "/images/author/favicon-32x32.png", 0)} class="${"rounded-full w-7 h-7"}">
 			<p class="${"text-sm text-gray-700 dark:text-gray-300 ml-2"}">${escape(author)}
 				${escape(" / ")}
 				${escape(blogTypeDate(date))}</p></div>
