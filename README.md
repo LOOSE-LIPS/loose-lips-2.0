@@ -29,4 +29,4 @@
 
 - Code and Contributions have **MIT License**
 
-*Copyright (c) 2023 Loose Lips ltd
+**Copyright (c) 2023 Loose Lips ltd**
