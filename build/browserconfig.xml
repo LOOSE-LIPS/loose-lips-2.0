@@ -2,7 +2,7 @@
 <browserconfig>
 	<msapplication>
 		<tile>
-			<square150x150logo src="/images/author/sveltekit-blogger.svg" />
+			<square150x150logo src="/images/author/favicon-32x32.png" />
 			<TileColor>#fff</TileColor>
 		</tile>
 	</msapplication>
