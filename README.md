@@ -7,22 +7,22 @@
 
 ## :hammer: Workflow
 
-### set up
+### Set up
 1.  Clone repo: `git clone https://github.com/natesheehan/loose-lips-2.0.git`  
 2.  Change directory `cd repo` 
 3.  Install dependencies: `npm install`
 
 ### Dev
-4.  Pull latest code from main branch: `git pull` 
-5.  Create branch for issue:`git checkout -b "branch-name"`
-6.  Run the dev server to test code:`npm run dev`
-7.  Commit changes as you go along: `git commit -am "commit-message"`
-8.  Build app: `npm run build`
-9.  Commit message when you make a build: `git commit -am "commit-message-build-bump"`
-10. Make a pull request
-11. Merge into main branch
-12. Delete old branch
-13. Repeat
+1.  Pull latest code from main branch: `git pull` 
+2.  Create branch for issue:`git checkout -b "branch-name"`
+3.  Run the dev server to test code:`npm run dev`
+4.  Commit changes as you go along: `git commit -am "commit-message"`
+5.  Build app: `npm run build`
+6.  Commit message when you make a build: `git commit -am "commit-message-build-bump"`
+7. Make a pull request
+8. Merge into main branch
+9. Delete old branch
+10. Repeat
 
 
 ## 💫 License
