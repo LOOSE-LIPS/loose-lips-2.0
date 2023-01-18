@@ -82,7 +82,7 @@ const snippetsBannerStorePath = './static/images/snippets';
 						const twitterProfileHeading = document.createElement('h1');
 						twitterProfileHeading.className =
 							'font-bold text-2xl tracking-tight text-gray-300 dark:text-gray-300';
-						twitterProfileHeading.textContent = '@asnavneetsharma';
+						twitterProfileHeading.textContent = '@looselipsevents';
 						twitterDiv.appendChild(twitterProfileHeading);
 						el.prepend(twitterDiv);
 					});

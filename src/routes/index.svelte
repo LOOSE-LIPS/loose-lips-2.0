@@ -6,8 +6,6 @@
 
 
  -->
-
-
 <script lang="ts" context="module">
 	/**
 	 * @type {import('@sveltejs/kit').Load}
@@ -34,6 +32,7 @@
 	import type { IProjectCard } from '$models/interfaces/iproject-card.interface';
 	import type { IBlog } from '$models/interfaces/iblog.interface';
   	import { LoggerUtils } from '$lib/utils/logger';
+	import { convertToSlug } from '$utils/convert-to-slug';
 
 
 	// Exports
@@ -63,6 +62,27 @@
 			date: '28/01/2023',
 		},
 	];
+
+	const mostRecentBlogs: IBlog[] = blogs
+		.sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
+		.slice(0, 3);
+
+	let searchValue = '';
+	$: filteredBlogPosts = blogs
+		.sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
+		.filter((blog) => blog.title.toLowerCase().includes(searchValue.toLowerCase()));
+
+	// End: Local component properties
+
+	// Local Methods
+
+	let listWithDuplicatetags: string[] = [];
+
+	blogs.forEach((blog) => {
+		listWithDuplicatetags =
+			listWithDuplicatetags.length === 0 ? [...blog.tags] : [...listWithDuplicatetags, ...blog.tags];
+	});
+	$: tags = [...new Set(listWithDuplicatetags)];
 
 </script>
 
@@ -105,25 +125,26 @@ transform: translate(-50%, 0px);">
 </div>
 <div class="p-5">
 	<h2 id="featured" class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"> Featured </h2>
-	<img src="DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;">
+	<img src="images/DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/asEvnIJ7GfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		
 </div>
-<div class="flex flex-row justify-left items-start max-w-5xl mx-auto">
-	<div class="p-5">
-<!-- Start: Events -->
-	<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-1xl text-black dark:text-white"> Upcoming Events </h2>
-	{#if events.length > 0}
-		{#each events as event}
-			<ProjectCard project="{event}" />
-		{/each}
-	{/if}
-	<a href="events" class="viewAll">
-		<p class="font-italic text-m text-white">View past events</p>
-	</a>
-	<!-- End: Top Events -->
-	</div>
-
+<div class="flex flex-row flex-wrap w-full mt-4 items-center">
+	{#each tags as tag, index (tag)}
+		<a
+			sveltekit:prefetch
+			href="{`/tags/${convertToSlug(tag)}`}"
+			aria-label="{tag}"
+			class="text-xl font-bold text-black-400 text-black dark:text-white hover:text-white dark:hover:text-white"
+		>
+			{tag.toUpperCase()}
+		</a>
+		{#if index !== tags.length - 1}
+			<p class="mr-2 ml-2 text-black dark:text-white">
+				{` • `}
+			</p>
+		{/if}
+	{/each}
 </div>
 <div class="flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)">
 
@@ -142,10 +163,49 @@ transform: translate(-50%, 0px);">
 				{/each}
 			{/if}
 			<!-- End: Popular Blog Section -->
+
+			
 		
 </div>
 
+<div class="flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)">
 
+	<!-- Start: Popular Blog Section -->
+	<h2 class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em" > Editorial Posts </h2>
+	<div>
+		
+	</div>
+	{#if blogs.length > 0}
+		{#each blogs as blog, index (blog.slug)}
+
+		<div class="p-5">
+			<BlogPost blog="{blog}" />
+		</div>
+				
+		{/each}
+	{/if}
+	<!-- End: Popular Blog Section -->
+
+	
+
+</div>
+
+<div class="flex flex-row justify-left items-start max-w-2xl mx-auto">
+	<div class="p-5">
+<!-- Start: Events -->
+	<h2 class="font-bold text-2xl md:text-2xl tracking-tight mb-2 max-w-1xl text-black dark:text-white"> Upcoming Events </h2>
+	{#if events.length > 0}
+		{#each events as event}
+			<ProjectCard project="{event}" />
+		{/each}
+	{/if}
+	<a href="events" class="viewAll">
+		<p class="font-italic text-m text-white">View past events</p>
+	</a>
+	<!-- End: Top Events -->
+	</div>
+
+</div>
 <!-- End: Home Page container -->
 <!-- Old code for audio player
 	<div class="audio" style="position:fixed;left:0;bottom:0;width:;">

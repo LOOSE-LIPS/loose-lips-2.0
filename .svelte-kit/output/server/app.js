@@ -2470,7 +2470,7 @@ const Footer = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 			<a sveltekit:prefetch href="${"/projects"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Crew </a>
 			<a sveltekit:prefetch href="${"/about"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Events </a></div>
 		<div class="${"flex flex-col space-y-4"}">${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
-    href: "https://www.linkedin.com/in/asnavneetsharma/",
+    href: "https://www.linkedin.com/in/looselipsevents/",
     cssClasses: linkClass,
     ariaLabel: "Footer LinkedIn link"
   }, {}, { default: () => `Soundcloud` })}
@@ -2480,12 +2480,12 @@ const Footer = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     ariaLabel: "Footer GitHub link"
   }, {}, { default: () => `Mixcloud` })}
 			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
-    href: "https://twitter.com/asnavneetsharma",
+    href: "https://twitter.com/looselipsevents",
     cssClasses: linkClass,
     ariaLabel: "Footer Twitter link"
   }, {}, { default: () => `Bandcamp` })}
 			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
-    href: "https://www.instagram.com/asnavneetsharma/",
+    href: "https://www.instagram.com/looselipsevents/",
     cssClasses: linkClass,
     ariaLabel: "Footer Instagram link"
   }, {}, { default: () => `Github` })}</div>

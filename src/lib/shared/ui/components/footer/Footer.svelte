@@ -18,7 +18,7 @@
 		</div>
 		<div class="flex flex-col space-y-4">
 			<ExternalLink
-				href="https://www.linkedin.com/in/asnavneetsharma/"
+				href="https://www.linkedin.com/in/looselipsevents/"
 				cssClasses="{linkClass}"
 				ariaLabel="{'Footer LinkedIn link'}">Soundcloud</ExternalLink
 			>
@@ -28,12 +28,12 @@
 				ariaLabel="{'Footer GitHub link'}">Mixcloud</ExternalLink
 			>
 			<ExternalLink
-				href="https://twitter.com/asnavneetsharma"
+				href="https://twitter.com/looselipsevents"
 				cssClasses="{linkClass}"
 				ariaLabel="{'Footer Twitter link'}">Bandcamp</ExternalLink
 			>
 			<ExternalLink
-				href="https://www.instagram.com/asnavneetsharma/"
+				href="https://www.instagram.com/looselipsevents/"
 				cssClasses="{linkClass}"
 				ariaLabel="{'Footer Instagram link'}">Github</ExternalLink
 			>
