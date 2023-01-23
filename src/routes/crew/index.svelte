@@ -1,49 +1,41 @@
 <script lang="ts" context="module">
-	import { browser, dev } from '$app/env';
-
-	// we don't need any JS on this page, though we'll load
-	// it in dev so that we get hot module replacement...
-	export const hydrate = dev;
-
-	// ...but if the client-side router is already loaded
-	// (i.e. we came here from elsewhere in the app), use it
-	export const router = browser;
-
-	// since there's no dynamic data here, we can prerender
-	// it so that it gets served as a static asset in prod
-	export const prerender = true;
+  /**
+   * @type {import('@sveltejs/kit').Load}
+   */
+  export async function load({ fetch }) {
+    return {
+      props: {
+        crewMembers: await fetch("/crew.json").then((res) => res.json()),
+      },
+    };
+  }
 </script>
 
 <script lang="ts">
-	// Start: Local Imports
-	// Components
-	import HeadTags from '$components/head-tags/HeadTags.svelte';
+  import HeadTags from "$components/head-tags/HeadTags.svelte";
+  import BlogPost from "$components/blog-post/BlogPost.svelte";
 
-	// Models
-	import type { IMetaTagProperties } from '$models/interfaces/imeta-tag-properties.interface';
-	// End: Local Imports
+  // Models
+  import type { IBlog } from "$models/interfaces/iblog.interface";
+  import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
+  import { convertToSlug } from "$utils/convert-to-slug";
 
-	// Start: Local component properties
-	/**
-	 * @type {IMetaTagProperties}
-	 */
-	const metaData: Partial<IMetaTagProperties> = {
-		title: 'Project | Sveltekit Blog',
-		description: 'Project page of Sveltekit blog starter project',
-		url: '/projects',
-		keywords: ['sveltekit', 'sveltekit starter', 'sveltekit starter about'],
-		searchUrl: '/projects',
-	};
-
-	// End: Local component properties
+  export let crewMembers!: IBlog[];
+  // Start: Local component properties
+  /**
+   * @type {IMetaTagProperties}
+   */
+  const metaData: Partial<IMetaTagProperties> = {
+    title: "Crew | Sveltekit Crew",
+    description: "Crew page of Sveltekit blog starter project",
+    url: "/crew",
+    keywords: ["sveltekit", "sveltekit starter", "sveltekit starter about"],
+    searchUrl: "/blog",
+  };
 </script>
 
-<!-- Start: Header Tag -->
-<HeadTags metaData="{metaData}" />
-<!-- End: Header Tag -->
+<HeadTags {metaData} />
 
-<!-- Start: Project page section -->
-<div class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
-	<h1 class="font-bold text-3xl md:text-5xl tracking-tight mb-4 dark:text-white"> Coming soon... </h1>
-</div>
-<!-- End: Project page section -->
+{#each crewMembers as crewMember}
+  <h1>{crewMember.title}</h1>
+{/each}
