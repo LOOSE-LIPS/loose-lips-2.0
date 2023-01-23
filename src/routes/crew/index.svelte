@@ -19,6 +19,7 @@
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import { convertToSlug } from "$utils/convert-to-slug";
+  import CrewPost from "$lib/shared/components/crew-post/CrewPost.svelte";
 
   export let crewMembers!: IBlog[];
   // Start: Local component properties
@@ -37,5 +38,5 @@
 <HeadTags {metaData} />
 
 {#each crewMembers as blog, index (blog.slug)}
-  <BlogPost {blog} />
+  <CrewPost {blog} />
 {/each}
