@@ -13,7 +13,6 @@
 
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
-  import BlogPost from "$components/blog-post/BlogPost.svelte";
 
   // Models
   import type { IBlog } from "$models/interfaces/iblog.interface";
@@ -31,12 +30,18 @@
     description: "Crew page of Sveltekit blog starter project",
     url: "/crew",
     keywords: ["sveltekit", "sveltekit starter", "sveltekit starter about"],
-    searchUrl: "/blog",
+    searchUrl: "/crew",
   };
 </script>
 
 <HeadTags {metaData} />
-
-{#each crewMembers as blog, index (blog.slug)}
-  <CrewPost {blog} />
-{/each}
+<h1
+  class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
+>
+  Crew
+</h1>
+<div class="flex flex-row">
+  {#each crewMembers as crewMember, index (crewMember.slug)}
+    <CrewPost {crewMember} />
+  {/each}
+</div>

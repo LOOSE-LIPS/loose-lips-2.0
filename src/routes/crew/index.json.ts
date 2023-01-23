@@ -24,10 +24,6 @@ export async function get({
   const crew = await Promise.all(crewPromises);
   const publishedCrewMembers = crew.filter((post) => post.published);
 
-  //   publishedCrewMembers.sort((a, b) =>
-  //     new Date(a.date) > new Date(b.date) ? -1 : 1
-  //   );
-
   return {
     body: publishedCrewMembers,
     status: 200,
