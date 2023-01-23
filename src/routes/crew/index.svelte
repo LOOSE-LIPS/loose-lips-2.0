@@ -36,6 +36,6 @@
 
 <HeadTags {metaData} />
 
-{#each crewMembers as crewMember}
-  <h1>{crewMember.title}</h1>
+{#each crewMembers as blog, index (blog.slug)}
+  <BlogPost {blog} />
 {/each}

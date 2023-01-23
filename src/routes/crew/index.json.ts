@@ -21,12 +21,12 @@ export async function get({
     crewPromises.push(promise);
   }
 
-  const posts = await Promise.all(crewPromises);
-  const publishedCrewMembers = posts.filter((post) => post.published);
+  const crew = await Promise.all(crewPromises);
+  const publishedCrewMembers = crew.filter((post) => post.published);
 
-  publishedCrewMembers.sort((a, b) =>
-    new Date(a.date) > new Date(b.date) ? -1 : 1
-  );
+  //   publishedCrewMembers.sort((a, b) =>
+  //     new Date(a.date) > new Date(b.date) ? -1 : 1
+  //   );
 
   return {
     body: publishedCrewMembers,
