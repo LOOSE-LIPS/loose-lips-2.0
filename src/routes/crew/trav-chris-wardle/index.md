@@ -20,8 +20,8 @@ Everything is based on visions or dreams or altered consciousness and although t
 
 It may be subtle but there is a great sense of humour in each drawing and it takes a different eye to find that. Life to me is a huge explosion of insanity, beauty, stark and raving comedy and endless confusion.
 
-<!--
-[http://www.backdownwarchild.co.uk] < illustration / moving image work
-Instagram.com/backdowntrav < online portfolio
+[backdownwarchild](http://www.backdownwarchild.co.uk) illustration / moving image work
 
-[http://instagram.com/raheal_fahake] / [http://www.realfakebrand.com] < hand painted bootleg clothing -->
+[instagram](http://instagram.com/raheal_fahake)
+
+[realfakebrand](http://www.realfakebrand.com) hand painted bootleg clothing
