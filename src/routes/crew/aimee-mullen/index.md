@@ -10,4 +10,6 @@ banner: "https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5ced9d539436e
 tags: ["crew"]
 ---
 
+<img src="https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5ced9d539436e.jpg">
+
 Violonist and power-voice from Torn Relics.

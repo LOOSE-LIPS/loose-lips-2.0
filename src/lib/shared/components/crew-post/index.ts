@@ -1,1 +1,1 @@
-export { default as BlogPost } from './BlogPost.svelte';
+export { default as BlogPost } from "./CrewPost.svelte";

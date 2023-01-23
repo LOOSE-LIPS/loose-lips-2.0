@@ -10,6 +10,7 @@ banner: "https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5e82fe3f87192
 tags: ["crew"]
 ---
 
+<img src="https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5e82fe3f87192.jpg">
 WRITER
 
 Writer, promoter and tune threader. Traversing the astral plane with vigour.

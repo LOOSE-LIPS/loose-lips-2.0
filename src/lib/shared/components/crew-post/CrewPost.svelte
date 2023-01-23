@@ -21,7 +21,7 @@
     <div class="flex flex-col md:flex-row justify-between">
       <img
         src={crewMember.banner}
-        alt=""
+        alt="profile pic"
         style="height: 12em;width:18emwidth:100%;"
       />
 

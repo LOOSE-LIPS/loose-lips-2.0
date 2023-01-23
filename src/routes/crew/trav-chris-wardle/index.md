@@ -10,6 +10,8 @@ banner: "https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5f69f87ccdcb7
 tags: ["crew"]
 ---
 
+<img src="https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5f69f87ccdcb7.jpg">
+
 I am an illustrator, animator and hand painted clothing bootlegger and video man… I work mainly in the medium of pen and ink and digital colour but also I hand paint clothing and sometimes fully hand paint drawings. I make animations and video on other days and when there is seriously good money. I skateboard, I swim, I walk a lot….
 
 My artwork is influenced by the sur-reality of life.. the strange, the weird and the abstract.. the worlds that lie just outside of ours but which we can sense, feel and meet when we let our minds wander.
