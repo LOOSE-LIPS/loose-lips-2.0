@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Aimee Mullen"
-slug: "Aimee Mullen"
+slug: "aimee-mullen"
 published: true
 description: ""
 author: "loose-lips"

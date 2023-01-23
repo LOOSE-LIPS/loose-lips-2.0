@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Harry Wooten"
-slug: "Harry Wooten"
+slug: "harry-wooten"
 published: true
 description: ""
 author: "loose-lips"

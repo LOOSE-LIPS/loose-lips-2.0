@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Trav Chris Wardle"
-slug: "Trav-Chris-Wardle"
+slug: "trav-chris-wardle"
 published: true
 description: ""
 author: "loose-lips"

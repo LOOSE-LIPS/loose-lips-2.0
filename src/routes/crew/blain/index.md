@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Blaine"
-slug: "Blaine"
+slug: "blaine"
 published: true
 description: ""
 author: "loose-lips"
