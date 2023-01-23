@@ -35,13 +35,17 @@
 </script>
 
 <HeadTags {metaData} />
-<h1
-  class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
->
-  Crew
-</h1>
-<div class="flex flex-row">
-  {#each crewMembers as crewMember, index (crewMember.slug)}
-    <CrewPost {crewMember} />
-  {/each}
+<div class="pt-[5%]">
+  <h1
+    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white pl-[10%]"
+  >
+    Crew
+  </h1>
+  <div class="pl-[25%] pr-[25%] pt-[4%]">
+    <div class="flex flex-row">
+      {#each crewMembers as crewMember, index (crewMember.slug)}
+        <CrewPost {crewMember} />
+      {/each}
+    </div>
+  </div>
 </div>
