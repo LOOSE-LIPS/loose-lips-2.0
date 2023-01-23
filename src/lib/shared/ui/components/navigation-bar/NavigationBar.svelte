@@ -48,7 +48,7 @@
 			transform: translate(-50%, -50%);"
       >
         <a
-          sveltekit:prefetch
+          data-sveltekit:prefetch
           href="/"
           class="flex flex-row h-12 justify-center items-center drop-shadow-xl"
           aria-label={title}
