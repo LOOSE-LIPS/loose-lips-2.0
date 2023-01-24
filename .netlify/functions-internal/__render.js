@@ -17760,9 +17760,9 @@ function init(settings = default_settings) {
     amp: false,
     dev: false,
     entry: {
-      file: assets + "/_app/start-2f814b9d.js",
-      css: [assets + "/_app/assets/start-464e9d0a.css", assets + "/_app/assets/vendor-aacce600.css"],
-      js: [assets + "/_app/start-2f814b9d.js", assets + "/_app/chunks/vendor-cc734f8f.js"]
+      file: assets + "/_app/start-732ec7fa.js",
+      css: [assets + "/_app/assets/start-464e9d0a.css", assets + "/_app/assets/vendor-863873a7.css"],
+      js: [assets + "/_app/start-732ec7fa.js", assets + "/_app/chunks/vendor-b3989e7d.js"]
     },
     fetched: void 0,
     floc: false,
@@ -17792,7 +17792,7 @@ function init(settings = default_settings) {
 var d = decodeURIComponent;
 var empty = () => ({});
 var manifest = {
-  assets: [{ "file": "browserconfig.xml", "size": 221, "type": "application/xml" }, { "file": "favicon.ico", "size": 15406, "type": "image/vnd.microsoft.icon" }, { "file": "fonts/Raleway-400-normal.woff2", "size": 11500, "type": "font/woff2" }, { "file": "fonts/Raleway-500-normal.woff2", "size": 9764, "type": "font/woff2" }, { "file": "fonts/Raleway-600-normal.woff2", "size": 7888, "type": "font/woff2" }, { "file": "fonts/Raleway-700-normal.woff2", "size": 10456, "type": "font/woff2" }, { "file": "images/.gitkeep", "size": 0, "type": null }, { "file": "images/DIDO_WEB.jpg", "size": 82364, "type": "image/jpeg" }, { "file": "images/author/favicon-32x32.png", "size": 210, "type": "image/png" }, { "file": "images/author/sveltekit-blogger.svg", "size": 1721, "type": "image/svg+xml" }, { "file": "images/blogs/.gitkeep", "size": 0, "type": null }, { "file": "images/blogs/a-second-post/banner.jpg", "size": 10117, "type": "image/jpeg" }, { "file": "images/blogs/first-post/banner.jpg", "size": 32521, "type": "image/jpeg" }, { "file": "images/blogs/welcome-to-my-blog/banner.jpg", "size": 41430, "type": "image/jpeg" }, { "file": "images/blogs/yet-another-blog-post/banner.jpg", "size": 38596, "type": "image/jpeg" }, { "file": "images/logo-loose-lips.gif", "size": 2530269, "type": "image/gif" }, { "file": "images/snippets/.gitkeep", "size": 0, "type": null }, { "file": "images/snippets/first-snippet/banner.jpg", "size": 41929, "type": "image/jpeg" }, { "file": "images/snippets/second-snippet/banner.jpg", "size": 45836, "type": "image/jpeg" }, { "file": "images/snippets/yet-another-snippet/banner.jpg", "size": 46961, "type": "image/jpeg" }, { "file": "logos/buttondown.png", "size": 1476, "type": "image/png" }, { "file": "logos/css.png", "size": 1740, "type": "image/png" }, { "file": "logos/firebase.png", "size": 2668, "type": "image/png" }, { "file": "logos/google-analytics.png", "size": 679, "type": "image/png" }, { "file": "logos/google-sheets.png", "size": 1038, "type": "image/png" }, { "file": "logos/gumroad.png", "size": 2618, "type": "image/png" }, { "file": "logos/mailchimp.png", "size": 20649, "type": "image/png" }, { "file": "logos/mailgun.png", "size": 3611, "type": "image/png" }, { "file": "logos/mdx.png", "size": 1320, "type": "image/png" }, { "file": "logos/mosh1.gif", "size": 309649, "type": "image/gif" }, { "file": "logos/react.png", "size": 2647, "type": "image/png" }, { "file": "logos/sendgrid.png", "size": 404, "type": "image/png" }, { "file": "logos/slack.png", "size": 3489, "type": "image/png" }, { "file": "logos/spotify.png", "size": 2057, "type": "image/png" }, { "file": "logos/stripe.png", "size": 1417, "type": "image/png" }, { "file": "logos/youtube.png", "size": 1112, "type": "image/png" }, { "file": "robots.txt", "size": 77, "type": "text/plain" }, { "file": "rss.xml", "size": 2621, "type": "application/xml" }, { "file": "sitemap.xml", "size": 1971, "type": "application/xml" }, { "file": "tailwind.css", "size": 32381, "type": "text/css" }],
+  assets: [{ "file": "browserconfig.xml", "size": 221, "type": "application/xml" }, { "file": "favicon.ico", "size": 15406, "type": "image/vnd.microsoft.icon" }, { "file": "fonts/Raleway-400-normal.woff2", "size": 11500, "type": "font/woff2" }, { "file": "fonts/Raleway-500-normal.woff2", "size": 9764, "type": "font/woff2" }, { "file": "fonts/Raleway-600-normal.woff2", "size": 7888, "type": "font/woff2" }, { "file": "fonts/Raleway-700-normal.woff2", "size": 10456, "type": "font/woff2" }, { "file": "images/.gitkeep", "size": 0, "type": null }, { "file": "images/DIDO_WEB.jpg", "size": 82364, "type": "image/jpeg" }, { "file": "images/author/favicon-32x32.png", "size": 210, "type": "image/png" }, { "file": "images/author/sveltekit-blogger.svg", "size": 1721, "type": "image/svg+xml" }, { "file": "images/blogs/.gitkeep", "size": 0, "type": null }, { "file": "images/blogs/a-second-post/banner.jpg", "size": 10117, "type": "image/jpeg" }, { "file": "images/blogs/first-post/banner.jpg", "size": 32521, "type": "image/jpeg" }, { "file": "images/blogs/welcome-to-my-blog/banner.jpg", "size": 41430, "type": "image/jpeg" }, { "file": "images/blogs/yet-another-blog-post/banner.jpg", "size": 38596, "type": "image/jpeg" }, { "file": "images/crew/aimee-mullen.jpeg", "size": 60272, "type": "image/jpeg" }, { "file": "images/crew/blaine.jpeg", "size": 101652, "type": "image/jpeg" }, { "file": "images/crew/harry-wootten.jpeg", "size": 24878, "type": "image/jpeg" }, { "file": "images/crew/trav-chris-wardle.jpeg", "size": 18321, "type": "image/jpeg" }, { "file": "images/logo-loose-lips.gif", "size": 2530269, "type": "image/gif" }, { "file": "images/snippets/.gitkeep", "size": 0, "type": null }, { "file": "images/snippets/first-snippet/banner.jpg", "size": 41929, "type": "image/jpeg" }, { "file": "images/snippets/second-snippet/banner.jpg", "size": 45836, "type": "image/jpeg" }, { "file": "images/snippets/yet-another-snippet/banner.jpg", "size": 46961, "type": "image/jpeg" }, { "file": "logos/buttondown.png", "size": 1476, "type": "image/png" }, { "file": "logos/css.png", "size": 1740, "type": "image/png" }, { "file": "logos/firebase.png", "size": 2668, "type": "image/png" }, { "file": "logos/google-analytics.png", "size": 679, "type": "image/png" }, { "file": "logos/google-sheets.png", "size": 1038, "type": "image/png" }, { "file": "logos/gumroad.png", "size": 2618, "type": "image/png" }, { "file": "logos/mailchimp.png", "size": 20649, "type": "image/png" }, { "file": "logos/mailgun.png", "size": 3611, "type": "image/png" }, { "file": "logos/mdx.png", "size": 1320, "type": "image/png" }, { "file": "logos/mosh1.gif", "size": 309649, "type": "image/gif" }, { "file": "logos/react.png", "size": 2647, "type": "image/png" }, { "file": "logos/sendgrid.png", "size": 404, "type": "image/png" }, { "file": "logos/slack.png", "size": 3489, "type": "image/png" }, { "file": "logos/spotify.png", "size": 2057, "type": "image/png" }, { "file": "logos/stripe.png", "size": 1417, "type": "image/png" }, { "file": "logos/youtube.png", "size": 1112, "type": "image/png" }, { "file": "robots.txt", "size": 77, "type": "text/plain" }, { "file": "rss.xml", "size": 2621, "type": "application/xml" }, { "file": "sitemap.xml", "size": 1971, "type": "application/xml" }, { "file": "tailwind.css", "size": 32496, "type": "text/css" }],
   layout: "src/routes/__layout.svelte",
   error: "src/routes/__error.svelte",
   routes: [
@@ -17822,7 +17822,7 @@ var manifest = {
       pattern: /^\/snippets\.json$/,
       params: empty,
       load: () => Promise.resolve().then(function() {
-        return index_json$4;
+        return index_json$5;
       })
     },
     {
@@ -17872,7 +17872,7 @@ var manifest = {
       pattern: /^\/blog\.json$/,
       params: empty,
       load: () => Promise.resolve().then(function() {
-        return index_json$3;
+        return index_json$4;
       })
     },
     {
@@ -17904,10 +17904,46 @@ var manifest = {
       b: ["src/routes/__error.svelte"]
     },
     {
+      type: "endpoint",
+      pattern: /^\/crew\.json$/,
+      params: empty,
+      load: () => Promise.resolve().then(function() {
+        return index_json$3;
+      })
+    },
+    {
       type: "page",
       pattern: /^\/crew\/?$/,
       params: empty,
       a: ["src/routes/__layout.svelte", "src/routes/crew/index.svelte"],
+      b: ["src/routes/__error.svelte"]
+    },
+    {
+      type: "page",
+      pattern: /^\/crew\/trav-chris-wardle\/?$/,
+      params: empty,
+      a: ["src/routes/__layout.svelte", "src/routes/crew/trav-chris-wardle/index.md"],
+      b: ["src/routes/__error.svelte"]
+    },
+    {
+      type: "page",
+      pattern: /^\/crew\/aimee-mullen\/?$/,
+      params: empty,
+      a: ["src/routes/__layout.svelte", "src/routes/crew/aimee-mullen/index.md"],
+      b: ["src/routes/__error.svelte"]
+    },
+    {
+      type: "page",
+      pattern: /^\/crew\/harry-wooten\/?$/,
+      params: empty,
+      a: ["src/routes/__layout.svelte", "src/routes/crew/harry-wooten/index.md"],
+      b: ["src/routes/__error.svelte"]
+    },
+    {
+      type: "page",
+      pattern: /^\/crew\/blain\/?$/,
+      params: empty,
+      a: ["src/routes/__layout.svelte", "src/routes/crew/blain/index.md"],
       b: ["src/routes/__error.svelte"]
     },
     {
@@ -17964,45 +18000,57 @@ var module_lookup = {
     return __error;
   }),
   "src/routes/index.svelte": () => Promise.resolve().then(function() {
-    return index$f;
+    return index$j;
   }),
   "src/routes/dashboard/index.svelte": () => Promise.resolve().then(function() {
-    return index$e;
+    return index$i;
   }),
   "src/routes/projects/index.svelte": () => Promise.resolve().then(function() {
-    return index$d;
+    return index$h;
   }),
   "src/routes/snippets/index.svelte": () => Promise.resolve().then(function() {
-    return index$c;
+    return index$g;
   }),
   "src/routes/snippets/yet-another-snippet/index.md": () => Promise.resolve().then(function() {
-    return index$b;
+    return index$f;
   }),
   "src/routes/snippets/second-snippet/index.md": () => Promise.resolve().then(function() {
-    return index$a;
+    return index$e;
   }),
   "src/routes/snippets/first-snippet/index.md": () => Promise.resolve().then(function() {
-    return index$9;
+    return index$d;
   }),
   "src/routes/events/index.svelte": () => Promise.resolve().then(function() {
-    return index$8;
+    return index$c;
   }),
   "src/routes/about/index.svelte": () => Promise.resolve().then(function() {
-    return index$7;
+    return index$b;
   }),
   "src/routes/blog/index.svelte": () => Promise.resolve().then(function() {
-    return index$6;
+    return index$a;
   }),
   "src/routes/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md": () => Promise.resolve().then(function() {
-    return index$5;
+    return index$9;
   }),
   "src/routes/blog/elkka-live-at-corsica-studios-090222/index.md": () => Promise.resolve().then(function() {
-    return index$4;
+    return index$8;
   }),
   "src/routes/blog/sphie-resuscitation-kim-cosmik-remix/index.md": () => Promise.resolve().then(function() {
-    return index$3;
+    return index$7;
   }),
   "src/routes/crew/index.svelte": () => Promise.resolve().then(function() {
+    return index$6;
+  }),
+  "src/routes/crew/trav-chris-wardle/index.md": () => Promise.resolve().then(function() {
+    return index$5;
+  }),
+  "src/routes/crew/aimee-mullen/index.md": () => Promise.resolve().then(function() {
+    return index$4;
+  }),
+  "src/routes/crew/harry-wooten/index.md": () => Promise.resolve().then(function() {
+    return index$3;
+  }),
+  "src/routes/crew/blain/index.md": () => Promise.resolve().then(function() {
     return index$2;
   }),
   "src/routes/tags/index.svelte": () => Promise.resolve().then(function() {
@@ -18012,7 +18060,7 @@ var module_lookup = {
     return index;
   })
 };
-var metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-2a1012e4.js", "css": ["assets/pages/__layout.svelte-7f32ad92.css", "assets/vendor-aacce600.css"], "js": ["pages/__layout.svelte-2a1012e4.js", "chunks/vendor-cc734f8f.js", "chunks/ExternalLink-47bdfadb.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/__error.svelte": { "entry": "pages/__error.svelte-44b402e0.js", "css": ["assets/pages/__error.svelte-44d0ffb3.css", "assets/vendor-aacce600.css"], "js": ["pages/__error.svelte-44b402e0.js", "chunks/vendor-cc734f8f.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-e51f68ce.js", "css": ["assets/pages/index.svelte-6417d474.css", "assets/vendor-aacce600.css"], "js": ["pages/index.svelte-e51f68ce.js", "chunks/vendor-cc734f8f.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js", "chunks/BlogPost-9d948ecc.js", "chunks/TagsContainer-da4b4174.js", "chunks/convert-to-slug-58a40897.js", "chunks/logger-7c6b54be.js", "chunks/ExternalLink-47bdfadb.js"], "styles": [] }, "src/routes/dashboard/index.svelte": { "entry": "pages/dashboard/index.svelte-20372517.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/dashboard/index.svelte-20372517.js", "chunks/vendor-cc734f8f.js", "chunks/ExternalLink-47bdfadb.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/projects/index.svelte": { "entry": "pages/projects/index.svelte-ee949d2d.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/projects/index.svelte-ee949d2d.js", "chunks/vendor-cc734f8f.js", "chunks/env-a13806e5.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/snippets/index.svelte": { "entry": "pages/snippets/index.svelte-c01aa640.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/snippets/index.svelte-c01aa640.js", "chunks/vendor-cc734f8f.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/snippets/yet-another-snippet/index.md": { "entry": "pages/snippets/yet-another-snippet/index.md-3e1cd270.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/snippets/yet-another-snippet/index.md-3e1cd270.js", "chunks/vendor-cc734f8f.js", "chunks/SnippetsLayout-b335fc92.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-672f7b56.js", "chunks/ExternalLink-47bdfadb.js", "chunks/reading-time-44f7d173.js"], "styles": [] }, "src/routes/snippets/second-snippet/index.md": { "entry": "pages/snippets/second-snippet/index.md-d3dce9b0.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/snippets/second-snippet/index.md-d3dce9b0.js", "chunks/vendor-cc734f8f.js", "chunks/SnippetsLayout-b335fc92.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-672f7b56.js", "chunks/ExternalLink-47bdfadb.js", "chunks/reading-time-44f7d173.js"], "styles": [] }, "src/routes/snippets/first-snippet/index.md": { "entry": "pages/snippets/first-snippet/index.md-45224976.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/snippets/first-snippet/index.md-45224976.js", "chunks/vendor-cc734f8f.js", "chunks/SnippetsLayout-b335fc92.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-672f7b56.js", "chunks/ExternalLink-47bdfadb.js", "chunks/reading-time-44f7d173.js"], "styles": [] }, "src/routes/events/index.svelte": { "entry": "pages/events/index.svelte-ac65fd4b.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/events/index.svelte-ac65fd4b.js", "chunks/vendor-cc734f8f.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js", "chunks/logger-7c6b54be.js", "chunks/ExternalLink-47bdfadb.js"], "styles": [] }, "src/routes/about/index.svelte": { "entry": "pages/about/index.svelte-80681a26.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/about/index.svelte-80681a26.js", "chunks/vendor-cc734f8f.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/blog/index.svelte": { "entry": "pages/blog/index.svelte-45a8766f.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/blog/index.svelte-45a8766f.js", "chunks/vendor-cc734f8f.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js", "chunks/BlogPost-9d948ecc.js", "chunks/TagsContainer-da4b4174.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md": { "entry": "pages/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md-d43dc466.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md-d43dc466.js", "chunks/vendor-cc734f8f.js", "chunks/BlogLayout-81b9bf69.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-672f7b56.js", "chunks/ExternalLink-47bdfadb.js", "chunks/reading-time-44f7d173.js", "chunks/TagsContainer-da4b4174.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/elkka-live-at-corsica-studios-090222/index.md": { "entry": "pages/blog/elkka-live-at-corsica-studios-090222/index.md-3bafd8d0.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/blog/elkka-live-at-corsica-studios-090222/index.md-3bafd8d0.js", "chunks/vendor-cc734f8f.js", "chunks/BlogLayout-81b9bf69.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-672f7b56.js", "chunks/ExternalLink-47bdfadb.js", "chunks/reading-time-44f7d173.js", "chunks/TagsContainer-da4b4174.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/sphie-resuscitation-kim-cosmik-remix/index.md": { "entry": "pages/blog/sphie-resuscitation-kim-cosmik-remix/index.md-3d641f04.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/blog/sphie-resuscitation-kim-cosmik-remix/index.md-3d641f04.js", "chunks/vendor-cc734f8f.js", "chunks/BlogLayout-81b9bf69.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-672f7b56.js", "chunks/ExternalLink-47bdfadb.js", "chunks/reading-time-44f7d173.js", "chunks/TagsContainer-da4b4174.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/crew/index.svelte": { "entry": "pages/crew/index.svelte-508d8d08.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/crew/index.svelte-508d8d08.js", "chunks/vendor-cc734f8f.js", "chunks/env-a13806e5.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/tags/index.svelte": { "entry": "pages/tags/index.svelte-6e1c9032.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/tags/index.svelte-6e1c9032.js", "chunks/vendor-cc734f8f.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/tags/[tag]/index.svelte": { "entry": "pages/tags/[tag]/index.svelte-0715c6fa.js", "css": ["assets/vendor-aacce600.css"], "js": ["pages/tags/[tag]/index.svelte-0715c6fa.js", "chunks/vendor-cc734f8f.js", "chunks/HeadTags-672f7b56.js", "chunks/environment-ac1cdc6c.js", "chunks/BlogPost-9d948ecc.js", "chunks/TagsContainer-da4b4174.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] } };
+var metadata_lookup = { "src/routes/__layout.svelte": { "entry": "pages/__layout.svelte-c4248d3a.js", "css": ["assets/pages/__layout.svelte-db120326.css", "assets/vendor-863873a7.css"], "js": ["pages/__layout.svelte-c4248d3a.js", "chunks/vendor-b3989e7d.js", "chunks/ExternalLink-f61f9259.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/__error.svelte": { "entry": "pages/__error.svelte-8303b3fd.js", "css": ["assets/pages/__error.svelte-44d0ffb3.css", "assets/vendor-863873a7.css"], "js": ["pages/__error.svelte-8303b3fd.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/index.svelte": { "entry": "pages/index.svelte-022bdc32.js", "css": ["assets/pages/index.svelte-6417d474.css", "assets/vendor-863873a7.css"], "js": ["pages/index.svelte-022bdc32.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/BlogPost-42fd79ec.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js", "chunks/logger-55140992.js", "chunks/ExternalLink-f61f9259.js"], "styles": [] }, "src/routes/dashboard/index.svelte": { "entry": "pages/dashboard/index.svelte-a338066f.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/dashboard/index.svelte-a338066f.js", "chunks/vendor-b3989e7d.js", "chunks/ExternalLink-f61f9259.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/projects/index.svelte": { "entry": "pages/projects/index.svelte-6284c348.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/projects/index.svelte-6284c348.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/snippets/index.svelte": { "entry": "pages/snippets/index.svelte-e42d8823.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/index.svelte-e42d8823.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/snippets/yet-another-snippet/index.md": { "entry": "pages/snippets/yet-another-snippet/index.md-ec0fed1d.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/yet-another-snippet/index.md-ec0fed1d.js", "chunks/vendor-b3989e7d.js", "chunks/SnippetsLayout-6a42e328.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js"], "styles": [] }, "src/routes/snippets/second-snippet/index.md": { "entry": "pages/snippets/second-snippet/index.md-e0ad1056.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/second-snippet/index.md-e0ad1056.js", "chunks/vendor-b3989e7d.js", "chunks/SnippetsLayout-6a42e328.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js"], "styles": [] }, "src/routes/snippets/first-snippet/index.md": { "entry": "pages/snippets/first-snippet/index.md-4a6a589b.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/snippets/first-snippet/index.md-4a6a589b.js", "chunks/vendor-b3989e7d.js", "chunks/SnippetsLayout-6a42e328.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js"], "styles": [] }, "src/routes/events/index.svelte": { "entry": "pages/events/index.svelte-ca3f93dd.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/events/index.svelte-ca3f93dd.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/logger-55140992.js", "chunks/ExternalLink-f61f9259.js"], "styles": [] }, "src/routes/about/index.svelte": { "entry": "pages/about/index.svelte-4da10604.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/about/index.svelte-4da10604.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js"], "styles": [] }, "src/routes/blog/index.svelte": { "entry": "pages/blog/index.svelte-eca0c828.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/index.svelte-eca0c828.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/BlogPost-42fd79ec.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md": { "entry": "pages/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md-77178e31.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md-77178e31.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-1694aa7b.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/elkka-live-at-corsica-studios-090222/index.md": { "entry": "pages/blog/elkka-live-at-corsica-studios-090222/index.md-a8511384.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/elkka-live-at-corsica-studios-090222/index.md-a8511384.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-1694aa7b.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/blog/sphie-resuscitation-kim-cosmik-remix/index.md": { "entry": "pages/blog/sphie-resuscitation-kim-cosmik-remix/index.md-1a99e298.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/blog/sphie-resuscitation-kim-cosmik-remix/index.md-1a99e298.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-1694aa7b.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/crew/index.svelte": { "entry": "pages/crew/index.svelte-05e07e94.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/crew/index.svelte-05e07e94.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/crew/trav-chris-wardle/index.md": { "entry": "pages/crew/trav-chris-wardle/index.md-47ab163c.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/crew/trav-chris-wardle/index.md-47ab163c.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-1694aa7b.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/crew/aimee-mullen/index.md": { "entry": "pages/crew/aimee-mullen/index.md-395fd547.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/crew/aimee-mullen/index.md-395fd547.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-1694aa7b.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/crew/harry-wooten/index.md": { "entry": "pages/crew/harry-wooten/index.md-199a63fd.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/crew/harry-wooten/index.md-199a63fd.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-1694aa7b.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/crew/blain/index.md": { "entry": "pages/crew/blain/index.md-445bd075.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/crew/blain/index.md-445bd075.js", "chunks/vendor-b3989e7d.js", "chunks/BlogLayout-1694aa7b.js", "chunks/environment-ac1cdc6c.js", "chunks/HeadTags-412b7fc4.js", "chunks/ExternalLink-f61f9259.js", "chunks/reading-time-e91042f0.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/tags/index.svelte": { "entry": "pages/tags/index.svelte-043a98c4.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/tags/index.svelte-043a98c4.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] }, "src/routes/tags/[tag]/index.svelte": { "entry": "pages/tags/[tag]/index.svelte-7bcc56b2.js", "css": ["assets/vendor-863873a7.css"], "js": ["pages/tags/[tag]/index.svelte-7bcc56b2.js", "chunks/vendor-b3989e7d.js", "chunks/HeadTags-412b7fc4.js", "chunks/environment-ac1cdc6c.js", "chunks/BlogPost-42fd79ec.js", "chunks/TagsContainer-57b621e4.js", "chunks/convert-to-slug-58a40897.js"], "styles": [] } };
 async function load_component(file) {
   const { entry, css: css2, js, styles } = metadata_lookup[file];
   return {
@@ -18033,16 +18081,16 @@ var slugFromPath = (path) => {
   var _a, _b;
   return (_b = (_a = path.match(/([\w-]+)\.(svelte\.md|md|svx)/i)) == null ? void 0 : _a[1]) != null ? _b : null;
 };
-async function get$4({
+async function get$5({
   query
 }) {
   var _a, _b;
   const modules = { "./first-snippet/index.md": () => Promise.resolve().then(function() {
-    return index$9;
+    return index$d;
   }), "./second-snippet/index.md": () => Promise.resolve().then(function() {
-    return index$a;
+    return index$e;
   }), "./yet-another-snippet/index.md": () => Promise.resolve().then(function() {
-    return index$b;
+    return index$f;
   }) };
   const snipptePromises = [];
   const limit = Number((_a = query.get("limit")) != null ? _a : Infinity);
@@ -18072,19 +18120,21 @@ async function get$4({
     body: publishedPosts.slice(0, sliceParam)
   };
 }
-var index_json$4 = /* @__PURE__ */ Object.freeze({
+var index_json$5 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
-  get: get$4
+  get: get$5
 });
-async function get$3({ query }) {
+async function get$4({
+  query
+}) {
   var _a, _b;
   const modules = { "./1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022/index.md": () => Promise.resolve().then(function() {
-    return index$5;
+    return index$9;
   }), "./elkka-live-at-corsica-studios-090222/index.md": () => Promise.resolve().then(function() {
-    return index$4;
+    return index$8;
   }), "./sphie-resuscitation-kim-cosmik-remix/index.md": () => Promise.resolve().then(function() {
-    return index$3;
+    return index$7;
   }) };
   const postPromises = [];
   const limit = Number((_a = query.get("limit")) != null ? _a : Infinity);
@@ -18112,6 +18162,38 @@ async function get$3({ query }) {
   publishedPosts.sort((a, b) => new Date(a.date) > new Date(b.date) ? -1 : 1);
   return {
     body: publishedPosts.slice(0, sliceParam),
+    status: 200
+  };
+}
+var index_json$4 = /* @__PURE__ */ Object.freeze({
+  __proto__: null,
+  [Symbol.toStringTag]: "Module",
+  get: get$4
+});
+async function get$3({
+  query
+}) {
+  const modules = { "./aimee-mullen/index.md": () => Promise.resolve().then(function() {
+    return index$4;
+  }), "./blain/index.md": () => Promise.resolve().then(function() {
+    return index$2;
+  }), "./harry-wooten/index.md": () => Promise.resolve().then(function() {
+    return index$3;
+  }), "./trav-chris-wardle/index.md": () => Promise.resolve().then(function() {
+    return index$5;
+  }) };
+  const crewPromises = [];
+  for (const [path, resolver] of Object.entries(modules)) {
+    const slug = slugFromPath(path);
+    const promise = resolver().then((post) => {
+      return { slug, ...post.metadata };
+    });
+    crewPromises.push(promise);
+  }
+  const crew = await Promise.all(crewPromises);
+  const publishedCrewMembers = crew.filter((post) => post.published);
+  return {
+    body: publishedCrewMembers,
     status: 200
   };
 }
@@ -18418,8 +18500,8 @@ var Raw = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `<g><!-- HTML_TAG_START -->${raw}<!-- HTML_TAG_END --></g>`;
 });
 var css$2 = {
-  code: ".fa-icon.svelte-lif81n{fill:currentColor;display:inline-block}.fa-flip-horizontal.svelte-lif81n{transform:scaleX(-1)}.fa-flip-vertical.svelte-lif81n{transform:scaleY(-1)}.fa-spin.svelte-lif81n{-webkit-animation:svelte-lif81n-f 1s linear 0s infinite;animation:svelte-lif81n-f 1s linear 0s infinite}.fa-inverse.svelte-lif81n{color:#fff}.fa-pulse.svelte-lif81n{-webkit-animation:svelte-lif81n-f 1s steps(8) infinite;animation:svelte-lif81n-f 1s steps(8) infinite}@-webkit-keyframes svelte-lif81n-f{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes svelte-lif81n-f{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}",
-  map: `{"version":3,"file":"Svg.svelte","sources":["Svg.svelte"],"sourcesContent":["<svg version=\\"1.1\\" class=\\"fa-icon {className}\\"\\n  class:fa-spin={spin} class:fa-pulse={pulse} class:fa-inverse={inverse}\\n  class:fa-flip-horizontal=\\"{flip === 'horizontal'}\\" class:fa-flip-vertical=\\"{flip === 'vertical'}\\"\\n  {x} {y} {width} {height}\\n  aria-label={label}\\n  role=\\"{ label ? 'img' : 'presentation' }\\"\\n  viewBox={box} {style}\\n  >\\n  <slot></slot>\\n</svg>\\n\\n<style>.fa-icon{fill:currentColor;display:inline-block}.fa-flip-horizontal{transform:scaleX(-1)}.fa-flip-vertical{transform:scaleY(-1)}.fa-spin{-webkit-animation:f 1s linear 0s infinite;animation:f 1s linear 0s infinite}.fa-inverse{color:#fff}.fa-pulse{-webkit-animation:f 1s steps(8) infinite;animation:f 1s steps(8) infinite}@-webkit-keyframes f{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes f{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}</style>\\n\\n<script>\\n  let className;\\n\\n  export { className as class };\\n\\n  export let width;\\n  export let height;\\n  export let box;\\n\\n  export let spin = false;\\n  export let inverse = false;\\n  export let pulse = false;\\n  export let flip = null;\\n\\n  // optionals\\n  export let x = undefined;\\n  export let y = undefined;\\n  export let style = undefined;\\n  export let label = undefined;\\n<\/script>\\n"],"names":[],"mappings":"AAWO,sBAAQ,CAAC,KAAK,YAAY,CAAC,QAAQ,YAAY,CAAC,iCAAmB,CAAC,UAAU,OAAO,EAAE,CAAC,CAAC,+BAAiB,CAAC,UAAU,OAAO,EAAE,CAAC,CAAC,sBAAQ,CAAC,kBAAkB,eAAC,CAAC,EAAE,CAAC,MAAM,CAAC,EAAE,CAAC,QAAQ,CAAC,UAAU,eAAC,CAAC,EAAE,CAAC,MAAM,CAAC,EAAE,CAAC,QAAQ,CAAC,yBAAW,CAAC,MAAM,IAAI,CAAC,uBAAS,CAAC,kBAAkB,eAAC,CAAC,EAAE,CAAC,MAAM,CAAC,CAAC,CAAC,QAAQ,CAAC,UAAU,eAAC,CAAC,EAAE,CAAC,MAAM,CAAC,CAAC,CAAC,QAAQ,CAAC,mBAAmB,eAAC,CAAC,EAAE,CAAC,UAAU,OAAO,IAAI,CAAC,CAAC,EAAE,CAAC,UAAU,OAAO,KAAK,CAAC,CAAC,CAAC,WAAW,eAAC,CAAC,EAAE,CAAC,UAAU,OAAO,IAAI,CAAC,CAAC,EAAE,CAAC,UAAU,OAAO,KAAK,CAAC,CAAC,CAAC"}`
+  code: ".fa-icon.svelte-ttb3an{fill:currentColor;display:inline-block}.fa-flip-horizontal.svelte-ttb3an{transform:scaleX(-1)}.fa-flip-vertical.svelte-ttb3an{transform:scaleY(-1)}.fa-spin.svelte-ttb3an{-webkit-animation:svelte-ttb3an-c 1s linear 0s infinite;animation:svelte-ttb3an-c 1s linear 0s infinite}.fa-inverse.svelte-ttb3an{color:#fff}.fa-pulse.svelte-ttb3an{-webkit-animation:svelte-ttb3an-c 1s steps(8) infinite;animation:svelte-ttb3an-c 1s steps(8) infinite}@-webkit-keyframes svelte-ttb3an-c{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes svelte-ttb3an-c{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}",
+  map: `{"version":3,"file":"Svg.svelte","sources":["Svg.svelte"],"sourcesContent":["<svg version=\\"1.1\\" class=\\"fa-icon {className}\\"\\n  class:fa-spin={spin} class:fa-pulse={pulse} class:fa-inverse={inverse}\\n  class:fa-flip-horizontal=\\"{flip === 'horizontal'}\\" class:fa-flip-vertical=\\"{flip === 'vertical'}\\"\\n  {x} {y} {width} {height}\\n  aria-label={label}\\n  role=\\"{ label ? 'img' : 'presentation' }\\"\\n  viewBox={box} {style}\\n  >\\n  <slot></slot>\\n</svg>\\n\\n<style>.fa-icon{fill:currentColor;display:inline-block}.fa-flip-horizontal{transform:scaleX(-1)}.fa-flip-vertical{transform:scaleY(-1)}.fa-spin{-webkit-animation:c 1s linear 0s infinite;animation:c 1s linear 0s infinite}.fa-inverse{color:#fff}.fa-pulse{-webkit-animation:c 1s steps(8) infinite;animation:c 1s steps(8) infinite}@-webkit-keyframes c{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes c{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}</style>\\n\\n<script>\\n  let className;\\n\\n  export { className as class };\\n\\n  export let width;\\n  export let height;\\n  export let box;\\n\\n  export let spin = false;\\n  export let inverse = false;\\n  export let pulse = false;\\n  export let flip = null;\\n\\n  // optionals\\n  export let x = undefined;\\n  export let y = undefined;\\n  export let style = undefined;\\n  export let label = undefined;\\n<\/script>\\n"],"names":[],"mappings":"AAWO,sBAAQ,CAAC,KAAK,YAAY,CAAC,QAAQ,YAAY,CAAC,iCAAmB,CAAC,UAAU,OAAO,EAAE,CAAC,CAAC,+BAAiB,CAAC,UAAU,OAAO,EAAE,CAAC,CAAC,sBAAQ,CAAC,kBAAkB,eAAC,CAAC,EAAE,CAAC,MAAM,CAAC,EAAE,CAAC,QAAQ,CAAC,UAAU,eAAC,CAAC,EAAE,CAAC,MAAM,CAAC,EAAE,CAAC,QAAQ,CAAC,yBAAW,CAAC,MAAM,IAAI,CAAC,uBAAS,CAAC,kBAAkB,eAAC,CAAC,EAAE,CAAC,MAAM,CAAC,CAAC,CAAC,QAAQ,CAAC,UAAU,eAAC,CAAC,EAAE,CAAC,MAAM,CAAC,CAAC,CAAC,QAAQ,CAAC,mBAAmB,eAAC,CAAC,EAAE,CAAC,UAAU,OAAO,IAAI,CAAC,CAAC,EAAE,CAAC,UAAU,OAAO,KAAK,CAAC,CAAC,CAAC,WAAW,eAAC,CAAC,EAAE,CAAC,UAAU,OAAO,IAAI,CAAC,CAAC,EAAE,CAAC,UAAU,OAAO,KAAK,CAAC,CAAC,CAAC"}`
 };
 var Svg = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { class: className } = $$props;
@@ -18460,7 +18542,7 @@ var Svg = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     $$bindings.label(label);
   $$result.css.add(css$2);
   return `<svg version="${"1.1"}" class="${[
-    "fa-icon " + escape(className) + " svelte-lif81n",
+    "fa-icon " + escape(className) + " svelte-ttb3an",
     (spin ? "fa-spin" : "") + " " + (pulse ? "fa-pulse" : "") + " " + (inverse ? "fa-inverse" : "") + " " + (flip === "horizontal" ? "fa-flip-horizontal" : "") + " " + (flip === "vertical" ? "fa-flip-vertical" : "")
   ].join(" ").trim()}"${add_attribute("x", x, 0)}${add_attribute("y", y, 0)}${add_attribute("width", width, 0)}${add_attribute("height", height, 0)}${add_attribute("aria-label", label, 0)}${add_attribute("role", label ? "img" : "presentation", 0)}${add_attribute("viewBox", box, 0)}${add_attribute("style", style, 0)}>${slots.default ? slots.default({}) : ``}</svg>`;
 });
@@ -18646,7 +18728,7 @@ var NavigationBar = create_ssr_component(($$result, $$props, $$bindings, slots) 
   if ($$props.useThemeModeButton === void 0 && $$bindings.useThemeModeButton && useThemeModeButton !== void 0)
     $$bindings.useThemeModeButton(useThemeModeButton);
   $$unsubscribe_page();
-  return `<header class="${"relative flex text-gray-900 bg-yellow-50 dark:bg-black bg-opacity-60 dark:text-gray-100 w-full"}"><nav class="${"flex flex-wrap items-center justify-between w-full max-w-4xl p-6 mx-auto"}">${useTitleAndLogo ? `<div class="${"w-auto p-1 text-gray-900 dark:text-gray-100 font-bold"}" style="${"position: fixed; left: 5%; top: 10%; transform: translate(-50%, -50%);"}"><a sveltekit:prefetch href="${"/"}" class="${"flex flex-row h-12 justify-center items-center drop-shadow-xl"}"${add_attribute("aria-label", title, 0)}><img class="${"h-10 md:h-14 w-auto"}" alt="${"LL"}" loading="${"eager"}" decoding="${"async"}" width="${"3.5rem"}" height="${"3.5rem"}"${add_attribute("src", logoImage, 0)}></a></div>` : ``}
+  return `<header class="${"relative flex text-gray-900 bg-yellow-50 dark:bg-black bg-opacity-60 dark:text-gray-100 w-full"}"><nav class="${"flex flex-wrap items-center justify-between w-full max-w-4xl p-6 mx-auto"}">${useTitleAndLogo ? `<div class="${"w-auto p-1 text-gray-900 dark:text-gray-100 font-bold"}" style="${"position: fixed; left: 5%; top: 10%; transform: translate(-50%, -50%);"}"><a data-sveltekit:prefetch href="${"/"}" class="${"flex flex-row h-12 justify-center items-center drop-shadow-xl"}"${add_attribute("aria-label", title, 0)}><img class="${"h-10 md:h-14 w-auto"}" alt="${"LL"}" loading="${"eager"}" decoding="${"async"}" width="${"3.5rem"}" height="${"3.5rem"}"${add_attribute("src", logoImage, 0)}></a></div>` : ``}
     <div class="${"flex flex-row items-center"}" style="${"position: fixed; right: 0 !important; display: flex; flex-direction: column; margin-top: 45%; text-align: right;font-size:6em;"}">${each(navLinks, (navLink, index2) => `<a data-sveltekit:prefetch${add_attribute("href", navLink.path, 0)} class="${[
     "p-1.5 text-gray-900 sm:p-3.5 dark:text-gray-100 hover:border-b-2 hover:border-gray-800 dark:hover:border-gray-100",
     ($page.path === navLink.path || $page.path === `${navLink.path}/` ? "nav-active-route" : "") + " " + ($page.path !== navLink.path && $page.path !== `${navLink.path}/` ? "nav-inactive-route" : "")
@@ -18711,36 +18793,41 @@ var ExternalLink = create_ssr_component(($$result, $$props, $$bindings, slots) =
 var linkClass = "text-gray-500 hover:text-gray-600 dark:text-gray-400 dark:hover:text-gray-500 transition";
 var Footer = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   return `<footer class="${"flex flex-col justify-center items-start max-w-2xl mx-auto w-full mb-8"}"><hr class="${"w-full border-1 border-gray-200 dark:border-gray-800 mb-8"}">
-	${slots.default ? slots.default({}) : ``}
-	<div class="${"w-full max-w-2xl grid grid-cols-1 gap-4 pb-16 sm:grid-cols-3"}"><div class="${"flex flex-col space-y-4"}"><a sveltekit:prefetch href="${"/"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer home link", 0)}>Loose Lips</a>
-			<a sveltekit:prefetch href="${"/about"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>About </a>
-			<a sveltekit:prefetch href="${"/blog"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Blog </a>
-			<a sveltekit:prefetch href="${"/projects"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Crew </a>
-			<a sveltekit:prefetch href="${"/about"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Events </a></div>
-		<div class="${"flex flex-col space-y-4"}">${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
+  ${slots.default ? slots.default({}) : ``}
+  <div class="${"w-full max-w-2xl grid grid-cols-1 gap-4 pb-16 sm:grid-cols-3"}"><div class="${"flex flex-col space-y-4"}"><a data-sveltekit:prefetch href="${"/"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer home link", 0)}>Loose Lips</a>
+      <a data-sveltekit:prefetch href="${"/about"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>About
+      </a>
+      <a data-sveltekit:prefetch href="${"/blog"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Blog
+      </a>
+      <a data-sveltekit:prefetch href="${"/projects"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Crew
+      </a>
+      <a data-sveltekit:prefetch href="${"/about"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer about link", 0)}>Events
+      </a></div>
+    <div class="${"flex flex-col space-y-4"}">${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
     href: "https://www.linkedin.com/in/looselipsevents/",
     cssClasses: linkClass,
     ariaLabel: "Footer LinkedIn link"
   }, {}, { default: () => `Soundcloud` })}
-			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
+      ${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
     href: "https://github.com/navneetsharmaui",
     cssClasses: linkClass,
     ariaLabel: "Footer GitHub link"
   }, {}, { default: () => `Mixcloud` })}
-			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
+      ${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
     href: "https://twitter.com/looselipsevents",
     cssClasses: linkClass,
     ariaLabel: "Footer Twitter link"
   }, {}, { default: () => `Bandcamp` })}
-			${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
+      ${validate_component(ExternalLink, "ExternalLink").$$render($$result, {
     href: "https://www.instagram.com/looselipsevents/",
     cssClasses: linkClass,
     ariaLabel: "Footer Instagram link"
   }, {}, { default: () => `Github` })}</div>
-		<div class="${"flex flex-col space-y-4"}"><a sveltekit:prefetch href="${"/snippets"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer Snippets link", 0)}>Sitemap</a>
-			<a sveltekit:prefetch href="${"/tags"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer tags link", 0)}>Tags</a>
-			<a sveltekit:prefetch href="${"/dashboard"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer dashobard link", 0)}>Contact</a></div></div>
-	<p style="${"color: white;text-align:center;font-size:small;font-weight:italic"}">copyright \xA9  2023 All rights reserved Loose-Lips ltd</p></footer>`;
+    <div class="${"flex flex-col space-y-4"}"><a data-sveltekit:prefetch href="${"/snippets"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer Snippets link", 0)}>Sitemap</a>
+      <a data-sveltekit:prefetch href="${"/tags"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer tags link", 0)}>Tags</a>
+      <a data-sveltekit:prefetch href="${"/dashboard"}"${add_attribute("class", linkClass, 0)}${add_attribute("aria-label", "Footer dashobard link", 0)}>Contact</a></div></div>
+  <p style="${"color: white;text-align:center;font-size:small;font-weight:italic"}">copyright \xA9 2023 All rights reserved Loose-Lips ltd
+  </p></footer>`;
 });
 var RouteTransition = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { referesh = "" } = $$props;
@@ -18748,7 +18835,7 @@ var RouteTransition = create_ssr_component(($$result, $$props, $$bindings, slots
     $$bindings.referesh(referesh);
   return `<span>${slots.default ? slots.default({}) : ``}</span>`;
 });
-var __awaiter$7 = function(thisArg, _arguments, P, generator) {
+var __awaiter$8 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
     return value instanceof P ? value : new P(function(resolve2) {
       resolve2(value);
@@ -18775,8 +18862,8 @@ var __awaiter$7 = function(thisArg, _arguments, P, generator) {
     step((generator = generator.apply(thisArg, _arguments || [])).next());
   });
 };
-function load$8({ page: page2 }) {
-  return __awaiter$7(this, void 0, void 0, function* () {
+function load$9({ page: page2 }) {
+  return __awaiter$8(this, void 0, void 0, function* () {
     return { props: { path: page2.path } };
   });
 }
@@ -18792,28 +18879,28 @@ var _layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   if ($$props.path === void 0 && $$bindings.path && path !== void 0)
     $$bindings.path(path);
   return `<div class="${"dark:bg-black bg-yellow-50"}">
-	${validate_component(Header, "Header").$$render($$result, {
+  ${validate_component(Header, "Header").$$render($$result, {
     navLinks,
     logoImage: "https://i1.sndcdn.com/avatars-C6z0Vyr2LPCI6uHm-ZLN5qA-t200x200.jpg",
     title: "LOOSE LIPS",
     useThemeModeButton: true,
     useTitleAndLogo: true
   }, {}, {})}
-	
-	<main id="${"skip"}" class="${"flex flex-col justify-center px-8 bg-yellow-50 dark:bg-black pt-4"}">
-		${validate_component(RouteTransition, "RouteTransition").$$render($$result, { referesh: path }, {}, {
+  
+  <main id="${"skip"}" class="${"flex flex-col justify-center px-8 bg-yellow-50 dark:bg-black pt-4"}">
+    ${validate_component(RouteTransition, "RouteTransition").$$render($$result, { referesh: path }, {}, {
     default: () => `${slots.default ? slots.default({}) : ``}`
   })}
-		
-		
-		${validate_component(Footer, "Footer").$$render($$result, {}, {}, {})}
-		</main></div>`;
+    
+    
+    ${validate_component(Footer, "Footer").$$render($$result, {}, {}, {})}
+    </main></div>`;
 });
 var __layout = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": _layout,
-  load: load$8
+  load: load$9
 });
 var SEO = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { metaData = {} } = $$props;
@@ -18888,7 +18975,7 @@ var css$1 = {
   code: "h1.svelte-x715fd{font-size:2.8em;font-weight:700;margin:0 0 .5em}@media(min-width:480px){h1.svelte-x715fd{font-size:4em}}",
   map: '{"version":3,"file":"__error.svelte","sources":["__error.svelte"],"sourcesContent":["<style lang=\\"scss\\" type=\\"text/scss\\">h1{font-size:2.8em;font-weight:700;margin:0 0 .5em}@media (min-width:480px){h1{font-size:4em}}</style>\\n\\n<script lang=\\"ts\\" context=\\"module\\">export function load({ error, status }) {\\n    return {\\n        props: {\\n            title: `${status}: ${error.message}`,\\n            status,\\n            error,\\n        },\\n    };\\n}\\n<\/script>\\n\\n<script lang=\\"ts\\">import { dev } from \'$app/env\';\\nimport HeadTags from \'$components/head-tags/HeadTags.svelte\';\\n;\\n// End: Local Imports\\n// Start: Exported Properties\\n/**\\n * @type {string}\\n */\\nexport let status;\\n/**\\n * @type {string}\\n */\\nexport let error;\\n// End: Exported Properties\\n/**\\n * @type {IMetaTagProperties}\\n */\\nconst metaData = {\\n    title: `${status} | Sveltekit`,\\n    description: \'404 page of Sveltekit starter project\',\\n};\\n<\/script>\\n\\n<!-- Start: Header Tage -->\\n<HeadTags metaData=\\"{metaData}\\" />\\n<!-- End: Header Tage -->\\n\\n<!-- Start: Error View Layout -->\\n<div class=\\"md:container md:mx-auto\\">\\n\\t<div class=\\"flex flex-col justify-center items-center\\">\\n\\t\\t<!-- Start: Error Status Code -->\\n\\t\\t<h1>\\n\\t\\t\\t{status}\\n\\t\\t</h1>\\n\\t\\t<!-- End: Error Status Code -->\\n\\t\\t<p>\\n\\t\\t\\t{error.name}\\n\\t\\t</p>\\n\\t\\t<!-- Start: Error Message container -->\\n\\t\\t{#if dev && error.stack}\\n\\t\\t\\t<pre> {error.message} </pre>\\n\\t\\t{/if}\\n\\t\\t<!-- End: Error Message container -->\\n\\t</div>\\n</div>\\n<!-- End: Error View Layout -->\\n"],"names":[],"mappings":"AAAoC,gBAAE,CAAC,UAAU,KAAK,CAAC,YAAY,GAAG,CAAC,OAAO,CAAC,CAAC,CAAC,CAAC,IAAI,CAAC,MAAM,AAAC,WAAW,KAAK,CAAC,CAAC,gBAAE,CAAC,UAAU,GAAG,CAAC,CAAC"}'
 };
-function load$7({ error: error2, status }) {
+function load$8({ error: error2, status }) {
   return {
     props: {
       title: `${status}: ${error2.message}`,
@@ -18927,14 +19014,14 @@ var __error = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": _error,
-  load: load$7
+  load: load$8
 });
 var convertToSlug = (value) => value.toLowerCase().replace(/[^\w ]+/g, "").replace(/ +/g, "-");
 var Tag = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { tag } = $$props;
   if ($$props.tag === void 0 && $$bindings.tag && tag !== void 0)
     $$bindings.tag(tag);
-  return `<a sveltekit:prefetch${add_attribute("href", `/tags/${convertToSlug(tag)}`, 0)}${add_attribute("aria-label", tag, 0)} class="${"text-xs text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-500"}">${escape(tag.toUpperCase())}</a>`;
+  return `<a data-sveltekit:prefetch${add_attribute("href", `/tags/${convertToSlug(tag)}`, 0)}${add_attribute("aria-label", tag, 0)} class="${"text-xs text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-500"}">${escape(tag.toUpperCase())}</a>`;
 });
 var TagsContainer = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { tags } = $$props;
@@ -18949,13 +19036,13 @@ var BlogPost = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   if ($$props.blog === void 0 && $$bindings.blog && blog !== void 0)
     $$bindings.blog(blog);
   return `${blog && (blog == null ? void 0 : blog.slug) ? `<div class="${"mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5"}"><div class="${"flex flex-col md:flex-row justify-between"}"><img${add_attribute("src", blog.banner, 0)} alt="${""}" style="${"height: 12em;width:18emwidth:100%;"}">
-			
-			</div>
-		<a sveltekit:prefetch${add_attribute("href", `/blog/${blog.slug}`, 0)} class="${"w-full"}"><h3 class="${"text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100"}">${escape(blog.title)}</h3></a>
-		<p class="${"text-gray-600 dark:text-gray-400"}">${escape(blog.description)}</p>
-		<p class="${"text-gray-600 dark:text-gray-400"}">${escape(blog.date)}</p>
-		${validate_component(TagsContainer, "TagsContainer").$$render($$result, { tags: blog.tags }, {}, {})}</div>
-	` : ``}`;
+
+      </div>
+    <a data-sveltekit:prefetch${add_attribute("href", `/blog/${blog.slug}`, 0)} class="${"w-full"}"><h3 class="${"text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100"}">${escape(blog.title)}</h3></a>
+    <p class="${"text-gray-600 dark:text-gray-400"}">${escape(blog.description)}</p>
+    <p class="${"text-gray-600 dark:text-gray-400"}">${escape(blog.date)}</p>
+    ${validate_component(TagsContainer, "TagsContainer").$$render($$result, { tags: blog.tags }, {}, {})}</div>
+  ` : ``}`;
 });
 var ProjectCard = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { project } = $$props;
@@ -18966,10 +19053,10 @@ var ProjectCard = create_ssr_component(($$result, $$props, $$bindings, slots) =>
     ariaLabel: project.title
   }, {}, {
     default: () => `<div class="${"mb-4 hover:transition-shadow hover:shadow dark:hover:transition-shadow dark:hover:shadow-dark flex items-center border border-gray-200 dark:border-gray-800 rounded p-4"}"><div class="${"h-14 w-14 ml-2 mr-4 flex-shrink-0"}"></div>
-			<div><h2 class="${"text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 mb-5"}">${escape(project == null ? void 0 : project.title)}</h2>
-				<p class="${"leading-5 text-gray-700 dark:text-gray-300"}" style="${"float: right;"}">${escape(project == null ? void 0 : project.date)}</p>
-				<img${add_attribute("src", project == null ? void 0 : project.img, 0)} alt="${""}" style="${"height: 26em;"}">
-				<p class="${"leading-5 text-gray-700 dark:text-gray-300 mt-5"}">${escape(project == null ? void 0 : project.description)}</p></div></div>`
+      <div><h2 class="${"text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 mb-5"}">${escape(project == null ? void 0 : project.title)}</h2>
+        <p class="${"leading-5 text-gray-700 dark:text-gray-300"}" style="${"float: right;"}">${escape(project == null ? void 0 : project.date)}</p>
+        <img${add_attribute("src", project == null ? void 0 : project.img, 0)} alt="${""}" style="${"height: 26em;"}">
+        <p class="${"leading-5 text-gray-700 dark:text-gray-300 mt-5"}">${escape(project == null ? void 0 : project.description)}</p></div></div>`
   })}` : ``}`;
 });
 var LogLevel;
@@ -18982,9 +19069,9 @@ var LogLevel;
 })(LogLevel || (LogLevel = {}));
 var css = {
   code: ".perspective-text.svelte-1dc02nj.svelte-1dc02nj{color:#fff;font-family:Arial;font-size:12.2em;font-weight:900;letter-spacing:-8px;margin-left:1.5em;perspective:23rem;position:absolute;text-transform:uppercase;z-index:1}.viewAll.svelte-1dc02nj.svelte-1dc02nj:hover{text-decoration:underline}.perspective-line.svelte-1dc02nj.svelte-1dc02nj{height:1.4em;overflow-x:hidden}p.svelte-1dc02nj.svelte-1dc02nj{height:1.4em;line-height:1.4em;margin:0}.perspective-line.svelte-1dc02nj.svelte-1dc02nj{overflow-x:hidden!important;position:static}.perspective-line.svelte-1dc02nj:hover p.svelte-1dc02nj{transform:rotate(4deg)}.perspective-line.svelte-1dc02nj.svelte-1dc02nj:first-child{left:29px}.perspective-line.svelte-1dc02nj.svelte-1dc02nj:nth-child(2){left:58px}.perspective-line.svelte-1dc02nj.svelte-1dc02nj:nth-child(3){left:87px}.perspective-line.svelte-1dc02nj.svelte-1dc02nj:nth-child(4){left:116px}.perspective-line.svelte-1dc02nj.svelte-1dc02nj:nth-child(5){left:145px}.perspective-line.svelte-1dc02nj:hover p.svelte-1dc02nj{transform:translateY(-50px)}p.svelte-1dc02nj.svelte-1dc02nj{transition:all .5s ease-in-out}body{background-image:radial-gradient(#000 1px,transparent 0);background-position:-19px -19px;background-size:40px 40px}",
-  map: `{"version":3,"file":"index.svelte","sources":["index.svelte"],"sourcesContent":["<!-- HOME PAGE OF WEBSITE\\n\\n\\n\\n\\n\\n\\n -->\\n<script lang=\\"ts\\" context=\\"module\\">var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {\\n    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }\\n    return new (P || (P = Promise))(function (resolve, reject) {\\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\\n        function rejected(value) { try { step(generator[\\"throw\\"](value)); } catch (e) { reject(e); } }\\n        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }\\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\\n    });\\n};\\n/**\\n * @type {import('@sveltejs/kit').Load}\\n */\\nexport function load({ fetch }) {\\n    return __awaiter(this, void 0, void 0, function* () {\\n        return {\\n            props: {\\n                blogs: yield fetch(\`/blog.json?recent=\${5}\`).then((res) => res.json()),\\n            },\\n        };\\n    });\\n}\\n<\/script>\\n\\n<script lang=\\"ts\\">// Imports\\nimport HeadTags from '$components/head-tags/HeadTags.svelte';\\nimport BlogPost from '$components/blog-post/BlogPost.svelte';\\nimport ProjectCard from '$components/project-card/ProjectCard.svelte';\\n;\\n;\\n;\\nimport { LoggerUtils } from '$lib/utils/logger';\\nimport { convertToSlug } from '$utils/convert-to-slug';\\n// Exports\\nexport let blogs;\\n// Add metatags for page\\n/**\\n * @type {IMetaTagProperties}\\n */\\nconst metaData = {\\n    title: \`LOOSE LIPS | Live\`,\\n    description: 'Loose lips label radio and blogging website).',\\n    keywords: ['radio', 'mixes', 'london radio', 'music'],\\n};\\n// EVENTS DATA\\nconst events = [\\n    {\\n        title: 'Loose Lips presents: Sunil Sharpe, Cersy & Kortzer',\\n        description: 'Loose Lips brings the legendary Irish turntablist Sunil Sharpe to an exciting new Manchester spot fitted with a beautiful Danley soundsystem. Supported by up and coming techno talent Cersy, and Loose Lips resident Kortzer.',\\n        slug: 'https://github.com/navneetsharmaui/sveltekit-starter',\\n        img: 'https://imgproxy.ra.co/_/quality:66/w:1500/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vODkxMjlmZGEzN2EzZjIxMDEwOTg1YzZiZmNmNjVjZDFlMGI1ZWIwYi5wbmc=',\\n        icon: '',\\n        date: '28/01/2023',\\n    },\\n];\\nconst mostRecentBlogs = blogs\\n    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))\\n    .slice(0, 3);\\nlet searchValue = '';\\n$: filteredBlogPosts = blogs\\n    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))\\n    .filter((blog) => blog.title.toLowerCase().includes(searchValue.toLowerCase()));\\n// End: Local component properties\\n// Local Methods\\nlet listWithDuplicatetags = [];\\nblogs.forEach((blog) => {\\n    listWithDuplicatetags =\\n        listWithDuplicatetags.length === 0 ? [...blog.tags] : [...listWithDuplicatetags, ...blog.tags];\\n});\\n$: tags = [...new Set(listWithDuplicatetags)];\\n<\/script>\\n\\n<!-- Start: Header Tag -->\\n<HeadTags metaData=\\"{metaData}\\" />\\n<!-- End: Header Tag -->\\n\\n<div class=\\"perspective-text\\">\\n\\t<div class=\\"perspective-line\\">\\n\\t  <p style=\\"margin-left: 23px;\\" class=\\"text-black dark:text-white\\">LOOSE </p>\\n\\t</div>\\n\\t<div class=\\"perspective-line\\">\\n\\t  <p style=\\"margin-left: 56px;\\" class=\\"text-black dark:text-white\\">LIPS</p>\\n\\t</div>\\n\\t<div class=\\"perspective-line\\">\\n\\t  <p style=\\"margin-left: 14px;\\" class=\\"text-black dark:text-white\\">2.0</p>\\n\\t</div>\\n  </div>\\n<!-- Start: Home Page container -->\\n\\n<div class=\\"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)\\">\\n\\t\\n\\t<img src=\\"images/logo-loose-lips.gif\\" alt=\\"\\" style=\\"margin-top: -2vh;\\">\\n\\n\\t<a href=\\"#featured\\" style=\\"\\nwidth: 0;\\nheight: 0;\\nborder-left: 40px solid transparent;\\nborder-right: 40px solid transparent;\\nborder-top: 25px solid #8ef6cf;\\ndisplay: block;\\nmargin:auto;\\nmargin-top:5%;\\ncolor: white;\\nz-index:15;\\ntransform: translate(-50%, 0px);\\">\\n</a>\\n<p class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white\\" style=\\"margin: auto;transform: rotate(-15deg);\\" >HAVE A LOOKSY</p>\\n\\n</div>\\n<div class=\\"p-5\\">\\n\\t<h2 id=\\"featured\\" class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white\\"> Featured </h2>\\n\\t<img src=\\"images/DIDO_WEB.jpg\\" alt=\\"featured\\" style=\\"margin-bottom: 2.5em;\\">\\n\\t<iframe width=\\"560\\" height=\\"315\\" src=\\"https://www.youtube.com/embed/asEvnIJ7GfA\\" title=\\"YouTube video player\\" frameborder=\\"0\\" allow=\\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\\" allowfullscreen></iframe>\\n\\t\\t\\n</div>\\n<div class=\\"flex flex-row flex-wrap w-full mt-4 items-center\\">\\n\\t{#each tags as tag, index (tag)}\\n\\t\\t<a\\n\\t\\t\\tsveltekit:prefetch\\n\\t\\t\\thref=\\"{\`/tags/\${convertToSlug(tag)}\`}\\"\\n\\t\\t\\taria-label=\\"{tag}\\"\\n\\t\\t\\tclass=\\"text-xl font-bold text-black-400 text-black dark:text-white hover:text-white dark:hover:text-white\\"\\n\\t\\t>\\n\\t\\t\\t{tag.toUpperCase()}\\n\\t\\t</a>\\n\\t\\t{#if index !== tags.length - 1}\\n\\t\\t\\t<p class=\\"mr-2 ml-2 text-black dark:text-white\\">\\n\\t\\t\\t\\t{\` \u2022 \`}\\n\\t\\t\\t</p>\\n\\t\\t{/if}\\n\\t{/each}\\n</div>\\n<div class=\\"flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)\\">\\n\\n\\t\\t\\t<!-- Start: Popular Blog Section -->\\n\\t\\t\\t<h2 class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em\\" style=\\"margin-top: 15%;\\"> Recent Posts </h2>\\n\\t\\t\\t<div>\\n\\t\\t\\t\\t\\n\\t\\t\\t</div>\\n\\t\\t\\t{#if blogs.length > 0}\\n\\t\\t\\t\\t{#each blogs as blog, index (blog.slug)}\\n\\n\\t\\t\\t\\t<div class=\\"p-5\\">\\n\\t\\t\\t\\t\\t<BlogPost blog=\\"{blog}\\" />\\n\\t\\t\\t\\t</div>\\n\\t\\t\\t\\t\\t\\t\\n\\t\\t\\t\\t{/each}\\n\\t\\t\\t{/if}\\n\\t\\t\\t<!-- End: Popular Blog Section -->\\n\\n\\t\\t\\t\\n\\t\\t\\n</div>\\n\\n<div class=\\"flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)\\">\\n\\n\\t<!-- Start: Popular Blog Section -->\\n\\t<h2 class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em\\" > Editorial Posts </h2>\\n\\t<div>\\n\\t\\t\\n\\t</div>\\n\\t{#if blogs.length > 0}\\n\\t\\t{#each blogs as blog, index (blog.slug)}\\n\\n\\t\\t<div class=\\"p-5\\">\\n\\t\\t\\t<BlogPost blog=\\"{blog}\\" />\\n\\t\\t</div>\\n\\t\\t\\t\\t\\n\\t\\t{/each}\\n\\t{/if}\\n\\t<!-- End: Popular Blog Section -->\\n\\n\\t\\n\\n</div>\\n\\n<div class=\\"flex flex-row justify-left items-start max-w-2xl mx-auto\\">\\n\\t<div class=\\"p-5\\">\\n<!-- Start: Events -->\\n\\t<h2 class=\\"font-bold text-2xl md:text-2xl tracking-tight mb-2 max-w-1xl text-black dark:text-white\\"> Upcoming Events </h2>\\n\\t{#if events.length > 0}\\n\\t\\t{#each events as event}\\n\\t\\t\\t<ProjectCard project=\\"{event}\\" />\\n\\t\\t{/each}\\n\\t{/if}\\n\\t<a href=\\"events\\" class=\\"viewAll\\">\\n\\t\\t<p class=\\"font-italic text-m text-white\\">View past events</p>\\n\\t</a>\\n\\t<!-- End: Top Events -->\\n\\t</div>\\n\\n</div>\\n<!-- End: Home Page container -->\\n<!-- Old code for audio player\\n\\t<div class=\\"audio\\" style=\\"position:fixed;left:0;bottom:0;width:;\\">\\n\\t<Aplayer audio={\\n\\t\\t{name:'\u541B\u306E\u77E5\u3089\u306A\u3044\u7269\u8A9E',\\n\\t\\tartist: 'supercell',\\n\\t\\tcover: 'https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.jpg',\\n\\t\\turl: \\"https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.mp3\\"}} />\\n\\n</div> -->\\n<style>.perspective-text{color:#fff;font-family:Arial;font-size:12.2em;font-weight:900;letter-spacing:-8px;margin-left:1.5em;perspective:23rem;position:absolute;text-transform:uppercase;z-index:1}.viewAll:hover{text-decoration:underline}.perspective-line{height:1.4em;overflow-x:hidden}p{height:1.4em;line-height:1.4em;margin:0}.perspective-line{overflow-x:hidden!important;position:static}.perspective-line:hover p{transform:rotate(4deg)}.perspective-line:first-child{left:29px}.perspective-line:nth-child(2){left:58px}.perspective-line:nth-child(3){left:87px}.perspective-line:nth-child(4){left:116px}.perspective-line:nth-child(5){left:145px}.perspective-line:hover p{transform:translateY(-50px)}p{transition:all .5s ease-in-out}:global(body){background-image:radial-gradient(#000 1px,transparent 0);background-position:-19px -19px;background-size:40px 40px}</style>\\n"],"names":[],"mappings":"AAiNO,+CAAiB,CAAC,MAAM,IAAI,CAAC,YAAY,KAAK,CAAC,UAAU,MAAM,CAAC,YAAY,GAAG,CAAC,eAAe,IAAI,CAAC,YAAY,KAAK,CAAC,YAAY,KAAK,CAAC,SAAS,QAAQ,CAAC,eAAe,SAAS,CAAC,QAAQ,CAAC,CAAC,sCAAQ,MAAM,CAAC,gBAAgB,SAAS,CAAC,+CAAiB,CAAC,OAAO,KAAK,CAAC,WAAW,MAAM,CAAC,+BAAC,CAAC,OAAO,KAAK,CAAC,YAAY,KAAK,CAAC,OAAO,CAAC,CAAC,+CAAiB,CAAC,WAAW,MAAM,UAAU,CAAC,SAAS,MAAM,CAAC,gCAAiB,MAAM,CAAC,gBAAC,CAAC,UAAU,OAAO,IAAI,CAAC,CAAC,+CAAiB,YAAY,CAAC,KAAK,IAAI,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,IAAI,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,IAAI,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,KAAK,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,KAAK,CAAC,gCAAiB,MAAM,CAAC,gBAAC,CAAC,UAAU,WAAW,KAAK,CAAC,CAAC,+BAAC,CAAC,WAAW,GAAG,CAAC,GAAG,CAAC,WAAW,CAAC,AAAQ,IAAI,AAAC,CAAC,iBAAiB,gBAAgB,IAAI,CAAC,GAAG,CAAC,WAAW,CAAC,CAAC,CAAC,CAAC,oBAAoB,KAAK,CAAC,KAAK,CAAC,gBAAgB,IAAI,CAAC,IAAI,CAAC"}`
+  map: '{"version":3,"file":"index.svelte","sources":["index.svelte"],"sourcesContent":["<!-- HOME PAGE OF WEBSITE\\n\\n\\n\\n\\n\\n\\n -->\\n<script lang=\\"ts\\" context=\\"module\\">var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {\\n    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }\\n    return new (P || (P = Promise))(function (resolve, reject) {\\n        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }\\n        function rejected(value) { try { step(generator[\\"throw\\"](value)); } catch (e) { reject(e); } }\\n        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }\\n        step((generator = generator.apply(thisArg, _arguments || [])).next());\\n    });\\n};\\n/**\\n * @type {import(\'@sveltejs/kit\').Load}\\n */\\nexport function load({ fetch }) {\\n    return __awaiter(this, void 0, void 0, function* () {\\n        return {\\n            props: {\\n                blogs: yield fetch(`/blog.json?recent=${5}`).then((res) => res.json()),\\n            },\\n        };\\n    });\\n}\\n<\/script>\\n\\n<script lang=\\"ts\\">// Imports\\nimport HeadTags from \\"$components/head-tags/HeadTags.svelte\\";\\nimport BlogPost from \\"$components/blog-post/BlogPost.svelte\\";\\nimport ProjectCard from \\"$components/project-card/ProjectCard.svelte\\";\\n;\\n;\\n;\\nimport { LoggerUtils } from \\"$lib/utils/logger\\";\\nimport { convertToSlug } from \\"$utils/convert-to-slug\\";\\n// Exports\\nexport let blogs;\\n// Add metatags for page\\n/**\\n * @type {IMetaTagProperties}\\n */\\nconst metaData = {\\n    title: `LOOSE LIPS | Live`,\\n    description: \\"Loose lips label radio and blogging website).\\",\\n    keywords: [\\"radio\\", \\"mixes\\", \\"london radio\\", \\"music\\"],\\n};\\n// EVENTS DATA\\nconst events = [\\n    {\\n        title: \\"Loose Lips presents: Sunil Sharpe, Cersy & Kortzer\\",\\n        description: \\"Loose Lips brings the legendary Irish turntablist Sunil Sharpe to an exciting new Manchester spot fitted with a beautiful Danley soundsystem. Supported by up and coming techno talent Cersy, and Loose Lips resident Kortzer.\\",\\n        slug: \\"https://github.com/navneetsharmaui/sveltekit-starter\\",\\n        img: \\"https://imgproxy.ra.co/_/quality:66/w:1500/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vODkxMjlmZGEzN2EzZjIxMDEwOTg1YzZiZmNmNjVjZDFlMGI1ZWIwYi5wbmc=\\",\\n        icon: \\"\\",\\n        date: \\"28/01/2023\\",\\n    },\\n];\\nconst mostRecentBlogs = blogs\\n    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))\\n    .slice(0, 3);\\nlet searchValue = \\"\\";\\n$: filteredBlogPosts = blogs\\n    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))\\n    .filter((blog) => blog.title.toLowerCase().includes(searchValue.toLowerCase()));\\n// End: Local component properties\\n// Local Methods\\nlet listWithDuplicatetags = [];\\nblogs.forEach((blog) => {\\n    listWithDuplicatetags =\\n        listWithDuplicatetags.length === 0\\n            ? [...blog.tags]\\n            : [...listWithDuplicatetags, ...blog.tags];\\n});\\n$: tags = [...new Set(listWithDuplicatetags)];\\n<\/script>\\n\\n<!-- Start: Header Tag -->\\n<HeadTags {metaData} />\\n<!-- End: Header Tag -->\\n\\n<div class=\\"perspective-text\\">\\n  <div class=\\"perspective-line\\">\\n    <p style=\\"margin-left: 23px;\\" class=\\"text-black dark:text-white\\">LOOSE</p>\\n  </div>\\n  <div class=\\"perspective-line\\">\\n    <p style=\\"margin-left: 56px;\\" class=\\"text-black dark:text-white\\">LIPS</p>\\n  </div>\\n  <div class=\\"perspective-line\\">\\n    <p style=\\"margin-left: 14px;\\" class=\\"text-black dark:text-white\\">2.0</p>\\n  </div>\\n</div>\\n<!-- Start: Home Page container -->\\n\\n<div\\n  class=\\"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)\\"\\n>\\n  <img src=\\"images/logo-loose-lips.gif\\" alt=\\"\\" style=\\"margin-top: -2vh;\\" />\\n\\n  <a\\n    href=\\"#featured\\"\\n    style=\\"\\nwidth: 0;\\nheight: 0;\\nborder-left: 40px solid transparent;\\nborder-right: 40px solid transparent;\\nborder-top: 25px solid #8ef6cf;\\ndisplay: block;\\nmargin:auto;\\nmargin-top:5%;\\ncolor: white;\\nz-index:15;\\ntransform: translate(-50%, 0px);\\"\\n  />\\n  <p\\n    class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white\\"\\n    style=\\"margin: auto;transform: rotate(-15deg);\\"\\n  >\\n    HAVE A LOOKSY\\n  </p>\\n</div>\\n<div class=\\"p-5\\">\\n  <h2\\n    id=\\"featured\\"\\n    class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white\\"\\n  >\\n    Featured\\n  </h2>\\n  <img src=\\"images/DIDO_WEB.jpg\\" alt=\\"featured\\" style=\\"margin-bottom: 2.5em;\\" />\\n  <iframe\\n    width=\\"560\\"\\n    height=\\"315\\"\\n    src=\\"https://www.youtube.com/embed/asEvnIJ7GfA\\"\\n    title=\\"YouTube video player\\"\\n    frameborder=\\"0\\"\\n    allow=\\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\\"\\n    allowfullscreen\\n  />\\n</div>\\n<div class=\\"flex flex-row flex-wrap w-full mt-4 items-center\\">\\n  {#each tags as tag, index (tag)}\\n    <a\\n      data-sveltekit:prefetch\\n      href={`/tags/${convertToSlug(tag)}`}\\n      aria-label={tag}\\n      class=\\"text-xl font-bold text-black-400 text-black dark:text-white hover:text-white dark:hover:text-white\\"\\n    >\\n      {tag.toUpperCase()}\\n    </a>\\n    {#if index !== tags.length - 1}\\n      <p class=\\"mr-2 ml-2 text-black dark:text-white\\">\\n        {` \u2022 `}\\n      </p>\\n    {/if}\\n  {/each}\\n</div>\\n<div\\n  class=\\"flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)\\"\\n>\\n  <!-- Start: Popular Blog Section -->\\n  <h2\\n    class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em\\"\\n    style=\\"margin-top: 15%;\\"\\n  >\\n    Recent Posts\\n  </h2>\\n  <div />\\n  {#if blogs.length > 0}\\n    {#each blogs as blog, index (blog.slug)}\\n      <div class=\\"p-5\\">\\n        <BlogPost {blog} />\\n      </div>\\n    {/each}\\n  {/if}\\n  <!-- End: Popular Blog Section -->\\n</div>\\n\\n<div\\n  class=\\"flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)\\"\\n>\\n  <!-- Start: Popular Blog Section -->\\n  <h2\\n    class=\\"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em\\"\\n  >\\n    Editorial Posts\\n  </h2>\\n  <div />\\n  {#if blogs.length > 0}\\n    {#each blogs as blog, index (blog.slug)}\\n      <div class=\\"p-5\\">\\n        <BlogPost {blog} />\\n      </div>\\n    {/each}\\n  {/if}\\n  <!-- End: Popular Blog Section -->\\n</div>\\n\\n<div class=\\"flex flex-row justify-left items-start max-w-2xl mx-auto\\">\\n  <div class=\\"p-5\\">\\n    <!-- Start: Events -->\\n    <h2\\n      class=\\"font-bold text-2xl md:text-2xl tracking-tight mb-2 max-w-1xl text-black dark:text-white\\"\\n    >\\n      Upcoming Events\\n    </h2>\\n    {#if events.length > 0}\\n      {#each events as event}\\n        <ProjectCard project={event} />\\n      {/each}\\n    {/if}\\n    <a href=\\"events\\" class=\\"viewAll\\">\\n      <p class=\\"font-italic text-m text-white\\">View past events</p>\\n    </a>\\n    <!-- End: Top Events -->\\n  </div>\\n</div>\\n<!-- End: Home Page container -->\\n\\n<!-- Old code for audio player\\n\\t<div class=\\"audio\\" style=\\"position:fixed;left:0;bottom:0;width:;\\">\\n\\t<Aplayer audio={\\n\\t\\t{name:\'\u541B\u306E\u77E5\u3089\u306A\u3044\u7269\u8A9E\',\\n\\t\\tartist: \'supercell\',\\n\\t\\tcover: \'https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.jpg\',\\n\\t\\turl: \\"https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.mp3\\"}} />\\n\\n</div> -->\\n<style>.perspective-text{color:#fff;font-family:Arial;font-size:12.2em;font-weight:900;letter-spacing:-8px;margin-left:1.5em;perspective:23rem;position:absolute;text-transform:uppercase;z-index:1}.viewAll:hover{text-decoration:underline}.perspective-line{height:1.4em;overflow-x:hidden}p{height:1.4em;line-height:1.4em;margin:0}.perspective-line{overflow-x:hidden!important;position:static}.perspective-line:hover p{transform:rotate(4deg)}.perspective-line:first-child{left:29px}.perspective-line:nth-child(2){left:58px}.perspective-line:nth-child(3){left:87px}.perspective-line:nth-child(4){left:116px}.perspective-line:nth-child(5){left:145px}.perspective-line:hover p{transform:translateY(-50px)}p{transition:all .5s ease-in-out}:global(body){background-image:radial-gradient(#000 1px,transparent 0);background-position:-19px -19px;background-size:40px 40px}</style>\\n"],"names":[],"mappings":"AAuOO,+CAAiB,CAAC,MAAM,IAAI,CAAC,YAAY,KAAK,CAAC,UAAU,MAAM,CAAC,YAAY,GAAG,CAAC,eAAe,IAAI,CAAC,YAAY,KAAK,CAAC,YAAY,KAAK,CAAC,SAAS,QAAQ,CAAC,eAAe,SAAS,CAAC,QAAQ,CAAC,CAAC,sCAAQ,MAAM,CAAC,gBAAgB,SAAS,CAAC,+CAAiB,CAAC,OAAO,KAAK,CAAC,WAAW,MAAM,CAAC,+BAAC,CAAC,OAAO,KAAK,CAAC,YAAY,KAAK,CAAC,OAAO,CAAC,CAAC,+CAAiB,CAAC,WAAW,MAAM,UAAU,CAAC,SAAS,MAAM,CAAC,gCAAiB,MAAM,CAAC,gBAAC,CAAC,UAAU,OAAO,IAAI,CAAC,CAAC,+CAAiB,YAAY,CAAC,KAAK,IAAI,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,IAAI,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,IAAI,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,KAAK,CAAC,+CAAiB,WAAW,CAAC,CAAC,CAAC,KAAK,KAAK,CAAC,gCAAiB,MAAM,CAAC,gBAAC,CAAC,UAAU,WAAW,KAAK,CAAC,CAAC,+BAAC,CAAC,WAAW,GAAG,CAAC,GAAG,CAAC,WAAW,CAAC,AAAQ,IAAI,AAAC,CAAC,iBAAiB,gBAAgB,IAAI,CAAC,GAAG,CAAC,WAAW,CAAC,CAAC,CAAC,CAAC,oBAAoB,KAAK,CAAC,KAAK,CAAC,gBAAgB,IAAI,CAAC,IAAI,CAAC"}'
 };
-var __awaiter$6 = function(thisArg, _arguments, P, generator) {
+var __awaiter$7 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
     return value instanceof P ? value : new P(function(resolve2) {
       resolve2(value);
@@ -19011,8 +19098,8 @@ var __awaiter$6 = function(thisArg, _arguments, P, generator) {
     step((generator = generator.apply(thisArg, _arguments || [])).next());
   });
 };
-function load$6({ fetch: fetch2 }) {
-  return __awaiter$6(this, void 0, void 0, function* () {
+function load$7({ fetch: fetch2 }) {
+  return __awaiter$7(this, void 0, void 0, function* () {
     return {
       props: {
         blogs: yield fetch2(`/blog.json?recent=${5}`).then((res) => res.json())
@@ -19058,48 +19145,54 @@ var Routes = create_ssr_component(($$result, $$props, $$bindings, slots) => {
 ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
 
 
-<div class="${"perspective-text svelte-1dc02nj"}"><div class="${"perspective-line svelte-1dc02nj"}"><p style="${"margin-left: 23px;"}" class="${"text-black dark:text-white svelte-1dc02nj"}">LOOSE </p></div>
-	<div class="${"perspective-line svelte-1dc02nj"}"><p style="${"margin-left: 56px;"}" class="${"text-black dark:text-white svelte-1dc02nj"}">LIPS</p></div>
-	<div class="${"perspective-line svelte-1dc02nj"}"><p style="${"margin-left: 14px;"}" class="${"text-black dark:text-white svelte-1dc02nj"}">2.0</p></div></div>
+<div class="${"perspective-text svelte-1dc02nj"}"><div class="${"perspective-line svelte-1dc02nj"}"><p style="${"margin-left: 23px;"}" class="${"text-black dark:text-white svelte-1dc02nj"}">LOOSE</p></div>
+  <div class="${"perspective-line svelte-1dc02nj"}"><p style="${"margin-left: 56px;"}" class="${"text-black dark:text-white svelte-1dc02nj"}">LIPS</p></div>
+  <div class="${"perspective-line svelte-1dc02nj"}"><p style="${"margin-left: 14px;"}" class="${"text-black dark:text-white svelte-1dc02nj"}">2.0</p></div></div>
 
 
 <div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)"}"><img src="${"images/logo-loose-lips.gif"}" alt="${""}" style="${"margin-top: -2vh;"}">
 
-	<a href="${"#featured"}" style="${"width: 0; height: 0; border-left: 40px solid transparent; border-right: 40px solid transparent; border-top: 25px solid #8ef6cf; display: block; margin:auto; margin-top:5%; color: white; z-index:15; transform: translate(-50%, 0px);"}"></a>
-<p class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white svelte-1dc02nj"}" style="${"margin: auto;transform: rotate(-15deg);"}">HAVE A LOOKSY</p></div>
-<div class="${"p-5"}"><h2 id="${"featured"}" class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"}">Featured </h2>
-	<img src="${"images/DIDO_WEB.jpg"}" alt="${"featured"}" style="${"margin-bottom: 2.5em;"}">
-	<iframe width="${"560"}" height="${"315"}" src="${"https://www.youtube.com/embed/asEvnIJ7GfA"}" title="${"YouTube video player"}" frameborder="${"0"}" allow="${"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"}" allowfullscreen></iframe></div>
-<div class="${"flex flex-row flex-wrap w-full mt-4 items-center"}">${each(tags, (tag, index2) => `<a sveltekit:prefetch${add_attribute("href", `/tags/${convertToSlug(tag)}`, 0)}${add_attribute("aria-label", tag, 0)} class="${"text-xl font-bold text-black-400 text-black dark:text-white hover:text-white dark:hover:text-white"}">${escape(tag.toUpperCase())}</a>
-		${index2 !== tags.length - 1 ? `<p class="${"mr-2 ml-2 text-black dark:text-white svelte-1dc02nj"}">${escape(` \u2022 `)}
-			</p>` : ``}`)}</div>
+  <a href="${"#featured"}" style="${"width: 0; height: 0; border-left: 40px solid transparent; border-right: 40px solid transparent; border-top: 25px solid #8ef6cf; display: block; margin:auto; margin-top:5%; color: white; z-index:15; transform: translate(-50%, 0px);"}"></a>
+  <p class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white svelte-1dc02nj"}" style="${"margin: auto;transform: rotate(-15deg);"}">HAVE A LOOKSY
+  </p></div>
+<div class="${"p-5"}"><h2 id="${"featured"}" class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"}">Featured
+  </h2>
+  <img src="${"images/DIDO_WEB.jpg"}" alt="${"featured"}" style="${"margin-bottom: 2.5em;"}">
+  <iframe width="${"560"}" height="${"315"}" src="${"https://www.youtube.com/embed/asEvnIJ7GfA"}" title="${"YouTube video player"}" frameborder="${"0"}" allow="${"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"}" allowfullscreen></iframe></div>
+<div class="${"flex flex-row flex-wrap w-full mt-4 items-center"}">${each(tags, (tag, index2) => `<a data-sveltekit:prefetch${add_attribute("href", `/tags/${convertToSlug(tag)}`, 0)}${add_attribute("aria-label", tag, 0)} class="${"text-xl font-bold text-black-400 text-black dark:text-white hover:text-white dark:hover:text-white"}">${escape(tag.toUpperCase())}</a>
+    ${index2 !== tags.length - 1 ? `<p class="${"mr-2 ml-2 text-black dark:text-white svelte-1dc02nj"}">${escape(` \u2022 `)}
+      </p>` : ``}`)}</div>
 <div class="${"flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)"}">
-			<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"}" style="${"margin-top: 15%;"}">Recent Posts </h2>
-			<div></div>
-			${blogs.length > 0 ? `${each(blogs, (blog, index2) => `<div class="${"p-5"}">${validate_component(BlogPost, "BlogPost").$$render($$result, { blog }, {}, {})}
-				</div>`)}` : ``}
-			</div>
+  <h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"}" style="${"margin-top: 15%;"}">Recent Posts
+  </h2>
+  <div></div>
+  ${blogs.length > 0 ? `${each(blogs, (blog, index2) => `<div class="${"p-5"}">${validate_component(BlogPost, "BlogPost").$$render($$result, { blog }, {}, {})}
+      </div>`)}` : ``}
+  </div>
 
 <div class="${"flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)"}">
-	<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"}">Editorial Posts </h2>
-	<div></div>
-	${blogs.length > 0 ? `${each(blogs, (blog, index2) => `<div class="${"p-5"}">${validate_component(BlogPost, "BlogPost").$$render($$result, { blog }, {}, {})}
-		</div>`)}` : ``}
-	</div>
+  <h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"}">Editorial Posts
+  </h2>
+  <div></div>
+  ${blogs.length > 0 ? `${each(blogs, (blog, index2) => `<div class="${"p-5"}">${validate_component(BlogPost, "BlogPost").$$render($$result, { blog }, {}, {})}
+      </div>`)}` : ``}
+  </div>
 
 <div class="${"flex flex-row justify-left items-start max-w-2xl mx-auto"}"><div class="${"p-5"}">
-	<h2 class="${"font-bold text-2xl md:text-2xl tracking-tight mb-2 max-w-1xl text-black dark:text-white"}">Upcoming Events </h2>
-	${events.length > 0 ? `${each(events, (event) => `${validate_component(ProjectCard, "ProjectCard").$$render($$result, { project: event }, {}, {})}`)}` : ``}
-	<a href="${"events"}" class="${"viewAll svelte-1dc02nj"}"><p class="${"font-italic text-m text-white svelte-1dc02nj"}">View past events</p></a>
-	</div></div>
+    <h2 class="${"font-bold text-2xl md:text-2xl tracking-tight mb-2 max-w-1xl text-black dark:text-white"}">Upcoming Events
+    </h2>
+    ${events.length > 0 ? `${each(events, (event) => `${validate_component(ProjectCard, "ProjectCard").$$render($$result, { project: event }, {}, {})}`)}` : ``}
+    <a href="${"events"}" class="${"viewAll svelte-1dc02nj"}"><p class="${"font-italic text-m text-white svelte-1dc02nj"}">View past events</p></a>
+    </div></div>
+
 
 `;
 });
-var index$f = /* @__PURE__ */ Object.freeze({
+var index$j = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Routes,
-  load: load$6
+  load: load$7
 });
 var Track = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { track } = $$props;
@@ -19119,7 +19212,7 @@ var TopTracks = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     $$bindings.topTracks(topTracks);
   return `${each(topTracks, (topTrack, index2) => `${validate_component(Track, "Track").$$render($$result, { track: topTrack }, {}, {})}`)}`;
 });
-var __awaiter$5 = function(thisArg, _arguments, P, generator) {
+var __awaiter$6 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
     return value instanceof P ? value : new P(function(resolve2) {
       resolve2(value);
@@ -19146,8 +19239,8 @@ var __awaiter$5 = function(thisArg, _arguments, P, generator) {
     step((generator = generator.apply(thisArg, _arguments || [])).next());
   });
 };
-function load$5({ fetch: fetch2 }) {
-  return __awaiter$5(this, void 0, void 0, function* () {
+function load$6({ fetch: fetch2 }) {
+  return __awaiter$6(this, void 0, void 0, function* () {
     return {
       props: {
         topTracks: yield fetch2(`/api/top-tracks.json`).then((res) => res.json())
@@ -19179,15 +19272,15 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
 	</p>
 	${validate_component(TopTracks, "TopTracks").$$render($$result, { topTracks }, {}, {})}</div>`;
 });
-var index$e = /* @__PURE__ */ Object.freeze({
+var index$i = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Dashboard,
-  load: load$5
+  load: load$6
 });
-var hydrate$1 = dev;
-var router$1 = browser;
-var prerender$1 = true;
+var hydrate = dev;
+var router = browser;
+var prerender = true;
 var Projects = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   const metaData = {
     title: "Project | Sveltekit Blog",
@@ -19204,13 +19297,13 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
 <div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 dark:text-white"}">Coming soon... </h1></div>
 `;
 });
-var index$d = /* @__PURE__ */ Object.freeze({
+var index$h = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Projects,
-  hydrate: hydrate$1,
-  router: router$1,
-  prerender: prerender$1
+  hydrate,
+  router,
+  prerender
 });
 var SnippetCard = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { title = "" } = $$props;
@@ -19229,7 +19322,7 @@ var SnippetCard = create_ssr_component(($$result, $$props, $$bindings, slots) =>
 	<h3 class="${"text-lg font-bold text-left mt-2 text-gray-900 dark:text-gray-100"}">${escape(title)}</h3>
 	<p class="${"mt-1 text-gray-700 dark:text-gray-400"}">${escape(description2)}</p></a>`;
 });
-var __awaiter$4 = function(thisArg, _arguments, P, generator) {
+var __awaiter$5 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
     return value instanceof P ? value : new P(function(resolve2) {
       resolve2(value);
@@ -19256,8 +19349,8 @@ var __awaiter$4 = function(thisArg, _arguments, P, generator) {
     step((generator = generator.apply(thisArg, _arguments || [])).next());
   });
 };
-function load$4({ fetch: fetch2 }) {
-  return __awaiter$4(this, void 0, void 0, function* () {
+function load$5({ fetch: fetch2 }) {
+  return __awaiter$5(this, void 0, void 0, function* () {
     return {
       props: {
         snippets: yield fetch2("/snippets.json").then((res) => res.json())
@@ -19295,11 +19388,11 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
 
 `;
 });
-var index$c = /* @__PURE__ */ Object.freeze({
+var index$g = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Snippets,
-  load: load$4
+  load: load$5
 });
 var linkStyles = "inline-flex text-gray-700 hover:text-gray-800";
 var ShareButtons = create_ssr_component(($$result, $$props, $$bindings, slots) => {
@@ -19474,7 +19567,7 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
     default: () => `${escape("Edit on GitHub")}`
   })}</div></article>`;
 });
-var metadata$5 = {
+var metadata$9 = {
   "layout": "snippet",
   "title": "Yet Another Snippet",
   "description": "Page views over a given range.",
@@ -19487,7 +19580,7 @@ var metadata$5 = {
   "tags": ["snippets", "google", "Programming"]
 };
 var Yet_another_snippet = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$5), {}, {
+  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$9), {}, {
     default: () => `<pre class="${"language-ts"}"><!-- HTML_TAG_START -->${`<code class="language-ts">
 <span class="token keyword">import</span> <span class="token punctuation">&#123;</span> ReactiveFormsModule <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/forms'</span><span class="token punctuation">;</span>
 
@@ -19515,13 +19608,13 @@ var Yet_another_snippet = create_ssr_component(($$result, $$props, $$bindings, s
 <p>Pellentesque id metus sed arcu egestas posuere vehicula eget magna. Praesent eu dui sed eros blandit volutpat tempus sit amet magna. Vestibulum sed ex a lorem imperdiet eleifend. Nulla ultricies tortor sit amet volutpat accumsan. Sed non nunc dignissim, aliquet nunc at, fringilla nisl. Donec pharetra feugiat sapien viverra posuere. Suspendisse et aliquet urna. Cras at nibh nec lacus vehicula scelerisque. In iaculis, nibh nec congue congue, augue diam rhoncus lorem, feugiat dapibus sem nulla ut diam. Integer fringilla eget erat nec imperdiet. Nam accumsan et arcu sed sodales. Donec rutrum mi quam, nec fermentum nibh finibus nec. Proin semper, lacus et hendrerit suscipit, lorem nunc pharetra augue, vel pretium sem urna ut urna.</p>`
   })}`;
 });
-var index$b = /* @__PURE__ */ Object.freeze({
+var index$f = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Yet_another_snippet,
-  metadata: metadata$5
+  metadata: metadata$9
 });
-var metadata$4 = {
+var metadata$8 = {
   "layout": "snippet",
   "title": "A Second Snippet",
   "description": "Page views over a given range.",
@@ -19534,7 +19627,7 @@ var metadata$4 = {
   "tags": ["snippets", "google", "Programming"]
 };
 var Second_snippet = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$4), {}, {
+  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$8), {}, {
     default: () => `<pre class="${"language-ts"}"><!-- HTML_TAG_START -->${`<code class="language-ts">
 <span class="token keyword">import</span> <span class="token punctuation">&#123;</span> ReactiveFormsModule <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/forms'</span><span class="token punctuation">;</span>
 
@@ -19562,13 +19655,13 @@ var Second_snippet = create_ssr_component(($$result, $$props, $$bindings, slots)
 <p>Pellentesque id metus sed arcu egestas posuere vehicula eget magna. Praesent eu dui sed eros blandit volutpat tempus sit amet magna. Vestibulum sed ex a lorem imperdiet eleifend. Nulla ultricies tortor sit amet volutpat accumsan. Sed non nunc dignissim, aliquet nunc at, fringilla nisl. Donec pharetra feugiat sapien viverra posuere. Suspendisse et aliquet urna. Cras at nibh nec lacus vehicula scelerisque. In iaculis, nibh nec congue congue, augue diam rhoncus lorem, feugiat dapibus sem nulla ut diam. Integer fringilla eget erat nec imperdiet. Nam accumsan et arcu sed sodales. Donec rutrum mi quam, nec fermentum nibh finibus nec. Proin semper, lacus et hendrerit suscipit, lorem nunc pharetra augue, vel pretium sem urna ut urna.</p>`
   })}`;
 });
-var index$a = /* @__PURE__ */ Object.freeze({
+var index$e = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Second_snippet,
-  metadata: metadata$4
+  metadata: metadata$8
 });
-var metadata$3 = {
+var metadata$7 = {
   "layout": "snippet",
   "title": "First Snippet",
   "description": "Page views over a given range.",
@@ -19581,7 +19674,7 @@ var metadata$3 = {
   "tags": ["snippets", "google", "Programming"]
 };
 var First_snippet = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$3), {}, {
+  return `${validate_component(SnippetsLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$7), {}, {
     default: () => `<pre class="${"language-ts"}"><!-- HTML_TAG_START -->${`<code class="language-ts">
 <span class="token keyword">import</span> <span class="token punctuation">&#123;</span> ReactiveFormsModule <span class="token punctuation">&#125;</span> <span class="token keyword">from</span> <span class="token string">'@angular/forms'</span><span class="token punctuation">;</span>
 
@@ -19609,13 +19702,13 @@ var First_snippet = create_ssr_component(($$result, $$props, $$bindings, slots) 
 <p>Pellentesque id metus sed arcu egestas posuere vehicula eget magna. Praesent eu dui sed eros blandit volutpat tempus sit amet magna. Vestibulum sed ex a lorem imperdiet eleifend. Nulla ultricies tortor sit amet volutpat accumsan. Sed non nunc dignissim, aliquet nunc at, fringilla nisl. Donec pharetra feugiat sapien viverra posuere. Suspendisse et aliquet urna. Cras at nibh nec lacus vehicula scelerisque. In iaculis, nibh nec congue congue, augue diam rhoncus lorem, feugiat dapibus sem nulla ut diam. Integer fringilla eget erat nec imperdiet. Nam accumsan et arcu sed sodales. Donec rutrum mi quam, nec fermentum nibh finibus nec. Proin semper, lacus et hendrerit suscipit, lorem nunc pharetra augue, vel pretium sem urna ut urna.</p>`
   })}`;
 });
-var index$9 = /* @__PURE__ */ Object.freeze({
+var index$d = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": First_snippet,
-  metadata: metadata$3
+  metadata: metadata$7
 });
-var __awaiter$3 = function(thisArg, _arguments, P, generator) {
+var __awaiter$4 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
     return value instanceof P ? value : new P(function(resolve2) {
       resolve2(value);
@@ -19642,8 +19735,8 @@ var __awaiter$3 = function(thisArg, _arguments, P, generator) {
     step((generator = generator.apply(thisArg, _arguments || [])).next());
   });
 };
-function load$3({ fetch: fetch2 }) {
-  return __awaiter$3(this, void 0, void 0, function* () {
+function load$4({ fetch: fetch2 }) {
+  return __awaiter$4(this, void 0, void 0, function* () {
     return {
       props: {
         blogs: yield fetch2(`/blog.json?recent=${5}`).then((res) => res.json())
@@ -19690,11 +19783,11 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
 			${events.length > 0 ? `${each(events, (event) => `${validate_component(ProjectCard, "ProjectCard").$$render($$result, { project: event }, {}, {})}`)}` : ``}
 			<a href="${"events"}" class="${"viewAll"}"><p class="${"font-italic text-m text-white"}">View past events</p></a></div>`;
 });
-var index$8 = /* @__PURE__ */ Object.freeze({
+var index$c = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Events,
-  load: load$3
+  load: load$4
 });
 var About = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   const metaData = {
@@ -19712,12 +19805,12 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
 <div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white"}">Coming soon </h1></div>
 `;
 });
-var index$7 = /* @__PURE__ */ Object.freeze({
+var index$b = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": About
 });
-var __awaiter$2 = function(thisArg, _arguments, P, generator) {
+var __awaiter$3 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
     return value instanceof P ? value : new P(function(resolve2) {
       resolve2(value);
@@ -19744,8 +19837,8 @@ var __awaiter$2 = function(thisArg, _arguments, P, generator) {
     step((generator = generator.apply(thisArg, _arguments || [])).next());
   });
 };
-function load$2({ fetch: fetch2 }) {
-  return __awaiter$2(this, void 0, void 0, function* () {
+function load$3({ fetch: fetch2 }) {
+  return __awaiter$3(this, void 0, void 0, function* () {
     return {
       props: {
         blogs: yield fetch2("/blog.json").then((res) => res.json())
@@ -19754,7 +19847,6 @@ function load$2({ fetch: fetch2 }) {
   });
 }
 var Blog = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  let filteredBlogPosts;
   let tags;
   let { blogs } = $$props;
   const metaData = {
@@ -19772,42 +19864,41 @@ var Blog = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   });
   if ($$props.blogs === void 0 && $$bindings.blogs && blogs !== void 0)
     $$bindings.blogs(blogs);
-  filteredBlogPosts = blogs.sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date))).filter((blog) => blog.title.toLowerCase().includes(searchValue2.toLowerCase()));
+  blogs.sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date))).filter((blog) => blog.title.toLowerCase().includes(searchValue2.toLowerCase()));
   tags = [...new Set(listWithDuplicatetags)];
   return `
 ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
 
 
 
-<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white"}">Blog </h1>
+<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white"}">Blog
+  </h1>
 
-	<p class="${"text-gray-600 dark:text-gray-400 mb-4"}">Discover a wealth of music-related content with our extensive collection of blog posts. From in-depth album reviews and artist interviews to the latest industry news and concert coverage, our team of passionate music enthusiasts bring you the best of the music scene.
-		</p>
-	<div class="${"flex flex-row flex-wrap w-full mt-4 items-center"}">${each(tags, (tag, index2) => `<a sveltekit:prefetch${add_attribute("href", `/tags/${convertToSlug(tag)}`, 0)}${add_attribute("aria-label", tag, 0)} class="${"text-xl font-bold text-black-400 text-black dark:text-white hover:text-white dark:hover:text-white"}">${escape(tag.toUpperCase())}</a>
-			${index2 !== tags.length - 1 ? `<p class="${"mr-2 ml-2 text-black dark:text-white"}">${escape(` \u2022 `)}
-				</p>` : ``}`)}</div>
-	
-	<div class="${"relative w-full mb-4"}"><input aria-label="${"Search articles"}" type="${"text"}" placeholder="${"Search articles"}" class="${"px-4 py-2 border border-gray-300 dark:border-gray-900 focus:ring-blue-500 focus:border-blue-500 block w-full rounded-md bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"}"${add_attribute("value", searchValue2, 0)}>
-		<svg class="${"absolute right-3 top-3 h-5 w-5 text-gray-400 dark:text-gray-300"}" xmlns="${"http://www.w3.org/2000/svg"}" fill="${"none"}" viewBox="${"0 0 24 24"}" stroke="${"currentColor"}"><path stroke-linecap="${"round"}" stroke-linejoin="${"round"}"${add_attribute("stroke-width", 2, 0)} d="${"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"}"></path></svg></div>
-	
-	
-	${`<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"}">Most Recent
-		</h2>
-		${each(mostRecentBlogs, (blog, index2) => `${validate_component(BlogPost, "BlogPost").$$render($$result, { blog }, {}, {})}`)}`}
-	
-
-	
-	<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"}">All Posts </h2>
-	${filteredBlogPosts.length === 0 ? `<p class="${"text-gray-600 dark:text-gray-400 mb-4"}">No posts found. </p>` : `${each(filteredBlogPosts, (blog, index2) => `${validate_component(BlogPost, "BlogPost").$$render($$result, { blog }, {}, {})}`)}`}</div>
+  <p class="${"text-gray-600 dark:text-gray-400 mb-4"}">Discover a wealth of music-related content with our extensive collection of
+    blog posts. From in-depth album reviews and artist interviews to the latest
+    industry news and concert coverage, our team of passionate music enthusiasts
+    bring you the best of the music scene.
+    </p>
+  <div class="${"flex flex-row flex-wrap w-full mt-4 items-center"}">${each(tags, (tag, index2) => `<a data-sveltekit:prefetch${add_attribute("href", `/tags/${convertToSlug(tag)}`, 0)}${add_attribute("aria-label", tag, 0)} class="${"text-xl font-bold text-black-400 text-black dark:text-white hover:text-white dark:hover:text-white"}">${escape(tag.toUpperCase())}</a>
+      ${index2 !== tags.length - 1 ? `<p class="${"mr-2 ml-2 text-black dark:text-white"}">${escape(` \u2022 `)}
+        </p>` : ``}`)}</div>
+  
+  <div class="${"relative w-full mb-4"}"><input aria-label="${"Search articles"}" type="${"text"}" placeholder="${"Search articles"}" class="${"px-4 py-2 border border-gray-300 dark:border-gray-900 focus:ring-blue-500 focus:border-blue-500 block w-full rounded-md bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"}"${add_attribute("value", searchValue2, 0)}>
+    <svg class="${"absolute right-3 top-3 h-5 w-5 text-gray-400 dark:text-gray-300"}" xmlns="${"http://www.w3.org/2000/svg"}" fill="${"none"}" viewBox="${"0 0 24 24"}" stroke="${"currentColor"}"><path stroke-linecap="${"round"}" stroke-linejoin="${"round"}"${add_attribute("stroke-width", 2, 0)} d="${"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"}"></path></svg></div>
+  
+  
+  ${`<h2 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"}">Most Recent
+    </h2>
+    ${each(mostRecentBlogs, (blog, index2) => `${validate_component(BlogPost, "BlogPost").$$render($$result, { blog }, {}, {})}`)}`}</div>
 
 
 `;
 });
-var index$6 = /* @__PURE__ */ Object.freeze({
+var index$a = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Blog,
-  load: load$2
+  load: load$3
 });
 var NextArticle = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { previousHref = "" } = $$props;
@@ -19816,10 +19907,10 @@ var NextArticle = create_ssr_component(($$result, $$props, $$bindings, slots) =>
     $$bindings.previousHref(previousHref);
   if ($$props.nextHref === void 0 && $$bindings.nextHref && nextHref !== void 0)
     $$bindings.nextHref(nextHref);
-  return `<div class="${"flex flex-wrap mb-10 pt-2 pb-2"}"><div class="${"flex w-1/2 justify-start"}">${previousHref ? `<a sveltekit:prefetch${add_attribute("href", previousHref, 0)} aria-label="${"previous"}"><small class="${"block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-500"}">Previous article
-				</small></a>` : ``}</div>
-	<div class="${"flex w-1/2 justify-end"}">${nextHref ? `<a sveltekit:prefetch${add_attribute("href", nextHref, 0)} aria-label="${"next"}"><small class="${"block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-500"}">Next article
-				</small></a>` : ``}</div></div>`;
+  return `<div class="${"flex flex-wrap mb-10 pt-2 pb-2"}"><div class="${"flex w-1/2 justify-start"}">${previousHref ? `<a data-sveltekit:prefetch${add_attribute("href", previousHref, 0)} aria-label="${"previous"}"><small class="${"block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-500"}">Previous article
+        </small></a>` : ``}</div>
+  <div class="${"flex w-1/2 justify-end"}">${nextHref ? `<a data-sveltekit:prefetch${add_attribute("href", nextHref, 0)} aria-label="${"next"}"><small class="${"block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-gray-500"}">Next article
+        </small></a>` : ``}</div></div>`;
 });
 var BlogLayout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   let { title = "" } = $$props;
@@ -19929,7 +20020,7 @@ ${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, 
     nextHref: nextArticleLink
   }, {}, {})}</div>` : ``}</article>`;
 });
-var metadata$2 = {
+var metadata$6 = {
   "layout": "blog",
   "title": "10/10 DJ Sets that I was too tired to write about in 2022",
   "slug": "1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022",
@@ -19941,7 +20032,7 @@ var metadata$2 = {
   "tags": ["Event Review"]
 };
 var _1010_dj_sets_that_i_was_too_tired_to_write_about_in_2022 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$2), {}, {
+  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$6), {}, {
     default: () => `<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171515im_/https://loose-lips.co.uk/img/wysiwyg/634d5881bf12c.jpg"}"></a></p>
 <blockquote><p>This is Will\u2019s ninth post-lockdown gig review, as always he did not receive payment or press tickets for this, just went as a punter and felt like there was a story there. You can read his other ones here.</p></blockquote>
 <p>Blah blah blah burnout post covid you know the drill. I was just thinking back on this year, and I realised that something strange has happened, or rather something strange for a person like me who makes sense of the world through stories and narratives, who likes to note down interesting occurrences and discuss them with pals. I was finding it tricky to remember my top nights out of 2022 off the top of my head.\xA0</p>
@@ -19984,13 +20075,13 @@ var _1010_dj_sets_that_i_was_too_tired_to_write_about_in_2022 = create_ssr_compo
 <p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20221110171515im_/https://loose-lips.co.uk/img/wysiwyg/634d5881bf12c.jpg"}"></a></p>`
   })}`;
 });
-var index$5 = /* @__PURE__ */ Object.freeze({
+var index$9 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": _1010_dj_sets_that_i_was_too_tired_to_write_about_in_2022,
-  metadata: metadata$2
+  metadata: metadata$6
 });
-var metadata$1 = {
+var metadata$5 = {
   "layout": "blog",
   "title": "Elkka (live) @ Corsica Studios - 09/02/22",
   "slug": "elkka-live-at-corsica-studios-090222",
@@ -20002,7 +20093,7 @@ var metadata$1 = {
   "tags": ["Event Review"]
 };
 var Elkka_live_at_corsica_studios_090222 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$1), {}, {
+  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$5), {}, {
     default: () => `<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20220218205113im_/https://loose-lips.co.uk/img/blog/620d4f6948465/620d4f6949320.jpg"}"></a></p>
 <blockquote><p>This is Will\u2019s seventh post-lockdown gig review, as always he did not receive payment or press tickets for this, just went as a punter and felt like there was a story there. You can read his other ones here</p></blockquote>
 <p>Elkka only played her first live (ie: non-DJ) gig in the summer of 2020. I caught the end of her set when she supported Jon Hopkins, Moderat and Max Cooper back in October, and thought it was awesome, the music was ecstatic and colourful, I preferred it to all the rest of the night\u2019s tunes. It felt right for 2021, all the tension and build up and excitement and complexity of these times. She had recently delivered a fantastic DJ mix for RA, telling them in the accompanying interview that \u2018I love both DJing and performing live but I think live shows are that bit more personal and vulnerable for me. I sing on some tracks here and there and that connects with people on a different level, I believe.\u2019 I really liked her Euphoric Melodies\xA0EP, and its follow-up\xA0Harmonic Frequencies, so when a headline gig at Corsica Studios came up I snatched up a couple of tickets. I invited my mate \u2018M\u2019 with whom I used to share a flat, both of us have taken on more time consuming jobs since then and have spent considerably less time mucking about in the kitchen or the dancefloor, so it seemed like a good time to catch back up.</p>
@@ -20015,13 +20106,13 @@ var Elkka_live_at_corsica_studios_090222 = create_ssr_component(($$result, $$pro
 <p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20220219023454im_/https://loose-lips.co.uk/img/wysiwyg/620d56d7e64dd.JPG"}"></a></p>`
   })}`;
 });
-var index$4 = /* @__PURE__ */ Object.freeze({
+var index$8 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Elkka_live_at_corsica_studios_090222,
-  metadata: metadata$1
+  metadata: metadata$5
 });
-var metadata = {
+var metadata$4 = {
   "layout": "blog",
   "title": "sphie resuscitation kim-cosmik remix",
   "slug": "sphie-resuscitation-kim-cosmik-remix",
@@ -20033,45 +20124,204 @@ var metadata = {
   "published": true
 };
 var Sphie_resuscitation_kim_cosmik_remix = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata), {}, {
+  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$4), {}, {
     default: () => `<p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20220403120820im_/https://loose-lips.co.uk/img/blog/62236a21df6f3/62236a21e07cc.jpg"}"></a></p>
 <p>Oooooh daym you do it well. This tune (available on bandcamp and soundcloud\xA0now) is simultaneously so\xA0rude and so inviting. I really don\u2019t like doing track or album reviews, I find them to be a really boring way of promoting music whilst simultaneously indulging in the fantasy that us music journalists have some kind of objective understanding of what\u2019s good. But this track is just perfect for me so I don\u2019t need to try and be objective, it\u2019s peak out of body pop, exactly the kind of thing I would play on my show, Kim Cosmik must have surely known this when she sent it to me (it\u2019s released on her label, Cybersoul).\xA0</p>
 <p>It reminds me of early midtempo Electro classics like Cybotron\u2019s 1983 tune Clear, and yet it doesn\u2019t feel retro at all because the gritty RUDE beat is meshed into this web of utopian sass. It reminds me of a ridiculously good animated Netflix show called Arcane,\xA0it mixed elements of fantasy and steampunk, tracking the development of a very society whose sophisticated technology combines clockwork with intrinsically powerful materials. One character named Sevika has a bionic arm, containing a mechanism that pumps her veins with \u2018Shimmer\u2019, a translucent, radioactive liquid. Sevika is a villain in the show, but if she had a non-evil-twin sister who used shimmer to colour her hair and power her synthesizer, this would be the kind of music that she would make, designed to soundtrack illegal zeppelin raves. Exquisite.\xA0</p>
 <p><a href="${"http://google.com.au/"}" rel="${"nofollow"}"><img src="${"https://web.archive.org/web/20220403120820im_/https://loose-lips.co.uk/img/wysiwyg/6246f1d6152a5.jpg"}"></a></p>`
   })}`;
 });
-var index$3 = /* @__PURE__ */ Object.freeze({
+var index$7 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
   "default": Sphie_resuscitation_kim_cosmik_remix,
-  metadata
+  metadata: metadata$4
 });
-var hydrate = dev;
-var router = browser;
-var prerender = true;
+var CrewPost = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  let { crewMember } = $$props;
+  if ($$props.crewMember === void 0 && $$bindings.crewMember && crewMember !== void 0)
+    $$bindings.crewMember(crewMember);
+  return `${crewMember && (crewMember == null ? void 0 : crewMember.slug) ? `<div class="${"mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5"}"><div class="${"flex flex-col md:flex-row justify-between"}"><img${add_attribute("src", crewMember.banner, 0)} alt="${"profile pic"}" style="${"height: 12em;width:18emwidth:100%;"}">
+
+      </div>
+    <a data-sveltekit:prefetch${add_attribute("href", `/crew/${crewMember.slug}`, 0)} class="${"w-full"}"><h3 class="${"text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100"}">${escape(crewMember.title)}</h3></a>
+    <p class="${"text-gray-600 dark:text-gray-400"}">${escape(crewMember.description)}</p>
+    <p class="${"text-gray-600 dark:text-gray-400"}">${escape(crewMember.date)}</p>
+    ${validate_component(TagsContainer, "TagsContainer").$$render($$result, { tags: crewMember.tags }, {}, {})}</div>
+  ` : ``}`;
+});
+var __awaiter$2 = function(thisArg, _arguments, P, generator) {
+  function adopt(value) {
+    return value instanceof P ? value : new P(function(resolve2) {
+      resolve2(value);
+    });
+  }
+  return new (P || (P = Promise))(function(resolve2, reject) {
+    function fulfilled(value) {
+      try {
+        step(generator.next(value));
+      } catch (e) {
+        reject(e);
+      }
+    }
+    function rejected(value) {
+      try {
+        step(generator["throw"](value));
+      } catch (e) {
+        reject(e);
+      }
+    }
+    function step(result) {
+      result.done ? resolve2(result.value) : adopt(result.value).then(fulfilled, rejected);
+    }
+    step((generator = generator.apply(thisArg, _arguments || [])).next());
+  });
+};
+function load$2({ fetch: fetch2 }) {
+  return __awaiter$2(this, void 0, void 0, function* () {
+    return {
+      props: {
+        crewMembers: yield fetch2("/crew.json").then((res) => res.json())
+      }
+    };
+  });
+}
 var Crew = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  let { crewMembers } = $$props;
   const metaData = {
-    title: "Project | Sveltekit Blog",
-    description: "Project page of Sveltekit blog starter project",
-    url: "/projects",
+    title: "Crew | Sveltekit Crew",
+    description: "Crew page of Sveltekit blog starter project",
+    url: "/crew",
     keywords: ["sveltekit", "sveltekit starter", "sveltekit starter about"],
-    searchUrl: "/projects"
+    searchUrl: "/crew"
   };
-  return `
-${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
+  let searchValue2 = "";
+  if ($$props.crewMembers === void 0 && $$bindings.crewMembers && crewMembers !== void 0)
+    $$bindings.crewMembers(crewMembers);
+  crewMembers.sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date))).filter((crewMember) => crewMember.title.toLowerCase().includes(searchValue2.toLowerCase()));
+  return `${validate_component(HeadTags, "HeadTags").$$render($$result, { metaData }, {}, {})}
 
-
-
-<div class="${"flex flex-col justify-center items-start max-w-2xl mx-auto mb-16"}"><h1 class="${"font-bold text-3xl md:text-5xl tracking-tight mb-4 dark:text-white"}">Coming soon... </h1></div>
-`;
+<div class="${"pt-[5%]"}"><div class="${"pl-[25%] pr-[25%] pt-[4%]"}"><h1 class="${"font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"}">Crew
+    </h1>
+    <div class="${"mb-4"}"><input aria-label="${"Search articles"}" type="${"text"}" placeholder="${"Search Crew members"}" class="${"px-4 py-2 border border-gray-300 dark:border-gray-900 focus:ring-blue-500 focus:border-blue-500 block w-full rounded-md bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"}"${add_attribute("value", searchValue2, 0)}>
+      <svg class="${"absolute right-3 top-3 h-5 w-5 text-gray-400 dark:text-gray-300"}" xmlns="${"http://www.w3.org/2000/svg"}" fill="${"none"}" viewBox="${"0 0 24 24"}" stroke="${"currentColor"}"><path stroke-linecap="${"round"}" stroke-linejoin="${"round"}"${add_attribute("stroke-width", 2, 0)} d="${"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"}"></path></svg></div>
+    <div class="${"flex flex-row "}">${`${each(crewMembers, (crewMember, index2) => `${validate_component(CrewPost, "CrewPost").$$render($$result, { crewMember }, {}, {})}`)}`}</div></div></div>`;
+});
+var index$6 = /* @__PURE__ */ Object.freeze({
+  __proto__: null,
+  [Symbol.toStringTag]: "Module",
+  "default": Crew,
+  load: load$2
+});
+var metadata$3 = {
+  "layout": "blog",
+  "title": "Trav Chris Wardle",
+  "slug": "trav-chris-wardle",
+  "published": true,
+  "description": "",
+  "author": "loose-lips",
+  "date": "september 22, 2020",
+  "banner": "images/crew/trav-chris-wardle.jpeg",
+  "tags": ["crew"]
+};
+var Trav_chris_wardle = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$3), {}, {
+    default: () => `<img src="${"https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5f69f87ccdcb7.jpg"}">
+<p>I am an illustrator, animator and hand painted clothing bootlegger and video man\u2026 I work mainly in the medium of pen and ink and digital colour but also I hand paint clothing and sometimes fully hand paint drawings. I make animations and video on other days and when there is seriously good money. I skateboard, I swim, I walk a lot\u2026.</p>
+<p>My artwork is influenced by the sur-reality of life.. the strange, the weird and the abstract.. the worlds that lie just outside of ours but which we can sense, feel and meet when we let our minds wander.</p>
+<p>Everything is based on visions or dreams or altered consciousness and although the work lies in the mystical and otherworldly it also navigates these worlds using humour and comedy as much as possible.</p>
+<p>It may be subtle but there is a great sense of humour in each drawing and it takes a different eye to find that. Life to me is a huge explosion of insanity, beauty, stark and raving comedy and endless confusion.</p>
+<p><a href="${"http://www.backdownwarchild.co.uk"}" rel="${"nofollow"}">backdownwarchild</a> illustration / moving image work</p>
+<p><a href="${"http://instagram.com/raheal_fahake"}" rel="${"nofollow"}">instagram</a></p>
+<p><a href="${"http://www.realfakebrand.com"}" rel="${"nofollow"}">realfakebrand</a> hand painted bootleg clothing</p>`
+  })}`;
+});
+var index$5 = /* @__PURE__ */ Object.freeze({
+  __proto__: null,
+  [Symbol.toStringTag]: "Module",
+  "default": Trav_chris_wardle,
+  metadata: metadata$3
+});
+var metadata$2 = {
+  "layout": "blog",
+  "title": "Aimee Mullen",
+  "slug": "aimee-mullen",
+  "published": true,
+  "description": "",
+  "author": "loose-lips",
+  "date": "12 February 2021",
+  "banner": "images/crew/aimee-mullen.jpeg",
+  "tags": ["crew"]
+};
+var Aimee_mullen = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$2), {}, {
+    default: () => `<img src="${"https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5ced9d539436e.jpg"}">
+<p>Violonist and power-voice from Torn Relics.</p>`
+  })}`;
+});
+var index$4 = /* @__PURE__ */ Object.freeze({
+  __proto__: null,
+  [Symbol.toStringTag]: "Module",
+  "default": Aimee_mullen,
+  metadata: metadata$2
+});
+var metadata$1 = {
+  "layout": "blog",
+  "title": "Harry Wootten",
+  "slug": "harry-wootten",
+  "published": true,
+  "description": "",
+  "author": "loose-lips",
+  "date": "March 31, 2020",
+  "banner": "images/crew/harry-wootten.jpeg",
+  "tags": ["crew"]
+};
+var Harry_wooten = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata$1), {}, {
+    default: () => `<img src="${"https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5e82fe3f87192.jpg"}">
+<p>WRITER</p>
+<p>Writer, promoter and tune threader. Traversing the astral plane with vigour.</p>
+<p>Do believe the hype. It\u2019s real. He was there before you, if you don\u2019t believe it then ask your mum. DJ and avid listener of everything, with a penchant for hard, fast and jarring. Whilst living within the shimmer, he has adapted to the all-encompassing nature of the material musical sphere.</p>
+<p>Ceili \u2013 Rough n Ready</p>
+<p>Maelstrom \u2013 Heat Wave EP</p>
+<p>Do the Du \u2013 Illusions ep</p>
+<p>Shades of Gray \u2013 Under My Skin LP</p>
+<p>Galaxian \u2013 Coming Up For Air EP</p>
+<p>Tzusan \u2013 Babau</p>`
+  })}`;
+});
+var index$3 = /* @__PURE__ */ Object.freeze({
+  __proto__: null,
+  [Symbol.toStringTag]: "Module",
+  "default": Harry_wooten,
+  metadata: metadata$1
+});
+var metadata = {
+  "layout": "blog",
+  "title": "Blaine",
+  "slug": "blaine",
+  "published": true,
+  "description": "",
+  "author": "loose-lips",
+  "date": "14 February 2020",
+  "banner": "images/crew/blaine.jpeg",
+  "tags": ["crew"]
+};
+var Blain = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `${validate_component(BlogLayout, "Layout_MDSVEX_DEFAULT").$$render($$result, Object.assign($$props, metadata), {}, {
+    default: () => `<img src="${"https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5e46905e6aa5b.jpg"}">
+<p>WRITER
+WRITER / EDITOR / DNB FIX</p>
+<p>Having spent his early years trawling through raves in the North of England, he truly settled when at University. Helping to run Crystal Clear, which played host to a raft of names over the years such as Zed Bias, Mumdance and Murlo; it was this family that really cemented Blain into the lifestyle; through learning to mix and expanding his musical diversity.</p>
+<p>A quick move to Manchester, and Blain wanted to find a way in which he could make the most out of his passion, and more importantly; to create something that gave all those late nights some credibility. Originally put in touch with Data Transmission; Tom carved out his reputation, with interviews from the likes of Jurassic 5, Verb T and North Base; no genre stone was left unturned. It\u2019s these pieces which brought him to our attention and that was the start of something great with Loose Lips. \xA0Since joining the crew; Blain has helped across the board with live events and as an Editor</p>
+<p>Find him by the speakers or deleting entire sections of that piece you spent ages writing.</p>`
+  })}`;
 });
 var index$2 = /* @__PURE__ */ Object.freeze({
   __proto__: null,
   [Symbol.toStringTag]: "Module",
-  "default": Crew,
-  hydrate,
-  router,
-  prerender
+  "default": Blain,
+  metadata
 });
 var __awaiter$1 = function(thisArg, _arguments, P, generator) {
   function adopt(value) {
