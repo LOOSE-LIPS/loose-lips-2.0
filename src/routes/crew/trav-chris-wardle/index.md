@@ -6,7 +6,7 @@ published: true
 description: ""
 author: "loose-lips"
 date: "september 22, 2020"
-banner: "https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5f69f87ccdcb7.jpg"
+banner: "images/crew/trav-chris-wardle.jpeg"
 tags: ["crew"]
 ---
 

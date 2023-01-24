@@ -1,12 +1,12 @@
 ---
 layout: blog
 title: "Blaine"
-slug: "blaine"
+slug: "blaine-"
 published: true
 description: ""
 author: "loose-lips"
 date: "14 February 2020"
-banner: "https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5e46905e6aa5b.jpg"
+banner: "images/crew/blaine.jpeg"
 tags: ["crew"]
 ---
 

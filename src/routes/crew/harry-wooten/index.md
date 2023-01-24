@@ -1,12 +1,12 @@
 ---
 layout: blog
-title: "Harry Wooten"
-slug: "harry-wooten"
+title: "Harry Wootten"
+slug: "harry-wootten"
 published: true
 description: ""
 author: "loose-lips"
 date: "March 31, 2020"
-banner: "https://loose-lips.seedpip.com/wp-content/uploads/2021/02/5e82fe3f87192.jpg"
+banner: "images/crew/harry-wootten.jpeg"
 tags: ["crew"]
 ---
 
