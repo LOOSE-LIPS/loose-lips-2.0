@@ -138,21 +138,22 @@
     {#each mostRecentBlogs as blog, index (blog.slug)}
       <BlogPost {blog} />
     {/each}
-  {/if}
-  <!-- End: Most Recent Blogs Section -->
-
-  <!-- Start: All the blogs section -->
-  <h2
-    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
-  >
-    All Posts
-  </h2>
-  {#if filteredBlogPosts.length === 0}
-    <p class="text-gray-600 dark:text-gray-400 mb-4">No posts found.</p>
   {:else}
-    {#each filteredBlogPosts as blog, index (blog.slug)}
-      <BlogPost {blog} />
-    {/each}
+    <!-- End: Most Recent Blogs Section -->
+
+    <!-- Start: All the blogs section -->
+    <h2
+      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
+    >
+      All Posts
+    </h2>
+    {#if filteredBlogPosts.length === 0}
+      <p class="text-gray-600 dark:text-gray-400 mb-4">No posts found.</p>
+    {:else}
+      {#each filteredBlogPosts as blog, index (blog.slug)}
+        <BlogPost {blog} />
+      {/each}
+    {/if}
   {/if}
 </div>
 <!-- End: All the blogs section -->
