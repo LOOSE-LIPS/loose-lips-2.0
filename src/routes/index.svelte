@@ -87,8 +87,8 @@
   });
   $: tags = [...new Set(listWithDuplicatetags)];
 
-  const featuredBlogs = blogs.filter((blog) => {
-    blog.featured === true;
+  const featuredBlogs: IBlog[] = blogs.filter((blog) => {
+    return blog.featured;
   });
 </script>
 
@@ -137,7 +137,7 @@ transform: translate(-50%, 0px);"
   </p>
 </div>
 <div class="p-5">
-  <FeaturedContent />
+  <FeaturedContent {featuredBlogs} />
 </div>
 <div class="flex flex-row flex-wrap w-full mt-4 items-center">
   {#each tags as tag, index (tag)}
