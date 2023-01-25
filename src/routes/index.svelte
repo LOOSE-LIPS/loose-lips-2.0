@@ -26,6 +26,7 @@
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import BlogPost from "$components/blog-post/BlogPost.svelte";
   import ProjectCard from "$components/project-card/ProjectCard.svelte";
+  import FeaturedContent from "$components/featured-content/FeaturedContent.svelte";
 
   // Models
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
@@ -132,22 +133,7 @@ transform: translate(-50%, 0px);"
   </p>
 </div>
 <div class="p-5">
-  <h2
-    id="featured"
-    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"
-  >
-    Featured
-  </h2>
-  <img src="images/DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;" />
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/asEvnIJ7GfA"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-  />
+  <FeaturedContent />
 </div>
 <div class="flex flex-row flex-wrap w-full mt-4 items-center">
   {#each tags as tag, index (tag)}
