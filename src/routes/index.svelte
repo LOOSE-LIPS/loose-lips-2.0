@@ -86,6 +86,10 @@
         : [...listWithDuplicatetags, ...blog.tags];
   });
   $: tags = [...new Set(listWithDuplicatetags)];
+
+  const featuredBlogs = blogs.filter((blog) => {
+    blog.featured === true;
+  });
 </script>
 
 <!-- Start: Header Tag -->
