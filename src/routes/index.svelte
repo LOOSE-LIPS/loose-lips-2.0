@@ -158,47 +158,48 @@ transform: translate(-50%, 0px);"
     {/if}
   {/each}
 </div>
-<div
-  class="flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)"
->
-  <!-- Start: Popular Blog Section -->
-  <h2
-    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"
-    style="margin-top: 15%;"
+<div class="w-[75%]">
+  <div
+    class="flex flex-row  items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)"
   >
-    Recent Posts
-  </h2>
-  <div />
-  {#if blogs.length > 0}
-    {#each blogs as blog, index (blog.slug)}
-      <div class="p-5">
-        <BlogPost {blog} />
-      </div>
-    {/each}
-  {/if}
-  <!-- End: Popular Blog Section -->
-</div>
+    <!-- Start: Popular Blog Section -->
+    <h2
+      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"
+      style="margin-top: 15%;"
+    >
+      Recent Posts
+    </h2>
+    <div />
+    {#if blogs.length > 0}
+      {#each blogs as blog, index (blog.slug)}
+        <div class="p-5">
+          <BlogPost {blog} />
+        </div>
+      {/each}
+    {/if}
+    <!-- End: Popular Blog Section -->
+  </div>
 
-<div
-  class="flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)"
->
-  <!-- Start: Popular Blog Section -->
-  <h2
-    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"
+  <div
+    class="flex flex-row justify-center items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)"
   >
-    Editorial Posts
-  </h2>
-  <div />
-  {#if blogs.length > 0}
-    {#each blogs as blog, index (blog.slug)}
-      <div class="p-5">
-        <BlogPost {blog} />
-      </div>
-    {/each}
-  {/if}
-  <!-- End: Popular Blog Section -->
+    <!-- Start: Popular Blog Section -->
+    <h2
+      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"
+    >
+      Editorial Posts
+    </h2>
+    <div />
+    {#if blogs.length > 0}
+      {#each blogs as blog, index (blog.slug)}
+        <div class="p-5">
+          <BlogPost {blog} />
+        </div>
+      {/each}
+    {/if}
+    <!-- End: Popular Blog Section -->
+  </div>
 </div>
-
 <div class="flex flex-row justify-left items-start max-w-2xl mx-auto">
   <div class="p-5">
     <!-- Start: Events -->
