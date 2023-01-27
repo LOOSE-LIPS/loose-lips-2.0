@@ -6,9 +6,9 @@ description: "This is Will's seventh post-lockdown gig review, as always he did 
 author: "Will Soer"
 date: "2021-09-01"
 banner: "https://web.archive.org/web/20220218205113im_/https://loose-lips.co.uk/img/blog/620d4f6948465/620d4f6949320.jpg"
-published: true
 tags: ["Event Review"]
-featured: false
+published: true
+featured: true
 ---
 
 [<img src="https://web.archive.org/web/20220218205113im_/https://loose-lips.co.uk/img/blog/620d4f6948465/620d4f6949320.jpg">](http://google.com.au/)

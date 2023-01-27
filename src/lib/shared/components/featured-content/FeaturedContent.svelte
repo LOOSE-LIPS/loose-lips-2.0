@@ -1,7 +1,22 @@
 <script lang="ts">
-  //   import type { IBlog } from "$models/interfaces/iblog.interface";
+  import type { IBlog } from "$models/interfaces/iblog.interface";
   import BlogPost from "$components/blog-post/BlogPost.svelte";
-  export let featuredBlogs;
+  import FeaturedPost from "../featuredPost/FeaturedPost.svelte";
+  export let featuredBlogs: IBlog[];
+  // export let dummyBlogs: IBlog[];
+
+  let currentPost: IBlog;
+  let currIndex = 0;
+
+  function advanceIndex() {
+    currIndex++;
+    if (currIndex >= featuredBlogs.length) {
+      currIndex = 0;
+    }
+    currentPost = featuredBlogs[currIndex];
+  }
+
+  setInterval(advanceIndex, 2000);
 </script>
 
 <h2
@@ -10,10 +25,14 @@
 >
   Featured
 </h2>
-{#each featuredBlogs as blog}
-  <BlogPost {blog} />
-{/each}
-<img src="images/DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;" />
+
+<!-- {#each featuredBlogs as blog}
+  <FeaturedPost {blog} />
+{/each} -->
+
+<FeaturedPost {currentPost} />
+
+<!-- <img src="images/DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;" />
 <iframe
   width="560"
   height="315"
@@ -22,4 +41,4 @@
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen
-/>
+/> -->

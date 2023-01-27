@@ -90,6 +90,8 @@
   const featuredBlogs: IBlog[] = blogs.filter((blog) => {
     return blog.featured;
   });
+
+  // const featuredBlogs = blogs;
 </script>
 
 <!-- Start: Header Tag -->
@@ -114,7 +116,7 @@
 >
   <img src="images/logo-loose-lips.gif" alt="" style="margin-top: -2vh;" />
 
-  <!-- <a
+  <a
     href="#featured"
     style="
 width: 0;
@@ -128,7 +130,7 @@ margin-top:5%;
 color: white;
 z-index:15;
 transform: translate(-50%, 0px);"
-  /> -->
+  />
   <p
     class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white"
     style="margin: auto;transform: rotate(-15deg);"
@@ -136,7 +138,7 @@ transform: translate(-50%, 0px);"
     HAVE A LOOKSY
   </p>
 </div>
-<div class="p-5">
+<div class="p-5 border-white border-4">
   <FeaturedContent {featuredBlogs} />
 </div>
 <div class="flex flex-row flex-wrap w-full mt-4 items-center">
