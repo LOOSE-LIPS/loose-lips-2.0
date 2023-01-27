@@ -5,10 +5,10 @@ slug: "sphie-resuscitation-kim-cosmik-remix"
 author: "Will Soer"
 description: "Truly it was a great journey, and in it I met with many, whom to know was to love; but whom never could I see again; for life has not space enough; and each must do his duty to the security and well-being of the Redoubt."
 banner: "https://web.archive.org/web/20220403120820im_/https://loose-lips.co.uk/img/blog/62236a21df6f3/62236a21e07cc.jpg"
-tags: ["Review"]
+tags: ["review"]
 date: "2022-03-19"
 published: true
-featured: false
+featured: true
 ---
 
 [<img src="https://web.archive.org/web/20220403120820im_/https://loose-lips.co.uk/img/blog/62236a21df6f3/62236a21e07cc.jpg">](http://google.com.au/)
