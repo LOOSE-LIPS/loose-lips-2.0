@@ -33,7 +33,7 @@
                   </p> -->
 
         <h3
-          class="text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100 absolute bottom-100"
+          class="text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100 absolute"
         >
           {currentPost.title}
         </h3>

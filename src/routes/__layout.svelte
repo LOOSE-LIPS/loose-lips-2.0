@@ -55,7 +55,7 @@
       label: "EVENTS",
     },
     {
-      path: "/projects",
+      path: "/mixes",
       label: "MIXES",
     },
   ];

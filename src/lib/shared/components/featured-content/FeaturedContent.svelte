@@ -27,20 +27,7 @@
     Featured
   </h2>
 
-  <!-- {#each featuredBlogs as blog}
-  <FeaturedPost {blog} />
-{/each} -->
   <div class="border-white border-4 ">
     <FeaturedPost {currentPost} />
   </div>
 </div>
-<!-- <img src="images/DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;" />
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/asEvnIJ7GfA"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen
-/> -->
