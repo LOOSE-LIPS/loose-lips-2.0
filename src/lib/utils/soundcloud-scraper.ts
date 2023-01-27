@@ -1,17 +1,30 @@
-import { text } from "svelte/internal";
-import puppeteer from "puppeteer";
-// export const puppeteer = require("puppeteer");
+export {};
 
-export async function getSoundCloudTags(url) {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  await page.goto(url);
+import SoundCloud from "soundcloud-scraper";
 
-  const [el] = await page.$x(
-    '//*[@id="content"]/div/div[2]/div/div[2]/div[3]/a/span'
-  );
-  const tag = await el.getProperty("text");
-  //   await console.log("hello");
+const client = new SoundCloud.Client();
+
+const url = "https://soundcloud.com/beckystroke/heat-stroke";
+
+export async function getsoundCloudData(url) {
+  return client
+    .getSongInfo(url)
+    .then(async (song) => {
+      console.log(song);
+      return {
+        title: song.title,
+        description: song.description,
+        genre: song.genre,
+        photo: song.thumbnail,
+        author: {
+          name: song.author.name,
+          username: song.author.username,
+          url: song.author.url,
+        },
+        date: song.publishedAt,
+      };
+    })
+    .catch(console.error);
 }
 
-getSoundCloudTags("https://soundcloud.com/officialvenbee/messy-in-heaven");
+getsoundCloudData(url).then(console.log);

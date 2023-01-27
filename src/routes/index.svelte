@@ -114,7 +114,7 @@
 >
   <img src="images/logo-loose-lips.gif" alt="" style="margin-top: -2vh;" />
 
-  <a
+  <!-- <a
     href="#featured"
     style="
 width: 0;
@@ -128,7 +128,7 @@ margin-top:5%;
 color: white;
 z-index:15;
 transform: translate(-50%, 0px);"
-  />
+  /> -->
   <p
     class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white"
     style="margin: auto;transform: rotate(-15deg);"

@@ -20,7 +20,7 @@
   export let useThemeModeButton = true;
 
   // Local Properties
-  let dark = false;
+  let dark = true;
 
   // Local Methods
   const dispatch = createEventDispatcher();
