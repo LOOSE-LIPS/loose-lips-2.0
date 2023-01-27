@@ -138,9 +138,9 @@ transform: translate(-50%, 0px);"
     HAVE A LOOKSY
   </p>
 </div>
-<div class="p-5 border-white border-4">
-  <FeaturedContent {featuredBlogs} />
-</div>
+
+<FeaturedContent {featuredBlogs} />
+
 <div class="flex flex-row flex-wrap w-full mt-4 items-center">
   {#each tags as tag, index (tag)}
     <a

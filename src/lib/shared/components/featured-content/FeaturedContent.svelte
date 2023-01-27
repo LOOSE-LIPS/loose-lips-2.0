@@ -19,19 +19,21 @@
   setInterval(advanceIndex, 2000);
 </script>
 
-<h2
-  id="featured"
-  class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"
->
-  Featured
-</h2>
+<div class="w-[75%]">
+  <h2
+    id="featured"
+    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 max-w-5xl text-black dark:text-white"
+  >
+    Featured
+  </h2>
 
-<!-- {#each featuredBlogs as blog}
+  <!-- {#each featuredBlogs as blog}
   <FeaturedPost {blog} />
 {/each} -->
-
-<FeaturedPost {currentPost} />
-
+  <div class="border-white border-4 ">
+    <FeaturedPost {currentPost} />
+  </div>
+</div>
 <!-- <img src="images/DIDO_WEB.jpg" alt="featured" style="margin-bottom: 2.5em;" />
 <iframe
   width="560"
