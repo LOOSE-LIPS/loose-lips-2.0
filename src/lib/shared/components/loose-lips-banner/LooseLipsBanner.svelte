@@ -10,6 +10,34 @@
   </div>
 </div>
 
+<div
+  class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)"
+>
+  <img src="images/logo-loose-lips.gif" alt="" style="margin-top: -2vh;" />
+
+  <a
+    href="#featured"
+    style="
+width: 0;
+height: 0;
+border-left: 40px solid transparent;
+border-right: 40px solid transparent;
+border-top: 25px solid #8ef6cf;
+display: block;
+margin:auto;
+margin-top:5%;
+color: white;
+z-index:15;
+transform: translate(-50%, 0px);"
+  />
+  <p
+    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white"
+    style="margin: auto;transform: rotate(-15deg);"
+  >
+    HAVE A LOOKSY
+  </p>
+</div>
+
 <style>
   .perspective-text {
     color: white;
