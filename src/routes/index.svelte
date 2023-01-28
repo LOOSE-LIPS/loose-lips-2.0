@@ -27,6 +27,7 @@
   import BlogPost from "$components/blog-post/BlogPost.svelte";
   import ProjectCard from "$components/project-card/ProjectCard.svelte";
   import FeaturedContent from "$components/featured-content/FeaturedContent.svelte";
+  import LooseLipsBanner from "$components/loose-lips-banner/LooseLipsBanner.svelte";
 
   // Models
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
@@ -96,19 +97,8 @@
 
 <!-- Start: Header Tag -->
 <HeadTags {metaData} />
-<!-- End: Header Tag -->
 
-<div class="perspective-text">
-  <div class="perspective-line">
-    <p style="margin-left: 23px;" class="text-black dark:text-white">LOOSE</p>
-  </div>
-  <div class="perspective-line">
-    <p style="margin-left: 56px;" class="text-black dark:text-white">LIPS</p>
-  </div>
-  <div class="perspective-line">
-    <p style="margin-left: 14px;" class="text-black dark:text-white">2.0</p>
-  </div>
-</div>
+<LooseLipsBanner />
 <!-- Start: Home Page container -->
 
 <div
@@ -221,8 +211,11 @@ transform: translate(-50%, 0px);"
 </div>
 <!-- End: Home Page container -->
 
-<!-- Old code for audio player
-	<div class="audio" style="position:fixed;left:0;bottom:0;width:;">
+Old code for audio player
+
+
+
+<!-- <div class="audio" style="position:fixed;left:0;bottom:0;width:;">
 	<Aplayer audio={
 		{name:'君の知らない物語',
 		artist: 'supercell',
