@@ -2,8 +2,10 @@
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import BlogPost from "$components/blog-post/BlogPost.svelte";
   import FeaturedPost from "../featuredPost/FeaturedPost.svelte";
-  export let featuredBlogs: IBlog[];
-  // export let dummyBlogs: IBlog[];
+  export let blogs: IBlog[];
+  const featuredBlogs: IBlog[] = blogs.filter((blog) => {
+    return blog.featured;
+  });
 
   let currentPost: IBlog;
   let currIndex = 0;
