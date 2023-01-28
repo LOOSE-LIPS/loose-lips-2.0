@@ -12,20 +12,6 @@ featured: true
 banner: ""
 ---
 
----
-
-layout: blog
-title: "Trav Chris Wardle"
-slug: "trav-chris-wardle"
-published: true
-description: ""
-author: "loose-lips"
-date: "september 22, 2020"
-banner: "images/crew/trav-chris-wardle.jpeg"
-tags: ["crew"]
-
----
-
 UKAEA announces the colour from the get go: here’s a 95 minutes sonic assault of melting, deconstructed industrial badbwoi bizniz!
 
 @user-799719556
