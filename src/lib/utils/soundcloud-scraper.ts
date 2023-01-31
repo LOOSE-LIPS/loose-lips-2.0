@@ -7,11 +7,12 @@ const PORT = 8080;
 
 const client = new SoundCloud.Client();
 
-const becky = "https://soundcloud.com/beckystroke/heat-stroke";
-const ukaea =
-  "https://soundcloud.com/loose-lips123/loose-lips-mix-series-306-ukaea";
+let urls = [
+  "https://soundcloud.com/beckystroke/heat-stroke",
+  "https://soundcloud.com/loose-lips123/loose-lips-mix-series-306-ukaea",
+];
 
-export async function getsoundCloudData(url: string) {
+export async function getsoundCloudData(url) {
   return client
     .getSongInfo(url)
     .then(async (song) => {
@@ -31,10 +32,13 @@ export async function getsoundCloudData(url: string) {
     })
     .catch(console.error);
 }
+
 let data = [];
-getsoundCloudData(ukaea).then((res) => {
-  data.push(res);
-  console.log(data);
+urls.forEach((url) => {
+  getsoundCloudData(url).then((res) => {
+    data.push(res);
+    console.log(res);
+  });
 });
 
 api.get("/", (req, res) => {

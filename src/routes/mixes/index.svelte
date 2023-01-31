@@ -3,15 +3,11 @@
    * @type {import('@sveltejs/kit').Load}
    */
   export async function load({ fetch }) {
-    const testRes = await fetch("https://dummyjson.com/products");
-    const testData = await testRes.json();
-
     const mixRes = await fetch("http://localhost:8080/soundcloudData");
     const mixData = await mixRes.json();
     return {
       props: {
         mixes: await fetch("/mixes.json").then((res) => res.json()),
-        testData: testData,
         mixData: mixData,
       },
     };
@@ -30,9 +26,9 @@
   import MixPost from "$shared/components/mix-post/MixPost.svelte";
 
   export let mixes!: IMix[];
-  export let testData!: IMix[];
   export let mixData;
-  console.log(testData);
+  console.log(mixData);
+
   // Start: Local component properties
   /**
    * @type {IMetaTagProperties}
@@ -88,13 +84,13 @@
     <div class="flex flex-row ">
       {#if !searchValue}
         {#each mixes as mix, index (mix.slug)}
-          <MixPost {mix} {testData} {mixData} />
+          <MixPost {mix} {mixData} />
         {/each}
       {:else if filteredMixes.length === 0}
         <p class="text-gray-600 dark:text-gray-400 mb-4">No posts found.</p>
       {:else}
         {#each filteredMixes as mix, index (mix.slug)}
-          <MixPost {mix} {testData} {mixData} />
+          <MixPost {mix} {mixData} />
         {/each}
       {/if}
     </div>
