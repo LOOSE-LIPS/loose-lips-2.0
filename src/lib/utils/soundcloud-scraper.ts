@@ -1,17 +1,22 @@
 export {};
-
+import express from "express";
 import SoundCloud from "soundcloud-scraper";
+const api = express();
+const host = "localhost";
+const PORT = 8080;
 
 const client = new SoundCloud.Client();
 
-const url = "https://soundcloud.com/beckystroke/heat-stroke";
+const becky = "https://soundcloud.com/beckystroke/heat-stroke";
+const ukaea =
+  "https://soundcloud.com/loose-lips123/loose-lips-mix-series-306-ukaea";
 
-export async function getsoundCloudData(url) {
+export async function getsoundCloudData(url: string) {
   return client
     .getSongInfo(url)
     .then(async (song) => {
-      console.log(song);
       return {
+        id: song.id,
         title: song.title,
         description: song.description,
         genre: song.genre,
@@ -26,5 +31,20 @@ export async function getsoundCloudData(url) {
     })
     .catch(console.error);
 }
+let data = [];
+getsoundCloudData(ukaea).then((res) => {
+  data.push(res);
+  console.log(data);
+});
 
-getsoundCloudData(url).then(console.log);
+api.get("/", (req, res) => {
+  res.send("API test");
+});
+
+api.get("/soundcloudData", (req, res) => {
+  res.send(data);
+});
+
+api.listen(PORT, () => {
+  console.log("API listening on port 8080");
+});

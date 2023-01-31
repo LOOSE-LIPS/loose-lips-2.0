@@ -72,7 +72,7 @@
   // End: Local component methods
 </script>
 
-<div class=" dark:bg-black bg-yellow-50">
+<div class="dark:bg-black">
   <!-- Start: Header Navigation -->
   <Header
     on:toggleTheme={(e) => toggleThemeMode(e)}
@@ -83,10 +83,7 @@
     useTitleAndLogo={true}
   />
   <!-- End: Header Navigation -->
-  <main
-    id="skip"
-    class="flex flex-col justify-center px-8 bg-yellow-50 dark:bg-black pt-4"
-  >
+  <main id="skip" class="flex flex-col justify-center px-8 dark:bg-black pt-4">
     <!-- Start: Defaull layout slot -->
     <RouteTransition referesh={path}>
       <slot />

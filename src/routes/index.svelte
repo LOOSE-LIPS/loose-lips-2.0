@@ -61,8 +61,12 @@
 <HeadTags {metaData} />
 <LooseLipsBanner />
 <!-- Start: Home Page container -->
+
 <div class="w-[75%]">
   <FeaturedContent {blogs} />
+  <h1 class="text-white">
+    ___________________________________________________________________________________________________________________________________________
+  </h1>
   <TagsContainer {blogs} />
   <RecentPostsContainer {blogs} />
   <EditorialPostsContainer {blogs} />

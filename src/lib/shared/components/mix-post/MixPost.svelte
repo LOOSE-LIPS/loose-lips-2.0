@@ -1,3 +1,16 @@
+<script context="module">
+  export async function load() {
+    console.log("loading..");
+    let mixData;
+    fetch("http://localhost:8080/soundcloudData")
+      .then((res) => res.json())
+      .then((data) => (mixData = data));
+    return {
+      props: mixData,
+    };
+  }
+</script>
+
 <script lang="ts">
   import type { IMix } from "$models/interfaces/imix.interface";
   import TagsContainer from "$shared/ui/components/tags-container/TagsContainer.svelte";
@@ -6,6 +19,8 @@
    * @type {IMix}
    */
   export let mix: IMix;
+  export let mixData;
+  let id = 934538197;
 </script>
 
 {#if mix && mix?.slug}
@@ -29,7 +44,7 @@
         scrolling="no"
         frameborder="no"
         allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/934538197&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=false"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{id}&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=false"
       />
       <div
         style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"
@@ -60,5 +75,7 @@
     <p class="text-gray-600 dark:text-gray-400">{mix.date}</p>
     <TagsContainer tags={mix.tags} />
   </div>
+
   <!-- <hr class="w-full border-1 border-gray-200 dark:border-gray-800 mb-8" /> -->
 {/if}
+<p>{mixData}</p>
