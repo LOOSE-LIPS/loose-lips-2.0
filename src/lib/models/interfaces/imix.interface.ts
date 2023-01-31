@@ -1,4 +1,5 @@
 export interface IMix {
+  id: number;
   slug: string;
   title: string;
   author: string;
@@ -12,5 +13,5 @@ export interface IMix {
   edit?: string;
   modified?: string;
   featured: boolean;
-  soundcloundUrl: boolean;
+  soundcloundUrl: string;
 }

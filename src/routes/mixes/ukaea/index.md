@@ -7,11 +7,14 @@ date: "November 23rd, 2020"
 description: ""
 soundcloundUrl: "https://soundcloud.com/loose-lips123/loose-lips-mix-series-306-ukaea"
 tags: ["mix"]
+genreTags: ["cult"]
 published: true
 featured: true
 banner: ""
+id: 0
 ---
 
+934538197
 UKAEA announces the colour from the get go: here’s a 95 minutes sonic assault of melting, deconstructed industrial badbwoi bizniz!
 
 @user-799719556

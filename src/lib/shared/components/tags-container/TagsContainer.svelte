@@ -1,6 +1,7 @@
 <script lang="ts">
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import { convertToSlug } from "$utils/convert-to-slug";
+  import { blogTags } from "$data/tags";
   export let blogs!: IBlog[];
 
   let listWithDuplicatetags: string[] = [];
@@ -15,7 +16,7 @@
 </script>
 
 <div class="flex flex-row flex-wrap w-full mt-4 items-center">
-  {#each tags as tag, index (tag)}
+  {#each blogTags as tag, index (tag)}
     <a
       data-sveltekit:prefetch
       href={`/tags/${convertToSlug(tag)}`}

@@ -7,7 +7,7 @@ author: "Will Soer"
 date: "2022-07-09"
 banner: "https://web.archive.org/web/20221110171633im_/https://loose-lips.co.uk/img/blog/634d58f9a3591/634d58f9a4a49.jpg"
 published: true
-tags: ["Event Review"]
+tags: ["Review"]
 featured: true
 ---
 
