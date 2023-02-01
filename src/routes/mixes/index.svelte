@@ -42,28 +42,23 @@
   mixData.map((mix) => {
     tags.push(mix.genre);
   });
-  let filterOn = false;
-  let tagList = [];
+  let currTag;
   let filteredTagMixes = [];
-  let mergedList = [];
 
   let searchValue = "";
   $: filteredMixes = mixData.filter((mix) => {
     return mix.artist.toLowerCase().includes(searchValue.toLowerCase());
   });
+  // $: filterOn = true;
+
   const filterBytag = (tag) => {
     filteredTagMixes = mixData.filter((mix) => {
-      return tagList.includes(mix.genre);
+      return currTag === mix.genre;
     });
   };
   const handleTagClick = (tag) => {
+    currTag = tag;
     filterBytag(tag);
-    tagList.push(tag);
-    if (tagList.length > 0 || searchValue) {
-      filterOn = true;
-    } else {
-      filterOn = false;
-    }
   };
 </script>
 
@@ -117,11 +112,15 @@
     </div>
 
     <div class="flex flex-col">
-      {#if filterOn === false}
+      {#if !searchValue && filteredTagMixes.length === 0}
         {#each mixData as mixData}
           <MixPost {mixData} />
         {/each}
-      {:else}
+      {:else if searchValue}
+        {#each filteredMixes as mixData}
+          <MixPost {mixData} />
+        {/each}
+      {:else if filteredTagMixes.length > 0}
         {#each filteredTagMixes as mixData}
           <MixPost {mixData} />
         {/each}
