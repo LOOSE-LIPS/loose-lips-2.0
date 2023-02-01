@@ -1,14 +1,14 @@
 <script lang="ts" context="module">
+  import data from "../../../data.json";
+
   /**
    * @type {import('@sveltejs/kit').Load}
    */
   export async function load({ fetch }) {
-    const mixRes = await fetch("http://localhost:8080/soundcloudData");
-    const mixData = await mixRes.json();
     return {
       props: {
-        mixes: await fetch("/mixes.json").then((res) => res.json()),
-        mixData: mixData,
+        markupMixInfo: await fetch("/mixes.json").then((res) => res.json()),
+        mixData: data,
       },
     };
   }
@@ -16,18 +16,16 @@
 
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
+  import { player } from "../../stores";
 
   // Models
   import type { IMix } from "$models/interfaces/imix.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
-  import { convertToSlug } from "$utils/convert-to-slug";
-  // import CrewPost from "$lib/shared/components/crew-post/CrewPost.svelte";
-  import { each } from "svelte/internal";
+
   import MixPost from "$shared/components/mix-post/MixPost.svelte";
 
-  export let mixes!: IMix[];
+  export let markupMixInfo!: IMix[];
   export let mixData;
-  console.log(mixData);
 
   // Start: Local component properties
   /**
@@ -40,13 +38,33 @@
     keywords: ["sveltekit", "sveltekit starter", "sveltekit starter about"],
     searchUrl: "/mixes",
   };
+  const tags = [];
+  mixData.map((mix) => {
+    tags.push(mix.genre);
+  });
+  let filterOn = false;
+  let tagList = [];
+  let filteredTagMixes = [];
+  let mergedList = [];
 
   let searchValue = "";
-  $: filteredMixes = mixes
-    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .filter((crewMember) =>
-      crewMember.title.toLowerCase().includes(searchValue.toLowerCase())
-    );
+  $: filteredMixes = mixData.filter((mix) => {
+    return mix.artist.toLowerCase().includes(searchValue.toLowerCase());
+  });
+  const filterBytag = (tag) => {
+    filteredTagMixes = mixData.filter((mix) => {
+      return tagList.includes(mix.genre);
+    });
+  };
+  const handleTagClick = (tag) => {
+    filterBytag(tag);
+    tagList.push(tag);
+    if (tagList.length > 0 || searchValue) {
+      filterOn = true;
+    } else {
+      filterOn = false;
+    }
+  };
 </script>
 
 <HeadTags {metaData} />
@@ -81,16 +99,31 @@
         />
       </svg>
     </div>
-    <div class="flex flex-row ">
-      {#if !searchValue}
-        {#each mixes as mix, index (mix.slug)}
-          <MixPost {mix} {mixData} />
+    <div class="flex flex-row flex-wrap w-full mt-4 items-center">
+      {#each tags as tag, index (tag)}
+        <button
+          on:click={() => {
+            handleTagClick(tag);
+          }}
+          class="text-xl font-bold text-black-400 text-black dark:text-white hover:text-white dark:hover:text-white"
+          >{tag.toUpperCase()}</button
+        >
+        {#if index !== tags.length - 1}
+          <p class="mr-2 ml-2 text-black dark:text-white">
+            {` • `}
+          </p>
+        {/if}
+      {/each}
+    </div>
+
+    <div class="flex flex-col">
+      {#if filterOn === false}
+        {#each mixData as mixData}
+          <MixPost {mixData} />
         {/each}
-      {:else if filteredMixes.length === 0}
-        <p class="text-gray-600 dark:text-gray-400 mb-4">No posts found.</p>
       {:else}
-        {#each filteredMixes as mix, index (mix.slug)}
-          <MixPost {mix} {mixData} />
+        {#each filteredTagMixes as mixData}
+          <MixPost {mixData} />
         {/each}
       {/if}
     </div>
