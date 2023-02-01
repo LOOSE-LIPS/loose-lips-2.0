@@ -19,7 +19,7 @@
 </script>
 
 {#if currentPost && currentPost?.slug}
-  <div class="w-full  border-gray-100 dark:border-gray-800 pb-5 h-[50%]">
+  <div class="w-full  border-gray-100 dark:border-gray-800 h-[50%]">
     <a
       data-sveltekit:prefetch
       href={`/blog/${currentPost.slug}`}

@@ -32,23 +32,24 @@
     .slice(0, 3);
 </script>
 
-<div
-  class="flex flex-row  items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg)"
->
+<div class="flex flex-row  items-start mb-16 border-2">
   <!-- Start: Popular Blog Section -->
   <h2
-    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em"
+    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em m-4"
     style="margin-top: 15%;"
   >
     Recent Posts
   </h2>
-  <div />
-  {#if blogs.length > 0}
-    {#each blogs as blog, index (blog.slug)}
-      <div class="p-5">
-        <BlogPost {blog} />
-      </div>
-    {/each}
-  {/if}
+  <div class="grid grid-flow-col auto-cols-max overflow-x-auto">
+    {#if blogs.length > 0}
+      {#each mostRecentBlogs as blog, index (blog.slug)}
+        <div
+          class="p-4 h-auto  aspect-video object-cover w-[480px] bg-gray-900"
+        >
+          <BlogPost {blog} />
+        </div>
+      {/each}
+    {/if}
+  </div>
   <!-- End: Popular Blog Section -->
 </div>
