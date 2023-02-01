@@ -72,16 +72,3 @@
   <EditorialPostsContainer {blogs} />
   <EventsContainer />
 </div>
-
-<!-- End: Home Page container -->
-<!-- 
-Old code for audio player -->
-
-<!-- <div class="audio" style="position:fixed;left:0;bottom:0;width:;">
-	<Aplayer audio={
-		{name:'君の知らない物語',
-		artist: 'supercell',
-		cover: 'https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.jpg',
-		url: "https://blog-static.fengkx.top/svelte-aplayer/bakemonogatari-ed.mp3"}} />
-
-</div> -->
