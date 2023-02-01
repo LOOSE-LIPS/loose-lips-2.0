@@ -16,6 +16,7 @@
 
   // Start: External Imports
   import "../styles/tailwind.postcss";
+  import { onMount } from "svelte";
 
   // End: External Imports
 
@@ -66,8 +67,11 @@
 
   const toggleThemeMode = (event: CustomEvent<{ dark: boolean }>): void => {
     const htmlTag = document.getElementsByTagName("html").item(0);
-    htmlTag.className = event.detail.dark ? "dark" : "light";
+    htmlTag.className = event.detail.dark ? "dark" : "dark";
   };
+  onMount(() => {
+    console.log("the component has mounted");
+  });
 
   // End: Local component methods
 </script>
