@@ -5,10 +5,10 @@ slug: "elkka-live-at-corsica-studios-090222"
 description: "This is Will's seventh post-lockdown gig review, as always he did not receive payment or press tickets for this, just went as a punter and felt like there was a story there. "
 author: "Will Soer"
 date: "2021-09-01"
-banner: "https://web.archive.org/web/20220218205113im_/https://loose-lips.co.uk/img/blog/620d4f6948465/620d4f6949320.jpg"
+banner: "images/blogs/test-blogs/CorsicaStudios.jpeg"
 tags: ["Event Review"]
 published: true
-featured: true
+featured: false
 ---
 
 [<img src="https://web.archive.org/web/20220218205113im_/https://loose-lips.co.uk/img/blog/620d4f6948465/620d4f6949320.jpg">](http://google.com.au/)

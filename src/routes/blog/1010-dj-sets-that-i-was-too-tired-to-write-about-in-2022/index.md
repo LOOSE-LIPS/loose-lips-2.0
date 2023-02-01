@@ -5,10 +5,10 @@ slug: "1010-dj-sets-that-i-was-too-tired-to-write-about-in-2022"
 description: "This is Will's ninth post-lockdown gig review, as always he did not receive payment or press tickets for this, just went as a punter and felt like there was a story there."
 author: "Will Soer"
 date: "2022-07-09"
-banner: "https://web.archive.org/web/20221110171633im_/https://loose-lips.co.uk/img/blog/634d58f9a3591/634d58f9a4a49.jpg"
+banner: "images/blogs/test-blogs/1010.jpeg"
 published: true
 tags: ["Review"]
-featured: true
+featured: false
 ---
 
 [<img src="https://web.archive.org/web/20221110171515im_/https://loose-lips.co.uk/img/wysiwyg/634d5881bf12c.jpg">](http://google.com.au/)
