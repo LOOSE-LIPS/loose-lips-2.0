@@ -1,15 +1,14 @@
 <script lang="ts">
   import type { IMix } from "$models/interfaces/imix.interface";
   import TagsContainer from "$shared/ui/components/tags-container/TagsContainer.svelte";
-
   import { player } from "../../../../stores";
+
   /**
    * @type {IMix}
    */
 
   export let mixData: IMix;
   export let markupMixInfo;
-  console.log("running");
 </script>
 
 <div class="flex-col h-[100%] m-6 ">

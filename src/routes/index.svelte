@@ -47,13 +47,6 @@
     description: "Loose lips label radio and blogging website).",
     keywords: ["radio", "mixes", "london radio", "music"],
   };
-
-  let searchValue = "";
-  $: filteredBlogPosts = blogs
-    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .filter((blog) =>
-      blog.title.toLowerCase().includes(searchValue.toLowerCase())
-    );
   // End: Local component properties
 
   console.log("home");
