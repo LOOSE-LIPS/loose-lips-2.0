@@ -8,7 +8,8 @@
    */
 
   export let mixData: IMix;
-  console.log(mixData);
+  export let markupMixInfo;
+  console.log("running");
 </script>
 
 <div class="flex-col h-[100%] m-6 ">
@@ -29,11 +30,17 @@
       style="color: #cccccc; text-decoration: none;">{mixData.title}</a
     >
   </div>
+  <!-- <a
+    href="data-sveltekit:prefetch href={`/mixes/${markupMixInfo.slug}`}"
+    title="Loose Lips Mix Series - 410 - Highrise"
+    target="_blank" -->
+  >
   <h3
     class="text-lg md:text-xl font-medium  w-full text-gray-900 dark:text-gray-100"
   >
     {mixData.title}
   </h3>
+  <!-- </a> -->
   <!-- <p>{mixData.description}</p> -->
   <iframe
     id="sc-widget"
