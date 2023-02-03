@@ -28,7 +28,6 @@
   import LooseLipsBanner from "$components/loose-lips-banner/LooseLipsBanner.svelte";
   import EventsContainer from "$shared/components/events-container/EventsContainer.svelte";
   import RecentPostsContainer from "$shared/components/recent-posts-container/RecentPostsContainer.svelte";
-  import TagsContainer from "$shared/components/tags-container/TagsContainer.svelte";
   import EditorialPostsContainer from "$shared/components/editorial-posts-container/EditorialPostsContainer.svelte";
 
   // Models
