@@ -26,7 +26,6 @@
   import Header from "$ui/components/header/Header.svelte";
   import Footer from "$ui/components/footer/Footer.svelte";
   import RouteTransition from "$ui/components/route-transition/RouteTransition.svelte";
-  import NowPlaying from "$components/now-playing/NowPlaying.svelte";
 
   // Models
   import type { IHeaderNavLink } from "$models/interfaces/iheader-nav-link.interface";
@@ -80,7 +79,6 @@
   <!-- Start: Header Navigation -->
   <Header
     on:toggleTheme={(e) => toggleThemeMode(e)}
-    {navLinks}
     logoImage={"https://i1.sndcdn.com/avatars-C6z0Vyr2LPCI6uHm-ZLN5qA-t200x200.jpg"}
     title={"LOOSE LIPS"}
     useThemeModeButton={true}
