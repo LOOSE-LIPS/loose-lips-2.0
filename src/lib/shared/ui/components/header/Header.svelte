@@ -1,27 +1,50 @@
 <script lang="ts">
-	// Start: Local Imports
+  // Start: Local Imports
 
-	// Models
-	import type { IHeaderNavLink } from '$models/interfaces/iheader-nav-link.interface';
+  // Models
+  import type { IHeaderNavLink } from "$models/interfaces/iheader-nav-link.interface";
 
-	// Components
-	import { NavigationProgressBar } from '$ui/components/navigation-progress-bar';
-	import { NavigationBar } from '$ui/components/navigation-bar';
-	// End: Local Imports
+  // Components
+  import { NavigationProgressBar } from "$ui/components/navigation-progress-bar";
+  import { NavigationBar } from "$ui/components/navigation-bar";
+  // End: Local Imports
 
-	// Start: Exported Properties
-	export let logoImage!: string;
-	export let title = 'LOOSE LIPS';
-	export let useTitleAndLogo!: boolean;
-	export let useThemeModeButton!: boolean;
+  // Start: Exported Properties
+  export let logoImage!: string;
+  export let title = "LOOSE LIPS";
+  export let useTitleAndLogo!: boolean;
+  export let useThemeModeButton!: boolean;
 
-	/**
-	 * @type {IHeaderNavLink}
-	 */
-	export let navLinks!: IHeaderNavLink[];
-	// End: Exported Properties
+  /**
+   * @type {IHeaderNavLink}
+   */
+  // export let navLinks!: IHeaderNavLink[];
+  // End: Exported Properties
 
-	// Local properties
+  // Local properties
+
+  const navLinks: IHeaderNavLink[] = [
+    {
+      path: "/",
+      label: "LL",
+    },
+    {
+      path: "/blog",
+      label: "BLOG",
+    },
+    {
+      path: "/crew",
+      label: "CREW",
+    },
+    {
+      path: "/events",
+      label: "EVENTS",
+    },
+    {
+      path: "/mixes",
+      label: "MIXES",
+    },
+  ];
 </script>
 
 <!-- Start: Navigation Progress bar -->
@@ -30,11 +53,11 @@
 
 <!-- Start: Navigation bar -->
 <NavigationBar
-	navLinks="{navLinks}"
-	logoImage="{logoImage}"
-	title="{title}"
-	useThemeModeButton="{useThemeModeButton}"
-	useTitleAndLogo="{useTitleAndLogo}"
-	on:toggleTheme
+  {navLinks}
+  {logoImage}
+  {title}
+  {useThemeModeButton}
+  {useTitleAndLogo}
+  on:toggleTheme
 />
 <!-- End: Navigation bar -->
