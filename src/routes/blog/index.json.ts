@@ -8,7 +8,9 @@ export async function get({
 }: {
   query: URLSearchParams;
 }): Promise<Partial<{ body: IBlog[]; status: number }>> {
-  const modules = import.meta.glob("./**/index.{md,svx,svelte.md}");
+  const modules = import.meta.glob(
+    "../../lib/markupfiles/blogs/**/index.{md,svx,svelte.md}"
+  );
 
   const postPromises = [];
   const limit = Number(query.get("limit") ?? Infinity);

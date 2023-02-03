@@ -37,28 +37,6 @@
   /**
    * @type {IHeaderNavLink}
    */
-  const navLinks: IHeaderNavLink[] = [
-    {
-      path: "/",
-      label: "LL",
-    },
-    {
-      path: "/blog",
-      label: "BLOG",
-    },
-    {
-      path: "/crew",
-      label: "CREW",
-    },
-    {
-      path: "/events",
-      label: "EVENTS",
-    },
-    {
-      path: "/mixes",
-      label: "MIXES",
-    },
-  ];
 
   // End: Local component properties
 
