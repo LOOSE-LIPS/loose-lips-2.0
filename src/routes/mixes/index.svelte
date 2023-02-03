@@ -38,6 +38,7 @@
     keywords: ["sveltekit", "sveltekit starter", "sveltekit starter about"],
     searchUrl: "/mixes",
   };
+
   const tags = [];
   mixData.map((mix) => {
     tags.push(mix.genre);
@@ -60,10 +61,10 @@
     currTag = tag;
     filterBytag(tag);
   };
+  console.log("test");
 </script>
 
 <HeadTags {metaData} />
-
 <div class="pt-[5%]">
   <div class="pl-[25%] pr-[25%] pt-[4%]">
     <h1
@@ -114,15 +115,15 @@
     <div class="flex flex-col">
       {#if !searchValue && filteredTagMixes.length === 0}
         {#each mixData as mixData}
-          <MixPost {mixData} />
+          <MixPost {mixData} {markupMixInfo} />
         {/each}
       {:else if searchValue}
         {#each filteredMixes as mixData}
-          <MixPost {mixData} />
+          <MixPost {mixData} {markupMixInfo} />
         {/each}
       {:else if filteredTagMixes.length > 0}
         {#each filteredTagMixes as mixData}
-          <MixPost {mixData} />
+          <MixPost {mixData} {markupMixInfo} />
         {/each}
       {/if}
     </div>

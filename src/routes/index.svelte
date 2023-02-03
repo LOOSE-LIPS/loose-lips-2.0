@@ -55,6 +55,8 @@
       blog.title.toLowerCase().includes(searchValue.toLowerCase())
     );
   // End: Local component properties
+
+  console.log("home");
 </script>
 
 <!-- Start: Header Tag -->
