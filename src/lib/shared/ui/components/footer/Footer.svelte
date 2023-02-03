@@ -36,7 +36,7 @@
       </a>
       <a
         data-sveltekit:prefetch
-        href="/projects"
+        href="/crew"
         class={linkClass}
         aria-label={"Footer about link"}
       >
@@ -44,7 +44,7 @@
       </a>
       <a
         data-sveltekit:prefetch
-        href="/about"
+        href="/events"
         class={linkClass}
         aria-label={"Footer about link"}
       >
@@ -53,24 +53,24 @@
     </div>
     <div class="flex flex-col space-y-4">
       <ExternalLink
-        href="https://www.linkedin.com/in/looselipsevents/"
+        href="https://soundcloud.com/loose-lips123"
         cssClasses={linkClass}
-        ariaLabel={"Footer LinkedIn link"}>Soundcloud</ExternalLink
+        ariaLabel={"Footer soundcloud link"}>Soundcloud</ExternalLink
       >
       <ExternalLink
-        href="https://github.com/navneetsharmaui"
+        href="https://www.mixcloud.com/LooseLips123/"
         cssClasses={linkClass}
-        ariaLabel={"Footer GitHub link"}>Mixcloud</ExternalLink
+        ariaLabel={"Footer mixcloud link"}>Mixcloud</ExternalLink
       >
       <ExternalLink
-        href="https://twitter.com/looselipsevents"
+        href="https://looselips123.bandcamp.com/"
         cssClasses={linkClass}
-        ariaLabel={"Footer Twitter link"}>Bandcamp</ExternalLink
+        ariaLabel={"Footer bandcamp link"}>Bandcamp</ExternalLink
       >
       <ExternalLink
-        href="https://www.instagram.com/looselipsevents/"
+        href="https://github.com/natesheehan/loose-lips-2.0"
         cssClasses={linkClass}
-        ariaLabel={"Footer Instagram link"}>Github</ExternalLink
+        ariaLabel={"Footer github link"}>Github</ExternalLink
       >
     </div>
     <div class="flex flex-col space-y-4">
