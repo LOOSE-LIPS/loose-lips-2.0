@@ -1,4 +1,4 @@
-export interface IProjectCard {
+export interface IEventsCard {
   title: string;
   description: string;
   slug: string;

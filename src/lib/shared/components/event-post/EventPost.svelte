@@ -1,6 +1,6 @@
 <script lang="ts">
   import ExternalLink from "$ui/components/external-link/ExternalLink.svelte";
-  import type { IProjectCard } from "$models/interfaces/iproject-card.interface";
+  import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
 
   // Start: Local Imports
   // Components
@@ -13,7 +13,7 @@
   /**
    * @type {IBlogPostSummary}
    */
-  export let project!: IProjectCard;
+  export let project!: IEventsCard;
   // End: Exported Properties
 
   // TODO
@@ -38,7 +38,7 @@
         >
           {project?.date}
         </p>
-        <img src={project?.img} alt="" style="height: 26em;" />
+        <img src={project?.banner} alt="" style="height: 26em;" />
         <p class="leading-5 text-gray-700 dark:text-gray-300 mt-5">
           {project?.description}
         </p>

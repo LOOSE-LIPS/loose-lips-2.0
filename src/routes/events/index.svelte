@@ -26,17 +26,18 @@
 
   // Components
   import HeadTags from "$components/head-tags/HeadTags.svelte";
-  import ProjectCard from "$components/project-card/ProjectCard.svelte";
+  import EventPost from "$lib/shared/components/event-post/EventPost.svelte";
 
   // Models
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
-  import type { IProjectCard } from "$models/interfaces/iproject-card.interface";
+  import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
 
   // Add metatags for page
   /**
    * @type {IMetaTagProperties}
    */
-  export let events: IProjectCard[];
+  export let events: IEventsCard[];
+
   const metaData: Partial<IMetaTagProperties> = {
     title: `Events`,
     description: "events page",
@@ -73,7 +74,7 @@
   </h2>
   {#if events.length > 0}
     {#each events as event}
-      <ProjectCard project={event} />
+      <EventPost project={event} />
     {/each}
   {/if}
   <a href="events" class="viewAll">
@@ -88,7 +89,7 @@
   </h2>
   {#if events.length > 0}
     {#each events as event}
-      <ProjectCard project={event} />
+      <EventPost project={event} />
     {/each}
   {/if}
   <a href="events" class="viewAll">

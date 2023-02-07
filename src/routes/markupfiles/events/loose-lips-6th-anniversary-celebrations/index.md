@@ -5,7 +5,7 @@ slug: "loose-lips-6th-anniversary-celebrations"
 description: "2228 days ago, 72 months ago, 6 years ago (approximately)... Loose lips was born."
 author: "loose lips"
 date: "November 26, 2020"
-banner: ""
+banner: "images/events/LooseLips6thAnniversary.jpeg"
 published: true
 tags: ["event"]
 featured: false
