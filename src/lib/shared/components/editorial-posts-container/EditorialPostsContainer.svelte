@@ -13,13 +13,20 @@
 
 <script lang="ts">
   import BlogPost from "../blog-post/BlogPost.svelte";
+  import EventPost from "../event-post/EventPost.svelte";
   import type { IBlog } from "$models/interfaces/iblog.interface";
-  export let blogs!: IBlog[];
+  import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
 
-  let editorialPosts = blogs.filter((blog) => {
+  export let posts!: (IBlog | IEventsCard)[];
+
+  let recommendedPosts = posts.filter((blog) => {
     return blog.featured;
   });
   //   export let featuredBlogs;
+
+  const IBlogPost = (x: IBlog | IEventsCard): x is IBlog => x.layout === "blog";
+  const IEventsCard = (x: IBlog | IEventsCard): x is IEventsCard =>
+    x.layout === "event";
 </script>
 
 <div
@@ -34,14 +41,22 @@
   </h2>
   <div />
 
-  {#if blogs.length > 0}
+  {#if posts.length > 0}
     <div class="grid grid-flow-col auto-cols-max overflow-x-auto max-w-6xl">
-      {#each editorialPosts as blog, index (blog.slug)}
-        <div
-          class="p-4 h-auto  aspect-video object-cover w-[480px] bg-blue-opaque"
-        >
-          <BlogPost {blog} />
-        </div>
+      {#each recommendedPosts as post}
+        {#if IBlogPost(post)}
+          <div
+            class="p-4 h-auto  aspect-video object-cover w-[480px] bg-blue-opaque"
+          >
+            <BlogPost blog={post} />
+          </div>
+        {:else if IEventsCard(post)}
+          <div
+            class="p-4 h-auto  aspect-video object-cover w-[480px] bg-blue-opaque"
+          >
+            <EventPost event={post} />
+          </div>
+        {/if}
       {/each}
     </div>
   {/if}

@@ -13,15 +13,15 @@
   /**
    * @type {IBlogPostSummary}
    */
-  export let project!: IEventsCard;
+  export let event!: IEventsCard;
   // End: Exported Properties
 
   // TODO
   let views = 2000;
 </script>
 
-{#if project && project?.slug}
-  <ExternalLink href={project.slug} ariaLabel={project.title}>
+{#if event && event?.slug}
+  <ExternalLink href={event.slug} ariaLabel={event.title}>
     <div
       class="mb-4 hover:transition-shadow hover:shadow dark:hover:transition-shadow dark:hover:shadow-dark flex items-center border border-gray-200 dark:border-gray-800 rounded p-4"
     >
@@ -30,17 +30,17 @@
         <h2
           class="text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 mb-5"
         >
-          {project?.title}
+          {event?.title}
         </h2>
         <p
           class="leading-5 text-gray-700 dark:text-gray-300"
           style="float: right;"
         >
-          {project?.date}
+          {event?.date}
         </p>
-        <img src={project?.banner} alt="" style="height: 26em;" />
+        <!-- <img src={event?.banner} alt="" style="height: 26em;" /> -->
         <p class="leading-5 text-gray-700 dark:text-gray-300 mt-5">
-          {project?.description}
+          {event?.description}
         </p>
       </div>
     </div>

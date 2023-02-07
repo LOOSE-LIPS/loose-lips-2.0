@@ -30,11 +30,12 @@
 
   const mostRecentPosts: (IBlog | IEventsCard)[] = posts
     .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .slice(0, 3);
+    .slice(0, 10);
 
   const isIBlog = (x: IBlog | IEventsCard): x is IBlog => x.layout === "blog";
   const isIEventCard = (x: IEventsCard): x is IEventsCard =>
     x.layout === "event";
+  console.log(mostRecentPosts, "MOST RECENT");
 </script>
 
 <div class="flex flex-row  items-start mb-16 border-2">
