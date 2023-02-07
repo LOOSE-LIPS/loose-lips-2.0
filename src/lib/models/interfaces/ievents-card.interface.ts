@@ -1,4 +1,5 @@
 export interface IEventsCard {
+  layout: string;
   title: string;
   description: string;
   slug: string;

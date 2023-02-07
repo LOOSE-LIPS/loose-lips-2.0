@@ -14,20 +14,21 @@
 <script lang="ts">
   import BlogPost from "../blog-post/BlogPost.svelte";
   import type { IBlog } from "$models/interfaces/iblog.interface";
-  export let blogs!: IBlog[];
-  //   export let featuredBlogs;
+  import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
+  import EventPost from "../event-post/EventPost.svelte";
+  export let posts!: (IBlog | IEventsCard)[];
 
   let listWithDuplicatetags: string[] = [];
 
-  blogs.forEach((blog) => {
+  posts.forEach((post) => {
     listWithDuplicatetags =
       listWithDuplicatetags.length === 0
-        ? [...blog.tags]
-        : [...listWithDuplicatetags, ...blog.tags];
+        ? [...post.tags]
+        : [...listWithDuplicatetags, ...post.tags];
   });
   $: tags = [...new Set(listWithDuplicatetags)];
 
-  const mostRecentBlogs: IBlog[] = blogs
+  const mostRecentPosts: (IBlog | IEventsCard)[] = posts
     .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
     .slice(0, 3);
 </script>
@@ -41,13 +42,21 @@
     Recent Posts
   </h2>
   <div class="grid grid-flow-col auto-cols-max overflow-x-auto">
-    {#if blogs.length > 0}
-      {#each mostRecentBlogs as blog, index (blog.slug)}
-        <div
-          class="p-4 h-auto  aspect-video object-cover w-[480px] bg-gray-900"
-        >
-          <BlogPost {blog} />
-        </div>
+    {#if posts.length > 0}
+      {#each mostRecentPosts as post, index (post.slug)}
+        {#if post.layout === "blog"}
+          <div
+            class="p-4 h-auto  aspect-video object-cover w-[480px] bg-gray-900"
+          >
+            <BlogPost blog={post} />
+          </div>
+        {:else if post.layout === "event"}
+          <div
+            class="p-4 h-auto  aspect-video object-cover w-[480px] bg-gray-900"
+          >
+            <EventPost event={post} />
+          </div>
+        {/if}
       {/each}
     {/if}
   </div>
