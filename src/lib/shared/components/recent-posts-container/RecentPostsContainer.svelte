@@ -31,6 +31,10 @@
   const mostRecentPosts: (IBlog | IEventsCard)[] = posts
     .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
     .slice(0, 3);
+
+  const isIBlog = (x: IBlog | IEventsCard): x is IBlog => x.layout === "blog";
+  const isIEventCard = (x: IEventsCard): x is IEventsCard =>
+    x.layout === "event";
 </script>
 
 <div class="flex flex-row  items-start mb-16 border-2">
@@ -43,14 +47,14 @@
   </h2>
   <div class="grid grid-flow-col auto-cols-max overflow-x-auto">
     {#if posts.length > 0}
-      {#each mostRecentPosts as post, index (post.slug)}
-        {#if post.layout === "blog"}
+      {#each mostRecentPosts as post}
+        {#if isIBlog(post)}
           <div
             class="p-4 h-auto  aspect-video object-cover w-[480px] bg-gray-900"
           >
             <BlogPost blog={post} />
           </div>
-        {:else if post.layout === "event"}
+        {:else if isIEventCard(post)}
           <div
             class="p-4 h-auto  aspect-video object-cover w-[480px] bg-gray-900"
           >
