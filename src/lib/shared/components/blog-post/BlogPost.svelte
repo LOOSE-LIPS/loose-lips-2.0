@@ -13,20 +13,20 @@
    * @type {IBlog}
    */
   export let blog!: IBlog;
-  console.log(blog);
+  console.log(blog.slug);
 
   // End: Exported Properties
 </script>
 
 {#if blog && blog?.slug}
   <div class="mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5">
-    <a data-sveltekit:prefetch href={`/blog/${blog.slug}`} class="w-full">
+    <a
+      data-sveltekit:prefetch
+      href={`../markupfiles/blogs/${blog.slug}`}
+      class="w-full"
+    >
       <div class="flex flex-col md:flex-row justify-between">
         <img src={blog.banner} alt="" style="height: 12em; width:100%;" />
-
-        <!-- <p class="text-gray-500 text-left md:text-right w-32 mb-4 md:mb-0">
-					{`${views ? new Number(views).toLocaleString() : '–––'} views`}
-				</p> -->
       </div>
 
       <h3

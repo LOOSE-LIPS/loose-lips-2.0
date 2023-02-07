@@ -136,6 +136,22 @@ text-align: right;font-size:6em;"
             d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"
           /></svg
         >
+        <!-- <a href="https://soundcloud.com/loose-lips123">
+          <ion-icon name="logo-soundcloud" size="large" class="soundcloud" />
+        </a>
+        <a href="https://www.instagram.com/looselipsevents/?hl=fr">
+          <ion-icon name="logo-instagram" size="large" class="instagram" />
+        </a>
+        <a href="https://www.youtube.com/channel/UCjGQIIPUXfIi-ahpj79p7jA">
+          <ion-icon name="logo-youtube" size="large" class="youtube" />
+        </a>
+        <a href="https://www.youtube.com/channel/UCjGQIIPUXfIi-ahpj79p7jA">
+          <ion-icon name="logo-discord" size="large" class="discord" />
+        </a>
+       
+        <a href=" https://looselips123.bandcamp.com/">
+          <ion-icon name="logo-discord" size="large" class="discord" />
+        </a> -->
       </div>
     </div>
   </nav>
@@ -164,3 +180,9 @@ text-align: right;font-size:6em;"
     </button>
   {/if}
 </header>
+
+<!-- <style>
+  .soundcloud {
+    color: orange;
+  }
+</style> -->

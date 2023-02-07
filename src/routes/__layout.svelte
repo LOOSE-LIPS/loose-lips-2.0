@@ -46,9 +46,6 @@
     const htmlTag = document.getElementsByTagName("html").item(0);
     htmlTag.className = event.detail.dark ? "dark" : "dark";
   };
-  onMount(() => {
-    console.log("the component has mounted");
-  });
 
   // End: Local component methods
 </script>
