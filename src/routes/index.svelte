@@ -52,8 +52,6 @@
     keywords: ["radio", "mixes", "london radio", "music"],
   };
   // End: Local component properties
-
-  console.log("home");
 </script>
 
 <!-- Start: Header Tag -->
@@ -67,6 +65,6 @@
     ___________________________________________________________________________________________________________________________________________
   </h1>
   <RecentPostsContainer {posts} />
-  <!-- <EditorialPostsContainer {posts} /> -->
+  <EditorialPostsContainer {posts} />
   <EventsContainer />
 </div>
