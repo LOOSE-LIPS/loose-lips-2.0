@@ -1,4 +1,5 @@
 export interface IBlog {
+  layout: string;
   slug: string;
   title: string;
   author: string;

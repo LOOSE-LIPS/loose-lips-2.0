@@ -1,1 +1,1 @@
-export { default as ProjectCard } from './ProjectCard.svelte';
+export { default as EventPost } from "./EventPost.svelte";

@@ -13,7 +13,8 @@
   export async function load({ fetch }) {
     return {
       props: {
-        blogs: await fetch(`/blog.json?recent=${5}`).then((res) => res.json()),
+        blogs: await fetch("/blog.json").then((res) => res.json()),
+        events: await fetch("/events.json").then((res) => res.json()),
       },
     };
   }
@@ -33,9 +34,13 @@
   // Models
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import type { IBlog } from "$models/interfaces/iblog.interface";
+  import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
 
   // Exports
   export let blogs!: IBlog[];
+  export let events: IEventsCard[];
+
+  const posts = [...blogs, ...events];
 
   // Add metatags for page
   /**
@@ -57,11 +62,11 @@
 <!-- Start: Home Page container -->
 
 <div class="w-[75%]">
-  <FeaturedContent {blogs} />
+  <FeaturedContent {posts} />
   <h1 class="text-white">
     ___________________________________________________________________________________________________________________________________________
   </h1>
-  <RecentPostsContainer {blogs} />
-  <EditorialPostsContainer {blogs} />
+  <RecentPostsContainer {posts} />
+  <!-- <EditorialPostsContainer {posts} /> -->
   <EventsContainer />
 </div>
