@@ -1,5 +1,5 @@
 <script lang="ts">
-  import ProjectCard from "$components/project-card/ProjectCard.svelte";
+  import EventPost from "$lib/shared/components/event-post/EventPost.svelte";
   import type { IEventsCard } from "$models/interfaces/ievents-card.interface";
 </script>
 
