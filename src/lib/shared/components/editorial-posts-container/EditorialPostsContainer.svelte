@@ -27,6 +27,8 @@
   const IBlogPost = (x: IBlog | IEventsCard): x is IBlog => x.layout === "blog";
   const IEventsCard = (x: IBlog | IEventsCard): x is IEventsCard =>
     x.layout === "event";
+
+  console.log(recommendedPosts, "REEEE");
 </script>
 
 <div

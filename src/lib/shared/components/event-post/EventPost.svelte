@@ -15,9 +15,6 @@
    */
   export let event!: IEventsCard;
   // End: Exported Properties
-
-  // TODO
-  let views = 2000;
 </script>
 
 {#if event && event?.slug}
