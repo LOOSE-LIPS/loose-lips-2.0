@@ -16,7 +16,6 @@
 
   // Start: External Imports
   import "../styles/tailwind.postcss";
-  import { onMount } from "svelte";
 
   // End: External Imports
 
@@ -28,7 +27,6 @@
   import RouteTransition from "$ui/components/route-transition/RouteTransition.svelte";
 
   // Models
-  import type { IHeaderNavLink } from "$models/interfaces/iheader-nav-link.interface";
   // End: Local Imports
 
   // Start: Local component properties

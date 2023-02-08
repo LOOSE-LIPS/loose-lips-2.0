@@ -74,7 +74,7 @@
   </h2>
   {#if events.length > 0}
     {#each events as event}
-      <EventPost project={event} />
+      <EventPost {event} />
     {/each}
   {/if}
   <a href="events" class="viewAll">
@@ -89,7 +89,7 @@
   </h2>
   {#if events.length > 0}
     {#each events as event}
-      <EventPost project={event} />
+      <EventPost {event} />
     {/each}
   {/if}
   <a href="events" class="viewAll">

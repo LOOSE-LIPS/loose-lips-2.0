@@ -29,7 +29,7 @@
   import LooseLipsBanner from "$components/loose-lips-banner/LooseLipsBanner.svelte";
   import EventsContainer from "$shared/components/events-container/EventsContainer.svelte";
   import RecentPostsContainer from "$shared/components/recent-posts-container/RecentPostsContainer.svelte";
-  import EditorialPostsContainer from "$shared/components/editorial-posts-container/EditorialPostsContainer.svelte";
+  import RecommendedPostsContainer from "$lib/shared/components/recommended-posts/RecommendedPostsContainer.svelte";
 
   // Models
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
@@ -41,6 +41,7 @@
   export let events: IEventsCard[];
 
   const posts = [...blogs, ...events];
+  // console.log(events, "EVENTS");
 
   // Add metatags for page
   /**
@@ -65,6 +66,6 @@
     ___________________________________________________________________________________________________________________________________________
   </h1>
   <RecentPostsContainer {posts} />
-  <EditorialPostsContainer {posts} />
-  <EventsContainer />
+  <RecommendedPostsContainer {posts} />
+  <EventsContainer {events} />
 </div>
