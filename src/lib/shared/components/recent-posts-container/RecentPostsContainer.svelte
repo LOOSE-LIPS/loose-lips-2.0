@@ -12,10 +12,9 @@
 </script>
 
 <script lang="ts">
-  import BlogPost from "../blog-post/BlogPost.svelte";
+  import RecentPost from "../recent-post/RecentPost.svelte";
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
-  import EventPost from "../event-post/EventPost.svelte";
   export let posts!: (IBlog | IEventsCard)[];
 
   let listWithDuplicatetags: string[] = [];
@@ -31,10 +30,6 @@
   const mostRecentPosts: (IBlog | IEventsCard)[] = posts
     .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
     .slice(0, 10);
-
-  const isIBlog = (x: IBlog | IEventsCard): x is IBlog => x.layout === "blog";
-  const isIEventCard = (x: IEventsCard): x is IEventsCard =>
-    x.layout === "event";
 </script>
 
 <div class="flex flex-row  items-start mb-16 border-2">
@@ -46,23 +41,10 @@
     Recent Posts
   </h2>
   <div class="grid grid-flow-col auto-cols-max overflow-x-auto">
-    {#if posts.length > 0}
-      {#each mostRecentPosts as post}
-        {#if isIBlog(post)}
-          <div
-            class="p-4 h-auto  aspect-video object-cover w-[480px] bg-gray-900"
-          >
-            <BlogPost blog={post} />
-          </div>
-        {:else if isIEventCard(post)}
-          <div
-            class="p-4 h-auto  aspect-video object-cover w-[480px] bg-gray-900"
-          >
-            <EventPost event={post} />
-          </div>
-        {/if}
-      {/each}
-    {/if}
+    {#each mostRecentPosts as post}
+      <div>
+        <RecentPost {post} />
+      </div>
+    {/each}
   </div>
-  <!-- End: Popular Blog Section -->
 </div>
