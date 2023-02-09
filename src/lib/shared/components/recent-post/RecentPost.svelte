@@ -1,15 +1,22 @@
 <script lang="ts">
   import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
   import type { IBlog } from "$models/interfaces/iblog.interface";
+  import { addToStore } from "$utils/add-to-store";
 
   export let post: IBlog | IEventsCard;
   const isIBlog = (x: IBlog | IEventsCard): x is IBlog => x.layout === "blog";
   const isIEventCard = (x: IEventsCard): x is IEventsCard =>
     x.layout === "event";
+  const handleClick = () => {
+    console.log("click");
+  };
 </script>
 
 <div class="mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5">
   <a
+    on:click={(e) => {
+      addToStore(post);
+    }}
     data-sveltekit:prefetch
     href={`../markupfiles/blogs/${post.slug}`}
     class="w-full"

@@ -19,10 +19,8 @@
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import { convertToSlug } from "$utils/convert-to-slug";
   import CrewPost from "$lib/shared/components/crew-post/CrewPost.svelte";
-  import { each } from "svelte/internal";
 
   export let crewMembers!: IBlog[];
-  // Start: Local component properties
   /**
    * @type {IMetaTagProperties}
    */
@@ -40,6 +38,8 @@
     .filter((crewMember) =>
       crewMember.title.toLowerCase().includes(searchValue.toLowerCase())
     );
+
+  console.log(crewMembers, "CREW");
 </script>
 
 <HeadTags {metaData} />

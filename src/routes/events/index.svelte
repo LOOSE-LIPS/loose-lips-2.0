@@ -22,17 +22,11 @@
 </script>
 
 <script lang="ts">
-  // Imports
-
-  // Components
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import EventPost from "$lib/shared/components/event-post/EventPost.svelte";
-
-  // Models
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
 
-  // Add metatags for page
   /**
    * @type {IMetaTagProperties}
    */
@@ -59,14 +53,9 @@
   //   ];
 </script>
 
-<!-- Start: Header Tag -->
 <HeadTags {metaData} />
-<!-- End: Header Tag -->
-
-<!-- Start: Home Page container -->
 
 <div class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
-  <!-- Start: Events -->
   <h2
     class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
   >
@@ -80,8 +69,6 @@
   <a href="events" class="viewAll">
     <p class="font-italic text-m text-white">View past events</p>
   </a>
-
-  <!-- Start: Events -->
   <h2
     class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
   >
