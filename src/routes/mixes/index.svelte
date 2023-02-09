@@ -16,9 +16,6 @@
 
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
-  import { player } from "../../stores";
-
-  // Models
   import type { IMix } from "$models/interfaces/imix.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
 
@@ -27,7 +24,6 @@
   export let markupMixInfo!: IMix[];
   export let mixData;
 
-  // Start: Local component properties
   /**
    * @type {IMetaTagProperties}
    */

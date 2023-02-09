@@ -13,12 +13,22 @@
 
 <script lang="ts">
   import RecommendedPost from "../recommended-post/RecommendedPost.svelte";
+  import { recommendedArray } from "../../../../stores";
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
   export let posts!: (IBlog | IEventsCard)[];
-  let recommendedPosts = posts.filter((blog) => {
-    return blog.featured;
+  // let recommendedPosts = posts.filter((blog) => {
+  //   return blog.featured;
+  // });
+  export let recommendedPosts = [];
+
+  recommendedArray.subscribe((data) => {
+    data.map((post) => {
+      recommendedPosts.push(post);
+    });
   });
+
+  console.log(recommendedPosts, "test");
 </script>
 
 <div

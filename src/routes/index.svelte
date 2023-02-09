@@ -1,11 +1,3 @@
-<!-- HOME PAGE OF WEBSITE
-
-
-
-
-
-
- -->
 <script lang="ts" context="module">
   /**
    * @type {import('@sveltejs/kit').Load}
@@ -15,35 +7,31 @@
       props: {
         blogs: await fetch("/blog.json").then((res) => res.json()),
         events: await fetch("/events.json").then((res) => res.json()),
+        mixes: await fetch("/mixes.json").then((res) => res.json()),
       },
     };
   }
 </script>
 
 <script lang="ts">
-  // Imports
-
-  // Components
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import FeaturedContent from "$components/featured-content/FeaturedContent.svelte";
   import LooseLipsBanner from "$components/loose-lips-banner/LooseLipsBanner.svelte";
   import EventsContainer from "$shared/components/events-container/EventsContainer.svelte";
   import RecentPostsContainer from "$shared/components/recent-posts-container/RecentPostsContainer.svelte";
   import RecommendedPostsContainer from "$lib/shared/components/recommended-posts/RecommendedPostsContainer.svelte";
-
-  // Models
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
+  import type { IMix } from "$lib/models/interfaces/imix.interface";
 
-  // Exports
   export let blogs!: IBlog[];
   export let events: IEventsCard[];
+  export let mixes: IMix[];
 
   const posts = [...blogs, ...events];
-  // console.log(events, "EVENTS");
+  console.log(mixes);
 
-  // Add metatags for page
   /**
    * @type {IMetaTagProperties}
    */
@@ -52,20 +40,18 @@
     description: "Loose lips label radio and blogging website).",
     keywords: ["radio", "mixes", "london radio", "music"],
   };
-  // End: Local component properties
 </script>
 
-<!-- Start: Header Tag -->
 <HeadTags {metaData} />
 <LooseLipsBanner />
-<!-- Start: Home Page container -->
 
 <div class="w-[75%]">
   <FeaturedContent {posts} />
   <h1 class="text-white">
     ___________________________________________________________________________________________________________________________________________
   </h1>
-  <RecentPostsContainer {posts} />
+
   <RecommendedPostsContainer {posts} />
   <EventsContainer {events} />
+  <RecentPostsContainer {posts} />
 </div>

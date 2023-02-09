@@ -1,15 +1,9 @@
 <script lang="ts">
-  // Svelte Imports
   import { createEventDispatcher } from "svelte";
-
   import Icon from "svelte-awesome";
   import { faMoon, faSun } from "@fortawesome/free-solid-svg-icons";
-
-  // Models
   import type { IHeaderNavLink } from "$models/interfaces/iheader-nav-link.interface";
   import { page } from "$app/stores";
-
-  // Exports
   /**
    * @type {IHeaderNavLink}
    */
@@ -19,10 +13,8 @@
   export let useTitleAndLogo = false;
   export let useThemeModeButton = true;
 
-  // Local Properties
   let dark = true;
 
-  // Local Methods
   const dispatch = createEventDispatcher();
 
   const toggleTheme = (): void => {
@@ -37,7 +29,7 @@
   class="relative flex text-gray-900 bg-yellow-50 dark:bg-black bg-opacity-60 dark:text-gray-100 w-full"
 >
   <nav
-    class="flex flex-wrap items-center justify-between w-full max-w-4xl p-6 mx-auto"
+    class="flex flex-row items-center justify-between w-full max-w-4xl p-6 mx-auto"
   >
     {#if useTitleAndLogo}
       <div
@@ -93,7 +85,6 @@ text-align: right;font-size:6em;"
         class="flex justify-center items-center flex-wrap space-x-2"
         id="menu"
       >
-        <!-- Discord -->
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 640 512"
@@ -105,7 +96,6 @@ text-align: right;font-size:6em;"
           /></svg
         >
 
-        <!-- Github -->
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 496 512"
