@@ -30,23 +30,23 @@
   });
 </script>
 
-<div
-  class="flex flex-col items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg) "
->
-  <h2
-    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em m-6"
-    style="margin-top: 15%;"
+{#if recommendedPosts.length > 0}
+  <div
+    class="flex flex-col items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg) "
   >
-    Recommended
-  </h2>
+    <h2
+      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em m-6"
+      style="margin-top: 15%;"
+    >
+      Recommended
+    </h2>
 
-  <div class="grid grid-flow-col auto-cols-max overflow-x-auto max-w-6xl">
-    {#if recommendedPosts.length > 0}
+    <div class="grid grid-flow-col auto-cols-max overflow-x-auto max-w-6xl">
       {#each recommendedPosts as post}
         <div>
           <RecommendedPost {post} />
         </div>
       {/each}
-    {/if}
+    </div>
   </div>
-</div>
+{/if}

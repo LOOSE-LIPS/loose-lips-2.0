@@ -14,7 +14,6 @@
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
 
-  // Models
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import { convertToSlug } from "$utils/convert-to-slug";
@@ -28,7 +27,7 @@
     title: "Crew | Sveltekit Crew",
     description: "Crew page of Sveltekit blog starter project",
     url: "/crew",
-    keywords: ["sveltekit", "sveltekit starter", "sveltekit starter about"],
+    keywords: ["about"],
     searchUrl: "/crew",
   };
 
@@ -47,7 +46,8 @@
 <div class="pt-[5%]">
   <div class="pl-[25%] pr-[25%] pt-[4%]">
     <h1
-      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
+      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black
+    dark:text-white"
     >
       Crew
     </h1>

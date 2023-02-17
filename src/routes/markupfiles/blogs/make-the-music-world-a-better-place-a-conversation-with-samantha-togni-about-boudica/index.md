@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Make the world a better place: a conversation with Samantha Togni about Boudica"
-slug: "make-the-world-a-better-place-a-conversation-with-samantha-togni-about-boudica"
+slug: "make-the-music-world-a-better-place-a-conversation-with-samantha-togni-about-boudica"
 description: ""
 author: "Zuzana Friday"
 date: "january 12th, 2021"
