@@ -58,14 +58,14 @@
       </div>
     {/if}
     <div
-      class="flex flex-row items-center"
+      class="flex flex-col items-center"
       style="
 		position: fixed;
 right: 0 !important;
 display: flex;
 flex-direction: column;
 margin-top: 45%;
-text-align: right;font-size:6em;"
+text-align: right;font-size:3em;"
     >
       {#each navLinks as navLink, index (navLink.path)}
         <a
@@ -146,7 +146,7 @@ text-align: right;font-size:6em;"
     </div>
   </nav>
   {#if useThemeModeButton}
-    <button
+    <!-- <button
       on:click={() => toggleTheme()}
       aria-label="Toggle Dark Mode"
       type="button"
@@ -167,7 +167,7 @@ text-align: right;font-size:6em;"
           scale={1.5}
         />
       {/if}
-    </button>
+    </button> -->
   {/if}
 </header>
 

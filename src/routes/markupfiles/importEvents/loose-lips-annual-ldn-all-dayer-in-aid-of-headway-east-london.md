@@ -1,0 +1,185 @@
+---
+id: 2808
+date: '2019-10-11T02:58:38'
+title: Loose Lips' annual Ldn all-dayer - in aid of Headway East London - Loose Lips
+type: event
+slug: loose-lips-annual-ldn-all-dayer-in-aid-of-headway-east-london
+author: 100
+banner:
+  - >-
+    ../../static/images/importEvents/loose-lips-annual-ldn-all-dayer-in-aid-of-headway-east-london/image2808.jpeg
+description: >-
+  To wave goodbye to summer, we&#39;re raising funds and spreading the awareness
+  of Headway East London, a charity supporting people affected by brain injury.
+  Working across 13 London boroughs, they offer specialist support and services
+  for over 200 survivors, family, friends and carers in the local area each
+  week. They also brilliantly promote awareness and [...]Read More...
+published: true
+tags:
+  - event
+---
+To wave goodbye to summer, we're raising funds and spreading the awareness of Headway East London, a charity supporting people affected by brain injury. Working across 13 London boroughs, they offer specialist support and services for over 200 survivors, family, friends and carers in the local area each week.
+
+They also brilliantly promote awareness and understanding of brain injury in their mission to build a world with survivors who are valued, respected and able to live fulfilling lives.
+
+[](http://headwayeastlondon.org/?fbclid=IwAR0zjWxxDZtVvg7jM3y0hqtIZ1tTqit4NriPfIdOeAe3cG6gFVcf45ow1z4)[http://headwayeastlondon.org](http://headwayeastlondon.org)
+
+[](https://l.facebook.com/l.php?u=http%3A%2F%2Floose-lips.co.uk%2F%3Ffbclid%3DIwAR10cujH1MPte5XAK0SwfzOBlbYJqXNFyAKUntPb25Dq_VHPkFBbj7vihu8&h=AT2cJg-VrccKD-IO5XeKmWIaGuZfyW-GRQmjRFw__TqlM2HAD_EVWvn0xZnvpapTYE7025DsdKqvZghWl0myE9OXol9CdpRjK0DbgSkA8z_hifxcrzVKfeGkd5fr6tSW61XnJkg)[http://loose-lips.co.uk](http://loose-lips.co.uk)
+
+Headway East London's efforts still really need their word spreading…and so come on down to the wonderfully green Grow Tottenham venue, on Sat 21st Sep, for an eclectic 8 hour, 2 room event. 
+
+Look forward to some amazing exhibitions, live musical performances ranging from distorted UK Hip Hop through to uplifting jazz, and a host of oddball DJs!
+
+artsclub will also be curating an art exhibition entitled ‘Square Format: A Celebration of Art Contributions to Modern Day Club Culture’. It aims to immortalise contemporary rave art that has only existed in the digital sphere. In today’s scene, social media provides the space for the promotion of events and is the platform for the artwork that represents them. Once the event is over, an artist’s work is lost to the recesses of the internet; existing in the void, searchable but not present.  The exhibition will celebrate this art by enlarging, printing and projecting it on the walls of Grow Tottenham. This allows the work to be appreciated in the same light as the physical rave art of old, enhancing one's perception and appreciation of it. The works will be available to buy through an auction on the day, with all profits going to Headway East London. They will be printed at 50cm x 50cm and framed.
+
+——
+
+14:00 – 22:00
+
+£5 minimum donation taken in aid of Headway East London on entrance.
+
+——
+
+LINE-UP:
+
+—- LIVE PERFORMANCES:
+
+– Carpetface & Jimi Lyons 
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F8KolvhODohQ%3Ffbclid%3DIwAR2QA4u6OVRoF8gRcWZgFnpfTyo1E27JxtHd6653xsK6FTEH5RzbiZFSOYg&h=AT00LaybH9MvxG2UJsnjPwhJ-V9FvB3wbaFYyXe_vomvkLQKTdd1Uzn5jpiH_uUBCYhKeHX-XEbJEslrMv7TqxrQA1Uqifgqkg9pJcyPkvT6I3dn7xF9JYk1v5d4yZsZIHuG4HY)[https://youtu.be/8KolvhODohQ](https://youtu.be/8KolvhODohQ)
+
+Internationally acclaimed Hip Hop artists, songwriter and producer Carpet Face joins forces with Roots Reggae Veteran Jimi Lyons for a totally unique sonic hybrid. Not to be missed!
+
+– Dryriverbed
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fpablo-drexler%3Ffbclid%3DIwAR1aXUw3XbPFzKtAt34jDABBVFl5iZiR6rThQjhPrmUPIuCkoBcZRXknu1g&h=AT13-5CmjxyyKy3YeCibTIP_70XzjuknPB568ONuVLSC-zZobejru4nRzMx6hRedcqp_A4w3uZ3RUdFzTn523ajbtct24NvwAg91TBB3S5yCQoXBz07nhnkFsFVokq1bdrH349E)[https://soundcloud.com/pablo-drexler](https://soundcloud.com/pablo-drexler)
+
+'"Dryriverbed" is the alias of Pablo Drexler, a Spanish experimental singer-songwriter from a small town outside Madrid. With influences spanning from Jpegmafia to Thom Yorke through Elliott Smith, his emotion-centred music explores the relationship between organic and synthetic sounds. 
+
+– Glows (Slow Dance)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXQFuXRZ4Q3M%26fbclid%3DIwAR1xz_QmO2oX9aKlnA7t4XIIOTtpRjIqv0w8HqwCF6STyMfiAEWQzShMmu8&h=AT0NfitVV7temWRknn4L8Htvwc97k-iQj3wLfrIfD6vMPTHiFVanipQSLRxrB2VL-OXwR9MZgYCa20QF1ZRRAvOy2bA6iUxFMLISG9v5BS9JrhjVjo-O42rQKWKrJy3shLKq4bE)[https://www.youtube.com/watch?v=XQFuXRZ4Q3M](https://www.youtube.com/watch?v=XQFuXRZ4Q3M)
+
+South London experimentalist Glows brings his live show to 
+
+Tottenham. Representing Slow Dance and playing tracks from debut EP 'JL Hooker Lover Pleasure Forever'.
+
+– Oscar Browne
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Foscar-browne%3Ffbclid%3DIwAR3QHohNSxJkUOQ1izPe1-RGebEozdyJlW8H5CsazAXLvCE0qbNwmj-XljQ&h=AT2ojTL5C9Sl5Pj-b9_pUewWcmULRDI-WnZXEYf6Lh_MVTA_D2GTbxblxsvGcfdN6zSYXTP8eY5ZWl_7QlfXmVtEO4EjFwPYxoaXYMQpnzIfLB6D9VYG_ztO2EqFLAnOmVchQcA)[https://soundcloud.com/oscar-browne](https://soundcloud.com/oscar-browne)
+
+One hell of a live solo set coming up!
+
+– Rubie
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Frubieroo%3Ffbclid%3DIwAR0DBH-IH75KJrC0Je1DHtrZf0tlf7y1QFzYV4N7iu5krFBsXRJVu4Gy7E4&h=AT3Dg7pokLDIM-8CPsmnZ-0sTI4jV4TMyCZ6mOqHemKeqLmmwpEz_HGXa2bPRhV9yPIWU1sphVgEUHPs-9a6Xrx7jbLb13dXIbNow9sLLnaSM75aKOJ4Vo-IiIC_vJmyfp5U_2o)[https://soundcloud.com/rubieroo](https://soundcloud.com/rubieroo)
+
+Rubie exorcises maleness in the eclectic and experimental, as a spotlit songstress. They channel their intricate songwriting through a performance art lens, often stretching the limits of minimal vocal-centered live setups. Sailing on a soup, weathering binary storms, learning to captain.
+
+– S.4.M.I (MOTR)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fs4mi_activ%3Ffbclid%3DIwAR0DBH-IH75KJrC0Je1DHtrZf0tlf7y1QFzYV4N7iu5krFBsXRJVu4Gy7E4&h=AT1uHLy3dQT5kXXaApyi2vzM9hjRAxIk6KKzIAHtKQ-RMhZYbEj6EC_OppyDBVP4n08e27NOg9ZyJ1e_Q5cu9VI7XcXq9rK4CB9e3nFPLvYax-TMOCA_qvrROlYCgTm1bSmLIQ8)[https://soundcloud.com/s4mi\_activ](https://soundcloud.com/s4mi_activ)
+
+auditory delusions of future  CCTV
+
+– Zoom Around Rainbow
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fzoom-around-rainbow%3Ffbclid%3DIwAR3hcf5Jp2St39Ogoad4UaGZZg-cAta4-2Hg-QefWOkbC5WhEiB4rstFCj8&h=AT2ytpmToYSZQn_dV9ROx6tS0Rq5I5_5_BhskAZl--yocsaZoxgO0rfCsIu2vs7Mq0oTcgybFTSZlD_o3nuqPPvqzPhs3d_BlvNuQAbKMSjqPGCVdW1oSrp_61cmFK0fd9MsEgU)[https://soundcloud.com/zoom-around-rainbow](https://soundcloud.com/zoom-around-rainbow)
+
+'Zoom Around Rainbow' has been described as "hardware rave dystopian" and "slower then glaciers, harder then ecological collapse" to set the scene of what he's all about.
+
+—- DJS:
+
+– artsclub DJs (artsclub)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fartsclubldn%3Ffbclid%3DIwAR386WuEvN40G__rVqYgsxEcc2dT2oKPkVnuqX_Xarjb529aaBdzLK6-SVE&h=AT37HtYTojMRbP5GSbfJpPQbfjTARgJx4EoICG0qJlfMC0zpugHvLojyq3w-1NeAO5_5C-GkEGm04FjUNu-0l2bqEV_kzU1lig--7GF5mvIxu_odHHdxeUSLQAW7IzYluV8t_GE)[https://soundcloud.com/artsclubldn](https://soundcloud.com/artsclubldn)
+
+artsclub is an organisation with a focus on bringing the creative community together. Their emphasis is to promote and showcase music and visual arts in all forms and guises – through parties, exhibitions, interviews and more.
+
+– Dr Pudding (A Mixed Bag Of Nuts)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mixcloud.com%2FThreadsRadio%2Fdr-pudding-29-jun-19%2F%3Ffbclid%3DIwAR0i-SZB9p9z-NBmxzGLuSTk4t3Jo-HMf3fuqN99R8iM2gaCdW_wPQ3SHLI&h=AT2gtfREDrhlKERH6U0YWpdMzJ5wMSq3_CRGCpg8CcHAXZWC1YgVh3_acX-7Sx-44HGzLW8XzGEwXxySPa4kJ4PQarUK5000MaawljkeJksrLrsB8D62KYR1qSPAIT14v2-7fQI)[https://www.mixcloud.com/ThreadsRadio/dr-pudding-29-jun-19/](https://www.mixcloud.com/ThreadsRadio/dr-pudding-29-jun-19/)
+
+Dr Pudding aka David Bryceland is a film composer, record producer, songwriter, musician and radio presenter. 
+
+Dipping into funk, soul, Afrobeat, Latin, psychedelia, soca and calypso; this will be as much a journey into the known and loved as well as the unknown and future classics.
+
+– Kaiisha b2b Felix Raman(Threads) 
+
+[](https://www.mixcloud.com/ThreadsRadio/kaiisha-23-apr-19/?fbclid=IwAR10cujH1MPte5XAK0SwfzOBlbYJqXNFyAKUntPb25Dq_VHPkFBbj7vihu8)[https://www.mixcloud.com/ThreadsRadio/kaiisha-23-apr-19/](https://www.mixcloud.com/ThreadsRadio/kaiisha-23-apr-19/)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.mixcloud.com%2FThreadsRadio%2F18-aug-19-the-last-shark-show-w-felix-raman%2F%3Ffbclid%3DIwAR27EmixGRtPeVAx2yHN7rGXgSrB84N9nSJu3wPC8SZ7KoFjRUFo4mjHaqg&h=AT37arFeWP1kshkazlzo6UxQdLmDXoeNP2fB6KoP99Cl3RzC2QBbpxQDE6lnYJXLORT-FT5J7pTqWri9dT_zvBS9EteiYyuPAZITRIJzfgftpL-wNSypJIf2lFRp-Y4vzf1gN08)[https://www.mixcloud.com/ThreadsRadio/18-aug-19-the-last-shark-show-w-felix-raman/](https://www.mixcloud.com/ThreadsRadio/18-aug-19-the-last-shark-show-w-felix-raman/)
+
+Threads Residents come together for a deconstructed bubblebath. Expect drums, your sisters favourite Reggaeton tune, and subs like thunder.  
+
+– Gap (Intl Winners) – USA
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fsoundsofgap%3Ffbclid%3DIwAR0R9EzPIG_7q4TepPM4406a5iEvDaroExoSRcaE4T0M67s85RKUGluv6i4&h=AT2euwDWIosiCPc1AitjN2wfk6UZZXqmFKtYVHEul7jpAwO3dhqQT7wi3Taklyvl6iKiQGxYyg7bYeVCiIONQ7Ylc_2Win62NW_5kqhiWkRrQ6M3hNTU7tEOpwlpRwk2lLtjXxQ)[https://soundcloud.com/soundsofgap](https://soundcloud.com/soundsofgap)
+
+From Brooklyn NYC, Gap produces experimental club music and is part of the Intl Winners collective and label. With releases spanning genres and styles, including a track on Loose Lips' 10th label compilation a couple years back, we're lucky to have him trekking over the Atlantic to join us for the 2nd year running!
+
+– Juggins (Loose Lips)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Floose-lips123%2Fjuggins-rinse-france-loose%3Ffbclid%3DIwAR0ccAuIspwyQfPDSlkkD_EO_EOZIK3Zse3803IGiVsLaiAJxX6XTuBMRQo&h=AT3UXObxHldPZCapyKZWo1DcW1oNB5a7SbzyYMPpVJbWQNUaFgB6joIQydDQRF8y2p54GR68YSpUQxfJ2gMwr8SpIhoF9CnoOknf_aNDqylbpiTUQcbAiXWC6I97MiR8jjhnCs8)[https://soundcloud.com/loose-lips123/juggins-rinse-france-loose](https://soundcloud.com/loose-lips123/juggins-rinse-france-loose)
+
+Loose Lips resident and co-founder, representing as always.
+
+– Neutral Territory (Loose Lips)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fthreadsradio%2Floose-lips-06-may-19%3Ffbclid%3DIwAR3JgSMgU5DHuVm0YnQemX2Go2QVAxDCMW8IKnld6o_aCM6JIwSkds1qBtA&h=AT35iI_X0y0ZYZpBEXJGX6XnztEKSRQDheUZrYIA_XiKTlivfVNaMZd1j0bT7uRKNMjgBK1iCu8Hiedh_hakx732FhSJHaO8ZIYsi4-eWSYvaFzOezDN5RPKh1iybXJtZ2Wi-FA)[https://soundcloud.com/threadsradio/loose-lips-06-may-19](https://soundcloud.com/threadsradio/loose-lips-06-may-19)
+
+Head of our editorial – [](http://www.loose-lips.co.uk/blog?fbclid=IwAR1TeWu7TYmA6xfiRJ9-RirtpUI69vmopakMEuHRhnufGvpEFo11J_ZZzFs)[http://www.loose-lips.co.uk/blog](http://www.loose-lips.co.uk/blog).
+
+– Medallion Man (Loose Lips/Threads)
+
+[](https://l.facebook.com/l.php?u=http%3A%2F%2Floose-lips.co.uk%2Fcrew%2Fmedallion-man%3Ffbclid%3DIwAR3u2hQy0BFBj2lhQUrUsMzLXQfJUM6a_3CJmWldNQLdq0spW-sQRZo--mQ&h=AT0c-ZDuqaFz_GaswTBxp4GEjj6xK0DAWYgdXoRhS5Xuq6aulzIeLIsyM1Hrn8H03rIneLzN629hZHDGbjiCFNqVcxMP5dkjKWH557Cp0KPSjUvqeHYibzyuT0qF0XdiY0uRwug)[http://loose-lips.co.uk/crew/medallion-man](http://loose-lips.co.uk/crew/medallion-man)
+
+Medallion Man is co-founder, resident, and the driving force behind Loose Lips. Since its launch in October 2014, he has directed its growth into a well-respected and ever-ambitious diverse musical platform, curating all events, label releases, charity work, mix series, radio shows and directing the blog's activities. His own DJing continues to blossom alongside the wider project, seeing him regularly DJ around the UK & Europe, gaining a reputation for eclecticism and intriguing mixing.
+
+– MLE (Rhythm Section) b2b Madison Willing (Slow Dance)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fcan_u_feel_ml3%2Fpanda-lassow-63-w-mle-red-light-radio-10-08-2019%3Ffbclid%3DIwAR1TNO5UlzCM5i0Dm4I3a-zfHZH297HMEHFO3tJHBg_amHnsOJhUmOIlc8E%23t%3D0%3A00&h=AT3kkG98iwoN4yGpEWhoE-fNgA64QGyGCbfSjTiDVyH3L6He_gq8_P6xZE0EULDuFfH123_zMBK2H-rZQRCN1pDqK1I1tvUlKSWhLccPbWK4IRHMIefBN6akc6AbMMMknkuG8BI)[https://soundcloud.com/can\_u\_feel\_ml3/panda-lassow-63-w-mle-red-light-radio-10-08-2019#t=0:00](https://soundcloud.com/can_u_feel_ml3/panda-lassow-63-w-mle-red-light-radio-10-08-2019#t=0:00)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fmadison-willing%3Ffbclid%3DIwAR1E7nORG4VyB1_WyB9MTmG71yCBkS-w1qNyAXyKtYIgnyS-XQZFYLu-fDM&h=AT3FpbOOuucGomkgt0sCGOW-1ZwpqajTqXfpnZmSNoZwodjrh2CmLrszzeJznSfoVYHHKjodKjrw0rD2CCOlfcBzrKffWkHltmOJDhHbhBBzens7l_9lCNZBsmHcufdW1FoWz-A)[https://soundcloud.com/madison-willing](https://soundcloud.com/madison-willing)
+
+A back to back a long time in the making. MLE is a Rhythm section resident, holding down radio shows on Noods and Worldwide FM. Madison Willing is a Film composer and producer. Expect eclecticism throughout. 
+
+—- EXHIBITIONS:
+
+– artsclub
+
+(see bio and link above)
+
+– Gritt
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fgritt_artist%2F%3Ffbclid%3DIwAR0H_RZ2AiAF7yuCnjocfDbDYP198Ua6cVtz3jLK8l69KRmWegWPkks48NU&h=AT15Hut5ejXDziTz2KhRKirTVoFfjzLzCvzR4cAUTqGxIH1l49GBid6hAXw41xL_yR8hBkHGzscoicJYVGOFqwypyZzQJCMqxb4B1GhdO_MCK_QdTVOwVQTQsg7rp-JfpBHihXE)[https://www.instagram.com/gritt\_artist/](https://www.instagram.com/gritt_artist/)
+
+Something is dragging your spirit away.
+
+– Ben Dresner-Reynolds & Lewis Bailey 
+
+– Matthew Alex Taylor 
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.matthewalextaylor.co.uk%2F%3Ffbclid%3DIwAR0JMTsuDil5hca75czJklSz5zZHsfhFfG7VCIXUAUfzmbWfDk29U6-f4sE&h=AT14n8TycY28UOS-QytnapOBZgJKDcb2yNpRn4tcojLbXid1XgL5nH-F-jXI5QOTWinsPvij111ZeJ6tsMwpntP_93vSkgoPnqNhvkxHvi3X6B64hilYJWxadQZufYFt_fYNB2M)[https://www.matthewalextaylor.co.uk/](https://www.matthewalextaylor.co.uk/)
+
+– Paul Nicholson (Number 3)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fnumber3__%3Ffbclid%3DIwAR0i-SZB9p9z-NBmxzGLuSTk4t3Jo-HMf3fuqN99R8iM2gaCdW_wPQ3SHLI&h=AT2vGJ2cnoIIUyD9N1PTS3ReIqcsoNydXB2U84EDUT0Oy8hs62bz3hBwZSQbTmK2ZSD-wRqVb5mi3KEu4BCb6eRmo9BB_IvTAXeg74netdtnJjOjj-5BVITpy4-2RUjFwPS84LQ)[https://www.instagram.com/number3\_\_](https://www.instagram.com/number3__)
+
+Paul Nicholson specialises in creating unique, distinctive logo designs, typography and graphic art. Musicians and record label clients include the likes of Aphex Twin, Andrew Weatherall, Global Communication, Internal Records, Locust, Marc Acardipane (The Mover / PCP), Mike Paradinas, Ministry of Sound, Orbital, Planet Mu, Roc Nation, Tom Middleton and Warp.
+
+– Scanone – ARCHIVE (A/V Album Screening)
+
+[](https://l.facebook.com/l.php?u=https%3A%2F%2Fsoundcloud.com%2Fscanone%3Ffbclid%3DIwAR1VeYZMa26IiCNRYSSeBb8ozrDIgpCo_BnbKaCJF5ohM_evexLiX6ZeuaQ&h=AT1IL0BU8w3Rdq7McaA_GRQ8r4eOPccmnkuTVk4QDHhBy7RFQqLGq1uOdnz9x_kAkWoO8N3xkt6vzW7OHJVCn26nNNaToXAq3wkjIcnR_un7AASHi2-K8y2Q_IQcarpVrW_Hhfg)[https://soundcloud.com/scanone](https://soundcloud.com/scanone)
+
+ARCHIVE, this collection of audio works, span across 10 years of Scanone's production, from 2001 to 2011.
+
+This body of experimental downtempo cinematic electronics is a collection of tracks that never made an official release, or those that were not ready at the time, or those that were not really designed for the dance floor. This A/V album screening brings to life this body of audio with a series of promo videos and visual content made by visual artists, directors and art collectives that Scanone knows or has worked with in some way over the years.
+
+—
+
+SEE YA DOWN THERE!
+
+Thanks to Benjamin Abraham for the wonderful artwork.
+
+—

@@ -23,20 +23,14 @@
 </script>
 
 <script lang="ts">
-  // Start: Local Imports
-  // Components
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import BlogPost from "$components/blog-post/BlogPost.svelte";
-
-  // Models
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import type { LoadInput } from "@sveltejs/kit";
-  // End: Local Imports
 
   export let blogs!: IBlog[];
   export let tag!: string;
-  // Start: Local component properties
 
   $: readableTag = convertToSentence(tag);
   /**
@@ -44,15 +38,8 @@
    */
   let metaData: Partial<IMetaTagProperties> = {
     title: `${convertToSentence(tag)} | Sveltekit`,
-    description:
-      "Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable project. (sveltekit, typescript, tailwindcss, postcss, husky, Storybook).",
-    url: `/tags/${tag}`,
-    keywords: [
-      "sveltekit",
-      "sveltekit starter",
-      "sveltekit starter users",
-      tag,
-    ],
+    description: "tags page",
+    keywords: [tag],
     searchUrl: `/tags/${tag}`,
   };
 
@@ -62,17 +49,10 @@
     .filter((blog) =>
       blog.title.toLowerCase().includes(searchValue.toLowerCase())
     );
-
-  // End: Local component properties
-
-  // Local Methods
 </script>
 
-<!-- Start: Header Tag -->
 <HeadTags {metaData} />
-<!-- End: Header Tag -->
 
-<!-- Start: Blog page section -->
 <div class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
   <h1
     class="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white"
@@ -111,9 +91,7 @@
       />
     </svg>
   </div>
-  <!-- End: Search blogs -->
 
-  <!-- Start: All the blogs section -->
   <h3
     class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
   >
@@ -127,6 +105,3 @@
     {/each}
   {/if}
 </div>
-<!-- End: All the blogs section -->
-
-<!-- End: Blog page section -->

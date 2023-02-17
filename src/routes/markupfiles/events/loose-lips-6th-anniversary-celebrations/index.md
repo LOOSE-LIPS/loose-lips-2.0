@@ -15,6 +15,4 @@ featured: false
 
 Since then, an ever-evolving family unit have worked their bloody socks off to showcase and share music that inspires us, both from within the collective and throughout the wider world. There has been no fixed sonic abode…instead, a ductile selection of tunes that reflects the passionate yet light-hearted take on life that draws together our crew.
 
-(https://www.facebook.com/events/726243411626899/)
-
 Over the coming days, we’re celebrating in style; with 4 streams, a 6-track free d/l label compilation and a brand new limited edition t-shirt drop! They’re all coming on different days so check out below for more details

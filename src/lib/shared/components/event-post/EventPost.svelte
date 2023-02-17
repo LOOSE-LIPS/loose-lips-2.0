@@ -1,24 +1,21 @@
 <script lang="ts">
-  import ExternalLink from "$ui/components/external-link/ExternalLink.svelte";
   import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
-
-  // Start: Local Imports
-  // Components
-
-  // Models
-
-  // End: Local Imports
-
-  // Start: Exported Properties
+  import { addToStore } from "$utils/add-to-store";
   /**
    * @type {IBlogPostSummary}
    */
   export let event!: IEventsCard;
-  // End: Exported Properties
 </script>
 
 {#if event && event?.slug}
-  <ExternalLink href={event.slug} ariaLabel={event.title}>
+  <a
+    on:click={(e) => {
+      addToStore(event);
+    }}
+    data-sveltekit:prefetch
+    href={`../markupfiles/events/${event.slug}`}
+    class="w-full"
+  >
     <div
       class="mb-4 hover:transition-shadow hover:shadow dark:hover:transition-shadow dark:hover:shadow-dark flex items-center border border-gray-200 dark:border-gray-800 rounded p-4"
     >
@@ -35,11 +32,11 @@
         >
           {event?.date}
         </p>
-        <!-- <img src={event?.banner} alt="" style="height: 26em;" /> -->
+        <img src={event?.banner} alt="" style="height: 26em;" />
         <p class="leading-5 text-gray-700 dark:text-gray-300 mt-5">
           {event?.description}
         </p>
       </div>
     </div>
-  </ExternalLink>
+  </a>
 {/if}

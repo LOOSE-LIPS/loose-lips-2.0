@@ -37,20 +37,6 @@
     description: "events page",
     keywords: ["events"],
   };
-
-  // EVENTS DATA
-  //   const events: IProjectCard[] = [
-  //     {
-  //       title: "Loose Lips presents: Sunil Sharpe, Cersy & Kortzer",
-  //       description:
-  //         "Loose Lips brings the legendary Irish turntablist Sunil Sharpe to an exciting new Manchester spot fitted with a beautiful Danley soundsystem. Supported by up and coming techno talent Cersy, and Loose Lips resident Kortzer.",
-  //       slug: "https://github.com/navneetsharmaui/sveltekit-starter",
-  //       img:
-  //         "https://imgproxy.ra.co/_/quality:66/w:1500/rt:fill/aHR0cHM6Ly9pbWFnZXMucmEuY28vODkxMjlmZGEzN2EzZjIxMDEwOTg1YzZiZmNmNjVjZDFlMGI1ZWIwYi5wbmc=",
-  //       icon: "",
-  //       date: "28/01/2023",
-  //     },
-  //   ];
 </script>
 
 <HeadTags {metaData} />

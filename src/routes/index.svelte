@@ -43,14 +43,10 @@
 </script>
 
 <HeadTags {metaData} />
-<LooseLipsBanner />
+<!-- <LooseLipsBanner /> -->
 
 <div class="w-[75%]">
   <FeaturedContent {posts} />
-  <h1 class="text-white">
-    ___________________________________________________________________________________________________________________________________________
-  </h1>
-
   <RecommendedPostsContainer {posts} />
   <EventsContainer {events} />
   <RecentPostsContainer {posts} />

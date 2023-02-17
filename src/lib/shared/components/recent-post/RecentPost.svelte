@@ -7,9 +7,6 @@
   const isIBlog = (x: IBlog | IEventsCard): x is IBlog => x.layout === "blog";
   const isIEventCard = (x: IEventsCard): x is IEventsCard =>
     x.layout === "event";
-  const handleClick = () => {
-    console.log("click");
-  };
 </script>
 
 <div class="mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5">
