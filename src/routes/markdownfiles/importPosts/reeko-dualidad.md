@@ -1,0 +1,55 @@
+---
+id: 1358
+date: '2020-12-15T00:00:00'
+title: REEKO – Dualidad - Loose Lips
+type: post
+slug: reeko-dualidad
+author: 31
+banner:
+  - ../../static/images/importPosts/reeko-dualidad/image1358.jpeg
+description: >-
+  Reeko&rsquo;s latest release on his own Mental disorder imprint is a work of
+  art. Rough and elegant in equal parts, Dualidad is a sonic exploration of the
+  evasive border where noise and music meet. It invites us on a deep, emotional
+  journey through the dark universe of our unconscious. So find yourself a
+  comfortable position, [...]Read More...
+published: true
+tags: []
+---
+Reeko’s latest release on his own Mental disorder imprint is a work of art. Rough and elegant in equal parts, Dualidad is a sonic exploration of the evasive border where noise and music meet. It invites us on a deep, emotional journey through the dark universe of our unconscious.
+
+So find yourself a comfortable position, [press play](https://reeko-mdisorder.bandcamp.com/album/dualidad), and close your eyes. A set of proper earphones is advisable to savour all the nuances that make this record. For the next almost two hours, just follow the music. As you breathe in slowly, feel the sounds filling your cells, lifting you up, and away from your body.
+
+Aboard Dualidad 1, you will probably feel some discomfort. This is absolutely normal. It’s the challenge of leaving a comfortable place where sounds are organised in a pleasant manner, and entering the noise stratosphere. Keep going. 
+
+Static crunches the first minutes of Dualidad 2 acting as a sort of frequency cleanser for the brain so when, mid-song, an ethereal choir of pads comes floating by, you too will feel the paradoxical lightness of your beings. We are now crossing galaxy nostalgia with it’s creamy clouds of hope pierced by comets of pain.
+
+The warriness of ambiguity builds up in Dualidad 3. What are we even looking for in here? What is this place?
+
+Alarms of self-doubt go off putting our adrenal glands to work. It’s Dualidad 4. A shot of adrenaline enters the bloodstream, your breathing accelerates, your heart races.
+
+Fight or flight?
+
+Just surrender: the danger will subside. Soon enough we’ll be navigating the soothing soundscapes of Dualidad 5. As the rhythm sways, we are rocked in our imaginary interstellar hammock with soft pads for cushioning. This delightful melody will be highly entrancing. For over a quarter of an hour, you are allowed to relax in abstraction.
+
+Beware of the internal dialogue that builds up in the background as Dualidad 6 unfolds. Your mind will want to enter the ego-game of trying to understand the distorted words as they appear closer than they actually are. Resist the temptation. Words and thoughts all happen in the same space where sounds also erratically appear. Expect nothing, and be amazed at how they all organise in a wavy pattern, only to crumble apart again. 
+
+In Dualidad 7, velocity increases. Travelling at warp speed, we feel the pulse of the universe pushing us forward. Can you feel the friction building up? That’s the invisible shield for your personal bubble. Are you in? Can you feel the beauty of life impossibly condensed in one single point, that is your existence, with all its duality?
+
+The divinity of our existence isn’t an easy concept to embody. As we grind through the hallway of buzzers in Dualidad 8, screaming that we go back to the safety of known unhappiness, do not look back. There is a way out. Trust me. 
+
+Dualiad 9 will ensue, inspiring and reassuring. Let the nurturing warmth of the star we’re circumnavigating hug you like a fluffy blanket on a cold spring night. Soak in the  transformative energy, and hold your breath. The harshest part of the journey is about to kick in in Dualidad 10 with a storm of terrifying high-pitched alarms urging us to brace for impact.
+
+The freefall down the back hole is suddenly halted by a parachute we didn’t even know we had. Did this journey really provide me with more tools, better tools to face the unknown? As we slowly descend with Dualidad 11, we feel the pressing question: where will we end up when we finally touchdown?
+
+There seem to be some ritualistic drumming patterns – can you hear it too? It’s confusing, with all the noises of Dualidad 12 compressing against our ears… These sounds are familiar… What is this?
+
+Oh. It seems we’re back on Earth, surrounded again by human sounds, people chatting nonsense, others walking, sirens rushing order into the chaos. The journey ends as does the last track of the LP, Dualidad 13, with the eerie realisation that all remains the same down here: dirty.
+
+The digital pack comes with an extra 16 minute (The) Trip, a bonus track that can be very useful to slowly return to your body, stretching and yawning as you regain control of your machine. When you’re ready, open your eyes.
+
+Can you see the beauty of the duality everywhere?
+
+&amp;amp;amp;amp;amp;amp;lt;a href=&#8221;https://reeko-mdisorder.bandcamp.com/album/dualidad&#8221;&amp;amp;amp;amp;amp;amp;gt;Dualidad by Reeko&amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;gt;
+
+_Reeko’s Dualidad was released on Nov 27, 2020 and it’s available through Mental Disorder’s Bandcamp._

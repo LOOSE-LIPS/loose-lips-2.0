@@ -1,0 +1,88 @@
+---
+id: 1142
+date: '2020-05-29T00:00:00'
+title: Syz - Loose Lips
+type: post
+slug: syz
+author: 69
+banner:
+  - ../../static/images/importPosts/syz/image1142.jpeg
+description: >-
+  &ldquo;It&rsquo;s All DIY, You Know?&rdquo; LL Speaks To Syz As co-founder of
+  multimedia collective&nbsp;Method Lab, Oli Samways has been throwing dances in
+  the basements and dark rooms of Bristol since 2015. Under
+  his&nbsp;Syz&nbsp;moniker, Oli&rsquo;s singular take on intricate UK techno
+  and unearthly bass music has seen physical release on fellow Bristol
+  imprints&nbsp;Pressure Dome&nbsp;and&nbsp;Only Ruins. On [...]Read More...
+published: true
+tags: []
+---
+### **_“It’s All DIY, You Know?”_ LL Speaks To Syz**
+
+![](/wp-content/uploads/live/img/wysiwyg/5ed16102b411b.jpeg)
+
+As co-founder of multimedia collective [Method Lab](https://soundcloud.com/method_lab), Oli Samways has been throwing dances in the basements and dark rooms of Bristol since 2015. Under his [Syz](https://soundcloud.com/syzuk) moniker, Oli’s singular take on intricate UK techno and unearthly bass music has seen physical release on fellow Bristol imprints [Pressure Dome](https://pressuredome.bandcamp.com) and [Only Ruins](https://onlyruinsmusic.bandcamp.com/). On new project _Mindforms,_ tropical botany meets ethereal cyberspace through a fusion of styles. Primed to let the listeners’ imagination roam the digital environment, its organic drums, airy landscapes, and speckled 303 action create a natural experience in themselves. **Jack Rayner** spoke to Oli from his current home in West Sussex.
+
+**_Mindforms_ is mostly comprised of beat-less tunes. How do you feel the challenge of making this kind of music differs from that of club tracks?**
+
+I enjoy writing the soundscapey stuff more; you can get more immersed in it. I think most producers (myself included) who write predominantly dance music do struggle with musicality sometimes. With beat-less stuff, the textures and sound design carry that along – I'll gather all the textures first and then the music will build itself around that.
+
+**In your case, do the textures still come first when you're writing club-focused stuff?**
+
+Yeah. One process that I have is to start with a few strange noise loops or little details, then the beats grow around that. There are many ways of approaching it – sometimes I'll just try to play chords first. I know next to nothing about theory but I know when something sounds good, so sometimes I'll start a track that way. It's good to switch it up, I think.
+
+**Was the combination of organic and digital textures on _Mindforms_ something that you aimed for deliberately, or did it just end up that way?**
+
+These tracks stemmed from when I was at uni. I had two modules that overlapped – one where I made a body of work that fell under a single concept, and another concerned with immersive environments, which involved composing for a 5.1 surround sound rig. I'm interested in ecology, weird myths and realms, and AI, and I'd just done a load of research about the combination of the three and how people think humans and AI will merge at some point. That's where the concept for _Mindforms_ came from – the idea of merging machines with biology. When I started gathering materials for this project, I was sampling YouTube videos of orcas, hippos, glaciers cracking… That's where a lot of the material came from: this idea of gathering sounds from the natural world through a computer. A lot of inspiration came from [Ray Kurzweil](https://en.wikipedia.org/wiki/Ray_Kurzweil), a futurist who thinks that humans will merge with AI at some point. That was the basis of this whole idea.
+
+**So you're looking forward to becoming half-robot?**
+
+Oh yeah mate, for sure. I'll become half a 303.
+
+**Sounds ideal.**
+
+All these concepts are quite far out, but it's really interesting.
+
+**On your recent mix for Pressure Dome, you played some field recordings from a trip to Sri Lanka. Have you included your own recordings on _Mindforms_ as well?**
+
+Yeah, some of the beat-less tracks contain the same recordings. Those were added fairly last-minute, because that was quite a recent trip. It's rewarding to include your own recordings, but a lot of the material still came from podcasts and YouTube.
+
+**It must be satisfying to translate your own experience into sound in that way.**
+
+Definitely. The whole idea of a soundscape is to immerse you in a different sort of space for a while, so it's great to be able to include my own experiences in that.
+
+**The progression of the tracks on _Mindforms_ is very coherent. Were they written in a single session?**
+
+The more soundscapey ones were made two years ago, but I never really found a home for them. There's been maybe 20 different versions of the title track – I try not to throw away ideas, and always attempt to make them evolve into something that finally clicks. It's nice to finally release a track that's morphed over a couple of years.
+
+**You're self-releasing _Mindforms,_ rather than putting it out on your own label Method Lab. What's the reasoning behind that?**
+
+We've got other plans for Method Lab – we're putting together a VA release at the moment. _Mindforms_ is a bit of a passion project, so I wanted to do it all DIY. I've learnt a lot in the process of making it, so this has become a test run for the Method Lab release. The VA will have a track from me, a track from [Ghostcell](https://ghostcellband.bandcamp.com/) who does all our artwork, another from Jimmy Decent who's the other co-founder, then perhaps a remix or another track from the extended family.
+
+**We're living in a profoundly strange time for dance music – how has lockdown affected your creative process?**
+
+You've just got to keep busy. It's quite rare to be given this amount of free time, particularly working in hospitality and events, so I've been able to focus on this project and get some music out that I wouldn't usually push to release. It's all DIY, you know? I'm starting to build a website with a friend, and getting to grips with stuff that I just didn't have time to before. I've completely switched up my creative practice, and tried to push myself into a different way of thinking.
+
+**Which artists are you particularly enjoying at the moment?**
+
+I say this every time, but Henry Greenleaf is extremely sick. I've got to shout out all of the Pressure Dome lot – Yushh and Mish are coming through with some really nice stuff. There's a lot of sick UKG coming out at the moment, and I'm loving [Holloway](https://www.discogs.com/artist/7261350-Holloway-5) and [Instinct Records](https://instinctrecs.bandcamp.com/), [Interplanetary Criminal](https://interplanetarycriminal.bandcamp.com/)… [Pugilist](https://pugilist.bandcamp.com/), [Realitycheck](https://soundcloud.com/realitycheck-4) and Em + Stav as well.
+
+**Lockdown's over, coronavirus is over, the clubs are back open, and you've got a headline slot at your favourite club. What are you opening with?**
+
+I'll probably go in all guns blazing with this absolute euphoric classic belter.
+
+**What's next?**
+
+After this release, I'm focusing on [Method Lab](https://soundcloud.com/method_lab) and preparing some music for that, as well as doing some more stuff with [Pressure Dome](https://pressuredome.bandcamp.com/). I've got a few more things bubbling, but nothing locked in yet.
+
+**Cheers Oli.**
+
+In anticipation of the release we've premiered the first track of the EP, _1E_, an acid tinted eco-ambient piece –
+
+Syz – _Mindforms_ EP.
+
+Out 01.06.2020 on limited 12" and digital – Pre-order: [](https://syzuk.bandcamp.com/album/mindforms)[https://syzuk.bandcamp.com/album/mindforms](https://syzuk.bandcamp.com/album/mindforms) 
+
+[](https://soundcloud.com/method_lab)[https://soundcloud.com/method\_lab](https://soundcloud.com/method_lab)  
+[](https://soundcloud.com/syzuk)[https://soundcloud.com/syzuk](https://soundcloud.com/syzuk)  
+[](https://www.facebook.com/METHODLABUK/)[https://www.facebook.com/METHODLABUK/](https://www.facebook.com/METHODLABUK/)

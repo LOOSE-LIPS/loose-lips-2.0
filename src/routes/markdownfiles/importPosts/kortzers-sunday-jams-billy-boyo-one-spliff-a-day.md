@@ -1,0 +1,20 @@
+---
+id: 807
+date: '2019-04-21T00:00:00'
+title: 'Kortzer''s Sunday Jams: Billy Boyo - One Spliff A Day - Loose Lips'
+type: post
+slug: kortzers-sunday-jams-billy-boyo-one-spliff-a-day
+author: 96
+banner:
+  - >-
+    ../../static/images/importPosts/kortzers-sunday-jams-billy-boyo-one-spliff-a-day/image807.jpeg
+description: >-
+  This weekend falls upon the date of the infamous 420 celebrations &amp; if
+  you&#39;re in Manchester well be celebrating today because well, we do things
+  differently here. I&#39;ve chosen Billy Boyo&#39;s &quot;One Spliff a
+  Day&quot;. The track is easily his most famous and he&#39;s arguably one of
+  the most well known child mcs to date. [...]Read More...
+published: true
+tags: []
+---
+This weekend falls upon the date of the infamous 420 celebrations & if you're in Manchester well be celebrating today because well, we do things differently here. I've chosen Billy Boyo's "One Spliff a Day". The track is easily his most famous and he's arguably one of the most well known child mcs to date. Little much was heard of him after the 80s & sadly Billy died in 2000. How ever your spending your bank holiday I hope you have a great time.

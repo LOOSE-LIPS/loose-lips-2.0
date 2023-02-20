@@ -1,0 +1,51 @@
+---
+id: 1209
+date: '2020-07-20T00:00:00'
+title: 'PICKS: Polo Lilli''s Panther Injections - Loose Lips'
+type: post
+slug: picks-polo-lillis-panther-injections
+author: 100
+banner:
+  - >-
+    ../../static/images/importPosts/picks-polo-lillis-panther-injections/image1209.jpeg
+description: >-
+  This week, we invite the twisted pop provocateur, Bristolian DJ and producer
+  Polo Lilli, fresh from the release of their transcendant breakbeat,
+  Pink-Floyd-on-pingers face-splash&nbsp;&#39;The Great Bootleg In The Sky&#39;
+  (out now on&nbsp;bandcamp). All Spotify-able tracks are gathered in&nbsp;this
+  playlist, take it away Prime Minister Polo&#8230; I like to think of a DJ set
+  as an [...]Read More...
+published: true
+tags: []
+---
+_This week, we invite the twisted pop provocateur, Bristolian DJ and producer Polo Lilli, fresh from the release of their transcendant breakbeat, Pink-Floyd-on-pingers face-splash 'The Great Bootleg In The Sky' (out now on [bandcamp](https://polo-lilli.bandcamp.com/track/the-great-bootleg-in-the-sky)__). All Spotify-able tracks are gathered in_ [_this playlist_](https://open.spotify.com/playlist/3tkgbZE4a7uPVmf6msm5zZ?si=emYXxG0YQG2IvfRMdqr_Ig)_, take it away Prime Minister Polo…_
+
+I like to think of a DJ set as an organic thing. Constantly shifting and changing and reacting to its environment. It can be anything from a flower, making slow, subtle movements to catch the sunlight, to a panther stalking its prey. Being a proud adopter of the panther school of mixing, I’ve collated a list of tracks that have the power to inject animalistic unpredictability into a set.
+
+There’s something inherently wild about the way Yazzus has programmed her drums on this track. The product of her work is a powerful weapon which carries out its duty with cold efficiency, whilst stylistic idiosyncrasies remind us that, whilst machine-like, this beast of a track still has a heart in its chest.
+
+<a href="http://djswisha.bandcamp.com/album/i-feel-it-activation-groove">I Feel It // Activation Groove by DJ SWISHA</a>
+
+Rules of sound design and composition are hardly being rewritten here. Nevertheless, Swisha has managed to do something unique. Carrying a vibe that is in equal parts playful and suspenseful, the track forms a forever building energy that never seems to break. Rather than being unpredictable in itself, it primes the moment, leaving open space for the DJs next move. Will they pounce, or retreat to the undergrowth to conserve energy for their next hunt?
+
+Like the sudden, short-lived blast of energy summoned by a big cat at the crucial final stage of a chase, There are certain tracks that are reserved only for the fleeting moment at which a set’s energy is at its very peak. Hooversound Recordings has cemented itself as purveyors of such things. This track from their second and most recent release sees Deft at full sprint; howling sirens make way for massive, galloping drums and driving bass, before everything falls away into lush vocal cuts and tribal drum work. The hunt is over, time to enjoy the kill.
+
+<a href="http://szns7n.bandcamp.com/album/no-respawns">NO RESPAWNS by Ship Sket</a>
+
+After the hunt the predator devours its prey. It’s gruesome, sure, but oddly fascinating. Ship Sket delivers guttural growls and an infectious stop-start rhythm in this inimitable contribution to SZNS7N’s outstanding library as part of their ‘NO RESPAWNS’ EP.
+
+This understated cut is pure stealth. House legend Maurice Fulton’s hypnotic rhythm acts as the concealing undergrowth, it’s effective, but every now and then it slips to reveal Suleiman’s chants, which gleam through like the cat’s eyes catching the moonlight. The track is from her latest album ‘_Si Bure_’, adding the Sheffield based artist/educator’s extremely impressive back catalog.
+
+<a href="http://svbkvlt.bandcamp.com/album/golem">Golem by 33EMYBW</a>
+
+The Shanghai based Svbkvlt label has become my go-to for experimentalism, that remains vaguely in the realm of club readiness, ever since I heard ZutZut’s amazing remix of ‘Golem’ by 33EMYBW. ‘冬⾍夏草’, from the same album, translates as Cordyceps Sinensis, which is a parasitic fungus that takes control of the brain functions of its host. A fitting name for a track that feels like a frantic push-and-pull, the synth acting as the struggling host, eventually succumbing to the relentless swarming drums.
+
+Sleep isn’t the most obvious of animal functions to consider when building a dance music set. But it’s nonetheless worth some thought. It is a time to recover from the trials of the day and rebuild energy for the next. In other words, this stunning ambient piece by the T4T LUV NRG co-founder provides the perfect opportunity to add texture to a set whilst giving your dancers space to reflect, breathe, and recuperate before your next strike.
+
+<a href="http://wavlength.bandcamp.com/album/speed-dial-002">SPEED DIAL 002 by Wav Length</a>
+
+Emotional dance music is hard to pull off, even more so when that emotion is anger. I discovered Bastiengoat’s Bandcamp fairly recently, and was faced with a hefty wall of instant purchaseworthy bangers, His music has since become a firm staple of my sets. Embrace this flip of Kelis’s classic and punctuate your mix with the most primal of expressive energy.
+
+Even those at the top of the food chain have the propensity to feel fear, and what better way to capture the feeling than music from an artist that self-describes his output as ‘nightmare dance music’. The forward momentum in this track is tangible. It feels like running, but the twisted bells and chaotic drum patterns leave the unsettling impression that this is not running towards, but away.
+
+Norfik has produced here what I like to call a ‘set ender’. In our panther analogy, it is the predator momentarily forgetting its primary roles and coming out of hiding to prance through the trees at sunset. Pure catharsis.

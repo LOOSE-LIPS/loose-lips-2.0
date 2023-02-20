@@ -1,0 +1,95 @@
+---
+id: 837
+date: '2019-05-22T00:00:00'
+title: MELT Antlanta - Loose Lips
+type: post
+slug: melt-antlanta-1
+author: 100
+banner:
+  - ../../static/images/importPosts/melt-antlanta-1/image837.jpeg
+description: >-
+  In hindsight of the Loose Lips showcase with MELT last weekend, we decided to
+  find out more about the Atlanta based collective. Introduce yourself and MELT,
+  how did it all start? Paolo: So I think my personal story and the story of
+  MELT are absolutely intertwined. Without getting into too much detail, I was
+  fortunate [...]Read More...
+published: true
+tags: []
+---
+In hindsight of the Loose Lips showcase with MELT last weekend, we decided to find out more about the Atlanta based collective.
+
+**Introduce yourself and MELT, how did it all start?**
+
+Paolo: So I think my personal story and the story of MELT are absolutely intertwined. Without getting into too much detail, I was fortunate enough to have spent most of my twenties and a good part of my thirties living overseas across Europe and Asia. I’ve also been more or less obsessed with house and techno music for my entire adult life. That combination of passion for music and experience living in multiple countries and continents meant that I was exposed to many different, wonderful visions of what dance music is; different interpretations of dance music culture, and many, many creative ideas around event production that stick with me to this day.  
+  
+After relocating back to Atlanta in 2014 and seeing how the scene in our city had evolved in my absence, I felt that, although we have an incredible amount of local talent and lots of people putting on great events every week, I wasn’t fully satisfied by the options on hand – neither as an attendee on the dance floor nor as a DJ or an artist looking for a platform to express myself creatively.
+
+This nagging urge to create something new, modelled after my vision of what music and events could be, steadily grew with time but I always felt I was missing the right partners or the right space to bring this vision to life. That all changed in mid-2018 when my good friend Tito Mazzetta told me about someone he had met who could assist us with finding the type of spaces we had been discussing for some time. Tito and I share very similar visions of music and event production, so once the opportunity presented itself we decided to quickly push things forward and that was the beginning of MELT.  
+  
+Since then, we’ve added two additional team members that have helped us get even closer to the original vision for MELT: Andrew Albarez and Carina Raye Moravek. Andrew is in charge of the space we’re currently using and makes a big contribution to operational aspects and production, while Carina is the one who handles all of the art curation for our events.
+
+Corey: The reasons Paolo mentions for what motivated him to embark on MELT were the very reasons I felt energised to support the effort; as he was moving back to Atlanta I simultaneously took hiatus to complete some personal goals… now that those goals have been met I feel I can more effectively and efficiently turn my attention back to music and giving back (more) to the city I call home thanks to extremely supportive friends. 
+
+Similarly to Paolo, my life and career path allowed me to spend a fair amount of time traveling and my record collection and perspective saw a lot of the benefits. Other than that, I’m not sure what more there is to say about me that anyone would care about. I play records with friends as often as I can and I really enjoy programming hardware sequencers on Friday nights.
+
+![](/wp-content/uploads/live/img/wysiwyg/5ce2a71e6dc14.jpg)  
+
+**Why Atlanta?**
+
+Paolo: Atlanta is home. It’s a city of transplants that’s constantly evolving. We have incredible talent and a passionate, supportive community around us. When I relocated back to Atlanta I made a commitment to stay here, so to me if there’s something I feel is missing, instead of complaining or being complacent or going to other cities to fill that void, I’d rather put my energy into building it here.
+
+**Your ethos (with MELT) is all about breaking down genre boundaries and bringing people from all walks of life together — can you elaborate?**
+
+Paolo: That’s right, the big vision behind MELT goes beyond parties or dance music. Our ultimate purpose is to try to spark the next evolution in the creative identity of our city. That probably sounds absurd and maybe conceited – the idea that we can accomplish this by throwing parties – but it’s based on this idea of cognitive friction, that by bringing together talented people of diverse creative and cultural backgrounds and encouraging them to challenge one another and connect with one another, you create opportunities for breakthrough creative innovation. So we try to incorporate different creative mediums in every event we do, whether it's visual art, fashion, dance, culinary arts, etc. And by reaching out to talented groups of people in these different fields, we hope to bring them and other people in their creative orbit together under one roof.  
+
+We don’t stop there however, the physical space we create has to be designed in a way that encourages people to connect and interact with each other. We want people to feel comfortable and at home at our events, so they can let their guard down and talk to the people around them. That means creating a space that’s comfortable and creating an experience that isn’t just about the music. There will always be multiple areas to explore, areas that are quiet for conversation, a dance floor that is laid out in a way that encourages movement and allows a connection with the artist. It also means sound that isn’t ear piercing, sound that is warm and enveloping and doesn’t fatigue the ears. And guess what, even though we say these events are not just about music, the details we focus on actually make it more enjoyable for those who _are_ there for the music too.   
+
+Ultimately, we want everyone to leave our events feeling inspired, thinking “damn, that was an awesome party”, regardless of what aspect of the event gets them there.
+
+**Have you faced challenges with doing this in Atlanta?**
+
+Paolo: I would say not so far… the biggest challenge was finding the right space and the right team. Now that we have those pieces together, everything seems to be falling into place. People are hungry for the experience we are trying to create and the feedback we’ve received has been unbelievably positive thus far.  
+
+![](/wp-content/uploads/live/img/wysiwyg/5ce2a75e7c197.jpg)
+
+**Are there any predominant genres in Atlanta at the moment?**
+
+Paolo: I guess within the dance music community, the predominant genres in Atlanta seem to be Soulful House and Afrobeat (thanks largely to the work of Kai Alce and the rest of the team behind House in the Park) and tech house / techno. Clearly, Atlanta is known for hip-hop and trap, so that’s obviously big and, as every other US market, EDM, rock, pop, etc. I think at the end of the day it really comes down to what people are exposed to, as far as mainstream music, Atlanta is like any other city and people listen to the music that’s accessible to them without having to dig for it. In terms of underground music, the same still applies. People listen to what they’re exposed to and in the underground scene that means tastes might be defined largely by the vision of a small group of people who organise events, play out regularly, etc.
+
+Corey: One of the great things about Atlanta is it’s diversity and the demand for diversity, I think you see this in the popularity of the festivals. I think this pretty much manifests in the local acts; whether you are into glitch, noise, lo fi, deep house, techno, whatever, the odds are good there’s something going on the city for you. Beyond that, Atlanta is a cultural hub for the south, so people travel for these events and festivals increasingly.
+
+**Best DJ you’ve ever seen in the city?**
+
+Paolo: That’s a tough one: I would say Mike Huckaby or Ron Trent, but there are local guys like Kai Alce, DJ Kemit and Cullen Cole who blow me away all the time.
+
+**Best live performer you’ve ever seen in the city?**
+
+Paolo: Also tough, maybe The Roots or Parliament.
+
+**Three spots any music fanatic should check out in the city?**
+
+Paolo: I would say Apache Cafe, The SoundTable and obviously Magic City.
+
+**If you could change one thing about the city’s musical “scene”, what would it be?**
+
+Paolo: I’d like to see less reliance on out of town “headliners”, more emphasis on our local talent  and more investment in production & venues.
+
+**How much influence does the city’s famous hip-hop culture have on other music?**  
+  
+Paolo: I'm probably not the right person to answer this question, but what I would say is this: Yes, we are known for hip-hop but I think that stems more from the fact that Atlanta is a hub (maybe THE hub) for black culture in America and hip-hop just happens to be more in demand from the mass market in our country. Hip-hop is one genre that originated in the black community but so did house, techno, funk, soul, jazz, blues, rock, etc… I don’t necessarily see much of an influence from hip-hop and trap in our house music (though there are some people incorporating it and one of my favorite local house DJs (Kemit) won a grammy for a hip-hop album). I do see a huge influence from other black music genres, particularly soul, afrobeat, funk, and jazz. So I think the better question is, since Atlanta is a major cultural center for the black community in America, what influence does that community have on other music genres in the city?
+
+Corey: It’s really interesting because I almost want to ask which famous hip-hop culture? Atlanta hasn’t always had monolithic sound when it comes to hip-hop, so if the question were more focused on trap music, well, Atlanta co opted that sound from Houston and Memphis more than anything. How that played out was cultural more than regional I would think.  In either event there’s no denying the impact trap music has had on popular music, but the history of how that has come to be is definitely a bigger story than the history of trap in Atlanta and to a degree does some disservice to history of Atlanta hip-hop before the sound we know today as trap.
+
+**Most influential party brand?**
+
+Paolo: Nowadays, I would say for me personally maybe Body & Soul NYC.
+
+**What’s your best joke?**
+
+Paolo: Hmm… Im terrible with jokes. Two DJs walk into a bar…
+
+[MELT – Facebook](https://m.facebook.com/meltcultureatl/?ref=bookmarks)
+
+[MELT – Instagram](https://instagram.com/melt_atlanta?igshid=dhsdl41hutau&fbclid=IwAR2iej55gGM2JoqpLTCMi3oAid6ANFc6EDsb43gcS2BerzpvarpGqXeLMJE)
+
+![](/wp-content/uploads/live/img/wysiwyg/5ce2a79273f38.jpg)

@@ -1,0 +1,36 @@
+---
+id: 1072
+date: '2020-04-11T00:00:00'
+title: 'Blackdown - ROLLAGE VOL. 4: THE HUNGER EP - Keysound recordings - Loose Lips'
+type: post
+slug: blackdown-rollage-vol-4-the-hunger-ep-keysound-recordings
+author: 164
+banner:
+  - >-
+    ../../static/images/importPosts/blackdown-rollage-vol-4-the-hunger-ep-keysound-recordings/image1072.jpeg
+description: >-
+  We gave our editor Will Soer 1 hour to listen too, and write a review on,
+  Blackdown&#39;s recent Hunger EP on legendary rugged bass music
+  label,&nbsp;Keysound Recordings. This is truly how his thoughts unfolded,
+  putting pen straight to paper&#8230; Right, new EP from the Blackdown, I have
+  precisely one hour to review this EP, let&rsquo;s [...]Read More...
+published: true
+tags: []
+---
+_We gave our editor Will Soer 1 hour to listen too, and write a review on, Blackdown's recent Hunger EP on legendary rugged bass music label,_ [_Keysound Recordings_](https://www.residentadvisor.net/record-label.aspx?id=3396)_._
+
+_This is truly how his thoughts unfolded, putting pen straight to paper…_
+
+Right, new EP from the Blackdown, I have precisely one hour to review this EP, let’s see what we make of this. 
+
+It starts off with rain, thunder and distant bass, a little confusing for me as it’s bright sunlight outside my flat and I’m munching on a box of raspberries, not quite appropriate for this heavy mood. But ooooh ok, the track has broken into a jog, the weather subsides to make way for tweeking synths, the water in the air has spread into a mild fog obscuring a voice in the distance. This new mood is hard to place, I actually had to pause the track at 3:00 to write this, partially because I was distracted by the red line under my ‘rasberries’ spelling, but mostly because I already feel like time and effort is needed to clarify what I think of this. It’s funny that the vocal states ‘I need to break the cycle’, as the kind of middling, uncertain feel that bothered me earlier in this track has mutated into something a lot more compelling, something with the frenetic, consistent transformations of a midcity… Jesus I must have spent a minute trying to remember the word I’m looking for, the madness of this track isn’t helping. Junction, that’s it, a midcity junction. I had to google ‘Piccadilly Circus’ to find that, Christ. ‘But now the information is there’, oh is it, Mr Blackdown? Are you promising that your EP will keep on spreading and convulsing and mutating? The rain slides back in, everything calms down, I’m excited to see what comes next.
+
+Now we’re into ‘The Hunger’. So this is essentially an extension of the ambient intro to the first track? I like this, in the space of 2 minutes there’s tension, fear and blues. Is that what he meant by the information is there, is the whole EP gonna involve interpolations of the same elements? That would be cool. This track definitely felt more beautiful, though I wonder if that’s because of the tension built up so far, aside from the gorgeous design of some of those horizontal richter scale skids. 
+
+Ok yeah I didn’t notice the full title of the first track, going back to the press release I realise that somehow track 5 – essentially a medley of the ep – has been placed at the start of my listening pile, so I’ve basically accidentally already listened to the whole ep, but not properly. No wonder I needed to pause! Oh well, it’s too late to go back now, besides it’s interesting that the EP made sense as a single track, highlighting the consistency of tempo and palette, the growth. This realisation happened during ‘The Cycle’, which is actually track 2, which previously translated into the medley section I found least exciting, but thankfully this track is only 3 minutes long, and that tension worked really well to prepare myself for a payoff last time, this would also be a great stall before a club night skids into peak time. 
+
+Now we are into ‘The Information’, and my what bouncey drums you have mr wolf. I imagine Blackdown as a wolf, lurking behind the decks ready to gobble up his transfixed, immobilised prey, raining neon spray over their heads. Ok maybe he’s half wolf, half man, all Necromancer. Even out of the context of the medley this still moves very fast, despite the calming consistency of the percussion. Like I said before, the tone is really intriguing. The press release describes the whole ep as ‘explorations of darkside 130bpm rollage’, reminding me of a facebook group description I once read of a pacey roller: a ‘Tune that feels like you’re getting rolled along with their inherent momentum. Absolutely no chuggers allowed; I don’t wanna be chugged, I wanna be rolled. No boppers either; too staccato. I want a smooth rolling experience.’ There are definitely some serious staccato bops in this track, but the fact that they don’t mess up the rolling experience is all the more impressive, this is pacey in the sense that it places you inside the head of an enormously powerful wolf, pacing up and down with a deep hunger. Ah fuck I’ve only got 13 minutes left, ONTO THE LAST TRACK (but also lovely lovely stuff here, well done Mr Blackdown).
+
+Ok ‘Headback Liftoff’. Oooft what a punch in the face!!! I was thinking that the last track could stand to be a little longer, this essentially acts as a climax for that track, all tooth and claw. (I realise how enormously inappropriate this metaphor is for the ep’s obviously sci-fi vibe, but it works alright; he was lurking in the forest on track 1 – actual track 1 – then he realised how hungry he was, then he snuck up on his prey and soothed them with some sweet talk, now he’s fucking eaten them). Lovely, very satisfying. You know what, I actually like the order that I listened to this ep in, it worked really well. ‘The Information’ is the only actual roller, up until that point the ep is growing in pace, and after that point this ain’t no roll no more, we’ve lost control and are hurtling through uneven terrain. But in saying that, the EP very much does what it says on the tin, abstractly exploring and evoking the feelings of rave rollage with style and panache. Rather than a score out of ten, I’d rate this ep BBW for Big Bad Wolf. 
+
+![](/wp-content/uploads/live/img/wysiwyg/5e921841bf13b.jpg)

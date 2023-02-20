@@ -1,0 +1,56 @@
+---
+id: 1093
+date: '2020-10-14T00:00:00'
+title: 'Editors'' Pick: PICKS - soul-funk-psych-rock Daytrip - Loose Lips'
+type: post
+slug: editors-pick-picks-soul-funk-psych-rock-daytrip
+author: 119
+banner:
+  - >-
+    ../../static/images/importPosts/editors-pick-picks-soul-funk-psych-rock-daytrip/image1093.jpeg
+description: >-
+  To be perfectly topical, this is (part of) my lockdown soundtrack of the
+  spring and summer. Lots of people have their quarantine playlists, but mine is
+  specifically sun-focused. I can&rsquo;t quite combine the act of lying in bed
+  on zoom all day with dark, dirgey music, it gets too bleak. So, we&rsquo;re
+  taking the happy [...]Read More...
+published: true
+tags: []
+---
+To be perfectly topical, this is (part of) my lockdown soundtrack of the spring and summer. Lots of people have their quarantine playlists, but mine is specifically sun-focused. I can’t quite combine the act of lying in bed on zoom all day with dark, dirgey music, it gets too bleak. So, we’re taking the happy train today. As a petite disclaimer, I don’t want to underplay the very harsh reality that this time serves for lots of people right now, who are out of work, or in front line jobs, or who are sick. I simply want to bring some tunes that **I** associate with the sun to allow us to see seasonal light at the end of the tunnel.
+
+I’m going to run through this in the loose format of a day, start to finish. I’m a big advocate for specifically searching for and listening to music that perfectly suits the situation you find yourself in. There are simply some songs that, just as they work better accompanied with the beaming joy of sunshine, also work better in the morning, maybe sat outside maybe with a cup of coffee, maybe a tea if that’s more your thing. You get the gist.
+
+\[Editor's note: we've gathered the tracks in [this here Spotify playlist](https://open.spotify.com/playlist/5AvW3TrpYXh9mt5T9IucpT?si=hzJqkRdhT6i7DWuoo83wNw), enjoy! Also hope you like the photo, I took it just outside Bristol, shortly before all of this kicked off.\]
+
+  
+Manhã means morning for all those not proficient in Portuguese, myself included. Very easy 70s jazz-funk to get you up and about. A lot of these songs fit within the category of 70s jazz-funk…its easy breezy summertime listening, what’s not to like?
+
+  
+This one seems a bit obvious- it is the, sort of, globally recognised song of the sun. However, that doesn’t mean it goes without playing, it’s popular for a reason. Think breakfast radio show… I promise it sounds better in the morning.
+
+  
+I only came across this band recently, but they’re known for more noise/art-rock styles, their track Heat Distraction is fairly recognisable, probably better known. This track however, is a lovely interlude on their debut album. I do feel like I’m on a bridge when I listen to it.
+
+  
+This is a wild, Madlib-esque loop-like disjointed guitar based glitchy jazz record that I really cannot stop playing. I thought was waaay older than it is when I first heard it, but it’s a 2016 release. Maybe more a testament to me not being a musicologist, but also to Parker’s nuts psychedelic soul jazz talents. Again, really good in the sun.
+
+  
+More 70s jazz but this time we have a Frenchman and an organ. Read in a Youtube comment on this track that it sounds like the soundtrack to a 60s/70s porno. If the shoe fits!
+
+  
+I’ve been taking a course on Arab music for university for the past 2 months, and our final project explores the discography of one of the multitude of genres that fit under the umbrella of Arab music. No doubt, I’m exploring Turkish and Iranian psychrock, and man… I’ve never been so thrillingly blown away by a sound. Worth exploring a LOT more- I’d recommend a google search for Andolu rock and Arabesk rock/pop for Turkey, and Kourosh Yaghmaei for the Iranian G.O.A.T.
+
+  
+More on love for the Persians. Holger Czukay, one of the founding members of Can, brought out this record in 1979, and it’s apparently touted as one of the milestones in the development of sampling technique. Apparently Brian Eno took inspiration for ‘ethnic’ splicing from this track specifically. Pretty cool!
+
+  
+I’m not sure why I prefer this version to the Alessi Brothers’ one. It feels a bit fuller I guess. Either way, I wish I was a seabird right about now.
+
+  
+This is my most played song of the moment… I recently had it pointed out to me that the next track by Ofege fits perfectly with it. Really lovely, end of the day kind of music. The sun hasn’t quite gone down, and you’re surrounded by the people you love.
+
+  
+Big huge shout to Paul Alade, the Ofege bassist who passed a couple of days ago. Much love over here. This really is one of those monumental tracks, you know the kinds of songs that are able to evoke any sort of non-specific happy nostalgia. I’ll close with this. It’s not going to be easy, in our current climate. Put this track on over of after dinner, and feel it! We all might be physically distant, but we can still keep each other close, right?
+
+That’s the end of the S/S 2020 soul-funk-psych-rock picks. Wash your hands, keep a safe distance, love each other. Yadda yadda yadda?

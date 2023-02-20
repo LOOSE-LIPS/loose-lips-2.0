@@ -1,0 +1,33 @@
+---
+id: 752
+date: '2019-02-11T00:00:00'
+title: Chris Mitchell - Shadow Wands - Loose Lips
+type: post
+slug: chris-mitchell-shadow-wands
+author: 43
+banner:
+  - ../../static/images/importPosts/chris-mitchell-shadow-wands/image752.jpeg
+description: >-
+  Shadow Wands encompasses a heavily synthesised and arpeggiated journey through
+  the darker sides of Chris Mitchell&#39;s mind, brought to life through the
+  famous 1980s American synthesiser, the Ensoniq ESQ1.&nbsp; &amp;amp;lt;a
+  href=&#8221;http://xcptmusic.bandcamp.com/album/xcptape02-shadow-wands&#8221;&amp;amp;gt;XCPTAPE02
+  | Shadow Wands by Chris Mitchell&amp;amp;lt;/a&amp;amp;gt; In Shadow Wands,
+  single notes dance in a sea of scales and an array of deftly-arranged
+  arpeggios, illustrating [...]Read More...
+published: true
+tags: []
+---
+[_Shadow Wands_](https://xcptmusic.bandcamp.com/album/xcptape02-shadow-wands) encompasses a heavily synthesised and arpeggiated journey through the darker sides of Chris Mitchell's mind, brought to life through the famous 1980s American synthesiser, the [Ensoniq ESQ1](http://www.vintagesynth.com/ensoniq/ens_esq1.php). 
+
+&amp;amp;lt;a href=&#8221;http://xcptmusic.bandcamp.com/album/xcptape02-shadow-wands&#8221;&amp;amp;gt;XCPTAPE02 | Shadow Wands by Chris Mitchell&amp;amp;lt;/a&amp;amp;gt;
+
+In _Shadow Wands_, single notes dance in a sea of scales and an array of deftly-arranged arpeggios, illustrating fluctuations in mental state and emotion through the medium of a beatless and airless vacuum. Spacious and sincere, the soundscapes Chris has created allow the listener to delve deep into the feelings and emotions portrayed, yet they also remain abstract enough for you to intimately transpose and explore those of which you’re feeling yourself. 
+
+The cassette album (which will also be made available digitally through [XCPT Music](https://xcptmusic.bandcamp.com/)) tells the story of the aftermath of an intense, mammoth session in the deep, dark thralls of heavy techno. The floating bliss in the opening track ‘Severing The Pain of Analysis’ portrays the shutting down of logical thought and surrender to the tribal instincts of the beat, which catapults the listener into euphoria after many, many hours of repetitive dance. 
+
+The ominous, resonating bass of ‘Undivided’, which reverberates around your head for hours after leaving the space to meander through the main bulk of the album in introspective bliss, scattered with confusingly paranoid, anxious blips. This bulk of the album presents real space to think and understand your feelings; hence, it is an emotive, deep listening experience and one best felt when given the proper time to sit down and appreciate. 
+
+Bringing the album to a close, ‘Prayers in Empty Street’ achieves equilibrium as the mind settles and bliss resumes. Before the final song, when that beat finally comes in, ready for the weekend. Of course, this narrative is my own, and far removed I imagine from that of Chris’, but I feel it fits the album well. If you like fat vintage synths, arpeggiators and interesting sounds which give you space to think and be present, I implore you to have a listen to _Shadow Wands_ and unfurl your own sonic journey.
+
+Chris Mitchell's _Shadow Wands_ is out now. The release is available as a digital download and cassette on [XCPT Music.](https://xcptmusic.bandcamp.com)

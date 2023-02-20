@@ -1,0 +1,249 @@
+---
+id: 1240
+date: '2020-08-22T00:00:00'
+title: DEAD INSIDE BUT IT'S OK - Loose Lips
+type: post
+slug: dead-inside-but-its-ok
+author: 100
+banner:
+  - ../../static/images/importPosts/dead-inside-but-its-ok/image1240.jpeg
+description: >-
+  Welcome to edition nine of Deep Cuts! At this point our monthly feature is
+  starting to mould into a real fucking thing, like really real. But back when
+  this idea, the thought of gathering lost souls from across the Loose Lips
+  universe to emote about music along a shared theme, back when this was still
+  [...]Read More...
+published: true
+tags: []
+---
+_**Welcome to edition nine of Deep Cuts! At this point our monthly feature is starting to mould into a real fucking thing, like really real. But back when this idea, the thought of gathering lost souls from across the Loose Lips universe to emote about music along a shared theme, back when this was still fresh, Julia Star gave it life. Completely misunderstanding my request, she went through the set of starter themes I had come up with and answered every single one. With this in mind, I asked her to suggest her own theme, and provide a starter article using only images (inspired by her fantastic, indistinguishable Instagram stories). This is the result, with the prompt question: 'What music connects with your integral issues?'**_ 
+
+_**Last month's theme was Connection, so if you want some groovey beats and stories of unity, that's your ticket. If you wanna get DEEP, then scroll on. As always, tracks from each contribution are gathered in this month's Deep Cuts mix embedded below, the mix's tracklist is at the end of the article, all Spotify-able tracks are in**_ [_**this playlist here**_](https://open.spotify.com/playlist/4fHI8A6ix1vAUw1UggW0rX?si=pI8urgfZQv237GJcgvhJHA) _**and the illustration comes from [Trav](https://www.backdownwarchild.co.uk/). Last month's theme was**_ [_**Connection**_](http://loose-lips.co.uk/blog/connection)_**.**_
+
+_**We hope you enjoy it, and of course love yourselves x**_
+
+**Julia Star**
+
+![](/wp-content/uploads/live/img/wysiwyg/5f3eb794b7ffa.png)
+
+![](/wp-content/uploads/live/img/wysiwyg/5f3eb755a1841.png)
+
+![](/wp-content/uploads/live/img/wysiwyg/5f3eb6e06782f.png)
+
+_Julia Star is a nextgen popstar who has run events at Rye Wax (hosting artists such as Don Sinini, who appears later in this month's article), her new video Notice Me is dope and out now,_ _this month's mix starts with one of her favourite tracks and features_ _a fresh Julia Star demo at 3:55._
+
+**Lazy Eyez**
+
+I’ve always appreciated Earl, as he ages and matures as a musician he’s become less afraid of being vulnerable and open about mental health. His exposure of his own depression is not only refreshing to hear but much needed in this modern hip hop scene.
+
+‘_When it’s harmful where you going and the part of you that know doesn’t give a f\*ck_’  
+I don’t believe I have ever really struggled with a real addiction, however I have definitely spent more time than was healthy under the influence of drugs. I can relate deeply to _Grief_'s \[1:32\] complex line about the feelings around moving deeper into depression and addiction, it hurts the most when you know what you’re doing is wrong and you can’t stop. It’s like you’ve lost a battle against yourself.
+
+Any chance to talk about music that touches me feels like an opportunity to express my love for Mac Miller. He is one of the greatest artists of our generation, his death has been the first celebrity death to really hit me and I know a lot of my friends feel the same, it’s an odd sensation to miss someone you never really knew.
+
+‘_I’ll do anything for a way out of my head_’
+
+This particular line has replayed itself in my thoughts since I first heard it. The desire to escape from yourself is certainly confusing, to feel trapped inside your own thoughts, fettered by your emotions. I know that for myself and many others it is this exact feeling that has led us to take drugs. On a personal note, I have found ways of getting out of my head which don’t involve drugs at all, making music and skating both allow me to feel liberated from myself. Hearing Mac say it made me realise it’s a natural feeling that many people are subjected to, we can deal with it how we choose.
+
+_The most recent album from Bristol-based rapper Lazy Eyez is a solid slice of honest, open hip hop. The chorus of opening single_ [_Icarus_](https://www.youtube.com/watch?v=sqX9-f93En0) _particularly hit Will; ‘My ‘rents loved me when I couldn’t love myself.’_
+
+**Sarah Kuhail**
+
+So, the first time I came across this song was in a live concert for Mina, and Terez, the lead singer had introduced the story behind it. It’s a traditional Tunisian song, an unrequited love story of a woman falling in love with a travelling trader who is getting married to someone else, so she asks her father to take her to the wedding, to dance and celebrate his love, but also to dance her sorrow and grief away. 
+
+Mina said they re-arranged the song into these sad harmonics as the original song was a bit more uplifting. It is this act of re-arrangement and the reasons behind it that made it especially distinctive for me. It carries multitudes of emotions, a lively deadness somehow – how strong you need to be to dance your sorrow away, how strong you need to be to let go and say it’s OK. 
+
+\*\* song description in the youtube link is a highly recommended read
+
+_Sarah is currently finishing off her Digital Culture and Society Dissertation at KCL, on the subject of hollogram tours. She missed the cut off for this month's mix but her banger shall not be denied._
+
+**Ifeoluwa (in conversation with Will Soer)**
+
+WS: So you sent me these ten tracks for the theme, I recognised a few from my teenage indie days of treating the NME as gospel, but the first one, _Pulmonary Archery_ by Alexisonfire-
+
+I: Wait wait wait wait… Alex is on fire… do you think it’s said that way? Because there’s actually a lot of controversy-
+
+WS: Oh no I’m just reading it off my screen, I’m not sure I ever heard about that band, I was never big on Emo.
+
+I: This is the first one I heard, when I was literally like nine-
+
+WS: Nine?!?! Wait, the first song?
+
+I: The first Emo song, we would have been in year 5… Do you remember Hot Topic?
+
+WS: I actually only moved to the UK aged 11 so I think I missed that.
+
+![](/wp-content/uploads/live/img/wysiwyg/5f3eb65580672.png)I: I don’t think they actually had any on the UK, but it was like the scene kid online store, that was when I first started getting into like Myspace and coding, by year 6 I had a page where music would play when you opened it and Hello Kitty stickers would flash in the background.
+
+WS: You coded the Kitties yourself???
+
+I: Yeah yeah yeah you would, it would be a very heated contest to have the most dramatic Myspace page.
+
+WS: That’s so neat, as Julia Star – who came up with this month’s theme – has a similar kinda cute-X-goth online vibe, it’s cool to see it manifest in different ways. Would you have seen the song on someone’s page?
+
+I: I think someone on Bebo might have mentioned it, or mentioned the whole Midwest kinda sound, as I was already into Jimmy Eat World at that point, so I was digging for music through youtube, trying to find other angsty music. I still listen to this Alexisonfire album every month.
+
+WS: Wow, that’s really impressive!
+
+I: Yeah all the songs I sent you, I’ve listened to them in the last week.
+
+WS: Wow. Do you have a certain kind of mood or time of day for listening to it?
+
+I: Yeah it’s almost like a mix of Nostalgic blues, mixed with, just, feels,
+
+WS: Hmmm
+
+I: Especially because now it’s such a weird transitional period for me now, as well,
+
+WS: Yeah lockdown life has reminded me of being a young teenager and like changing countries,
+
+I: Yeah, as much as I love Dance music, I only started really getting into it when I was 14, so I was already settled into being a teenager by then, rather when you’re like 10 or 11, you’re very confused and _really_ angsty, and you don’t really understand why.
+
+WS: Yeah, and like that’s when a lot of your grounding as a person happens, your wiring.
+
+I: Listening to this, I remember whatever was going on before, I got through it.
+
+WS: Yeah, being bullied is a weird mixture, at points you can be almost arrogant because you’re trying so hard to counter the other voices in your head, you have bits where you kinda feel like a superhero ‘it’s me against the world,’ I was really thinking that listening to the Alexisonfire and  tracks you shared, and even moreso on the Siouxie and the Banshees track \[16:15\], and that’s something that I still really look for, an idealistic edge to energetic music that plays into a kind of story of good against bad. \[Ifeoluwa's selection _On Dancefloors_ by Metronomy appears at 21:10\]
+
+[](https://www.instagram.com/ifeoluwa_1234/)
+
+[_Ifeoluwa_](https://www.instagram.com/ifeoluwa_1234/) _is an absolute hurricane of a DJ, perhaps the only selector to have dropped Britney Spears' Toxic at Corsica Studios, a frequent writer for publications varying from Vice to Wire magazine, and the founder of the inclusive DJ workshop organisation Intervention, alongside its new politically motivated reading group, the_ [_Liberation Studies Club_](https://www.eventbrite.co.uk/e/intervention-liberation-studies-book-club-tickets-116629376605)_, part 1 of which occurs on the 15th and 22nd of September!_ 
+
+Will Soer
+
+The first time I heard of Marina and the Diamonds was through the BBC Introducing podcast, the first time I downloaded a BBC podcast, aged 13. She said that she hoped that her track _Obsessions_ (which she was dropping as double a-side with _Mowgli’s Road_ on Valentine’s day) might strike a note for the lonely and broken hearted. She chuckled knowingly as she said it, interviewed by endlessly positive legend that is Huw Stephens. This was the beginning of the deepest journey I’ve ever had with any kind of artist, and it just started with liking the sound of those two songs. I think a Truman Capote quote is ideal here: '_Now a sound can start a dream; the noise of one car passing in the night can drop a hundred sleepers into the deep parts of themselves_.' I’ve had musical obsessions that help me pull myself together post-breakup (Frank Ocean, Phoebe Bridgers, 1010 Benja SL), but Marina helped pull me together when I was in a fucking whirlpool. My mum tried to describe it to a teacher of mine as radio static, a constant buzz that blocked everything. I’d been like this at certain points as a kid (_Numb_ by Linkin Park, funnily enough, reflected this when I was 8 or 9),    
+
+I only recently learned that _Obsessions_ wasn’t about a breakup, it’s about the affects of OCD and paranoia upon a relationship. I always assumed its lyrics about freaking out in the supermarket aisle over crackers were metaphorical, they’re not. I’ve never experienced OCD, and aged 13 I had deeeeefinitely not been in a relationship, but there was something about that track that just spoke to me, the emotional tension compressed and released in melodic bursts. More importantly, it was weird. _Mowgli’s Road_ was like properly properly weird, but what was actually weird was Marina, her voice her lyrics her songs, they weren’t simply Indie, they were weird. 
+
+So I was a fan! And an eager one at that, I pre-ordered her CD, and was SO excited when that week’s NME features a 9/10 review, a review that I cut out and blue tacked to my bedroom wall, next to the periodic table. I don’t remember opening the cd or any of that, but I still remember feeling just… amazing, fireworks in my chest, cycling with _Are You Satisfied_ in my earphones. Aged 15 I saw her live, and between songs she said that her music often attracts a certain kind of person, _Are You Satisfied_ in particular. When I wrote to her to thank her for her music, I didn’t tell her that I had been bullied, but it was obvious. She told me not to listen to mean things, she told me that bullies are filled with fear, that I would achieve more than any of them, she said these things because she knew that bullied kids internalise the bullying. I mean you know that they’re wrong and they’re just mean, but you don’t _know_ that they’re wrong, you wouldn’t bet on it.
+
+A couple of years ago I went to an event with my mum, where Marina was interviewed onstage by a writer and psychologist named Tanya Byron. That’s how where learned about Marina‘s OCD. At the end of the session there the writer picked questions from the crowd, someone asked about _Obsessions_, Marina shared her stories. The last question came from my mother. She actually wasn’t picked, a woman behind us was picked and said ‘I’ve been watching this woman \[Will’s mother\] frantically leaping up and down with her hand up, and I really want to know what she has to say.’ So the microphone was brought over to us, and Mum faced Marina, and said thank you. She said that you wrote to my child when he was being bullied and you told him things would be ok, and that meant so much to him. Byron interjected to say ‘aside from all the music, that is a mother saying thank you for looking after her son, that deserves a round of applause.’ She could see we were far off enough that we couldn’t clearly see Marina’s face, so she said ‘she’s crying, so you know.’ Thanks Marina, and thank you to all the women (and also Simon Amstell) who have taught me clear the static.
+
+_Will is Deep Cuts' Mama._ 
+
+**Ady Suleiman (in conversation with Will Soer)**
+
+This isn’t about the most difficult thing in my life, but there was a Cardi B record, and when that came out I was really like, oh, ok _that’s_ how she feels. I really related that to the girlfriend I was with, like Cardi B was chatting to me on her behalf, I remember when I heard that I felt like damn, that was so well put. I bet that speaks for a lot of women, I felt like she was talking about me.
+
+_Ady is a fantastic R'n'B singer, the snippet of conversation above occurred after Will [interviewed him](https://fault-magazine.com/2019/04/ady-suleimans-sunlight-an-in-depth-look/) for Fault Magazine._
+
+**Jack Hunter**
+
+This track \[23:53\], or rather, this whole album, is a significant stepping stone in my music listening experience. If anything was to resemble the darkest moments of my life, it would be characterized by the melancholic chaos that _The Underdark_ by Funeral Diner Orchestrates. I came to discover this band by accident via Spotify’s algorithm, when I was around sixteen of age – a time when reality and ego are intertwined, when despite our stubborn certainty that the two are mutually exclusive, they have not actualized as two separate entities,.
+
+It's a symbiotic blend of post-rock, skramz and hardcore, and it was the record that truly got me into skramz music, just after I was aware of what post-rock was, subsequently elevating my sense of consciousness. The release manages to marry two very specific concepts for me; the internal angst, self-hated and loathing I had for myself and my environment, and The Ethereal Endorphin captured by the freedom of release – an eternal bliss beyond this world. It’s felt within the dynamically ferocious and ethereal cacophony, with the brooding rumbling serenity of its meditated melodic counterparts, building repetitively before erupting into a devastating climax of its former self – unrelenting and immediate. Urgent and violent. A very profound dichotomy indeed, and a cornerstone of my existence. Truly a work unlike any other.
+
+_Jack DJs as_ [_Dog Eyes_](https://soundcloud.com/loose-lips123/loose-lips-mix-series-254-dogeyes)_, runs the_ [_Index Tapes_](https://soundcloud.com/indextapes) _imprint__, and acts as Loose Lips’ head of social media._
+
+**Don Sinini**
+
+A lot of the music I like is for escapism, so I’m not actually thinking about my integral issues. In the same way I see Don Sinini as separate my day to day problems in life. But I can say there are songs that capture the general mood of my mind, which is quite emotional, reflective and appreciative of nature. At the moment, these are some songs that put me in that sort of space, two of them are instrumentals:
+
+\[Don's selection _what's good_ appears at 27:00\]
+
+  
+[](https://soundcloud.com/sininigenie)
+
+[_Don Sinini_](https://soundcloud.com/sininigenie) _is an_ [_NTS host_](https://www.nts.live/shows/don-sinini) _and a fantastic modern Dancehall singer/producer, whose first official [interview](http://loose-lips.co.uk/blog/i-mean-the-ambiguous-quality-that-makes-someone-a-real-person-don-sininis-debut-interview) was with Loose Lips, two years ago. Check out his Love In The Dance EP on streaming services and his Sun, Sea & Sinini EPs on_ [_soundcloud_](https://soundcloud.com/sininigenie/sets/sun-sea-and-sinini)_, they're both fantastic._
+
+Lian Brooks 
+
+In the past when people have said they’re affected by celebrity deaths a part of me always felt like it seemed so disingenuous. Sure, you might feel some artificial connection to someone through admiring their work, but how can you be upset over someone you don’t truly know? Public personas often deviate from people’s personalities a lot, and impressions aren’t always accurate.
+
+But, surprise surprise, I 180’d on this stance when it came to Mac Miller’s passing in September 2018. I remember goosebumps as I read the news at a friend’s house, surprised at my own instinctive reaction. What really hit me about his death was how expected and inevitable it felt.
+
+While a lot of his songs mask dark themes with a catchy riff or experimental vocals, the depressing realities that he was struggling with are evident throughout his albums:
+
+_But me, I'm still trapped inside my head_
+
+_It kinda feel like it's a purgatory_
+
+_– The Star Room_, 2013
+
+_Ease the pain and the battle that's within me_
+
+_Sniff the same shit that got Whitney, the high heel depression_
+
+_– Rain,_ 2014
+
+_To everyone who sell me drugs:_
+
+_Don't mix it with that bullshit, I'm hopin' not to join the 27 Club_
+
+– Brand Name, 2015
+
+These are just a handful of examples, but listen to most of his songs and you’ll quickly unravel a common thread. Clearly drugs are a common theme on a lot of albums, but what really strikes me about Mac Miller’s own documented battle is that there was always this foreboding sense of certainty. None more clearer than on his posthumous song _Circles:_
+
+_Well, this is what it look like right before you fall_
+
+_– Circles,_ 2020 \[29:30\]
+
+He talks about feeling hopelessly stuck in a pattern, falling into old habits and struggling to find a sense of direction. It’s a sombre reminder of the inevitability of his early death, but that doesn’t make it any easier.
+
+This song holds so much significance to me because of the sheer admiration I have for him. I was so grateful to have this one last release, particularly at a time when he was carving out a new style of music for himself. Listening to _Circles_ will always feel bittersweet because of this, but I’m so glad we were allowed this final look into Mac Miller. In addition to being a beautiful final track, it’s a reminder that we’re all humans who often find ourselves caught in patterns.
+
+![](/wp-content/uploads/live/img/wysiwyg/5f3ea81404890.jpg)
+
+![](/wp-content/uploads/live/img/wysiwyg/5f3ea887b20db.jpg)
+
+_Lian does sketching (as above), writing, SEO optimisation and painting. Go check [her painting insta](https://www.instagram.com/brookspaintings/) she's great._
+
+**Sienna Smith**
+
+Probably an unpopular thing to say on a music blog but I don’t usually focus on the actual lyrics that much when I listen to a song, at least at first. I stumbled across ‘_Just Once_’ by Shura \[32:06\] on youtube whilst revising for some exams a couple of years ago. Around this time, I had been involved in an off and on dating disaster and the pre-chorus in this song really stuck out and resonated: _“If you get my name wrong I won’t get pissed off cause I wish I was somebody else.”_ I think the song as a whole encapsulates how hard it is settle and be calm (maybe ‘still’ is a better word) with the people in your life (whether that be friends, family or someone you are dating) if you can’t create that stillness and sense of peace within yourself. Something that many 20-somethings struggle with I know! Aside from the lyrics being quite poetic in my opinion, it is a pretty ethereal tune that manages to feel sad yet hopeful at the same time, I could listen to it over and over again and not get bored.
+
+_Sienna's job requires that she use a pseudonym._
+
+**Nana Fani-Kayode**
+
+Belonging, the issue at the centre of my maze. Many pathways, outer walls and passageways all leading back to the question at the centre; (one I only started to get asked when I moved from West Africa to the UK) _‘what kind of black person are you?’_ As a child living in Nigeria the question of my ethnicity and my culture were never separate or defined by constructed understandings of what it meant to be _‘really’_ black. I never really bothered to engage with it fully. To be black, to be anything, does not mean one thing, the Black American archetype – from which so many other archetypes are derived – does not tell the whole story.
+
+Not bothering doesn’t mean I’m not constantly irked by it, but my ability to shrug it off comes down to what my Mother calls _‘the cultural fabric that wove me’._ 
+
+One of the best things about music is its ability to connect you other experiences no matter how you choose to engage or wile out to it. By that token consuming a wide variety of forms can only ever be good for you. When I look around at my immediate community, I see this attitude, reflected back to me and moreover encouraged. I also see is a generational divide, my parents, uncles, aunts etc take a broader view when it comes to art, music, literature etc, an attitude which feels even more special given the world they grew up in. A time when constructions of _‘blackness’_ were so narrow, so rigid that they chose instead to be open. Concepts of _‘blackness’_ are still problematic but the field of vision is much wider, yet I still have to justify my blackness on both sides of the fence. So, this a homage, of sorts, to that spirit.
+
+My mother made music an integral part of our life in the same way her father had for her. She describes music being a central feature in her household alongside art, discussion, literature and on. He played music from Nigeria, Ghana, the Congo and beyond, Western classical, to jazz, the big bands and on. Names like Nat King Cole, Dinah Washington, Doris Day, Vera Lynn, Ray Charles, Nancy Wilson, Mozart, Louis Armstrong, Noel Coward were among the many dropped and descriptions of parties – a staple of Western Africa life – when bands had come play at their house, the line ups included Juju music masters King Sunny Ade and Ebenezer Obey and in amongst the crowd a young Fela Kuti still in his Afro Jazz phase, pre the military takeover that gave birth to his later sound and activism. My mother talks about in incidental terms, _‘it was just the way of things to look out, see the world and engage.’_ So, for my Grandfather, Dinah Washington with **‘September in the rain’** a tune he was really fond of, her voice is haunting and, to quote my Mother, ‘she _can almost manifest the rain through her singing’_. Dinah Washington is powerful, magical and her phrasing is perfect. There is a gentle epic quality in the vocal, throughout the track she charts the mood and movement of seasons as she muses over a past love connection. Two minutes and ten seconds of pure sweetness.
+
+From my Mother, the music of the Avant Garde of the1960s. I remember being young and being slightly puzzled by the Avant Garde sound makers, but I came around; so thankful I made it to the party. My Mother has a technical appreciation for music. When she talks about music she thinks about interplay inside compositions, effects of strings, the vocalists’ musical phrasing. She enjoys being challenged as much as she loves being sweetly serenaded and could wear out any dance floor. As a teenager she and brothers enjoyed the ideas about deconstruction. So, in homage to that a _John Cage_ composition titled **_‘26 Minutes, one point, 1,499 seconds for a string player’_** played by Cellist _Charlotte Moorman,_ it lasts one minute and thirty-five seconds but it’s pretty epic.
+
+Always feels like raw emotions being spewed out and it goes from nought to sixty in a matter of seconds. A dream to watch, she physically moves between the dry, crisp bass of the cello, the unsettling shrill of the whistle and the clang bang of the symbol with an eccentric elegance and clarity. I veer between love and frustration with John Cage, but I never get bored. What I love is the challenge to traditional ideas about composition, creating conversations and just being bold enough to break moulds. Also closer to home I wonder about what kind of conversations my mother et al would have had with my Grandfather; would his love of constructed melody be at odds with Cage’s discord.
+
+I have a patchy relationship with Jazz, not the abstract elements, some of the more commercial bits. I often feel it’s stuck in a time warp, but I continue to be lit up by this: **_‘Grazing in the grass’_** composed by _Philemon Hou_ and performed by _Hugh Masakela_ \[36:41\]. Undoubtably one of South Africa’s greatest exports, a world-famous jazz trumpeter and favourite of my Uncle. He recently reminded me of something that I try to hold central; if it makes you feel good, if it brings pleasure then engage. Even if it comes in an unexpected form it can lead to you to new musical discoveries and even gigs – I have to mention it; my Uncle seeing Ed Sheeran live in South Africa; Boss. Finding new music is still a joy for him, going digital does not seem to have halted his passion in any way and continues to add to his database. I chose **_‘Grazing in the grass’_** as his contribution to the conversation because he took a few of us to see _Masakela_ perform at The Barbican and this was the closing number. The contrasting elements in the track is where the beauty lies; the vocal version gives voice to a narrative about surviving by living off the land despite the lightness there is an undercurrent of hardship that brings, but the music is so sweet, almost euphoric. Besides having a clear jazz form, its fully funky. _Masakela’s_ trumpet flies through and above the rhythm, a masterpiece. Internationally speaking it is his best-known work but not his most complex but a good starting point to discover more about _Masakela_. Forever grateful to have seen him perform before he died.
+
+So, to _Bob Dylan_, in my family you cannot bypass _Bob Dylan_. My Father, Mother and Uncle all have a heart shaped Dylan imprint. He was their spirit animal of the sixties, loved by all three. It comes as no surprise to me that my Mother and Father love _Dylan_; they are children of a time when personal and geopolitics were not separate entities. They wore their politics on their sleeves, and listening to Dylan there was never a question of their _‘blackness’_ being at odds with any it. Mention Dylan to my Father and he will happily sing a couple of lines and drop a vignette. So, for my Father; **‘Blowin’ in the wind.’** I continue to love its raw power, no bells or whistles to shake its pure quality. It calls out the issues that are still at the forefront of modern discourse; injustice, freedom, inequality, environmental catastrophe. All in that distinctive raspy, lived in voice combined with three chords and a harmonica to amplify his truth. Watching him perform it is a joy, the understated minstrel singing his poetry with such sureness is intoxicating. It is easy to why his music endures.
+
+The last shout goes out to my Stepmother, a hurried conversation but I did pick up on the joy in her voice when I asked about music; R&B from the 1970s. This is one of the most soulful, funky and finest eras of the genre. So, I dedicate one of my favourites to her; purely because she did not get a chance to pick. **_‘Son of a preacher man’_** by _Aretha Franklin_, the Queen and never-ending Boss, not sure anyone will ever compare to her and nor should they try. This track is sumptuous, her voice soars, leading the listener through the narrative of young love. Beside the perfection in the musical arrangement I love the choral vocal structure, Aretha poses the question and she is met with a vocal response that amplifies the electricity between the two lovers. Boss.
+
+So back to the maze and the central question. There is no definitive for it, but its foundations are solid. Its pathways lead to a myriad of experiences making for a multi-textured fabric of which I am a legacy so whatever they are is what I am. 
+
+_Nana is our resident Sunday Jams writer. Go read em they're fuckin grand._
+
+Mix Tracklist:
+
+VELVETEARS – We All Wanna Die Sometimes
+
+Earl Sweatshirt – Grief
+
+Julia Star – \[demo\]
+
+The Eden Project – XO
+
+Marina & the Diamonds – Are You Satisfied?
+
+Cardi B – Be Careful
+
+Siouxsie and the Banshees – Spellbound (extended 12" version)
+
+Little Simz – Pressure (feat. Little Dragon)
+
+Metronomy – On Dancefloors
+
+Funeral Diner – Collapsing
+
+avril23 – What’s Good
+
+Mac Miller – Circles
+
+Shura – Just Once
+
+Hugh Masekela – Grazing In The Grass

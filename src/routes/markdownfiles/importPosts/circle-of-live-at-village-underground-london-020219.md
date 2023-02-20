@@ -1,0 +1,28 @@
+---
+id: 776
+date: '2019-03-08T00:00:00'
+title: 'Circle of Live @ Village Underground, London - 02/02/19 - Loose Lips'
+type: post
+slug: circle-of-live-at-village-underground-london-020219
+author: 61
+banner:
+  - >-
+    ../../static/images/importPosts/circle-of-live-at-village-underground-london-020219/image776.jpeg
+description: >-
+  I was indubitably lucky to witness the first ever Circle of Live performance
+  at Freerotation 2018, so was already acutely aware of the project&rsquo;s
+  organic wizardry. The 6 hours of collaborative spontaneity were a highlight of
+  the festival season, acting as the perfect end to another stunning Freero. The
+  initial performance included Dorisburg and Johanna [...]Read More...
+published: true
+tags: []
+---
+I was indubitably lucky to witness the first ever Circle of Live performance at Freerotation 2018, so was already acutely aware of the project’s organic wizardry. The 6 hours of collaborative spontaneity were a highlight of the festival season, acting as the perfect end to another stunning Freero. The initial performance included Dorisburg and Johanna Knutsson, however these two were not part of their show at Village Underground.
+
+The very essence of the performance is a machination of improvisation. As the members of “CoL” change for each performance, they also come and go throughout the set. There is no forced input, every sound is a thoughtful idea envisaged and set forth on the spot. With Sebastian Mullaert leading the ebb and flow of musical entropy, you cannot help but feel comfortable and assertive. Nothing is wrong and everything is permitted; the abstract open-endedness acts as a staunch reminder of the oft-mundane habitual order in dance music. Electronic music is nothing without its idiosyncrasies and imperfections.
+
+From the moment Mullaert started proceedings, the true emotion and inexorable force via machine love each member exuded was utterly palpable. Focusing initially on innovative ambience at a dawdling BPM, Steevio once again coaxed his ever-recognisable signature sound forth into the VU atmosphere; the acoustics intensifying each layer of his organic, unscripted modular synth work. As the spine-chilling sounds reverberated intensely around the venue, the unscripted drum work begins to filter in gradually, providing a base for all the foot-tappers present. As the BPM lifts and the chords become more erratic and disparate, the reticent power becomes apparent to all. As I looked around at my friends, or just adjacent punters undertaking the same transcendent experience as myself, all I could see were smiling faces radiating pure elation far and wide. The artistic synergy on stage affected all present simultaneously and uniquely, it was the exact same as their performance at Freerotation. An entire crowd fused together, being directly affected by the freeform relationship of musical emotion.
+
+Mathew Jonson turned up a decent way into the performance, but immediately transmitted his incomparable live impressions into the progressive freeform composition. As the musicians are encouraged to interject and withdraw as they please, the best way to experience this as a punter is to employ a similar method. Taking time to have a sit down/get a drink/go for a smoke is key to submitting to the fluidity of the performance. The rigidity of 4×4 dance sets can be uncomfortably banal and limited. CoL is the total antithesis, more comparable to a work of art which unequivocally deserves to be surveyed in an attempt to understand the skill and magic being conjured from thin air. Each cataclysmic crescendo takes a toll on the crowd, but not of the energy sapping kind. They instil you with crystal clear memory  and euphoria.
+
+This project has something for each category of music lover; the avid raver, budding live musician, aging composer and the youthful, sonically inexperienced soul. Having once again experienced this stunning live improvised collaboration under subtly different conditions, I intend to continue seeking out their shows. I cannot underplay the beauty the performances expel, regardless of location and lineup. VU was an extremely apt location for such a show, and assuming the rest are of equal quality then I believe their reputation will continue to skyrocket.

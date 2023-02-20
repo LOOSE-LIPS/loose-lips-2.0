@@ -15,7 +15,7 @@
       addToStore(post);
     }}
     data-sveltekit:prefetch
-    href={`../markupfiles/blogs/${post.slug}`}
+    href={`../markdownfiles/blogs/${post.slug}`}
     class="w-full"
   >
     <div class="flex flex-col md:flex-row justify-between">

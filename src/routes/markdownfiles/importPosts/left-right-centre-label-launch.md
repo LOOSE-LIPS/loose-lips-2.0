@@ -1,0 +1,86 @@
+---
+id: 1113
+date: '2020-05-09T00:00:00'
+title: 'Left, Right &amp; Centre label launch - Loose Lips'
+type: post
+slug: left-right-centre-label-launch
+author: 51
+banner:
+  - >-
+    ../../static/images/importPosts/left-right-centre-label-launch/image1113.jpeg
+description: >-
+  After two years of running mint parties and booking some of the most forward
+  thinking names the UK and beyond has to offer, Manchester based creatives
+  Wakil Ahmed and Connor Cooper take their brand &lsquo;Left Right &amp;
+  Centre&rsquo; on to a new chapter as a record label &#8211; with a 4 track VA
+  debut release [...]Read More...
+published: true
+tags: []
+---
+_After two years of running mint parties and booking some of the most forward thinking names the UK and beyond has to offer, Manchester based creatives Wakil Ahmed and Connor Cooper take their brand ‘Left Right & Centre’ on to a new chapter as a record label – with a 4 track VA debut release out on May 29th._ 
+
+ ![](/wp-content/uploads/live/img/wysiwyg/5eb7ff2379c7e.png)
+
+**What’s all this I’ve been hearing about the Macarena?**
+
+_Connor:_ It’s 103BPM, it’s an absolute banger, what more do you wanna know? I was at Dekmantel last year and Donato Dozzy was playing a 5-hour set, a DJ who is known for having one of the sickest record collections around. And he starts playing this slow chuggy tune with an echoey sample that rolls in and out. I turned to my mates and said “I’m sure this is the Macarena”. I get a dismayed look and get told to shut up as if to say it’s obviously not. It’s apparent that it was some sort of Macarena dub. It was a pretty lovely moment. From then on, it became sort of a challenge to find Macarena edits and Strange Riddims actually booked me for a 20 minute Macarena set at their 4th birthday event which was potentially one of the best moments I’ve had in the booth.
+
+Y**ou currently exist as a club brand in Manchester, has it been difficult to transition into a label during this pandemic?**
+
+_Connor:_ You can see it as a negative but there’s a lot of positives to take out of this situation. We both have our fingers in other pies in terms of working on different projects including running a radio station, DJing and working at music venues. I think the pandemic has allowed us to free up time, focus on it and allowed a natural progression. It’s given us more time to work on marketing and PR, so that’s definitely been beneficial to us. It will be interesting to see what happens after it’s released, how it’s received. I guess with it being our debut release, we have no point of reference, so we’ll have to adapt to the situation and that’s a challenge in itself – I feel like we’ve risen to the challenge and hopefully the outcome will be as we desire.
+
+_Wakil:_ 
+
+DJs not being able to play in clubs and us releasing club music is a tricky one. We started the label because club nights are there for a second and then they’re gone, so it's about doing something that has a lasting effect. By releasing music with this idea in mind, hopefully people will take the time to consume more music. I still see positivity for the future. 
+
+_Connor:_ It’s quite exciting to know that when we are allowed back in clubs the DJs will have a completely new and fresh batch of music. But to know that it will be reset and there are thousands of new tunes that will be getting their first plays in a club setting is quite exciting. 
+
+_Wakil:_ Also, during this time everyone’s outlook on radio is a positive attribute to this release because its something that we pride ourselves on and at the minute people have an extended attention span to what they had pre-Covid19. So right now, platforms such as radio and podcasts are thriving so it’s just about using the platforms you have.
+
+**Can you explain the decisions behind the label design and graphics?**
+
+_Wakil:_ The design work for the label is an extension of what we’ve been doing with the events. When I was studying graphic design, I would try to be versatile whilst keeping to the brief. It’s only since starting Left, Right and Centre that I’ve developed what I would call my own style. It takes influences from certain artists I’ve studied such as David Rudnick and Patrick Thomas. These are quite prominent designers, and the style is quite popular however I have tried to adapt it and make it my own. Funnily enough for this design we went back and forth a lot trying to finalise it. In the end my computer glitched out and I thought “that’s gonna bang”, so I screen shotted it and utilised the mistake and flipped it on itself. 
+
+**Talk to me about afterparties, who throws the best afters in Manchester?!**
+
+_Wakil:_ You know what, it’s usually the same crews at the afterparties anyway. You can’t really take ownership of the afterparties.
+
+_Connor:_ No bias here but, Limbo has been known for it. Whether it’s a Strange Riddims party or a Loose Lips party, Limbo is the place that gels it all together.
+
+![](/wp-content/uploads/live/img/wysiwyg/5eb7ff4da04f6.jpg)
+
+I**s there a certain ethos you’re looking to carry through with you as you start and develop this label?**
+
+_Connor:_ The initial phrase we used when we started throwing parties in 2018 was ‘UK Flavoured Bass and Techno workouts’. When it started, I wanted to stick to the UK sound but then with our third booking being the Australian Roza Terenzi I realised we shouldn’t limit ourselves – we should use it as a template which we can branch out from. If you look at the parties we’ve thrown and the artists we’ve hosted you can see it’s spiralled outwards. 
+
+_Wakil:_  As it has spiralled out, we’ve worked with artists who still reflect what that sound embodies, for example with Gqom: it’s thriving underground sounds from South Africa and it’s a reflection of everything we feel like UK Bass music culture represents. It has personality and character and that’s what we love about it. Whenever we have worked with these artists there has always been a reason to tie them back to what our main sound is. We’re not trying to reinvent the wheel and I don’t think there should be any pressure to, we just want to showcase some music and do something that has more longevity than running events.
+
+_Connor:_ We can draw inspiration from and look up to labels such as Timedance or Livity Sound but were just trying to do something what we know.
+
+![](/wp-content/uploads/live/img/wysiwyg/5eb7ff5e4cc5f.jpg)
+
+**Could you talk us through the artists in the VA and how you ended up selecting their productions for the release?**
+
+_Wakil:_ A lot it came about from previous relationships, when producing and writing my own music. A big part of being a producer is swapping and sharing unreleased music with others. Heritage and Delo are two artists that I’ve shared tunes with for a while, we actually used to have a Facebook group that had about 20 producers in. I used to be involved in a label called Bunk Audio and Josh Scott did a release on there so I’ve known him for a while from that.
+
+_Connor:_ James Henderson (Henzo) is one of the most exciting artists coming out of the Manchester scene right now, he definitely has a very distinctive style. He’s part of Strange Riddims that are really setting the bar high in terms of the boundaries that you can push when running a club night. Their sounds range from the smooth melodic hip hop of Rainy Miller to Dubstep influenced bass music from Anz – they really touch on some exciting stuff and Henzo’s music really embodies that. With regards to Wakil AKA Korzi, I knew his music before I knew him as a person which is bizarre but we went to university together and his name got thrown about a lot so it’s a pleasure to work alongside him on this project.
+
+**What’s your favourite recent club night?**
+
+_Wakil:_ Either Strange Riddims 4th birthday where you turned up in a bike helmet or Timedance at The White Hotel where I completely lost my mind.
+
+_Connor:_ Failed Units with Breakwave on a Thursday night at Soup Kitchen, unfortunately there wasn’t loads of people there but they did their own visuals and the music was so obscure but so fitting for that setting. Shout out to Danny Ruane. 
+
+**What can we expect from LR+C in 2020 and beyond?**
+
+_Connor:_ Our plans are to release this 4 track VA as a series of 3, so the next two outputs will follow suit. From there, we will focus on artists from Manchester and elsewhere. We want to continue to throw parties and showcase the sounds to the world but also have it in the club too. 
+
+_Wakil:_ When events start up again it’s going to be nice to have something that’s your own to bring to our events, whether its booking artists that have released music with us or actually playing music that has been released on our label, it’s about utilising what’s your own.
+
+![](/wp-content/uploads/live/img/wysiwyg/5eb7ff728c733.jpg)
+
+**I started on a question for Connor so I’ll end on one for Wakil. Can you talk me through #Pastagate?**
+
+Ok I’m not going to name names but it concerns a Manchester based DJ who’s name rhymes with furlough… I made a pasta bake in the afternoon, but I get home after work and there’s about a million people in my gaff… I get to the kitchen and there’s all these people in there and guess what? Pasta bake is gone. Anyway, it turns out it was said DJ, so I took to social media but got no response, that’s about it really, I’ve just been trying to get a response since! Hopefully I’ll get one someday.
+
+**Left, Right & Centre – V/A Vol.1 – 'Nothing Left To Say' \[LRC001\] is out 29****th** **May.**

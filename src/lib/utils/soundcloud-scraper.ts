@@ -2,7 +2,6 @@ export {};
 import express from "express";
 import SoundCloud from "soundcloud-scraper";
 import fs from "fs";
-import { stringify } from "querystring";
 const api = express();
 const host = "localhost";
 const PORT = 8080;
@@ -21,7 +20,7 @@ let urls = [
   "https://soundcloud.com/loose-lips123/loose-lips-mix-series-401-gravitational-effect",
 ];
 
-export async function getsoundCloudData(url) {
+export async function getsoundCloudData(url: any) {
   return client
     .getSongInfo(url)
     .then(async (song) => {
@@ -29,7 +28,7 @@ export async function getsoundCloudData(url) {
         id: song.id,
         title: song.title,
         description: song.description,
-        genre: song.genre,
+        tags: song.genre,
         photo: song.thumbnail,
         author: {
           name: song.author.name,
@@ -41,6 +40,7 @@ export async function getsoundCloudData(url) {
     })
     .catch(console.error);
 }
+
 let data = [];
 
 urls.forEach((url) => {
