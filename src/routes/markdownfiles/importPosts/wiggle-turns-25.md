@@ -1,0 +1,56 @@
+---
+id: 893
+date: '2019-07-23T00:00:00'
+title: Wiggle Turns 25! - Loose Lips
+type: post
+slug: wiggle-turns-25
+author: 137
+banner:
+  - ../../static/images/importPosts/wiggle-turns-25/image893.jpeg
+description: >-
+  The modern world seems so far detached from the 1990&rsquo;s, a decade which
+  to me is characterised by cheesy movies, painful dial-up internet and iconic
+  video-game consoles. It was a simpler time. The world was still reeling from
+  the fall of the Berlin Wall, Donald Trump was a mere casino tycoon flirting
+  with bankruptcy and [...]Read More...
+published: true
+tags: []
+---
+The modern world seems so far detached from the 1990’s, a decade which to me is characterised by cheesy movies, painful dial-up internet and iconic video-game consoles. It was a simpler time. The world was still reeling from the fall of the Berlin Wall, Donald Trump was a mere [casino tycoon](https://www.nytimes.com/1992/12/12/business/company-news-trump-s-plaza-hotel-bankruptcy-plan-approved.html?mtrref=undefined&gwh=432EFA29DD59D4F8BA053C5AE56F0B14&gwt=pay) flirting with bankruptcy and the social and artistic preludes of the 1980’s led to the emergence of global electronic music movements.
+
+Whilst some of these cultural exports have come and gone, others have remained ever present.  
+[Wiggle](https://www.facebook.com/wigglelondon/), founded in 1994, was propelled to stardom by its residents [Terry Francis](https://www.residentadvisor.net/dj/terryfrancis), [Nathan Coles](https://www.residentadvisor.net/dj/nathancoles), and [Eddie Richards](https://www.residentadvisor.net/dj/eddierichards). From London, it has pioneered the forefront of dance music ever since. The label is widely accredited for the [creation of tech-house](https://mixmag.net/read/wiggle-and-the-birth-of-tech-house-blog), as well as contributing to the development of [Fabric](https://www.fabriclondon.com/artist/view/terry-francis) from its inception in 1999 to its contemporary legendary status. 
+
+_Housey Doingz – Gobstopper_ \[WIG001, 1996\]
+
+_"There wasn't anything going on with the sound that we liked; we were looking for stuff with a groovy bassline, that had techno elements as well as a house swing. There were people playing it but there wasn't a night dedicated to it, that's why we started Wiggle” –  Nathan Coles_ [_(Mixmag, 2014)_](https://mixmag.net/read/wiggle-and-the-birth-of-tech-house-blog)_._ 
+
+After finding out about Wiggle’s [25 year anniversary release](https://soundcloud.com/wiggle-london/sets/wiggle-for-25-years), I realised I had selected one of my favourite tracks from the label for my residency [on Threads\*](https://threadsradio.com/minimal-with-meaney-vol-1/) that aired last week. [_Silverlining_](https://www.facebook.com/silverlining.dubs/) _– Pleasures & Treasures_ has been a favourite of mine for many years and was among a few tracks from Asad Rizvi in this mix.
+
+_Silverlining – Pleasures & Treasures_ \[WIG004, 1996\]
+
+In the blog related to my show, I referred to modern artists who are emulating the style of tech-house made famous at Wiggle parties during the 1990s. Of the selections in the recent episode, _Two Right Wrongans_ (Nathan Coles & Silverlining) – _System Error (1997)_ was the best example of this. With support from Petre Inspirescu & co at [Sunwaves](https://www.facebook.com/watch/?v=688133054911845) last year, the classic track’s success has led to a recent re-release on [Neotropic](https://www.phonicarecords.com/product/two-right-wrongans-system-error-pre-order-neotropiq/156177) and it continues to inspire artists to this day. 
+
+_“As a young adult, Wiggle was a massive inspiration musically the mixture between Detroit techno and Housier grooves was sublime and I enjoyed it on so many levels. To me, their parties really encapsulated the exciting underground London movement of the time” –_ [_Saytek (Fabric Blog, 2014)_](https://www.fabriclondon.com/blog/view/wiggle-for-20-years-a-storied-history-of-wiggle)_._
+
+It would be incorrect to assume that modern artists are emulating this quintessential 90’s tech-house sound out of nostalgia . That would imply there is a yearning for something that has become dated or no longer practiced. Whilst variants of tech-house sounding far detached from its underground origins have come to prominence, Wiggle has remained an unrelenting proponent of the inimitable minimal tech-house sound it was so instrumental in forging. 
+
+This influence is evident in artists who have later joined the scene, such as [East End Dubs](https://www.discogs.com/artist/3039433-East-End-Dubs), [Archie Hamilton](https://www.beatport.com/artist/archie-hamilton/124071) and [Michael James](https://www.beatport.com/artist/michael-james/109779). After a quarter of a century as the top dogs of tech-house, the unmistakeable style of Wiggle can be found at parties across the globe. 
+
+_“Ultimately though, any labelling of Terry's style is fairly pointless because what he does is what all the very best DJ's do. He blurs the lines between the past and the present to create the future and always plays from the heart. Crucially though, he does ft just that little bit better than almost anybody else” – (a quote from from Terry Francis’_ [_Resident Advisor Bio_](https://www.residentadvisor.net/dj/terryfrancis/biography)_)._
+
+Tomorrow’s vinyl release features heavyweights from across the tech-house scene with artistic links to Wiggle. The A-side features the deep and mystic _Corrie – Hidden Reaction,_ driven by its bouncing bassline, soothing plucked string samples, and tripped-out ambient soundscape. This is followed by _Dub Taylor – T2, (s_omewhat unsurprisingly) this is a dubby number, characterised by its combination of enchanting panned vocals, jazzy drum rolls, and sweeping filters. 
+
+The B-side opens with _Mihai Popoviciu – Flexing Muscles,_ a bumping throwback to the early days of Wiggle. The bouncing minimal bassline is fragmented by jumping high-hats, acid synth stabs and a vocal cut inspired by the sounds of the American Midwest. The vinyl release concludes with _Daniel Poli – Funny Valentine –_ combining a heavily compressed kick-drum bass melody with warm arpeggiated synths, and entrancing vocal loops. 
+
+The digital release exudes the same stylistic homage to the origins Wiggle, and only further emphasises what is so great about the label. For me, Wiggle is defined as a label by its ability to transcend time – with their trademark sound carrying as much clout today as it did over two decades ago. 
+
+Personal favourites include _Terry Francis – Get Over Yourself, Silverlining – Industry,_ and _Jay Tripwire – Zero Mustard._ Francis’ track features a dub-techno bass part, metallic blips and sweeps, evolving into a pulsating acid melody that is perfect for the after-hours. Meanwhile, Silverlining’s release embodies his signature use of bouncing bass parts, skipping hi-hats and mesmerising soundscape to convey mood. After featuring on the [20th anniversary release](http://www.fabriclondon.com/store/wiggle-for-20-years.html), Jay Tripwire’s return provides a deep and hypnotic track, with a rolling bass melody, ethereal blips and chilling sweeps. 
+
+This release reflects twenty five years of Wiggle as the true hegemon of tech-house. It is evident that they still remain as much as a powerhouse in terms of their ability to define the genre, shape musical discourse, and inspire future acts. What is perhaps most admirable is they done this whilst retaining the core artistic style and values that led to the emergence of the label so many years ago. 
+
+[Wiggle for 25 Years](https://soundcloud.com/wiggle-london/sets/wiggle-for-25-years)
+
+_Wiggle for 25 Years_ is out July 12th!
+
+Limited edition 4 Track Vinyl Sampler plus 18 track digital release.

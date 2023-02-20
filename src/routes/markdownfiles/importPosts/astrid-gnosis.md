@@ -1,0 +1,78 @@
+---
+id: 861
+date: '2019-06-15T00:00:00'
+title: Astrid Gnosis - Loose Lips
+type: post
+slug: astrid-gnosis
+author: 111
+banner:
+  - ../../static/images/importPosts/astrid-gnosis/image861.jpeg
+description: >-
+  Ahead of tonight&#39;s mad rave at FOLD in London, the inspiring,
+  nugabber-loving Astrid Gnosis answers some short, snappy questions, ahead of
+  her hybrid live set! https://www.facebook.com/events/1082849241922269/
+  https://www.residentadvisor.net/events/1264136 What can people expect on
+  Saturday? Punches in slo motion. Have you had always had Gnosis? How did
+  Astrid Gnosis first come about?&nbsp; It is my true name. [...]Read More...
+published: true
+tags: []
+---
+_Ahead of tonight's mad rave at FOLD in London, the inspiring, nugabber-loving [Astrid Gnosis](https://soundcloud.com/astridgnosis) answers some short, snappy questions, ahead of her hybrid live set!_
+
+_[](https://www.facebook.com/events/1082849241922269/)_[https://www.facebook.com/events/1082849241922269/](https://www.facebook.com/events/1082849241922269/)
+
+[](https://www.residentadvisor.net/events/1264136)[https://www.residentadvisor.net/events/1264136](https://www.residentadvisor.net/events/1264136)
+
+**What can people expect on Saturday?**
+
+Punches in slo motion.
+
+**Have you had always had Gnosis? How did Astrid Gnosis first come about?** 
+
+It is my true name. My mother named me Astrid. It’s a Viking name, means divine strength, I read somewhere, and I agree, I must have it to be here today writing, this, sentence. 
+
+Gnosis is a beautiful word. My family name has a lot of weight, I wanted a name that could grow with me and my music, so I changed it to Greek. I was studying Philosophy at the time, and I started writing music with ‘Gnosis’ as an idea, to connect with the unconscious. 
+
+Gnosis is used in Greek philosophy to refer to knowledge you get through experience. In many spiritual practices, Gnosis means a liberation, it leads to salvation from ignorance through a divine spark that frees humanity from the material world and connects us to oneness. For me, Gnosis relates to instinct and within it the beautiful dichotomy between our lust for life and our death drive. 
+
+**Favourite piece of furniture in your house?**
+
+My bed.
+
+**Can you give us an insight into what your ‘hybrid live set’ consists of?**
+
+I like to keep my options open, the energy is the most important for me.
+
+![](/wp-content/uploads/live/img/wysiwyg/5d0511f6246df.jpg)
+
+**What’s the biggest 'kick in the teeth' the music industry has given you?**
+
+I wouldn’t say that much, the industry hasn’t had a chance. I have my shit well tied with lawyers. 
+
+![](/wp-content/uploads/live/img/wysiwyg/5d05118cb9bb9.jpg)
+
+**Where was the first time you heard a gabber tune?**
+
+In the parking lot of Barraca, an iconic club in Valencia.
+
+**Sum up your perception of The Mover in 3 words.**
+
+A music legend.
+
+**How does this line-up compare musically to the sort of billings you usually find yourself performing on?** 
+
+Well Ive played around Europe with amazing artists, but musically I think this sort of night is lacking and much needed in London. 
+
+Rex Club in Paris for example offers residencies to local underground artists, London instead keeps shutting down clubs. London nightclubs are not always about the music…and when they are, they are about the big international acts, always after homogeneity and money. Venues don’t want to take risks, and that just puts London in behind.
+
+Its very rare to find a venue with a great sound system that opens doors for London artists that can play harder sounds so this is going to be a great night for the history books! 
+
+![](/wp-content/uploads/live/img/wysiwyg/5d0511d00abae.jpg)
+
+**And do you play many ‘free parties’?** 
+
+The only free parties I play at are in my studio.
+
+**Did the illegal rave scene play a big part in the evolution of your tastes and experiences to get you to where you are now?**
+
+I wouldn’t say they played a big part, the rave scene in Valencia where I grew up was a bit crusty tbh. I did go to my share of illegal raves, they were in beautiful locations, but Im more of a club kid. I like sharp haircuts, clean clothes and a good sound system.

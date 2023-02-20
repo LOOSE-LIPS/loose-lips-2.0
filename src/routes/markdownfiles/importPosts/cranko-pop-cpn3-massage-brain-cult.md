@@ -1,0 +1,32 @@
+---
+id: 773
+date: '2019-03-06T00:00:00'
+title: Cranko PoP - CPn3 (Massage Brain Cult) - Loose Lips
+type: post
+slug: cranko-pop-cpn3-massage-brain-cult
+author: 100
+banner:
+  - >-
+    ../../static/images/importPosts/cranko-pop-cpn3-massage-brain-cult/image773.jpeg
+description: >-
+  This is quite an accurate musical description of how it feels when you have
+  your feet striding in a soft ground dripping out of acid lava, encountering a
+  plethora of paradoxal emotions. From the Cranko PoP EP on Massage Brain Cult.
+  Out now on cassette and digital &#8211; Order:
+  https://massagebraincult.bandcamp.com/album/cranko-pop
+  https://soundcloud.com/cranko_pop https://soundcloud.com/thisnumber
+  https://soundcloud.com/massagebraincult [...]Read More...
+published: true
+tags: []
+---
+This is quite an accurate musical description of how it feels when you have your feet striding in a soft ground dripping out of acid lava, encountering a plethora of paradoxal emotions.
+
+From the [Cranko PoP](https://crankopop.bandcamp.com) EP on [Massage Brain Cult](https://massagebraincult.bandcamp.com).
+
+Out now on cassette and digital – Order: [https://massagebraincult.bandcamp.com/album/cranko-pop](https://massagebraincult.bandcamp.com/album/cranko-pop)
+
+[](https://soundcloud.com/cranko_pop?fbclid=IwAR3BypzAjy-qaakrCmeZ20x9dOVK0B0cnBd8NH0tUbjOni93KVmXTsuPM8I)[https://soundcloud.com/cranko\_pop](https://soundcloud.com/cranko_pop)
+
+[](https://soundcloud.com/thisnumber?fbclid=IwAR30DYFmlv-8B5oFsL3EsywTK0px60GIKh-VSxJXb1e3UovnPTz4p4cQ5RM)[https://soundcloud.com/thisnumber](https://soundcloud.com/thisnumber)
+
+[](https://soundcloud.com/massagebraincult?fbclid=IwAR34VYP_XOIJdDOcftLAk3HLydL52uZSIuN5eQ2BYs1gbviImbE4o0oz5QQ)[https://soundcloud.com/massagebraincult](https://soundcloud.com/massagebraincult)

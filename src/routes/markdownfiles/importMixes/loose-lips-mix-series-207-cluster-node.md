@@ -1,0 +1,27 @@
+---
+id: 3146
+date: '2019-03-21T10:17:10'
+title: Loose Lips Mix Series - 207 - Cluster Node - Loose Lips
+type: mix
+slug: loose-lips-mix-series-207-cluster-node
+author: 100
+banner:
+  - >-
+    ../../static/images/importMixes/loose-lips-mix-series-207-cluster-node/image3146.jpeg
+description: >-
+  A whole host of label treats from Clapton-based Cluster Node, released and
+  unreleased. https://www.residentadvisor.net/record-label.aspx?id=15608 You
+  don&#8217;t owe him anything! TRACKLIST: Undisclosed. [...]Read More...
+published: true
+firstTags:
+  - mix
+---
+A whole host of label treats from Clapton-based Cluster Node, released and unreleased.
+
+https://www.residentadvisor.net/record-label.aspx?id=15608
+
+You don’t owe him anything!
+
+TRACKLIST:
+
+Undisclosed.

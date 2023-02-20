@@ -1,0 +1,50 @@
+---
+id: 1282
+date: '2020-10-03T00:00:00'
+title: 'Record Store Days: Hope still lives at Rye Wax, London - Loose Lips'
+type: post
+slug: record-store-days-hope-still-lives-at-rye-wax-london
+author: 106
+banner:
+  - >-
+    ../../static/images/importPosts/record-store-days-hope-still-lives-at-rye-wax-london/image1282.jpeg
+description: >-
+  If this were any standard week of any standard year they&rsquo;d be peddling
+  vinyl, pouring liquor and hosting parties. Suffice to say, 2020 is anything
+  but standard.&nbsp; A dance music community hub in Peckham, South London, Rye
+  Wax is exactly the sort of place the UK desperately needs more of. A space
+  that gives opportunity [...]Read More...
+published: true
+tags: []
+---
+If this were any standard week of any standard year they’d be peddling vinyl, pouring liquor and hosting parties. Suffice to say, 2020 is anything but standard. 
+
+A dance music community hub in Peckham, South London, Rye Wax is exactly the sort of place the UK desperately needs more of. A space that gives opportunity to local up and coming crews. A venue headline guests regularly turn up at to play affordable and unannounced sets. A shop stocking carefully chosen cuts. A bar queue where musos and miscreants feel equally at home. It’s also exactly the sort of place that has been brought to its knees by the coronavirus pandemic and subsequent lockdowns. 
+
+Having lowered the proverbial (and literal) shutters back in March, neither record store nor event space has been able to reopen since. Government help under the furlough scheme was initially available, but the latest announcement from Chancellor Rishi Sunak paints a more worrying picture for the future. As of next month, financial support will be available to businesses crippled by enforced closures and capacity restrictions but only if they pay staff a minimum 55% of their wages, for no less than 1/3 of their regular hours. In short, operations that are unable to operate to half their usual level of business, because of deeply prohibitive regulations in place across the UK, will need to look elsewhere for assistance or disappear forever.
+
+The news was met with widespread anger and warnings of an imminent collapse to large swathes of the hospitality, events, culture and independent retail sectors. Downing Street’s response has simply been to reiterate there’s no going back to how things were before COVID-19 spewed chaos across the globe. Viewed in this light, the ‘New Normal’ packs a chilling resonance that’s void of empathy and understanding.
+
+![](/wp-content/uploads/live/img/wysiwyg/5f7b24ad74948.jpg)
+
+![](/wp-content/uploads/live/img/wysiwyg/5f7b24cb34432.jpg)
+
+_“The whole thing about viability of workplaces now just doesn’t fucking mean anything,”_ says Rye Wax’s Chris Watson when we speak. One half of DJ and production duo FYI, Chris alongside Chris Coupe, the pair have been working on a new album during lockdown, slated for release on Black Acre next year. He’s also a permanent fixture behind the record store counter, and has just come out of a meeting after hearing the worrying fate British businesses now face. _“They are even saying it’s not up to them which businesses are viable, so I guess it will just happen naturally. When people are unemployed in the hundreds of thousands.”_   
+While many record stores have reopened since shops resumed trading in summer, limits on the number of people allowed inside premises, concerns over viral transmission via album sleeves and shared headphones have had a detrimental impact on footfall. Some quickly pivoted to focus online, but for Rye Wax, located in a warehouse complex below neighbours CLF Arts Cafe and Bussey Building, the situation was more complicated. Front gates sealed, stock is effectively trapped in storage, just out of reach.
+
+_“With it all being locked away in that site we couldn’t even use our Discogs to sell,”_ Watson says, explaining the Rye Wax website had only just undergone a major redesign, and needed to be digitally restocked before orders could be taken online in that way. _“So we didn’t get on socials and say ‘we are still here’ because we didn’t have anything to hawk — no records, no booze, nothing. So we thought we might as well sit it out.”  
+_  
+_“It’s lucky that we are part of a bigger organisation, Bussey Building opened a lounge last year over the road which has been doing things \[during lockdown\]. So there has been activity around us which is important. I know a couple of record shops that are in locations on their own, and have now had to move places or completely close because they are reliant on themselves. But CLF Arts Cafe and Bussey do want us to work, so we are now formulating ideas on how that will happen. It might not be how it was, but we had a nice run,”_ he continues, before bursting into laughter. _“And we should have known it would take an infectious disease to bring down record shops for good. We should have seen it coming.”_ 
+
+![](/wp-content/uploads/live/img/wysiwyg/5f774c00ab624.jpg)
+
+Joking aside, the importance of things happening close to Rye Wax HQ can’t be understated. Visible signs of life are returning as the UK’s pandemic experience stretches into month eight, with no end on the horizon. Out of sight can easily mean out of mind, after all. In turn, this leads to increased feelings of isolation and despair. And remembering what we lost in the fire is also a two-way street. COVID-19 has been a collective trauma, the public has been emotionally, psychologically and physically battered by the crisis. We are exhausted, demoralised and desperate for any break in the clouds. The places we have attachments to, and communities we align with, are perhaps more important now than ever.
+
+_“Even though we haven’t asked, people have been getting in touch to see what they can do to help, so there is still that massive community there. Once things open up, those pockets will reform and new ideas can come from stuff,”_ replies Watson when asked if he feels it has been difficult to find positives between the virus and vibe, before explaining the need to rethink some aspects of the scene, regardless of the pandemic. _“The gig market was fucked in a lot of ways. Venues were being out-priced, and some parts were full of money and monied interests. This always leads to values being put in the wrong places. A lot of this year is a reaction to stuff that has been in the open for a while, and people have had a lot of time to think about it.”_ 
+
+_![](/wp-content/uploads/live/img/wysiwyg/5f7b24e87eba2.jpg)_  
+Our conversation moves to the numerous crowdfunding campaigns that have been set up to try and avoid widespread permanent closures. Institutions such as Glasgow’s Sub Club, Hope Works in Sheffield and Corsica Studios in London have called on regulars for financial aid. In the long run, this could impart new levels of ownership on fans, even if only emotional. And if punters effectively becoming stakeholders in their own community assets a more democratic approach to how spaces are used could be possible. _“So the Bundesliga system? Owned by the fans,”_ Watson quips through an audible smile. _“We have seen that, look at the rise in Patreon and Twitch usage outside of the normal remit. We haven’t done anything yet knowing the staff position, and also the position of our regulars. They weren’t spending £200 a time on records, they’d be looking for five good releases for £20, max. We didn’t want to go round asking people who are in the same circumstances we are in to help us out when we didn’t really have a plan on how to reopen. Because how can you plan?”_ 
+
+As the situation becomes more pressing this position may change, but as with so much right now, it’s a case of taking one day at a time. Whatever the outcome, for Rye Wax and every other ‘unviable’ on the map, the pandemic has been going on so long business as usual is now an oxymoron. As such, the situation may be less about rebuilding and more about building once the opportunity arises. We tentatively ask what this could mean for the crew. _“I mean, Rye Wax was set up at the peak of the nomadic small capacity venues,  these places that were a bit more out there and had to squeeze themselves in wherever they could. They often weren’t in the same place for very long,”_ says Watson, pointing to the resourcefulness that has long-defined a UK music scene terminally underfunded and undervalued by the establishment. 
+
+_“So if anything can come out of this, maybe longer term leases for places like us will be more possible if buildings in cities empty. You never know — it could get really shit and we’ll be raving on the 25th floor of the Gherkin. We’ll see… It’s a mad time, but we’re definitely not going to stop. I hope that’s the same for a lot of places. Many won’t look the same, but the people behind them are the same and they are the ones who keep things moving.”_

@@ -67,7 +67,7 @@ for (let i = 1; i < totalPages; i++) {
         );
         const yamlData = yaml.safeDump(data);
         fs.writeFileSync(
-          `../routes/markupfiles/importCrew/${profile.slug}.md`,
+          `../routes/markdownfiles/importCrew/${profile.slug}.md`,
           "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
         );
       });

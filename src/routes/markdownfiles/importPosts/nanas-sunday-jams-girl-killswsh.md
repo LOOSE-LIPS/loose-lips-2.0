@@ -1,0 +1,28 @@
+---
+id: 1277
+date: '2020-09-27T00:00:00'
+title: 'Nana’s Sunday Jams: Girl - Killswsh - Loose Lips'
+type: post
+slug: nanas-sunday-jams-girl-killswsh
+author: 125
+banner:
+  - >-
+    ../../static/images/importPosts/nanas-sunday-jams-girl-killswsh/image1277.jpeg
+description: >-
+  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
+  in&nbsp;this playlist. Yes Yes Yes Sunday Jammers. Greetings and endless
+  salutations. Feels like it&rsquo;s been a while, has it been the same for you?
+  So happy to be back penning stuff and getting the Sunday train back on the
+  tracks. Things I am [...]Read More...
+published: true
+tags: []
+---
+_Banner a_rtwork by the majestic [Trav](https://www.backdownwarchild.co.uk/), all of Nana's jams are gathered in__ [__this playlist__](https://open.spotify.com/playlist/12UoQ8ov5i6P8BIfm2lOjS?si=jarAn1CXSEuYB9vAxJidOg)__.__
+
+Yes Yes Yes Sunday Jammers. Greetings and endless salutations. Feels like it’s been a while, has it been the same for you? So happy to be back penning stuff and getting the Sunday train back on the tracks. Things I am recommending this week – besides musical morsels- is outdoor swimming; if you are hardy enough make it a lake, pond or reservoir and if it's warmer temperatures, go find an outdoor heated lido all guaranteed to keep you sane should a second lockdown really happen.
+
+This week’s musical offering comes from a new label that I have been bursting at the seams about for a little while now. At the helm is ex-Foreign Beggars frontman Pavan Mukhi. A few edits ago I spoke to Pavan about his first foray into running a label; Dented Records, during the early days of Foreign Beggars. He described a phrenetic and often challenging learning curve. The label became a touch point for UK Hip Hop acts looking for an outlet for their creativity, becoming home to big hitters such as Task Force, Ed Skrein, Stig of the Dump and many more. Fast forward a chunk of time and the creative ambitions have remained the same; create a pathway for the good stuff. Now working on his own solo project under the moniker PAV4N and running 4NCY, his new music label platform.
+
+4NCY (Foreign Currency) came about organically in all aspects, the artists, the creatives, the operational staff share ideals and objectives. That being the desire to showcase the talents of global underground artists by building a platform and network to give greater visibility and find pathways for musicians and visual artists. Some of the artists were on Pavan’s radar since his Foreign Beggars days, others have reached out and I imagine as time goes on and things become more settled, they will be actively headhunted. Whichever way they get on board is incidental, what’s more important is that they will be joining an outfit fiercely passionate about music and committed to artistry and growth. Exciting for any music fan. So, add 4NCY to your listening list.
+
+The artists are Killswsh made up of duo Adeus and Bangzy, the track gives its title to their debut album ‘Girl’ and it bangs. Stirring, sexy, affecting, mood inducing electropop that will move right through you. An excellent touch if you have need of something richer, a little bit darker but still holding pockets of sweetness. There's an R&B influence, a love of pop melody and tinges of rock, all wrapped up by expert production skills with a sense of a new wave to come. I love the icy, laid back captivating soulful vocal and against the sparse, sensual melody. Future R&B so beautifully redefined and captured. Love love loves. Get locked on to the rest of the album at [4ncurrency.com](http://4ncurrency.com) and while you’re there check out the growing catalogue. Time well spent on a Sunday.

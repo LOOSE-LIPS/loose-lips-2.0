@@ -1,0 +1,57 @@
+---
+id: 1192
+date: '2020-07-04T00:00:00'
+title: Tzusan - Loose Lips
+type: post
+slug: tzusan
+author: 7
+banner:
+  - ../../static/images/importPosts/tzusan/image1192.jpeg
+description: >-
+  &amp;amp;lt;a
+  href=&#8221;http://thisisnotpop.bandcamp.com/album/babau&#8221;&amp;amp;gt;BABAU
+  by Tzusan&amp;amp;lt;/a&amp;amp;gt; What have you been up to recently? Fuck
+  all, obviously. Nah I&#39;ve been keeping myself busy enough making beats for
+  the next album and a few other projects I&#39;ve got bubbling away with the
+  SKOOP family and beyond.&nbsp; What&rsquo;s the story behind the name
+  &ldquo;Tzusan&rdquo;? I get this one a lot [...]Read More...
+published: true
+tags: []
+---
+&amp;amp;lt;a href=&#8221;http://thisisnotpop.bandcamp.com/album/babau&#8221;&amp;amp;gt;BABAU by Tzusan&amp;amp;lt;/a&amp;amp;gt;
+
+**What have you been up to recently?**
+
+Fuck all, obviously. Nah I've been keeping myself busy enough making beats for the next album and a few other projects I've got bubbling away with the SKOOP family and beyond. 
+
+**What’s the story behind the name “Tzusan”?**
+
+I get this one a lot actually. Long story I suppose, to be brief I used to go by a similar alias and a good friend just started calling me Tzusan and it stuck.
+
+**Do you see your unapologetically DIY approach as an act of resistance within a corporatised music industry that promotes a uniform “high production” sound?**
+
+I wouldn't say it's an act of resistance per se, I just don't see it as a barrier. If I hadn't made the album in that shed it would be a completely different album. I think at the end of the day if you feel a compulsion to make any kind of art you can do it with literally anything available to you.
+
+One thing that infuriates me is when people think they can't do something just because their equipment isn't good enough, that's just accepting defeat before you even try in my opinion. Some of the most influential and iconic music of the modern era has been made without any of that shit in someones spare cupboard, just look at Burial or DJ Mujava as prime examples.
+
+**You’ve been known to collaborate with an impressive list of local underground talent—CMPND, MC Donimitsu, Kid Robotik, Papillon, Skillin, and Foula, to name a few. Can you talk about some of the artists in your crew, and how you met?**
+
+I met the CMPND guys through some connections with Yogocop Records down in Brighton and ended up going down for a week to link them and we were up til 6am every night in the studio drinking perry, there's still a bunch of unreleased collabs there which will hopefully see the light of day at some point. Donimitsu and I met when we did an event down in Leeds with our pals Loose Lips. Folk like Kid Robotik and CRPNTR I met through the Scottish scene but I've known most of the SKOOP family since I was in high school.
+
+**The tongue-in-cheek cover of 2017's [_Teriyaki Tape_](https://skoop.bandcamp.com/album/the-teriyaki-tape), also released on SKOOP, features a can of Tesco Everyday Value baked beans and a bottle of teriyaki sauce. The album also features several Japanese track titles. Is there anything in particular that made you gravitate towards Japan?**
+
+Nah not really, we decided to call it the Teriyaki Tape just because of one of CRPNTR's lines in the track Horse:
+
+"Lick residual Teriyaki from the fridge and then the napkin".
+
+**Your music and visuals seem to have a common thread of representing the gritty reality of working class Britain, in a punk manner reminiscent of [kitchen sink realism](https://en.wikipedia.org/wiki/Kitchen_sink_realism). Would you like to expand on any of the social politics that motivate your work?**
+
+Hmm that's a cool perspective… man, to be honest, I don't feel like a lot of my music is politically motivated but I suppose it creeps in haha. I will say this though, FUCK the Tories, FUCK the Monarchy and FUCK the po-lice. Saor Alba!
+
+**Your beats range from [mellow and smokey](https://www.youtube.com/watch?v=vrn6186WvXU) to [intense and raw](https://www.youtube.com/watch?v=GhtWGJ-19D8). Hypothetically, is there a drug of preference that you’d prefer listeners to be on when listening to your music?**
+
+Whatever floats your boat mate.
+
+**Can you tell us any other plans for SKOOP in the near future?**
+
+Oooft. I don't know where to start. The whole gang has so many projects in the pipeline. I'm working away on the follow up to Babau and producing a long overdue Teknique solo venture, we also have an array of EP's coming from the likes of PATA and Cleaverhype to name a few, not to mention some mythical collabs and a Post-humous release for our dearly departed friend Laigo (RIP) and that really is just the tip of the iceberg.

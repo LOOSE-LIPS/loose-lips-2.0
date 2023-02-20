@@ -65,7 +65,7 @@ for (let i = 1; i < totalPages; i++) {
         const markdownString = turndownService.turndown(event.content.rendered);
         const yamlData = yaml.safeDump(data);
         fs.writeFileSync(
-          `../routes/markupfiles/importEvents/${event.slug}.md`,
+          `../routes/markdownfiles/importEvents/${event.slug}.md`,
           "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
         );
       });

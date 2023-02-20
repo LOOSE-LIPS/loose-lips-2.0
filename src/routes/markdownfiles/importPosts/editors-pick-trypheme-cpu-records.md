@@ -1,0 +1,98 @@
+---
+id: 1039
+date: '2020-10-06T00:00:00'
+title: 'Editors'' Pick: Tryphème (CPU Records) - Loose Lips'
+type: post
+slug: editors-pick-trypheme-cpu-records
+author: 121
+banner:
+  - >-
+    ../../static/images/importPosts/editors-pick-trypheme-cpu-records/image1039.jpeg
+description: >-
+  It&rsquo;s rare in this day and age to experience music that is truly original
+  &#8211; seldom do I hear something that really manages to stimulate my senses
+  or spark sentiments in new ways. However, after seeing French electronic
+  artist Tryph&egrave;me&#39;s live performance in Manchester last Autumn, I was
+  left feeling overwhelmed, amazed and itching for [...]Read More...
+published: true
+tags: []
+---
+_It’s rare in this day and age to experience music that is truly original – seldom do I hear something that really manages to stimulate my senses or spark sentiments in new ways. However, after seeing French electronic artist Tryphème's live performance in Manchester last Autumn, I was left feeling overwhelmed, amazed and itching for more. I managed to catch up with her to ask a few questions on the performance._
+
+&amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=&#8221;http://shop.cpurecords.net/album/online-dating&#8221;&amp;amp;amp;amp;amp;amp;amp;amp;gt;Online Dating by Tryphème&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt;
+
+**You recently played in Manchester at the venue Yes. How did you find it?**
+
+I had a wonderful time. The promoters, the audience and the venue were very warm towards me.
+
+**Describe your musical experiences in Manchester in 3 words?**
+
+Bubbling Lava Lamp
+
+**What constitutes a Tryphème live set?** 
+
+For the live set in Manchester I used: a sound card, my computer, a Korg Radias, a controller, a MIC, egg shakers and a reverb pedal.
+
+**Tell us about the approach you take to playing live and what role improvisation takes in your sets?**
+
+There is not enough room for musical improvisation (other than voice and body improvisation) in my current set up, so I’m thinking about a more animated one… to be completely satisfied, and to fully spread this energy that I want to give, it would require me to play with musicians. It will happen at the right time.
+
+**What comes first, vocals or production?**
+
+Production always came first, and then, listening on repeat to the instrumental, I can clearly hear vocals. In my current live set up, I tried various combinations until I found an interesting story to tell, until the different pieces of the puzzle are able to communicate and come alive together.
+
+**If there was a fire in your studio and you could only save one piece of equipment, what would it be?**
+
+My external HDD maybe… but if this were to happen, I wouldn’t be sad as I would think this is fate and I will take the opportunity to change my life path.
+
+**Tell us a bit about your roots and if the places you’ve lived have affected your musical evolution?** 
+
+I’m from Triors, a tiny village in the south of France, where I lived until I was fifteen years old. I had a happy childhood, full of freedom; I was homeschooled, studying in the morning and spending the afternoon playing outside, living by the rhythm of the seasons, mentored by nature. I kept many sound memories from these adventures…
+
+![](https://lh4.googleusercontent.com/EQXc-_X85NKLFdEUB6qULabJRlweEweedCo7q732jFaEa-JEgZ09UZUoO-vrvLBGe4T7NIttplp_EYJTlgquw8mvwlj6s367zRDzRhgy4cl3wC7JRd7zfOG-ci71-Z303406RxG7)
+
+**Give us ten tracks that have shaped you as an artist?**
+
+Whenever I listen to these ten pieces, I experience an epiphany. Something happened to me between sixteen and nineteen, that period of time before I decided to start making music, I had a voracious musical appetite and I only wanted nourishment for the heart. These songs are a part of me, as a tattoo.
+
+CLAMS CASINO – numb
+
+ABSTRACKT KEAL AGRAM – petersbourg
+
+MEDIO MUTANTE – another land
+
+SEBASTIEN TELLIER – fingers of steel
+
+SALEM – snakes
+
+JOHN MAUS – believer
+
+FUCK BUTTONS – surf solar
+
+ANIMAL COLLECTIVE – for reverend green
+
+ROEDELIUS – pink, blue, amber
+
+THE BRIAN JONESTOWN MASSACRE – the devil may care
+
+**How would you describe your music to someone who has never heard of you?**
+
+An emotional labyrinth
+
+**Where do you get your inspirations from?** 
+
+I really need to be alone or to be surrounded by people (in a train for instance). Sometimes, I start something outside on ableton that I continue later in my home studio. Anyway, no matter where I am, there is always something which springs up and gives me inspiration: the place or the people influence what I do, changing the colours of my sounds.
+
+**In terms of creating a track, are there any particular familiarities, processes or habits you have in order to get ideas flowing?**
+
+The appetites come with eating! I like starting without knowing where I will go. I usually prefer the morning: I turn off my phone and the internet, I sip a good coffee.
+
+**We’ve been loving your 'Online Dating' release on CPU – how did it come about? And what’s behind the release name?**
+
+I was living in Lyon and I was unemployed after many odd jobs, thus I had time off to explore the city and make music. Throughout this unencumbered time, I welcomed many couch surfers from all over the world and they deeply inspired me.
+
+**If you could change one aspect of the electronic music industry, what would that be?**
+
+I think it’s a pity that Dj sets are often more focused on than live performances are. Also, as Fred Chichin from Rita Mitsouko said: _When it’s an emergency to make an album, it’s an emergency to not do it._
+
+&amp;amp;amp;amp;amp;amp;amp;amp;lt;a href=&#8221;http://shop.cpurecords.net/album/aluminia&#8221;&amp;amp;amp;amp;amp;amp;amp;amp;gt;Aluminia by Tryphème&amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;gt;

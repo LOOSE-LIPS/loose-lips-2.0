@@ -63,7 +63,7 @@ for (let i = 1; i < totalPages; i++) {
         const markdownString = turndownService.turndown(post.content.rendered);
         const yamlData = yaml.safeDump(data);
         fs.writeFileSync(
-          `../routes/markupfiles/posts/${post.slug}.md`,
+          `../routes/markdownfiles/importPosts/${post.slug}.md`,
           "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
         );
       });
