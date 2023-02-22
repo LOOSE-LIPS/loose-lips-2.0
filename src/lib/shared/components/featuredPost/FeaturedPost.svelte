@@ -22,14 +22,14 @@
   <div class="w-full  border-gray-100 dark:border-gray-800 h-[50%]">
     <a
       data-sveltekit:prefetch
-      href={`/blog/${currentPost.slug}`}
+      href={`/importPost/${currentPost.slug}`}
       class="w-full"
     >
       <div class="flex flex-col md:flex-row justify-between">
         <img src={currentPost.banner} alt="" class="w-[100%]  " />
 
         <h3
-          class="text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100 absolute"
+          class=" p-2.5 text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100 absolute"
         >
           {currentPost.title}
         </h3>

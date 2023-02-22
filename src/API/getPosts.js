@@ -22,8 +22,8 @@ for (let i = 1; i < totalPages; i++) {
         const imageData = post.yoast_head_json.og_image;
         let outputPaths = [];
         if (imageData) {
-          const directoryPath = `../../static/images/importPosts/${post.slug}`;
-          fs.mkdir(directoryPath, (err) => {
+          const imageDirectoryPath = `../../static/images/importPosts/${post.slug}`;
+          fs.mkdir(imageDirectoryPath, (err) => {
             if (err) console.error(err);
           });
 
@@ -59,13 +59,29 @@ for (let i = 1; i < totalPages; i++) {
           published: true,
           tags: post.tags,
         };
-        const turndownService = new TurndownService();
-        const markdownString = turndownService.turndown(post.content.rendered);
-        const yamlData = yaml.safeDump(data);
-        fs.writeFileSync(
-          `../routes/markdownfiles/importPosts/${post.slug}.md`,
-          "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
+        const turndownService = new TurndownService({
+          allowlist: [],
+          keep: false,
+        });
+
+        const markdownString = turndownService.turndown(
+          `${post.content.rendered}`
         );
+
+        const yamlData = yaml.safeDump(data);
+        const folderDirectory = `../routes/markdownfiles/importPosts/${post.slug}`;
+
+        const test = turndownService.turndown(`<h1>THIS IS A TEST</h1>`);
+
+        fs.mkdir(folderDirectory, (err) => {
+          if (err) console.error(err);
+          else {
+            fs.writeFileSync(
+              `../routes/markdownfiles/importPosts/${post.slug}/index.md`,
+              "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
+            );
+          }
+        });
       });
     });
 }

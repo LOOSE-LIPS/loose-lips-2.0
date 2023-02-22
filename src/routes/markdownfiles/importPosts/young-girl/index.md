@@ -1,0 +1,67 @@
+---
+id: 775
+date: "2019-03-08T00:00:00"
+title: Young Girl - Loose Lips
+type: post
+slug: young-girl
+author: 100
+banner:
+  - ../../static/images/importPosts/young-girl/image775.jpeg
+description: >-
+  In anticipation of Young Girl&#39;s forthcoming album A Marshmallow Called
+  Moon, here&#39;s a nice in-depth interview with the man behind the alias. How
+  has 2019 kicked off for you? I have literally zero complaints man, the
+  record&rsquo;s looking good, people seem keen. I&rsquo;ve shed a whole host of
+  shitty, stunted ideologies in the last 10 [...]Read More...
+published: true
+tags: []
+featured: true
+---
+
+In anticipation of Young Girl's forthcoming album _A Marshmallow Called Moon_, here's a nice in-depth interview with the man behind the alias.
+
+**How has 2019 kicked off for you?**
+
+I have literally zero complaints man, the record’s looking good, people seem keen. I’ve shed a whole host of shitty, stunted ideologies in the last 10 months or so and pulled myself out of the land of Cain and everything is supercharged with meaning now and people are looking at me different. So a great time to put out a new record I’d say! Especially one with a particularly silly naming convention like A Marshmallow Called Moon.
+
+**TruthTable is a new UK music label focusing on real analogue electronic music, beats, and modular excursions. Why did you decide to release the album on it?**
+
+I met David (Newman – Audiobulb) on an archaic IDM email list that’s still shockingly active. Anyways, he was keen after hearing the record, so that’s that. I’m real excited about being on a niche label, especially one from the exact right part of the world. Kind of makes me feel like a real person, if you know what I mean. I’m thinking TT might know people that actually like this kind of music, which is a pretty solid tactic I reckon. More solid than doing… Perth haha. Nah, I jest, I jest. I love Perth.
+
+**How was it working with them?**
+
+It’s been real good man, I’m pretty damn grateful about the whole thing. It’s nothing to take for granted that there’s a whole person that wants to help facilitate sharing your actual bones and veins with people. Usually I put my bones and veins out by myself and they sink into obscurity rather quickly. TT are on it I think, proactive, great branding. I love the other artists on the roster. The record that’s coming out after mine, the Talipes Vulgas one, is fucking mind blowing. And Aleksandr Tresorg is great too. Those Russians man, I don’t know what it is…. Solzhenitsyn, Dostoevsky, Nabokov. Poets and mystics and geniuses.
+
+**How does [TruthTable](http://www.truthtable.co.uk/) stand out, with its focus on real analogue electronic music?**
+
+I think that’s a question that’s still on the table – excuse the pun, jesus. I’m only the second release on the label, as far I’m concerned TT still has to prove itself. That’s what makes it so damn exciting. And I’m certain that the label will stand out, the quality of the two records come out either side of mine is really something else. As for the analogue thing, I actually don’t think it matters either way – it’s just that you need something that feels meaningful to you, and there’s something about the inherent limitations in analogue that helps to facilitate that. I think that’s the hook that makes it meaningful to David at TT, which makes him a better label head. My setup is hybrid – really, the important thing for me was that all I used was a small selection of hardware toys, some digital, some analogue. That limitation really sparked me up. I mean, once I plug the thing into the damn preamp, I don’t really care if it starts with electricity or numbers, as long as I get to play it like an instrument and it sounds cool to me. And then I can bury my head in Pro Tools and edit like a ninja forever. Kind of sacrilegious using PT for electronic production I think. Don’t worry, I use Ableton for the live set obviously (you’d have to be a damn madman to use Pro Tools in your live set! Flirting with disaster every moment).
+
+**Tell us a bit about the album, what is the story behind its title?**
+
+It’s a real light hearted affair, the playful, poppy area of that IDM and glitch. It’s a pop album essentially, albeit one without any vocals. Don’t ask me about the title man – the luxury of having no lyrics is that you name your tracks and album whatever the fuck you want to – and evidently I wanted to splice together food items and astronomical bodies. The weird thing is, it all feels perfect to me, like the silliness of it is kind of transcended by the feeling in the music, in a way. Kind of like the way that happens when a band with a silly gimmick and lyrical style behind it (I’m thinking of Gwar or The Presidents of the USA) put out a great album, the deep absurdity of the lyrics ends up weirdly transcended, it comes out profound and dark and deeply affecting. I’m getting that sense with this record, not that I’d like to claim any level of greatness or anything like that you understand – more that people seem to just understand the feeling of the track titles as soon as they hear the music, even though on paper that actually makes no sense. People love the album title, and so do I. It’s almost mythology, it came from somewhere below consciousness. Or maybe more like Freud haha. Now there’s a question – what are the Freudian significances of these track titles? What does Heliocentric Cheesecake say about my relationship with my mum? Is she the sun, or the cheesecake? I’ll have to ask her.
+
+**When you started working on the album, were you clear about creating an album, or did it happen along the way?**
+
+In my head, it was going to be an EP, kind of a non-serious stop gap while my juices re-filled after the two albums before. But the title track just poured out of me and I knew very quickly that this was going to be an album. Once I decide that, that’s the story – I keep working on it until it’s a finished album. I don’t change my mind – I think Michael Jordan used to say that, he’d make up his mind and never think about it again. That’s the way I am with making records. Not with anything else in life, just that. It’s the key to creating, switching off all of the buttons that stop you in your tracks. Which can be tough of course, specially when there’s no guarantee anyone is going to listen to or care about your works. But it’s the doing it that transforms your psyche, everything after that is bonus points.
+
+**Did you come upon any difficulties in the process of making the album?**
+
+I was living right on the edge of my capabilities making this record – that place where your nerves are alive and everything has meaning and everything feels numinous. That’s kind of a challenging place to live, but in a sense, it’s the easiest place to work from. There was no question of keeping myself motivated or hitting the wall or anything like that, it pretty much poured out of me. It was a delight start to finish. And I think it sounds like it as well. Actually, it suddenly occurs to me that that’s where the track titles come from – just a sense of delight, the way the stars and the sorbet give you that sense of delight.
+
+**As part of your career, you are also an old school record producer (amongst other things). How has that played a role in your journey as an electronic music producer?**
+
+All of the various musical malarkies I’m partaking in have a way of feeding into each other in the most unexpected and delightful ways. I’m recording bands, doing some live sound, I’m making solo pop records, playing in bands – it’s all part of this big, slippery, glorious musical splatter graph I’m living in. It keeps me lit up like an ol’ christmas tree. Actually, I think that’s what make Marshmallow stand from the crowd a bit – I’m an old school songwriter, so there’s a certain sense of purpose and structure in what I’m doing that you might accuse (some) electronic music of lacking (a little)…(maybe).
+
+**Which tracks from the album are your favourite, and why?**
+
+The title track is my fave I think. Mostly because it just surprised me when it happened. I had made two albums previous to this one, back to back, and I had kind of assumed that I would be out of dat juju. But I got bored, I really am not fond of being without a studio project to work on at all times, so I jumped on board and decided to make something really poppy and joyful – the polar opposite of the album before actually, which was oppressively dense and dark. I wasn’t really expecting it to work, and then this track poured out of me. It exceeded what I’d done before by a long way. I did a brutal radio edit just so I could put it out as the single – cut from the album version of more than seven minutes to 2 and a half. Now that’s editing! Lemon Horizon always gives me them tingles too. Bookends.
+
+**Lastly, what are your plans for the rest of 2019?**
+
+Well, I’m doing a launch show for this album in Perth in March – me and TT are talking about the next record, which is ready to go whenever we’re ready to put it out – maybe this year as well. I’ve got several other records in various genres either ready to go or deep in production now – and I think I’ll start working on the follow up to the follow up to Marshmallow pretty soon as well. Also, reading and thinking. I’m into CG Jung just now, that’s…. something else man. It’s turning my brain inside out, I love it. Funnily enough, that seems to be the key to being ready to make your next record – being a different enough person to who you were when you did the last one. For example, I was more or less straight up when I did Marshmallow Moon, but the album after that, I was cooked up on Antidepressants, riding dat Z train, the big Z, Captain Zoloft. And because of that, I was able to start work on that pretty much as soon as I finished Moon, because my brain was different enough to what it was before to have something new to say. Structurally different in this instance. And I’m an entirely different person to who I was a year ago, so…
+
+Young Girl – _A Marshmallow Called Moon_ will be out on 13.03 on [TruthTable](https://truthtable.bandcamp.com/).  
+[https://younggirl.bandcamp.com/album/a-marshmallow-called-moon](https://younggirl.bandcamp.com/album/a-marshmallow-called-moon)
+
+Check our premiere of the title track:  
+[http://loose-lips.co.uk/blog/young-girl-a-marshmallow-called-moon-tt002](http://loose-lips.co.uk/blog/young-girl-a-marshmallow-called-moon-tt002)

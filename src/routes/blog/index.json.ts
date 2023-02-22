@@ -9,7 +9,7 @@ export async function get({
   query: URLSearchParams;
 }): Promise<Partial<{ body: IBlog[]; status: number }>> {
   const modules = import.meta.glob(
-    "../markdownfiles/blogs/**/index.{md,svx,svelte.md}"
+    "../markdownfiles/importPosts/**/index.{md,svx,svelte.md}"
   );
 
   const postPromises = [];

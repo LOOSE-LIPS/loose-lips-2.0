@@ -1,0 +1,19 @@
+---
+id: '834768859'
+date: '2020-06-07T21:26:00'
+title: Loose Lips Mix Series - 282 - Le Vancho - Loose Lips
+type: mix
+slug: loose-lips-mix-series-282-le-vancho
+author: 100
+banner:
+  - >-
+    ../../static/images/importMixes/loose-lips-mix-series-282-le-vancho/image3220.jpeg
+description: >-
+  We welcome Georgian DJ and producer Le Vancho, on this 282nd mix! He&#8217;s
+  cooked us up a smooth and elegant 62&#8242; hybrid set, floating in-between
+  deep shades of Techno, House, Breakbeat and Electro. Enjoy! @le-vancho Le
+  Vancho, aka Levan Katamadze, is a Live performer and DJ/Producer from Tbilisi,
+  Georgia, who started out his musical journey [...]Read More...
+published: true
+tags: Hybrid
+---

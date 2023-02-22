@@ -74,7 +74,7 @@
         />
       </svg>
     </div>
-    <div class="flex flex-row ">
+    <div class="grid  grid-cols-3 grid-rows-4 justify-between gap-5 ">
       {#if !searchValue}
         {#each crewMembers as crewMember, index (crewMember.slug)}
           <CrewPost {crewMember} />
