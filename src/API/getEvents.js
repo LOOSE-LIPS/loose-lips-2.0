@@ -63,11 +63,21 @@ for (let i = 1; i < totalPages; i++) {
         console.log(data);
         const turndownService = new TurndownService();
         const markdownString = turndownService.turndown(event.content.rendered);
-        const yamlData = yaml.safeDump(data);
-        fs.writeFileSync(
-          `../routes/markdownfiles/importEvents/${event.slug}.md`,
-          "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
+        const test = turndownService.turndown(
+          "<h1>content coming soon...</h1>"
         );
+        const yamlData = yaml.safeDump(data);
+        const folderDirectory = `../routes/markdownfiles/importEvents/${event.slug}`;
+
+        fs.mkdir(folderDirectory, (err) => {
+          if (err) return null;
+          else {
+            fs.writeFileSync(
+              `../routes/markdownfiles/importEvents/${event.slug}/index.md`,
+              "---\n" + yamlData.trim() + "\n---\n" + `${test}`
+            );
+          }
+        });
       });
     });
 }

@@ -65,11 +65,18 @@ for (let i = 1; i < totalPages; i++) {
         const markdownString = turndownService.turndown(
           profile.content.rendered
         );
+        const test = turndownService.turndown("<h1>info coming soon...</h1>");
         const yamlData = yaml.safeDump(data);
-        fs.writeFileSync(
-          `../routes/markdownfiles/importCrew/${profile.slug}.md`,
-          "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
-        );
+        const folderDirectory = `../routes/markdownfiles/importCrew/${profile.slug}`;
+        fs.mkdir(folderDirectory, (err) => {
+          if (err) return null;
+          else {
+            fs.writeFileSync(
+              `../routes/markdownfiles/importCrew/${profile.slug}/index.md`,
+              "---\n" + yamlData.trim() + "\n---\n"
+            );
+          }
+        });
       });
     });
 }

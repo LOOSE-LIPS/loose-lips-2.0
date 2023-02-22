@@ -18,10 +18,6 @@
   /**
    * @type {IHeaderNavLink}
    */
-  // export let navLinks!: IHeaderNavLink[];
-  // End: Exported Properties
-
-  // Local properties
 
   const navLinks: IHeaderNavLink[] = [
     {

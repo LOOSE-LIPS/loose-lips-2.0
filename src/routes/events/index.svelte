@@ -31,6 +31,7 @@
    * @type {IMetaTagProperties}
    */
   export let events: IEventsCard[];
+  console.log(events);
 
   const metaData: Partial<IMetaTagProperties> = {
     title: `Events`,
@@ -47,11 +48,13 @@
   >
     Upcoming Events
   </h2>
+
   {#if events.length > 0}
     {#each events as event}
       <EventPost {event} />
     {/each}
   {/if}
+
   <a href="events" class="viewAll">
     <p class="font-italic text-m text-white">View past events</p>
   </a>

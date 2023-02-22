@@ -8,7 +8,7 @@ export async function get({
   query: URLSearchParams;
 }): Promise<Partial<{ body: IMix[]; status: number }>> {
   const modules = import.meta.glob(
-    "../../lib/markdownfiles/crew/**/index.{md,svx,svelte.md}"
+    "../../routes/markdownfiles/importMixes/**/index.{md,svx,svelte.md}"
   );
 
   const mixPromises = [];

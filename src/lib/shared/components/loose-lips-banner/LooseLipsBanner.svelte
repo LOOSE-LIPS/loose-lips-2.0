@@ -13,7 +13,13 @@
 <div
   class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)"
 >
-  <img src="images/logo-loose-lips.gif" alt="" style="margin-top: -2vh;" />
+  <img
+    src="images/logo-loose-lips.gif"
+    alt=""
+    style="margin-top: -2vh;"
+    height="250"
+    width="250"
+  />
 
   <a
     href="#featured"
@@ -42,7 +48,7 @@ transform: translate(-50%, 0px);"
   .perspective-text {
     color: white;
     font-family: Arial;
-    font-size: 12.2em;
+    font-size: 5.2em;
     font-weight: 900;
     letter-spacing: -8px;
     text-transform: uppercase;
@@ -110,7 +116,7 @@ transform: translate(-50%, 0px);"
   :global(body) {
     /* this will apply to <body> */
     background-image: radial-gradient(black 1px, transparent 0);
-    background-size: 40px 40px;
+    background-size: 20px 20px;
     background-position: -19px -19px;
   }
 </style>

@@ -29,17 +29,16 @@
 
   const mostRecentPosts: (IBlog | IEventsCard)[] = posts
     .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .slice(0, 10);
+    .slice(0, 150);
 </script>
 
-<div class="flex flex-row  items-start mb-16 ">
+<div class="flex flex-col  items-start mb-16 ">
   <h2
-    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em m-4"
-    style="margin-top: 15%;"
+    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white  m-4"
   >
     Recent Posts
   </h2>
-  <div class="grid  grid-cols-3">
+  <div class="grid  grid-cols-3 grid-rows-4 justify-between gap-5">
     {#each mostRecentPosts as post}
       <div>
         <RecentPost {post} />

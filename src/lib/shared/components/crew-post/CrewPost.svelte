@@ -31,7 +31,7 @@
     </div>
     <a
       data-sveltekit:prefetch
-      href={`../markupfiles/crew/${crewMember.slug}`}
+      href={`../markupfiles/importCrew/${crewMember.slug}`}
       class="w-full"
     >
       <h3
@@ -40,7 +40,7 @@
         {crewMember.title}
       </h3>
     </a>
-    <p class="text-gray-600 dark:text-gray-400">{crewMember.description}</p>
+    <!-- <p class="text-gray-600 dark:text-gray-400">{crewMember.description}</p> -->
     <p class="text-gray-600 dark:text-gray-400">{crewMember.date}</p>
     <TagsContainer tags={crewMember.tags} />
   </div>

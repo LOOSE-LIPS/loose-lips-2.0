@@ -5,10 +5,6 @@
 
   // Models
   import type { IBlog } from "$models/interfaces/iblog.interface";
-
-  // End: Local Imports
-
-  // Start: Exported Properties
   /**
    * @type {IBlog}
    */
@@ -22,7 +18,7 @@
   <div class="mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5">
     <a
       data-sveltekit:prefetch
-      href={`../markdownfiles/blogs/${blog.slug}`}
+      href={`../markdownfiles/importPosts/${blog.slug}`}
       class="w-full"
     >
       <div class="flex flex-col md:flex-row justify-between">
@@ -37,7 +33,7 @@
     </a>
     <p class="text-gray-600 dark:text-gray-400">{blog.description}</p>
     <p class="text-gray-600 dark:text-gray-400">{blog.date}</p>
-    <TagsContainer tags={blog.tags} />
+    <!-- <TagsContainer tags={blog.tags} /> -->
   </div>
   <!-- <hr class="w-full border-1 border-gray-200 dark:border-gray-800 mb-8" /> -->
 {/if}

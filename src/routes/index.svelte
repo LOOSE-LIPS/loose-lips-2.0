@@ -40,14 +40,16 @@
     description: "Loose lips label radio and blogging website).",
     keywords: ["radio", "mixes", "london radio", "music"],
   };
+  console.log(events, "events");
+  console.log(posts, "posts");
 </script>
 
 <HeadTags {metaData} />
-<!-- <LooseLipsBanner /> -->
+<LooseLipsBanner />
 
-<div class="w-[75%]">
+<div class="w-[85%]">
   <FeaturedContent {posts} />
   <RecommendedPostsContainer {posts} />
-  <EventsContainer {events} />
   <RecentPostsContainer {posts} />
+  <!-- <EventsContainer {events} /> -->
 </div>
