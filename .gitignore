@@ -1,4 +1,9 @@
 node_modules
 build
+dist
 .svelte-kit
 *.env
+.netlify
+static/rss.xml
+static/sitemap.xml
+static/tailwind.css
