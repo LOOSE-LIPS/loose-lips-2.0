@@ -24,18 +24,15 @@ for (let i = 1; i < totalPages; i++) {
         const imageData = event.yoast_head_json.og_image;
         let outputPaths = [];
         if (imageData) {
-          const directoryPath = path.join(
-            rootDir,
-            `static/imported/${event.slug}`
-          );
+          const imgDirectory = `../static/imported/${event.slug}`;
 
-          if (!fs.existsSync(directoryPath)) {
-            fs.mkdirSync(directoryPath, { recursive: true });
+          if (!fs.existsSync(imgDirectory)) {
+            fs.mkdirSync(imgDirectory, { recursive: true });
           }
 
           imageData.forEach((data) => {
             let imageUrl = data.url;
-            let outputPath = path.join(directoryPath, `/image${event.id}.jpeg`);
+            let outputPath = path.join(imgDirectory, `/image${event.id}.jpeg`);
             outputPaths.push(outputPath);
             const username = "seedpipdev";
             const password = "ThisIsAPassword";
@@ -71,9 +68,20 @@ for (let i = 1; i < totalPages; i++) {
         };
 
         const turndownService = new TurndownService();
-        const markdownString = turndownService.turndown(event.content.rendered);
+        turndownService.addRule("tags", {
+          filter: "p",
+          replacement: function (content) {
+            if (content.includes("FOOTSOLDIER")) {
+              return "";
+            } else {
+              return content.replace(/<<|<>|>>/gi, "");
+            }
+          },
+        });
 
+        const markdownString = turndownService.turndown(event.content.rendered);
         const yamlData = yaml.safeDump(data);
+
         const folderDirectory = path.join(
           rootDir,
           `src/routes/markdownfiles/importEvents/${event.slug}`
@@ -84,7 +92,8 @@ for (let i = 1; i < totalPages; i++) {
         console.log(`writing to: ${folderDirectory}`);
         fs.writeFileSync(
           path.join(folderDirectory, "index.md"),
-          "---\n" + yamlData.trim() + "\n---\n"
+
+          "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
         );
       });
     });
