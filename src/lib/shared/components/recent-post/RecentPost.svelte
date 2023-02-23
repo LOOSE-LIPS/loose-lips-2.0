@@ -7,6 +7,7 @@
   const isIBlog = (x: IBlog | IEventsCard): x is IBlog => x.layout === "blog";
   const isIEventCard = (x: IEventsCard): x is IEventsCard =>
     x.layout === "event";
+  console.log(post.banner);
 </script>
 
 <div class="mb-8 w-full border-gray-100 dark:border-gray-800 pb-5">

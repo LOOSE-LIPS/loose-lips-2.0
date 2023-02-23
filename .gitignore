@@ -7,3 +7,5 @@ dist
 static/rss.xml
 static/sitemap.xml
 static/tailwind.css
+src/routes/markdownfiles
+static/imported
