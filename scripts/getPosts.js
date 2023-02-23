@@ -24,10 +24,6 @@ for (let i = 1; i < totalPages; i++) {
         const imageData = post.yoast_head_json.og_image;
         let outputPaths = [];
         if (imageData) {
-          // const directoryPath = path.join(
-          //   rootDir,
-          //   `static/imported/${post.slug}`
-          // );
           const imgDirectory = `../static/imported/${post.slug}`;
           if (!fs.existsSync(imgDirectory)) {
             fs.mkdirSync(imgDirectory, { recursive: true });
@@ -88,7 +84,7 @@ for (let i = 1; i < totalPages; i++) {
         const markdownString = turndownService.turndown(
           `${post.content.rendered}`
         );
-        const imgHtml = `<img src=${outputPaths[0]}></img>`;
+        const imgHtml = `<img src=../${outputPaths[0]} alt="image"></img>`;
         const imgMd = turndownService.turndown(imgHtml);
         const yamlData = yaml.safeDump(data);
         const folderDirectory = path.join(

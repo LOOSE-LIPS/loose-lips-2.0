@@ -2,8 +2,10 @@ import TurndownService from "turndown";
 
 const turndownService = new TurndownService();
 const test = "<a><p><h1> HEYYYY <3<p>  href</p> </h1></p></a>";
+const img = "./something/somthing";
 const test2 =
   '<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=879490178/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1692828727/transparent=true/" seamless="">&lt;a href=&#8221;http://matiasaguayo.bandcamp.com/album/support-alien-invasion-2&#8243;&gt;Support Alien Invasion by Matias Aguayo&lt;/a&gt;</iframe>';
+const test3 = `<img src=${img} alt=image > </img>`;
 
 turndownService.addRule("deleteTagAndContents", {
   filter: "iframe",
@@ -26,5 +28,5 @@ turndownService.addRule("deleteTagAndContents", {
 //   },
 // });
 
-const markdownString = turndownService.turndown(`${test2}`);
+const markdownString = turndownService.turndown(`${test3}`);
 console.log(markdownString);
