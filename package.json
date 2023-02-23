@@ -55,6 +55,7 @@
     "dev:host": "npm run check-env && npm run dev:sveltekit:host",
     "dev:open": "npm run dev --open",
     "dev:host:open": "npm run dev --open --host",
+    "generate": "node scripts/getCrew.js && node scripts/getEvent.js",
     "build:gzip:static": "gzipper c --brotli ./build",
     "build:env:prod": "node --loader ts-node/esm scripts/js/environment.setup.ts --mode=prod --project=sveltekit-blog --arhitect-type=build --configurations=prod",
     "build:env:dev": "node --loader ts-node/esm scripts/js/environment.setup.ts --mode=dev --project=sveltekit-blog --arhitect-type=build --configurations=dev",
