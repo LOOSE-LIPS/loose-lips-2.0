@@ -1,0 +1,21 @@
+---
+id: 899
+date: '2019-09-20'
+title: Sophia Saze - Self (Part one) (Kingdoms) - Loose Lips
+type: post
+slug: sophia-saze-self-part-one-kingdoms
+author: 98
+banner:
+  - ../imported/sophia-saze-self-part-one-kingdoms/image899.jpeg
+description: >-
+  Tbilisi-born Georgian artist Sophia Saze released the first part of her debut
+  two-part album Self on Francis Harris&acute; imprint Kingdoms. Self (part
+  one)&nbsp;comprises a reflection of her struggles in life and expresses her
+  experiences of growing up as a daughter of political refugees. Living in
+  several different places, such as Russia, the United States, France, [...]Read
+  More...
+published: true
+tags: []
+featured: false
+---
+![image](../../imported/sophia-saze-self-part-one-kingdoms/image899.jpeg)Tbilisi-born Georgian artist Sophia Saze released the first part of her debut two-part album [_Self_](https://sophiasaze.bandcamp.com/album/self-part-1) on Francis Harris´ imprint [Kingdoms](https://kingdomsbk.bandcamp.com/). _Self (part one)_ comprises a reflection of her struggles in life and expresses her experiences of growing up as a daughter of political refugees. Living in several different places, such as Russia, the United States, France, and Canada, before finding her home in Brooklyn, New York, had a sustainable impact on her view on duality within the context of identity and formed her idea of the deeper layer every person has but hides.Classically-trained and engaged in dance since her early years, the Georgian artist found her niche in electronic music as it allowed her to transform into the musician she wanted to be while defining her understanding of musical creation. In Brooklyn, she then also initiated her event series and now record label Dusk & Haze.Over the fourteen productions on the debut album, Sophia Saze invites the listener to enter an audio-visual world filled with memories, emotions and values gathered from her life experiences. Refusing the chase for perfection and the untruthfulness present in popular modern music, which often makes it to seem so linear and without depth, Sophia Saze takes distant crackles or intentional off-beat keys into her pieces, representing one aspect of her profound musical-cultural ethos. Deep soundscapes accompanied by perfectly-integrated raw elements and intimate samples of her childhood, such as Soviet cartoons, VHS recordings of her family, and others, together shape the story of her journey shared on this long-player.Sophia’s cultural ethos is patience, which encapsulates the mindset needed to truly appreciate the message and vibe an artist intends to communicate. As the artist states, ‘I feel the element of patience is somewhat of a lost commodity in our generation, particularly for albums. We’re consumed by track-to-track interpretations and are constantly searching for the next instant stimulation. With this record, I wanted to reiterate the idea that if you don't have the willingness to sit through the whole thing, then you're not stepping into it with the right mindset to begin with.’Although her most recent productions are aimed more towards clubs and dance-music, _Self_ pretty much dedicates itself to the representation of plurality in art and music, as well as in life, and merges a variety of musical influences. [Sophia Saze – _Self_ _(Part one)_](https://sophiasaze.bandcamp.com/album/self-part-1) was released as a concept album on cassette. Sophia Saze ‘Self’ LP dropped on Kingdoms on 14th June _(Part One)_ and 12th July _(Part Two)_, 2019.

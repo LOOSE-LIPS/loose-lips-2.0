@@ -1,0 +1,39 @@
+---
+id: 1324
+date: '2020-11-14'
+title: Nas1 &amp; Minimono Guide Us Onwards - Loose Lips
+type: post
+slug: nas1-minimono-guide-us-onwards
+author: 100
+banner: []
+description: >-
+  What&rsquo;s up sugarpuffs. It&rsquo;s your conductor speaking. The seas are
+  shifting under our feet, bubbling and bursting like the positive lasagne of
+  matter, problematic but potentially delicious. Will we all be dosed with
+  vaccine, shoveling down vegan mcmuffins at the midpoint of a 72 hour bender
+  this time 4 months from now? Who knows. I&rsquo;m [...]Read More...
+published: true
+tags: []
+featured: false
+---
+![image](../undefined)**_What’s up sugarpuffs. It’s your conductor speaking. The seas are shifting under our feet, bubbling and bursting like the positive lasagne of matter, problematic but potentially delicious. Will we all be dosed with vaccine, shoveling down vegan mcmuffins at the midpoint of a 72 hour bender this time 4 months from now? Who knows. I’m one for big dramatic dreams me, and today my dreamcast is guided by the calm, steady hands of Italian bros, bros whose beats stretch from Tuscany to Bologna, selector xxXtraordinaires Nas1 and duo Minimono (5 tracks each, one after eachother). Saddle up buttercup, the vibes are on their way. (All Spotifyable tunes gathered [here](https://open.spotify.com/playlist/7lxaXKFnrfvwDHz94YcXrq?si=nJ0fQF4-TTOkkjHBTCcrGQ))_**  
+
+**Nas1**Back in 2015, when Kai played in Bologna (our hometown), we visited the city together, we chatted a lot and we had a lot of fun. That night was awesome, he played early house records, disco music and new stuff. Check all the NDATL Special Edition series out (born in 2010) with a lot of great producers from Kyle Hall, Jay Daniel to Norm Talley. Here is a selection from the awesome 4 track 2020 special edition feat Jon Dixon, Kai Alcé and Dj Kemit.
+
+Byron played with us 4 years ago in Bologna, what a night! The afternoon before the party, we went to our studio, switched on some synths and we started to jam together. We realized that Byron is a real G with keyboards and music production, we learned a lot that day. This one is from his new album on Apron records. All the tracks are so dope, it was hard to pick one. \[Editor's note: the link here was broken so I commandeered the article to share my favourite wave basher from the smashing lp\]
+
+Theo Parrish for us is the “Maestro”. Every time we are goin to listen to a Theo’s dj set or new productions, we feel really excited. Listening especially to his early productions, we learned a lot about tape sounds and how to use a sequencer like the Akai MPC. He is and he’ll always be a great inspiration for us. This one is another great one from his new album on his very own Sound Signature imprint.
+
+High energy Ep by Mr. Ho from Hong Kong and Seoul based producer Mogwaa, released by Klasse Wrecks. We really like the sound of the drum machine, very punchy and loud! Synths parts and the vocal sample bring you immediately into an exotic 90s trip. Very cool brand new electro song for your ears!
+
+Bendek is a very talent dj and producer, born and raised in LA. Here \[at 13:50\] you can listen to his true old school house version of 'Yuno in the house' by Kirin. The bass line is powerful and this dub version just make your ass movin. Can’t wait to play it loud and clear!
+
+**Minimono**I discovered the Rhythm of Vision in this compilation of Tresor for Novamute of 95 and even now every time I listen to it gives me very strong emotions, the initial voice sample of Magic Yellow Orchestra is the icing on the cake of this version. Robert Hood is certainly one of those two or three people in the world who have contributed most to the development of a certain type of techno, which is the one I prefer and not only for the essentiality that is represented, but also and above all for the care and the search for sounds that are always very elegant.When with Fabio they introduced him to us on an evening when we were playing at the Watergate in Berlin, we on the lower floor and he on the other, we were in the offices and I remember very well that when I gave him my hand, Lin was shaking uncontrollably.
+
+I already knew Mouse on Mars, but it was the Niun Niggung album that really made me fall in love with them, and it was one of those albums that led me to produce Minimono's first microhouse records with Fabio. The record is certainly the most Pop of those made up to then by the Cologne duo, but I liked it for that too and in Super Sonig Fadeout you can also hear a certain funk influence and a groove made of concrete micro sounds that makes this track captivating, also on the dance floor. Clearly timeless music that can be listened to again in 20 years and will always be avant-garde. I don't remember the exact year, but in that period I saw the concert at Link in Bologna, I remember that there was a very good drummer with them and that it was a concert in which they had a lot of fun and that they had a very live approach.
+
+Every Tortoise concert I've seen has been a revelation, but listening to their albums is an infinite experience, in the sense that you never stop discovering new aspects. Blackjack is contained in Standard, an album that comes out after the unsurpassed TNT. The band does an excellent job and I would say it’s produced and arranged perhaps even better than the previous ones. In this track, punk-style drums, vibraphone and cinematic jazz guitar / library merge that refer to some compositions by Morricone, all mixed in a very natural way and with a great research in the sounds of the individual instruments.I have been listening to this record for about 20 years now and I believe I will continue to listen to it forever.
+
+I followed Thomas Brinkmann for his more minimalist records and for things like Rosa a compilation cd in which he had enclosed a series of singles released some time before. With Soul Center he opens a separate chapter and releases a series of soul / funky / techno records. "Let’s go" is contained in the first and perfectly satisfies the needs of those who, like me, in those years followed minimalist electronic music, but were also a fan of funky soul and more dance-floor-oriented rhythms.I have met Thomas Brinkmann several times over the years and I have always had the impression of having known a real person, with an extraordinary culture, there were young artists with these characteristics today.
+
+Terry Riley's role in the development of rock and electronic music is nothing short of fundamental. Of all the American minimalists he was certainly the one who made the greatest contribution to the elaboration of electronic music based on the loop. A Rainbow in Curved Air is certainly the first representation of that new way of making music. With Minimono a few years ago, on a couple of occasions in Salerno and Milan, we tried to make our own live version of this work, based on the concept of looping some samples extrapolated from the recording of A Rainbow in Curved Air and just in which case we realized how much that work was still current, indeed futuristic even though it was made at the end of the 60s.

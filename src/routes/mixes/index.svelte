@@ -28,28 +28,25 @@
     searchUrl: "/mixes",
   };
 
-  let tags = [];
-  let currTags = [];
-  let filteredMixes = mixData;
-  mixData.map((mix) => {
-    return tags.includes(mix.tags.toLowerCase())
-      ? tags
-      : tags.push(mix.tags.toLowerCase());
-  });
+  const tags = mixData
+    .map((x) => x.tags)
+    .filter((x) => x.trim())
+    .reduce((a, b) => (a.includes(b) ? a : [...a, b]), []);
+
+  let selectedTags = [];
+  let visible = mixData;
   let searchValue = "";
 
   const handleTagClick = (tag) => {
-    currTags.includes(tag.toLowerCase())
-      ? currTags.splice(currTags.indexOf(tag.toLowerCase()))
-      : currTags.push(tag.toLowerCase());
-    filteredMixes =
-      currTags.length === 0
-        ? mixData
-        : mixData.filter((mix) => {
-            return currTags.includes(mix.tags.toLowerCase());
-          });
-    console.log(currTags);
-    console.log(filteredMixes);
+    if (selectedTags.includes(tag)) {
+      selectedTags = selectedTags.filter((x) => x !== tag);
+    } else {
+      selectedTags = [...selectedTags, tag];
+    }
+    visible = mixData.filter((x) => {
+      if (selectedTags.length === 0) return true;
+      return selectedTags.includes(x.tags);
+    });
   };
 </script>
 
@@ -61,6 +58,7 @@
     >
       Mixes
     </h1>
+
     <div class="mb-4">
       <input
         bind:value={searchValue}
@@ -86,7 +84,11 @@
     </div>
     <div class="flex flex-row flex-wrap w-full mt-4 items-center">
       {#each tags as tag, index (tag)}
-        <Button {tag} {handleTagClick} />
+        <Button
+          {tag}
+          onClick={() => handleTagClick(tag)}
+          active={selectedTags.includes(tag)}
+        />
         {#if index !== tags.length - 1}
           <p class="mr-2 ml-2 text-black dark:text-white">
             {` • `}
@@ -96,7 +98,7 @@
     </div>
 
     <div class="grid  grid-cols-4 grid-rows-4 justify-between gap-3">
-      {#each filteredMixes as mixData}
+      {#each visible as mixData}
         <MixPost {mixData} />
       {/each}
     </div>

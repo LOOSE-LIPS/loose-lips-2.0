@@ -1,0 +1,21 @@
+---
+id: 910
+date: '2019-09-04'
+title: Michael Ferragosto - Furious (RWCLTR010) - Loose Lips
+type: post
+slug: michael-ferragosto-furious-rwcltr010
+author: 100
+banner:
+  - ../imported/michael-ferragosto-furious-rwcltr010/image910.jpeg
+description: >-
+  Totally raw and saturated live drum machine goodness.It just gets your primal
+  instincts out of your guts from the first few seconds! From Raw Culture&#39;s
+  Pushers Vol.3 VA on Raw Culture. Out now on 12&quot; and digital &#8211;
+  Order: https://rawculture.bandcamp.com/album/raw-cultures-pushers-03
+  https://soundcloud.com/raw-culture-recordings [...]Read More...
+published: true
+tags: []
+featured: false
+---
+![image](../../imported/michael-ferragosto-furious-rwcltr010/image910.jpeg)Totally raw and saturated live drum machine goodness.  
+It just gets your primal instincts out of your guts from the first few seconds!From _Raw Culture's Pushers Vol.3_ VA on [Raw Culture](https://rawculture.bandcamp.com).Out now on 12" and digital – Order: [](https://www.deejay.de/Various_Artists_Raw_Culture%E2%80%99s_Pushers_03_RWCLTR010_Vinyl__933023)[https://rawculture.bandcamp.com/album/raw-cultures-pushers-03](https://rawculture.bandcamp.com/album/raw-cultures-pushers-03)[https://soundcloud.com/raw-culture-recordings](https://soundcloud.com/raw-culture-recordings)

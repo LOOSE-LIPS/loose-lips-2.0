@@ -41,7 +41,7 @@
       Recommended
     </h2>
 
-    <div class="grid grid-flow-col auto-cols-max overflow-x-auto max-w-6xl">
+    <div class="grid  grid-cols-3 grid-rows-4 justify-between gap-5">
       {#each recommendedPosts as post}
         <div>
           <RecommendedPost {post} />

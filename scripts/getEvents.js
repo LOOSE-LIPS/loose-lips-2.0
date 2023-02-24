@@ -24,7 +24,7 @@ for (let i = 1; i < totalPages; i++) {
         const imageData = event.yoast_head_json.og_image;
         let outputPaths = [];
         if (imageData) {
-          const imgDirectory = `../static/imported/${event.slug}`;
+          const imgDirectory = `../imported/${event.slug}`;
 
           if (!fs.existsSync(imgDirectory)) {
             fs.mkdirSync(imgDirectory, { recursive: true });
