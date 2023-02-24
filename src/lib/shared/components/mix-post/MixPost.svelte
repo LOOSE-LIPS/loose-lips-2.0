@@ -33,7 +33,7 @@
   >
     {mixData.title}
   </h3>
-
+  <img src={mixData.banner} alt="banner" />
   <iframe
     id="sc-widget"
     title={mixData.title}

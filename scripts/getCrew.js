@@ -27,19 +27,16 @@ for (let i = 1; i < totalPages; i++) {
         const imageData = profile.yoast_head_json.og_image;
         let outputPaths = [];
         if (imageData) {
-          const directoryPath = path.join(
-            rootDir,
-            `static/imported/${profile.slug}`
-          );
+          const imgDirectory = `../static/imported/${profile.slug}`;
 
-          if (!fs.existsSync(directoryPath)) {
-            fs.mkdirSync(directoryPath, { recursive: true });
+          if (!fs.existsSync(imgDirectory)) {
+            fs.mkdirSync(imgDirectory, { recursive: true });
           }
 
           imageData.forEach((data) => {
             let imageUrl = data.url;
             let outputPath = path.join(
-              directoryPath,
+              imgDirectory,
               `/image${profile.id}.jpeg`
             );
             outputPaths.push(outputPath);

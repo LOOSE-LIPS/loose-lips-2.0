@@ -44,7 +44,7 @@
 <HeadTags {metaData} />
 
 <div class="pt-[5%]">
-  <div class="pl-[25%] pr-[25%] pt-[4%]">
+  <div class="pl-[5%] pr-[5%] pt-[4%]">
     <h1
       class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black
     dark:text-white"
@@ -74,15 +74,15 @@
         />
       </svg>
     </div>
-    <div class="grid  grid-cols-3 grid-rows-4 justify-between gap-5 ">
+    <div class="grid  grid-cols-6 grid-rows-4 justify-between gap-5 ">
       {#if !searchValue}
-        {#each crewMembers as crewMember, index (crewMember.slug)}
+        {#each crewMembers as crewMember}
           <CrewPost {crewMember} />
         {/each}
       {:else if filteredCrewMembers.length === 0}
         <p class="text-gray-600 dark:text-gray-400 mb-4">No posts found.</p>
       {:else}
-        {#each filteredCrewMembers as crewMember, index (crewMember.slug)}
+        {#each filteredCrewMembers as crewMember}
           <CrewPost {crewMember} />
         {/each}
       {/if}

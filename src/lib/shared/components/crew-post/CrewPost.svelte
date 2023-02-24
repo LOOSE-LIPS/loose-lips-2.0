@@ -31,7 +31,7 @@
     </div>
     <a
       data-sveltekit:prefetch
-      href={`../markupfiles/importCrew/${crewMember.slug}`}
+      href={`../mardownfiles/importCrew/${crewMember.slug}`}
       class="w-full"
     >
       <h3
