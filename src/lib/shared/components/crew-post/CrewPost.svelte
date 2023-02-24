@@ -24,10 +24,6 @@
         alt="profile pic"
         style="height: 12em;width:18emwidth:100%;"
       />
-
-      <!-- <p class="text-gray-500 text-left md:text-right w-32 mb-4 md:mb-0">
-					{`${views ? new Number(views).toLocaleString() : '–––'} views`}
-				</p> -->
     </div>
     <a
       data-sveltekit:prefetch

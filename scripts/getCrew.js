@@ -75,6 +75,12 @@ for (let i = 1; i < totalPages; i++) {
         };
 
         const turndownService = new TurndownService();
+        turndownService.addRule("new rule", {
+          filter: "p",
+          replacement: function (content) {
+            return content.replace(/< online| < illustration| < hand /gi, "");
+          },
+        });
         const markdownString = turndownService.turndown(
           profile.content.rendered
         );
@@ -91,7 +97,7 @@ for (let i = 1; i < totalPages; i++) {
         console.log("writing file to", path.join(folderDirectory, "index.md"));
         fs.writeFileSync(
           path.join(folderDirectory, "index.md"),
-          "---\n" + yamlData.trim() + "\n---\n"
+          "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
         );
       });
     });
