@@ -54,7 +54,7 @@ for (let i = 1; i < totalPages; i++) {
               const imageData = mix.yoast_head_json.og_image;
               let outputPaths = [];
               if (imageData) {
-                const imgDirectory = `../static/imported/${mix.slug}`;
+                const imgDirectory = `../imported/${mix.slug}`;
 
                 if (!fs.existsSync(imgDirectory)) {
                   fs.mkdirSync(imgDirectory, { recursive: true });

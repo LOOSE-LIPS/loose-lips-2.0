@@ -1,0 +1,24 @@
+---
+id: 765
+date: '2019-02-26'
+title: 'PICKS: Laani’s guide to Mosh Pit Jazz - Loose Lips'
+type: post
+slug: picks-laanis-guide-to-mosh-pit-jazz
+author: 164
+banner:
+  - ../imported/picks-laanis-guide-to-mosh-pit-jazz/image765.jpeg
+description: >-
+  Nu-Jazz has been bubbling as London&rsquo;s most exciting underground movement
+  for some time now, but it&rsquo;s not easy to appreciate the energy from
+  outside: no Spotify playlist or pseudo-academic article can capture its
+  riotous energy. Enter&nbsp;Laani, a Brownswood-affiliated DJ whose&nbsp;Jazz
+  Tings&nbsp;show on Threads showcases the vibrancy and attitude of the scene,
+  mixed, presented and interviewed [...]Read More...
+published: true
+tags: []
+featured: false
+---
+![image](../../imported/picks-laanis-guide-to-mosh-pit-jazz/image765.jpeg)**_Nu-Jazz has been bubbling as London’s most exciting underground movement for some time now, but it’s not easy to appreciate the energy from outside: no Spotify playlist or pseudo-academic article can capture its riotous energy. Enter [Laani](https://facebook.com/Laaniofficial), a Brownswood-affiliated DJ whose [Jazz Tings](https://threadsradio.com/project/jazztings-w-laani/) show on Threads showcases the vibrancy and attitude of the scene, mixed, presented and interviewed with passion. We’re enormously excited to have her share a few choice selections, take it away…_****'Think jumping around losing your shit, think head-banging, think elbows in the face, think sweating in places you didn’t even know existed! If you dare to enter the jazz mosh pit, be warned! Any accidental damage to teeth and soft tissues is well worth it!** **Nu Jazz is pushing the boundaries in to new territories, fusing influences from Grime, Hip Hop, Reggae Dub, Bashment and Punk. Whether it’s a sweaty Steam Down session or an Ezra Collective jump up on the beach at Dimensions, here’s a list of tracks that will make lose your senses and dance up a storm. WARNING: not suitable for downstairs at Ronnie Scotts.'****Sons of Kemet – Afrofuturism** This band are always at the forefront of pushing the boundaries of music! The drums as the driving force and the chemistry between the sax and tuba guarantees you to lose your mind, body and soul.**Ezra Collective – Space is the place  
+**These guys are the Rolling Stones of Jazz! With multiple sold out shows and a special invitation to play at Quincy Jones’ 85th birthday party, it’s no surprise that we were literally swinging from the altar at Church of Sound. Well and truly lost my shit! This track gets under your skin and makes you buss a leg or two!**The Comet Is Coming – Summon The Fire** One of many cracking tracks by this totally off the wall trio led by front man Shabaka Hutchings. Absolutely brilliant live, bringing their futuristic electronic sound with this mysterious saxophonic intensity, you don’t know what’s hit you. I’m very fortunate to have seen them perform in Liverpool and Copenhagen **Makaya McCraven and Emma-Jean Thackray – Too Shy  
+**Great combination and the first female producer on the list! This track is from very a very exciting experimental project called ‘Where We Come From’ which highlights the magic of improvised Jazz and the collaborative mix of production and live, bringing the beats that you just can’t help but get down and dirty to.**EABS – Knowledge** A proper head-banging tune, mixing Hip Hop, Punk, Drum’n’Bass and Jazzy vibes – this band really brought it at the Total Refreshment Centre, going deep in to the heavy drops throughout this track encourages loss of control of every limb in to a sweat-induced craze! **Moses Boyd – Rye Lane Shuffle**An anthem. A defining moment for me personally, when Jazz crossed all boundaries and this became a Dancefloor Banger. You can play this anywhere to any crowd and you will get back all the energy the track gives. **Cykada – Dimension Stepper** A Jump up tune! This track really takes you on a journey and builds all the way through to a massive, explosive crescendo that will blast you into the future. Very excited to hear more from this band. Watch this space…**Theon Cross – Candace Of Meroe  
+**There are so many flavours in this track that will make your body wind & grind. Carnival vibes with the pulsating backbone of Theon playing the tuba like it’s 1999! Never seen someone play this incredible instrument as intricately as this. Get me in that mosh pit!When Jazz got you ‘Skankin’ Sweet’…**Zara McFarlane with Dennis Bovell – East of the River Nile** Fusing Jazz and Reggae, this track will get you jammin on the dancefloor. The dub mixes are incredible and will sound beyond on any soundsystem. Fulljoy Yourself!**Joe Armon-Jones – Mollison Dub Vocal Version (feat. Asheber)**Sounding absolutely EPIC on the Unit 137 sound system at Village Underground. There is no doubt this grips you and takes you deep in having well and truly received the dub treatment – pure genius.

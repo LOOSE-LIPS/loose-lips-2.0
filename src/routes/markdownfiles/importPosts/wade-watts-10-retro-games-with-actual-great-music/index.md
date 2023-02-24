@@ -1,0 +1,66 @@
+---
+id: 1399
+date: '2021-01-26'
+title: wade watts' 10 retro games with actual great music - Loose Lips
+type: post
+slug: wade-watts-10-retro-games-with-actual-great-music
+author: 100
+banner:
+  - ../imported/wade-watts-10-retro-games-with-actual-great-music/image1399.jpeg
+description: >-
+  Who, or maybe should we say &#39;what&#39;, is Wade Watts?It&#39;s been
+  recently discovered that this entity has been synthesised in an FPGA.Yet, it
+  lives inside T-Scale&#39;s head permanently. A ghost in the shell, perhaps? A
+  non-malicious virus?No one knows. All we know for now are its releases on
+  various labels such as Dionysian Mysteries, LOST [...]Read More...
+published: true
+tags: []
+featured: false
+---
+![image](../../imported/wade-watts-10-retro-games-with-actual-great-music/image1399.jpeg)Who, or maybe should we say 'what', is Wade Watts?  
+It's been recently discovered that this entity has been synthesised in an FPGA.  
+Yet, it lives inside T-Scale's head permanently. A ghost in the shell, perhaps? A non-malicious virus?  
+No one knows.All we know for now are its releases on various labels such as Dionysian Mysteries, LOST EARS and more recently on our [LL017 V/A Vol.I](https://looselips123.bandcamp.com/album/ll017-v-a-vol-i-in-aid-of-ruff-sqwad-arts-foundation) with a satiric track simply called COVID19 as well as an [appearance on our Mix Series last year](https://soundcloud.com/loose-lips123/loose-lips-mix-series-296-wade-watts).Retro VGM (Video Game Music) can be put into two distinct categories:– games that came out on CD-based consoles such as Sega Saturn or Sony Playstation. From then, the music is just playing like on a normal CD players although sound effects would generally be generated on a chip.– games that came out on previous generations of cartridge-based consoles such as the Sega Megadrive, Nintendo Super NES, Sega Master System or Nintendo NES.The latter have a unique feel to them because of one feature, or lack thereof;  
+This generation of games had to use more rudimentary hardware, so developers alongside composers had to perform clever tricks in order to deliver quality products when it came to music and sound design.You couldn't just play an Ogg (format similar to MP3, used in the video game industry) and call it a day.  
+Ok, that's a bit exaggerated but let's just say it wasn't as straightforward as today to play music on a console or a computer at that time. They had to be creative and have extremely good knowledge of the hardware.Dive in.
+
+1\. Yuzo Koshiro & Motohiro Kawashima – Streets of Rage 3 (Sega)[](https://www.youtube.com/watch?v=kRrf-WxRsgs)First on the list and first VGM involving the excellent Yamaha YM2612 FM chip, a chip commonly known as the music chip installed on the Sega Megadrive (or Genesis in the US). Capable of 6 channels of FM synthesis (with its 6th channel capable of playing short 8-bit samples), this chip was a little synthesizer inside the console, if you will. [https://en.wikipedia.org/wiki/Yamaha\_YM2612](https://en.wikipedia.org/wiki/Yamaha_YM2612)The Street of Rage series, known in Japan as Bare Knuckle, are rightfully popular beat'em up games with great graphics for the time but also adored for their underground Techno and electronic music soundtracks made by Yuzo Koshiro and Motoshiro Kawashima (2 and 3), who decades later performed in electronic music festivals and in 2017, were invited by Hyperdub's Kode9 for the Diggin In The Carts On Tour at Fabric, London.    
+It comes as no surprise that these game soundtracks have now been remastered and released on wax.Released in the summer of 1994, Streets of Rage 3 is the follow up to one of the most loved beat'em up of all time, rightfully so! Although i've never been familiar with this one as much as its predecessor, I've ecently, re-listened to its soundtrack, I've realised it's in some way superior to Streets of Rage 2.  
+Which is in itself an achievement.The reason, I think, is simple: Motohiro Kawashima, who collaborated with Yuzo Koshiro on Streets of Rage 2, played a more important role in the third installment. The game had a more industrial feel with lots of machines and robots, which the soundtrack reflected with its dark and aggressive music.In an interview with Red Bull magazine, he said "With Bare Knuckle III, we got rid of even more of the human element" [https://daily.redbullmusicacademy.com/2017/10/motohiro-kawashima-interview](https://daily.redbullmusicacademy.com/2017/10/motohiro-kawashima-interview)Indeed.And I love that. Less human, more me.
+
+2\. Norio Hanzawa – Alien Soldier (Treasure / Sega)[](https://www.youtube.com/watch?v=KuGNzc56zqo)Another Sega Megadrive game and another YM2612 VGM, recorded here from its YM3438 variant but it's basically the same).Secondly, the soundtrack isn't that great overall. But there are a some gems.  
+It's also been remastered, pressed on vinyl and all that.The intro track, Sidelimits is a detuned, trippy tune that just sounds alien. Retro, pixelated alien that is.  
+A few weird random, borderline annoying tunes past and comes Slap-up, a joyful, euhporic laidback that probably sound a little bit cheesy but, unlike a lot of these kind of tunes, it has some swag.X-Age, following, is also very good; a dreamy electro bleep tune that could definitely be something released nowadays if it was re-mastered. Proper lo-fi material.Another few tunes forward til Shade… Another swaggy bleepy trippy weird one that has a little bit of a junglistic beat.Here comes the techno you've all been waiting for and it's called Silent. It's actually bloody good and it's worth shaking a buttocks or two on an imaginary dancefloor.A few weird tracks forward and we reach the digital FM kosmische musik of Oblivious Past, probably the best one, at least in my opinion. But to each their own.Then, the rest of the tracks are of that same messy, weird alien epic stuff. You might like, depends on your mood.I've never actually played this game, but it plays well with me.3\. Channel X – _The Phantom Voltage_ from Steep Slope Sliders (Victor / Sega)[](https://www.youtube.com/watch?v=-mX_wXhoWXM)1997\. Jungle. Acid Techno. Breaks and snowboard. You get the picture.The Sega Saturn, console that was annihilated by the success of the Sony Playstation, had a very interesting hardware. Other than being a 2D graphics beast, the console contained a Yamaha YMF292 chip also known as Saturn Custom Sound Processor (SCSP).Like a next-gen YM2612 almost, this chip gives this grainy lo-fi quality to the sound, fed into the ubiquitous FH-1 multi-FX chip. Sadly, to my knowledge, it wasn't exploited for music which was played directly from the CD.  
+I've never played the game but my personal favourite track is the sweet lo-fi Jungle of _The Phantom Voltage_ by Channel X. Proper vibing.[The rest of the soundtrack](https://www.youtube.com/watch?v=PkAK_POZqRg&list=PLRtaAHG_k8HDBarxPXZmt8NjcBd1W7iQp) is somewhat solid; there's a lot of tracks taking influences from Chemical Brothers, Prodigy, Skint records, Wall of Sound and all that Big Beat stuff, as well. Some bleepy Electro, some of this, some of that. I can't snowboard to save my life and i've never played the game.There's not much online information on featured artists except this entry on gutenberg.org: [http://self.gutenberg.org/articles/eng/Steep\_Slope\_Sliders](http://self.gutenberg.org/articles/eng/Steep_Slope_Sliders)I'm not even human. How do I even snowboard IRL?
+
+4\. Photek – _The Third Sequence_ from WipEout 2097 (Psygnosis / Sony)
+
+Released in September 1996, following up successful predecessor, WipEout 2097 is one of the most culturally definitive games ever made. You've probably heard of it.With its logo aesthetics designed by Aphex Twin's logo designer Paul Nicholson, it came out during the peak of Techno, DnB and other 90s dance music, a time when Red Bull came into the market, flooding ravers with intense sugar rushes alongside its intense caffeine high that modifies your genetics for some wings to start popping out of your shoulder blades.And that brand had billboards right inside the game. I'm not talking about your usual annoying ad pop-up, but naturally integrated into the CGI world.While it was also released on the Sega Saturn the next year, featuring a soundtrack by brilliant Welsh VGM composer Tim Wright, the Playstation version contained only two of his tracks while populating the tracklist with acts such as The Future Sound Of London, The Prodigy, The Chemical Brothers, Underworld or Photek. Meaning that the soundtrack itself was an [actual electronic dance music V/A compilation](https://www.youtube.com/watch?v=Dwij5-mq7Mg&list=PLsPMOz2-mpmP4b-nocgEw3BZ_W5lRtMv-) joint to a futuristic flying vehicle racing game, it can't be more Techno than that. You got to admit this was a neat marketing stunt!Kids loved it, ravers loved it, Red Bull loved it, I loved it.
+
+5\. BCJ (CJ Bolland) – _Thanato_ from Ghost in the Shell (Exact / IG Production / Sony)
+
+Being a sucker for all things cyberpunk, I'm a massive fan of Mamory Oshii's anime film adaptation of Masamune Shirow's original manga.And this game, released in 1997 in Japan and a year later in Europe, is one of those really good video game adaptations; fast-paced, futuristic and with a great gameplay.The soundtrack is, similarly to WipEout 2097, composed of many high-profile Techno artists such as Takkyu Ishino, Mad Mike (as Brother From Another Planet), Hardfloor, Westbam, Joy Beltram, Scan X, The Advent, CJ Bolland (as BCJ), Dave Angel, Derrick May and Mijk Van Dijk. And it fits the bill so perfectly I'd dare to say it's even superior to WipEout 2097!You get full-on Detroit, Minimal, Acid, Electro and Industrial gems from top producers, fitting the futuristic, dystopian anime setting perfectly!The game was sold with an additional limited CD featuring an exclusive track from all artists from the orignal in-game soundtrack. Ironically, [one of the best 90s Techno V/A](https://www.youtube.com/watch?v=ZWYt-P7yJ1k) comes in video game form.Sign of the times.
+
+6\. John Baker – ToeJam & Earl in Panic in Funkotron (ToeJam & Earl Productions / Sega)
+
+Yet another YM2612 VGM!  
+While the first ToeJam & Earl is regarded as a Sega Megadrive classic with its unique funky soundtrack, this sequel released in Europe in 1994 boasts a more mature and detailed soundtrack. Obviously, like SOR, Both ToeJam VGM went through proper remastering and quality cuts on wax.VGM legend John Baker proved once again his mastery of the YM2612! Squeezing all the funk out of it, Baker composed 14 swag-o-tastic tunesthat are hard not to nod your head to even if you cannot.The games themselves are cool, in the aestetic definition of the word. Gameplay-wise, they're alright.  
+Still they're unique; blending a peculiar sense of humour with constant nods to the Funk/Hip-Hop culture.But it's really the soundtrack that set them apart from the rest. How many other games at the time had a  
+Funk soundtrack?7\. Mark Miller – Kid Chameleon (Sega)
+
+Maybe I'm obsessed with the YM2612 or maybe it's just great? If you've been reading while listening to the  
+tracks, you've realised how unique this little chip sounds by now.Kid Chameleon is a platformer released in 1992 on the Sega Megadrive. It plays a little bit like Super Mario  
+but you can transform into quite a few different colourful characters with their own abilities. Some regarded  
+it as some weak clone of Super Mario while others, like me, loved it (and didn't have a Nintendo console to play Mario anyway).I'm taking the opportunity to note that, when I'm taking a tangible form I tend to take the appearance of Skycutter,  
+the futuristic hoverboard character featured in the game. To whom I dedicated a track called _An Ode To Skycutter's Engine (Faster),_ released in 2017 on LOST EARS's crowdfunding compilation THE BARN: A MIXTAPE. Unfortunately, the Bandcamp store link is broken but [you can still find the slow version on my abandoned Soundcloud](https://soundcloud.com/wade-watts/hover-dude-engine).Back to the game, after this blatant attempt at self-promotion.Composed by Mark Miller, at the time the main composer and sound designer at Sega of America, the project was led by Sega Technical Institute founder Mark Cerny, more recently known for being the PS5 architect.  
+The soundtrack is in some way similar to ToeJam & Earl in Panic In Funkotron, except it's faster paced for the most part and contains a few Bleep House tunes like _Ruins_ and some Electro jams like _Woods_ or _Mountain_.Collect all of dem gems. Get dem 1-ups.
+
+8\. Ellen Meijers – Oddworld: Abe's Oddysee (Oddworld Inhabitants / Sony)
+
+I've always like the aesthteics of the Oddworld series but, for some reason, I've never played any of the games.  
+That said, that doesn't stop me from finding this soundtrack absolutely brilliant;  
+Ellen Meijers' blend of Dark Ambient, Industrial and some other weird stuff is really moody and dark yet playful, somehow.
+
+9.
+
+10.

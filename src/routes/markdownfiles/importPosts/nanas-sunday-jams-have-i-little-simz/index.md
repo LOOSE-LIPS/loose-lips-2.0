@@ -1,0 +1,22 @@
+---
+id: 1347
+date: '2020-12-06'
+title: 'Nana’s Sunday Jams: Have I - Little Simz - Loose Lips'
+type: post
+slug: nanas-sunday-jams-have-i-little-simz
+author: 125
+banner:
+  - ../imported/nanas-sunday-jams-have-i-little-simz/image1347.jpeg
+description: >-
+  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
+  in&nbsp;this playlist. Yes and Yes Sunday Jammers. We made it to December,
+  there were moments where I thought it might not happen and some Loki-style
+  creature might hit the suspend button. However you got here, whichever way you
+  found your way, well done. [...]Read More...
+published: true
+tags: []
+featured: false
+---
+![image](../../imported/nanas-sunday-jams-have-i-little-simz/image1347.jpeg)**_Banner a_rtwork by the majestic [Trav](https://www.backdownwarchild.co.uk/), all of Nana's jams are gathered in__ [__this playlist__](https://open.spotify.com/playlist/12UoQ8ov5i6P8BIfm2lOjS?si=jarAn1CXSEuYB9vAxJidOg)__.__**
+
+Yes and Yes Sunday Jammers. We made it to December, there were moments where I thought it might not happen and some Loki-style creature might hit the suspend button. However you got here, whichever way you found your way, well done. Usually at this time of year I would be thinking about how to spend New Year’s Eve, with music and dancing at the  top of the list, looking forward to chasing away the dust of the year on a dance floor, a living room of a house party, round the outside of a bar or wherever there was space and big tunes to take me away. This year we will all have to find different ways of chasing off the dust, however you do it I hope it’s big, and that you remember to give yourself an inner clap for making it through the most bizarre of times. So, for the next few weeks that will be our theme moving through to New Year’s Eve, creating an extended playlist that covers the build-up to your night out, Sunday Jam worthy club bangers and back-to-yours tracks.  The ritual of getting ready to go out is one of my favourites and it’s a three part affair; I start off solo, then meet the running mates for the night- or they come to me-  then there’s the group hype tune before heading out the door; a start- up dance to get us warmed up. So, part one; me and my kick starter. This is a throwback to six years ago from an artist whose music, style and swagger I have such deep love for. On this track she combines philosophical pondering with dance music. The track is ‘Have I’ and the artist is Little Simz aka King Simbi – and unofficially one of my long-time musical obsessions. This feels so right for the moment, Simbi moves between exploring existential spaces and reflecting on the everyday issues in her life all accompanied by a sweet, low fi electronic beat driven melody. I remember when I first heard this and felt like I was being taken on a journey into the centre of Simz’s maze. She explores her own internal universe reflecting on what it means to be free, commenting on the world she watches unfold around her, musing on what it is to pioneer and sends out positive vibes to everyone in the struggle. Her work is full of energy and imagery, creating a visually rich narrative at the heart of the tune.  I also love the battle style posturing that comes with it, you hear it in her flow and in the confident swagger that underlies everything she does – a nod to her roots on the rap battle circuit. This track feels centred, steady but loses none of its edge and I continue to be in love with the pockets of introspection, vulnerability and poetry, beautiful and continually cosmic. I think Simbi is the perfect starter for an ending-my-year-playlist –though  she might feature again because it’s my party. So, as you get into your head space, setting your mood button,  and choosing your armour keep up with the lyrics “Take me to the bottom of the sea Take me somewhere where you forever wanna be I just wanna breathe in flowers And let the time pass gone don’t sweat it I promise you that you will not regret it….” Invitation accepted Simbi.

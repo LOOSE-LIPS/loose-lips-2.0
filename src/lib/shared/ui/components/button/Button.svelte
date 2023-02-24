@@ -1,20 +1,18 @@
 <script lang="ts">
-  export let tag;
-  export let handleTagClick;
-  const handleStyle = () => {
-    console.log("style");
-    this.css("background", "red");
-  };
+  import { cn } from "$lib/models/util";
+
+  export let tag: string;
+  export let onClick: () => void;
+  export let active: boolean;
+
+  console.log({ active });
 </script>
 
 <button
-  on:click={() => {
-    handleTagClick(tag);
-    handleStyle();
-  }}
-  class="text-xl font-bold text-white hover:text-red-400 active:text-red-500 focus:text-red-700 "
-  >{tag.toUpperCase()}</button
+  on:click={onClick}
+  class={cn("test text-xl font-bold text-white", [
+    active,
+    "text-red-500",
+    "text-white hover:text-white/60",
+  ])}>{tag.toUpperCase()}</button
 >
-
-<style>
-</style>

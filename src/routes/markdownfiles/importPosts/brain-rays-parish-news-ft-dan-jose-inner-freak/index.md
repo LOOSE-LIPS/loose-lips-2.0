@@ -1,0 +1,33 @@
+---
+id: 1097
+date: '2020-04-29'
+title: Brain Rays Parish News Ft Dan Jose - Inner Freak - Loose Lips
+type: post
+slug: brain-rays-parish-news-ft-dan-jose-inner-freak
+author: 138
+banner:
+  - ../imported/brain-rays-parish-news-ft-dan-jose-inner-freak/image1097.jpeg
+description: >-
+  &amp;amp;lt;a
+  href=&#8221;http://brainrays.bandcamp.com/album/brain-rays-parish-news-inner-freak-feat-dan-jose&#8221;&amp;amp;gt;Brain
+  Rays &amp;amp;amp;amp; Parish News &#8211; Inner Freak (feat. Dan Jose) by
+  Brain Rays &amp;amp;amp;amp; Parish News&amp;amp;lt;/a&amp;amp;gt; Last Friday
+  saw the release of a brand-new project from award-winning filmmaker Max Sobol
+  and motion-designer Matt Osborne. The pair have created a unique video project
+  &#8211; featuring the latest single by the UK-based producers and DJs-
+  [...]Read More...
+published: true
+tags: []
+featured: false
+---
+![image](../../imported/brain-rays-parish-news-ft-dan-jose-inner-freak/image1097.jpeg)Last Friday saw the release of a brand-new project from award-winning filmmaker Max Sobol and motion-designer Matt Osborne. The pair have created a unique video project – featuring the latest single by the UK-based producers and DJs- _Brain Rays_ and _Parish News_ (whose work has been supported by Annie Mac, Mixmag and Bandcamp). _“Brain Rays had the idea after seeing the ways people were dealing with the unique circumstances brought about by the Covid-19 crisis.”_ 
+
+_![](/img/wysiwyg/5ea991e80d8c6.)__Inner Freak_ is a house track, oriented around the sounds of the midwest. It weaves deep-house synth stabs, progressively oscillating bass parts and mesmerising vocals – encouraging listeners to “let out your inner freak.”The music video consists of footage filmed in the homes of the featured dancers – with a cast of music-lovers from around the world. The core idea is that they transcend social isolation and partake in the familiar and often communal activity of dancing – sharing this visceral musical experience from the isolation of their homes. Max worked with choreographer, dancer and singer-songwriter Bryony Perkins (Punchdrunk) and together have forged a unique quarantine dance routine inspired by the cultural phenomenon of “_TikTok”._ _GET FREAKY FOR THE NHS! SEND US YOUR OWN MOVES AND #TAG_ _#InnerFreaks4NHS #InnerFreaks4NHS #InnerFreaks4NHS #InnerFreaks4NHS #InnerFreaks4NHS_ _Fellow lockdownees from around the world can also get involved by learning the moves and uploading their own videos to social media using the hashtag #InnerFreaks4NHS, and the link to_ [donate here:](https://www.crowdfunder.co.uk/masks4nhsheroes/updates#start)_Wannabe freaks can download a graphics pack to help create the video_ [HERE](https://www.parishnewsmusic.com/)_. Get freaky! get involved!_All proceeds from sales and downloads of ‘Inner Freak’ will go towards supporting **_Masks for NHS Heros_**   
+[](https://www.crowdfunder.co.uk/masks4nhsheroes/updates#start)**_[https://www.crowdfunder.co.uk/masks4nhsheroes/](https://www.crowdfunder.co.uk/masks4nhsheroes/)_****About the team****Max Sobol**   
+Max is a London based writer/director who makes narrative fiction as well as advertising content for brands such as **Google, O2, UNICEF** and many more.In 2014 he completed his first feature film; ['You (Us) Me'](https://www.facebook.com/youusmefilm/) which he wrote, directed and produced. **The film had its International Premiere at Busan IFF** as well as being screened at the East End FF, Gent IFF and several others. It is currently available on Prime Video.In 2017 Max's short ['The Photographer'](https://www.facebook.com/thephotographer2017/) had a successful festival run, including the British Independent Film Festival **where it won the award for Best Cinematography** in a category that included both shorts and features. It has now been released as part of the '[London Calling: Brit Shorts'](https://www.filmdoo.com/films/london-calling-brit-shorts/) anthology on the streaming platform FilmDoo.  
+   
+**Brain Rays**Devon-based producer and DJ, [**Brain Rays**](https://brainrays.bandcamp.com/), has been played on Radio 1 by Annie Mac, and had coverage in [**Mixmag**](https://mixmag.net/feature/listen-to-an-outrageous-bangface-mix-by-tricky-second-album-and-brain-rays)**,** [**FACT Magazine**](https://www.factmag.com/2019/04/01/7-must-hear-mixes-from-march-2019/) and has featured in [**Bandcamp’s popular roundups**](https://daily.bandcamp.com/best-electronic/best-bandcamp-electronic-music-february-2020?utm_source=notification)**.** **Parish News**[Parish News](https://www.instagram.com/parishnewsmusic/) is the electronic music alias of music producer/composer [James stewart](https://www.instagram.com/jamesstewartsound/). A founding member of Devon-based party crew [Bizarre Rituals](https://bizarrerituals.co.uk/). He is currently working on his Debut album set for release in late 2020. **Bryony Perkins**Bryony has danced as a **soloist at Grange Park Opera** and held a **lead actress/dancer role in Punchdrunk's immersive theatre production of The Drowned Man in London**, to name just two.Her choreography has received **support from Arts Council England** and been performed at The Place as part of Spring Loaded Festival. She served as assistant choreographer for a month-long production of Aida at the Royal Albert Hall. Her full length dance creation "Running Through You", received critical acclaim from UK press.She trained as a dancer at London Contemporary Dance School and majored in improvisation and choreography, and in June 2019 she graduated from intensive acting training with clown master Philippe Gaulier, former tutor of Sacha Baron Cohen.**Matt Osborne**Founder and Creative Director of [MOMO graphics](https://www.momographics.co.uk/), Matt is a designer and motion graphics artist based around London. Working on a wide range of projects including advertising, programme graphics, live event visuals, branding design and music videos. Winning a Promax award and with work featured in Televisual Magazine and Motionographer, Matt always aims to push the boundaries of creative work.  
+[](https://www.youtube.com/results?search_query=%23MASKS4HEROES)  
+[#MASKS4HEROES](https://www.youtube.com/results?search_query=%23MASKS4HEROES)  
+[#InnerFreaks4NHS](https://www.youtube.com/results?search_query=%23InnerFreaks4NHS)  
+[#dance4PPE](https://www.youtube.com/results?search_query=%23dance4PPE)
