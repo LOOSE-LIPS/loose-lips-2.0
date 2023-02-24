@@ -46,43 +46,34 @@ for (let i = 1; i < totalPages; i++) {
   })
     .then((response) => response.body)
     .then(async (data) => {
-      data.forEach((mix) => {
+      data.map(async (mix) => {
         if (mix.slug) {
-          getsoundCloudData(`https://soundcloud.com/loose-lips123/${mix.slug}`)
-            .then((res) => {
+          await getsoundCloudData(
+            `https://soundcloud.com/loose-lips123/${mix.slug}`
+          )
+            .then(async (res) => {
               const tags = res.tags ? res.tags : "";
-              const imageData = mix.yoast_head_json.og_image;
-              let outputPaths = [];
-              if (imageData) {
-                const imgDirectory = `../imported/${mix.slug}`;
+              const imageData = mix?.yoast_head_json?.og_image || [];
 
-                if (!fs.existsSync(imgDirectory)) {
-                  fs.mkdirSync(imgDirectory, { recursive: true });
-                }
-                imageData.forEach((data) => {
-                  let imageUrl = data.url;
-                  let outputPath = path.join(
+              const imgDirectory = path.join(
+                rootDir,
+                `static/imported/${mix.slug}`
+              );
+              if (!fs.existsSync(imgDirectory)) {
+                fs.mkdirSync(imgDirectory, { recursive: true });
+              }
+
+              const images = await Promise.all(
+                imageData.map((x) => {
+                  const output = path.join(
                     imgDirectory,
                     `/image${mix.id}.jpeg`
                   );
-                  outputPaths.push(outputPath);
-                  const username = "seedpipdev";
-                  const password = "ThisIsAPassword";
-                  const options = {
-                    headers: {
-                      Authorization:
-                        "Basic " +
-                        Buffer.from(username + ":" + password).toString(
-                          "base64"
-                        ),
-                    },
-                  };
-                  https.get(imageUrl, options, (res) => {
-                    const fileStream = fs.createWriteStream(outputPath);
-                    res.pipe(fileStream);
-                  });
-                });
-              }
+                  return downloadImageTo(x.url, output).then(() =>
+                    path.relative(path.join(rootDir, "static"), output)
+                  );
+                })
+              );
 
               const regex = /^(\d{4})-(\d{2})-(\d{2}).*/;
               const match = regex.exec(mix.date);
@@ -90,17 +81,16 @@ for (let i = 1; i < totalPages; i++) {
                 match[1] + "-" + match[2] + "-" + match[3];
 
               const data = {
-                id: res.id,
+                id: mix.id,
                 date: transformedDateString,
                 title: mix.yoast_head_json.title,
                 type: mix.type,
                 slug: mix.slug,
                 author: mix.author,
-                banner: outputPaths,
+                banner: images,
                 description: mix.yoast_head_json.og_description,
                 published: true,
                 tags: tags,
-                //   secondTags: res.tags,
               };
               const turndownService = new TurndownService();
               const markdownString = turndownService.turndown(
@@ -131,3 +121,21 @@ for (let i = 1; i < totalPages; i++) {
       });
     });
 }
+
+const downloadImageTo = (url, dest) =>
+  new Promise((resolve, reject) => {
+    const username = "seedpipdev";
+    const password = "ThisIsAPassword";
+    const options = {
+      headers: {
+        Authorization:
+          "Basic " + Buffer.from(username + ":" + password).toString("base64"),
+      },
+    };
+    https.get(url, options, (res) => {
+      const fileStream = fs.createWriteStream(dest);
+      res.pipe(fileStream);
+      res.on("end", () => resolve());
+      res.on("error", reject);
+    });
+  });

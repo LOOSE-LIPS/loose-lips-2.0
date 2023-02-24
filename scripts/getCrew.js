@@ -23,38 +23,25 @@ for (let i = 1; i < totalPages; i++) {
   })
     .then((response) => response.body)
     .then((data) => {
-      data.forEach((profile) => {
-        const imageData = profile.yoast_head_json.og_image;
-        let outputPaths = [];
-        if (imageData) {
-          const imgDirectory = `../imported/${profile.slug}`;
+      data.map(async (profile) => {
+        const imageData = profile?.yoast_head_json?.og_image || [];
 
-          if (!fs.existsSync(imgDirectory)) {
-            fs.mkdirSync(imgDirectory, { recursive: true });
-          }
-
-          imageData.forEach((data) => {
-            let imageUrl = data.url;
-            let outputPath = path.join(
-              imgDirectory,
-              `/image${profile.id}.jpeg`
-            );
-            outputPaths.push(outputPath);
-            const username = "seedpipdev";
-            const password = "ThisIsAPassword";
-            const options = {
-              headers: {
-                Authorization:
-                  "Basic " +
-                  Buffer.from(username + ":" + password).toString("base64"),
-              },
-            };
-            https.get(imageUrl, options, (res) => {
-              const fileStream = fs.createWriteStream(outputPath);
-              res.pipe(fileStream);
-            });
-          });
+        const imgDirectory = path.join(
+          rootDir,
+          `static/imported/${profile.slug}`
+        );
+        if (!fs.existsSync(imgDirectory)) {
+          fs.mkdirSync(imgDirectory, { recursive: true });
         }
+
+        const images = await Promise.all(
+          imageData.map((x) => {
+            const output = path.join(imgDirectory, `/image${profile.id}.jpeg`);
+            return downloadImageTo(x.url, output).then(() =>
+              path.relative(path.join(rootDir, "static"), output)
+            );
+          })
+        );
 
         const regex = /^(\d{4})-(\d{2})-(\d{2}).*/;
         const match = regex.exec(profile.date);
@@ -68,7 +55,7 @@ for (let i = 1; i < totalPages; i++) {
           type: profile.type,
           slug: profile.slug,
           author: profile.author,
-          banner: outputPaths,
+          banner: images,
           description: profile.yoast_head_json.og_description,
           published: true,
           tags: ["crew"],
@@ -102,3 +89,21 @@ for (let i = 1; i < totalPages; i++) {
       });
     });
 }
+
+const downloadImageTo = (url, dest) =>
+  new Promise((resolve, reject) => {
+    const username = "seedpipdev";
+    const password = "ThisIsAPassword";
+    const options = {
+      headers: {
+        Authorization:
+          "Basic " + Buffer.from(username + ":" + password).toString("base64"),
+      },
+    };
+    https.get(url, options, (res) => {
+      const fileStream = fs.createWriteStream(dest);
+      res.pipe(fileStream);
+      res.on("end", () => resolve());
+      res.on("error", reject);
+    });
+  });
