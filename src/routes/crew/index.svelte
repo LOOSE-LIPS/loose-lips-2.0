@@ -74,7 +74,9 @@
         />
       </svg>
     </div>
-    <div class="grid  grid-cols-6 grid-rows-4 justify-between gap-5 ">
+    <div
+      class="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 justify-between gap-5 "
+    >
       {#if !searchValue}
         {#each crewMembers as crewMember}
           <CrewPost {crewMember} />

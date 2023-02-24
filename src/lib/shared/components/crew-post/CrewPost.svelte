@@ -19,11 +19,7 @@
 {#if crewMember && crewMember?.slug}
   <div class="mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5">
     <div class="flex flex-col md:flex-row justify-between">
-      <img
-        src={crewMember.banner}
-        alt="profile pic"
-        style="height: 12em;width:18emwidth:100%;"
-      />
+      <img src={crewMember.banner} alt="profile pic" class="w-full" style="" />
     </div>
     <a
       data-sveltekit:prefetch
