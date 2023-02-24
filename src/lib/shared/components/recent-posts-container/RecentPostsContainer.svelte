@@ -29,7 +29,7 @@
 
   const mostRecentPosts: (IBlog | IEventsCard)[] = posts
     .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .slice(0, 1000);
+    .slice(0, 20);
 </script>
 
 <div class="flex flex-col  items-start mb-16 ">
