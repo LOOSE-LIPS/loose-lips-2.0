@@ -120,7 +120,7 @@
       Most Recent
     </h2>
     <div class="grid  grid-cols-3 grid-rows-4 justify-between gap-5">
-      {#each mostRecentBlogs as blog, index (blog.slug)}
+      {#each mostRecentBlogs as blog}
         <BlogPost {blog} />
       {/each}
     </div>
@@ -134,7 +134,7 @@
       <p class="text-gray-600 dark:text-gray-400 mb-4">No posts found.</p>
     {:else}
       <div class="grid  grid-cols-3 grid-rows-4 justify-between gap-5">
-        {#each filteredBlogPosts as blog, index (blog.slug)}
+        {#each filteredBlogPosts as blog}
           <BlogPost {blog} />
         {/each}
       </div>
