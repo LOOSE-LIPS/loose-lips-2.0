@@ -30,7 +30,6 @@
   export let mixes: IMix[];
 
   const posts = [...blogs, ...events];
-  console.log(mixes);
 
   /**
    * @type {IMetaTagProperties}
@@ -40,8 +39,6 @@
     description: "Loose lips label radio and blogging website).",
     keywords: ["radio", "mixes", "london radio", "music"],
   };
-  console.log(events, "events");
-  console.log(posts, "posts");
 </script>
 
 <HeadTags {metaData} />

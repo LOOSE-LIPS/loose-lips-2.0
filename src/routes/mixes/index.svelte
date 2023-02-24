@@ -55,7 +55,7 @@
 
 <HeadTags {metaData} />
 <div class="pt-[5%]">
-  <div class="pl-[25%] pr-[25%] pt-[4%]">
+  <div class="pl-[5%] pr-[10%] pt-[4%]">
     <h1
       class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
     >
@@ -95,7 +95,7 @@
       {/each}
     </div>
 
-    <div class="flex flex-col">
+    <div class="grid  grid-cols-2 grid-rows-4 justify-between gap-3">
       {#each filteredMixes as mixData}
         <MixPost {mixData} />
       {/each}
