@@ -53,7 +53,7 @@
 </script>
 
 <HeadTags {metaData} />
-<div class="flex flex-col justify-start items-start w-[80%]  mb-16">
+<div class="flex flex-col justify-center w-[100%]  mb-16 mt-28">
   <h1
     class="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white"
   >

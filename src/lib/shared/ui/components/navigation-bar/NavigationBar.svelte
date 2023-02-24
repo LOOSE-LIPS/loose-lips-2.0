@@ -11,32 +11,20 @@
   export let logoImage!: string;
   export let title = "";
   export let useTitleAndLogo = false;
-  export let useThemeModeButton = true;
-
-  let dark = true;
 
   const dispatch = createEventDispatcher();
-
-  const toggleTheme = (): void => {
-    dark = !dark;
-    dispatch("toggleTheme", {
-      dark: dark,
-    });
-  };
 </script>
 
-<header
-  class="relative flex text-gray-900 bg-yellow-50 dark:bg-black bg-opacity-60 dark:text-gray-100 w-full"
->
+<header class="opacity-100 relative flex text-gray-900 w-full bg-white">
   <nav
-    class="flex flex-row items-center justify-between w-full max-w-4xl p-6 mx-auto"
+    class="flex flex-row items-center justify-between w-full max-w-4xl  mx-auto opacity-100"
   >
     {#if useTitleAndLogo}
       <div
         class="w-auto p-1 text-gray-900 dark:text-gray-100 font-bold"
         style="position: fixed;
 			left: 5%;
-			top: 10%;
+			top: 5%;
 			transform: translate(-50%, -50%);"
       >
         <a
@@ -58,13 +46,14 @@
       </div>
     {/if}
     <div
-      class="flex flex-col items-center"
+      class="flex flex-row items-center"
       style="
+      opacity: 1;
 		position: fixed;
 right: 0 !important;
 display: flex;
-flex-direction: column;
-margin-top: 45%;
+flex-direction: row;
+margin-top: 5%;
 text-align: right;font-size:3em;"
     >
       {#each navLinks as navLink, index (navLink.path)}
@@ -82,7 +71,7 @@ text-align: right;font-size:3em;"
       {/each}
 
       <div
-        class="flex justify-center items-center flex-wrap space-x-2"
+        class="opacity-100 flex justify-center items-center flex-wrap space-x-2"
         id="menu"
       >
         <svg
@@ -145,34 +134,4 @@ text-align: right;font-size:3em;"
       </div>
     </div>
   </nav>
-  {#if useThemeModeButton}
-    <!-- <button
-      on:click={() => toggleTheme()}
-      aria-label="Toggle Dark Mode"
-      type="button"
-      class={useTitleAndLogo
-        ? "sticky-theme-mode-button w-8 h-8 bg-yellow-50 rounded-full dark:bg-gray-800 filter shadow hover:shadow-md dark:shadow-dark dark:hover:shadow-dark-lg hover:border-2 hover:border-gray-500 dark:hover:border-gray-300 z-10"
-        : "w-8 h-8 bg-yellow-50 rounded-full dark:bg-gray-800 filter shadow hover:shadow-md dark:shadow-dark dark:hover:shadow-dark-lg hover:border-2 hover:border-gray-500 dark:hover:border-gray-300 z-10"}
-    >
-      {#if dark}
-        <Icon
-          data={faSun}
-          class={"h-3 w-3 text-xs text-gray-700 dark:text-gray-100"}
-          scale={1.5}
-        />
-      {:else}
-        <Icon
-          data={faMoon}
-          class={"h-3 w-3 text-xs text-gray-700 dark:text-gray-100"}
-          scale={1.5}
-        />
-      {/if}
-    </button> -->
-  {/if}
 </header>
-
-<!-- <style>
-  .soundcloud {
-    color: orange;
-  }
-</style> -->

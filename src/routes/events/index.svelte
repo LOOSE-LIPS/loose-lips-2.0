@@ -42,7 +42,9 @@
 
 <HeadTags {metaData} />
 
-<div class="flex flex-col justify-center items-start max-w-30 mx-auto mb-16">
+<div
+  class="flex flex-col justify-center mt-28 items-start max-w-30 mx-auto mb-16"
+>
   <h2
     class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
   >

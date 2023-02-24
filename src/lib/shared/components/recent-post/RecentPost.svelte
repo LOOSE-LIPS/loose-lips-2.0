@@ -11,7 +11,7 @@
 </script>
 
 <div
-  class=" mb-4 hover:shadow dark:hover:transition-shadow dark:hover:shadow-dark flex items-center border border-gray-200mb-8 w-full border-gray-100 dark:border-gray-800 p-5"
+  class=" mb-4 hover:shadow dark:hover:transition-shadow dark:hover:shadow-dark flex items-center border border-gray-200mb-8 w-full border-gray-100 dark:border-gray-800 p-2"
 >
   <a
     on:click={(e) => {
@@ -22,8 +22,8 @@
     class="w-full"
   >
     {#if post.banner.length > 0}
-      <div class="flex flex-col md:flex-row justify-between">
-        <img src={post.banner} alt="" style="height: 12em; width:100%;" />
+      <div class="flex flex-col md:flex-row h-100">
+        <img src={post.banner} alt="" style="height: 150%; width:100%;" />
       </div>
     {/if}
     <h3

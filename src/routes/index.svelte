@@ -44,7 +44,7 @@
 <HeadTags {metaData} />
 <LooseLipsBanner />
 
-<div class="w-[85%]">
+<div class="w-[100%] mt-28">
   <FeaturedContent {posts} />
   <RecommendedPostsContainer {posts} />
   <RecentPostsContainer {posts} />
