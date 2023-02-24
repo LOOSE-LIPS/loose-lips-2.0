@@ -95,7 +95,7 @@
       {/each}
     </div>
 
-    <div class="grid  grid-cols-2 grid-rows-4 justify-between gap-3">
+    <div class="grid  grid-cols-4 grid-rows-4 justify-between gap-3">
       {#each filteredMixes as mixData}
         <MixPost {mixData} />
       {/each}
