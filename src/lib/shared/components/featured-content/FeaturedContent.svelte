@@ -29,7 +29,7 @@
     Featured
   </h2>
 
-  <div class="border-grey  border-2 ">
+  <div class=" border border-gray-200mb-8">
     <FeaturedPost {currentPost} />
   </div>
 </div>
