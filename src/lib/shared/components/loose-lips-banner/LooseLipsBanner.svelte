@@ -1,29 +1,30 @@
-<div class="perspective-text">
-  <div class="perspective-line">
-    <p style="margin-left: 23px" class="text-black dark:text-white">LOOSE</p>
+<div class="mt-26">
+  <div class="perspective-text">
+    <div class="perspective-line">
+      <p style="margin-left: 23px" class="text-black dark:text-white">LOOSE</p>
+    </div>
+    <div class="perspective-line">
+      <p style="margin-left: 56px" class="text-black dark:text-white">LIPS</p>
+    </div>
+    <div class="perspective-line">
+      <p style="margin-left: 14px" class="text-black dark:text-white">2.0</p>
+    </div>
   </div>
-  <div class="perspective-line">
-    <p style="margin-left: 56px" class="text-black dark:text-white">LIPS</p>
-  </div>
-  <div class="perspective-line">
-    <p style="margin-left: 14px" class="text-black dark:text-white">2.0</p>
-  </div>
-</div>
 
-<div
-  class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)"
->
-  <img
-    src="images/logo-loose-lips.gif"
-    alt=""
-    style="margin-top: -2vh;"
-    height="250"
-    width="250"
-  />
+  <div
+    class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 hover:transform-rotate(4deg)"
+  >
+    <img
+      src="images/logo-loose-lips.gif"
+      alt=""
+      style="margin-top: -2vh;"
+      height="250"
+      width="250"
+    />
 
-  <a
-    href="#featured"
-    style="
+    <a
+      href="#featured"
+      style="
 width: 0;
 height: 0;
 border-left: 40px solid transparent;
@@ -35,13 +36,14 @@ margin-top:5%;
 color: white;
 z-index:15;
 transform: translate(-50%, 0px);"
-  />
-  <p
-    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white"
-    style="margin: auto;transform: rotate(-15deg);"
-  >
-    HAVE A LOOKSY
-  </p>
+    />
+    <p
+      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white"
+      style="margin: auto;transform: rotate(-15deg);"
+    >
+      HAVE A LOOKSY
+    </p>
+  </div>
 </div>
 
 <style>
