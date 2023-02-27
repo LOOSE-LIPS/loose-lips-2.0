@@ -6,7 +6,7 @@
 </script>
 
 <div class="flex flex-row justify-left items-start max-w-2xl mx-auto">
-  <div class="p-5">
+  <div class="">
     <h2
       class="font-bold text-2xl md:text-2xl tracking-tight mb-2 max-w-1xl text-black dark:text-white"
     >

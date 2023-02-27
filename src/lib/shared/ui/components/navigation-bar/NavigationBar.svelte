@@ -46,14 +46,14 @@
       </div>
     {/if}
     <div
-      class="flex flex-row items-center"
+      class="flex flex-row items-center sm:mr-0"
       style="
       opacity: 1;
 		position: fixed;
 right: 0!important;
 display: flex;
 flex-direction: row;
-margin-top: 7%;font-size:1.8em;margin-right:1em"
+margin-top: 7%;font-size:1.2em;margin-right:1em"
     >
       {#each navLinks as navLink, index (navLink.path)}
         <a

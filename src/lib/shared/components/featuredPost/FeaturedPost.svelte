@@ -26,10 +26,10 @@
       class="w-full"
     >
       <div class="flex flex-col md:flex-row justify-between">
-        <img src={currentPost.banner} alt="" class="w-[100%]  " />
+        <img src={currentPost.banner} alt="" class="w-[100%] h-[18rem] md:h-[25em] lg:h-[32em]" />
 
         <h3
-          class=" p-2.5 text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100 absolute"
+          class=" p-2.5 text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100 absolute w-1/2"
         >
           {currentPost.title}
         </h3>
