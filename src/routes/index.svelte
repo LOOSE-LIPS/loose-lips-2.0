@@ -17,7 +17,6 @@
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import FeaturedContent from "$components/featured-content/FeaturedContent.svelte";
   import TagsContainer from "$shared/components/tags-container/TagsContainer.svelte";
-  import LooseLipsBanner from "$components/loose-lips-banner/LooseLipsBanner.svelte";
   import EventsContainer from "$shared/components/events-container/EventsContainer.svelte";
   import RecentPostsContainer from "$shared/components/recent-posts-container/RecentPostsContainer.svelte";
   import RecommendedPostsContainer from "$lib/shared/components/recommended-posts/RecommendedPostsContainer.svelte";
@@ -43,7 +42,7 @@
 </script>
 
 <HeadTags {metaData} />
-<LooseLipsBanner />
+
 
 <div class="w-[100%] mt-28">
   <FeaturedContent {posts} />

@@ -53,8 +53,7 @@
 right: 0 !important;
 display: flex;
 flex-direction: row;
-margin-top: 5%;
-text-align: right;font-size:3em;"
+margin-top: 5%;font-size:1.8em;"
     >
       {#each navLinks as navLink, index (navLink.path)}
         <a
