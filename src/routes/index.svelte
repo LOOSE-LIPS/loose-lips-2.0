@@ -51,3 +51,9 @@
   <RecentPostsContainer {posts} />
   <!-- <EventsContainer {events} /> -->
 </div>
+
+<style>
+  :global(body){
+    overflow-x: hidden
+  }
+</style>
