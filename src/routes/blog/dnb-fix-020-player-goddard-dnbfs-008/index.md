@@ -6,7 +6,7 @@ type: post
 slug: dnb-fix-020-player-goddard-dnbfs-008
 author: 20
 banner:
-  - imported\dnb-fix-020-player-goddard-dnbfs-008\image1167.jpeg
+  - imported/dnb-fix-020-player-goddard-dnbfs-008/image1167.jpeg
 description: >-
   In the Drum and Bass industry, it&rsquo;s not very often that an artist
   appears seemingly out of thin air. Years of honing your craft just to be given
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\dnb-fix-020-player-goddard-dnbfs-008\image1167.jpeg)_In the Drum and Bass industry, it’s not very often that an artist appears seemingly out of thin air. Years of honing your craft just to be given that one big shot has generally been the norm. But if 2020 hasn’t thrown enough curveball’s yet; here’s another, Goddard with a momentous debut on DnB Allstars, with “Player.”_ With his influences coming from the likes Maribou State and Bonobo more than that of Spirit and Intalex; its unsurprisingly obvious that Goddard’s path to DnB debut has been an exploratory one. Drum and Bass might not have started as his true love, but it’s one which has certainly been nurtured by Goddard. Clearly he’s also not shy of hard work; with the London based producer having previously carved his way across the house music spectrum; releases, remixes and radio shows all under his belt; all this hard work has inevitably culminated in his recent work. 
+![image](../imported/dnb-fix-020-player-goddard-dnbfs-008/image1167.jpeg)_In the Drum and Bass industry, it’s not very often that an artist appears seemingly out of thin air. Years of honing your craft just to be given that one big shot has generally been the norm. But if 2020 hasn’t thrown enough curveball’s yet; here’s another, Goddard with a momentous debut on DnB Allstars, with “Player.”_ With his influences coming from the likes Maribou State and Bonobo more than that of Spirit and Intalex; its unsurprisingly obvious that Goddard’s path to DnB debut has been an exploratory one. Drum and Bass might not have started as his true love, but it’s one which has certainly been nurtured by Goddard. Clearly he’s also not shy of hard work; with the London based producer having previously carved his way across the house music spectrum; releases, remixes and radio shows all under his belt; all this hard work has inevitably culminated in his recent work. 
 
 [DnB Allstars](https://soundcloud.com/dnballstars "DnB Allstars") · [Goddard – Player](https://soundcloud.com/dnballstars/goddard-player "Goddard - Player")
 

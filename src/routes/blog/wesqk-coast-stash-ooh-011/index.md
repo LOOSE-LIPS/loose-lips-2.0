@@ -6,7 +6,7 @@ type: post
 slug: wesqk-coast-stash-ooh-011
 author: 100
 banner:
-  - imported\wesqk-coast-stash-ooh-011\image779.jpeg
+  - imported/wesqk-coast-stash-ooh-011/image779.jpeg
 description: >-
   Taken from Wesqk Coast&rsquo;s limited edition cassette [OOH-011] the video
   for &#39;S.T.A.S.H.&#39;explores post-modern accelerationism with playful
@@ -20,7 +20,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\wesqk-coast-stash-ooh-011\image779.jpeg)Taken from [Wesqk Coast](https://wesqkcoast.bandcamp.com/)’s limited edition cassette \[OOH-011\] the video for 'S.T.A.S.H.'  
+![image](../imported/wesqk-coast-stash-ooh-011/image779.jpeg)Taken from [Wesqk Coast](https://wesqkcoast.bandcamp.com/)’s limited edition cassette \[OOH-011\] the video for 'S.T.A.S.H.'  
 explores post-modern accelerationism with playful spirit taking advantage of the rhetorical  
 aesthetics of computer gaming, pop-up financial info-graphics, commercial advertising and  
 flash animations for social media.  

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-175-renato-silveira
 author: 100
 banner:
-  - imported\loose-lips-mix-series-175-renato-silveira\image3113.jpeg
+  - imported/loose-lips-mix-series-175-renato-silveira/image3113.jpeg
 description: >-
   Paraguayan perfection. Renato kicked it all off in Asunción &#038; Ciudad Del
   Este before starting to make a name for himself in Buenos Aires in 2017.

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-210-frank-timson
 author: 100
 banner:
-  - imported\loose-lips-mix-series-210-frank-timson\image3148.jpeg
+  - imported/loose-lips-mix-series-210-frank-timson/image3148.jpeg
 description: >-
   Frank grew up in the same corner of England, the South West, as many of the LL
   crew! @medallionman recently re-connected with him following an appearance of

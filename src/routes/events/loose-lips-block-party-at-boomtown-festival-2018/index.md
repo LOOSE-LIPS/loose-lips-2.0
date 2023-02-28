@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-block-party-at-boomtown-festival-2018
 author: 100
 banner:
-  - imported\loose-lips-block-party-at-boomtown-festival-2018\image2766.jpeg
+  - imported/loose-lips-block-party-at-boomtown-festival-2018/image2766.jpeg
 description: >-
   We&#39;re back! Loose Lips&#39; Block Party taking over Barrio Loco district
   at Boomtown. [...]Read More...

@@ -6,7 +6,7 @@ type: crew
 slug: tersoo-sugden
 author: 100
 banner:
-  - imported\tersoo-sugden\image4525.jpeg
+  - imported/tersoo-sugden/image4525.jpeg
 description: 'ADVISOR [...]Read More...'
 published: true
 tags:

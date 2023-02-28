@@ -6,7 +6,7 @@ type: event
 slug: seeksicksound-x-loose-lips
 author: 100
 banner:
-  - imported\seeksicksound-x-loose-lips\image2809.jpeg
+  - imported/seeksicksound-x-loose-lips/image2809.jpeg
 description: >-
   C&#39;est la rentr&eacute;e, SeekSickSound reprend sa r&eacute;sidence
   &agrave; L&#39;INTERNATIONAL en invitant, comme d&#39;habitude, un collectif

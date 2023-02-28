@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-218-gagarin
 author: 100
 banner:
-  - imported\loose-lips-mix-series-218-gagarin\image3156.jpeg
+  - imported/loose-lips-mix-series-218-gagarin/image3156.jpeg
 description: >-
   Gagarin is the solo incarnation of musician Graham “ Dids” Dowdall &#8211; who
   has a long career of performing and collaborating with the likes of Nico, Pere

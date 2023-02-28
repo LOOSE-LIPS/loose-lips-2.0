@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-307-blypken
 author: 100
 banner:
-  - imported\loose-lips-mix-series-307-blypken\image3245.jpeg
+  - imported/loose-lips-mix-series-307-blypken/image3245.jpeg
 description: >-
   A sensory melting pot of deep, extravagant, comical, caustic, swag and more
   condensed into 41&#8242;! @blypken George D. Stănciulescu (b.1982) is a

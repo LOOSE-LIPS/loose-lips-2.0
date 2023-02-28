@@ -9,7 +9,7 @@ slug: loose-lips-mix-series-253-walton-loose-lips-5th-anniversary-promo-mix
 author: 100
 banner:
   - >-
-    imported\loose-lips-mix-series-253-walton-loose-lips-5th-anniversary-promo-mix\image3191.jpeg
+    imported/loose-lips-mix-series-253-walton-loose-lips-5th-anniversary-promo-mix/image3191.jpeg
 description: >-
   In anticipation of our Secret Location Rave: Keysound x Loose Lips we have
   bass heavyweight Walton in the mix for our 253rd installment. Being one of the

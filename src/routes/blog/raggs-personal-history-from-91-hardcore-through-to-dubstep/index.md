@@ -7,7 +7,7 @@ slug: raggs-personal-history-from-91-hardcore-through-to-dubstep
 author: 100
 banner:
   - >-
-    imported\raggs-personal-history-from-91-hardcore-through-to-dubstep\image1387.jpeg
+    imported/raggs-personal-history-from-91-hardcore-through-to-dubstep/image1387.jpeg
 description: >-
   It&rsquo;s time to get excited. Which is to say, it&rsquo;s the time when
   we&rsquo;re all feeling shit and really realistically have no idea when rave
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\raggs-personal-history-from-91-hardcore-through-to-dubstep\image1387.jpeg)[](https://www.youtube.com/watch?v=1MEzjB1kZXk)[](https://www.youtube.com/watch?v=1MEzjB1kZXk)**It’s time to get excited. Which is to say, it’s the time when we’re all feeling shit and really realistically have no idea when rave shall return, so the getting of excitement has to be gradual, substantial, for the summer (or winter) of love to change lives as it should. Time to tune into eachother’s gold dust drawers, to tie our hifi’s together via the web. Stepping up is the OG that is Raggs, a rave legend who** [**destroyed**](https://thenycdownlow.com/2020/03/11/raggs-iicon-glastonbury-2019/) **the IICON stage at Glastonbury in 2019. As per, all Spotifyable tracks are gathered** [**here**](https://open.spotify.com/playlist/08Tu39SCDfD4edHBiT3zmL)**, enjoy…**
+![image](../imported/raggs-personal-history-from-91-hardcore-through-to-dubstep/image1387.jpeg)[](https://www.youtube.com/watch?v=1MEzjB1kZXk)[](https://www.youtube.com/watch?v=1MEzjB1kZXk)**It’s time to get excited. Which is to say, it’s the time when we’re all feeling shit and really realistically have no idea when rave shall return, so the getting of excitement has to be gradual, substantial, for the summer (or winter) of love to change lives as it should. Time to tune into eachother’s gold dust drawers, to tie our hifi’s together via the web. Stepping up is the OG that is Raggs, a rave legend who** [**destroyed**](https://thenycdownlow.com/2020/03/11/raggs-iicon-glastonbury-2019/) **the IICON stage at Glastonbury in 2019. As per, all Spotifyable tracks are gathered** [**here**](https://open.spotify.com/playlist/08Tu39SCDfD4edHBiT3zmL)**, enjoy…**
 
 Hey there, Raggs here, I’m a musician, producer, DJ, event promoter, and journalist.  Delighted to be invited to share the dark corners of my vinyl collection with you by the mighty Threads team, although distilling my selection down to ten has been more stressful than I’d imagined! At this time in my career, I’m focussed on 140 bpm, I’m producing and playing grime, breaks and drill as well as my established specialist genres.  Head over to my [soundcloud](http://soundcloud.com/raggsmusic) for production work, and [mixcloud](http://mixcloud.com/djraggs) for mixes/radio sets.  I’ve been broadcasting on radio since the pirate days of UKG, a personal history that I’ve woven into these choices, particularly in regard to UKG and Dubstep, which are my biggest areas of specialisation.I decided to spotlight the underground scenes I have been a part of, that fuelled my record collection: raving, performing, working and creating, and select pivotal tracks that shaped my dance music experience over the years.The genres I shall include are:
 

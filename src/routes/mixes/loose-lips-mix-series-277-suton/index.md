@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-277-suton
 author: 100
 banner:
-  - imported\loose-lips-mix-series-277-suton\image3216.jpeg
+  - imported/loose-lips-mix-series-277-suton/image3216.jpeg
 description: >-
   We turn to a special guest who we met during our 5th Anniversary tour, when he
   invited us to collaborate with his Inverza Electronics night in Belgrade! And

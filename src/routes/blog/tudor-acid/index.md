@@ -6,7 +6,7 @@ type: post
 slug: tudor-acid
 author: 100
 banner:
-  - imported\tudor-acid\image1382.jpeg
+  - imported/tudor-acid/image1382.jpeg
 description: >-
   Ahead of his Loose Lips Live Session streaming live this evening, Tudor Acid
   has given us a sneak preview into the exploration, with this splendid, lush,
@@ -19,5 +19,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\tudor-acid\image1382.jpeg)Ahead of his Loose Lips Live Session streaming live this evening, [Tudor Acid](https://www.discogs.com/artist/1799662-Tudor-Acid) has given us a sneak preview into the exploration, with this splendid, lush, melody-driven track.Hitting that Braindance itch![https://soundcloud.com/tudorbeats](https://soundcloud.com/tudorbeats)  
+![image](../imported/tudor-acid/image1382.jpeg)Ahead of his Loose Lips Live Session streaming live this evening, [Tudor Acid](https://www.discogs.com/artist/1799662-Tudor-Acid) has given us a sneak preview into the exploration, with this splendid, lush, melody-driven track.Hitting that Braindance itch![https://soundcloud.com/tudorbeats](https://soundcloud.com/tudorbeats)  
 [tudoracid.bandcamp.com](https://gate.sc/?url=https%3A%2F%2Ftudoracid.bandcamp.com&token=cca82a-1-1610722781930 "https://tudoracid.bandcamp.com")This Live Session will be raising funds and awareness for [fareshare.org.uk](https://gate.sc/?url=https%3A%2F%2Ffareshare.org.uk&token=99f68d-1-1610722781930 "https://fareshare.org.uk"). Check out our Youtube, Facebook & Twitch pages at 18:30 (GMT).

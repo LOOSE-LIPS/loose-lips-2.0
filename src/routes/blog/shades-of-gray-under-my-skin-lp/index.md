@@ -6,7 +6,7 @@ type: post
 slug: shades-of-gray-under-my-skin-lp
 author: 61
 banner:
-  - imported\shades-of-gray-under-my-skin-lp\image995.jpeg
+  - imported/shades-of-gray-under-my-skin-lp/image995.jpeg
 description: >-
   In the present world, we see less and less shades of grey (gray). Everything
   has to be black or white, awash with absolutes or at least made to feel that
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\shades-of-gray-under-my-skin-lp\image995.jpeg)In the present world, we see less and less shades of grey (gray). Everything has to be black or white, awash with absolutes or at least made to feel that way. However, music is of course an entity that can accentuate our escapism via emotion, although this is often only fleeting. Beef Records have helped blur the sentient lines once more, with a third full length studio album from the duo known as ‘Shades of Gray’.
+![image](../imported/shades-of-gray-under-my-skin-lp/image995.jpeg)In the present world, we see less and less shades of grey (gray). Everything has to be black or white, awash with absolutes or at least made to feel that way. However, music is of course an entity that can accentuate our escapism via emotion, although this is often only fleeting. Beef Records have helped blur the sentient lines once more, with a third full length studio album from the duo known as ‘Shades of Gray’.
 
 The half Czech, half Australian duo consists of long-time friends Michal Ruzicka (aka DJ Schwa) and Nick West. The pair met in 2005, when Michal landed in Australia for a handful of gigs. His head full of dreams and bag full of vinyl, Michal’s forthright passion swiftly struck gold when he bumped into Nick and they hit it off immediately. Their cognizant opinions regarding the obsession of genre within the music industry, and unerring love of producing and DJing music intertwined and within no time – they became studio and label partners. The Shades of Gray moniker was soon borne out of this musical connection, and by 2007 they had released their first 12” on their own Beef Records.
 

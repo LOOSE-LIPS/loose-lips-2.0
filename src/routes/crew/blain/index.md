@@ -6,7 +6,7 @@ type: crew
 slug: blain
 author: 100
 banner:
-  - imported\blain\image4551.jpeg
+  - imported/blain/image4551.jpeg
 description: >-
   WRITER / EDITOR / DNB FIX Having spent his early years trawling through raves
   in the North of England, he truly settled when at University. Helping to run

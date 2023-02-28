@@ -6,7 +6,7 @@ type: post
 slug: treeces-rap-up-mozzy-beyond-bulletproof
 author: 158
 banner:
-  - imported\treeces-rap-up-mozzy-beyond-bulletproof\image1121.jpeg
+  - imported/treeces-rap-up-mozzy-beyond-bulletproof/image1121.jpeg
 description: >-
   Treece is back again for the third edition of Rap Up, introducing you to his
   favourite new wordplay. If you missed the last edition, he reviewed Big
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\treeces-rap-up-mozzy-beyond-bulletproof\image1121.jpeg)_Treece is back again for the third edition of Rap Up, introducing you to his favourite new wordplay. If you missed the last edition, he reviewed Big Moochie Grapes' debut; 'Eat or Get Ate'. This time round, heading to California, he chose the Sacramento rapper Mozzy's most recent release: 'Beyond Bulletproof'…_![](/wp-content/uploads/live/img/wysiwyg/5ebd144262386.jpg)
+![image](../imported/treeces-rap-up-mozzy-beyond-bulletproof/image1121.jpeg)_Treece is back again for the third edition of Rap Up, introducing you to his favourite new wordplay. If you missed the last edition, he reviewed Big Moochie Grapes' debut; 'Eat or Get Ate'. This time round, heading to California, he chose the Sacramento rapper Mozzy's most recent release: 'Beyond Bulletproof'…_![](/wp-content/uploads/live/img/wysiwyg/5ebd144262386.jpg)
 
 Although keeping a relatively low profile in the mainstream, the controversial West coast rapper has had a roller coaster career thus far. An impressive run of over ten album/mixtape releases between 2011 and 2016 led to Complex naming the rapper's performance; 'the best of 2015'. A high work ethic is something he's managed to maintain throughout his tumultuous career, releasing five projects last year alone. However, Mozzy is possibly best known for his gang ties, bleak lifestyle and letting his music beef bleed on to the streets. In 2014 Mozzy released a diss track aimed for another local rapper 'Lavish D'. The track entitled 'I'm Jus Bein Honest' led to a gang war between Mozzy's 'Guttah Team' & Lavish's 'Starzup Gang'; eight shootings associated with the incident followed. 
 

@@ -6,7 +6,7 @@ type: post
 slug: lente-kabinet
 author: 52
 banner:
-  - imported\lente-kabinet\image939.jpeg
+  - imported/lente-kabinet/image939.jpeg
 description: >-
   My Festival Summer: Part One &#8211; An honest opinion on Dekmantel&rsquo;s
   small sibling Lente Kabinet.&nbsp; Coinciding with a period of partial
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\lente-kabinet\image939.jpeg)**My Festival Summer: Part One – An honest opinion on Dekmantel’s small sibling Lente Kabinet.** 
+![image](../imported/lente-kabinet/image939.jpeg)**My Festival Summer: Part One – An honest opinion on Dekmantel’s small sibling Lente Kabinet.** 
 
 Coinciding with a period of partial unemployment and low finances, this summer I wisely decided to give zero fucks and indulge in more festival experiences than a judicious, closer to his 30s than 20s person would normally have had. Hurra for me!In light of the fact that I most likely will not be able to do it again next year, I also decided it would be nice to give my two cents and divulge my not so professional or sober opinion about them to the world. Here’s a short disclaimer on the way these articles were conceived and a possible interpretation key. 
 

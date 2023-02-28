@@ -10,7 +10,7 @@ slug: >-
 author: 100
 banner:
   - >-
-    imported\veslemes-i-know-where-you-live-vangelis-anatolian-weapons-slow-and-low-remix-byr025\image1207.jpeg
+    imported/veslemes-i-know-where-you-live-vangelis-anatolian-weapons-slow-and-low-remix-byr025/image1207.jpeg
 description: >-
   Athen-based producer Anatolian Weapons on remix duties here, distillating the
   original into a slow, gritty and corrosive acid dub piece. &nbsp; From
@@ -23,5 +23,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\veslemes-i-know-where-you-live-vangelis-anatolian-weapons-slow-and-low-remix-byr025\image1207.jpeg)Athen-based producer [Anatolian Weapons](https://anatolianweapons.bandcamp.com/) on remix duties here, distillating the original into a slow, gritty and corrosive acid dub piece.  From [Veslemes](https://felizol.bandcamp.com/)' _Know Where You Live Vangelis!_ EP on [Byrd Out](https://byrdout.com/).Out 24.07.2020 on limited cassette and digital – Pre-order: [](https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis)[https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis](https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis)[](https://soundcloud.com/byrdout)[https://soundcloud.com/byrdout](https://soundcloud.com/byrdout)  
+![image](../imported/veslemes-i-know-where-you-live-vangelis-anatolian-weapons-slow-and-low-remix-byr025/image1207.jpeg)Athen-based producer [Anatolian Weapons](https://anatolianweapons.bandcamp.com/) on remix duties here, distillating the original into a slow, gritty and corrosive acid dub piece.  From [Veslemes](https://felizol.bandcamp.com/)' _Know Where You Live Vangelis!_ EP on [Byrd Out](https://byrdout.com/).Out 24.07.2020 on limited cassette and digital – Pre-order: [](https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis)[https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis](https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis)[](https://soundcloud.com/byrdout)[https://soundcloud.com/byrdout](https://soundcloud.com/byrdout)  
 [](https://soundcloud.com/felizol)[https://soundcloud.com/felizol](https://soundcloud.com/felizol)

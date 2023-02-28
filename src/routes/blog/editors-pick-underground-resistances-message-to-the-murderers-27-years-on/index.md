@@ -9,7 +9,7 @@ slug: editors-pick-underground-resistances-message-to-the-murderers-27-years-on
 author: 124
 banner:
   - >-
-    imported\editors-pick-underground-resistances-message-to-the-murderers-27-years-on\image954.jpeg
+    imported/editors-pick-underground-resistances-message-to-the-murderers-27-years-on/image954.jpeg
 description: >-
   For this version of Editors&#39; Pick, Will takes us back to the thoughts of
   Nadia Taylor who explores the rebellious history of Underground
@@ -21,7 +21,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\editors-pick-underground-resistances-message-to-the-murderers-27-years-on\image954.jpeg)_For this version of Editors' Pick, Will takes us back to the thoughts of Nadia Taylor who explores the rebellious history of Underground Resistance_ 
+![image](../imported/editors-pick-underground-resistances-message-to-the-murderers-27-years-on/image954.jpeg)_For this version of Editors' Pick, Will takes us back to the thoughts of Nadia Taylor who explores the rebellious history of Underground Resistance_ 
 
 I found this 12" in Los Angeles on my recent travels. Being an LA virgin, I hit the record stores hard, nothing escaped my crate, not even psychedelic cabaret  recordings.Being the Spotify algo addict that I am, I felt like there was so much more music out there beyond my Throw Back Thursday playlist. Ironically I only managed to pick out early 90’s dance tracks produced in the UK, at least I was consistent with my choices. My search for a perfect Detroit techno record came to an end when I stumbled across 'Message to the Majors' by Underground Resistance. What grabbed my  attention first was an uncompromising message on the record sleeve to DJ Be Basic from Mad Mike. Most likely Be Basic was another struggling dj, way before being basic became worse the bubonic plague. It felt like I had opened a bottle with a  secret message that has traveled through the sea of musical history for decades, and ended up on my lap. Mad Mike's bold hand writing ordered – "Keep the Faith & Stay Low!", "Stay Strong, Stay Underground". At that time I knew very little about Underground  Resistance and even less about Mad Mike, but soon this was to change. Stay with me. (Be Basic's identity is still a complete mystery to me).Far removed from Detroit and found in a small record shop in LA, this record captivated my attention with its angry, unapologetically militant and,  at the same time, very familiar old school beat. In a very relevant 'fuck the system' fashion, I ended up getting this record for free. One of the shop keepers recognised my moral dilemma – the hours of searching resulted in a big stack of vinyls with a price  tag to match. In solidarity he decided to gift me with the most expensive one – "Message to the Majors" (shout out to the Record Parlour in LA). Apparently it was something to do with their anniversary and completely unrelated to my eclectic choice of records,  which I insisted on playing for two hours straight (it must have started grinding them down after a while). Frankly I think they needed their record player back.  
 

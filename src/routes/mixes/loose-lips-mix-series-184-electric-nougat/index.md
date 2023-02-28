@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-184-electric-nougat
 author: 100
 banner:
-  - imported\loose-lips-mix-series-184-electric-nougat\image3122.jpeg
+  - imported/loose-lips-mix-series-184-electric-nougat/image3122.jpeg
 description: >-
   Tom Williams, aka Deathbeast, aka Electric Nougat, is one hell of a selector,
   and a real lover of both tattoos and tea. Eclecticism is the name of the game.

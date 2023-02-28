@@ -6,7 +6,7 @@ type: post
 slug: aaja-1st-b-day
 author: 3
 banner:
-  - imported\aaja-1st-b-day\image930.jpeg
+  - imported/aaja-1st-b-day/image930.jpeg
 description: >-
   Why did you choose MOT for the venue? Our first party at MOT was to celebrate
   the 1 year anniversary of AAJA Deptford, our live streaming and event space in
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\aaja-1st-b-day\image930.jpeg)**Why did you choose MOT for the venue?**
+![image](../imported/aaja-1st-b-day/image930.jpeg)**Why did you choose MOT for the venue?**
 
 Our first party at MOT was to celebrate the 1 year anniversary of [AAJA Deptford](http://www.aajamusic.com), our live streaming and event space in SE London. MOT, if you haven't been, is a great warehouse space with wicked staff and a wicked sound system. It seemed fitting to host our first birthday there because of the focus on progressive music and an authentic rave experience. MOT is one of the local venues championing the underground and burgeoning artists with a huge focus on the music. Its located near Millwall in an industrial park all giving the feeling that your going to an off the radar illegal party.
 

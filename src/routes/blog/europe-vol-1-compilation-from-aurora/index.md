@@ -6,7 +6,7 @@ type: post
 slug: europe-vol-1-compilation-from-aurora
 author: 103
 banner:
-  - imported\europe-vol-1-compilation-from-aurora\image1085.jpeg
+  - imported/europe-vol-1-compilation-from-aurora/image1085.jpeg
 description: >-
   Artists:&nbsp;Hesper Act, Mattia Prete, Nino Sebelic, Fran Hartnett, Stanislav
   Glazov, Here Now There Then, Stndrd, FU 5 Release Date: May 27th, 2020 Format:
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\europe-vol-1-compilation-from-aurora\image1085.jpeg)  
+![image](../imported/europe-vol-1-compilation-from-aurora/image1085.jpeg)  
 Artists: Hesper Act, Mattia Prete, Nino Sebelic, Fran Hartnett, Stanislav Glazov, Here Now There Then, Stndrd, FU 5Release Date: May 27th, 2020Format: DigitalGenre: Techno
 
 Aurora. is a brand new label from a group of like-minded artists around Europe who look to connect people through techno. The first release is a compilation that presents eight tracks from eight artists in eight different European countries, and three more volumes will follow so that eventually all 28 countries in the EU are represented.Through its releases, Aurora. will explore country – and city – specific techno variations. It will then make bridges between these different creative enclaves, create bonds between artists and listeners and give a voice to the more unknown and unusual scenes out there. This first compilation is a fine way to kick off and a wonderful window into new techno worlds.The UK opens things up with a track from Hesper Act, a newcomer who is inspired by astronomy. His 'Babaj66F' is a fizzing mix of widescreen synthscapes, bubbling melodies and rhythmic ambient that takes you to an uncertain future world where tense leads and pixelated pads bring the tension. Next up is co-founder Mattia Prete from Lecce, a real visionary who also manages the Jazz-O-Tech label and the This Is Techno Jazz parties in Berlin. His 'Pidocchio' is a cantering techno track with loopy drums getting you in the zone while slivers of metallic synths glisten like knives and bring a sense of terror.Serbia’s Nino Šebelić has been making music since just 13 years of age, so very much has his own voice and take on classic Detroit. After releases on labels like Motech and Logos he offers 'Smog', a dark and trippy techno roller with Jeff Mills style melodies melting your mind while taught analogue drums and dark cosmic forces all race along. Then it is to Ireland for AudioAssault, Subsist and Stasis artist Fran Hartnett’s '2000 Machines', a blistering piece of techno with punchy drums and frazzled synths bringing real texture to the compelling groove.

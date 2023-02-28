@@ -6,7 +6,7 @@ type: post
 slug: picks-loose-lips-bandcamp-quarantine-essentials
 author: 164
 banner:
-  - imported\picks-loose-lips-bandcamp-quarantine-essentials\image1049.jpeg
+  - imported/picks-loose-lips-bandcamp-quarantine-essentials/image1049.jpeg
 description: >-
   Times are tough. Money is tight. Boris Johnson has promised things will be
   different this time, that the Tories won&#39;t screw over workers in the way
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\picks-loose-lips-bandcamp-quarantine-essentials\image1049.jpeg)_Times are tough. Money is tight. Boris Johnson has promised things will be different this time, that the Tories won't screw over workers in the way they did last time we had an economic crash (having recently announced a budget not far off from that which they mocked Labour for a few months ago), but things won't get any easier for independent artists any time soon. Thankfully, the most artist-friendly platform, bandcamp, has decided to drop its fees for the day, so we thought it would be a great time to highlight a few of our favourite low key releases. If at all possible, please do reach into your pockets._
+![image](../imported/picks-loose-lips-bandcamp-quarantine-essentials/image1049.jpeg)_Times are tough. Money is tight. Boris Johnson has promised things will be different this time, that the Tories won't screw over workers in the way they did last time we had an economic crash (having recently announced a budget not far off from that which they mocked Labour for a few months ago), but things won't get any easier for independent artists any time soon. Thankfully, the most artist-friendly platform, bandcamp, has decided to drop its fees for the day, so we thought it would be a great time to highlight a few of our favourite low key releases. If at all possible, please do reach into your pockets._
 
 I own this on cassette and once listened to it twice in the row, with the volume on full and with the lights off, which means I deserve to live in a psychiatric ward. Give it a listen and you'll see what I mean._"true to his insatiable avarice"_– Jack Hunter
 

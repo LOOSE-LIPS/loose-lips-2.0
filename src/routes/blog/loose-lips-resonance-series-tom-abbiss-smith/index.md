@@ -6,7 +6,7 @@ type: post
 slug: loose-lips-resonance-series-tom-abbiss-smith
 author: 76
 banner:
-  - imported\loose-lips-resonance-series-tom-abbiss-smith\image1143.jpeg
+  - imported/loose-lips-resonance-series-tom-abbiss-smith/image1143.jpeg
 description: >-
   The deep cuts of Tom abbiss smith&rsquo;s paper works first caught my eye at
   the d&amp;ad new blood convention in 2018. He was manning a stand there which
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\loose-lips-resonance-series-tom-abbiss-smith\image1143.jpeg)The deep cuts of Tom abbiss smith’s paper works first caught my eye at the d&ad new blood convention in 2018. He was manning a stand there which displayed his smoothed out homages to nature and idyllic forms. A kind of shrine to his chilled-out work, his stand showed a bounty of patterned dopeness.
+![image](../imported/loose-lips-resonance-series-tom-abbiss-smith/image1143.jpeg)The deep cuts of Tom abbiss smith’s paper works first caught my eye at the d&ad new blood convention in 2018. He was manning a stand there which displayed his smoothed out homages to nature and idyllic forms. A kind of shrine to his chilled-out work, his stand showed a bounty of patterned dopeness.
 
 ![](https://lh4.googleusercontent.com/Drvizs4hTlSXbOiRpHKzFZmJQw3UiA_vIJH4fiPHfzDBBXfVfiyZUar-XQjBW4LXt7ywLRqpb3AgQuXrdBOE01FIO2AGKAsTv-ruDA_nYfDjYY44j2YJGy-Yj7oemZlv22R2S4ZF)
 

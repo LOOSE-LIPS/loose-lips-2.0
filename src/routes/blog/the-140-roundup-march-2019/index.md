@@ -6,7 +6,7 @@ type: post
 slug: the-140-roundup-march-2019
 author: 17
 banner:
-  - imported\the-140-roundup-march-2019\image801.jpeg
+  - imported/the-140-roundup-march-2019/image801.jpeg
 description: >-
   March brought more proof of the current vitality of sounds revolving around
   140 BPM rhythms. The whole ecosystem of these scenes seemed to display the
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\the-140-roundup-march-2019\image801.jpeg)March brought more proof of the current vitality of sounds revolving around 140 BPM rhythms. The whole ecosystem of these scenes seemed to display the wave of creativity that has fostered over the course of the last two years. This can be noticed in a number of soundclashes and dubwars happening in both the physical and the virtual realm. Grime-wise, March saw Rakjay taking the BeatBoss champion title home in a clash that also involved Spooky, Maxsta, KXVU and Potentz – yet another sign that Rakjay will be one to watch this year. If that weren’t enough, his next EP just got announced which coming out April 19 through Nights NSX Records with Argo on the remix. Meanwhile, the infamous Shitty Dubstep Facebook group started hosting a new edition of its dubwar, with a first round that included most of the fresh talent in the dubstep scene right now – Epnu, Gnischrew, Mungk, Ekula, Drumterror, Nova and many more featured. Round 2 incoming now, with some serious clashes to witness – OldGold v. Namaste, Drumterror & Photes v. DJ Absurd and Panix v. Cartridge being those I await the most. All of this occurred while La Dub War kept on raging within the French scene – the French soundclash is three rounds in, with a free compilation coming out soon including all of the bits from Round 2. 
+![image](../imported/the-140-roundup-march-2019/image801.jpeg)March brought more proof of the current vitality of sounds revolving around 140 BPM rhythms. The whole ecosystem of these scenes seemed to display the wave of creativity that has fostered over the course of the last two years. This can be noticed in a number of soundclashes and dubwars happening in both the physical and the virtual realm. Grime-wise, March saw Rakjay taking the BeatBoss champion title home in a clash that also involved Spooky, Maxsta, KXVU and Potentz – yet another sign that Rakjay will be one to watch this year. If that weren’t enough, his next EP just got announced which coming out April 19 through Nights NSX Records with Argo on the remix. Meanwhile, the infamous Shitty Dubstep Facebook group started hosting a new edition of its dubwar, with a first round that included most of the fresh talent in the dubstep scene right now – Epnu, Gnischrew, Mungk, Ekula, Drumterror, Nova and many more featured. Round 2 incoming now, with some serious clashes to witness – OldGold v. Namaste, Drumterror & Photes v. DJ Absurd and Panix v. Cartridge being those I await the most. All of this occurred while La Dub War kept on raging within the French scene – the French soundclash is three rounds in, with a free compilation coming out soon including all of the bits from Round 2. 
 
 ![](/wp-content/uploads/live/img/wysiwyg/5cac8e6b23c9a.jpg)
 

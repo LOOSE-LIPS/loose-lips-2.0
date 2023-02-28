@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-231-squallfront
 author: 100
 banner:
-  - imported\loose-lips-mix-series-231-squallfront\image3169.jpeg
+  - imported/loose-lips-mix-series-231-squallfront/image3169.jpeg
 description: >-
   Here&#8217;s an ultra-varied selection ready to tingle your cortex for the
   next couple hours! @eckerecords @xantraxmusic @johnnycounce Ecke

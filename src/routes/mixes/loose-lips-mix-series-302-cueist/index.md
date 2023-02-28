@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-302-cueist
 author: 100
 banner:
-  - imported\loose-lips-mix-series-302-cueist\image3240.jpeg
+  - imported/loose-lips-mix-series-302-cueist/image3240.jpeg
 description: >-
   A classic wax-only Dubstep selection from Cueist, @threadsradio regular and
   Holsten Pills extraordinaire. TRACKLIST: -undisclosed- www.loose-lips.co.uk

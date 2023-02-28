@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-201-soreab
 author: 100
 banner:
-  - imported\loose-lips-mix-series-201-soreab\image3140.jpeg
+  - imported/loose-lips-mix-series-201-soreab/image3140.jpeg
 description: >-
   New artwork, another banging, destabilising, euphoric mix&#8230;
   https://www.facebook.com/soreabuk Soreab is the musical project of Dario

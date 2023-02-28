@@ -6,7 +6,7 @@ type: post
 slug: what-to-look-forward-to-2019-1
 author: 108
 banner:
-  - imported\what-to-look-forward-to-2019-1\image731.jpeg
+  - imported/what-to-look-forward-to-2019-1/image731.jpeg
 description: >-
   As 2018 ends, Loose Lips takes a look forward to the most exciting events to
   put in your diary for 2019. Although this was originally supposed to be for
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\what-to-look-forward-to-2019-1\image731.jpeg)As 2018 ends, Loose Lips takes a look forward to the most exciting events to put in your diary for 2019. Although this was originally supposed to be for all of 2019, the crew had too many good suggestions for January and February alone, so we may get another edition out soon!
+![image](../imported/what-to-look-forward-to-2019-1/image731.jpeg)As 2018 ends, Loose Lips takes a look forward to the most exciting events to put in your diary for 2019. Although this was originally supposed to be for all of 2019, the crew had too many good suggestions for January and February alone, so we may get another edition out soon!
 
 **Matt Hardy – Festival Forte (Portugal) 22-25 August**After attending for the first time last year, it was one of the first dates in my diary. The spectacular line up at this single stage festival matches the extraordinary scenery of the Montemor-o-Velho Castle and surrounding towns in Portugal. Certainly a unique event. Inside tip: make sure you grab a hot dog at the stand next to the entrance – let’s just say that it’s not your typical hot dog.
 

@@ -6,7 +6,7 @@ type: post
 slug: in-conversation-with-repulsion-off-switch-audio
 author: 153
 banner:
-  - imported\in-conversation-with-repulsion-off-switch-audio\image802.jpeg
+  - imported/in-conversation-with-repulsion-off-switch-audio/image802.jpeg
 description: >-
   Recently you&#39;ll have seen we featured Grand Prix by Repulsion; ahead of
   the release of his new EP on Off Switch Audio. &nbsp;We were lucky enough to
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\in-conversation-with-repulsion-off-switch-audio\image802.jpeg)Recently you'll have seen we featured Grand Prix by Repulsion; ahead of the release of his new EP on Off Switch Audio.  We were lucky enough to speak with the man behind the exceptional release and talk to him about his journey, his techniques and the future.
+![image](../imported/in-conversation-with-repulsion-off-switch-audio/image802.jpeg)Recently you'll have seen we featured Grand Prix by Repulsion; ahead of the release of his new EP on Off Switch Audio.  We were lucky enough to speak with the man behind the exceptional release and talk to him about his journey, his techniques and the future.
 
 **Nice to speak to you today Joshua, for the uneducated; can you let us know a bit about yourself and your musical journey so far?**Likewise to you. So, I picked up an interest in music production in 2011. Back then, I used to use websites to create music. There was one I honestly can't remember the name of, but it had various pre set loops for you to use on it. It's kinda crazy to think how I was using things like that and Audacity to make tunes just from loops.First time I used an actual DAW was early 2012. It was a copy of FL Studio 9 on my brother's laptop. I later upgraded to 10 on my computer. I stuck to self releasing on YouTube and Bandcamp for a while until I started talking to people actually within the scene I chose to dive into, which was Dubstep.My first turning point was when I signed to Substantial Audio and Subquake Audio.  Following that, was being introduced to Abstrakt Sonance through Fill Spectre, then signing to F-One and Dubfreq's label, Southside Dubstars UK.  Vinyl Vigilance was next, releasing my first vinyl EP with musical partner in crime, nova and Pacific Numen.Now, I'm signed to the Sub.Mission agency with my booking agent and co-booking agent, Max Kipperman and Diana Neculcea.I honestly couldn't be more content with the growth over the past 8 years as well as the people I've been fortunate enough to meet and befriend.
 

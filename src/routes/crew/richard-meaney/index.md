@@ -6,7 +6,7 @@ type: crew
 slug: richard-meaney
 author: 100
 banner:
-  - imported\richard-meaney\image4539.jpeg
+  - imported/richard-meaney/image4539.jpeg
 description: >-
   Richard Meaney is a UK-born writer, DJ and producer; currently residing in
   Toronto.&nbsp; Holding a Master&rsquo;s Degree in Advertising and Marketing,

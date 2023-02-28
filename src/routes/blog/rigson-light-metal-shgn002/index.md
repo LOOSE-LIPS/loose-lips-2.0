@@ -6,7 +6,7 @@ type: post
 slug: rigson-light-metal-shgn002
 author: 100
 banner:
-  - imported\rigson-light-metal-shgn002\image1034.jpeg
+  - imported/rigson-light-metal-shgn002/image1034.jpeg
 description: >-
   A majestic cyberpunk fly-by! From RIGSON&#39;s&nbsp;Private Hell EP on
   Shonagai. Out 15.03.2020 on 12&quot; and digital &#8211; Pre-order:
@@ -18,5 +18,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\rigson-light-metal-shgn002\image1034.jpeg)A majestic cyberpunk fly-by!From [RIGSON's](https://soundcloud.com/rigsonrigson) _Private Hell_ EP on [Shonagai](https://shoganai-records.bandcamp.com/).Out 15.03.2020 on 12" and digital – Pre-order: [](https://shoganai-records.bandcamp.com/album/private-hell)[https://shoganai-records.bandcamp.com/album/private-hell](https://shoganai-records.bandcamp.com/album/private-hell)[https://soundcloud.com/shoganai-records](https://soundcloud.com/shoganai-records)  
+![image](../imported/rigson-light-metal-shgn002/image1034.jpeg)A majestic cyberpunk fly-by!From [RIGSON's](https://soundcloud.com/rigsonrigson) _Private Hell_ EP on [Shonagai](https://shoganai-records.bandcamp.com/).Out 15.03.2020 on 12" and digital – Pre-order: [](https://shoganai-records.bandcamp.com/album/private-hell)[https://shoganai-records.bandcamp.com/album/private-hell](https://shoganai-records.bandcamp.com/album/private-hell)[https://soundcloud.com/shoganai-records](https://soundcloud.com/shoganai-records)  
 [https://soundcloud.com/rigsonrigson](https://soundcloud.com/rigsonrigson)

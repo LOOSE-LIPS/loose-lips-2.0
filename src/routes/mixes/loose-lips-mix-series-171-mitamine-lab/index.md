@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-171-mitamine-lab
 author: 100
 banner:
-  - imported\loose-lips-mix-series-171-mitamine-lab\image3109.jpeg
+  - imported/loose-lips-mix-series-171-mitamine-lab/image3109.jpeg
 description: >-
   Acid, happy hardcore, techno, classics and more&#8230;this mix is gonna boost
   your energy like an awful vegan kombucha wonder drink.

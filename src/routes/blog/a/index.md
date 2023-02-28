@@ -6,11 +6,11 @@ type: post
 slug: a
 author: 160
 banner:
-  - imported\a\image1395.jpeg
+  - imported/a/image1395.jpeg
 description: 'a [...]Read More...'
 published: true
 tags:
   - post
 featured: false
 ---
-![image](../imported\a\image1395.jpeg)a
+![image](../imported/a/image1395.jpeg)a

@@ -7,7 +7,7 @@ slug: loose-lips-5th-anniv-in-bristol-w-galaxian-special-guest-tba
 author: 100
 banner:
   - >-
-    imported\loose-lips-5th-anniv-in-bristol-w-galaxian-special-guest-tba\image2806.jpeg
+    imported/loose-lips-5th-anniv-in-bristol-w-galaxian-special-guest-tba/image2806.jpeg
 description: >-
   5 years since Loose Lips was born from a hyper discussion in a sweaty living
   room after coming back from a long night at Fabric! To celebrate half a decade

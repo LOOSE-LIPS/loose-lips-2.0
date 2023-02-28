@@ -6,7 +6,7 @@ type: post
 slug: resonance-series-10-will-humphreys
 author: 76
 banner:
-  - imported\resonance-series-10-will-humphreys\image1230.jpeg
+  - imported/resonance-series-10-will-humphreys/image1230.jpeg
 description: >-
   Welcome to this edition of &#39;Resonance Series&#39; &#8211; a feature,
   curated by Jasper Golding, about the interplay between art forms. A love for
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\resonance-series-10-will-humphreys\image1230.jpeg)**Welcome to this edition of 'Resonance Series' – a feature, curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.****Music massively influences visual art, and vice versa. This feature, running every other Tuesday from now on, introduces you to musical individuals via their visual art first, telling a personal story of their creative output and how different mediums influence each other.****For the 10th edition we have an insight in to the work of Will Humphreys AKA** [**Makirikur.**](https://soundcloud.com/makirikur)
+![image](../imported/resonance-series-10-will-humphreys/image1230.jpeg)**Welcome to this edition of 'Resonance Series' – a feature, curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.****Music massively influences visual art, and vice versa. This feature, running every other Tuesday from now on, introduces you to musical individuals via their visual art first, telling a personal story of their creative output and how different mediums influence each other.****For the 10th edition we have an insight in to the work of Will Humphreys AKA** [**Makirikur.**](https://soundcloud.com/makirikur)
 
 ![](/wp-content/uploads/live/img/wysiwyg/5f329adda66d5.JPG)
 

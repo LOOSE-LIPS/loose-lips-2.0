@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-283-soosee-cue
 author: 100
 banner:
-  - imported\loose-lips-mix-series-283-soosee-cue\image3221.jpeg
+  - imported/loose-lips-mix-series-283-soosee-cue/image3221.jpeg
 description: >-
   Soosee Cue dropping 68&#8242; of rave euphoria &#8211; an energising trip down
   the Hardcore Continuum! Have pHun in this mix of Breakbeat, Dubstep, Speed

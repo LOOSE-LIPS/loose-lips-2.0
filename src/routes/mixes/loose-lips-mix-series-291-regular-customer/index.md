@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-291-regular-customer
 author: 100
 banner:
-  - imported\loose-lips-mix-series-291-regular-customer\image3229.jpeg
+  - imported/loose-lips-mix-series-291-regular-customer/image3229.jpeg
 description: >-
   Regular Customer is no stranger to Loose Lips! As well as being Kozber and 1/2
   of Bonasforsa with Rico Casazza, who we&#8217;ve covered quite extensively,

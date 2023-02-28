@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-234-johnroland
 author: 100
 banner:
-  - imported\loose-lips-mix-series-234-johnroland\image3172.jpeg
+  - imported/loose-lips-mix-series-234-johnroland/image3172.jpeg
 description: >-
   An ecstatic journey through breaks, bass and beyond from the guys behind
   Digital Distortions! &#8220;A bunch of tracks played one after the other in a

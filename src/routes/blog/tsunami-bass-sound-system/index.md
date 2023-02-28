@@ -6,7 +6,7 @@ type: post
 slug: tsunami-bass-sound-system
 author: 100
 banner:
-  - imported\tsunami-bass-sound-system\image812.jpeg
+  - imported/tsunami-bass-sound-system/image812.jpeg
 description: >-
   In anticipation of the Shadow Zone : 011 : Loose Lips UK Takeover in Brooklyn
   tonight, we thought we should get some insights into the Tsunami Bass
@@ -18,4 +18,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\tsunami-bass-sound-system\image812.jpeg)
+![image](../imported/tsunami-bass-sound-system/image812.jpeg)

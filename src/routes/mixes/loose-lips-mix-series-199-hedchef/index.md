@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-199-hedchef
 author: 100
 banner:
-  - imported\loose-lips-mix-series-199-hedchef\image3137.jpeg
+  - imported/loose-lips-mix-series-199-hedchef/image3137.jpeg
 description: >-
   Bristol-based kick drum scientist Hedchef stitches together 60 minutes of
   broad-reaching techno low-end, ranging from the darkest broken UK dungeon

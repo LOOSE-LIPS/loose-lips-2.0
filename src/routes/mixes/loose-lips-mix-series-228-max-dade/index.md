@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-228-max-dade
 author: 100
 banner:
-  - imported\loose-lips-mix-series-228-max-dade\image3166.jpeg
+  - imported/loose-lips-mix-series-228-max-dade/image3166.jpeg
 description: >-
   Long time due mix from very good friend and writer/editor for Loose Lips! Max
   sent us a hazey yet dancey mix, ranging from dirty acidic House to blurry

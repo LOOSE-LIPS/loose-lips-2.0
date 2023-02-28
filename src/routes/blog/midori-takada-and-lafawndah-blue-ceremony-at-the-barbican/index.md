@@ -7,7 +7,7 @@ slug: midori-takada-and-lafawndah-blue-ceremony-at-the-barbican
 author: 44
 banner:
   - >-
-    imported\midori-takada-and-lafawndah-blue-ceremony-at-the-barbican\image845.jpeg
+    imported/midori-takada-and-lafawndah-blue-ceremony-at-the-barbican/image845.jpeg
 description: >-
   Genre defying pop music is not a phrase one would quickly attribute to, now
   cult level, Japanese percussionist Midori Takada. So the collaboration with up
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\midori-takada-and-lafawndah-blue-ceremony-at-the-barbican\image845.jpeg)Genre defying pop music is not a phrase one would quickly attribute to, now cult level, Japanese percussionist Midori Takada. So the collaboration with up and comer Lafawndah doesn’t jump out on paper. However, the little known story of her taking up residence with legend David Bowie, and indulging in acidic binges that would put both the Beatles and the merry pranksters to shame, helps it all make sense. Her solo show professing the ‘perfect wisdom’ taken to new, all encompassing heights, stepping outside any cultural and religious preconceptions and frameworks to spread the devout message. A feeling familiar to those ‘experienced’ a feeling, a knowing, which isn’t tarnished by dogma and thus accessible to all.
+![image](../imported/midori-takada-and-lafawndah-blue-ceremony-at-the-barbican/image845.jpeg)Genre defying pop music is not a phrase one would quickly attribute to, now cult level, Japanese percussionist Midori Takada. So the collaboration with up and comer Lafawndah doesn’t jump out on paper. However, the little known story of her taking up residence with legend David Bowie, and indulging in acidic binges that would put both the Beatles and the merry pranksters to shame, helps it all make sense. Her solo show professing the ‘perfect wisdom’ taken to new, all encompassing heights, stepping outside any cultural and religious preconceptions and frameworks to spread the devout message. A feeling familiar to those ‘experienced’ a feeling, a knowing, which isn’t tarnished by dogma and thus accessible to all.
 
 On a quiet Sunday (of course for any ceremonial proceedings to have power ) at the barbican she steps out into the darkness. A single light illuminates the bell chimes to the left of the stage as she gently creeps in, movements accented with chimes. Every movement as precise and controlled as the notes she plays. Easing into position in front of the chimes she begins to strike, precise order. Top left, top right, middle, bottom left, bottom right, almost as though she is banging in a cheat code, the sacred code, to summon the monks into being and bless the land for ceremonial proceedings. 
 

@@ -6,7 +6,7 @@ type: post
 slug: picks-loose-lips-x-5ras-top-jungle-tracks
 author: 164
 banner:
-  - imported\picks-loose-lips-x-5ras-top-jungle-tracks\image785.jpeg
+  - imported/picks-loose-lips-x-5ras-top-jungle-tracks/image785.jpeg
 description: >-
   Fire, thunder, chaos, rhythm, speed. Jungle. We usually invite individual
   guests to share themed Picks pieces, but for this edition the Loose Lips and
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\picks-loose-lips-x-5ras-top-jungle-tracks\image785.jpeg)_Fire, thunder, chaos, rhythm, speed. Jungle. We usually invite individual guests to share themed Picks pieces, but for this edition the Loose Lips and 5RA Teams went B2B, vibing off a shared love for that hardest shaking, massive-est of genres, the sound that is jungle. (Shouts to_ [_Finn_](http://loose-lips.co.uk/crew/finnegan-travers) _for the design!)__![](/wp-content/uploads/live/img/wysiwyg/5c917abb7d4ad.jpg)_**Finnegan Travers:****1\. Splash – Babylon** **2\. Lemon D – Manhattan Melody** **3\. Third Party – Screwface****Guy Man:****1\. Rising sons – Dreams Of You****2\. Richie Brains – Bring Dat Back******3\. D Bridge – China Blue******  
+![image](../imported/picks-loose-lips-x-5ras-top-jungle-tracks/image785.jpeg)_Fire, thunder, chaos, rhythm, speed. Jungle. We usually invite individual guests to share themed Picks pieces, but for this edition the Loose Lips and 5RA Teams went B2B, vibing off a shared love for that hardest shaking, massive-est of genres, the sound that is jungle. (Shouts to_ [_Finn_](http://loose-lips.co.uk/crew/finnegan-travers) _for the design!)__![](/wp-content/uploads/live/img/wysiwyg/5c917abb7d4ad.jpg)_**Finnegan Travers:****1\. Splash – Babylon** **2\. Lemon D – Manhattan Melody** **3\. Third Party – Screwface****Guy Man:****1\. Rising sons – Dreams Of You****2\. Richie Brains – Bring Dat Back******3\. D Bridge – China Blue******  
 [](https://www.youtube.com/watch?v=7o7Ax_BGByg)****Treece:****1\. Top Gun – Ruffest Gun Ark (DJ Rap Remix)****2\. DJ K – Respect** ****3\. Debaser – My Sound Rule**** **Oliver Libby:****1\. Jus-Ed – Come On And Dance** **2\. Photek – T'Raenon  
 ****  
 3\. DJ Dextrous (Da Kings Of The Jungle) – Time To Move  

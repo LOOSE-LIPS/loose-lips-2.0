@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-167-dmarc-cantu-live
 author: 100
 banner:
-  - imported\loose-lips-mix-series-167-dmarc-cantu-live\image3105.jpeg
+  - imported/loose-lips-mix-series-167-dmarc-cantu-live/image3105.jpeg
 description: >-
   We&#8217;ve been listening to his tunes since day dot&#8230; &#8220;The focus
   was to create something that sounded like you were there, so the approach was

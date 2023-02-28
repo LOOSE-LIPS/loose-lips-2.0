@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-296-wade-watts
 author: 100
 banner:
-  - imported\loose-lips-mix-series-296-wade-watts\image3234.jpeg
+  - imported/loose-lips-mix-series-296-wade-watts/image3234.jpeg
 description: >-
   A virtual character our resident @jef-t-scale has encountered throughout the
   years&#8230;now summoned here for a 1h exploration of video game music, this

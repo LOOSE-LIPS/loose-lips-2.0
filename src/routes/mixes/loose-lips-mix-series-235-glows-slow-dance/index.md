@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-235-glows-slow-dance
 author: 100
 banner:
-  - imported\loose-lips-mix-series-235-glows-slow-dance\image3173.jpeg
+  - imported/loose-lips-mix-series-235-glows-slow-dance/image3173.jpeg
 description: >-
   A real pleasure to have Glows, representing young London collective Slow Dance
   on our next Mix Series! In here you&#8217;ll hear a selection going in many

@@ -7,7 +7,7 @@ slug: loose-lips-invited-by-ransom-note-records-ambient-brunch
 author: 100
 banner:
   - >-
-    imported\loose-lips-invited-by-ransom-note-records-ambient-brunch\image2786.jpeg
+    imported/loose-lips-invited-by-ransom-note-records-ambient-brunch/image2786.jpeg
 description: >-
   An intimate Sunday brunchtime session aiming to enthral, transfix and
   captivate. FREE ENTRY 10am &#8211; 3pm Ransom Note records, Arch 437, Cranmer

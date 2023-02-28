@@ -6,7 +6,7 @@ type: post
 slug: namscha-desterro-syrinx-music
 author: 100
 banner:
-  - imported\namscha-desterro-syrinx-music\image1199.jpeg
+  - imported/namscha-desterro-syrinx-music/image1199.jpeg
 description: >-
   Namscha brings out a mix of extremes on this Industrial piece, throwing
   distorted kicks and screeching synths alongside natural sounds getting
@@ -20,5 +20,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\namscha-desterro-syrinx-music\image1199.jpeg)Namscha brings out a mix of extremes on this Industrial piece, throwing distorted kicks and screeching synths alongside natural sounds getting absorbed into this stomping machine.From _Pilote_ V/A EP on [Syrinx Music](https://syrinxmusicfr.bandcamp.com/).Out 10.07.2020 on 12", cassette and digital – Pre-order: [](https://syrinxmusicfr.bandcamp.com/releases)[https://syrinxmusicfr.bandcamp.com/releases](https://syrinxmusicfr.bandcamp.com/releases)[https://soundcloud.com/syrinx\_music](https://soundcloud.com/syrinx_music)  
+![image](../imported/namscha-desterro-syrinx-music/image1199.jpeg)Namscha brings out a mix of extremes on this Industrial piece, throwing distorted kicks and screeching synths alongside natural sounds getting absorbed into this stomping machine.From _Pilote_ V/A EP on [Syrinx Music](https://syrinxmusicfr.bandcamp.com/).Out 10.07.2020 on 12", cassette and digital – Pre-order: [](https://syrinxmusicfr.bandcamp.com/releases)[https://syrinxmusicfr.bandcamp.com/releases](https://syrinxmusicfr.bandcamp.com/releases)[https://soundcloud.com/syrinx\_music](https://soundcloud.com/syrinx_music)  
 [](https://soundcloud.com/namscha)[https://soundcloud.com/namscha](https://soundcloud.com/namscha)

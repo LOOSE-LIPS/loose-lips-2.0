@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-170-dez-williams
 author: 100
 banner:
-  - imported\loose-lips-mix-series-170-dez-williams\image3107.jpeg
+  - imported/loose-lips-mix-series-170-dez-williams/image3107.jpeg
 description: >-
   Brooding broken beats throughout&#8230;
   https://www.facebook.com/dezwilliamsmusic Holy Island, an island off of the

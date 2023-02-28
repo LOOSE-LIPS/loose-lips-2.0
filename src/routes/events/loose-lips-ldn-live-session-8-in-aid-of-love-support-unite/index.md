@@ -7,7 +7,7 @@ slug: loose-lips-ldn-live-session-8-in-aid-of-love-support-unite
 author: 100
 banner:
   - >-
-    imported\loose-lips-ldn-live-session-8-in-aid-of-love-support-unite\image2751.jpeg
+    imported/loose-lips-ldn-live-session-8-in-aid-of-love-support-unite/image2751.jpeg
 description: >-
   If you haven&#39;t been to a Loose Lips Live Session before, the events are
   revolved around any and all types of live musical performance that are in our

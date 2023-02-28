@@ -6,7 +6,7 @@ type: post
 slug: derrick-carter-at-sunnyside
 author: 137
 banner:
-  - imported\derrick-carter-at-sunnyside\image885.jpeg
+  - imported/derrick-carter-at-sunnyside/image885.jpeg
 description: >-
   Since Move D&rsquo;s mind-blowing set at Sunnyside, I have been desperate to
   get back to the sun-kissed shoreline of Lake Ontario for another another
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\derrick-carter-at-sunnyside\image885.jpeg)Since [Move D](http://loose-lips.co.uk/blog/take-a-walk-on-the-sunnyside?fbclid=IwAR0Tdf2MeZUwtQ4U_hjLXRdu7C1xkTd4aXxmin68HkqBUfLHdqWg60m18U0)’s mind-blowing set at Sunnyside, I have been desperate to get back to the sun-kissed shoreline of Lake Ontario for another another instalment of their summer programme. Last weekend saw Sunnyside host the one and only [Derrick Carter](https://www.facebook.com/Derrick-Carter-8264478846/), alongside [Richard Brooks](https://www.facebook.com/BrooksChord/), [Sean Roman](https://www.facebook.com/sromanmusic/), [Miz Megs](https://www.facebook.com/djmizmegs/) and [Strange City](https://www.facebook.com/strangecitymusic) & [Tele](https://www.facebook.com/teledj1). On this gorgeously sunny Saturday, we were truly blessed with musical curation and event production of the highest level. 
+![image](../imported/derrick-carter-at-sunnyside/image885.jpeg)Since [Move D](http://loose-lips.co.uk/blog/take-a-walk-on-the-sunnyside?fbclid=IwAR0Tdf2MeZUwtQ4U_hjLXRdu7C1xkTd4aXxmin68HkqBUfLHdqWg60m18U0)’s mind-blowing set at Sunnyside, I have been desperate to get back to the sun-kissed shoreline of Lake Ontario for another another instalment of their summer programme. Last weekend saw Sunnyside host the one and only [Derrick Carter](https://www.facebook.com/Derrick-Carter-8264478846/), alongside [Richard Brooks](https://www.facebook.com/BrooksChord/), [Sean Roman](https://www.facebook.com/sromanmusic/), [Miz Megs](https://www.facebook.com/djmizmegs/) and [Strange City](https://www.facebook.com/strangecitymusic) & [Tele](https://www.facebook.com/teledj1). On this gorgeously sunny Saturday, we were truly blessed with musical curation and event production of the highest level. 
 
 [Strange City](https://www.facebook.com/strangecitymusic) & [Tele](https://www.facebook.com/teledj1) got the party started with a blend of deep house peppered with summery piano chords, feel-good disco vocals and instrumental nods to the Midwestern mood that would permeate throughout the evening’s acts. Meanwhile, [Richard Brooks](https://www.facebook.com/BrooksChord/) got the ball rolling on the main-stage – producing a refined mix that left a lasting impression on me. It began with minimal tech and deep house, typified by its hypnotic grooves and the use of compression on the low-end frequencies. As the set evolved, this bass compression gave way to a more rolling style of tech-house – filling the high walled venue with brain-melting bass and kick-drum sequences. 
 
