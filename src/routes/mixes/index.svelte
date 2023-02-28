@@ -13,6 +13,7 @@
 
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
+  import TagsContainer from "$shared/components/tags-container/TagsContainer.svelte";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import MixPost from "$shared/components/mix-post/MixPost.svelte";
   import Button from "$shared/ui/components/button/Button.svelte";
@@ -33,8 +34,10 @@
     .filter((x) => x.trim())
     .reduce((a, b) => (a.includes(b) ? a : [...a, b]), []);
 
-  let selectedTags = [];
   let visible = mixData;
+
+  let selectedTags = [];
+
   let searchValue = "";
 
   const handleTagClick = (tag) => {
@@ -48,6 +51,7 @@
       return selectedTags.includes(x.tags);
     });
   };
+  console.log("test");
 </script>
 
 <HeadTags {metaData} />
@@ -82,6 +86,10 @@
         />
       </svg>
     </div>
+
+    <!-- <TagsContainer {tags} {visible}/> -->
+
+
     <div class="flex flex-row flex-wrap w-full mt-4 items-center">
       {#each tags as tag, index (tag)}
         <Button

@@ -10,6 +10,7 @@ const username = "seedpipdev";
 const password = "ThisIsAPassword";
 const totalPages = 16;
 const rootDir = process.cwd();
+
 export async function getsoundCloudData(url) {
   return client
     .getSongInfo(url)
@@ -100,7 +101,7 @@ for (let i = 1; i < totalPages; i++) {
 
               const folderDirectory = path.join(
                 rootDir,
-                `src/routes/markdownfiles/importMixes/${mix.slug}`
+                `src/routes/mixes/${mix.slug}`
               );
 
               if (!fs.existsSync(folderDirectory)) {

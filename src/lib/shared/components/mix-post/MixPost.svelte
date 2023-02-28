@@ -10,23 +10,6 @@
 </script>
 
 <div class="flex-col h-[100%] m-6 ">
-  <!-- <div
-    style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"
-  >
-    <a
-      href="https://soundcloud.com/loose-lips123"
-      title="Loose Lips"
-      target="_blank"
-      style="color: #cccccc; text-decoration: none;">Loose Lips</a
-    >
-    ·
-    <a
-      href="https://soundcloud.com/loose-lips123/loose-lips-mix-series-410-highrise"
-      title="Loose Lips Mix Series - 410 - Highrise"
-      target="_blank"
-      style="color: #cccccc; text-decoration: none;">{mixData.title}</a
-    >
-  </div> -->
   >
   <h3
     class="text-lg md:text-xl font-medium  w-full text-gray-900 dark:text-gray-100"

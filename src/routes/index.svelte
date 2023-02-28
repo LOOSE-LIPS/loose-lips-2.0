@@ -39,21 +39,30 @@
     description: "Loose lips label radio and blogging website).",
     keywords: ["radio", "mixes", "london radio", "music"],
   };
+
+  let searchValue = "";
+  $: filteredBlogPosts = blogs
+    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
+    .filter((blog) =>
+      blog.title.toLowerCase().includes(searchValue.toLowerCase())
+    );
+  // End: Local component properties
+
+  console.log("home");
 </script>
 
 <HeadTags {metaData} />
 
-
 <div class="w-[100%] mt-28">
   <FeaturedContent {posts} />
-  <TagsContainer {blogs} />
+  <!-- <TagsContainer {blogs} /> -->
   <RecommendedPostsContainer {posts} />
   <RecentPostsContainer {posts} />
-  <!-- <EventsContainer {events} /> -->
+  <EventsContainer {events} />
 </div>
 
 <style>
-  :global(body){
-    overflow-x: hidden
+  :global(body) {
+    overflow-x: hidden;
   }
 </style>

@@ -75,7 +75,7 @@ for (let i = 1; i < totalPages; i++) {
         const yamlData = yaml.safeDump(data);
         const folderDirectory = path.join(
           rootDir,
-          `src/routes/markdownfiles/importCrew/${profile.slug}`
+          `src/routes/crew/${profile.slug}`
         );
 
         if (!fs.existsSync(folderDirectory)) {

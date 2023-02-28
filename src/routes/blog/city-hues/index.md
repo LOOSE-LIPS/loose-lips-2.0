@@ -1,0 +1,168 @@
+---
+id: 1005
+date: '2020-01-25'
+title: City Hues - Loose Lips
+type: post
+slug: city-hues
+author: 100
+banner:
+  - imported\city-hues\image1005.jpeg
+description: >-
+  Deep Cuts is a new multi-writer article format from Loose Lips. Members of our
+  sprawling community are asked to share music and experiences along a shared
+  theme.&nbsp; This month&rsquo;s theme is City Hues. Its prompt question:
+  &lsquo;What music sounds like your city (or a corner of it)?&rsquo;&nbsp;
+  Songs from each writer&rsquo;s contribution are gathered in [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported\city-hues\image1005.jpeg)**_Deep Cuts is a new multi-writer article format from Loose Lips. Members of our sprawling community are asked to share music and experiences along a shared theme._** _**This month’s theme is City Hues. Its prompt question: ‘What music sounds like your city (or a corner of it)?’**_ **_Songs from each writer’s contribution are gathered in the mix below (cooked up by Olli Ripatti). Every song shared (except a few that aren't on Spotify) is gathered in_** [**_this helpful playlist_**](https://open.spotify.com/playlist/3IJ2KkADMLURwUm5F4bL3D?si=Ypb7eo0vSoaeZmx0zh_Ukw)**_. You can also check last month's article, 'Head Space',_** [**_here_**](http://loose-lips.co.uk/blog/head-space-loose-lips-inaugural-deep-cuts-feature)**_._****Peach Doble**I just moved to Porto, into an artist community housed in an ex-brothel – which coincidentally also faces a working brothel. The city smells salty but smoky, something to do with the bachalau spinning in shop windows and the dusty roads being dug up.Somewhat stupidly, I didn’t realise Porto isn’t actually _that_ warm. I walked to a €1 second-hand shop for cheap clothes, and came across a shimmering, green striped blazer resonant of Madonna’s jacket in the 80’s film Desperately Seeking Susan. After surgically removing its beefy shoulder pads, I put it on and headed out.On my way to a bar I was searching for a lighter in the jacket pocket, and found a floppy, damp piece of paper. I pulled it out – it was a note written in swirly blue biro scrawls in slang Portuguese. To be understood only by its owner. It felt so intimate, as if I was walking past a house and looking inside the window. Excitedly asking people to decipher its meaning, it seemed to be part to-do list, part shopping list, with a few unusual recipes thrown into the mix. But I wanted to know why some were scribbled out, or ‘X’ed, and some weren’t. One of them said something like ‘pick-up Julia from the airport’, it wasn’t crossed off and so I wondered if she was still there… waiting.The hieroglyphs started to make some scrappy, mildly coherent sense on Google translate. Some were simple, like ‘chemist butcher’ or ‘3.30 make &amp; bake 2 cups to make gel’. But one struck me as particularly unusual, it said: ‘Vejo Pia de Doce ja bele 200 g. Cauana’, which Google translated to be: ‘I see Sweet Sink already beautiful 200 g. Cauana’. Whichever way I typed ‘Cauana’ on Google translate, nothing showed up. I assumed it must be slang as I’ve heard that Google translate uses Brazilian Portuguese. I searched ‘Cauana’ on Google, which produced soundcloud links to an artist based in Curitiba, Brazil.Described by Brazilian electronic festival, Xama, ‘the presentation of Cauana the last time we rubbed our feet in the fine sand of Algodões, when night fell and a splendid moon bathed us to the sound of their exquisite selection was something overwhelming.’ Although I’ve listened to everything she’s posted on soundcloud – and you should too – I picked her previous Xama set for this piece. \[Mas Profundo, by Bruxas, appears at 14:00 in this mix, and the beginning of our Deep Cuts mix above\]Although Cauana is on the other side of the world, chance encounters led me to be her biggest fan.With this piece, I hope she gets some soundcloud likes.[_Peach Doble_](https://www.instagram.com/peachdoble/) _is an illustrator, writer (for It's Nice That and Metal Magazine) and_ [_animator_](https://www.youtube.com/watch?v=p5ObhQXssxQ&fbclid=IwAR0dIA2GcTlx-o9PqQnjp8yOW4HWYF_0tUuU7kRf3xj9VkCVRkeI-TDP1G0&app=desktop)_._ **  
+Sienna Smith**Although I grew up in West London, I feel most at home in South London with its vibrancy and multiculturalism. What I love about Brixton is that, for all of its flaws, there is a real sense of community – especially amongst the black people that are its beating heart and long-time residents, amidst all the gentrification of late. I love listening to soul music whilst pottering around the neighbourhood on a weekend, it just fits. Lovely Day \[5:30 in the mix\] is so full of joy and Bill Withers has an incredibly expressive voice, his groove is so natural in this song and you can’t help but feel relaxed and content whilst listening to it. I have had it on repeat for an age._Sienna Smith doesn't add salt to her food._
+
+**Sarah Kuhail**It’s a complicated connection, that with your hometown. Its unconditional love and absolute hate, complete acceptance and full on rejection. This song is as bittersweet as home feels like, it brings up all the tensions of living in a city that is conservative on so many levels yet offers you hidden sweet spots, it feels nostalgic, melodramatic, exilic, yet so warm and relaxing. It leaves you confused yet at ease, with a bit of hope.Connecting songs; not perfect, but somehow they work for me, I think because of the lyrical meanings.\[_Smek (Rey Kjavik Remix)_ appears at 9:28 in the mix\]  
+  
+_Sarah Kuhail is currently studying Digital Culture and Society at KCL._
+
+**Julia Star**London is a city that often drives me fucking nuts, that I have to break my back and work full time and do music in the evenings or my days off, that literally doesn’t allow me to take any fucking time off. Yeah.I worked very hard to finish my EP “not2b” with my friends Zoee and Suny. We talk about breakups and being shit at love.So many times I’ve hit the studio in my work uniform, all that sweat and tears that went into creating the project reminds me of this crazy fast city I live in. Bitch we made it. \[Track 1 from the EP appears at 15:18\][_Julia Star_](https://www.instagram.com/juliastarqueen/) _was described as Napalm Death for the Tierra Whack generation by Deep Cuts editor Will Soer in a_ [_review_](http://loose-lips.co.uk/blog/julia-star-in-the-ocean-i-depart) _of her last ep._**  
+Katya Curran**This, thick, demands to be listened to loud, on high quality headphones or a speaker system that will blow through your insides. Abrasive like concrete as you graze against it – yet structure for your backbone.The Techno version pounds with the driving so characteristic of the genre. The Slow Version \[18:20\] draws this out, with a pulling to somewhere ethereal. This tension captures the essence of the power of this sound for me: the smoke-like inability to be tied down to ground, yet the solidity of feet planted. Techno has been a core part of my life this past year. Berlin’s techno. Something about this kind of dark, heavy, persistent sonic brings a certain comfort to me. Womb-like.Paula’s last name is apt. When I listen to this track I think of coming to a hard-walled no-frills low-lit space, for some kind of cathartic worship. I think of how it rids all excess of me. I think of moving collectively in a sea of sweat-laced bodies seeking release, connection, ecstasy, rhythm. I think of the bodies churning in some militant unison, at liberty to reach, march, sway, touch. And to be utterly free in those moments, immersed in the darkness. I taste a sweet edge._Katya Curran writes poetry in her spare time. Back when she was on Instagram, her bio used to be ‘Gypsy blood | soft skills’._
+
+**Speakman Sound & Sharky**Todd Speakman: Right then here we go, City Hues… tell me, _A Girl Like You_ by Edwyn Collins, why does that remind you of the city?Sharky: Well when I was little and not living in London. I would watch the vid a lot on vh1 and I loved it and I thought the song was super sassy. When I moved to London it was something I would listen to a lot, a confidence boost on my way to sessions or whatever, I’d be like ok, I’ve got this.T: You met him as well?S: Yeah I went to visit a producer I had previously worked with, who had moved into Edwyn’s old studio, and he was in the kitchen, and I was like…T: So, it’s like, the \*sings sexily\* bah nawnawnawwwnawnaw-tune right?S: Yeah.T: Yeah wicked man.S: So yeah that was really special. I think he’s a legend. And ok, _Weird Fishes_ \[32:14\] by Radiohead, why did you choose it?T: When I first left home and moved to Guildford, I was 16 and that album _In Rainbows_ had just come out and there was this big thing, Radiohead we’re doing a thing where you can pay what you want for it. It was discussed a lot in business class, it was kind of everywhere, it’s also just an amazing album, like I genuinely think it’s their best album.I very quickly realised I didn’t like college and was skipping all of my classes and just coming up to jam nights in London. The train from Guildford where is studied when straight through to Waterloo where the Tate is. The Tate modern at the time was my favourite place to hang out, I would watch the free lunchtime jazz concerts at Royal Festival Hall in the Foyer and then I’d just go and look at all on the Dali’s and other work in the Tate and I just had that album on back to front all the time. Whenever I listen to it, it gives me that anticipation feeling of coming up to London cos I was very excited to be up here, 16, on my own. And there’s something quite industrial about Waterloo when you go up that back way to the Tate and you’ve got all the buildings, there’s something weirdly trippy and industrial about that album.S: What where you listening to the album on?T: A Walkman, a CD Walkman, hehe.S: \*wistfully\* ohhh…T: Yeah I had a CD Walkman my first year of ACM and saw everyone start to get iPhones, and also I didn’t have a facebook account and realised everyone at college had one, so I was like shit, I’d better get one, haha… Alright then your next one, _Where Are You Now_ by Bonzai \[20:30\], this is kind of an apt name, where is she now?S: She’s doing stuff under a different name, Cosha, but yeah when I heard this song I was working with our good friend Chris when he was living in Richmond and we were making some tunes together and he introduced me to her. The opening of the track is like sirens, and you get that city scape sound which sets the scene. It’s just such a good tune, it’s one of those songs again that just really inspires to go and get stuff. That whole 9-track EP with it on, _Sleep Hungry_, it’s so incredible, I thought she was an artist that was doing something completely different. I would put it on when me and Jheuny (my best friend) would get ready to go out and party.T: It that reminds me of the Manchester rave thing, that’s why I liked it. It was almost including a 90s city rave culture in it.T: Someone showed me _Bitches Brew_, one of Miles Davis’ later albums, when he was incorporating drum machines and electronics, and I remember putting it on for the first ever time as I went on the tube at and it was just like, it _was_ London, or like it was busy. It was like everyone on the escalators became one of the instruments, running about. I just remember thinking like, woah, this album is it’s, it’s literally the business of people. Now because of that being the first time I heard it, every time I hear it, it’s like I get that rush hour tube feeling, my heart goes racing a little bit more… even if I’m just sat at home.But yeah, Elliott Smith, _Between the Bars_, I don’t know that tune.S: You would have heard the Madeline Peroux version, I used to play that a lot, \*sings as Todd humms along\* ‘drink up baby, stay up all night, things you could do, you won’t but you might.’T: Ok yeah, yeah yeah.S: So I heard her version first, somebody showed me and I was like oh my god this song. The lyrics are incredible, one of my favourite songs in the world. And then when I heard Elliot Smith’s version- he wrote the song, it’s just so gorgeous. I always had a tendency since I was a teenager and travelling to college I would sit with my iPod at the back of the bus and have a little cry, listening to my favourite sad songs. If I am having one of those days and feel a bit blue, I’ll listen to this song. It’s a sad but very uplifting and inspiring.T: …How does it remind you of the city?S: It’s just always on, when I’m doing stuff in the city, do you know what I mean? When you have that music in your ears, and you’re creating that whole picture of the world, it’s very much basically oil on the tube, hahahehe… so if you see me crying on the tube… Steve Reich, do you want me to say this whole name? _Ensemble Signal, music for 18 musicians, modular versions 1 track_.T: I saw him perform this at Southbank, and it was wicked, and I then like listened to it a lot, walking through London. I was really poor for a little bit but I was going to as many of the Jazz jams as I could. It’s very repetitive and frenetic at the same time, somehow, and again it just kind of feels like London. Like with _Spanish Key_, I associated it with London, but it was more just associating it with the business of a city, whereas Steve Reich definitely feels like London, even though he’s from New York, it’s a bit politer, maybe… I dunno it’s just really cool. Ok your last one, I love this song. _That’s Entertainment_ by The Jam, that’s very London isn’t it, you know what I mean?S: It’s just one of the first songs I ever heard, so it kind of feels like it’s part of the journey.T: The lyrics are veryS: Oh sooo good-T: They’re very London though,S: Yeah they’re very everyday life \*googles lyrics\*, haha yeah, hahahaT: You know what I mean, it’s like ‘A police car and a screaming siren, A pneumatic drill and ripped up concrete, a baby wailing and stray dog howling, the screech of brakes and lamp light blinking. That's entertainment.’S: It’s definitely a summup of my experience living here, but it also makes me feel completely at home.T: It’s almost like whilst you’re in London it pulls you backS: Keeps my feet on the ground.T: ‘A smash of glass and the rumble of boots, an electric train and a ripped up phone booth’ it’s so funny.S: I think Paul Weller’s from near me, my mum told me that his mum was dinner lady for a bit. So yeah, your last song…T: I used to love playing along to this when I was getting into jazz. For some reason it reminds me of getting into a taxi, like in Baker Street or Liverpool Street, and you’ve got that busy taxi rank. You get into one and you pull out into a big London road, and it’s nighttime and the lights are going, you’ve got the window a little bit open and you can hear everything, conversations as you go past, maybe you’ve just come back from holiday, the melodies \*enthusiastically\* DIN DIN DIN DADADA DIN DIN DIN it keeps going around._Todd Speakman and [Sharky](https://open.spotify.com/artist/0wba8dWTv5lNxViu9MMbeW) are collaborators and partners. Todd is one half of [Speakman Sound](https://open.spotify.com/artist/1iGuChqxLqc0WZSCTfS45a), an electronic duo whose engrossing [debut single](https://www.youtube.com/watch?v=ES4CvBObKLI) featured Sharky's vocals. Both artists have new music out in February._
+
+**Jemima Presland**He took me to see Sumocheif at the roundhouse in Camden, my first gig in London since moving back and Kokoroko were supporting them. I hadn’t heard their sound before, it was fresh and alive and nourishing. Stuck in my mind is the image of the three female musicians who stood in a row, singing and playing brass, whilst the steady drummer punctuated their melody and the pianist hypnotized me with his finger work. It was my first taste of London’s addictive new jazz scene, and it opened my ears to a world of possibilities. I lost my scarf that night, my orange companion for the last three years and we kissed in a dark alley to cheer me up on the way home.The second time we saw KOKOROKO (a different we this time) was in Church of Sound, a church-come-music-venue in Clapton where they conjured an electrifying and uniting soundscape playing the songs of Ebo Taylor, which we experienced from the pew looking down at the band and the crowd. Despite the larger venue the crowd was packed in much more tightly than at the Roundhouse the year before and there were more musicians this time; three drummers beat a rhythm, those three amazing women held the fore, and a guitarist, a bassist and a pianist filled in the melody whilst next to me in our holy corner, a woman painted the scene into a canvas balanced on an easel, and I tried hard not to dance into her painters zone, marked with a sheet on the floor.Throughout my last year I’ve heard this song wander up the stairs from his room into mine (a different he this time), via his speaker and his vocal chords as he sings the medicinal melody, reminiscent of Fela Kuti’s _Trouble when ya wake_, into our home in Brockley. It appears on a compilation called _We Out Here_, which gathers by young artists from London and is the first album I can remember buying since my first album, Shaggy’s _Bombastic_, which I bought on a ferry when I was nine.Despite being a white woman from the countryside there is a part of me which resonates with hood angst. Octavian’s songs are full of tight lyrical prowess, passion, confidence and energy and picking a favourite was a challenge. This sounds to me like the hustling struggle of London, and the sexy jostle of the party scene which I’m no longer a part of but whose energy, via music, still gives me a boost when sobriety and veganism is not enough.The first time I saw this duo \[37:25\] was in the Jazz Cafe in Camden where they covered Guru’s iconic hip-hop album Jazzmatazz. They were incredible; Mr DM played electric guitar and keyboard (sometimes at the same time) and NK DK made the beats on a drum machine. They had guest saxophonists and rappers who paid homage to Guru’s legacy with tight and skillful bars.I went to see them for the second time with my girl at Woodburner, an event hosted at the Dalston Curve Garden during the summer months, and they were just as good as the first time but the added magic of the outdoor venue and the intimacy of the small crowd on that balmy summer evening last year was the perfect addition to their fresh North London sound and overall this was one of the best gigs I’ve been to.I love Obongjayer’s songs. They are somewhere between spoken word poetry and rap, over intricate polyrhythmic Afrobeat hybrid tracks. His sound is rich and complex, wholesome and real, and although I’m yet to see him live I’m pretty sure he’s a good guy because he replied to my instagram DM haha. That was before I deleted my account, sometimes I wonder how I would get in touch with him now.This song by Emmavie and Melo-Zed is a jumble of happy normality, which speaks honestly about the everyday with an inticing humbleness and intoxicating rhythm. Its soulful level lies somewhere beneath the ever present London ego and I like that._Jemima Presland works for the [May Project](https://www.mayproject.org/)_ _community gardens, and sings in a band named [Koroleko](https://www.koroleko.com/)._     
+
+**Will Soer****![](/wp-content/uploads/live/img/wysiwyg/5e2c70068311d.jpg)**“Zerødays is a long-imagined homecoming, a yearning for a city plagued by yearning, a frosty metallic city where citizens bind themselves together with warm nostalgia. The music documents this emotional reset button, the lonesome homesick walks, the eyebagged transition months, the steady reacclimatisation to a city of ghosts.”Zero Days is an anonymous project from an underground producer, who hired me to write biography for it. A biography about Zero Days without revealing who they are, so not really a biography at all, more an introduction I guess? It wasn’t obvious how to do it. Before writing the biography, I played the music through my bluetooth speaker placed halfway down the long, thin, tall stockroom where K and I were unpacking and sorting jeans. One of Topshop Oxford Circus’ 14 stockrooms, it bent around the edge of the building at a 90 degree angle, so the only place where you could see both entrances was at that right angled corner.For about an hour we worked and nodded, before agreeing that Zero Days was perfect for these sunparched hours here, or an underground commute. There was something metaphorical in the sound, a really clear reflection of the strange, artificially lit corners of London.![](/wp-content/uploads/live/img/wysiwyg/5e2c70d963301.png)In his contribution alongside Sharky, Todd talks about how Miles Davis’ music sounds more like a certain aspect of city life – the hubbub of rush hour – than a specific city. The following track, The Blue Nile’s _Downtown Lights_ \[26:05\] is like this too. Released in 1989, it clearly sounds like deep dark night, where streetlights spill onto concrete, workers slip into sleep, and I sit, gazing out of the nightbus windows, thinking of you.‘How do I know you’ll feel it? How do I know it’s true?’I’ve met plenty of people who think London is the best and worst city in the world, sometimes simultaneously. All that you hunger for is here, all the music and people and work oppurtinities and food, but you never know if it’s going to work out; if the tube will be too rammed with people for you to board, if protests will gridlock the city, if property prices will rise again, if you just won’t be able to handle the sheer expensiveness of life here. Just like a lover, it can give you a deep feeling of belonging, and it can also make you feel hopelessly vulnerable.I don’t know if things will work out. I hope so. To paraphrase a 2019 song that borrows a little from The Downtown Lights (and is also amazing), I’d love it if we made it.  
+If we do make it, I imagine it would sound like this (destroyed Notting Hill Carnival last year) (everything Koffee has released is amazing):_Alongside editing and writing for Loose Lips (Deep Cuts is his baby), Will Soer maintains a blog and radio show named [Out Of Body Pop](http://outofbodypop.wordpress.com/), covering music that's accessible but zoney._
+
+**Josh and Levi**\[this contribution was added post-publication\]josh ft —Hi dude, I’ve been asked to write an article for Loose Lips which is a kind of, they put mixes out and write articles and reviews and bits and bobs, they’re a good bunch.
+
+levi love—That’s cool that’s cool.
+
+jft—They basically got in touch and asked me to write something for a topical series they are putting out.
+
+ll—Yeh.
+
+jft—And one of the topics is ‘City Hues’ which is basically about people’s musical relationship with a city. Music that represents a city or has some connection with the city in a person’s mind. People have free reign to, you know, explore it in any way and I just remembered our interview and thought my little article could be a transcribed conversation between me and you about your tune, that represents Manchester. Or if there are more than one, to discuss them all.
+
+ll—Ah ok so let me get his right, is it a tune that was done in Manchester or a tune that makes me think of Manchester?
+
+jft—A song that specifically represents Manchester in your head. It doesn’t need to have been made here or you don’t have to have seen it here. Its just to do with the connection of music and place and your own personal experience of it.
+
+ll—For sure man for sure man that’s, that’s yeah for sure! I’ve wanted to speak to people about this (laughs)
+
+jft—Exactly (laughs)
+
+ll—Yeh just hold on I am putting on my pyjamas now, just hold on.
+
+jft—Ok.
+
+ll—Yeh I mean for me, you know, coming from South Africa and stuff and coming to live in Manchester from London, what eleven years ago and stuff. Like … hello? 
+
+jft—Hello.
+
+ll—Josh are you still there?
+
+jft—Yeh yeh.
+
+ll—For me coming from South Africa and living in London for a bit and buying records in London then coming to live in Manchester I think my you know, there are a few tunes that would absolutely be representative of Manchester. One of the tunes that comes to mind that is completely Manchester for me is … can you hear me?
+
+jft—Yeh I can hear you fine man.
+
+ll—I think its a Willie Colon infernal dub kind of thing. Oh no no not infernal dub. Willie Colon set fire to me.
+
+jft—Ah Willy Connon?
+
+ll—No Willie Colon, like intestines. 
+
+jft—Ah Willie Colon.
+
+ll—Willie! Willie Colon W-I-L-L-I-E and space Colon, like the intestines. Yeh Willie colon set fire to me Inferno Dub.
+
+jft—OK got it, I don’t know it.
+
+ll—(silence) you don’t know it?
+
+jft—No.
+
+ll—(laughs) When you hear it you’ll understand. You know there are guys who are quite instrumental in Manchester. I’ve always connected Roadhouse, you know the Roadhouse?
+
+jft—Yeh I remember, Hoya:Hoya.
+
+ll—Yeh Hoya:Hoya then there were these guys called Cut Loose there was this guy called Wes Cutloose who used to love this tune and because the Roadhouse has already been, you know it was taken away and we’ve lost it and Roadhouse was one of the most iconic places in Manchester wasn’t it? And I got to learn that, I got to get in with the crew of those people at Roadhouse, Hoya:Hoya yes, Wes Cutloose. And I played, after that I met Wes Cutloose and spoke to him about the tune, I heard one or two Red Laser records and then I played with him in…There was a festival called, it was run by those guys in Chorlton, which is where I live. What is his name I’ve forgotten his name?
+
+jft—Not Unibombers?
+
+ll—No not Unibombers! Don’t try and use fake names you fucker!
+
+(laughter)
+
+ll—Err the guy he did a festival called That Amazing Thing! His name was Francis Wooff. He has ties with Piccadilly Records.So you can imagine I’ve already spoken about 3 things in Manchester, Roadhouse, Chorlton and Piccadilly records. All those people they learn that tune and then when I played at That Amazing Thing! In Newcastle and Wes Cutloose played it, I went running to the decks and stuff. And he gave me his copy! This is how much I love that tune!
+
+jft—He gave you his copy over the decks?
+
+ll—Yeh, after he played it he gave me the copy.
+
+jft—Wow, wow.
+
+ll—He gave me the copy.
+
+jft—Do you still have it?
+
+ll—Yeh I still have Willie Colon man! I still have Willie Colon yeh. And Wes Cutloose booked Theo Parrish at the Roadhouse. I think thats the first time I met him, with Theo Parrish at the Roadhouse.
+
+jft—Wow I bet that was amazing down in that little basement!
+
+ll—Yes when Theo Parrish played. I remember the best tune Theo Parrish played there was Aaliyah – Rock the boat.
+
+jft—Wow, wow
+
+ll—Rock the boat yeh, so yeh Wes Cutloose and then I played with erm Francis Wooff and his friend Randy Marsh. You know they all have NTS shows now they all have shows at the White Hotel. I mean Wes Cutloose, the night was called Cutloose thats why they had Theo Parrish. And absolutely amazing that banger by Willie Colon you know?And it’s a little bit away from House… it’s actually not House … I don’t even know how to class this tune. I think this is what Manchester is, its a collection of eclectic sounds you can’t really define it like other cities. That’s the tune basically. That’s the question you asked, Willie Colon Set It On Fire. Or did you want me to say something else?
+
+(laughter)
+
+jft—No that’s great, that’s perfect, that’s on the money.
+
+(laughter)
+
+       On the money man that’s perfect.
+
+(laughter)
+
+ll—You must listen to that tune when you finish.
+
+jft—I will do 100%. I have it here written down. It’s nice to be speaking about a song that I’ve not heard because you know the conversation is, I’m forming an idea in my head about what it might sound like, what it might be. I’m looking forward to listening to it.
+
+ll—You have to listen to that tune man it’s absolutely incredible! Yeh, I don’t even know what else you want…
+
+jft—No that’s perfect, it’s really just a short little bit. When was it that um that you know this happened and cut loose was on and you were given the record?
+
+ll—Errm probably 2012, 2013 somewhere there.
+
+jft—OK sweet well I look forward to listening to it man.
+
+ll—Yeh and Theo Parrish as well and what’s it called, That Amazing Thing! which is run by Francis Woof and stuff.
+
+jft—Did Theo Parrish play it or was that just around the same time?
+
+ll—No, no, no I’m just referencing Theo because Wes booked Theo. The first time I met Wes he was booking Theo Parrish then. And Theo Parrish knows about this tune. All these big cats know about this tune.
+
+jft—Yeh, apart from me.
+
+(laughs)
+
+ll—For me it represents Manchester because I think it was the first time I had accepted the rigid way about thinking about dance music from South Africa had to change because this tune has got all the elements of techno in it, boogie in it, synth pop in it, house music in it. I think this was the crystallization in my mind of what Manchester has done to me in terms of influence and making me understand things, you know?
+
+jft—Yeh.
+
+ll—Thats why that tune represents Manchester, that tune. It was the first tune that came to mind.
+
+jft—Yeh amazing. So it represents the kind of bringing together, taking bits and bobs from different genres and not having to stick to one camp or whatever?
+
+ll—Yes yeh especially from where I came from in terms of dance music you know. It does that in my mind as a person and as a dj.  
+
+[_Levi Love_](https://soundcloud.com/lepetjo90) _is a Manchester based DJ whose label Mas O Menos is due to bring out their second release in March 2020. Josh FT is some guy from Sheffield living in Manchester._
+
+_If you want to contribute to Deep Cuts, drop an email to will@loose-lips.co.uk_
+
+Mix Tracklist:Mas Profundo – BruxasLovely Day – Bill WithersSmek (Rey & Kjavik Remix) – YumaReally Really – Zoee, Julia Star and SunyJoshua and Goliath (Slow Version) – Paula TempleWhere Are You Now – BonzaiThe Downtown Lights – The Blue Nile1000 Years – The CoralWeird Fishes/Arpeggi – RadioheadDome – Blue Lab Beats

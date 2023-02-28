@@ -33,7 +33,6 @@
     on:toggleTheme={(e) => toggleThemeMode(e)}
     logoImage={"https://i1.sndcdn.com/avatars-C6z0Vyr2LPCI6uHm-ZLN5qA-t200x200.jpg"}
     title={"LOOSE LIPS"}
-    useThemeModeButton={true}
     useTitleAndLogo={true}
   />
   <main id="skip" class="flex flex-col justify-center px-8 dark:bg-black pt-4">

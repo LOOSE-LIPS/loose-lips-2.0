@@ -1,0 +1,23 @@
+---
+id: 754
+date: '2019-02-13'
+title: 'PICKS: Train Journey Music - Loose Lips'
+type: post
+slug: picks-train-journey-music
+author: 164
+banner:
+  - imported\picks-train-journey-music\image754.jpeg
+description: >-
+  Each time we host a guest selector for our Picks series, we ask them to pick a
+  theme, but this guest comes with one already part of the conceptual package.
+  Born out of the functionality of &lsquo;an extensive multi-genre music
+  playlist to sweeten the commute&rsquo;, Train Journey Music is a gorgeously
+  modern example of music [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported\picks-train-journey-music\image754.jpeg)Each time we host a guest selector for our Picks series, we ask them to pick a theme, but this guest comes with one already part of the conceptual package. Born out of the functionality of ‘an extensive multi-genre music playlist to sweeten the commute’, Train Journey Music is a gorgeously modern example of music creation, hosting intimate club events that bring their aesthetic to the next level. Their next journey [gears up on Saturday the 16th](https://www.facebook.com/events/546763755791292/) for those who wish to travel with them, in the meantime here are a few selections from the residents!
+
+Deadbeats – Made In The ShadeEven during the early days of Train Journey, Mark Farina has found a way on to our playlists through compilations such as Mushroom Jazz, Downtempo Garden and Fabric 40. Seeing Mark play with legends DJ Sneak + Derrick Carter back in 2013 was certainly a highlight for that year.This Deadbeats track was discovered listening eclectic selections from 'Mushroom Jazz 2'. Definitely check Mushroom Jazz and his other mix series 'Downtempo Forest' for those long journeys as it's a particular sound we always want to include within our music. Nottingham's Deadbeats though are gods of UK lounge music with collaborations with the likes of Simon Lovechild, Nightmares on Wax and Aim. Felix K – Flower Of HopeThis tune takes us back to our first residency on a radio station based in Nottingham. It's got a real eerie ambience that sets the mood. Felix K brings the perfect blend between Ambient, Techno and Jungle.Shigeto – Detroit Part 1Shigeto is a favourite of ours from Ghostly International, with his tracks regularly featuring in our playlists as well as mixes. His music blends all of our tastes together with a mix of jazz, hip hop and electronic music elements all making up his unique sound. We'd highly recommend checking out his live show, it was a musical highlight of ours in 2018. This track in particular is a good one to pick things up.dBRm – third roomThis one ties into the roots of our main tastes with the artists involved with this dBridge and Radioactiveman collab on The Nothing Special. A spacey techno roller of sorts with real musicality with it's orchestral elements.Up High Collective – EmtioAmbient selection is really important for us whenever we think about what to play next. This one's a tension builder that reminds us of old skam records, Boards of Canada and Jega cuts from the mid-90s – but reinterpreted for today -which is a good way to describe part of our core sound.Juj – Space GoldOne of the stand out tunes from our set in Japan."Konnichiwa" to the locals in Ito.Skee Mask – Rev8617When it comes to breaks and some dreamy techno cuts Skee Mask is your guy. This one is 3 minutes and 44 seconds of just that.Quasimoto – Catchin' The VibeWe've got a lot of appreciation for Stones Throw artist Jeff Jank who created the look for Madlib's alter ego. It really reminds us about how important it is for music to be visual. This is a cut from one of the more underrated LPs. It's just a playful trip through the mind of Madlib and the instrumental is an undeniable bopper so it's going in.Moomin – You Neva KnowMoomin is an unsung hero when it comes to our House collections, with the kicks in this track giving you no choice but to move. Beat Spacek – Alone In Da SunTune picked from the competition for our first Train Journey Music event at Five Miles.Was the last track of the night that signified the good vibes.

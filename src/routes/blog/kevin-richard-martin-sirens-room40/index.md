@@ -1,0 +1,24 @@
+---
+id: 873
+date: '2019-06-29'
+title: Kevin Richard Martin - Sirens (Room40) - Loose Lips
+type: post
+slug: kevin-richard-martin-sirens-room40
+author: 13
+banner:
+  - imported\kevin-richard-martin-sirens-room40\image873.jpeg
+description: >-
+  I first heard Kevin Martin&rsquo;s (aka The Bug) music in a film. I used to be
+  a huge cinephile, and The Conversation&nbsp;(1974)&nbsp;was&nbsp;one of my
+  favourite films. Coppola&#39;s classic really touched me, and led me to The
+  Bug&#39;s first album Tapping the Conversation. Being a breakbeat and hardcore
+  hip-hop addict, together with my love for dub [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported\kevin-richard-martin-sirens-room40\image873.jpeg)I first heard [Kevin Martin](https://www.discogs.com/artist/142639-Kevin-Martin)’s (aka The Bug) music in a film. I used to be a huge cinephile, and [_The Conversation_](https://www.imdb.com/title/tt0071360/) _(1974)_ was one of my favourite films. Coppola's classic really touched me, and led me to The Bug's first album [_Tapping the Conversation_](https://www.discogs.com/The-Bug-Tapping-The-Conversation/master/1120350). Being a breakbeat and hardcore hip-hop addict, together with my love for dub and noise, I found this album and artist a gift from heaven. His productions are non-apologetic and _Tapping the Conversation_ is much a better listen than the original film soundtrack, at least for me. I also got hooked on all of Kevin’s later albums, and my first vinyl by The Bug was his collaboration with the band Earth on the [_Boa/Cold_ single](https://www.youtube.com/watch?v=mfGUMBUxN4M).  
+Fascinated by his career, The Bug gave me the inspiration for my [Likvidator](https://soundcloud.com/likvidatordub) moniker and the sound you hear there; however, this release is a different story, so I'll stick to writing about that and why it stood out to me. The Bug has chosen to use his real name, Kevin Martin, for [_Sirens_](https://room40.bandcamp.com/album/sirens), an album released for the [Room40](http://room40.org) label.Unlike many of his other works, _Sirens_ isn't about the technique, the rhythm, the dub; this one is about emotions and forms an expression of the turbulent birth of his first child. About that topic, with my 24 years, I don’t really have the experience to comment; however, I can truly feel how the deep feelings and moments of darkness on this album lure the listener into Martin’s world in the hospital, in his mind, in everything around.  
+From ‘Bad Dream’ to ‘Alarms’, the soundscapes gradually evolve and increase in their solemnity. As the album progresses, Martin opens his thoughts and presents them to the listener (see ‘Mechanical Chatter in the I.C.U’, ‘Necrosis’ and the closing track ‘A Bright Future’)  
+The delicate touch and ambient feel is what makes _Sirens_ so deep and honest, and the industrial elements of his very own productions are present in the deepest frequencies, which arise on occasion and only when called for. _Sirens_ could be considered a perfectly-executed, drone-heavy album that shares the artists’ personal experiences and challenges in the form of carefully constructed soundpieces.Kevin Richard Martin – _Sirens_ was released on Room40 on May 31st, 2019. It is available on the [Room40 Bandcamp page](https://room40.bandcamp.com/album/sirens) on digital and vinyl.

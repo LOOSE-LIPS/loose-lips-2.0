@@ -1,0 +1,34 @@
+---
+id: 954
+date: '2020-04-17'
+title: >-
+  EDITORS PICK: Underground Resistance's Message To The Murderers, 27 Years On -
+  Loose Lips
+type: post
+slug: editors-pick-underground-resistances-message-to-the-murderers-27-years-on
+author: 124
+banner:
+  - >-
+    imported\editors-pick-underground-resistances-message-to-the-murderers-27-years-on\image954.jpeg
+description: >-
+  For this version of Editors&#39; Pick, Will takes us back to the thoughts of
+  Nadia Taylor who explores the rebellious history of Underground
+  Resistance&nbsp; I found this 12&quot; in Los Angeles on my recent travels.
+  Being an LA virgin, I hit the record stores hard, nothing escaped my crate,
+  not even psychedelic cabaret &nbsp;recordings. Being [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported\editors-pick-underground-resistances-message-to-the-murderers-27-years-on\image954.jpeg)_For this version of Editors' Pick, Will takes us back to the thoughts of Nadia Taylor who explores the rebellious history of Underground Resistance_ 
+
+I found this 12" in Los Angeles on my recent travels. Being an LA virgin, I hit the record stores hard, nothing escaped my crate, not even psychedelic cabaret  recordings.Being the Spotify algo addict that I am, I felt like there was so much more music out there beyond my Throw Back Thursday playlist. Ironically I only managed to pick out early 90’s dance tracks produced in the UK, at least I was consistent with my choices. My search for a perfect Detroit techno record came to an end when I stumbled across 'Message to the Majors' by Underground Resistance. What grabbed my  attention first was an uncompromising message on the record sleeve to DJ Be Basic from Mad Mike. Most likely Be Basic was another struggling dj, way before being basic became worse the bubonic plague. It felt like I had opened a bottle with a  secret message that has traveled through the sea of musical history for decades, and ended up on my lap. Mad Mike's bold hand writing ordered – "Keep the Faith & Stay Low!", "Stay Strong, Stay Underground". At that time I knew very little about Underground  Resistance and even less about Mad Mike, but soon this was to change. Stay with me. (Be Basic's identity is still a complete mystery to me).Far removed from Detroit and found in a small record shop in LA, this record captivated my attention with its angry, unapologetically militant and,  at the same time, very familiar old school beat. In a very relevant 'fuck the system' fashion, I ended up getting this record for free. One of the shop keepers recognised my moral dilemma – the hours of searching resulted in a big stack of vinyls with a price  tag to match. In solidarity he decided to gift me with the most expensive one – "Message to the Majors" (shout out to the Record Parlour in LA). Apparently it was something to do with their anniversary and completely unrelated to my eclectic choice of records,  which I insisted on playing for two hours straight (it must have started grinding them down after a while). Frankly I think they needed their record player back.  
+
+![](/wp-content/uploads/live/img/wysiwyg/5e999a418779e.jpg)
+
+It all came together couple of months later when I returned from my travels. As I was going through my new vinyls I saw familiar writing, this time  I checked the other side of the record, that's when I discovered even more irreverent message printed on the vinyl sticker: "Message to all murderers on the Detroit Police Force – we'll see you in hell", "Dedicated to Malice Green". Later I found out that Underground  Resistance was no stranger to incendiary words and bold political opinions. Formed by fathers of techno, Jeff Mills, Mike Banks (aka Mad Mike) and Robert Hood, the record label was an alternative anti-establishment, anti-corporate, ego-free  Afro-futuristic collective, consisting of the most prominent and rary DJ's and artists of the early techno scene. Giving a voice to subversive culture and unrepresented communities, the young collective would make their statements unmissable by  notoriously printing or etching them into grooves of their vinyls. The role of Malice Green, to whom the record was dedicated, was crucial too. Although not connected to the musical world, Malice became a victim of a broken system during the Raegan years. On November 5th, 1992 the unemployed steelworker was brutally beaten to death by two white plainclothes police officers, outside notorious drug house in Detroit. In spite of his perfect fit into the mainstream media  narrative of another African-American living in poverty and crime-stricken city, Malice became a symbol of a movement against police brutality. This prompted protests around the city and turned Malice into a household name. The two officers were eventually  charged with murder. The jurors had no choice but to convict them after being shown 'Malcolm X' footage of violent riots in Los Angeles, that were sparked by another attack on another African-American man by police officers. The realisation of how important  this record was suddenly hit me. ![](/wp-content/uploads/live/img/wysiwyg/5dc19c4e46be1.jpg)
+
+Always quick to respond, Underground Resistance released a perfect track that channeled the mood of the city at that time. The young Detroit collective’s  message to the police was loud and clear – keep your hands off our community. Stop killing our men.27 years on this track is as current as ever. With many innocent men falling victim to police aggression across the US, Malice’s story sounds all too familiar. In the wake of his death's anniversary, I hoped we could listen to UR's poignant record one more time.I am yet to uncover the story of Be Basic, if it wasn’t for him (or her) the record wouldn’t have traveled from the 90's Detroit to LA, and to my dusty shelf in London. All I know is Underground Resistance are playing in London in December and I need to connect the last dots…P.S.: If someone told me Underground Resistance could see into the future I wouldn’t be surprised, with their 2005 track Transition/The End Of Europe I wonder if they know something we don’t. 
+
+[](https://www.youtube.com/watch?v=fYo-ZDRpvN4)

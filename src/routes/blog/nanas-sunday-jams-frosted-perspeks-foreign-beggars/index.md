@@ -1,0 +1,22 @@
+---
+id: 1228
+date: '2020-08-09'
+title: 'Nana''s Sunday Jams: Frosted Perspeks - Foreign Beggars - Loose Lips'
+type: post
+slug: nanas-sunday-jams-frosted-perspeks-foreign-beggars
+author: 125
+banner:
+  - imported\nanas-sunday-jams-frosted-perspeks-foreign-beggars\image1228.jpeg
+description: >-
+  &nbsp;Banner artwork by the majestic Trav Yes Yes Yes Sunday Jammers. Hotness
+  in the bloody city, love that life is making a comeback albeit with a
+  makeover. Hearing tales from friends who are having socially distanced fun,
+  listening to music and bobbing heads at DJ sets is like a dream in soft focus.
+  Headz bobbing [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported\nanas-sunday-jams-frosted-perspeks-foreign-beggars\image1228.jpeg) _Banner a_rtwork by the majestic [Trav](https://www.backdownwarchild.co.uk/)__Yes Yes Yes Sunday Jammers. Hotness in the bloody city, love that life is making a comeback albeit with a makeover. Hearing tales from friends who are having socially distanced fun, listening to music and bobbing heads at DJ sets is like a dream in soft focus. Headz bobbing is the inspiration this week.I have been thinking about artist led independent music labels. These are the labels that come into being because of something lacking in the landscape, creating a route for their own music or a desire to remould ideas about artist development. Some have stayed the course and others fold, the rhyme and reasons vary from ability to adapt, luck, necessity, bankruptcy and so on, but whatever the distance marker they passed most of them leave an imprint.The imprint here was made by Dented Records, home to UK Hip Hop outfit Foreign Beggars. Sadly the label is no longer, but its distribution catalogue reads like a love letter of sorts to the UK Hip Hop scene of the 00s. The label was born out of necessity and a hunger to be heard and it was a case of learning on the job. The process of pressing a record, who would sell them, how to create a platform using different channels such as radio, guerrilla marketing tactics that involved stickering any available space. Their efforts were greeted positively by specialised retailers, larger distributors and attracted the attentions of other artists. Dented Records went on to distribute music by _Dubdledge, Ed Skrein, Medison, Speakers Corner, Stig of the Dump,_  
+_Task Force_ to name a few. The label’s guiding principles were founded on the band’s love of music, the artists they worked with and a desire to create a touch point for UK talent which it did on all counts. The legacy of Dented Record and other independent labels at this time was not only in creating an outpoint for these artists but would make room for other labels think High Focus.  So, I am nominating **_‘Frosted Perspeks’_** from _Asylum Speakers_, the debut album from the label’s creators and one of my favourite albums ever. This album was a defining moment in a scene that was bursting with energy at a point where it was trying to consolidate itself as a genre to be reckoned with but could not seem to find a space to call its own. In the beautiful and often frenetic cacophony of MCs bursting with skits, producers heavy with beats and vocalists trilling out harmonies came this album. It joined the dots, covering subjects that ranged from the personal to the political, musically it felt considered but by no means artificial, it had tracks for every type of Headz moment; from hard, bass heavy and rock tinged through to lo-fi electro jazz/blues, it articulated the ideas of an outfit whose commitment to music was unquestionable. Moreover these were experiences, stories and voices I recognised and identified with. Every track felt like the many Headz of Foreign Beggars all coming back to the table with tales of their jaunts from around the planet and in some cases, galaxies, moulded into rhyme and interpreted through music.**_‘Frosted Perspex’_** sits towards the lo-fi end, musically speaking, of the album. It’s a rebel yell, a lament on the pain and anguish that comes with having to survive in an often toxic, imbalanced world. The percussion is a steady and deliberate guide, strings amplify the emotional outpouring and the vocal harmonies provide a touch of the surreal, all held together by a frenetic flow that highlights a love of language and creating emotional landscapes. A beautifully, deep Headz moment, one to go back back forth and forth on.

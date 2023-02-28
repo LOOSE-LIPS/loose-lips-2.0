@@ -13,7 +13,7 @@
       addToStore(event);
     }}
     data-sveltekit:prefetch
-    href={`../markdownfiles/importEvents/${event.slug}`}
+    href={`../events/${event.slug}`}
     class="w-full"
   >
     <div

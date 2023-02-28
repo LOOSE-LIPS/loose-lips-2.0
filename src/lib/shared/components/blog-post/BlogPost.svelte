@@ -16,11 +16,7 @@
 
 {#if blog && blog?.slug}
   <div class="mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5">
-    <a
-      data-sveltekit:prefetch
-      href={`../markdownfiles/importPosts/${blog.slug}`}
-      class="w-full"
-    >
+    <a data-sveltekit:prefetch href={`../blog/${blog.slug}`} class="w-full">
       <div class="flex flex-col md:flex-row justify-between">
         <img src={blog.banner} alt="" style="height: 12em; width:100%;" />
       </div>
