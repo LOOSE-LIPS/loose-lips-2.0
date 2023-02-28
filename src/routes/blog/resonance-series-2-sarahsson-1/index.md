@@ -1,0 +1,51 @@
+---
+id: 1092
+date: '2020-04-28'
+title: Resonance series 2 - Sarahsson - Loose Lips
+type: post
+slug: resonance-series-2-sarahsson-1
+author: 76
+banner:
+  - imported/resonance-series-2-sarahsson-1/image1092.jpeg
+description: >-
+  Welcome to the next installment of the &#39;Resonance Series&#39; &#8211; a
+  new feature, curated by Jasper Golding, about the interplay between art forms.
+  A love for showcasing and sharing music is at the centre of Loose Lips and
+  there are numerous ways in which this can be done. Music massively influences
+  visual art, and vice [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported/resonance-series-2-sarahsson-1/image1092.jpeg)_Welcome to the next installment of the 'Resonance Series' – a new feature, curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.__Music massively influences visual art, and vice versa. This feature, running every other Tuesday, introduces you to musical individuals through the other art forms they engage in, telling a personal story of their creative output and how different mediums influence each other._
+
+_For this edition we introduce you to the powerful force of self expression: Felix Dobson, Aka [](https://soundcloud.com/sarahsson)_ [_Sarahsson_](https://soundcloud.com/sarahsson)Felix has always been a force of nature; at one with their performative self. I remember when they invited a few friends and I to a day party at their house when college was called off early. They treated us to a tongue-in-cheek, operatic performance on their grand piano, blasting ditties accompanied with their choral range into the garden. All we could do was lay on the trampoline and soak it in. Hearing this performance brought everyone in the vicinity together. It seems only fitting that they’re now stunning audiences around the world with their undeniable talent for expression. 
+
+![](https://lh5.googleusercontent.com/GgAXv2JDCPA1-ltibze6zurb94WJteqEttT7ALHA6LBKfMECiKwcGX5Z_sXXcfJVpMPkLYL7MUent55zQ6KouOU6kevFoPKEcCF3KTs0vnkGgqcLtdLULLAswzWCIzMIZhsfiW3K)Here is a piece of theirs: [Ephemera Triptych (I Pneuma, II Murmuratio, III Jouissance & Melancholia)](https://highheal.bandcamp.com/track/sarahsson-ephemera-tryptich?fbclid=IwAR2mxXoBL4vlw9pk5-RVj-FTj-0gepv8n9t-Mu4sISA0VbSaxWlLtfGYPTk) Sarahsson’s journey is so realised and natural that it’s best heard straight from the source. Here are their words on how their expression progressed naturally through forms and practices:_“It was never really a question of whether music was the way I would go. It's always been such a huge part of my life that it was more about figuring out what else I would do to survive. I used to DJ kinda boring house and techno stuff and make my own flowery versions of it but found it unfulfilling. And at the time I was stifling my own femininity because of the scene I was involved in.”_
+
+![](https://lh4.googleusercontent.com/H2-qFQ18NLhb5Of6cSZ_s6iK6PPVi0Pij4We0jWSNlRCwmY_CfZAPSXk4rR3evvKLEzw8_4S4LPYG4TonpiPRkcxaANbzjwDc_XgpPYmMLnyDQukK5BM5gSpaY9vcUhBDvLX-DcX)Sarahsson’s music was always something else, even when making what they considered to be their own versions of an uninspiring genre, their take on it stretched and pulled at it in new ways, though I’d be lying if I said I wasn’t happy to see them progress into other forms of music and media.  
+  
+_“When I moved away from home I felt a lot freer to experiment with gender and genres. Working with Neith Nyer on their [](https://remybarreyat.com/neith-nyer-x-ddp-19-20/?fbclid=IwAR10jtAcftePcGiRwARVrwdeZKWwph6mQ3ru-k7f41m-kM509aFm2tMy1jY)[runway soundtracks](https://remybarreyat.com/neith-nyer-x-ddp-19-20/?fbclid=IwAR10jtAcftePcGiRwARVrwdeZKWwph6mQ3ru-k7f41m-kM509aFm2tMy1jY) has been so wonderful because of the freedom they gave me to interpret the collections."_[Neith Nyer x DDP Paris 19](https://vimeo.com/320953840) from [Rémy Barreyat](https://vimeo.com/remybarreyat)_"That was the first music I released as Sarahsson and I DJed at Parkingstone afterwards with a ton of pop trash and undanceable noise which I adored. And I started DJing as Sarahsson more because it was just silly and fun and maudlin and tragic and everything all at once, which is where the performance aspect came from. I used the sets as an operatic structure to thrash around in lip syncing and dancing chaotically –one of the first gigs at Arnolfini I actually can’t remember most of.”_It’s great to see what they are up to now, seeing the explosion of their expression when given the chance. I feel this is a great example of why expression comes into its own when it’s not in a vacuum, but responds to and melds with its surrounding world. Felix Talks about the discovery of their own multi-faceted approach:_“I was super lost but the intention was always to do those kinds of performances with my own music, so using live instruments like my tenor horn and my voice and piano etc. and getting them tangled up in distortions and vocoders really resonates with the visual side of what's happening. Each show so far has been different, I can never see it while I'm putting it together, but_ _**there's a particular emotional flavour that I'm swimming in which shifts as time moves on. And the costume I make and the tracks I choose and the music I make all get marinated.”**_
+
+![](https://lh3.googleusercontent.com/QIjk_PPgMRcLLQ0hQjuXcJLmT1sEKpdpZwrV_UUPW4wN98eNOAtUvMihK5Omow4URinUbS2IokatvlK1tgHrAsmssv6SclMWCvQfJ7pode-h8lBkHN6bdH5iYNf2tBcejMYdcN6s)
+
+Their inspirations come from art in many forms, such as the iridescent visuals of [](https://www.pattymorgan.net/koesstaassen)[koesstaassen](https://www.pattymorgan.net/koesstaassen), the philosophy behind [](https://londonfashionweek.co.uk/designers_profile.aspx?DesignerID=5663#RL?rl_playlist=playlist_digital&rl_id=0)[Di Petsa’s](https://londonfashionweek.co.uk/designers_profile.aspx?DesignerID=5663#RL?rl_playlist=playlist_digital&rl_id=0) sartorial and performance work, the films of [](https://vimeo.com/trecartin)[Ryan Trecartin](https://vimeo.com/trecartin) and the OST’s by Colin Self. 
+
+[](https://www.youtube.com/watch?v=YEXW0x_dmRI)
+
+Their work has recently taken them to two shows in Paris with [Parkingstone](https://parkingstone93.bandcamp.com/album/dandelion1) and [](https://highheal.bandcamp.com/)[High Heal](https://highheal.bandcamp.com/), a collaborative residency at [](https://theislandbristol.com/)[the Island](https://theislandbristol.com/) with performance artist @chrisowen\_  a guest mix at [](https://noodsradio.com/)[Noods Radio](https://noodsradio.com/),and a gig with [](https://illegaldata.bandcamp.com/releases)[Illegal Data](https://illegaldata.bandcamp.com/releases), Felix describes each of these events as. _“a really tangible way of exploring and celebrating mutability, a theme I've always been obsessed with.”_
+
+![](https://lh3.googleusercontent.com/AnJEoKdxU9Z02wdrc-P5iDxolWAqygCFLIPGZvB2xwd8tW0189j1pEoim6iw5cL0NCJJ_s49hRcZy12gY3iOy9Qo5Ywj048OZjYenCXPiX9YteTR-HkosqPE6tB1R8VTZNiYM5xC)Photo by @harmonyhalo at @callmeawimp
+
+Sarahsson's activity has lead them to ever new collaborations: _“The recent shows have had a new kind of energy too, kind of unlimited in a way. It's not exactly uncharted territory but I'm enjoying this unfamiliar tension. I'm really excited to be working on a film soundtrack, I have the chance to work with a huge choir which is a dream come true._ Here is Sarahsson's piece for [Ange Halliwell's The Wheel Of Time](http://highheal.bandcamp.com/album/ange-halliwell-the-wheel-of-time)Just like almost every creative today, Sarahsson is experiencing a new ebb and flow to their creative state under the current climate:_"It's a little strange because it was all set up to happen during the summer but of course_**_everything is in chrysalis at the moment, so that excitement is still buzzing all over me and I haven't figured out how to handle it while everything is open-ended._** _Collaboration feels like it wants some attention during isolation too. It feels like a perfect moment to finally cross-breed everything. Play feels very important, more so now than usual, it takes the pressure off 'being productive'."_
+
+![](https://lh5.googleusercontent.com/yuJeFSEJ6efVoxa4sdt06OWgpfxrj6ns0sL5I9rwlfdNhomvX1xKWM2F8TQdMXDi11sLKBuHVfEaUrvAy7GHMKwlA2Ndx2szZ_6oFHRVFRjPXLpU5iNwfx-j_--R8rJfz2KwxKo8)
+
+“I am currently staying with family in Devon, which is really beautiful. Being so close to nature I feel a lot more in touch with my body. It's also a chance for some movement research, as I've been wanting to explore dance a lot more. **I've been watching ballets with my mum and throwing myself around on the trampoline, it's fantastic.”**
+
+![](https://lh5.googleusercontent.com/0naDzIvl7hzFfY0NzbB33RbG8CVNcWRMGZc8VTnhsQ4RhFdN0tPqhXKpZ7IMZ7lnvgrVxQsCBnP5uLt7i7qgoY_QVAd5XyFmI1JqPnY5XLSbib85B2Nv5Bg0zsSQoVUkkREfdDGD)An image made by Felix that represents the studded rose of their musical output.
+
+_An example of how true expression can lead to great things, Sarahsson’s work and outlook is something to be admired, a brave ability to create and better one’s self through taking risks putting their soul into their work. A practise that can be a healer to both the performer and the viewer. By taking performance in to their practise, Sarahsson’s work exploded in to something unique and exciting._
+
+More of Sarahsson’s music can be found [here](https://soundcloud.com/sarahsson ).

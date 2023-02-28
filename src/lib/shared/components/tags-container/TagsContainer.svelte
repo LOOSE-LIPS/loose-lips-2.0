@@ -1,43 +1,14 @@
 <script lang="ts">
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import { convertToSlug } from "$utils/convert-to-slug";
-  import { blogTags } from "$data/tags";
-  export let blogs!: IBlog[];
+  import Button from "$shared/ui/components/button/Button.svelte";
+  export let tags;
 
   let listWithDuplicatetags: string[] = [];
-
-  blogs.forEach((blog) => {
-    listWithDuplicatetags =
-      listWithDuplicatetags.length === 0
-        ? [...blog.tags]
-        : [...listWithDuplicatetags, ...blog.tags];
-  });
-  $: tags = [...new Set(listWithDuplicatetags)];
-
-  // const tags = blogs
-  //   .map((x) => x.tags)
-  //   .filter((x) => x.trim())
-  //   .reduce((a, b) => (a.includes(b) ? a : [...a, b]), []);
-
-  // let selectedTags = [];
-  // let visible = blogs;
-  // let searchValue = "";
-
-  // const handleTagClick = (tag) => {
-  //   if (selectedTags.includes(tag)) {
-  //     selectedTags = selectedTags.filter((x) => x !== tag);
-  //   } else {
-  //     selectedTags = [...selectedTags, tag];
-  //   }
-  //   visible = blogs.filter((x) => {
-  //     if (selectedTags.length === 0) return true;
-  //     return selectedTags.includes(x.tags);
-  //   });
-  // };
 </script>
 
 <div class="flex flex-row flex-wrap w-full mt-4 items-center">
-  {#each blogTags as tag, index (tag)}
+  {#each tags as tag, index (tag)}
     <a
       data-sveltekit:prefetch
       aria-label={tag}

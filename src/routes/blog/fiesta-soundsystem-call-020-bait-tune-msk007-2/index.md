@@ -1,0 +1,22 @@
+---
+id: 1094
+date: '2020-04-27'
+title: 'Fiesta Soundsystem - CALL 020​-​BAIT​-​TUNE [MSK007] - Loose Lips'
+type: post
+slug: fiesta-soundsystem-call-020-bait-tune-msk007-2
+author: 72
+banner:
+  - imported/fiesta-soundsystem-call-020-bait-tune-msk007-2/image1094.jpeg
+description: >-
+  Fiesta Soundsystem &#8211; CALL 020-BAIT-TUNE [MSK007] by Fiesta Soundsystem I
+  first heard Fiesta Soundsystem&rsquo;s music around a year ago: I had just
+  played Denham Audio&rsquo;s &lsquo;Leighton Buzzin&rsquo;&rsquo; and
+  LMajor&rsquo;s &lsquo;Engineer&rsquo; and my flatmate suggested that we listen
+  to some similar tracks that his friend from university had been making. Ever
+  the sceptic when told by [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported/fiesta-soundsystem-call-020-bait-tune-msk007-2/image1094.jpeg)I first heard Fiesta Soundsystem’s music around a year ago: I had just played Denham Audio’s ‘Leighton Buzzin’’ and LMajor’s ‘Engineer’ and my flatmate suggested that we listen to some similar tracks that his friend from university had been making.Ever the sceptic when told by someone ‘my mate makes sick music have a listen’ I reluctantly logged into Soundcloud and listened to some of the tunes. Back then he went under a different name, and made slightly different music to what can be heard on the CALL 020-BAIT-TUNE EP, released last week on Dubshun’s Mask Music Label. Yet even a year ago there was something interesting and different about Fiesta Soundsystem’s tracks.They followed naturally on from the rest of the music we had been playing that night, the LMajor, the Denham Audio, the Special Request, but added something deeper: refined bass, a definite feel of European techno, but still a tissue of UKG and Hardcore shining through. Much of this has now been deleted from Fiesta Soundsystem’s Soundcloud, but you can hear an echo of it on the second track of the EP, ‘_Tumbling_.’It begins with synths that could very well soundtrack a sci-fi horror film, then folds out into the track’s first kicks and breaks, with an almost undetectable bass teasing the tune’s later development. There’s a sense of restraint to this first section. Where other artists might employ a vaunting reese or mentasm, Fiesta Soundsystem instead opts for intricate drums, a kick that doesn’t overpower, and then finally opens the track up in the latter half, with a second break, more bass, all without losing the dark and nervous atmosphere built up in the first part.In many ways this track embodies what Fiesta Soundsystem is all about, using sounds that UK listeners are familiar with to make tracks that seem to hover in an unfamiliar space somewhere between Berlin and Hackney: canny beats with an uncanny feel. This is not to say that the EP doesn’t have its more unsubtle moments: the title track has a jungle-inspired pitch-shifted sample from India’s 1990 ‘_Lover Who Rocks You_,’ while ‘_Breathing Down My Neck’_ has a haughty saturated bass that dominates the middle part of the track.However, these seem at home within the EP, never sacrificing music in favour of gimmicky acid and jungle inspired inversions, as is often the case with modern breaks. One might expect these inclusions from the title of the EP – it sarcastically promises ‘bait tunes’ – but instead the listener gets music that crosses the boundaries of genre to create some of the most interesting new breakbeat around. It stands up both in an in-depth home listen, as well as on the dance floor: with enough intricate production to keep the chinstroker interested, and enough bass and kick to keep a club moving.The EP is ultimately a triumphant development that earlier Soundcloud work my flatmate introduced me to last year. Taking sounds from Jungle and Techno, and morphing them into interesting and rhythmically powerful music on a debut EP that suggests we may see a lot more from this relatively new artist in the coming years._Somehow this review was lost, in the time since Jago – under his XMTR alias – has collaborated with Fiesta Soundsystem for a track on Corrupt Data's_ [_Covid-19 Fundraiser_](https://corruptdata001.bandcamp.com/album/covid-19-support-compilation?fbclid=IwAR2U-vTpjnWD5IXYhqwIImutXvle5tejgn6NyBNZ1grbj2eoVX_twkqu7HY)_!_

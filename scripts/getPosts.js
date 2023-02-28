@@ -88,9 +88,10 @@ for (let i = 1; i < totalPages; i++) {
         const imgHtml = `<img src=../${images[0]} alt="image"></img>`;
         const imgMd = turndownService.turndown(imgHtml);
         const yamlData = yaml.safeDump(data);
+
         const folderDirectory = path.join(
           rootDir,
-          `src/routes/markdownfiles/importPosts/${post.slug}`
+          `src/routes/blog/${post.slug}`
         );
         if (!fs.existsSync(folderDirectory)) {
           fs.mkdirSync(folderDirectory, { recursive: true });

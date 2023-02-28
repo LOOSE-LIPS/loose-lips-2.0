@@ -1,0 +1,22 @@
+---
+id: 1103
+date: '2020-05-01'
+title: Jade Parker - Acceptance (Save Our Scene) - Loose Lips
+type: post
+slug: jade-parker-acceptance-save-our-scene
+author: 100
+banner:
+  - imported/jade-parker-acceptance-save-our-scene/image1103.jpeg
+description: >-
+  Jade Parker delivers here a soulful number, made during the lock down. I made
+  it during lock down, with all that is going on, the track represents my
+  journey of &quot;Acceptance&quot;.The early breakdown represents the
+  &quot;early breakdown&quot; of this year and the BPM is much slower than I
+  usually work with, that&#39;s to represent the [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported/jade-parker-acceptance-save-our-scene/image1103.jpeg)[Jade Parker](https://jadeparker.bandcamp.com/) delivers here a soulful number, made during the lock down._I made it during lock down, with all that is going on, the track represents my journey of "Acceptance".  
+The early breakdown represents the "early breakdown" of this year and the BPM is much slower than I usually work with, that's to represent the slowness of now. The vocals make no sense because not much does at the minute and the vocal pads were used to create calmness._From _BRB (Be Right Back) – Sounds From The Rainy City_ V/A compilation on [Save Our Scene](https://www.residentadvisor.net/features/3640).Out now on digital – To show your support for the fundraising initiative, you can purchase the compilation album on Bandcamp [here](https://saveourscenemcr.bandcamp.com/album/brb-be-right-back-sounds-from-the-rainy-city) or enter the raffle prize draw [here](https://www.crowdfunder.co.uk/save-our-scene-manchester-salford). Be sure to check the Manchester & Salford Save Our Scene [Facebook Page](https://www.facebook.com/saveourscenemcrsalf/) to keep up-to-date with the application process and future fundraisers.[](https://soundcloud.com/jade-parker-musik)[https://soundcloud.com/jade-parker-musik](https://soundcloud.com/jade-parker-musik)Manchester & Salford Save Our Scene collective, now into their second month of fundraising, are launching a compilation album on Bandcamp this Friday 1st May. The collaborative compilation titled ‘BRB (Be Right Back) – Sounds From The Rainy City’ is made up of 20 tracks from over 20 different artists based in Manchester & Salford. Priced at £10, the album will be available to purchase through the collective’s Bandcamp page.A whole host of phenomenal musicians are featured on the album from each corner of the music scene within the rainy city. Including 96 Back, Bianca Scout, Cervo & Contours, DJ Luz, Henzo, Iceboy Violet, Il Bosco, Interplanetary Criminal, ISA, Jade Parker, Jorg Kuning, Kerrie, Korzi, Levi Love, Means&3rd, NAZZA, Orphic, Sarah Bates, SCAPA and Schuttle. All of the tracks on the album are mastered by local producer and sound engineer Yant.Bandcamp will be waiving their fees on the first Friday of the month for the next three months starting this Friday 1st May, so all proceeds will reach the organisers on these days exclusively. Half of the funds raised will be given to the artists featured and the other half will be added to the Manchester & Salford Save Our Scene Crowdfunder.The collective – made up of the promoters from Manchester & Salford – aims to provide financial support to workers of local independent venues who aren’t eligible for immediate government funding – whether freelance and out of work, employed on a zero-hour basis, or simply don’t meet other criteria. Manchester & Salford Save Our Scene Crowdfunder aims to raise £15,000 to distribute amongst individuals that have applied and are eligible for the support scheme.They have raised £9,650 so far after initiating a raffle prize draw and a 12-hour livestream on the Greater Manchester Combined Authority livestreaming service United We Stream. Applications for the support scheme are now closed but they must reach their target before distributing the funds to applicants. With £5,350 to go to reach their initial target of £15,000, the collective are continuing to bring together their vibrant community to support local people.

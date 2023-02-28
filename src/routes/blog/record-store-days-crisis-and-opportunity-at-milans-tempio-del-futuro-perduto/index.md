@@ -1,0 +1,41 @@
+---
+id: 1238
+date: '2020-08-28'
+title: >-
+  Record Store Days: Crisis and opportunity at Milan’s Tempio del Futuro Perduto
+  - Loose Lips
+type: post
+slug: record-store-days-crisis-and-opportunity-at-milans-tempio-del-futuro-perduto
+author: 106
+banner:
+  - >-
+    imported/record-store-days-crisis-and-opportunity-at-milans-tempio-del-futuro-perduto/image1238.jpeg
+description: >-
+  What the world needs now is positive stories, sources of hope and inspiration
+  to counterbalance the chaos, anxiety and depression that engulfed us when
+  COVID-19 arrived. Don&rsquo;t worry, then; we&rsquo;ve got you covered.&nbsp;
+  &ldquo;Last week, the mayor of Milan said he really appreciated our
+  work,&rdquo; Tommaso Dapri, mastermind behind Tempio del Futuro Perduto,
+  explains when [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported/record-store-days-crisis-and-opportunity-at-milans-tempio-del-futuro-perduto/image1238.jpeg)**What the world needs now is positive stories, sources of hope and inspiration to counterbalance the chaos, anxiety and depression that engulfed us when COVID-19 arrived. Don’t worry, then; we’ve got you covered.** _“Last week, the mayor of Milan said he really appreciated our work,”_ Tommaso Dapri, mastermind behind Tempio del Futuro Perduto, explains when we get him on the phone. If you’re familiar with the venue then it’s not hard to understand why this is big news.A squat in a disused Milan tram depot, over the last three years it has been transformed into a cultural and community hub. Friday and Saturday nights may be all about techno parties, but inside the building there are professional recording and dance studios, African art and drumming workshop annexes, a self-defence gym, record store and bedrooms for those who live here permanently, and others who need somewhere to crash. The crew also organise clothing donations through their Wall of Kindness – items are left by those who don’t need them and then sorted and redistributed to vulnerable communities. Ravers are even asked to bring donations as part of their entrance fee for parties, contributing to the cause. Hardly par for the course at any club, let alone an illegal squat. Until COVID-19 hit, authorities turned a blind eye to the lack of license as well as never acknowledging the value of what was happening at the address. How times, attitudes and priorities change.
+
+![](/wp-content/uploads/live/img/wysiwyg/5f3e4284d18fc.jpeg)![](/wp-content/uploads/live/img/wysiwyg/5f3e42a388a69.jpeg)
+
+During peak lockdown those in need were unable to access donated clothing, so Dapri and comrades began delivering emergency packages directly to recipients —  things to wear, wash with and eat. _“Before we were receiving a tonne of clothes a month, now we are given well over two. We are busier than ever with these donations, so now we’re supplying churches and places like that,”_ he replies when we ask how the pandemic impacted this side of their work. From February to April, Milan and the wider Lombardy region were seen as ground zero in the COVID-19 crisis, and the local healthcare system was stretched to breaking point. The team responded in the best way they know how — raising funds to support medical efforts by banging out tunes at high volume.
+
+![](/wp-content/uploads/live/img/wysiwyg/5f3e42b75a26f.jpeg)
+
+_“We did the longest DJ set in the world as a live stream. The Guinness Book of Records doesn’t recognise us, but we did it. It was funny, it went on for 340 hours. There were three of us living alone at Tempio during the height of the emergency and one day we thought ‘what the fuck are we doing, we have everything here we need to play for ourselves’. So we played two weeks straight with three guys on the decks,”_ says Dapri, who mixes under the pseudonym Industrial Romantico, with the other two heads involved Marthial and Odysseey3013. _“It was funny, but after four days I felt damaged. Like we had been tortured by the American government — high volume, very low temperature, even less sleep. I wasn’t drinking beer before, but since we finished I’ve been drinking every day,”_ he jokes, before explaining the real reason for the marathon b2b. _“We needed a way of encouraging people to send money directly to the hospitals. You know, Italy was the first European country to have an emergency, but the real issue was the lack of funding for hospitals… that was the emergency: not a strong virus or bad social distancing, but hospitals not working properly.”  
+_  
+The situation in Milan and Italy has improved dramatically in recent months, with the country now trying to return to something resembling normality – albeit the situation continues to be precarious. As restrictions eased, Tempio restarted and added to its community programme of classes and workshops in compliance with rules aimed at curbing virus transmission. Saturday raves are also back on, albeit music has moved from the indoor warehouse to an outdoor garden, and capacity is limited to 200. All of who have the required 10square-metres each for dancing.
+
+![](/wp-content/uploads/live/img/wysiwyg/5f3e42c8195a3.jpg)
+
+When we ask how Tempio’s vinyl store has coped, Dapri replies _“It was a challenge.”_ It’s a small but well-stocked room of black plastic, cracked plaster and exposed bricks hidden in the labyrinthine complex. _“If people touch the vinyl we must clean every piece after it has been handled. That wasn’t easy. People also need to wear plastic gloves, and we can’t let them listen to music with headphones. It was very sad. We had just one turntable for listening through a hi-fi, so everyone hears the same tracks. But now our sales are back to where they were and we feel we are back.”_ In many ways that’s a major understatement — Tempio’s significance, status and audience are all on the rise. It’s currently the only venue in Milan hosting club events, while also finally gaining positive recognition from the powers that be for its socially-conscious actions. A third recording studio has now opened, where local hip hop MCs Nerone, Warez, Axos and Biggie Paul are currently working on an album Dapri believes will be _“the masterpiece of Italy’s summer”_. The crew have also opened a new restaurant on-site, with an overwhelmingly positive response — no mean feat considering Italy’s demanding culinary culture. _“We were spending too much money feeding ourselves, and needed to stop spending money,”_ he says, referring to the fact that Tempio received no financial support from the government while shuttered during lockdown. _“So we learn how to cook and make some special dishes, then put together a menu and now we are DJs working as chefs and waiters.”_ 
+
+_![](/wp-content/uploads/live/img/wysiwyg/5f44e36f15433.jpeg)__![](/wp-content/uploads/live/img/wysiwyg/5f3e42d80bdd4.jpeg)_There has long been an understanding that opportunities emerge from crises, and so much about Tempio has been born from necessity. The need to create a conscious, inclusive place that’s as much about driving beats and strobes as supporting the surrounding community. A reaction to the city with a polished club scene renowned for high fashion and design, with not only Italy’s wealthiest but also home to some of its most disadvantaged. As the needs of the city grew more urgent, Dapri and crew expanded their solution and have become more determined in their efforts.

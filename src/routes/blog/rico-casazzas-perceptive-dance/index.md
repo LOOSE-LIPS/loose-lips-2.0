@@ -1,0 +1,49 @@
+---
+id: 1383
+date: '2021-01-16'
+title: Rico Casazza's Perceptive Dance - Loose Lips
+type: post
+slug: rico-casazzas-perceptive-dance
+author: 164
+banner:
+  - imported/rico-casazzas-perceptive-dance/image1383.jpeg
+description: >-
+  Right hello hello all, Loose Lips editor Will Soer here. Rico Casazza, one of
+  the Loose Lips team&#8217;s favourite producers from the enormous world of
+  House and Techno has just released a new ep of dance music, the first release
+  on his new record label (its artwork is above, we premiered End Of
+  Transmissions). Both [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported/rico-casazzas-perceptive-dance/image1383.jpeg)![](/wp-content/uploads/live/img/wysiwyg/6001dc370aa8d.jpg)**_Right hello hello all, Loose Lips editor Will Soer here. Rico Casazza, one of the Loose Lips team’s favourite producers from the enormous world of House and Techno has just released a new ep of dance music, the first release on his new record label (its artwork is above, we premiered [End Of Transmissions](https://soundcloud.com/loose-lips123/premiere-rico-casazza-end-of-transmissions)_****_). Both the EP and the label are named_** **_[Perceptive Dance](https://ricocasazza.bandcamp.com/album/perceptive-dance-2)_****_. Rico has wandered across tempos and moods in his decades of production, and this release has a mixture of influences ranging from Dub to IDM, but it’s focussed on the dancefloor. This will make sense to anyone whose lockdown experience has been drenched in club nostalgia, who drives themselves through this repetitive time with repetitive beats._** **_I suggested to Rico that we make a mood board of some sort for his release, imagining that he could share screenshots of the films that his self-described ‘Cinematic Techno’. He sent me 5 of his own photos, one for each track on the new EP. They are presented below, each photo beneath its track, introduced by the man himself, and followed by my interview with him. Enjoy._**As I love music I also love photography, many times I associate music with images, as I believe most people who make music do, it’s a very natural thing. When I see an image and associate it with some music, the image takes on a different meaning in my mind, it can travel inside my imagination and I can develop new sounds and melodies in my mind or I can develop ideas for photos or images. In this example done for Will, I applied this process to my music, using some of my photography to see what the songs in my EP can look like.
+
+![](/wp-content/uploads/live/img/wysiwyg/6001dfb350ca1.jpg)
+
+![](/wp-content/uploads/live/img/wysiwyg/6001e07854740.jpg)
+
+![](/wp-content/uploads/live/img/wysiwyg/6001e0a906c88.jpg)
+
+![](/wp-content/uploads/live/img/wysiwyg/6001e0dce067c.png)
+
+![](/wp-content/uploads/live/img/wysiwyg/6001e0f8eb18b.jpg)
+
+**Do you remember when you first started taking photographs for the sake of creativity, (as opposed to documenting events / remembering people)?**I started with the smartphone and I was enjoying doing photos, like music, photography had to do with internal vision. I was probably around 33 years old, when I had a better iPhone model and I could take better quality photos, I felt it was nice to play with black and white and to focus certain objects.
+
+**Where have you spent the last year in lockdown? Have you had access to any nice walks you can take with your headphones and or camera?**At home in Upper Clapton, doing my walks and runs.  I was lucky I could travel a bit during some of the lockdown breaks in the late summer.
+
+**I felt at points that London was the worst place to be in lockdown, as I find the landscape very uninspiring, did you manage to find inspiration or comfort in the city’s architecture?**London is not that bad at all compared to other cities. I used to take a bicycle and go to amazing looking places. London has one of the best landscapes in a city.
+
+**I guess it’s dramatically different down south here in Tooting Broadway. When I googled the word Camarones I came up with a load of shrimp recipes, is that _Camarones 4 x 4_ an attempt to empathise with the chaotic (but occasionally serene) lives of these sea insects?**Camarones means shrimps in Spanish yeah.  Nothing to do with that though.  I just like the sound of some names that’s all.**Does _Remind Me Pls_ feature any field recordings? I like to think that the track was an attempt to remind you of something.**Again the names of the track are not intended to be interpreted with the meaning of the sentence.I like the sentence remind me pls. Cause I like it. There’s nothing to remind particularly in this song. It sounds familiar somehow but can’t explain why it sounded familiar to me when I developed it. And no there’s no field recording sound.In _Divine Intervention_ there’s a field recording of a train station in the background which was processed heavily.
+
+**I just find it funny as I used to find that sentence really annoying, though that was partly because of the people saying it being people who weren’t willing to put effort in, of course some people are just a bit scatter-brained.**Maybe cause I stress myself to remind about stuff that I have to do.  I have become quite strict to myself to remind myself things that I have to do and not to forget them. I also started to have a note whenever I have things that come to my mind I write them down especially creative ideas that can come and goes very quickly and you ended up forgetting them as my mind travels fast sometimes.
+
+To me, this ep stands at the midpoint between hope and fear, the synths (particularly on Divine Intervention) look up into the future, whereas the basslines are anxious and frenetic. Do you see those feelings in the music?Yeah I would call it cinematic techno.
+
+**My favourite track _End of Transmissions_ feels very much like an after hours, post-rave jam, it captures the feeling of wandering back home in the wee small hours. Were you thinking about any of particular moments or experiences you’ve had around nightlife when making the ep? or was it simply inspired by thinking about the central part of clubbing; a dance floor packed with people.**When I made this track I was playing with a Reaktor synthesiser, an ensemble which I love and I started this song with the melody that you hear towards the middle of the track.  From that, I built the rest. I didn’t think about any clubbing experience but yeah it has a very strong after-hours dream-like vibe.
+
+**So is there a link between the music and stuff you had been thinking about when you made it, or alternatively what your emotional state was? Or is it more you exploring sounds you find interesting and exciting, perhaps even sounds that out you in a desired head space?**I usually think about the sounds that I have in my head and put them down.  Sometimes I think about figures or imaginative stuff that I translate into sound and music.Mostly transforming images in emotional overtones.**That’s really interesting, so do some of the photos you shared actually look like the mental images that influenced the tracks?**Some does and some doesn’t. For example, the photo associated to _Remind Me Pls_ that has that sunset purple sky has influenced me a bit with the mood of the track.The open purple sky with the clouds has the same intensity in the low key mood of the song.
+
+**Last question; where does the cover art come from?**It’s a sound spectrum analyser.It was a sound analysed with a program, a random sound that I don’t even remember but when I saw the spectrogram of this sound I liked it a lot.

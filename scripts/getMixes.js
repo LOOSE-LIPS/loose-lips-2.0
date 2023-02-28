@@ -101,7 +101,7 @@ for (let i = 1; i < totalPages; i++) {
 
               const folderDirectory = path.join(
                 rootDir,
-                `src/routes/markdownfiles/importMixes/${mix.slug}`
+                `src/routes/mixes/${mix.slug}`
               );
 
               if (!fs.existsSync(folderDirectory)) {

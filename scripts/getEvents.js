@@ -78,7 +78,7 @@ for (let i = 1; i < totalPages; i++) {
 
         const folderDirectory = path.join(
           rootDir,
-          `src/routes/markdownfiles/importEvents/${event.slug}`
+          `src/routes/events/${event.slug}`
         );
         if (!fs.existsSync(folderDirectory)) {
           fs.mkdirSync(folderDirectory, { recursive: true });

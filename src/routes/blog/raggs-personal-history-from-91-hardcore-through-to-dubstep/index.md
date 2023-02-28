@@ -1,0 +1,53 @@
+---
+id: 1387
+date: '2021-01-18'
+title: 'Raggs’ Personal History, from ’91 Hardcore through to Dubstep - Loose Lips'
+type: post
+slug: raggs-personal-history-from-91-hardcore-through-to-dubstep
+author: 100
+banner:
+  - >-
+    imported/raggs-personal-history-from-91-hardcore-through-to-dubstep/image1387.jpeg
+description: >-
+  It&rsquo;s time to get excited. Which is to say, it&rsquo;s the time when
+  we&rsquo;re all feeling shit and really realistically have no idea when rave
+  shall return, so the getting of excitement has to be gradual, substantial, for
+  the summer (or winter) of love to change lives as it should. Time to tune into
+  eachother&rsquo;s [...]Read More...
+published: true
+tags:
+  - post
+featured: false
+---
+![image](../imported/raggs-personal-history-from-91-hardcore-through-to-dubstep/image1387.jpeg)[](https://www.youtube.com/watch?v=1MEzjB1kZXk)[](https://www.youtube.com/watch?v=1MEzjB1kZXk)**It’s time to get excited. Which is to say, it’s the time when we’re all feeling shit and really realistically have no idea when rave shall return, so the getting of excitement has to be gradual, substantial, for the summer (or winter) of love to change lives as it should. Time to tune into eachother’s gold dust drawers, to tie our hifi’s together via the web. Stepping up is the OG that is Raggs, a rave legend who** [**destroyed**](https://thenycdownlow.com/2020/03/11/raggs-iicon-glastonbury-2019/) **the IICON stage at Glastonbury in 2019. As per, all Spotifyable tracks are gathered** [**here**](https://open.spotify.com/playlist/08Tu39SCDfD4edHBiT3zmL)**, enjoy…**
+
+Hey there, Raggs here, I’m a musician, producer, DJ, event promoter, and journalist.  Delighted to be invited to share the dark corners of my vinyl collection with you by the mighty Threads team, although distilling my selection down to ten has been more stressful than I’d imagined! At this time in my career, I’m focussed on 140 bpm, I’m producing and playing grime, breaks and drill as well as my established specialist genres.  Head over to my [soundcloud](http://soundcloud.com/raggsmusic) for production work, and [mixcloud](http://mixcloud.com/djraggs) for mixes/radio sets.  I’ve been broadcasting on radio since the pirate days of UKG, a personal history that I’ve woven into these choices, particularly in regard to UKG and Dubstep, which are my biggest areas of specialisation.I decided to spotlight the underground scenes I have been a part of, that fuelled my record collection: raving, performing, working and creating, and select pivotal tracks that shaped my dance music experience over the years.The genres I shall include are:
+
+*   ’91 Hardcore
+*   Hip Hop
+*   Dancehall
+*   UKG
+*   Dubstep
+
+There are so many anthemic ‘91 breakbeat hardcore tracks that embody the spirit of the early ‘90’s rave scene. This one coming in around 140 bpm, a classic white dove ecstasy track, and seminal anthem of the rebellion of rave.  Reggae b-line, jungle breakbeat, gerbil vocal, hip hop swing – stone cold classic.  
+[](https://www.youtube.com/watch?v=vp1W2I6uWOg)
+
+My no. 1 track on my favourite album of all time, Public Enemy's _It Takes a Nation of Millions to Hold Us Back_.  Seminal work, often voted the greatest Hip Hop album of all time.  The energy and political message in their work, the militant messages Chuck D delivered without a single swear word, the artful sampling, and the classic funky drummer groove, all combined to make this a stand-out piece of underground art in my opinion.  I have requested to have this track played at my funeral!
+
+“Greatest rapper of all time died March 9…you shot 2-Pac & Biggie, hold ya head when the beat drop” (Mos Def & Talib Kwali – Black Star “Definition”) Endlessly eulogised & name checked, a true rap legend,  Biggie’s salute to dancehall featuring the eminent Diana King.  Stunning display of his genius harking to his Jamaican roots, bridging it back to the origin of hip hop in NYC, where DJ Kool Herc first set up a pair of decks, a mic, and a sound system, Jamaican style, and dance music/rap was born.  Its album _Ready to Die_ is also pure excellence, not a single duff track.
+
+When I used to scour the record shops in Soho and across London, I’d spend a lot of time in HMV Oxford Circus, and round the corner was Deal Real, which bludgeoned many a UK Hip Hop career, and where live sets would regularly kick off, it’d be a battle to get to the counter and grab the imports as they came in.  I grabbed a copy of this seriously dark 12” release, pure dirt, with a particularly evil vocal from Sticky Fingers, and choc full of extreme vocal dexterity including Method Man.  I know this track has a secret underground following, out to Sgt Pokes on this one!  When I worked for Blues & Soul magazine covering hip hop, I ended up starstruck on stage with Wu Tang Clan; these guys are huge, not just in terms of success but physically!  All dressed in black & wearing all-white Air Force 1’s.  Wu Tang Clan are in a league of their own.  
+[](https://www.youtube.com/watch?v=q1oa07Kw_RQ)
+
+I got this from Red Records in Brixton.  Capleton – fire king of bashment, a purist, surely can deliver the rage when required, and this track really hits the spot for me.  I spent a fair bit of time living and working in Jamaica going to dances, clubs, and studios, the level of talent and skill in these artists’ performances, the dancing, in my opinion, is the best in the world.  I’ve never experienced anything like it.  Street dances in the ghettos where you’d have a crew of street dancers on one side blowing your mind, and Capleton across the way flinging down some dutty riddim.  For me, this track has that same rising of rebellion that draws me in every time – if you can get your hands on a copy, grab it!
+
+A seminal underground UKG hit, and one of those tracks that even if you don’t know its name, even if you don’t really know about UKG, you’ll know it when you hear it.  A straight club classic; released on Urban Beat 1996 by G Smoov & Nathan Lockett aka Baffled.  As Nathan used to say “they’d slap-up the walls for the reload on this one”.  I started producing dance music around this time, and ran a UKG/grime record label named 5-Claw Records with Nathan, who also first taught me Logic Pro, how to put a dance track together, and how to run recording sessions in big commercial studios with the likes of KT Tunstall.  We re-released this track in 2004, together with some remixes, and that’s the copy I have. You can grab this track off various classic UKG type compilations or via discogs.  This was the beginning of my journey into the underground music scene in London as an artist, and I have various UKG releases still floating about.
+
+I’m biased here!  This track is my pride and joy.  Coki is easily my favourite dubstep producer, and I was fortunate enough to get a chance to work with him on Celestial Dub.  As appears to be a theme in my music taste, I enjoy the relentless, hard driving beats and bass, but in Coki’s work there is a strong Bashment/Dub groove, contained within the 140 structure.  When I first recorded sax over this in my cupboard in Brixton, I really felt moved by the music.  Jamaican music is known to have strong elements of jazz, and the detuned chords, 12/8 time signature, along with the tough dub bass and haunting percussion in this track are typical of Coki’s composition.  A former bass player, he has classical dub training and it shows in this work.  When combined with nasty talking bass and vox samples, we then get the more Cashment sound you’ll hear in his midrange tracks, which brings me to my next choice…
+
+Another favourite thing of mine in Coki’s production is his humour, clearly illustrated in this ridiculous remix of Macarena – he’s recently released a track called ‘Clown’ with yet another absurd sample, and again hovering on the delicate threshold between ridiculous & genius. 
+
+This is a treasured gift given to me by Pokes when we ran Croydub together at the Black Sheep Bar in Croydon. This always causes a bit of a scene when it drops. Absolute classic piece of vinyl. This would be my nod to the deeper side of dubstep, and to the legend who is Loefah.
+
+This one a release on Chef’s Croydon label, and a production collab between he & Coki.  A joy to mix, and I have always been a sucker for a bit of 4/4, both in dubstep and UKG. Also two of my favourite dubstep pals! You can definitely get a copy: Darkside also released it on a Get Darker compilation. More gangster shit to tear up the dancefloor: probably my favourite dubstep tune if I’m honest.  
+[](https://www.youtube.com/watch?v=1Cdyynxg7p4)

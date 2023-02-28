@@ -18,7 +18,7 @@
       addToStore(post);
     }}
     data-sveltekit:prefetch
-    href={`../markdownfiles/importPosts/${post.slug}`}
+    href={`../blog/${post.slug}`}
     class="w-full"
   >
     {#if post.banner.length > 0}
