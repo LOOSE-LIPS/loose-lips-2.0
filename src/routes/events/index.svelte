@@ -50,7 +50,7 @@
   >
     Upcoming Events
   </h2>
-  <div class="grid  grid-cols-3 grid-rows-4 justify-between gap-5">
+  <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5">
     {#if events.length > 0}
       {#each events as event}
         <EventPost {event} />
