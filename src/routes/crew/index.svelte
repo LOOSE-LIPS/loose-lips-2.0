@@ -14,15 +14,12 @@
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
 
-  // Models
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import { convertToSlug } from "$utils/convert-to-slug";
   import CrewPost from "$lib/shared/components/crew-post/CrewPost.svelte";
-  import { each } from "svelte/internal";
 
   export let crewMembers!: IBlog[];
-  // Start: Local component properties
   /**
    * @type {IMetaTagProperties}
    */
@@ -30,7 +27,7 @@
     title: "Crew | Sveltekit Crew",
     description: "Crew page of Sveltekit blog starter project",
     url: "/crew",
-    keywords: ["sveltekit", "sveltekit starter", "sveltekit starter about"],
+    keywords: ["about"],
     searchUrl: "/crew",
   };
 
@@ -40,14 +37,17 @@
     .filter((crewMember) =>
       crewMember.title.toLowerCase().includes(searchValue.toLowerCase())
     );
+
+  console.log(crewMembers, "CREW");
 </script>
 
 <HeadTags {metaData} />
 
 <div class="pt-[5%]">
-  <div class="pl-[25%] pr-[25%] pt-[4%]">
+  <div class="pl-[5%] pr-[5%] pt-[4%]">
     <h1
-      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
+      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black
+    dark:text-white"
     >
       Crew
     </h1>
@@ -74,15 +74,17 @@
         />
       </svg>
     </div>
-    <div class="flex flex-row ">
+    <div
+      class="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 justify-between gap-5 "
+    >
       {#if !searchValue}
-        {#each crewMembers as crewMember, index (crewMember.slug)}
+        {#each crewMembers as crewMember}
           <CrewPost {crewMember} />
         {/each}
       {:else if filteredCrewMembers.length === 0}
         <p class="text-gray-600 dark:text-gray-400 mb-4">No posts found.</p>
       {:else}
-        {#each filteredCrewMembers as crewMember, index (crewMember.slug)}
+        {#each filteredCrewMembers as crewMember}
           <CrewPost {crewMember} />
         {/each}
       {/if}

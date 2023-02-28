@@ -19,24 +19,20 @@
 {#if crewMember && crewMember?.slug}
   <div class="mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5">
     <div class="flex flex-col md:flex-row justify-between">
-      <img
-        src={crewMember.banner}
-        alt="profile pic"
-        style="height: 12em;width:18emwidth:100%;"
-      />
-
-      <!-- <p class="text-gray-500 text-left md:text-right w-32 mb-4 md:mb-0">
-					{`${views ? new Number(views).toLocaleString() : '–––'} views`}
-				</p> -->
+      <img src={crewMember.banner} alt="profile pic" class="w-full" style="" />
     </div>
-    <a data-sveltekit:prefetch href={`/crew/${crewMember.slug}`} class="w-full">
+    <a
+      data-sveltekit:prefetch
+      href={`../mardownfiles/importCrew/${crewMember.slug}`}
+      class="w-full"
+    >
       <h3
         class="text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100"
       >
         {crewMember.title}
       </h3>
     </a>
-    <p class="text-gray-600 dark:text-gray-400">{crewMember.description}</p>
+    <!-- <p class="text-gray-600 dark:text-gray-400">{crewMember.description}</p> -->
     <p class="text-gray-600 dark:text-gray-400">{crewMember.date}</p>
     <TagsContainer tags={crewMember.tags} />
   </div>

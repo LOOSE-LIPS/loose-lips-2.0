@@ -5,7 +5,7 @@
 
   // Models
   import type { IBlog } from "$models/interfaces/iblog.interface";
-
+  import type { IEventsCard } from "$models/interfaces/ievents-card.interface";
   // End: Local Imports
 
   // Start: Exported Properties
@@ -13,7 +13,7 @@
    * @type {IBlog}
    */
   // export let blog!: IBlog;
-  export let currentPost: IBlog;
+  export let currentPost: IBlog | IEventsCard;
 
   // End: Exported Properties
 </script>
@@ -22,18 +22,14 @@
   <div class="w-full  border-gray-100 dark:border-gray-800 h-[50%]">
     <a
       data-sveltekit:prefetch
-      href={`/blog/${currentPost.slug}`}
+      href={`/importPost/${currentPost.slug}`}
       class="w-full"
     >
       <div class="flex flex-col md:flex-row justify-between">
-        <img src={currentPost.banner} alt="" class="w-[100%]  " />
-
-        <!-- <p class="text-gray-500 text-left md:text-right w-32 mb-4 md:mb-0">
-                      {`${views ? new Number(views).toLocaleString() : '–––'} views`}
-                  </p> -->
+        <img src={currentPost.banner} alt="" class="w-[100%] h-[18rem] md:h-[25em] lg:h-[32em]" />
 
         <h3
-          class="text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100 absolute"
+          class=" p-2.5 text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100 absolute w-1/2"
         >
           {currentPost.title}
         </h3>

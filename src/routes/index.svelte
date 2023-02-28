@@ -1,11 +1,3 @@
-<!-- HOME PAGE OF WEBSITE
-
-
-
-
-
-
- -->
 <script lang="ts" context="module">
   /**
    * @type {import('@sveltejs/kit').Load}
@@ -13,32 +5,32 @@
   export async function load({ fetch }) {
     return {
       props: {
-        blogs: await fetch(`/blog.json?recent=${5}`).then((res) => res.json()),
+        blogs: await fetch("/blog.json").then((res) => res.json()),
+        events: await fetch("/events.json").then((res) => res.json()),
+        mixes: await fetch("/mixes.json").then((res) => res.json()),
       },
     };
   }
 </script>
 
 <script lang="ts">
-  // Imports
-
-  // Components
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import FeaturedContent from "$components/featured-content/FeaturedContent.svelte";
-  import LooseLipsBanner from "$components/loose-lips-banner/LooseLipsBanner.svelte";
+  import TagsContainer from "$shared/components/tags-container/TagsContainer.svelte";
   import EventsContainer from "$shared/components/events-container/EventsContainer.svelte";
   import RecentPostsContainer from "$shared/components/recent-posts-container/RecentPostsContainer.svelte";
-  import TagsContainer from "$shared/components/tags-container/TagsContainer.svelte";
-  import EditorialPostsContainer from "$shared/components/editorial-posts-container/EditorialPostsContainer.svelte";
-
-  // Models
+  import RecommendedPostsContainer from "$lib/shared/components/recommended-posts/RecommendedPostsContainer.svelte";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import type { IBlog } from "$models/interfaces/iblog.interface";
+  import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
+  import type { IMix } from "$lib/models/interfaces/imix.interface";
 
-  // Exports
   export let blogs!: IBlog[];
+  export let events: IEventsCard[];
+  export let mixes: IMix[];
 
-  // Add metatags for page
+  const posts = [...blogs, ...events];
+
   /**
    * @type {IMetaTagProperties}
    */
@@ -47,6 +39,7 @@
     description: "Loose lips label radio and blogging website).",
     keywords: ["radio", "mixes", "london radio", "music"],
   };
+<<<<<<< HEAD
 
   let searchValue = "";
   $: filteredBlogPosts = blogs
@@ -57,19 +50,23 @@
   // End: Local component properties
 
   console.log("home");
+=======
+>>>>>>> 7d4e1fa190ffbccb38b5a7b54408c01878d90e87
 </script>
 
-<!-- Start: Header Tag -->
 <HeadTags {metaData} />
-<LooseLipsBanner />
-<!-- Start: Home Page container -->
 
-<div class="w-[75%]">
-  <FeaturedContent {blogs} />
-  <h1 class="text-white">
-    ___________________________________________________________________________________________________________________________________________
-  </h1>
-  <RecentPostsContainer {blogs} />
-  <EditorialPostsContainer {blogs} />
-  <EventsContainer />
+
+<div class="w-[100%] mt-28">
+  <FeaturedContent {posts} />
+  <TagsContainer {blogs} />
+  <RecommendedPostsContainer {posts} />
+  <RecentPostsContainer {posts} />
+  <!-- <EventsContainer {events} /> -->
 </div>
+
+<style>
+  :global(body){
+    overflow-x: hidden
+  }
+</style>

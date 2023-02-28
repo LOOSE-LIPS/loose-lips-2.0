@@ -1,40 +1,18 @@
-<style lang="scss" type="text/scss">
-	.rounded {
-		border-radius: 35px;
-	}
-
-	.button {
-		border: 3px solid;
-		padding: 10px 20px;
-		background-color: white;
-		outline: none;
-	}
-</style>
-
 <script lang="ts">
-	import { createEventDispatcher, afterUpdate } from 'svelte';
+  import { cn } from "$lib/models/util";
 
-	export let text = '';
-	export let rounded = true;
+  export let tag: string;
+  export let onClick: () => void;
+  export let active: boolean;
 
-	const dispatch = createEventDispatcher();
-
-	const onClick = (event) => {
-		console.log(event);
-		rounded = !rounded;
-
-		dispatch('click', event);
-	};
-
-	afterUpdate(() => {
-		dispatch('afterUpdate');
-	});
+  console.log({ active });
 </script>
 
-<button class="button" class:rounded on:click="{(e) => onClick(e)}">
-	<strong> {rounded ? 'Rounded' : 'Square'} </strong>
-	<br />
-	{text}
-	<br />
-	<slot />
-</button>
+<button
+  on:click={onClick}
+  class={cn("test text-xl font-bold text-white", [
+    active,
+    "text-red-500",
+    "text-white hover:text-white/60",
+  ])}>{tag.toUpperCase()}</button
+>

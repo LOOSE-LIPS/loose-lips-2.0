@@ -1,13 +1,13 @@
 <script lang="ts">
   import type { IBlog } from "$models/interfaces/iblog.interface";
-  import BlogPost from "$components/blog-post/BlogPost.svelte";
+  import type { IEventsCard } from "$models/interfaces/ievents-card.interface";
   import FeaturedPost from "../featuredPost/FeaturedPost.svelte";
-  export let blogs: IBlog[];
-  const featuredBlogs: IBlog[] = blogs.filter((blog) => {
+  export let posts: (IBlog | IEventsCard)[];
+  const featuredBlogs: (IBlog | IEventsCard)[] = posts.filter((blog) => {
     return blog.featured;
   });
 
-  let currentPost: IBlog;
+  let currentPost: IBlog | IEventsCard;
   let currIndex = 0;
 
   function advanceIndex() {
@@ -29,7 +29,7 @@
     Featured
   </h2>
 
-  <div class="border-white border-4 ">
+  <div class=" border border-gray-200mb-8">
     <FeaturedPost {currentPost} />
   </div>
 </div>
