@@ -116,27 +116,10 @@
       {/each}
     </div>
 
-<<<<<<< HEAD
-    <div class="flex flex-col">
-      {#if !searchValue && filteredTagMixes.length === 0}
-        {#each mixData as mixData}
-          <MixPost {mixData} {markupMixInfo} />
-        {/each}
-      {:else if searchValue}
-        {#each filteredMixes as mixData}
-          <MixPost {mixData} {markupMixInfo} />
-        {/each}
-      {:else if filteredTagMixes.length > 0}
-        {#each filteredTagMixes as mixData}
-          <MixPost {mixData} {markupMixInfo} />
-        {/each}
-      {/if}
-=======
     <div class="grid  grid-cols-4 grid-rows-4 justify-between gap-3">
       {#each visible as mixData}
         <MixPost {mixData} />
       {/each}
->>>>>>> 7d4e1fa190ffbccb38b5a7b54408c01878d90e87
     </div>
   </div>
 </div>

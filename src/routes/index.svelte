@@ -39,7 +39,6 @@
     description: "Loose lips label radio and blogging website).",
     keywords: ["radio", "mixes", "london radio", "music"],
   };
-<<<<<<< HEAD
 
   let searchValue = "";
   $: filteredBlogPosts = blogs
@@ -50,12 +49,9 @@
   // End: Local component properties
 
   console.log("home");
-=======
->>>>>>> 7d4e1fa190ffbccb38b5a7b54408c01878d90e87
 </script>
 
 <HeadTags {metaData} />
-
 
 <div class="w-[100%] mt-28">
   <FeaturedContent {posts} />
@@ -66,7 +62,7 @@
 </div>
 
 <style>
-  :global(body){
-    overflow-x: hidden
+  :global(body) {
+    overflow-x: hidden;
   }
 </style>
