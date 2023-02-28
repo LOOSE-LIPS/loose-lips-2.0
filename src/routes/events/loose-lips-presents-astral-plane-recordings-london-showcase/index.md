@@ -7,7 +7,7 @@ slug: loose-lips-presents-astral-plane-recordings-london-showcase
 author: 100
 banner:
   - >-
-    imported/loose-lips-presents-astral-plane-recordings-london-showcase/image2758.jpeg
+    imported\loose-lips-presents-astral-plane-recordings-london-showcase\image2758.jpeg
 description: >-
   LA COMES TO LONDON! Fri Mar 02 &#8211;&nbsp;Loose Lips&nbsp;heads to
   The&nbsp;CLF Art Cafe, Block A, Bussey Building&nbsp;for the second stunning

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-243-xylitol
 author: 100
 banner:
-  - imported/loose-lips-mix-series-243-xylitol/image3181.jpeg
+  - imported\loose-lips-mix-series-243-xylitol\image3181.jpeg
 description: >-
   Anxiety with rhyms and electronics&#8230; A special mix recorded in
   anticipation of the Electro Cafe event in Bristol Xyitol is gracing on the

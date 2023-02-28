@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-267-felix-raman
 author: 100
 banner:
-  - imported/loose-lips-mix-series-267-felix-raman/image3205.jpeg
+  - imported\loose-lips-mix-series-267-felix-raman\image3205.jpeg
 description: >-
   We’re delighted for this week’s mix series edition to announce our brand new
   Loose Lips resident! London-based Felix Raman is an incredible DJ and

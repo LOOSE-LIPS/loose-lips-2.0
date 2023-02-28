@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-177-jeff-spesh
 author: 100
 banner:
-  - imported/loose-lips-mix-series-177-jeff-spesh/image3115.jpeg
+  - imported\loose-lips-mix-series-177-jeff-spesh\image3115.jpeg
 description: >-
   The funkiest side of house &#038; techno, fused with tasty grimey bits
   throughout. Varied yet coherent &#8211; a really colourful ride! @jeff_opara

@@ -6,7 +6,7 @@ type: post
 slug: young-girl
 author: 100
 banner:
-  - imported/young-girl/image775.jpeg
+  - imported\young-girl\image775.jpeg
 description: >-
   In anticipation of Young Girl&#39;s forthcoming album A Marshmallow Called
   Moon, here&#39;s a nice in-depth interview with the man behind the alias. How
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/young-girl/image775.jpeg)In anticipation of Young Girl's forthcoming album _A Marshmallow Called Moon_, here's a nice in-depth interview with the man behind the alias.
+![image](../imported\young-girl\image775.jpeg)In anticipation of Young Girl's forthcoming album _A Marshmallow Called Moon_, here's a nice in-depth interview with the man behind the alias.
 
 **How has 2019 kicked off for you?**I have literally zero complaints man, the record’s looking good, people seem keen. I’ve shed a whole host of shitty, stunted ideologies in the last 10 months or so and pulled myself out of the land of Cain and everything is supercharged with meaning now and people are looking at me different. So a great time to put out a new record I’d say! Especially one with a particularly silly naming convention like A Marshmallow Called Moon. 
 

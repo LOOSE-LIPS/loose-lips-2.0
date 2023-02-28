@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-237-veronica-maximova
 author: 100
 banner:
-  - imported/loose-lips-mix-series-237-veronica-maximova/image3175.jpeg
+  - imported\loose-lips-mix-series-237-veronica-maximova\image3175.jpeg
 description: >-
   It&#8217;s with great pleasure that we&#8217;re inviting Veronica Maximova on
   our 237th Mix Series! She&#8217;s released an amazing LP titled

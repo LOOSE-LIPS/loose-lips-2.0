@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-block-party-at-boomtown-fair-2019
 author: 100
 banner:
-  - imported/loose-lips-block-party-at-boomtown-fair-2019/image2801.jpeg
+  - imported\loose-lips-block-party-at-boomtown-fair-2019\image2801.jpeg
 description: >-
   Round three here we go!&nbsp; Massive thanks to those who have partied with us
   over the past two years at Boomtown. The Block Party returns once more this

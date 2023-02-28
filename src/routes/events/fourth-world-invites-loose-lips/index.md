@@ -6,7 +6,7 @@ type: event
 slug: fourth-world-invites-loose-lips
 author: 100
 banner:
-  - imported/fourth-world-invites-loose-lips/image2770.jpeg
+  - imported\fourth-world-invites-loose-lips\image2770.jpeg
 description: >-
   Fourth World are back upstairs at Patterns joined by none other
   than&nbsp;Loose Lips! As one of the UK&#39;s brightest collectives,

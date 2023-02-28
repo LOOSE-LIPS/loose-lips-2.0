@@ -6,7 +6,7 @@ type: post
 slug: hanz-genred-walkthrough
 author: 100
 banner:
-  - imported/hanz-genred-walkthrough/image1345.jpeg
+  - imported\hanz-genred-walkthrough\image1345.jpeg
 description: >-
   Hello mate!!! Yeah I&rsquo;m so sorry to knock on your door in such strange
   times, rest assured this is only my astral projection so no viruses will be
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/hanz-genred-walkthrough/image1345.jpeg)**_Hello mate!!! Yeah I’m so sorry to knock on your door in such strange times, rest assured this is only my astral projection so no viruses will be passed, I just need some bangers, is that all right??? OH you’re a DJ whose record collection stretches from Dub Techno to Dancehall, fantastic! That will get my actoplasm right back up to peak virility in no time. What’s your name, [Hanz](https://soundcloud.com/joshhoward-2?ref=clipboard&p=i&c=1)? Great great, I hope you don’t mind me gathering a spotify playl- oh they're pretty much all wax-only?? Fair enough, Spotify is a bit wank anyway I guess. Ok sweet, well I’ll just settle into the foetal position on the floor whilst you talk me through the vibes if that’s all right. Cheers, take it away…_**
+![image](../imported\hanz-genred-walkthrough\image1345.jpeg)**_Hello mate!!! Yeah I’m so sorry to knock on your door in such strange times, rest assured this is only my astral projection so no viruses will be passed, I just need some bangers, is that all right??? OH you’re a DJ whose record collection stretches from Dub Techno to Dancehall, fantastic! That will get my actoplasm right back up to peak virility in no time. What’s your name, [Hanz](https://soundcloud.com/joshhoward-2?ref=clipboard&p=i&c=1)? Great great, I hope you don’t mind me gathering a spotify playl- oh they're pretty much all wax-only?? Fair enough, Spotify is a bit wank anyway I guess. Ok sweet, well I’ll just settle into the foetal position on the floor whilst you talk me through the vibes if that’s all right. Cheers, take it away…_**
 
 It’s a pleasure to have been invited to be part of the Loose Lips Picks collection. My record collection consists of music from all different genres and eras, I’ve been lucky enough to be able to share most of it with different crowds over the years. As one member of the Strange Riddims [crew](https://www.facebook.com/strangeriddims/?ref=hl) based in Manchester, there’s no real boundaries on what can and can’t be played so that allows me to feel comfortable playing all sorts of music. That being said I carry that ethos into all of my individual sets so if you have ever seen me play you might recognise some of these tracks.My picks consists of 2 tunes from 5 different sections of my record collection. The songs relate to a moment in my life or just have a strong attachment to me. Some will be nostalgic because right now that’s all we’ve got to remember the shubz and some will just be outright riddims. I hope you enjoy them as much as I do.
 

@@ -6,7 +6,7 @@ type: post
 slug: dnb-fix-009-baby-t-portra-ep-smde15
 author: 112
 banner:
-  - imported/dnb-fix-009-baby-t-portra-ep-smde15/image1065.jpeg
+  - imported\dnb-fix-009-baby-t-portra-ep-smde15\image1065.jpeg
 description: >-
   You may recognise household name Brianna Price AKA B.Traits for her
   contribution to the bass house and breakbeat scene over the last 10 years.
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/dnb-fix-009-baby-t-portra-ep-smde15/image1065.jpeg)_You may recognise household name Brianna Price AKA B.Traits for her contribution to the bass house and breakbeat scene over the last 10 years. ‘Portra’ couldn’t be any more dissimilar to her 2011 single ‘Fever’, which paid homage to the up-lifting piano house tracks of the 90s. Albeit, ‘Fever’ was indeed a wicked track, but it’s nothing like the new material Baby T has in store for us._ 
+![image](../imported\dnb-fix-009-baby-t-portra-ep-smde15\image1065.jpeg)_You may recognise household name Brianna Price AKA B.Traits for her contribution to the bass house and breakbeat scene over the last 10 years. ‘Portra’ couldn’t be any more dissimilar to her 2011 single ‘Fever’, which paid homage to the up-lifting piano house tracks of the 90s. Albeit, ‘Fever’ was indeed a wicked track, but it’s nothing like the new material Baby T has in store for us._ 
 
 As happens quite regularly in the Dance Music scene, we see DJs and Producers go back to their roots through aliases or forever. Price started off with the alias Baby T, though she felt she needed to change this to get further in the scene, wherefore she abbreviated the Baby to B so that the “name was more androgynous, to prevent the unnecessary attention and bad-mouthing I got whenever people found out I was female”.
 

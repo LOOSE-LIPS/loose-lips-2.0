@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-273-extrapolation-records
 author: 100
 banner:
-  - imported/loose-lips-mix-series-273-extrapolation-records/image3212.jpeg
+  - imported\loose-lips-mix-series-273-extrapolation-records\image3212.jpeg
 description: >-
   Next up is a smooth and wonderful journey courtesy of Extrapolation! Blending
   current-news-related samples ran through pedals with a fascinating musical

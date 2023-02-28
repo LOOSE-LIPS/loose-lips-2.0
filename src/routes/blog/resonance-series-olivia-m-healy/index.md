@@ -6,7 +6,7 @@ type: post
 slug: resonance-series-olivia-m-healy
 author: 76
 banner:
-  - imported/resonance-series-olivia-m-healy/image1164.jpeg
+  - imported\resonance-series-olivia-m-healy\image1164.jpeg
 description: >-
   Welcome to this installment of the &#39;Resonance Series&#39; &#8211; curated
   by Jasper Golding.&nbsp;This feature, running every other Tuesday, introduces
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/resonance-series-olivia-m-healy/image1164.jpeg)_Welcome to this installment of the 'Resonance Series' – curated by Jasper Golding._ _This feature, running every other Tuesday, introduces you to musical individuals through the art forms they engage in, telling a personal story of their creative output and how different mediums influence each other.__For this edition we introduce you to Olivia Healy's dieties, celebrations of queer culture and the music scenes that go hand-in hand with it._ 
+![image](../imported\resonance-series-olivia-m-healy\image1164.jpeg)_Welcome to this installment of the 'Resonance Series' – curated by Jasper Golding._ _This feature, running every other Tuesday, introduces you to musical individuals through the art forms they engage in, telling a personal story of their creative output and how different mediums influence each other.__For this edition we introduce you to Olivia Healy's dieties, celebrations of queer culture and the music scenes that go hand-in hand with it._ 
 
 **Imaginative style icon** [Olivia Healy](https://oliviamhealy.com/) **creates powerful figures that celebrate femininity and dance culture. Her work has been moulded by the scenes she is a part of and as a result they reflect today’s culture in a true form. Her work exploded on her moving to London and she began to embody the forms she depicted, not only blending together culture and music to inform her visuals, but also becoming a human representation of her subject matter, an embodiment of her art.**
 

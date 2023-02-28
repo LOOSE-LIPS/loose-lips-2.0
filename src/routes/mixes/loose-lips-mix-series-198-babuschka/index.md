@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-198-babuschka
 author: 100
 banner:
-  - imported/loose-lips-mix-series-198-babuschka/image3136.jpeg
+  - imported\loose-lips-mix-series-198-babuschka\image3136.jpeg
 description: >-
   #198 of our Loose Lips Mix Series comes from Babuschka, aka RonGueta, a
   Leipzig-based DJ from Tel Aviv. We met Ron at this year&#8217;s Forte

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-290-moskalus
 author: 100
 banner:
-  - imported/loose-lips-mix-series-290-moskalus/image3228.jpeg
+  - imported\loose-lips-mix-series-290-moskalus\image3228.jpeg
 description: >-
   A free ticket to a virtual dancefloor, from the legendary Moskalus, who we
   eventually met properly last year in Czech Republic &#8211; with the

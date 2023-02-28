@@ -7,7 +7,7 @@ slug: loose-lips-mix-series-195-dvs-nme-dark-science-electro
 author: 100
 banner:
   - >-
-    imported/loose-lips-mix-series-195-dvs-nme-dark-science-electro/image3133.jpeg
+    imported\loose-lips-mix-series-195-dvs-nme-dark-science-electro\image3133.jpeg
 description: >-
   Rave and cry! DVS NME is an Electro and Post Punk enthusiast, living in
   Colorado. He runs a daily blog called &#8216;Dark Science Electro&#8217; which

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-233-physik
 author: 100
 banner:
-  - imported/loose-lips-mix-series-233-physik/image3171.jpeg
+  - imported\loose-lips-mix-series-233-physik\image3171.jpeg
 description: >-
   Straight into the depths of dark and hypnotic Techno! @danphysik TRACKLIST:
   Undisclosed. www.loose-lips.co.uk [...]Read More...

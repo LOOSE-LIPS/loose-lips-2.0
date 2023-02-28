@@ -7,7 +7,7 @@ slug: picks-caley-dewhursts-a-delicate-resonance-of-longing
 author: 24
 banner:
   - >-
-    imported/picks-caley-dewhursts-a-delicate-resonance-of-longing/image1306.jpeg
+    imported\picks-caley-dewhursts-a-delicate-resonance-of-longing\image1306.jpeg
 description: >-
   Picks returns, this time with a close friend of the sqwaaa Caley Dewhurst, a
   graphic designer and Threads radio DJ who has contributed to our
@@ -20,7 +20,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/picks-caley-dewhursts-a-delicate-resonance-of-longing/image1306.jpeg)**_Picks returns, this time with a close friend of the sqwaaa Caley Dewhurst, a graphic designer and Threads radio DJ w_****_ho has contributed to our recent_ [_Euphoric Apocalyptica_](http://loose-lips.co.uk/blog/euphoric-apocalyptica) _collaborative article, digging this time into his record collection for music that sits on the knife's edge between warmth and frost. Enjoy,_ _you can check out the tracks on_** [**_this here spotify playlist_**](https://open.spotify.com/playlist/7zDcbwAHjaYsHOTYe4LEfn?si=txTNRWJXQtmamjT6HQebQg)**_, and see previous episodes of Caley's Halcyon:Faze show_ [_here_](https://linktr.ee/caleydewhurst)_._** **_Take it away…_**
+![image](../imported\picks-caley-dewhursts-a-delicate-resonance-of-longing\image1306.jpeg)**_Picks returns, this time with a close friend of the sqwaaa Caley Dewhurst, a graphic designer and Threads radio DJ w_****_ho has contributed to our recent_ [_Euphoric Apocalyptica_](http://loose-lips.co.uk/blog/euphoric-apocalyptica) _collaborative article, digging this time into his record collection for music that sits on the knife's edge between warmth and frost. Enjoy,_ _you can check out the tracks on_** [**_this here spotify playlist_**](https://open.spotify.com/playlist/7zDcbwAHjaYsHOTYe4LEfn?si=txTNRWJXQtmamjT6HQebQg)**_, and see previous episodes of Caley's Halcyon:Faze show_ [_here_](https://linktr.ee/caleydewhurst)_._** **_Take it away…_**
 
 There’s something about the way synthesisers are able to break down human emotions to their rawest form and amplify them back to us; the process of translation from human through machine and back. I was trying to think of a theme for this week’s Picks and remembered a particularly evocative phrase from a [Haruki Murakami book](https://en.wikipedia.org/wiki/The_Wind-Up_Bird_Chronicle) I was reading over lockdown: a delicate resonance of longing… so here are ten cheery tracks about heartache, breakups and unrequited love.  
 

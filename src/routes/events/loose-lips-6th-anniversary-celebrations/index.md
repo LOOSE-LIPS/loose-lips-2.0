@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-6th-anniversary-celebrations
 author: 100
 banner:
-  - imported/loose-lips-6th-anniversary-celebrations/image2820.jpeg
+  - imported\loose-lips-6th-anniversary-celebrations\image2820.jpeg
 description: >-
   2228 days ago, 72 months ago, 6 years ago (approximately)&hellip;Loose Lips
   was born. Since then, an ever-evolving family unit have worked their bloody

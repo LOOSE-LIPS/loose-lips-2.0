@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-x-the-cause
 author: 100
 banner:
-  - imported/loose-lips-x-the-cause/image2817.jpeg
+  - imported\loose-lips-x-the-cause\image2817.jpeg
 description: >-
   UmfangRommekSamantha TogniLockhart&Oslash;TTARoslynBLAPJulez WylAlba
   HeidariJeff SpeshMedallion ManNeutral TerritorySoreab Loose Lips &amp; The

@@ -6,7 +6,7 @@ type: post
 slug: head-space-loose-lips-inaugural-deep-cuts-feature
 author: 100
 banner:
-  - imported/head-space-loose-lips-inaugural-deep-cuts-feature/image984.jpeg
+  - imported\head-space-loose-lips-inaugural-deep-cuts-feature\image984.jpeg
 description: >-
   Loose Lips have been organising parties, mixes, records, shows and articles
   for 5 years now, all based on a philosophy of openness. No genre policy, no
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/head-space-loose-lips-inaugural-deep-cuts-feature/image984.jpeg)**_Loose Lips have been organising parties, mixes, records, shows and articles for 5 years now, all based on a philosophy of openness. No genre policy, no covering music because we should, just honest expression. Our new monthly feature Deep Cuts brings this attitude to the page, exploring the diverse ways we listen, love and talk about music in 2019._**_**The first Deep Cuts theme (explored by each writer) is Head Space. The first Deep Cuts mix (combining music from each writers' contribution) comes from Deep Cuts mama Will Soer, along with a helpful spotify** [**playlist**](https://open.spotify.com/playlist/0waITYaBtleahAxr88N02O?si=KsLrE8x_TiaVE92PQbwLoQ)_**_. Enjoy!_**
+![image](../imported\head-space-loose-lips-inaugural-deep-cuts-feature\image984.jpeg)**_Loose Lips have been organising parties, mixes, records, shows and articles for 5 years now, all based on a philosophy of openness. No genre policy, no covering music because we should, just honest expression. Our new monthly feature Deep Cuts brings this attitude to the page, exploring the diverse ways we listen, love and talk about music in 2019._**_**The first Deep Cuts theme (explored by each writer) is Head Space. The first Deep Cuts mix (combining music from each writers' contribution) comes from Deep Cuts mama Will Soer, along with a helpful spotify** [**playlist**](https://open.spotify.com/playlist/0waITYaBtleahAxr88N02O?si=KsLrE8x_TiaVE92PQbwLoQ)_**_. Enjoy!_**
 
 **Haig Binnie**As the opening track to Hercules & Love Affair self-titled debut album, _Time Will_ \[00:33 in the mix\] was the track that introduced me and many others to the ever-changing group. On discovery of their music I was in a place that did not work for me, the feelings of un-belonging seemingly insurmountable. They provided me with a sound that was unrelated to anything around me, and although over time it became a part of my environment, it was never ‘of’ it. The creamy vocals and surreal synths eluding to something so nearly within ones grasp, yet hopelessly out of reach, each note climbing atop the previous ones taking you higher than you thought possible, before returning you once again to solid ground._Haig Binnie is a support worker who makes jewellery, embroidery and music in his spare time._
 

@@ -6,7 +6,7 @@ type: post
 slug: tzusan-babau
 author: 61
 banner:
-  - imported/tzusan-babau/image993.jpeg
+  - imported\tzusan-babau\image993.jpeg
 description: >-
   In recent years, there&rsquo;s no doubt that the popularity of word-based art
   has skyrocketed, and as a result the quality, quantity and variety of
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/tzusan-babau/image993.jpeg)In recent years, there’s no doubt that the popularity of word-based art has skyrocketed, and as a result the quality, quantity and variety of associative works has all correlated positively. Some may refer to it as a saturation, others as a godsend. However the work of artists like Tzusan is so bespoke and fresh, that it is impossible to pigeonhole. Bombarding listeners with diverse and untapped elements, his work is dauntingly dark yet unnervingly welcoming at the same time. It’s not all too often in 2019 that rappers or vocal artists also produce their own beats, so Tzusan takes that fact and spits in its puerile face. 
+![image](../imported\tzusan-babau\image993.jpeg)In recent years, there’s no doubt that the popularity of word-based art has skyrocketed, and as a result the quality, quantity and variety of associative works has all correlated positively. Some may refer to it as a saturation, others as a godsend. However the work of artists like Tzusan is so bespoke and fresh, that it is impossible to pigeonhole. Bombarding listeners with diverse and untapped elements, his work is dauntingly dark yet unnervingly welcoming at the same time. It’s not all too often in 2019 that rappers or vocal artists also produce their own beats, so Tzusan takes that fact and spits in its puerile face. 
 
 His productions are original, gritty and complex; borne in a dilapidated lab wreathed in gloom and enmity. Out of the smoky chamber lit only by a decadent monitor, Babau has arrived. Categorised by its birthplace, the record reflects its bleak surroundings whilst also being invigorating and energetic. Tzusan consistently reaps the benefit of workman-like sampling, drawing sounds from all manner of milieu. A sci-fi/horror influence is extremely apparent, as the Scot pours fragmented inspiration from film and art-house pieces into his productions with an innate air of maturity. The record features not only Tzusan’s raspy flow and dystopian production, but also contains verses from his SKOOP family crew as well Glaswegian artist Kid Robotik and Brighton based posse CMPND. Let’s dig a little deeper and analyse some of the tracks that make this multifarious bit of madness so original.
 

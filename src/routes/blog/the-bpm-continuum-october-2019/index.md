@@ -6,7 +6,7 @@ type: post
 slug: the-bpm-continuum-october-2019
 author: 17
 banner:
-  - imported/the-bpm-continuum-october-2019/image919.jpeg
+  - imported\the-bpm-continuum-october-2019\image919.jpeg
 description: >-
   This new feature continues from a series of articles I published from October
   2018 to April 2019 &ndash; The 140 Roundup. Back then I was exploring
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/the-bpm-continuum-october-2019/image919.jpeg)This new feature continues from a series of articles I published from October 2018 to April 2019 – The 140 Roundup. Back then I was exploring producers who were working fluidly in between styles of 140BPM bass music, such as grime and dubstep. The problem with this approach was that many of these artists aren’t only producing at 140BPM but many different styles & pitches. 
+![image](../imported\the-bpm-continuum-october-2019\image919.jpeg)This new feature continues from a series of articles I published from October 2018 to April 2019 – The 140 Roundup. Back then I was exploring producers who were working fluidly in between styles of 140BPM bass music, such as grime and dubstep. The problem with this approach was that many of these artists aren’t only producing at 140BPM but many different styles & pitches. 
 
 The name of this new feature nods to the infamous concept of the hardcore continuum. Introduced by **Simon Reynolds**, the idea of a hardcore continuum analyses the  of British bass music since the hardcore rave era in the early 90s as a series of styles that grew out of each other – jungle appeared out of hardcore, then d&b out of hardcore, then grime and dubstep out of garage, etc. As this series focuses on newer artists and releases, I’ll consider things in a static rather than a dynamic way. The main idea here is that genres used to be more clearly defined by tempo – dubstep and grime, 140, jungle and footwork, 160, d&b, 170, and so on –, as it was necessary for DJs to identify with one sound, thus finding their spot in the overall scene. Of course, this never avoided artists to try and move one style to another tempo (think circa ‘13 **Keysound**’s “130” scene, which displayed grime dynamics at 130BPM), or the cross-pollination of ideas from one BPM to another. But it seems that so far, this also led to actual new scenes appearing (dubstep techno, halftime d&b and more). A number of factors – the rise of a global bass music scene, with connections between artists constructing in the digital realm rather than through DJ Sets, or the current trend revolving around breaks at all tempos, for instance – mean things seem to be changing.
 

@@ -6,7 +6,7 @@ type: event
 slug: shadow-zone-011-loose-lips-uk-takeover
 author: 100
 banner:
-  - imported/shadow-zone-011-loose-lips-uk-takeover/image2792.jpeg
+  - imported\shadow-zone-011-loose-lips-uk-takeover\image2792.jpeg
 description: >-
   As any aficionado well knows, the Shadow Zone exists because waves are
   refracted as they pass through the boundary between the mantle of the Tsunami

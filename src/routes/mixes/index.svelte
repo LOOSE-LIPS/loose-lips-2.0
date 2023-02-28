@@ -28,16 +28,6 @@
     keywords: ["mixes"],
     searchUrl: "/mixes",
   };
-<<<<<<< HEAD
-
-  const tags = [];
-  mixData.map((mix) => {
-    tags.push(mix.genre);
-  });
-  let currTag;
-  let filteredTagMixes = [];
-=======
->>>>>>> 7d4e1fa190ffbccb38b5a7b54408c01878d90e87
 
   const tags = mixData
     .map((x) => x.tags)
@@ -99,7 +89,6 @@
 
     <!-- <TagsContainer {tags} {visible}/> -->
 
-    ---------------------------------
 
     <div class="flex flex-row flex-wrap w-full mt-4 items-center">
       {#each tags as tag, index (tag)}

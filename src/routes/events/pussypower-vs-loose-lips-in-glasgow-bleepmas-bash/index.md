@@ -6,7 +6,7 @@ type: event
 slug: pussypower-vs-loose-lips-in-glasgow-bleepmas-bash
 author: 100
 banner:
-  - imported/pussypower-vs-loose-lips-in-glasgow-bleepmas-bash/image2772.jpeg
+  - imported\pussypower-vs-loose-lips-in-glasgow-bleepmas-bash\image2772.jpeg
 description: >-
   It&#39;s Bleepmas! Well nearly&#8230; Join the Pussypower Crew as they team up
   with UK-spread crew, Loose Lips, to bring you another corker of a party with

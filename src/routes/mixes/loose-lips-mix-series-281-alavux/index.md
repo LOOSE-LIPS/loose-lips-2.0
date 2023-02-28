@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-281-alavux
 author: 100
 banner:
-  - imported/loose-lips-mix-series-281-alavux/image3219.jpeg
+  - imported\loose-lips-mix-series-281-alavux\image3219.jpeg
 description: >-
   Up next in this weekly series of sensations, we have a great friend and
   producer of sublime Electro &#038; Techno! Look forward to a balanced dosage

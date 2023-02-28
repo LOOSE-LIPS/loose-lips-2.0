@@ -6,7 +6,7 @@ type: post
 slug: musicians-to-look-out-for-in-2021
 author: 100
 banner:
-  - imported/musicians-to-look-out-for-in-2021/image1365.jpeg
+  - imported\musicians-to-look-out-for-in-2021\image1365.jpeg
 description: >-
   As we end a truly odd and challenging year, we&#39;ve asked some of our crew
   and extended family to look forward, onwards and upwards &#8211; sharing some
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/musicians-to-look-out-for-in-2021/image1365.jpeg)_As we end a truly odd and challenging year, we've asked some of our crew and extended family to look forward, onwards and upwards – sharing some musical excitement!_
+![image](../imported\musicians-to-look-out-for-in-2021\image1365.jpeg)_As we end a truly odd and challenging year, we've asked some of our crew and extended family to look forward, onwards and upwards – sharing some musical excitement!_
 
 **Jack Beattie:** _**pq**__![](/wp-content/uploads/live/img/wysiwyg/5fe4a67123c4d.jpg)_Nilihoxica's synth-extrodinaire pq is a talented producer in his own right. Equally at home creating intricate club-ready hits as he is expansive drones and ambient journies, pq's catalogue is already an extensive and exciting listen. His grime productions for Uganda's Ecko Bazz have been played by the likes of DJ Stingray and Lauren Laverne, while lesser know productions under his own moniker have garnered support from such underground heavyweights as AYA and Disfig. With a wicked remix of Swordsman Kitala out recently on Blip Discs, there's no better time to get stuck into the music of pq.**Will Soer:** _**Celiiine**_![](/wp-content/uploads/live/img/wysiwyg/5fe8e2f78742e.jpg)This is the new alias of DJ extraordinaire Jossy Mitsu. Like her 6 Figure Gang co-member Fauzia, Jossy has taken her time to work out a distinct, personally expressive sound before putting out any productions, resulting in an introductory ep of ‘rain music’ named [_Wet Play_](https://celiiine.bandcamp.com/album/wet-play?from=search&search_item_id=215951672&search_item_type=a&search_match_part=%3F&search_page_id=1513177522&search_page_no=1&search_rank=2&search_sig=5416b3b26c3c127fb16b119f16b25085). It’s the sound of an incoming storm.**Joel Baker:** _**Namasenda**_![](/wp-content/uploads/live/img/wysiwyg/5fedb8c5af6be.png)Sweden’s next generation eurobeat specialist. I was put on to her earlier this year when we were still aloud to properly party. It’s safe to say that at Bangface her tracks (some of which actually date back a few years) were on repeat whenever we were back at the chalet, but since lockdown occurred I’ve continued having those same tracks on repeat. She’s had a few releases signed to PC music and this year (on her second release with them) collaborated with A.G. Cooke! I’m very excited to see how she’ll further her style in 2021. She’s so good at what she does that I bought the t-shirt tbqfh!
 

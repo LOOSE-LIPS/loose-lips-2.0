@@ -9,7 +9,7 @@ slug: scanone-one-meat-beat-manifesto-high-plains-grifter-version-ym016
 author: 100
 banner:
   - >-
-    imported/scanone-one-meat-beat-manifesto-high-plains-grifter-version-ym016/image940.jpeg
+    imported\scanone-one-meat-beat-manifesto-high-plains-grifter-version-ym016\image940.jpeg
 description: >-
   This version of the original track, drifting on a darker, atmospheric yet
   still in-ya-face vibe, is a twisted adventurein a urban landscape set
@@ -22,6 +22,6 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/scanone-one-meat-beat-manifesto-high-plains-grifter-version-ym016/image940.jpeg)This version of the original track, drifting on a darker, atmospheric yet still in-ya-face vibe, is a twisted adventure  
+![image](../imported\scanone-one-meat-beat-manifesto-high-plains-grifter-version-ym016\image940.jpeg)This version of the original track, drifting on a darker, atmospheric yet still in-ya-face vibe, is a twisted adventure  
 in a urban landscape set somewhere in the middle of a twilight zone!From [ScanOne](https://scanone.bandcamp.com/) meets [Meat Beat Manifesto](http://meatbeatmanifesto.com/) – _ONE_ EP on [Yellow Machines](https://yellow-machines.bandcamp.com/).On sale from 14.10 at [https://yellow-machines.bandcamp.com](https://yellow-machines.bandcamp.com/)  
 Available on 12" with 4 tracks and on digital with 2 bonus ones![https://soundcloud.com/yellow-machines](https://soundcloud.com/yellow-machines)[https://soundcloud.com/scanone](https://soundcloud.com/scanone)[https://soundcloud.com/meat-beat-manifesto](https://soundcloud.com/meat-beat-manifesto)

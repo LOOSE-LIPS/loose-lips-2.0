@@ -7,7 +7,7 @@ slug: kurisutaru-forgot-my-email-password-again-unsustainable
 author: 100
 banner:
   - >-
-    imported/kurisutaru-forgot-my-email-password-again-unsustainable/image1276.jpeg
+    imported\kurisutaru-forgot-my-email-password-again-unsustainable\image1276.jpeg
 description: >-
   Young Prague-based producer Kurisutaru gets the machines sweating on this
   squelchy electro bleep tune! From Kurisutaru&#39;s Face Check&nbsp;EP in
@@ -19,4 +19,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/kurisutaru-forgot-my-email-password-again-unsustainable/image1276.jpeg)Young Prague-based producer Kurisutaru gets the machines sweating on this squelchy electro bleep tune!From [Kurisutaru](https://kurisutaru.bandcamp.com/)'s _Face Check_ EP in [Unsustainable](https://unsustainable.bandcamp.com).Out 28.09.2020 on digital – [https://unsustainable.bandcamp.com](https://unsustainable.bandcamp.com/)[https://soundcloud.com/kkurisutaruu](https://soundcloud.com/kkurisutaruu)
+![image](../imported\kurisutaru-forgot-my-email-password-again-unsustainable\image1276.jpeg)Young Prague-based producer Kurisutaru gets the machines sweating on this squelchy electro bleep tune!From [Kurisutaru](https://kurisutaru.bandcamp.com/)'s _Face Check_ EP in [Unsustainable](https://unsustainable.bandcamp.com).Out 28.09.2020 on digital – [https://unsustainable.bandcamp.com](https://unsustainable.bandcamp.com/)[https://soundcloud.com/kkurisutaruu](https://soundcloud.com/kkurisutaruu)

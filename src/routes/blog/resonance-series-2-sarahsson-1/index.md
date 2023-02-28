@@ -6,7 +6,7 @@ type: post
 slug: resonance-series-2-sarahsson-1
 author: 76
 banner:
-  - imported/resonance-series-2-sarahsson-1/image1092.jpeg
+  - imported\resonance-series-2-sarahsson-1\image1092.jpeg
 description: >-
   Welcome to the next installment of the &#39;Resonance Series&#39; &#8211; a
   new feature, curated by Jasper Golding, about the interplay between art forms.
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/resonance-series-2-sarahsson-1/image1092.jpeg)_Welcome to the next installment of the 'Resonance Series' – a new feature, curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.__Music massively influences visual art, and vice versa. This feature, running every other Tuesday, introduces you to musical individuals through the other art forms they engage in, telling a personal story of their creative output and how different mediums influence each other._
+![image](../imported\resonance-series-2-sarahsson-1\image1092.jpeg)_Welcome to the next installment of the 'Resonance Series' – a new feature, curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.__Music massively influences visual art, and vice versa. This feature, running every other Tuesday, introduces you to musical individuals through the other art forms they engage in, telling a personal story of their creative output and how different mediums influence each other._
 
 _For this edition we introduce you to the powerful force of self expression: Felix Dobson, Aka [](https://soundcloud.com/sarahsson)_ [_Sarahsson_](https://soundcloud.com/sarahsson)Felix has always been a force of nature; at one with their performative self. I remember when they invited a few friends and I to a day party at their house when college was called off early. They treated us to a tongue-in-cheek, operatic performance on their grand piano, blasting ditties accompanied with their choral range into the garden. All we could do was lay on the trampoline and soak it in. Hearing this performance brought everyone in the vicinity together. It seems only fitting that they’re now stunning audiences around the world with their undeniable talent for expression. 
 

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-246-22dolphins
 author: 100
 banner:
-  - imported/loose-lips-mix-series-246-22dolphins/image3184.jpeg
+  - imported\loose-lips-mix-series-246-22dolphins\image3184.jpeg
 description: >-
   ? https://skoop.bandcamp.com/album/vol-3 ! Tracklist: -undisclosed-
   www.loose-lips.co.uk [...]Read More...

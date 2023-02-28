@@ -6,7 +6,7 @@ type: post
 slug: jakebob-sheets-ft-mojoe-prod-by-mojoe
 author: 100
 banner:
-  - imported/jakebob-sheets-ft-mojoe-prod-by-mojoe/image1271.jpeg
+  - imported\jakebob-sheets-ft-mojoe-prod-by-mojoe\image1271.jpeg
 description: >-
   A collaboration between Jakebob and MoJoe that works perfectly; alternating
   between witty rap verses and sang choruses, with an autotune glueing the
@@ -20,5 +20,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/jakebob-sheets-ft-mojoe-prod-by-mojoe/image1271.jpeg)A collaboration between Jakebob and MoJoe that works perfectly; alternating between witty rap verses and sang choruses, with an autotune glueing the vocals onto that smooth, hazey instrumental (courtesy of MoJoe)!From [Jakebob](https://soundcloud.com/hr6jakebob)'s _Smokers_ LP on [Chameleon Audio](http://ttps://chameleonaudio.bandcamp.com).Out 9.10 on digital – [https://chameleonaudio.bandcamp.com](https://chameleonaudio.bandcamp.com/)[https://soundcloud.com/chameleonaudio](https://soundcloud.com/chameleonaudio)  
+![image](../imported\jakebob-sheets-ft-mojoe-prod-by-mojoe\image1271.jpeg)A collaboration between Jakebob and MoJoe that works perfectly; alternating between witty rap verses and sang choruses, with an autotune glueing the vocals onto that smooth, hazey instrumental (courtesy of MoJoe)!From [Jakebob](https://soundcloud.com/hr6jakebob)'s _Smokers_ LP on [Chameleon Audio](http://ttps://chameleonaudio.bandcamp.com).Out 9.10 on digital – [https://chameleonaudio.bandcamp.com](https://chameleonaudio.bandcamp.com/)[https://soundcloud.com/chameleonaudio](https://soundcloud.com/chameleonaudio)  
 [https://soundcloud.com/hr6jakebob](https://soundcloud.com/hr6jakebob)

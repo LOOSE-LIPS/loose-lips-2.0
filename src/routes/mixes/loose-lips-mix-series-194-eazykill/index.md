@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-194-eazykill
 author: 100
 banner:
-  - imported/loose-lips-mix-series-194-eazykill/image3132.jpeg
+  - imported\loose-lips-mix-series-194-eazykill\image3132.jpeg
 description: >-
   WOW WOW WOW WOW! Ezekiel B. Weiner, AKA Eazykill, is a special electronic
   musician, born in 1992. Hailing from Culver City, in Los Angeles California,

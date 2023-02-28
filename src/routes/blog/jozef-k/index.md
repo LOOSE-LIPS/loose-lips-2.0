@@ -6,7 +6,7 @@ type: post
 slug: jozef-k
 author: 7
 banner:
-  - imported/jozef-k/image1122.jpeg
+  - imported\jozef-k\image1122.jpeg
 description: >-
   Hi Joseph, hope you&#39;re well. How are you doing? Not bad considering, just
   working on a track ATM. Hoping the world can begin to take some steps back
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/jozef-k/image1122.jpeg)**Hi Joseph, hope you're well. How are you doing?**
+![image](../imported\jozef-k\image1122.jpeg)**Hi Joseph, hope you're well. How are you doing?**
 
 Not bad considering, just working on a track ATM. Hoping the world can begin to take some steps back towards to normality soon, thoughts going out to all front line staff around the world, you are all fucking heroes. My brother is frontline NHS so the fight is very close to home.
 

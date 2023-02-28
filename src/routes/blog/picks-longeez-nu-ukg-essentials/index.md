@@ -6,7 +6,7 @@ type: post
 slug: picks-longeez-nu-ukg-essentials
 author: 100
 banner:
-  - imported/picks-longeez-nu-ukg-essentials/image1219.jpeg
+  - imported\picks-longeez-nu-ukg-essentials\image1219.jpeg
 description: >-
   Why do people make music that isn&rsquo;t UKG? The perfect musical genre
   exists and yet musicians keep on making Folk, Tech-House, Opera, it&rsquo;s
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/picks-longeez-nu-ukg-essentials/image1219.jpeg)**_Why do people make music that isn’t UKG? The perfect musical genre exists and yet musicians keep on making Folk, Tech-House, Opera, it’s like they just don’t know, which would make no sense for anyone with functioning ears and feet. Well praise the lord, we have the Bristol UKG fiend and 1020 Radio studio hand [Longeez](https://www.instagram.com/longeez_/) here to present some of the Nuuukg bangers that he plays out on his 1020 [Radio show](https://www.mixcloud.com/1020Radio/capri-swung-w-longeez-2nd-july-2020/), (check out his debut release below). No customary Spotify playlist this week because the cuts are too damn rare, step up selecta!_** 
+![image](../imported\picks-longeez-nu-ukg-essentials\image1219.jpeg)**_Why do people make music that isn’t UKG? The perfect musical genre exists and yet musicians keep on making Folk, Tech-House, Opera, it’s like they just don’t know, which would make no sense for anyone with functioning ears and feet. Well praise the lord, we have the Bristol UKG fiend and 1020 Radio studio hand [Longeez](https://www.instagram.com/longeez_/) here to present some of the Nuuukg bangers that he plays out on his 1020 [Radio show](https://www.mixcloud.com/1020Radio/capri-swung-w-longeez-2nd-july-2020/), (check out his debut release below). No customary Spotify playlist this week because the cuts are too damn rare, step up selecta!_** 
 
 Off the back of 2 already blinding releases, Equal People Records continue to push a forward-thinking garage sound, with cuts from J Desser, Masterplan and Highrise to sink into. “Deeper Knowledge” by the donny Masterplan is a lovely bumpy number, with super tight, skippy drums, laced together with punchy stabs and equally as punchy sub. A seriously groovy number that is guaranteed to put a smile on your face.
 

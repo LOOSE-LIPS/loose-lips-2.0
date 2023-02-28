@@ -6,7 +6,7 @@ type: post
 slug: paul-blackford-perspectives
 author: 110
 banner:
-  - imported/paul-blackford-perspectives/image1069.jpeg
+  - imported\paul-blackford-perspectives\image1069.jpeg
 description: >-
   &amp;amp;lt;a
   href=&#8221;http://paulblackford.bandcamp.com/album/perspectives&#8221;&amp;amp;gt;Perspectives
@@ -21,7 +21,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/paul-blackford-perspectives/image1069.jpeg)Paul Blackford is back (with a tape that came out in September 2019) – but the release date doesn’t matter. What is important is the music, and Paul Blackford’s music has a timeless quality! 
+![image](../imported\paul-blackford-perspectives\image1069.jpeg)Paul Blackford is back (with a tape that came out in September 2019) – but the release date doesn’t matter. What is important is the music, and Paul Blackford’s music has a timeless quality! 
 
 In this tape, entitled ‘_Perspectives_’, Blackford comes back to his downtempo roots. This tape, which marks his first release in a while, bears a resemblance to his 2007 release on CPU – ‘Light Years’ which is full of short cuts, beats, and dreamy electro excursions. 
 

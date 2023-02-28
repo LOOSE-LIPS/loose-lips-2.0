@@ -6,7 +6,7 @@ type: post
 slug: impact-drivers-serotonin-1
 author: 100
 banner:
-  - imported/impact-drivers-serotonin-1/image1369.jpeg
+  - imported\impact-drivers-serotonin-1\image1369.jpeg
 description: >-
   Serotonin. What a playlist theme ay? You might imagine a serotonin playlist
   simply gathering good music, or any music that sounds good when you&#39;re
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/impact-drivers-serotonin-1/image1369.jpeg)**_Serotonin. What a playlist theme ay? You might imagine a serotonin playlist simply gathering good music, or any music that sounds good when you're munching chunks of cheek and seeing God in the process. This article implies something more specific, music that either evokes or hijacks those jagged, exciteable and unhinged rushes of euphoria that raise the night's significance, slingshotting you towards God, for realsies. Shout out to Impact Driver on this one, as per all spotifyable tracks are gathered [here](https://open.spotify.com/playlist/1nh2akV7op8Wzrt9rhcmLI), take it away…_** 
+![image](../imported\impact-drivers-serotonin-1\image1369.jpeg)**_Serotonin. What a playlist theme ay? You might imagine a serotonin playlist simply gathering good music, or any music that sounds good when you're munching chunks of cheek and seeing God in the process. This article implies something more specific, music that either evokes or hijacks those jagged, exciteable and unhinged rushes of euphoria that raise the night's significance, slingshotting you towards God, for realsies. Shout out to Impact Driver on this one, as per all spotifyable tracks are gathered [here](https://open.spotify.com/playlist/1nh2akV7op8Wzrt9rhcmLI), take it away…_** 
 
 Melancholic vocals over some nice lush sound design with a cold vibe running throughout it. I was obsessed with this track when it came out a little while ago. Great track to listen to when you thought you had life all sussed out but then you realise you didn't have a clue as some unpredictable situation messes up all your plans. Beautifully shot video as well so full screen it and close all the social media tabs and zone out for a bit !
 

@@ -6,7 +6,7 @@ type: post
 slug: syz
 author: 69
 banner:
-  - imported/syz/image1142.jpeg
+  - imported\syz\image1142.jpeg
 description: >-
   &ldquo;It&rsquo;s All DIY, You Know?&rdquo; LL Speaks To Syz As co-founder of
   multimedia collective&nbsp;Method Lab, Oli Samways has been throwing dances in
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/syz/image1142.jpeg)### **_“It’s All DIY, You Know?”_ LL Speaks To Syz**
+![image](../imported\syz\image1142.jpeg)### **_“It’s All DIY, You Know?”_ LL Speaks To Syz**
 
 ![](/wp-content/uploads/live/img/wysiwyg/5ed16102b411b.jpeg)
 

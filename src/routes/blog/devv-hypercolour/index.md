@@ -6,7 +6,7 @@ type: post
 slug: devv-hypercolour
 author: 138
 banner:
-  - imported/devv-hypercolour/image1310.jpeg
+  - imported\devv-hypercolour\image1310.jpeg
 description: >-
   Today marks the release of the outstanding debut album by Toronto-based DJ and
   producer &#8211; Devv &#8211; titled Hypercolour.&nbsp; A resident of
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/devv-hypercolour/image1310.jpeg)[](https://soundcloud.com/devvmusic "Devv")
+![image](../imported\devv-hypercolour\image1310.jpeg)[](https://soundcloud.com/devvmusic "Devv")
 
 Today marks the release of the outstanding debut album by Toronto-based DJ and producer – [Devv](https://www.facebook.com/devvmusic) – titled _Hypercolour_. A resident of Toronto’s [All Blak Records](https://www.facebook.com/allblakrecords) – Devv and I became friends after we booked him to play the first ever [microminimal](https://www.facebook.com/microminimal/) party in Toronto, we have kept in touch ever since. Devv cut his teeth as a DJ and producer on the Toronto scene – and with performances abroad as well as releases on Blind Vision, Kina Music, Monocord and House on Wax – he is developing a sterling reputation as an artist on an international level. 
 

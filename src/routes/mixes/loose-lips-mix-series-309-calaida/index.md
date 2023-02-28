@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-309-calaida
 author: 100
 banner:
-  - imported/loose-lips-mix-series-309-calaida/image3246.jpeg
+  - imported\loose-lips-mix-series-309-calaida\image3246.jpeg
 description: >-
   In between regular shows with her ‘And What? LDN’ crew on both @threadsradio
   and @thefaceradiobk, Sisu affiliate Calaida brings you an hour of soulful

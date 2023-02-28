@@ -6,7 +6,7 @@ type: post
 slug: calum-gunn-wall-of-full-stacks-ooh-022
 author: 100
 banner:
-  - imported/calum-gunn-wall-of-full-stacks-ooh-022/image1308.jpeg
+  - imported\calum-gunn-wall-of-full-stacks-ooh-022\image1308.jpeg
 description: >-
   Imagine getting sucked inside a CRT monitor with a Megadrive hooked-up but,
   instead of a video game, a vivid flow of consciousness streams inside it. Well
@@ -20,5 +20,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/calum-gunn-wall-of-full-stacks-ooh-022/image1308.jpeg)Imagine getting sucked inside a CRT monitor with a Megadrive hooked-up but, instead of a video game, a vivid flow of consciousness streams inside it. Well then, you're almost there.From Calum Gunn's _Paradox of Choice_ EP on [OOH-sounds](https://ooh-sounds.bandcamp.com/music).Out 06.11.2020 on cassette and digital – Pre-order: [](https://ooh-sounds.bandcamp.com/album/calum-gunn-paradox-of-choice)[https://ooh-sounds.bandcamp.com/album/calum-gunn-paradox-of-choice](https://ooh-sounds.bandcamp.com/album/calum-gunn-paradox-of-choice)[https://soundcloud.com/ooh-sounds](https://soundcloud.com/ooh-sounds)  
+![image](../imported\calum-gunn-wall-of-full-stacks-ooh-022\image1308.jpeg)Imagine getting sucked inside a CRT monitor with a Megadrive hooked-up but, instead of a video game, a vivid flow of consciousness streams inside it. Well then, you're almost there.From Calum Gunn's _Paradox of Choice_ EP on [OOH-sounds](https://ooh-sounds.bandcamp.com/music).Out 06.11.2020 on cassette and digital – Pre-order: [](https://ooh-sounds.bandcamp.com/album/calum-gunn-paradox-of-choice)[https://ooh-sounds.bandcamp.com/album/calum-gunn-paradox-of-choice](https://ooh-sounds.bandcamp.com/album/calum-gunn-paradox-of-choice)[https://soundcloud.com/ooh-sounds](https://soundcloud.com/ooh-sounds)  
 [https://soundcloud.com/calumgunn](https://soundcloud.com/calumgunn)

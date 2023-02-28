@@ -6,7 +6,7 @@ type: post
 slug: kortzers-sunday-jams-billy-boyo-one-spliff-a-day
 author: 96
 banner:
-  - imported/kortzers-sunday-jams-billy-boyo-one-spliff-a-day/image807.jpeg
+  - imported\kortzers-sunday-jams-billy-boyo-one-spliff-a-day\image807.jpeg
 description: >-
   This weekend falls upon the date of the infamous 420 celebrations &amp; if
   you&#39;re in Manchester well be celebrating today because well, we do things
@@ -18,4 +18,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/kortzers-sunday-jams-billy-boyo-one-spliff-a-day/image807.jpeg)This weekend falls upon the date of the infamous 420 celebrations & if you're in Manchester well be celebrating today because well, we do things differently here. I've chosen Billy Boyo's "One Spliff a Day". The track is easily his most famous and he's arguably one of the most well known child mcs to date. Little much was heard of him after the 80s & sadly Billy died in 2000. How ever your spending your bank holiday I hope you have a great time.
+![image](../imported\kortzers-sunday-jams-billy-boyo-one-spliff-a-day\image807.jpeg)This weekend falls upon the date of the infamous 420 celebrations & if you're in Manchester well be celebrating today because well, we do things differently here. I've chosen Billy Boyo's "One Spliff a Day". The track is easily his most famous and he's arguably one of the most well known child mcs to date. Little much was heard of him after the 80s & sadly Billy died in 2000. How ever your spending your bank holiday I hope you have a great time.

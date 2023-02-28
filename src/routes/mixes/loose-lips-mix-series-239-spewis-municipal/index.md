@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-239-spewis-municipal
 author: 100
 banner:
-  - imported/loose-lips-mix-series-239-spewis-municipal/image3180.jpeg
+  - imported\loose-lips-mix-series-239-spewis-municipal\image3180.jpeg
 description: >-
   Interesting sound design within the infinite realm of that thing we call
   &#8216;techno&#8217;, from a man well respected for his unique warm-up sets at

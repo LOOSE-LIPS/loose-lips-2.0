@@ -6,7 +6,7 @@ type: post
 slug: yan-cook-counterclockwise-ep
 author: 108
 banner:
-  - imported/yan-cook-counterclockwise-ep/image1059.jpeg
+  - imported\yan-cook-counterclockwise-ep\image1059.jpeg
 description: >-
   Seldom do I listen to a new EP where all four tracks genuinely tickle my taste
   buds. Yan Cook&rsquo;s latest release is one of these rare finds.&nbsp; The DJ
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/yan-cook-counterclockwise-ep/image1059.jpeg)Seldom do I listen to a new EP where all four tracks genuinely tickle my taste buds. Yan Cook’s latest release is one of these rare finds. 
+![image](../imported\yan-cook-counterclockwise-ep\image1059.jpeg)Seldom do I listen to a new EP where all four tracks genuinely tickle my taste buds. Yan Cook’s latest release is one of these rare finds. 
 
 The DJ and producer from Kiev, Ukraine, made _Counterclockwise_ the sixth release on his own label, _Cooked_. Here, each track has its own value, decidedly different from the other yet within a signature style of repetitive melodic patterns and thumping kick drums. For someone with such a particular sound, it’s credit to him that his EP’s keep moving forward whilst maintaining a strong dance-floor energy. This EP certainly has dancing in mind – at the end of the day, that’s the most important aspect of a release, right?
 

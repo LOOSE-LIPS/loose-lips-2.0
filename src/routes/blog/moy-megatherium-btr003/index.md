@@ -6,7 +6,7 @@ type: post
 slug: moy-megatherium-btr003
 author: 100
 banner:
-  - imported/moy-megatherium-btr003/image1018.jpeg
+  - imported\moy-megatherium-btr003\image1018.jpeg
 description: >-
   An emotive epic of rolling breaks and trippy melodic bleeps! From Moy&#39;s
   Error 502 EP on Batrachian Records. Out 14.02.2020 on 12&quot; &#8211;
@@ -18,4 +18,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/moy-megatherium-btr003/image1018.jpeg)An emotive epic of rolling breaks and trippy melodic bleeps!From Moy's _Error 502_ EP on [Batrachian Records](https://www.discogs.com/label/1537551-Batrachian).Out 14.02.2020 on 12" – Pre-order: [](https://www.phonicarecords.com/product/moy-error-502-pre-order-batrachian/165257)[https://www.phonicarecords.com/product/moy-error-502-pre-order-batrachian/165257](https://www.phonicarecords.com/product/moy-error-502-pre-order-batrachian/165257)[](https://soundcloud.com/batrachian23)[https://soundcloud.com/batrachian23](https://soundcloud.com/batrachian23)
+![image](../imported\moy-megatherium-btr003\image1018.jpeg)An emotive epic of rolling breaks and trippy melodic bleeps!From Moy's _Error 502_ EP on [Batrachian Records](https://www.discogs.com/label/1537551-Batrachian).Out 14.02.2020 on 12" – Pre-order: [](https://www.phonicarecords.com/product/moy-error-502-pre-order-batrachian/165257)[https://www.phonicarecords.com/product/moy-error-502-pre-order-batrachian/165257](https://www.phonicarecords.com/product/moy-error-502-pre-order-batrachian/165257)[](https://soundcloud.com/batrachian23)[https://soundcloud.com/batrachian23](https://soundcloud.com/batrachian23)

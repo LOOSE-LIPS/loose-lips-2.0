@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-bristol-day-party-at-blue-mountain
 author: 100
 banner:
-  - imported/loose-lips-bristol-day-party-at-blue-mountain/image2802.jpeg
+  - imported\loose-lips-bristol-day-party-at-blue-mountain\image2802.jpeg
 description: >-
   Loose Lips is back after a wee Bristolian hiatus for a magical all-day outing.
   &#8212;- http://loose-lips.co.uk 14:00 &#8211; 21:00&nbsp; &pound;5 pre-sale /

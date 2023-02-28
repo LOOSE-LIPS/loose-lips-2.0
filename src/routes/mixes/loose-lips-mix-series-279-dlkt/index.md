@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-279-dlkt
 author: 100
 banner:
-  - imported/loose-lips-mix-series-279-dlkt/image3217.jpeg
+  - imported\loose-lips-mix-series-279-dlkt\image3217.jpeg
 description: >-
   Our 279th mix is full of positive energy and rave dynamics &#8211; ranging
   from house and lo-fi through to all kinds of other rave-o-licious goodies. We

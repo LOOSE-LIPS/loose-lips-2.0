@@ -6,7 +6,7 @@ type: event
 slug: sr-x-loose-lips-charlie-boy-manson
 author: 100
 banner:
-  - imported/sr-x-loose-lips-charlie-boy-manson/image2775.jpeg
+  - imported\sr-x-loose-lips-charlie-boy-manson\image2775.jpeg
 description: >-
   Strongroom and&nbsp;Loose Lips&nbsp;present to you a free night of
   cutting-edge underground hip hop from: Charlie Boy Manson w/ Caskevet

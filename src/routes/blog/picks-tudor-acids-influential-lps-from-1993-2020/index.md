@@ -6,7 +6,7 @@ type: post
 slug: picks-tudor-acids-influential-lps-from-1993-2020
 author: 100
 banner:
-  - imported/picks-tudor-acids-influential-lps-from-1993-2020/image1262.jpeg
+  - imported\picks-tudor-acids-influential-lps-from-1993-2020\image1262.jpeg
 description: >-
   Tudor Acid is in the HOUSE motherfuckers. This is one seriously wiggy boi over
   here, he&#39;s been wigging people out with his naughty fucking synths for
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/picks-tudor-acids-influential-lps-from-1993-2020/image1262.jpeg)_**Tudor Acid is in the HOUSE motherfuckers. This is one seriously wiggy boi over here, he's been wigging people out with his naughty fucking synths for many years, the most recent of which have seen him bringing his live acid/electro experiments to Threads radio, lugging his Roland boxes to collaborative gigs around London, and just generally being a very naughty boy, all culminating in a lovely album released earlier this year for all you dirty dirty freaks. Take it away…**_
+![image](../imported\picks-tudor-acids-influential-lps-from-1993-2020\image1262.jpeg)_**Tudor Acid is in the HOUSE motherfuckers. This is one seriously wiggy boi over here, he's been wigging people out with his naughty fucking synths for many years, the most recent of which have seen him bringing his live acid/electro experiments to Threads radio, lugging his Roland boxes to collaborative gigs around London, and just generally being a very naughty boy, all culminating in a lovely album released earlier this year for all you dirty dirty freaks. Take it away…**_
 
 **New Order – Republic (1993)**On the face of it, a high-budget album with lots of studio gloss  that ended up portraying the end of factory records and the hacienda.  I was possibly 5 years too young to have been to the hacienda. And there was this sense that just as I was coming of the age to be able to go, it was coming to an end.   There was a sense that this ending was cocooned in a woozy dream state, much like Fleetwood Mac’s _Tango In The Night_.  
 

@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-x-kulture-project-junglehardcore-marathon
 author: 100
 banner:
-  - imported/loose-lips-x-kulture-project-junglehardcore-marathon/image2774.jpeg
+  - imported\loose-lips-x-kulture-project-junglehardcore-marathon\image2774.jpeg
 description: >-
   Loose Lips and Kulture Project have linked up to bring an absolute Hardcore
   &amp; Jungle madness to Stage &amp; Radio this festive period. We have invited

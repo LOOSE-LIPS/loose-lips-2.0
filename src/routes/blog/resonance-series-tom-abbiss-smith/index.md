@@ -6,7 +6,7 @@ type: post
 slug: resonance-series-tom-abbiss-smith
 author: 76
 banner:
-  - imported/resonance-series-tom-abbiss-smith/image1152.jpeg
+  - imported\resonance-series-tom-abbiss-smith\image1152.jpeg
 description: >-
   Welcome to this installment of the &#39;Resonance Series&#39; &#8211; curated
   by Jasper Golding.&nbsp;This feature, running every other Tuesday, introduces
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/resonance-series-tom-abbiss-smith/image1152.jpeg)_Welcome to this installment of the 'Resonance Series' – curated by Jasper Golding._ _This feature, running every other Tuesday, introduces you to musical individuals through the art forms they engage in, telling a personal story of their creative output and how different mediums influence each other.__For this edition we introduce you to the idyllic forms of Tom Abbiss Smith_ The deep cuts of Tom Abbiss Smith’s paper works first caught my eye at the d&ad new blood convention in 2018. He was manning a stand there which displayed his smoothed out homages to nature and idyllic forms. A kind of shrine to his chilled-out work, his stand showed a bounty of patterned dopeness.![](https://lh4.googleusercontent.com/Drvizs4hTlSXbOiRpHKzFZmJQw3UiA_vIJH4fiPHfzDBBXfVfiyZUar-XQjBW4LXt7ywLRqpb3AgQuXrdBOE01FIO2AGKAsTv-ruDA_nYfDjYY44j2YJGy-Yj7oemZlv22R2S4ZF)
+![image](../imported\resonance-series-tom-abbiss-smith\image1152.jpeg)_Welcome to this installment of the 'Resonance Series' – curated by Jasper Golding._ _This feature, running every other Tuesday, introduces you to musical individuals through the art forms they engage in, telling a personal story of their creative output and how different mediums influence each other.__For this edition we introduce you to the idyllic forms of Tom Abbiss Smith_ The deep cuts of Tom Abbiss Smith’s paper works first caught my eye at the d&ad new blood convention in 2018. He was manning a stand there which displayed his smoothed out homages to nature and idyllic forms. A kind of shrine to his chilled-out work, his stand showed a bounty of patterned dopeness.![](https://lh4.googleusercontent.com/Drvizs4hTlSXbOiRpHKzFZmJQw3UiA_vIJH4fiPHfzDBBXfVfiyZUar-XQjBW4LXt7ywLRqpb3AgQuXrdBOE01FIO2AGKAsTv-ruDA_nYfDjYY44j2YJGy-Yj7oemZlv22R2S4ZF)
 
 Tom specialises in surface design, and as a result he gets to see his work, worn, sat on, opened, switched on and lived among. I found this astounding at the time, I never really thought about the fact that brands would need artists to produce patterns for their surfaces. Although tom’s work is semi abstract and super expressive, it has a powerful ability to improve a setting. 
 

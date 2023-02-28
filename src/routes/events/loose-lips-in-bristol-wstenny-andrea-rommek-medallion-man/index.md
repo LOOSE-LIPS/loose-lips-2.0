@@ -7,7 +7,7 @@ slug: loose-lips-in-bristol-wstenny-andrea-rommek-medallion-man
 author: 100
 banner:
   - >-
-    imported/loose-lips-in-bristol-wstenny-andrea-rommek-medallion-man/image2754.jpeg
+    imported\loose-lips-in-bristol-wstenny-andrea-rommek-medallion-man\image2754.jpeg
 description: >-
   Kicking off 2018 in our favourite prison cells, with 2 special Bristol debuts.
   Interactive visuals from Naztek &#8211; www.naren.co.uk. 22:00 &#8211; 03:00

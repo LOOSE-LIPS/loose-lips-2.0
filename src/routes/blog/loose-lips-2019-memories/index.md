@@ -6,7 +6,7 @@ type: post
 slug: loose-lips-2019-memories
 author: 33
 banner:
-  - imported/loose-lips-2019-memories/image991.jpeg
+  - imported\loose-lips-2019-memories\image991.jpeg
 description: >-
   An incredible year, a whirlwind&#8230; 10 of our crew recount their finest
   memories from the last 12 months of Loose Lips escapades, closing out the
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/loose-lips-2019-memories/image991.jpeg)_An incredible year, a whirlwind…__10 of our crew recount their finest memories from the last 12 months of Loose Lips escapades, closing out the decade in style…_
+![image](../imported\loose-lips-2019-memories\image991.jpeg)_An incredible year, a whirlwind…__10 of our crew recount their finest memories from the last 12 months of Loose Lips escapades, closing out the decade in style…_
 
 **TOM BLAIN** _– DnB Fix editor / Manchester crew_Whilst the last year has been full of incredible times, my personal highlight for 2019 is that it's the year we took Drum and Bass to where it belongs. Launching a new feature is daunting, but thankfully our DnB Fix has gone down a right treat. Next year we’re really looking forward to working with some special labels and DJs who are killing it, helping take the feature to the next level and beyond.[Loose Lips DnB Fix 001 – Monument Banks](http://loose-lips.co.uk/blog/loose-lips-dnb-fix-001-monument-banks)![](/wp-content/uploads/live/img/wysiwyg/5e0f53176b5e8.jpg)
 

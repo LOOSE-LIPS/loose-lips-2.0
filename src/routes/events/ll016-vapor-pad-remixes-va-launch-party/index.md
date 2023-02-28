@@ -6,7 +6,7 @@ type: event
 slug: ll016-vapor-pad-remixes-va-launch-party
 author: 100
 banner:
-  - imported/ll016-vapor-pad-remixes-va-launch-party/image2804.jpeg
+  - imported\ll016-vapor-pad-remixes-va-launch-party\image2804.jpeg
 description: >-
   We&#39;re excited to launch our next Loose Lips label release on Friday 26th
   July &#8211; RICO CASAZZA&nbsp;&#8211; Vapor Pad Remixes V/A! &nbsp;A series

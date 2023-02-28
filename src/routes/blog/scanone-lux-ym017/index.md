@@ -6,7 +6,7 @@ type: post
 slug: scanone-lux-ym017
 author: 100
 banner:
-  - imported/scanone-lux-ym017/image1163.jpeg
+  - imported\scanone-lux-ym017\image1163.jpeg
 description: >-
   ScanOne&#39;s explorations of the deep and jazzy side of Drum n Bass, within a
   definite Noir/Cyberpunk world.Lux&#39;s intricate drum programming is
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/scanone-lux-ym017/image1163.jpeg)ScanOne's explorations of the deep and jazzy side of Drum n Bass, within a definite Noir/Cyberpunk world.  
+![image](../imported\scanone-lux-ym017\image1163.jpeg)ScanOne's explorations of the deep and jazzy side of Drum n Bass, within a definite Noir/Cyberpunk world.  
 _Lux_'s intricate drum programming is augmented by an incredibly sexy saxophone and soft, floating pads, getting even warmer when a brass section comes in near the end!From [ScanOne](https://scanone.bandcamp.com/)'s _BRAEK_ EP on [Yellow Machines](https://yellow-machines.bandcamp.com/).Out now on 12" and digital – Order: [](https://yellow-machines.bandcamp.com/album/ym017-scanone-braek-ep)[https://yellow-machines.bandcamp.com/album/ym017-scanone-braek-ep](https://yellow-machines.bandcamp.com/album/ym017-scanone-braek-ep)  
 [](https://soundcloud.com/yellow-machines)[](https://yellow-machines.bandcamp.com/)[https://yellow-machines.bandcamp.com](https://yellow-machines.bandcamp.com/)  
 [https://soundcloud.com/yellow-machines](https://soundcloud.com/yellow-machines)  

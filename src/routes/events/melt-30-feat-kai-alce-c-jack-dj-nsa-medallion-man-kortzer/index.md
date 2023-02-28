@@ -7,7 +7,7 @@ slug: melt-30-feat-kai-alce-c-jack-dj-nsa-medallion-man-kortzer
 author: 100
 banner:
   - >-
-    imported/melt-30-feat-kai-alce-c-jack-dj-nsa-medallion-man-kortzer/image2798.jpeg
+    imported\melt-30-feat-kai-alce-c-jack-dj-nsa-medallion-man-kortzer\image2798.jpeg
 description: >-
   MELT returns for our 3rd edition; a sonic + visual experience in the
   Metropolitan Studio Lofts. Visuals curated by Carina Raye Moravek.&nbsp; 7-9pm

@@ -6,7 +6,7 @@ type: event
 slug: boxing-day-gathering-loose-lips-x-its-a-house-thing
 author: 100
 banner:
-  - imported/boxing-day-gathering-loose-lips-x-its-a-house-thing/image2779.jpeg
+  - imported\boxing-day-gathering-loose-lips-x-its-a-house-thing\image2779.jpeg
 description: >-
   Its A House Thing &amp; Loose Lips Doors 10.30- 3.30am &#8211; 26/12/18 The
   Attic, Torquay

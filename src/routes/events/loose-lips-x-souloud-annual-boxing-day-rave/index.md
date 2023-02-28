@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-x-souloud-annual-boxing-day-rave
 author: 100
 banner:
-  - imported/loose-lips-x-souloud-annual-boxing-day-rave/image2755.jpeg
+  - imported\loose-lips-x-souloud-annual-boxing-day-rave\image2755.jpeg
 description: >-
   If you&#39;ve been before, you&#39;ll always be back. If you haven&#39;t been
   before, you&#39;re in for a treat. &pound;5 entry http://loose-lips.co.uk

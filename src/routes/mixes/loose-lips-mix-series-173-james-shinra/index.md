@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-173-james-shinra
 author: 100
 banner:
-  - imported/loose-lips-mix-series-173-james-shinra/image3111.jpeg
+  - imported\loose-lips-mix-series-173-james-shinra\image3111.jpeg
 description: >-
   One of our favourite London producers, making euphoric killer electro to
   destroy any dancefloor! This mix is no different! Braindance to the max!

@@ -6,7 +6,7 @@ type: post
 slug: jacob-kirkegaard-opus-mors-event-invitation
 author: 165
 banner:
-  - imported/jacob-kirkegaard-opus-mors-event-invitation/image1007.jpeg
+  - imported\jacob-kirkegaard-opus-mors-event-invitation\image1007.jpeg
 description: >-
   What happens to us after we die? This question hasn&rsquo;t ceased to
   fascinate, possibly scare and eventually occupy the minds of anyone who ever
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/jacob-kirkegaard-opus-mors-event-invitation/image1007.jpeg)What happens to us after we die? This question hasn’t ceased to fascinate, possibly scare and eventually occupy the minds of anyone who ever grasped the notion of one’s mortality. But what happens to our corpses? And how does it sound? Danish sound artist Jacob Kirkegaard, whose sound art has resonated within the walls of venues such as MoMA in New York, the Rothko Chapel in Houston and the Mori Art Museum in Tokyo, dared to take an acoustic trip into the future – recording the sounds produced by and surrounding a human corpse post mortem.
+![image](../imported\jacob-kirkegaard-opus-mors-event-invitation\image1007.jpeg)What happens to us after we die? This question hasn’t ceased to fascinate, possibly scare and eventually occupy the minds of anyone who ever grasped the notion of one’s mortality. But what happens to our corpses? And how does it sound? Danish sound artist Jacob Kirkegaard, whose sound art has resonated within the walls of venues such as MoMA in New York, the Rothko Chapel in Houston and the Mori Art Museum in Tokyo, dared to take an acoustic trip into the future – recording the sounds produced by and surrounding a human corpse post mortem.
 
 Kirkegaard’s works are often metaphorical, working within a particular context and the listener’s imagination in order to capture ethereal and delicate ideas, such as in his work ‘4 Rooms’ that was inspired by Alvin Lucier, for which he layered the recordings of rooms in Chernobyl in order to hear the sound of radioactive spaces; or closely examine the physical and acoustic phenomena – which are seemingly impossible to hear. Similarly, in his project ‘Labyrinthitis’, Kirkegaard produced otoacoustic emissions inside of the ears of the listeners.
 

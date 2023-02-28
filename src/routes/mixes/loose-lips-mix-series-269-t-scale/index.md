@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-269-t-scale
 author: 100
 banner:
-  - imported/loose-lips-mix-series-269-t-scale/image3207.jpeg
+  - imported\loose-lips-mix-series-269-t-scale\image3207.jpeg
 description: >-
   Our very own resident, our very own head of website &#038; content mgmt, our
   very own Belgian Grime fanatic&#8230;eventually joins into the bloody mix

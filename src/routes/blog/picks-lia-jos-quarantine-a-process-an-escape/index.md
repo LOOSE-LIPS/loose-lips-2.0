@@ -6,7 +6,7 @@ type: post
 slug: picks-lia-jos-quarantine-a-process-an-escape
 author: 164
 banner:
-  - imported/picks-lia-jos-quarantine-a-process-an-escape/image1242.jpeg
+  - imported\picks-lia-jos-quarantine-a-process-an-escape\image1242.jpeg
 description: >-
   For this week&rsquo;s Picks, we have a very special guest indeed; Lia-Jo, fka
   Alien, an artist and transcendental tastemaker whose producing skills have
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/picks-lia-jos-quarantine-a-process-an-escape/image1242.jpeg)_For this week’s Picks, we have a very special guest indeed; Lia-Jo, fka Alien, an artist and transcendental tastemaker whose producing skills have been crucial in keeping Threads radio going over lockdown, and recently took over a new Monday slot (check the first show [here](https://www.mixcloud.com/ThreadsRadio/lia-jo-10-aug-20/?fbclid=IwAR2D5LwzCkB7m0kvtUPfQeRMTzwfFISdFbVtlcr5x-FG8Qb1i7KH3NOfyUE)). All songs are gathered in this_ [_Spotiplaylist_](https://open.spotify.com/playlist/2giLypwNlGgjlj7vcTdJls?si=4uN3grSeRN27B8FNmjNVQQ)_, take it away Lia!_The last third of the year has been a powerful moment in time. An unravelling of ego, a breath of fresh air, finding deeper strength within myself and a different appreciation and understanding of the beautiful people who surround me. Capturing the quiet, screaming and self-enveloping in the solitude. Processing lost love and deep trauma. Analysing my faults, my vices.As life comes hand in hand with music, we’ve been on a journey together. Here’s what some of my journey sounds like.
+![image](../imported\picks-lia-jos-quarantine-a-process-an-escape\image1242.jpeg)_For this week’s Picks, we have a very special guest indeed; Lia-Jo, fka Alien, an artist and transcendental tastemaker whose producing skills have been crucial in keeping Threads radio going over lockdown, and recently took over a new Monday slot (check the first show [here](https://www.mixcloud.com/ThreadsRadio/lia-jo-10-aug-20/?fbclid=IwAR2D5LwzCkB7m0kvtUPfQeRMTzwfFISdFbVtlcr5x-FG8Qb1i7KH3NOfyUE)). All songs are gathered in this_ [_Spotiplaylist_](https://open.spotify.com/playlist/2giLypwNlGgjlj7vcTdJls?si=4uN3grSeRN27B8FNmjNVQQ)_, take it away Lia!_The last third of the year has been a powerful moment in time. An unravelling of ego, a breath of fresh air, finding deeper strength within myself and a different appreciation and understanding of the beautiful people who surround me. Capturing the quiet, screaming and self-enveloping in the solitude. Processing lost love and deep trauma. Analysing my faults, my vices.As life comes hand in hand with music, we’ve been on a journey together. Here’s what some of my journey sounds like.
 
 During lockdown I’ve tried to focus as much of my attention as possible on myself. Building myself up by nurturing the elements of my life that mean so much to me. Music. So I’ve been learning how to play guitar. This song was the first track I learnt to play on my baby pink electric nearly a year ago. It represents my progress.
 

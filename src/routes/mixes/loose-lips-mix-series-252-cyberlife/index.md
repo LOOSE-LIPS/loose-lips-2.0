@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-252-cyberlife
 author: 100
 banner:
-  - imported/loose-lips-mix-series-252-cyberlife/image3190.jpeg
+  - imported\loose-lips-mix-series-252-cyberlife\image3190.jpeg
 description: >-
   Paris-based Cyberlife is our 252nd entry! A 3-hour mix evolving at its own
   pace from Drone into Bass and Drum &#038; Bass territories. Here&#8217;s some

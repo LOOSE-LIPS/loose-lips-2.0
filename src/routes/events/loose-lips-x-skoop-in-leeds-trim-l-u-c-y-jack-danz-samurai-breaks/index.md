@@ -9,7 +9,7 @@ slug: loose-lips-x-skoop-in-leeds-trim-l-u-c-y-jack-danz-samurai-breaks
 author: 100
 banner:
   - >-
-    imported/loose-lips-x-skoop-in-leeds-trim-l-u-c-y-jack-danz-samurai-breaks/image2783.jpeg
+    imported\loose-lips-x-skoop-in-leeds-trim-l-u-c-y-jack-danz-samurai-breaks\image2783.jpeg
 description: >-
   SKOOP &amp; Loose Lips are coming to Leeds! The 2 monstrous UK collectives are
   making their debut in Hifi Club with an absolute stonker of a line up

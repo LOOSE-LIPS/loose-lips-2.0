@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-285-reinartz
 author: 100
 banner:
-  - imported/loose-lips-mix-series-285-reinartz/image3223.jpeg
+  - imported\loose-lips-mix-series-285-reinartz\image3223.jpeg
 description: >-
   Joining us this week is Reinartz AKA DJ Sterni! 104 minutes of playful beats
   and colourful textures for you &#8211; Breaks, Trance, Club, Electro, Bass and

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-256-morgan-johnston
 author: 100
 banner:
-  - imported/loose-lips-mix-series-256-morgan-johnston/image3195.jpeg
+  - imported\loose-lips-mix-series-256-morgan-johnston\image3195.jpeg
 description: >-
   Number 256 courtesy of Loose Lips collaborator Morgan Johnston. This
   relatively short yet undeniably sweet mix liberally smashes together 90s

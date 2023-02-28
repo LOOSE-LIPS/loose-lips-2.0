@@ -6,7 +6,7 @@ type: post
 slug: pattern-abuse-volume-2-nordic-ambient
 author: 37
 banner:
-  - imported/pattern-abuse-volume-2-nordic-ambient/image721.jpeg
+  - imported\pattern-abuse-volume-2-nordic-ambient\image721.jpeg
 description: >-
   A collection of fairly unknown artists compiles a variety of Nordic ambient
   music on Liquido&rsquo;s label Pattern Abuse. As opposed to the eclecticism of
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/pattern-abuse-volume-2-nordic-ambient/image721.jpeg)A collection of fairly unknown artists compiles a variety of Nordic ambient music on [Liquido](https://www.discogs.com/artist/3621168-Liquido-2)’s label [Pattern Abuse](https://www.discogs.com/label/634766-Pattern-Abuse). As opposed to the eclecticism of [Volume 1](https://soundcloud.com/pattern-abuse/sets/pattern-abuse-compilation-1), Volume 2 heads in a more precise direction, delivering soothing synth atmospheres and icy sound signatures inspired by Scandinavia.
+![image](../imported\pattern-abuse-volume-2-nordic-ambient\image721.jpeg)A collection of fairly unknown artists compiles a variety of Nordic ambient music on [Liquido](https://www.discogs.com/artist/3621168-Liquido-2)’s label [Pattern Abuse](https://www.discogs.com/label/634766-Pattern-Abuse). As opposed to the eclecticism of [Volume 1](https://soundcloud.com/pattern-abuse/sets/pattern-abuse-compilation-1), Volume 2 heads in a more precise direction, delivering soothing synth atmospheres and icy sound signatures inspired by Scandinavia.
 
 Music from Nordic countries often has a certain character. Recurring themes like sharp percussion and long droning synths are commonplace, and can be heard in the output from a variety of projects: [Burzum](https://www.youtube.com/watch?v=cWKtrze79Ys), [Northern Electronics](https://www.youtube.com/watch?v=5hd6lhTZJag), [Thule](https://youtu.be/TUxGEoAWx2E), and even [Yung Lean](https://www.youtube.com/watch?v=KOFw2UPLdPk), to name a few. The surroundings in these regions are represented in the music; wide tundra and deep echoic valleys, a chilling breeze and flecks of ice on your skin.
 

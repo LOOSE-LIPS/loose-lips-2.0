@@ -6,7 +6,7 @@ type: post
 slug: picks-kortzers-clubless-daytrip
 author: 100
 banner:
-  - imported/picks-kortzers-clubless-daytrip/image1226.jpeg
+  - imported\picks-kortzers-clubless-daytrip\image1226.jpeg
 description: >-
   Over quarantine we&#39;ve had a fantastic variety of guest selectors step up
   for Picks, but today we&#39;re on home turf with our very own saucey sorcerer
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/picks-kortzers-clubless-daytrip/image1226.jpeg)Over quarantine we've had a fantastic variety of guest selectors step up for Picks, but today we're on home turf with our very own saucey sorcerer supreme, Mancunian Loose Lips resident DJ and previous 'Sunday Jams' captain, [Kortzer](http://loose-lips.co.uk/crew/kortzer)!!! Following on in [S/S](http://loose-lips.co.uk/blog/picks-sss-soul-funk-psych-rock-daytrip) and [Sugarglider](http://loose-lips.co.uk/blog/picks-the-sugargliders-lima-day-trip)'s footsteps, the livest bloke in Blightey takes us on a rare serene daytrip; "a dawn til dusk look into some favourite bits from my record collection that wouldn't necessarily get played out otherwise" (no EBM, sorry lads, change into a nice dry top and light some incense). All tracks but one gathered in this [Spotify playlist](https://open.spotify.com/playlist/6HE6CgE3QQKg5vDP51EJZQ?si=AGHjvchDQmqlkiR-PaNl-Q), take it away K-man!
+![image](../imported\picks-kortzers-clubless-daytrip\image1226.jpeg)Over quarantine we've had a fantastic variety of guest selectors step up for Picks, but today we're on home turf with our very own saucey sorcerer supreme, Mancunian Loose Lips resident DJ and previous 'Sunday Jams' captain, [Kortzer](http://loose-lips.co.uk/crew/kortzer)!!! Following on in [S/S](http://loose-lips.co.uk/blog/picks-sss-soul-funk-psych-rock-daytrip) and [Sugarglider](http://loose-lips.co.uk/blog/picks-the-sugargliders-lima-day-trip)'s footsteps, the livest bloke in Blightey takes us on a rare serene daytrip; "a dawn til dusk look into some favourite bits from my record collection that wouldn't necessarily get played out otherwise" (no EBM, sorry lads, change into a nice dry top and light some incense). All tracks but one gathered in this [Spotify playlist](https://open.spotify.com/playlist/6HE6CgE3QQKg5vDP51EJZQ?si=AGHjvchDQmqlkiR-PaNl-Q), take it away K-man!
 
 Culture are one of my favourite reggae groups and this track is the perfect anthem to begin my day off. This one really helps me to kick start the morning and goes hand in hand with my breakfast. 
 

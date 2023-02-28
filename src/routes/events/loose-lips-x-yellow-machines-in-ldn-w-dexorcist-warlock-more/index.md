@@ -7,7 +7,7 @@ slug: loose-lips-x-yellow-machines-in-ldn-w-dexorcist-warlock-more
 author: 100
 banner:
   - >-
-    imported/loose-lips-x-yellow-machines-in-ldn-w-dexorcist-warlock-more/image2788.jpeg
+    imported\loose-lips-x-yellow-machines-in-ldn-w-dexorcist-warlock-more\image2788.jpeg
 description: >-
   Two crews, with many shared connections, friendships and tastes, link up on a
   party for the first time. Slamming electro, breakbeats and IDM! Ave&#39; it!

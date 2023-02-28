@@ -6,7 +6,7 @@ type: post
 slug: nanas-sunday-jams-the-wire-fulton-lee
 author: 125
 banner:
-  - imported/nanas-sunday-jams-the-wire-fulton-lee/image1379.jpeg
+  - imported\nanas-sunday-jams-the-wire-fulton-lee\image1379.jpeg
 description: >-
   [Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered in
   this playlist.] Yes and Yes Sunday Jammers. Happy Happy New Year to you all. I
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/nanas-sunday-jams-the-wire-fulton-lee/image1379.jpeg)******_\[Banner artwork by the majestic [Trav](https://www.backdownwarchild.co.uk/), all of Nana's jams are gathered in [this playlist](https://open.spotify.com/playlist/12UoQ8ov5i6P8BIfm2lOjS?si=jarAn1CXSEuYB9vAxJidOg).\]_******Yes and Yes Sunday Jammers. Happy Happy New Year to you all. I hope you’re well, taking all things in your stride and finding room to breathe.  
+![image](../imported\nanas-sunday-jams-the-wire-fulton-lee\image1379.jpeg)******_\[Banner artwork by the majestic [Trav](https://www.backdownwarchild.co.uk/), all of Nana's jams are gathered in [this playlist](https://open.spotify.com/playlist/12UoQ8ov5i6P8BIfm2lOjS?si=jarAn1CXSEuYB9vAxJidOg).\]_******Yes and Yes Sunday Jammers. Happy Happy New Year to you all. I hope you’re well, taking all things in your stride and finding room to breathe.  
   
 So, this year I am done with resolutions, still trying to make good on the last two sets and going nowhere fast so I’m calling time on that. I’m currently searching for a new modus operandum- anyone got any new ideas or ways to deal please hit me up. Part of my new plan involves taking my time to ease into 2021; I’m determined to keep things light and breezy, hopefully this will provide some antidote to lessen the effects of winter’s biting grip coupled with confinement.  Feels right to float in rather than jumping in feet first, so the theme for the next 4 Sunday Jams will be just that; breezy to beat the January blues. For that I’m turning to Pop – really, it’s just an excuse for a medium dive into one of my favourite genres.  
   

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-301-fragile-x
 author: 100
 banner:
-  - imported/loose-lips-mix-series-301-fragile-x/image3239.jpeg
+  - imported\loose-lips-mix-series-301-fragile-x\image3239.jpeg
 description: >-
   Glasgow-based Bricolage Records label head, Fragile X, jumps into our Mix
   Series for an 89 minute adventure of contemporary electronics &#8211;

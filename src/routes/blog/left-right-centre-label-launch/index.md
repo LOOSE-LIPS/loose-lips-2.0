@@ -6,7 +6,7 @@ type: post
 slug: left-right-centre-label-launch
 author: 51
 banner:
-  - imported/left-right-centre-label-launch/image1113.jpeg
+  - imported\left-right-centre-label-launch\image1113.jpeg
 description: >-
   After two years of running mint parties and booking some of the most forward
   thinking names the UK and beyond has to offer, Manchester based creatives
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/left-right-centre-label-launch/image1113.jpeg)_After two years of running mint parties and booking some of the most forward thinking names the UK and beyond has to offer, Manchester based creatives Wakil Ahmed and Connor Cooper take their brand ‘Left Right & Centre’ on to a new chapter as a record label – with a 4 track VA debut release out on May 29th._  ![](/wp-content/uploads/live/img/wysiwyg/5eb7ff2379c7e.png)
+![image](../imported\left-right-centre-label-launch\image1113.jpeg)_After two years of running mint parties and booking some of the most forward thinking names the UK and beyond has to offer, Manchester based creatives Wakil Ahmed and Connor Cooper take their brand ‘Left Right & Centre’ on to a new chapter as a record label – with a 4 track VA debut release out on May 29th._  ![](/wp-content/uploads/live/img/wysiwyg/5eb7ff2379c7e.png)
 
 **What’s all this I’ve been hearing about the Macarena?**_Connor:_ It’s 103BPM, it’s an absolute banger, what more do you wanna know? I was at Dekmantel last year and Donato Dozzy was playing a 5-hour set, a DJ who is known for having one of the sickest record collections around. And he starts playing this slow chuggy tune with an echoey sample that rolls in and out. I turned to my mates and said “I’m sure this is the Macarena”. I get a dismayed look and get told to shut up as if to say it’s obviously not. It’s apparent that it was some sort of Macarena dub. It was a pretty lovely moment. From then on, it became sort of a challenge to find Macarena edits and Strange Riddims actually booked me for a 20 minute Macarena set at their 4th birthday event which was potentially one of the best moments I’ve had in the booth.
 

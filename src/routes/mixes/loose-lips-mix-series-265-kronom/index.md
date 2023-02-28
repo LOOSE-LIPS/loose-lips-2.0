@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-265-kronom
 author: 100
 banner:
-  - imported/loose-lips-mix-series-265-kronom/image3203.jpeg
+  - imported\loose-lips-mix-series-265-kronom\image3203.jpeg
 description: >-
   Our 265th entry sees Macedonian rising talent and noise fanatic Kronom deploy
   his arsenal of distorted rhythms and bleak dystopian textures for 90&#8242;!

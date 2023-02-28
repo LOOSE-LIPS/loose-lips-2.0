@@ -7,7 +7,7 @@ slug: picks-josh-caffes-break-4-fk-10-filthy-tracks-to-fk-to
 author: 89
 banner:
   - >-
-    imported/picks-josh-caffes-break-4-fk-10-filthy-tracks-to-fk-to/image1151.jpeg
+    imported\picks-josh-caffes-break-4-fk-10-filthy-tracks-to-fk-to\image1151.jpeg
 description: >-
   Jamie Principle presents Raven,&nbsp;It&#39;s My Pussy (Erotic Pussy Mix)
   (Freetown Inc) A big inspiration to me and someone I&#39;m happy to call a
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/picks-josh-caffes-break-4-fk-10-filthy-tracks-to-fk-to/image1151.jpeg)**Jamie Principle presents Raven, _It's My Pussy (Erotic Pussy Mix) (Freetown Inc)_**A big inspiration to me and someone I'm happy to call a friend. This track is one out many in Jamie's back catalogue that ooze's sex. The Erotic Bleu mix is a perfect way to start seducing someone after a night out. Worked for me.
+![image](../imported\picks-josh-caffes-break-4-fk-10-filthy-tracks-to-fk-to\image1151.jpeg)**Jamie Principle presents Raven, _It's My Pussy (Erotic Pussy Mix) (Freetown Inc)_**A big inspiration to me and someone I'm happy to call a friend. This track is one out many in Jamie's back catalogue that ooze's sex. The Erotic Bleu mix is a perfect way to start seducing someone after a night out. Worked for me.
 
 [](https://www.youtube.com/watch?v=EvkhfAQqBoE)**Raze, _Break 4 Love (CBS Records)_**Even though the lyrics to this track convey a message of love and affection, for me so much of the track screams lets get down and dirty. The drum loop is super sexy and the sample of the orgasmic woman is perfection and hot! The video is brilliant too.Interesting fact for some of you out there, the woman's orgasm sample is actually taken from Lorna Patterson in the film _Airplane_, from a scene where she is actually crying.
 

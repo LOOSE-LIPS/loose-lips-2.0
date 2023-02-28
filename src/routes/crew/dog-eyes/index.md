@@ -6,7 +6,7 @@ type: crew
 slug: dog-eyes
 author: 100
 banner:
-  - imported/dog-eyes/image4547.jpeg
+  - imported\dog-eyes\image4547.jpeg
 description: >-
   HEAD OF SOCIAL MEDIA / RESIDENT DJ Loose Lips&#39; social media manager and
   one of our resident DJs. Co-host of Index Tapes on Threads. Photo by Tom

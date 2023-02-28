@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-261-li
 author: 100
 banner:
-  - imported/loose-lips-mix-series-261-li/image3199.jpeg
+  - imported\loose-lips-mix-series-261-li\image3199.jpeg
 description: >-
   Hailing from Liverpool and recently supporting the likes of Nina Kraviz, Dense
   &#038; Pika and Sam Paganini, Li is making some serious waves in the North

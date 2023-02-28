@@ -6,7 +6,7 @@ type: post
 slug: carola-bony-burb-espectro02
 author: 100
 banner:
-  - imported/carola-bony-burb-espectro02/image1089.jpeg
+  - imported\carola-bony-burb-espectro02\image1089.jpeg
 description: >-
   Squeaking, squelching &nbsp;syncopated rhythms supporting an elegantly naive
   melodic backdrop, bringing peace into this controlled chaos. From Carola
@@ -20,7 +20,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/carola-bony-burb-espectro02/image1089.jpeg)Squeaking, squelching  syncopated rhythms supporting an elegantly naive melodic backdrop, bringing peace into this controlled chaos.From Carola Bony's _Estrella 1996_ EP on [Amplio Espectro](https://amplioespectrolabel.bandcamp.com/).Out 24.04.2020 on digital – Pre-order: [https://boomkat.com/products/estrella-1996](https://boomkat.com/products/estrella-1996)[](https://soundcloud.com/amplioespectro)[https://soundcloud.com/amplioespectro](https://soundcloud.com/amplioespectro)  
+![image](../imported\carola-bony-burb-espectro02\image1089.jpeg)Squeaking, squelching  syncopated rhythms supporting an elegantly naive melodic backdrop, bringing peace into this controlled chaos.From Carola Bony's _Estrella 1996_ EP on [Amplio Espectro](https://amplioespectrolabel.bandcamp.com/).Out 24.04.2020 on digital – Pre-order: [https://boomkat.com/products/estrella-1996](https://boomkat.com/products/estrella-1996)[](https://soundcloud.com/amplioespectro)[https://soundcloud.com/amplioespectro](https://soundcloud.com/amplioespectro)  
 [](https://soundcloud.com/carolabony)[https://soundcloud.com/carolabony](https://soundcloud.com/carolabony)Estrella 1996 by Carola Bony is the second release of Amplio Espectro,  
 a new label curated by Carisma that will release music monthly for a  
 year. The EP was conceived by Carola Bony in 1996, and Amplio Espectro  

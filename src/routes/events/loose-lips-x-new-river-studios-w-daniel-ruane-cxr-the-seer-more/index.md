@@ -9,7 +9,7 @@ slug: loose-lips-x-new-river-studios-w-daniel-ruane-cxr-the-seer-more
 author: 100
 banner:
   - >-
-    imported/loose-lips-x-new-river-studios-w-daniel-ruane-cxr-the-seer-more/image2776.jpeg
+    imported\loose-lips-x-new-river-studios-w-daniel-ruane-cxr-the-seer-more\image2776.jpeg
 description: >-
   UK-spread eclectic music platform Loose Lips team up with one of London&#39;s
   finest DIY venues for a night of punk and experimental electronics.

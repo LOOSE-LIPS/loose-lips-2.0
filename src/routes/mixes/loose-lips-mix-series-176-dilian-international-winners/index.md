@@ -7,7 +7,7 @@ slug: loose-lips-mix-series-176-dilian-international-winners
 author: 100
 banner:
   - >-
-    imported/loose-lips-mix-series-176-dilian-international-winners/image3114.jpeg
+    imported\loose-lips-mix-series-176-dilian-international-winners\image3114.jpeg
 description: >-
   The mix tries to synthesise what&#8217;s appealing to Dilian, an artist who
   we&#8217;ve become very close to since we released a track from his

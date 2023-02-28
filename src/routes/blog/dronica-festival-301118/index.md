@@ -6,7 +6,7 @@ type: post
 slug: dronica-festival-301118
 author: 156
 banner:
-  - imported/dronica-festival-301118/image722.jpeg
+  - imported\dronica-festival-301118\image722.jpeg
 description: >-
   Dronica is a tri-yearly, two-day sound and art festival, held at the Old
   Church in Stoke Newington. Founded in 2016 by Nicola Serra, the festival
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/dronica-festival-301118/image722.jpeg)Dronica is a tri-yearly, two-day sound and art festival, held at the Old Church in Stoke Newington. Founded in 2016 by Nicola Serra, the festival mainly focuses on experimental, drone and free form-approach art performances.Nicola, who studied at London Academy of Music Production, has a background as a drummer, percussionist, sound engineer and events organizer, placing him firmly in a position of authority when it comes to putting on alternative-music events.
+![image](../imported\dronica-festival-301118\image722.jpeg)Dronica is a tri-yearly, two-day sound and art festival, held at the Old Church in Stoke Newington. Founded in 2016 by Nicola Serra, the festival mainly focuses on experimental, drone and free form-approach art performances.Nicola, who studied at London Academy of Music Production, has a background as a drummer, percussionist, sound engineer and events organizer, placing him firmly in a position of authority when it comes to putting on alternative-music events.
 
 And in The Old Church he has found a dream setting. All gothic arches, stained glass windows and crypts, it is lit for this event mainly in red and green, with a few large candles dotted around, giving it a bizarre Hammer Horror meets Christmas mass feel. A small bar, a semi circle of fold out chairs and, strangely, a tiny pop up Italian deli counter selling pastries complete the setting. There are big rugs strewn across the flagstone floor, upon which are scattered cross-legged nihilists dressed head-to-toe in black and one couple who appear to be on mushrooms. Everything is present and correct.As we wait for the first performance, and subsequently in between the following acts, the sultry tones of Death Grips ‘Guillotine’ wafts from the speakers.
 

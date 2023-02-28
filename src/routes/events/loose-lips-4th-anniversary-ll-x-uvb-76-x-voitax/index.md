@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-4th-anniversary-ll-x-uvb-76-x-voitax
 author: 100
 banner:
-  - imported/loose-lips-4th-anniversary-ll-x-uvb-76-x-voitax/image2769.jpeg
+  - imported\loose-lips-4th-anniversary-ll-x-uvb-76-x-voitax\image2769.jpeg
 description: >-
   4 crazy years have passed and we&#39;re not stopping anytime soon! To
   celebrate the madness, we&#39;ve teamed up with 2 of our favourite labels for

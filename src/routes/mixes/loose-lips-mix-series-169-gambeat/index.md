@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-169-gambeat
 author: 100
 banner:
-  - imported/loose-lips-mix-series-169-gambeat/image3108.jpeg
+  - imported\loose-lips-mix-series-169-gambeat\image3108.jpeg
 description: >-
   A year or so ago, Deep Emotions Collective, a Birmingham-based techno outfit
   invited our residents @rommek &#038; @medallionman to play at Spotlight in the

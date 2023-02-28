@@ -6,7 +6,7 @@ type: event
 slug: shackleton-rommek-wsr-denham-audio-loose-lips-in-mcr
 author: 100
 banner:
-  - imported/shackleton-rommek-wsr-denham-audio-loose-lips-in-mcr/image2757.jpeg
+  - imported\shackleton-rommek-wsr-denham-audio-loose-lips-in-mcr\image2757.jpeg
 description: >-
   It&#39;s 2018 and we&#39;re starting how we mean to go on in Manchester&#8230;
   Not only is our next party at our favourite venue in the city, The White

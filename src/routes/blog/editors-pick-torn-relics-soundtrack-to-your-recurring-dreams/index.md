@@ -7,7 +7,7 @@ slug: editors-pick-torn-relics-soundtrack-to-your-recurring-dreams
 author: 164
 banner:
   - >-
-    imported/editors-pick-torn-relics-soundtrack-to-your-recurring-dreams/image810.jpeg
+    imported\editors-pick-torn-relics-soundtrack-to-your-recurring-dreams\image810.jpeg
 description: >-
   For this edition of Editors Pick, Hardy takes us back to memories of summers
   gone by &#8211; in particular, two amazing nights: a Torn Relics gig at
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/editors-pick-torn-relics-soundtrack-to-your-recurring-dreams/image810.jpeg)For this edition of Editors Pick, Hardy takes us back to memories of summers gone by – in particular, two amazing nights: a Torn Relics gig at Griessmuhle and a Loose Lips event in Manchester which also included Schefelgelb. After releasing their first album, The Poisoned Chalice, Torn Relics gave us a selection of 10 tracks to your recurring dreams…
+![image](../imported\editors-pick-torn-relics-soundtrack-to-your-recurring-dreams\image810.jpeg)For this edition of Editors Pick, Hardy takes us back to memories of summers gone by – in particular, two amazing nights: a Torn Relics gig at Griessmuhle and a Loose Lips event in Manchester which also included Schefelgelb. After releasing their first album, The Poisoned Chalice, Torn Relics gave us a selection of 10 tracks to your recurring dreams…
 
 _Torn Relics’ live show feels like the view of late 1800s London one might have experienced whilst clinging on to the side of a moving train, grinding industry and human perseverance framed by clouds of smoke and soot. Or at least that was the vibe I got when I caught them in the cavernous main room of Berlin’s Griessmuhle last summer. The set was a perfect eye-of-the-storm breather from a night of powerhouse techno, with Rommek (who played a DJ set later on) bouncing on the spot infront of his synth setup whilst Aimee Mullen’s violin glided above the beats. Check out their EP below, and if you’re in Manchester this Friday [get dowwwwwwwwwwwn](https://www.residentadvisor.net/events/1238647?fbclid=IwAR3cSEUIlLTZxczXGtXntmS4weoNtxeNfLw6sOJKg02Vov569tCjZtFkiv4) to their show (alongside another mammoth live show from Schwefelgelb)._
 

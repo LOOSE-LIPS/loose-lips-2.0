@@ -6,7 +6,7 @@ type: post
 slug: resonance-series-7-helena-goddard
 author: 76
 banner:
-  - imported/resonance-series-7-helena-goddard/image1186.jpeg
+  - imported\resonance-series-7-helena-goddard\image1186.jpeg
 description: >-
   Welcome to this edition of &nbsp;the &#39;Resonance&#39; Series &#8211; a new
   feature, curated by Jasper Golding, about the interplay between art forms. A
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/resonance-series-7-helena-goddard/image1186.jpeg)_Welcome to this edition of  the 'Resonance' Series – a new feature, curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.__Music massively influences visual art, and vice versa. This feature, running every other Tuesday, introduces you to musical individuals via their visual art first, telling a personal story of their creative output and how different mediums influence each other._**Whether it’s photographing the juxtaposed architecture of singapore or depicting the harmonies of beautifully designed interiors, Helena’s work absorbs the beauty of the world, internal and external with an elegant hyperreality. Helena makes the world her home and knows how to explore a city, building deep relationships with fellow creatives. Most recently she has been pursuing her drawing and tattooing in Berlin.** 
+![image](../imported\resonance-series-7-helena-goddard\image1186.jpeg)_Welcome to this edition of  the 'Resonance' Series – a new feature, curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.__Music massively influences visual art, and vice versa. This feature, running every other Tuesday, introduces you to musical individuals via their visual art first, telling a personal story of their creative output and how different mediums influence each other._**Whether it’s photographing the juxtaposed architecture of singapore or depicting the harmonies of beautifully designed interiors, Helena’s work absorbs the beauty of the world, internal and external with an elegant hyperreality. Helena makes the world her home and knows how to explore a city, building deep relationships with fellow creatives. Most recently she has been pursuing her drawing and tattooing in Berlin.** 
 
 [Helena Goddard](https://soundcloud.com/helena-goddard "Helena Goddard") · [Red – Unfinished](https://soundcloud.com/helena-goddard/redunfinished "Red - Unfinished")
 

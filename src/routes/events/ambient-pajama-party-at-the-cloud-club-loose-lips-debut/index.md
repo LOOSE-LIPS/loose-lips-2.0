@@ -7,7 +7,7 @@ slug: ambient-pajama-party-at-the-cloud-club-loose-lips-debut
 author: 100
 banner:
   - >-
-    imported/ambient-pajama-party-at-the-cloud-club-loose-lips-debut/image2796.jpeg
+    imported\ambient-pajama-party-at-the-cloud-club-loose-lips-debut\image2796.jpeg
 description: >-
   We&#39;ve got a washy one for you on this here event. Two Loose Lips artists
   (Medallion Man / Kortzer) have trekked all the way across the pond to be here

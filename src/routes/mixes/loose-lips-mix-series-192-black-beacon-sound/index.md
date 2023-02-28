@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-192-black-beacon-sound
 author: 100
 banner:
-  - imported/loose-lips-mix-series-192-black-beacon-sound/image3130.jpeg
+  - imported\loose-lips-mix-series-192-black-beacon-sound\image3130.jpeg
 description: >-
   Benny and Toby have constructed loads of little loops, broken them down into
   their component parts, then put them back together, kind of like a musical

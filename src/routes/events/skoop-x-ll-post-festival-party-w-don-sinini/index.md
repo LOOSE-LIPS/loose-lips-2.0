@@ -6,7 +6,7 @@ type: event
 slug: skoop-x-ll-post-festival-party-w-don-sinini
 author: 100
 banner:
-  - imported/skoop-x-ll-post-festival-party-w-don-sinini/image2805.jpeg
+  - imported\skoop-x-ll-post-festival-party-w-don-sinini\image2805.jpeg
 description: >-
   As August once again draws to an inevitable close and Edinburgh breathes a
   cumulative sigh of relief, we invite you to come and celebrate making it

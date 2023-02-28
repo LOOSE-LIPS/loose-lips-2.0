@@ -6,7 +6,7 @@ type: post
 slug: the-140-roundup-january-2019
 author: 17
 banner:
-  - imported/the-140-roundup-january-2019/image744.jpeg
+  - imported\the-140-roundup-january-2019\image744.jpeg
 description: >-
   Switching years is the perfect moment to reflect on the past year and to look
   forward to what&rsquo;s coming next. When it comes to 140BPM sounds, 2018
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/the-140-roundup-january-2019/image744.jpeg)Switching years is the perfect moment to reflect on the past year and to look forward to what’s coming next. When it comes to 140BPM sounds, 2018 looked rejuvenated by new producers making waves, proactive crews keeping release schedules hectic and actual hits shaking dances worldwide. I have to say, though, that I’m expecting even more from 2019 as the energy and creativity seem just right at the moment. So, rather than compiling the best 2018 releases, I thought I’d open this first 2019 roundup with a few producers that you should definitely follow this year as they’re bound to provide great music.
+![image](../imported\the-140-roundup-january-2019\image744.jpeg)Switching years is the perfect moment to reflect on the past year and to look forward to what’s coming next. When it comes to 140BPM sounds, 2018 looked rejuvenated by new producers making waves, proactive crews keeping release schedules hectic and actual hits shaking dances worldwide. I have to say, though, that I’m expecting even more from 2019 as the energy and creativity seem just right at the moment. So, rather than compiling the best 2018 releases, I thought I’d open this first 2019 roundup with a few producers that you should definitely follow this year as they’re bound to provide great music.
 
 ![](/wp-content/uploads/live/img/wysiwyg/5c51ba92dfb30.jpg)
 

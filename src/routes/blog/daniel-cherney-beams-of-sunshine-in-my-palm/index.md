@@ -6,7 +6,7 @@ type: post
 slug: daniel-cherney-beams-of-sunshine-in-my-palm
 author: 100
 banner:
-  - imported/daniel-cherney-beams-of-sunshine-in-my-palm/image1056.jpeg
+  - imported\daniel-cherney-beams-of-sunshine-in-my-palm\image1056.jpeg
 description: >-
   In these times of chaos, a little bit a calm is always welcome; here&#39;s a
   piece that ticsk the box and engulfs the listener into a warm blanket of
@@ -19,4 +19,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/daniel-cherney-beams-of-sunshine-in-my-palm/image1056.jpeg)In these times of chaos, a little bit a calm is always welcome; here's a piece that ticsk the box and engulfs the listener into a warm blanket of serenity.From [Daniel Cherney](https://soundcloud.com/danielcherney)'s _The Precious Moments Of Being Present_ EPOut 30.03.2020 on digital – Pre-order: [](https://danielcherney.bandcamp.com/releases)[https://danielcherney.bandcamp.com/releases](https://danielcherney.bandcamp.com/releases)[](https://soundcloud.com/danielcherney)[https://soundcloud.com/danielcherney](https://soundcloud.com/danielcherney)
+![image](../imported\daniel-cherney-beams-of-sunshine-in-my-palm\image1056.jpeg)In these times of chaos, a little bit a calm is always welcome; here's a piece that ticsk the box and engulfs the listener into a warm blanket of serenity.From [Daniel Cherney](https://soundcloud.com/danielcherney)'s _The Precious Moments Of Being Present_ EPOut 30.03.2020 on digital – Pre-order: [](https://danielcherney.bandcamp.com/releases)[https://danielcherney.bandcamp.com/releases](https://danielcherney.bandcamp.com/releases)[](https://soundcloud.com/danielcherney)[https://soundcloud.com/danielcherney](https://soundcloud.com/danielcherney)

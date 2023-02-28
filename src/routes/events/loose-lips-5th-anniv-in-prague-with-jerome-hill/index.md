@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-5th-anniv-in-prague-with-jerome-hill
 author: 100
 banner:
-  - imported/loose-lips-5th-anniv-in-prague-with-jerome-hill/image2811.jpeg
+  - imported\loose-lips-5th-anniv-in-prague-with-jerome-hill\image2811.jpeg
 description: >-
   5 years since Loose Lips was born from a hyper discussion in a sweaty living
   room after coming back from a long night at Fabric in London! To celebrate

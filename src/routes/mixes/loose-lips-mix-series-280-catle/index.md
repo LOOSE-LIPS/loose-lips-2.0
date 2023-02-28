@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-280-catle
 author: 100
 banner:
-  - imported/loose-lips-mix-series-280-catle/image3218.jpeg
+  - imported\loose-lips-mix-series-280-catle\image3218.jpeg
 description: >-
   Our 280th is from CA$TLE! One of our editorial&#8217;s writers, who we met
   through @ekula_sixsunsets introducing us to his sick productions. @cazzztle

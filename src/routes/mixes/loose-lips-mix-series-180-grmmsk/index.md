@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-180-grmmsk
 author: 100
 banner:
-  - imported/loose-lips-mix-series-180-grmmsk/image3118.jpeg
+  - imported\loose-lips-mix-series-180-grmmsk\image3118.jpeg
 description: >-
   In anticipation of the Electrix Shox vs Loose Lips party at The Cause in
   Tottenham tonight, Helsinki-based producer GRMMSK has compiled a

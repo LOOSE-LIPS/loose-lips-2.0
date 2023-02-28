@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-297-celestial-grub
 author: 100
 banner:
-  - imported/loose-lips-mix-series-297-celestial-grub/image3235.jpeg
+  - imported\loose-lips-mix-series-297-celestial-grub\image3235.jpeg
 description: >-
   Celestial Grub joins the dots between hip hop, dub, techno and acid in a slow,
   psychedelic and dark outing. @celestialgrub Perfect for an exorcism, a blood

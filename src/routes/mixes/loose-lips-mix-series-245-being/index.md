@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-245-being
 author: 100
 banner:
-  - imported/loose-lips-mix-series-245-being/image3183.jpeg
+  - imported\loose-lips-mix-series-245-being\image3183.jpeg
 description: >-
   The Bristol &#038; Vietnam based DJ and producer, Being, takes his inspiration
   for this mix from the darker, jungle influenced styles of drum and bass. With

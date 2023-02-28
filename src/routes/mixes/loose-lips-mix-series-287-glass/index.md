@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-287-glass
 author: 100
 banner:
-  - imported/loose-lips-mix-series-287-glass/image3225.jpeg
+  - imported\loose-lips-mix-series-287-glass\image3225.jpeg
 description: >-
   We&#8217;re excited to have french duo Glass on this new Mix Series edition!
   They&#8217;ve cooked up this 60&#8242; dish of brain melting, limb flexing,

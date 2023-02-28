@@ -6,7 +6,7 @@ type: post
 slug: btek-musicology
 author: 146
 banner:
-  - imported/btek-musicology/image748.jpeg
+  - imported\btek-musicology\image748.jpeg
 description: >-
   A few words with Btek, an independent DJ, A&amp;R and Bookings Agent in the
   northern scene. Facebook &#8211; BT3KMusicology Talking about his events brand
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/btek-musicology/image748.jpeg)**A few words with Btek, an independent DJ, A&R and Bookings Agent in the northern scene.**[Facebook – BT3KMusicology](https://www.facebook.com/BT3KMusicology/)
+![image](../imported\btek-musicology\image748.jpeg)**A few words with Btek, an independent DJ, A&R and Bookings Agent in the northern scene.**[Facebook – BT3KMusicology](https://www.facebook.com/BT3KMusicology/)
 
 **Talking about his events brand Musicology and events that are lined up for 2019:**I have worked on the Elements events for 6 years alongside Nick Divine and Laurie Burton – Elements is strictly for hip hop gigs. Through running these events my passion grew and I decided I wanted to start a new brand, delving deeper into sonic territories – that's were Musicology was born. We put on underground events in intimate arts venues as a study of music, creating something different from your usual event. The ethos of musicology is to ask artists to play in more intimate surroundings and to play what they want, however they want and for as long as they want. Musicology aims to combine all styles of creativity, mixing in live art, live visuals, immersive decor and custom artwork. All profits from our events will feed back into the art spaces and venue’s to keep them alive because small independent venues are vital for the underground music scene. The imagery and branding for musicology was created by Dan Dowker.
 

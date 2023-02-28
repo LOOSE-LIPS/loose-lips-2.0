@@ -6,7 +6,7 @@ type: post
 slug: gazelle-twin-at-ctm-festival-berghain-january-31-2019
 author: 165
 banner:
-  - imported/gazelle-twin-at-ctm-festival-berghain-january-31-2019/image958.jpeg
+  - imported\gazelle-twin-at-ctm-festival-berghain-january-31-2019\image958.jpeg
 description: >-
   The main motive of the 20th CTM festival was perseverance. Perseverance in
   resisting the polarization of society and simplified rhetoric, exploring its
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/gazelle-twin-at-ctm-festival-berghain-january-31-2019/image958.jpeg)The main motive of the 20th CTM festival was perseverance. Perseverance in resisting the polarization of society and simplified rhetoric, exploring its opposite – "the ephemeral, provincial" and emphasizing personal artistic experience as a means of empathy, pluralism, as an antidote to absolute truths. The most illustrious embodiment of this discourse at the festival was certainly the British musician Gazelle Twin, who performer last year's album _Pastoral_, reflecting Brexit and English culture.
+![image](../imported\gazelle-twin-at-ctm-festival-berghain-january-31-2019\image958.jpeg)The main motive of the 20th CTM festival was perseverance. Perseverance in resisting the polarization of society and simplified rhetoric, exploring its opposite – "the ephemeral, provincial" and emphasizing personal artistic experience as a means of empathy, pluralism, as an antidote to absolute truths. The most illustrious embodiment of this discourse at the festival was certainly the British musician Gazelle Twin, who performer last year's album _Pastoral_, reflecting Brexit and English culture.
 
 Since her debut in 2011, Elizabeth Bernholz (born Walling) aka Gazelle Twin has dealt with uncomfortable topics and explored the darker side of life. The impulse to focus an album on this event that left Britain in uncertainty arose from her move from Brighton to the English countryside, and from the growing fascist and racist tendencies plowing Europe.
 

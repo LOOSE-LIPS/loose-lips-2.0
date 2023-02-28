@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-usacanada-tour
 author: 100
 banner:
-  - imported/loose-lips-usacanada-tour/image2791.jpeg
+  - imported\loose-lips-usacanada-tour\image2791.jpeg
 description: >-
   OIOI Information on the specific gigs on separate event pages. [...]Read
   More...

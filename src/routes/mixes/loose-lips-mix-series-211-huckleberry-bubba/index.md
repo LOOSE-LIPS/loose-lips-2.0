@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-211-huckleberry-bubba
 author: 100
 banner:
-  - imported/loose-lips-mix-series-211-huckleberry-bubba/image3147.jpeg
+  - imported\loose-lips-mix-series-211-huckleberry-bubba\image3147.jpeg
 description: >-
   Leeds-based selector whose sets on Manchester&#8217;s Limbo Radio have really
   impressed us. TRACKLIST: Undisclosed. [...]Read More...

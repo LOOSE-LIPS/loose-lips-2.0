@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-213-tales-of-sleepless-souls
 author: 100
 banner:
-  - imported/loose-lips-mix-series-213-tales-of-sleepless-souls/image3151.jpeg
+  - imported\loose-lips-mix-series-213-tales-of-sleepless-souls\image3151.jpeg
 description: >-
   2 Souls, 1 Energy, Not Enough Sleep
   https://www.facebook.com/talesofsleeplesssouls

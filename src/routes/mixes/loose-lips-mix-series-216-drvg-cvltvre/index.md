@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-216-drvg-cvltvre
 author: 100
 banner:
-  - imported/loose-lips-mix-series-216-drvg-cvltvre/image3154.jpeg
+  - imported\loose-lips-mix-series-216-drvg-cvltvre\image3154.jpeg
 description: >-
   THIS FRIDAY! We&#8217;re hosting Drvg Cvltvre&#8217;s Manchester debut!
   Absolute pleasure to host this mental mix from him as a wee taster&#8230;

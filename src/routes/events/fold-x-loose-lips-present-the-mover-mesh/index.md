@@ -6,7 +6,7 @@ type: event
 slug: fold-x-loose-lips-present-the-mover-mesh
 author: 100
 banner:
-  - imported/fold-x-loose-lips-present-the-mover-mesh/image2800.jpeg
+  - imported\fold-x-loose-lips-present-the-mover-mesh\image2800.jpeg
 description: >-
   FOLD &amp; Loose Lips go hard.. Joining forces to bring hardcore techno legend
   THE MOVER to LDN for the first time in 25 yrs ! The Mover (live) M.E.S.H.

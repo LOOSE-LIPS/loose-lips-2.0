@@ -6,7 +6,7 @@ type: post
 slug: dnb-fix-003-never-stop-kumarachi-dj-hybrid-remix
 author: 153
 banner:
-  - imported/dnb-fix-003-never-stop-kumarachi-dj-hybrid-remix/image1003.jpeg
+  - imported\dnb-fix-003-never-stop-kumarachi-dj-hybrid-remix\image1003.jpeg
 description: >-
   We&rsquo;re back for 2020!&nbsp; Having finally got over the holiday blues,
   and the withdrawal; we&rsquo;re back with another Drum and Bass showcase.
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/dnb-fix-003-never-stop-kumarachi-dj-hybrid-remix/image1003.jpeg)_We’re back for 2020!_ _Having finally got over the holiday blues, and the withdrawal; we’re back with another Drum and Bass showcase.  This week we’ve got the new Deep in the Jungle album._The sixth instalment of this epic release contains tunes from Substrate, Veak, Conrad Subs and Stompz. But our pick this time round comes from Kumarachi in the form of Never Stop; with DJ Hybrid on the remix.
+![image](../imported\dnb-fix-003-never-stop-kumarachi-dj-hybrid-remix\image1003.jpeg)_We’re back for 2020!_ _Having finally got over the holiday blues, and the withdrawal; we’re back with another Drum and Bass showcase.  This week we’ve got the new Deep in the Jungle album._The sixth instalment of this epic release contains tunes from Substrate, Veak, Conrad Subs and Stompz. But our pick this time round comes from Kumarachi in the form of Never Stop; with DJ Hybrid on the remix.
 
 DJ Hybrid, the Award-Winning UK based producer comes through once again remixing Kumarachi’s 2019 banger “Never Stop” from the Time is Now EP on Deep in the Jungle.Unforgiving duelling snares and an upgraded bassline capture the listener within its hardcore infused grasp. The timely return of the gunshot drop is a welcome addition, all but lost in recent years despite being such a focal point in the past. The rest of the release is nothing to be missed too, some absolute bangers be lurking in the jungle right now. Expect to hear this getting rinsed at a rave near you. Maybe at our Jungle and Hardcore Marathon in Feb? Who knows?
 

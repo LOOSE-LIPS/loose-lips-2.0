@@ -6,7 +6,7 @@ type: event
 slug: electrix-shox-vs-loose-lips
 author: 100
 banner:
-  - imported/electrix-shox-vs-loose-lips/image2765.jpeg
+  - imported\electrix-shox-vs-loose-lips\image2765.jpeg
 description: >-
   To raise funds for MIND, an amazing UK mental health charity formed in 1946,
   there&#39;s a special special 2 room rave going down at Tottenham&#39;s

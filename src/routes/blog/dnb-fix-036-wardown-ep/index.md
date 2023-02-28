@@ -6,7 +6,7 @@ type: post
 slug: dnb-fix-036-wardown-ep
 author: 99
 banner:
-  - imported/dnb-fix-036-wardown-ep/image1320.jpeg
+  - imported\dnb-fix-036-wardown-ep\image1320.jpeg
 description: >-
   It&rsquo;s an eponymous project from Pete Rogers of Technimatic up this week;
   With all the intensity of a Technimatic outing, yet even more personal and
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/dnb-fix-036-wardown-ep/image1320.jpeg)_It’s an eponymous project from Pete Rogers of Technimatic up this week; With all the intensity of a Technimatic outing, yet even more personal and experimental. Emotive yet tranquilising, Wardown is that little bit of catharsis we all need._Is this a concept album? well, kind of. The axis of this album is the town of Luton, with the album name itself referencing a park in Rogers’ hometown. Wardown is a melancholic sojourn through the most gorgeous of soundscapes. Featuring many samples from Rogers own youth entwined with the recognisable ragga accapellas from Jungle, and stabs of soul found in House, cuts from documentary, recordings of deceased family members, and field recordings from the town of Luton itself. This album is a melting pot of absolute liquid gold; haunting, beautiful, somewhat ethereal. It’s sonically huge, offering wistful tunes built from layers of the cinematic, with amens and 2-steps that weave in and out of focus. It’s easy to get lost in the more experimental sonics of Wardown, to then resurface and roll along with the mighty amen rhythms on tunes such as ‘Culverhouse’. This track is a colossal smash of euphoria, with a soul sample that touches your own.
+![image](../imported\dnb-fix-036-wardown-ep\image1320.jpeg)_It’s an eponymous project from Pete Rogers of Technimatic up this week; With all the intensity of a Technimatic outing, yet even more personal and experimental. Emotive yet tranquilising, Wardown is that little bit of catharsis we all need._Is this a concept album? well, kind of. The axis of this album is the town of Luton, with the album name itself referencing a park in Rogers’ hometown. Wardown is a melancholic sojourn through the most gorgeous of soundscapes. Featuring many samples from Rogers own youth entwined with the recognisable ragga accapellas from Jungle, and stabs of soul found in House, cuts from documentary, recordings of deceased family members, and field recordings from the town of Luton itself. This album is a melting pot of absolute liquid gold; haunting, beautiful, somewhat ethereal. It’s sonically huge, offering wistful tunes built from layers of the cinematic, with amens and 2-steps that weave in and out of focus. It’s easy to get lost in the more experimental sonics of Wardown, to then resurface and roll along with the mighty amen rhythms on tunes such as ‘Culverhouse’. This track is a colossal smash of euphoria, with a soul sample that touches your own.
 
 [Blu Mar Ten](https://soundcloud.com/blumarten "Blu Mar Ten") · [Wardown 10-minute Album Preview](https://soundcloud.com/blumarten/wardown-10-minute-album-preview "Wardown 10-minute Album Preview")
 

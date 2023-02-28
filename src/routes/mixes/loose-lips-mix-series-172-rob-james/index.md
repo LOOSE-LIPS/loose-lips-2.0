@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-172-rob-james
 author: 100
 banner:
-  - imported/loose-lips-mix-series-172-rob-james/image3110.jpeg
+  - imported\loose-lips-mix-series-172-rob-james\image3110.jpeg
 description: >-
   Rob James is the co-founder of Birmingham Cultural collective &#8216;Project
   Birmingham&#8217; and helps run local club night &#8216;MoodFix&#8217; where

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-226-transparent-sound
 author: 100
 banner:
-  - imported/loose-lips-mix-series-226-transparent-sound/image3165.jpeg
+  - imported\loose-lips-mix-series-226-transparent-sound\image3165.jpeg
 description: >-
   Next up on our Mix Series is Electro veteran Transparent Sound dropping this
   excellent vinyl mix for us! @transparent-sound @orsonrecords The resurgent

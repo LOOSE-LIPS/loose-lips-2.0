@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-276-prince-of-deptford
 author: 100
 banner:
-  - imported/loose-lips-mix-series-276-prince-of-deptford/image3214.jpeg
+  - imported\loose-lips-mix-series-276-prince-of-deptford\image3214.jpeg
 description: >-
   276 wonderfully delivered by the enigmatic Prince of Deptford, a Berlin-based
   friend who we met via @threadsradio&#8217;s exciting pop-up streams in

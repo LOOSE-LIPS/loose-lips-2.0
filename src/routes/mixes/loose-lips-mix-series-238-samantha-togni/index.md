@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-238-samantha-togni
 author: 100
 banner:
-  - imported/loose-lips-mix-series-238-samantha-togni/image3176.jpeg
+  - imported\loose-lips-mix-series-238-samantha-togni\image3176.jpeg
 description: >-
   We&#8217;re delighted to have Samantha Togni on board for the next instalment
   of our Mix Series! Unrelenting Techno with a well deserved capital T! Running

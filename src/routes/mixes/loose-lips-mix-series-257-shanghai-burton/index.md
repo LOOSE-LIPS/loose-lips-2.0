@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-257-shanghai-burton
 author: 100
 banner:
-  - imported/loose-lips-mix-series-257-shanghai-burton/image3194.jpeg
+  - imported\loose-lips-mix-series-257-shanghai-burton\image3194.jpeg
 description: >-
   For the 257th edition of out Mix Series we have Shanghai Burton on the helm
   delivering a selection of tracks with a focus on the best the 2019 summer had

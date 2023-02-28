@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-241-korzi
 author: 100
 banner:
-  - imported/loose-lips-mix-series-241-korzi/image3178.jpeg
+  - imported\loose-lips-mix-series-241-korzi\image3178.jpeg
 description: >-
   A little bit of this, a little bit of that. This transmission is a compilation
   of all sorts of bass-weight, techno and general two footed slide tackles that

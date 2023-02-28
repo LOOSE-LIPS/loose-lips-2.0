@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-208-houzmon
 author: 100
 banner:
-  - imported/loose-lips-mix-series-208-houzmon/image3145.jpeg
+  - imported\loose-lips-mix-series-208-houzmon\image3145.jpeg
 description: >-
   Shake that booty! https://www.facebook.com/Houzmonfanpage The godfather of
   Ghetto Houz, Orchid Records founder, with legendary releases on Dance Mania

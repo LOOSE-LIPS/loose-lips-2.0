@@ -7,11 +7,11 @@ slug: kortzers-sunday-jams-luther-allison-its-been-a-long-time
 author: 96
 banner:
   - >-
-    imported/kortzers-sunday-jams-luther-allison-its-been-a-long-time/image903.jpeg
+    imported\kortzers-sunday-jams-luther-allison-its-been-a-long-time\image903.jpeg
 description: '[...]Read More...'
 published: true
 tags:
   - post
 featured: false
 ---
-![image](../imported/kortzers-sunday-jams-luther-allison-its-been-a-long-time/image903.jpeg)
+![image](../imported\kortzers-sunday-jams-luther-allison-its-been-a-long-time\image903.jpeg)

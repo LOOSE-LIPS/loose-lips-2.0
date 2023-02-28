@@ -6,7 +6,7 @@ type: event
 slug: threads-promoters-unite-easter-sunday-rave
 author: 100
 banner:
-  - imported/threads-promoters-unite-easter-sunday-rave/image2785.jpeg
+  - imported\threads-promoters-unite-easter-sunday-rave\image2785.jpeg
 description: >-
   Like never before&#8230; At the amazing club that sits below the Threads Radio
   HQ, 15 promoters who host shows on the station team up to celebrate the

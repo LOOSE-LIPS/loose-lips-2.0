@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-259-mirko-popov-pmg-recordings
 author: 100
 banner:
-  - imported/loose-lips-mix-series-259-mirko-popov-pmg-recordings/image3197.jpeg
+  - imported\loose-lips-mix-series-259-mirko-popov-pmg-recordings\image3197.jpeg
 description: >-
   Our first Mix Series of the year sees Macedonian electronic music pioneer
   Mirko Popov offering a tasteful blend of Techno, House, Electro, Pop and his

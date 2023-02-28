@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-294-chalky
 author: 100
 banner:
-  - imported/loose-lips-mix-series-294-chalky/image3232.jpeg
+  - imported\loose-lips-mix-series-294-chalky\image3232.jpeg
 description: >-
   Blood, sweat, tears, 30 quid and a total of 12 well spent hours went into
   putting this mix together. And it shows &#8211; the mysterious Chalky gets

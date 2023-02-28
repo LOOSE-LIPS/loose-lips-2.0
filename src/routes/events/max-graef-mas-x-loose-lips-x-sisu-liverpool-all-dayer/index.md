@@ -7,7 +7,7 @@ slug: max-graef-mas-x-loose-lips-x-sisu-liverpool-all-dayer
 author: 100
 banner:
   - >-
-    imported/max-graef-mas-x-loose-lips-x-sisu-liverpool-all-dayer/image2764.jpeg
+    imported\max-graef-mas-x-loose-lips-x-sisu-liverpool-all-dayer\image2764.jpeg
 description: >-
   The terrible trio&#8230;a match made in heaven! Locals M&aacute;s combine
   forces for a 2-space all-dayer with all-female artistic community, SISU, and

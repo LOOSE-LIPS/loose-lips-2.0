@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-288-dj-lynce
 author: 100
 banner:
-  - imported/loose-lips-mix-series-288-dj-lynce/image3226.jpeg
+  - imported\loose-lips-mix-series-288-dj-lynce\image3226.jpeg
 description: >-
   We&#8217;re inviting you to dive into this out-of-time mix from Portuguese DJ
   and avid record collector, DJ Lynce. Digging from obscure lo-fi electronic dub

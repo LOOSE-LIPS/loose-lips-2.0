@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-263-ballsdeep
 author: 100
 banner:
-  - imported/loose-lips-mix-series-263-ballsdeep/image3201.jpeg
+  - imported\loose-lips-mix-series-263-ballsdeep\image3201.jpeg
 description: >-
   On our next entry, Yourboybarold &#038; PlayingWithScissors representing
   Ballsdeep showcase their deep groovy underground sound! Putting on decisively

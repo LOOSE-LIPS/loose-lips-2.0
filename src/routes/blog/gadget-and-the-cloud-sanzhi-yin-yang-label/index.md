@@ -6,7 +6,7 @@ type: post
 slug: gadget-and-the-cloud-sanzhi-yin-yang-label
 author: 100
 banner:
-  - imported/gadget-and-the-cloud-sanzhi-yin-yang-label/image1250.jpeg
+  - imported\gadget-and-the-cloud-sanzhi-yin-yang-label\image1250.jpeg
 description: >-
   Cork-based producer Gadget And The Cloud delivers a galloping techno number
   with lofi textures and airy pads. From Complex Contrast V/A on Yin Yang Label.
@@ -20,5 +20,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/gadget-and-the-cloud-sanzhi-yin-yang-label/image1250.jpeg)Cork-based producer [Gadget And The Cloud](https://gadgetandthecloud.bandcamp.com/music) delivers a galloping techno number with lofi textures and airy pads.From _Complex Contrast_ V/A on [Yin Yang Label](https://yinyanglabel.bandcamp.com/).Out 04.09.2020 on digital – Pre-order: [https://yinyanglabel.bandcamp.com/album/complex-contrast-v-a](https://yinyanglabel.bandcamp.com/album/complex-contrast-v-a)[https://soundcloud.com/yinyanglabel](https://soundcloud.com/yinyanglabel)  
+![image](../imported\gadget-and-the-cloud-sanzhi-yin-yang-label\image1250.jpeg)Cork-based producer [Gadget And The Cloud](https://gadgetandthecloud.bandcamp.com/music) delivers a galloping techno number with lofi textures and airy pads.From _Complex Contrast_ V/A on [Yin Yang Label](https://yinyanglabel.bandcamp.com/).Out 04.09.2020 on digital – Pre-order: [https://yinyanglabel.bandcamp.com/album/complex-contrast-v-a](https://yinyanglabel.bandcamp.com/album/complex-contrast-v-a)[https://soundcloud.com/yinyanglabel](https://soundcloud.com/yinyanglabel)  
 [https://soundcloud.com/gadgetandthecloud](https://soundcloud.com/gadgetandthecloud)Combining a stellar pool of sounds from across the spectrum of electronic music, Yin Yang marks a new beginning with the launch of its label and subsequent release of an exceptional 25 track various artist compilation. Complex Contrast is an amalgamation of distinct ideas, forming a cohesive soundscape to truly represent the label's essence.

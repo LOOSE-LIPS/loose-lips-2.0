@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-deep-cuts
 author: 100
 banner:
-  - imported/loose-lips-deep-cuts/image2819.jpeg
+  - imported\loose-lips-deep-cuts\image2819.jpeg
 description: "Our first in-person LL event since the start of lockdown!! So excited to be back \U0001F642 Loose Lips&rsquo; Deep Cuts aims to share the diverse ways we experience music. Starting life as a monthly editorial feature with writers, DJs and artists responding to a shared theme, on September 13th we will be bringing that expressive [...]Read More..."
 published: true
 tags:

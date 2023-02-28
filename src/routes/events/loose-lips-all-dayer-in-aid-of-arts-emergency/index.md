@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-all-dayer-in-aid-of-arts-emergency
 author: 100
 banner:
-  - imported/loose-lips-all-dayer-in-aid-of-arts-emergency/image2767.jpeg
+  - imported\loose-lips-all-dayer-in-aid-of-arts-emergency\image2767.jpeg
 description: >-
   To wave goodbye to summer, we&#39;re raising funds and spreading the awareness
   of Arts Emergency, an amazing North London-based charity who work with

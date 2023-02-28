@@ -6,7 +6,7 @@ type: post
 slug: anzolas-daytrip
 author: 100
 banner:
-  - imported/anzolas-daytrip/image1353.jpeg
+  - imported\anzolas-daytrip\image1353.jpeg
 description: >-
   Well hello there sweet friends of mine! I recently got a noise complaint from
   my downstairs neighbours; I&#39;ve been blasting house and techno everyday in
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/anzolas-daytrip/image1353.jpeg)**_Well hello there sweet friends of mine! I recently got a noise complaint from my downstairs neighbours; I've been blasting house and techno everyday in an attempt to induce productivity, particularly Moxie's show on NTS, particularly an_** [**_episode_**](https://www.mixcloud.com/NTSRadio/moxie-11th-november-2020/) **_with a guest mix by Pursuit Grooves, a fantastic Canadian DJ whose mix put me onto a fantastic Canadian producer; Anzola. I gave my neighbours the youtube link to Anzola's Say That Again and now they're fucking stoners who couldn't care less. Those rich warm synths are enough to make good in this world, so good I had to contact the guy and ask him to take me for a sonic walk around his neighbourhood, rising with energy and then settling into calmness. Here it is, all Anzola's picks are gathered in_** [**_this_**](https://open.spotify.com/playlist/24BloaJCQmIKaAsHmiZTvw) **_Spotify playlist._**
+![image](../imported\anzolas-daytrip\image1353.jpeg)**_Well hello there sweet friends of mine! I recently got a noise complaint from my downstairs neighbours; I've been blasting house and techno everyday in an attempt to induce productivity, particularly Moxie's show on NTS, particularly an_** [**_episode_**](https://www.mixcloud.com/NTSRadio/moxie-11th-november-2020/) **_with a guest mix by Pursuit Grooves, a fantastic Canadian DJ whose mix put me onto a fantastic Canadian producer; Anzola. I gave my neighbours the youtube link to Anzola's Say That Again and now they're fucking stoners who couldn't care less. Those rich warm synths are enough to make good in this world, so good I had to contact the guy and ask him to take me for a sonic walk around his neighbourhood, rising with energy and then settling into calmness. Here it is, all Anzola's picks are gathered in_** [**_this_**](https://open.spotify.com/playlist/24BloaJCQmIKaAsHmiZTvw) **_Spotify playlist._**
 
 I’m a big fan of a steady tempo and a thumpy bassline like this one. The plucked guitars, how Benny comes in on verse 2 with the strings! It’s a beautiful thing. The mix is ridiculously fat, the way the piano sits with snare. Short and sweet! Perfect to get the days started 
 

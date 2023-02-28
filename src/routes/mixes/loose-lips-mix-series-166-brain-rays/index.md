@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-166-brain-rays
 author: 100
 banner:
-  - imported/loose-lips-mix-series-166-brain-rays/image3104.jpeg
+  - imported\loose-lips-mix-series-166-brain-rays\image3104.jpeg
 description: >-
   To promote the official release of Air Max (feat. Neil Landstrumm) on My
   Techno Weighs A Ton, forthcoming in the next few days, Brain Rays has put

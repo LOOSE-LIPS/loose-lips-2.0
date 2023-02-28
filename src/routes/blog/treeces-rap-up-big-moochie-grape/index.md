@@ -6,7 +6,7 @@ type: post
 slug: treeces-rap-up-big-moochie-grape
 author: 158
 banner:
-  - imported/treeces-rap-up-big-moochie-grape/image1086.jpeg
+  - imported\treeces-rap-up-big-moochie-grape\image1086.jpeg
 description: >-
   Treece is back again for his 2nd edition of Rap Up, introducing you to his
   favourite new wordplay. if you missed the last edition, he reviewed Stove God
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/treeces-rap-up-big-moochie-grape/image1086.jpeg)_Treece is back again for his 2nd edition of Rap Up, introducing you to his favourite new wordplay. if you missed the last edition, he reviewed Stove God Cook$' debut; 'Reasonable Drought'. This time round, heading to the south, he had to pick another debut: 'Big Moochie Grape – Eat Or Get Ate'…_
+![image](../imported\treeces-rap-up-big-moochie-grape\image1086.jpeg)_Treece is back again for his 2nd edition of Rap Up, introducing you to his favourite new wordplay. if you missed the last edition, he reviewed Stove God Cook$' debut; 'Reasonable Drought'. This time round, heading to the south, he had to pick another debut: 'Big Moochie Grape – Eat Or Get Ate'…_
 
 _![](/wp-content/uploads/live/img/wysiwyg/5e9f7c39c09c9.jpg)_
 

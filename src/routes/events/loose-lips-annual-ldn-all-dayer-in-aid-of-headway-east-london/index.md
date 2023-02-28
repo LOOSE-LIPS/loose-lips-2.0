@@ -7,7 +7,7 @@ slug: loose-lips-annual-ldn-all-dayer-in-aid-of-headway-east-london
 author: 100
 banner:
   - >-
-    imported/loose-lips-annual-ldn-all-dayer-in-aid-of-headway-east-london/image2808.jpeg
+    imported\loose-lips-annual-ldn-all-dayer-in-aid-of-headway-east-london\image2808.jpeg
 description: >-
   To wave goodbye to summer, we&#39;re raising funds and spreading the awareness
   of Headway East London, a charity supporting people affected by brain injury.

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-305-neutral-territory
 author: 100
 banner:
-  - imported/loose-lips-mix-series-305-neutral-territory/image3243.jpeg
+  - imported\loose-lips-mix-series-305-neutral-territory\image3243.jpeg
 description: >-
   Oioi! Our head of editorial don and regular co-host on our weekly
   @threadsradio show, has put this 2h mix together for us! @neutral_territory

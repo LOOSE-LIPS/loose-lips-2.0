@@ -6,7 +6,7 @@ type: post
 slug: picks-makatons-krautrock-rhythms
 author: 105
 banner:
-  - imported/picks-makatons-krautrock-rhythms/image1123.jpeg
+  - imported\picks-makatons-krautrock-rhythms\image1123.jpeg
 description: >-
   Do you want it darker? Do you??? We&#39;ve got Makaton, the Birmingham Techno
   cult legend with 22 years of unique beats under his belt in, sharing a slice
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/picks-makatons-krautrock-rhythms/image1123.jpeg)_Do you want it darker? Do you??? We've got Makaton, the Birmingham Techno cult legend with 22 years of unique beats under his belt in, sharing a slice of his record collection that has influenced his sound (as displayed in sizzling live sets, alongside his imprint_ [_Rodz-Konez_](https://poison.rodz-konez.co.uk/)_). We've gathered the tunes in_ [_this here_](https://open.spotify.com/playlist/1UtmPhteO1MI3DiDek9u5N?si=3wLs6aB_QEKn1zEiUnwMAA) _Spotify playlist too. Enjoy!_
+![image](../imported\picks-makatons-krautrock-rhythms\image1123.jpeg)_Do you want it darker? Do you??? We've got Makaton, the Birmingham Techno cult legend with 22 years of unique beats under his belt in, sharing a slice of his record collection that has influenced his sound (as displayed in sizzling live sets, alongside his imprint_ [_Rodz-Konez_](https://poison.rodz-konez.co.uk/)_). We've gathered the tunes in_ [_this here_](https://open.spotify.com/playlist/1UtmPhteO1MI3DiDek9u5N?si=3wLs6aB_QEKn1zEiUnwMAA) _Spotify playlist too. Enjoy!_
 
 Cluster is one of my favourite bands and _Rosa_ is timeless. Never get bored listening to this, experimental, melodic and just beautiful.
 

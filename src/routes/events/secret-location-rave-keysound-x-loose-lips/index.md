@@ -6,7 +6,7 @@ type: event
 slug: secret-location-rave-keysound-x-loose-lips
 author: 100
 banner:
-  - imported/secret-location-rave-keysound-x-loose-lips/image2814.jpeg
+  - imported\secret-location-rave-keysound-x-loose-lips\image2814.jpeg
 description: >-
   The London edition of this collaborative party series celebrating Loose
   Lips&#39; fifth birthday sees the local crew link up with a stalwart of the

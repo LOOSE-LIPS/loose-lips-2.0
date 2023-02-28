@@ -6,7 +6,7 @@ type: post
 slug: dr-doctor
 author: 128
 banner:
-  - imported/dr-doctor/image725.jpeg
+  - imported\dr-doctor\image725.jpeg
 description: >-
   Through his various roles such as creator, sonic sculptor, curator, label
   manager and radio host, Dr Doctor has been a powerful unifying force on the
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/dr-doctor/image725.jpeg)Through his various roles such as creator, sonic sculptor, curator, label manager and radio host, Dr Doctor has been a powerful unifying force on the underground electronic music scene. His work with the E.L.M Collective label has brought together a variety of producers on three superb compilations. The latest compilation “psionics” has just been released and here we discuss his involvement with esoterica, electronica and psychedelia.![](/wp-content/uploads/live/img/wysiwyg/5c37d305599e2.jpg)
+![image](../imported\dr-doctor\image725.jpeg)Through his various roles such as creator, sonic sculptor, curator, label manager and radio host, Dr Doctor has been a powerful unifying force on the underground electronic music scene. His work with the E.L.M Collective label has brought together a variety of producers on three superb compilations. The latest compilation “psionics” has just been released and here we discuss his involvement with esoterica, electronica and psychedelia.![](/wp-content/uploads/live/img/wysiwyg/5c37d305599e2.jpg)
 
 **You have put out** **four** **eclectic compilations to great effect and in very little time. How has the exp****erience been for you as curator and promoter?** 
 

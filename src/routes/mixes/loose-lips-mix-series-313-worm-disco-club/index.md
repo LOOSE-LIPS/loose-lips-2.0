@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-313-worm-disco-club
 author: 100
 banner:
-  - imported/loose-lips-mix-series-313-worm-disco-club/image3251.jpeg
+  - imported\loose-lips-mix-series-313-worm-disco-club\image3251.jpeg
 description: >-
   Worm Disco Club have concocted a sunny, 100% wax cocktail to heat you up,
   containing a healthy dose of carefully selected ingredients from the

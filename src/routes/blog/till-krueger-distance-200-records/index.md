@@ -6,7 +6,7 @@ type: post
 slug: till-krueger-distance-200-records
 author: 100
 banner:
-  - imported/till-krueger-distance-200-records/image1351.jpeg
+  - imported\till-krueger-distance-200-records\image1351.jpeg
 description: >-
   A deeply soothing dubby number, calmly massaging any overworked synapses. From
   Till Kr&uuml;ger&#39;s Gravity LP on 200 Records. Out now on 2&#215;12&quot;
@@ -18,5 +18,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/till-krueger-distance-200-records/image1351.jpeg)A deeply soothing dubby number, calmly massaging any overworked synapses.From [Till Krüger](https://till-krueger.bandcamp.com)'s _Gravity_ LP on [200 Records](http://www.200-records.com/).Out now on 2×12" and digital – [https://till-krueger.bandcamp.com/album/gravity](https://till-krueger.bandcamp.com/album/gravity)[https://soundcloud.com/200music](https://soundcloud.com/200music)  
+![image](../imported\till-krueger-distance-200-records\image1351.jpeg)A deeply soothing dubby number, calmly massaging any overworked synapses.From [Till Krüger](https://till-krueger.bandcamp.com)'s _Gravity_ LP on [200 Records](http://www.200-records.com/).Out now on 2×12" and digital – [https://till-krueger.bandcamp.com/album/gravity](https://till-krueger.bandcamp.com/album/gravity)[https://soundcloud.com/200music](https://soundcloud.com/200music)  
 [https://soundcloud.com/till-krueger](https://soundcloud.com/till-krueger)

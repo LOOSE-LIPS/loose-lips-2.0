@@ -6,7 +6,7 @@ type: post
 slug: sultan-shakes-fold
 author: 111
 banner:
-  - imported/sultan-shakes-fold/image859.jpeg
+  - imported\sultan-shakes-fold\image859.jpeg
 description: >-
   Medallion Man interviews fellow-curator,&nbsp;Sultan Shakes,
   following&nbsp;their night at FOLD this Saturday. What does The Mover mean to
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/sultan-shakes-fold/image859.jpeg)_Medallion Man interviews fellow-curator,_ [_Sultan Shakes_](https://www.facebook.com/sultanshakes/)_, following_ [_their night at FOLD this Saturday_](https://www.facebook.com/events/1082849241922269/)_._
+![image](../imported\sultan-shakes-fold\image859.jpeg)_Medallion Man interviews fellow-curator,_ [_Sultan Shakes_](https://www.facebook.com/sultanshakes/)_, following_ [_their night at FOLD this Saturday_](https://www.facebook.com/events/1082849241922269/)_._
 
 **What does The Mover mean to you?** Discovering The Mover was like finding the missing chapter in the idiots guide to rave.**How scared were you when I proposed the collaboration with Loose Lips?**I can’t help being intimidated about spending an inordinate amount of time with you. **Please share 4 tracks from apparently different ‘genres’ which you feel all owe huge dividends to The Mover’s influence.**Here’s five which are blatantly influenced – from multi million selling pop tunes to cult classics…  
 **Can you sum up what the gravity of that musical influence The Mover has had, is?**Without gravity Rave would be weightless. He brought a euro centric dismal symphony to the table – emotive tracks that crushed. He essentially divided the techno world at the time and went on to be the popular face of hard style. It doesn’t smear his influence – he opened the gateway for some serious noise, just so happens it got a little out of hand.**Why are you passionate about curation?**Curation fascinated me because I’m passionate about where music comes from. Through my own music making I’m constantly thinking about the spring well – where archetypes form ideas.  

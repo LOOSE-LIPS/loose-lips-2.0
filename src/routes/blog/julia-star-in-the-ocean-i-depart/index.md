@@ -6,7 +6,7 @@ type: post
 slug: julia-star-in-the-ocean-i-depart
 author: 164
 banner:
-  - imported/julia-star-in-the-ocean-i-depart/image936.jpeg
+  - imported\julia-star-in-the-ocean-i-depart\image936.jpeg
 description: >-
   Julia Star reminds me of tv characters like Fleabag&rsquo;s Claire and Broad
   City&rsquo;s Iliana. She has Claire&rsquo;s cutting anxiety and Iliana&rsquo;s
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/julia-star-in-the-ocean-i-depart/image936.jpeg)Julia Star reminds me of tv characters like Fleabag’s Claire and Broad City’s Iliana. She has Claire’s cutting anxiety and Iliana’s rockstar swagger, but what really brings them to mind when listening to _In The Ocean I Depart_, the new ep written, performed and produced by the Star, is representation. I felt like I recognised these characters when I first met them onscreen. I didn’t recognise them from any similar characters I’d seen on tv, only from people I had met and had actual conversations with, in my own life. 
+![image](../imported\julia-star-in-the-ocean-i-depart\image936.jpeg)Julia Star reminds me of tv characters like Fleabag’s Claire and Broad City’s Iliana. She has Claire’s cutting anxiety and Iliana’s rockstar swagger, but what really brings them to mind when listening to _In The Ocean I Depart_, the new ep written, performed and produced by the Star, is representation. I felt like I recognised these characters when I first met them onscreen. I didn’t recognise them from any similar characters I’d seen on tv, only from people I had met and had actual conversations with, in my own life. 
 
 Those characters, those manifestations of a certain kind of human existence, I’d never seen them represented anywhere else. Like sure maybe some singers or actors I knew were anxious, insecure mothers, or [bisexual semi-weed addicts](https://www.youtube.com/watch?v=uIXdWK0pHmg) with a high sex drive, but you wouldn’t see that directly played out in their work. Like, you wouldn’t see moments wherein they get to fully, creatively express what it’s like to be that person. 
 

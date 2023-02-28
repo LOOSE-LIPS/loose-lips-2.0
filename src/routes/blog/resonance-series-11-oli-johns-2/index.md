@@ -6,7 +6,7 @@ type: post
 slug: resonance-series-11-oli-johns-2
 author: 76
 banner:
-  - imported/resonance-series-11-oli-johns-2/image1165.jpeg
+  - imported\resonance-series-11-oli-johns-2\image1165.jpeg
 description: >-
   Welcome to the next installment of the &#39;Resonance Series&#39; -Music
   massively influences visual art, and vice versa. This monthly feature
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/resonance-series-11-oli-johns-2/image1165.jpeg)_Welcome to the next installment of the 'Resonance Series' -Music massively influences visual art, and vice versa. This monthly feature introduces you to musical individuals through the other art forms that they engage in, telling a personal story of their creative output and how different mediums influence each other._Since studying sound at Brighton university, Oli Johns discovered an appetite for audio in space. Using his leftfield creativity to upturn conventions surrounding dance music, simulation, digital media and audio, Oli turned towards reproduction of physical environments, through audio, CGI or spatial sound.  
+![image](../imported\resonance-series-11-oli-johns-2\image1165.jpeg)_Welcome to the next installment of the 'Resonance Series' -Music massively influences visual art, and vice versa. This monthly feature introduces you to musical individuals through the other art forms that they engage in, telling a personal story of their creative output and how different mediums influence each other._Since studying sound at Brighton university, Oli Johns discovered an appetite for audio in space. Using his leftfield creativity to upturn conventions surrounding dance music, simulation, digital media and audio, Oli turned towards reproduction of physical environments, through audio, CGI or spatial sound.  
   
 [https://soundcloud.com/networksounds](https://soundcloud.com/networksounds)
 

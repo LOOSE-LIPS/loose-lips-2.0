@@ -6,7 +6,7 @@ type: post
 slug: kortzers-sunday-jams-oasis-champagne-supernova
 author: 96
 banner:
-  - imported/kortzers-sunday-jams-oasis-champagne-supernova/image822.jpeg
+  - imported\kortzers-sunday-jams-oasis-champagne-supernova\image822.jpeg
 description: >-
   After a brief hiatus from Sunday Jams I&#39;m back on a what is a very special
   Sunday. City have won the league back to back years, and therefore I feel it
@@ -18,4 +18,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/kortzers-sunday-jams-oasis-champagne-supernova/image822.jpeg)After a brief hiatus from Sunday Jams I'm back on a what is a very special Sunday. City have won the league back to back years, and therefore I feel it is only right to serenade this week's Sunday with a Mancunian anthem, Champagne Supernova. The track itself definitely fits a sabbath and this one especially. Manchester is blue & so is your Sunday!
+![image](../imported\kortzers-sunday-jams-oasis-champagne-supernova\image822.jpeg)After a brief hiatus from Sunday Jams I'm back on a what is a very special Sunday. City have won the league back to back years, and therefore I feel it is only right to serenade this week's Sunday with a Mancunian anthem, Champagne Supernova. The track itself definitely fits a sabbath and this one especially. Manchester is blue & so is your Sunday!

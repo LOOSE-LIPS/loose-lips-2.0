@@ -6,7 +6,7 @@ type: post
 slug: galaxian-coming-up-for-air-ep
 author: 61
 banner:
-  - imported/galaxian-coming-up-for-air-ep/image953.jpeg
+  - imported\galaxian-coming-up-for-air-ep\image953.jpeg
 description: >-
   Mark Kastner of Glasgow, aka Galaxian, has been manufacturing genre-bending
   and undefined electronics for over 10 years now. Adorned in a menacing mask
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/galaxian-coming-up-for-air-ep/image953.jpeg)Mark Kastner of Glasgow, aka Galaxian, has been manufacturing genre-bending and undefined electronics for over 10 years now. Adorned in a menacing mask and helmet, his hallucinatory electro has steadily absorbed listeners from all types of musical background like a maelstrom of psychedelic liberation. Kastner’s dynamism has only really begun to leave its mark on the unorthodox electro realms in the last 3 years, after being picked up by heavy-hitting labels such as Lower Parts, Shipwrec and Return to Disorder. His anarchistic aesthetic has only been strengthened over the years, exacerbated by an unerring desire to avoid artistic convention and submit militant but evocative electronic forays unbound by any genre-aligned resistance.
+![image](../imported\galaxian-coming-up-for-air-ep\image953.jpeg)Mark Kastner of Glasgow, aka Galaxian, has been manufacturing genre-bending and undefined electronics for over 10 years now. Adorned in a menacing mask and helmet, his hallucinatory electro has steadily absorbed listeners from all types of musical background like a maelstrom of psychedelic liberation. Kastner’s dynamism has only really begun to leave its mark on the unorthodox electro realms in the last 3 years, after being picked up by heavy-hitting labels such as Lower Parts, Shipwrec and Return to Disorder. His anarchistic aesthetic has only been strengthened over the years, exacerbated by an unerring desire to avoid artistic convention and submit militant but evocative electronic forays unbound by any genre-aligned resistance.
 
 The cyborg’s latest offering has rather unsurprisingly been unleashed onto the world via label of the moment; Ilian Tape. Steered by the visionary Zenker Brothers, the imprint has also been around for over 10 years but has only begun to achieve a stark, worldwide fan base in the last few years. However there is no doubt that in 2019, Ilian Tape is consistently releasing some of the most stunning developmental dance music the world has ever encountered. Whether pushing lesser known names or those with staunch roots in the scenes Ilian has dominion over, the releases are always ineffably staggering. As someone who lived near Munich in 2013/14, I have been lucky enough to attend various Ilian Tape showcases and watch in a close proximity as the label has blossomed into a sonic master of subsumption. This new Galaxian EP goes even further in pushing their experimental envelope of unrestricted intensity.
 

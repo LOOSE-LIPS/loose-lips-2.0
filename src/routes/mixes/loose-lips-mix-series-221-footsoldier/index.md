@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-221-footsoldier
 author: 100
 banner:
-  - imported/loose-lips-mix-series-221-footsoldier/image3159.jpeg
+  - imported\loose-lips-mix-series-221-footsoldier\image3159.jpeg
 description: >-
   Resident at Kodiak Productions and head honcho of Kulture Project (Manchester)
   https://www.facebook.com/footsoldierx/ [...]Read More...

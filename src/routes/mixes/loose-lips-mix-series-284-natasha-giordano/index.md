@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-284-natasha-giordano
 author: 100
 banner:
-  - imported/loose-lips-mix-series-284-natasha-giordano/image3222.jpeg
+  - imported\loose-lips-mix-series-284-natasha-giordano\image3222.jpeg
 description: >-
   Natasha Giordano guides you through a selection of leftfield techno, tinted
   with drones and introspective atmospheres! @natashagiordano Natasha Giordano

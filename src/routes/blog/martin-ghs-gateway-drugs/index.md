@@ -6,7 +6,7 @@ type: post
 slug: martin-ghs-gateway-drugs
 author: 100
 banner:
-  - imported/martin-ghs-gateway-drugs/image1335.jpeg
+  - imported\martin-ghs-gateway-drugs\image1335.jpeg
 description: >-
   The fascination continues. Over the last few weeks our Picks series has
   documented all sorts of musical constellations; its sources in marginalised
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/martin-ghs-gateway-drugs/image1335.jpeg)**_The fascination continues. Over the last few weeks our Picks series has documented all sorts of musical constellations; its sources in marginalised queer communities, its emotional resances, the minds it melts and the journeys it facilitates. But today we go right back to the source, the moment when sound gets tasty and we get curious. Our host is Mancunian Loose Lips writer Martin Guttridge-Hewitt, whose Record Store Days interview/feature series has explored some of the sites of this match-striking (see his most recent Chicago exploration [here](http://loose-lips.co.uk/blog/record-store-days-outsider-betting-at-groove-records-chicago)). As always all Spotifyable tracks are [here](https://open.spotify.com/playlist/5JH8AZStkZLkLVxD6Q4QlB?si=FUOEhb0QQd2ibnSspv2T8Q), take it away…_**
+![image](../imported\martin-ghs-gateway-drugs\image1335.jpeg)**_The fascination continues. Over the last few weeks our Picks series has documented all sorts of musical constellations; its sources in marginalised queer communities, its emotional resances, the minds it melts and the journeys it facilitates. But today we go right back to the source, the moment when sound gets tasty and we get curious. Our host is Mancunian Loose Lips writer Martin Guttridge-Hewitt, whose Record Store Days interview/feature series has explored some of the sites of this match-striking (see his most recent Chicago exploration [here](http://loose-lips.co.uk/blog/record-store-days-outsider-betting-at-groove-records-chicago)). As always all Spotifyable tracks are [here](https://open.spotify.com/playlist/5JH8AZStkZLkLVxD6Q4QlB?si=FUOEhb0QQd2ibnSspv2T8Q), take it away…_**
 
 There’s no telling when it will happen, but you can usually write-off anything else that day or week when it does. Depending on how deep the rabbit hole goes. This playlist has been inspired by those moments when a single track catalyses extended digging missions into the deepest corners of stuff you should have already heard. Some are certified bangers, others heartbreaking acoustic ditties. Most are a little trippy, and each has acted as a gateway to new genres, labels and artists at some point in the last 36 years (well, more like 25). Digressions aside, and without further ado, here they are in no discernible order… 
 

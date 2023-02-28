@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-295-craig-walker
 author: 100
 banner:
-  - imported/loose-lips-mix-series-295-craig-walker/image3233.jpeg
+  - imported\loose-lips-mix-series-295-craig-walker\image3233.jpeg
 description: >-
   Fresh from releasing a steaming basement techno number on
   @leftrightandcentreuk (which we premiered:

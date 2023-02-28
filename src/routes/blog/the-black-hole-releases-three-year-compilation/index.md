@@ -6,7 +6,7 @@ type: post
 slug: the-black-hole-releases-three-year-compilation
 author: 7
 banner:
-  - imported/the-black-hole-releases-three-year-compilation/image972.jpeg
+  - imported\the-black-hole-releases-three-year-compilation\image972.jpeg
 description: >-
   Brooklyn, NY &mdash; Attention, passengers! To celebrate the Black Hole&#39;s
   three year anniversary, Brooklyn-based collective ALKHEMY has brought together
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/the-black-hole-releases-three-year-compilation/image972.jpeg)Brooklyn, NY — Attention, passengers! To celebrate the Black Hole's three year anniversary, Brooklyn-based collective ALKHEMY has brought together “some of the mightiest in the galaxy” of techno for this characteristically energetic global compilation. It is now available to listen and purchase on [Soundcloud](https://soundcloud.com/alkhemy666/sets/3-years-of-the-black-hole) and [Bandcamp](https://whirlwindtrax.bandcamp.com/album/3-years-of-the-black-hole-protectors-of-the-galaxy-va) via the collective’s imprint, Whirlwind. The cover art, inspired by the iconic flyers of The Black Hole in which people of color and women are showcased in a powerful manner, was designed by Detroit legend Alan Oldham aka DJ T-1000. The spaceship is now approaching the new era of techno, please mind the gap. 
+![image](../imported\the-black-hole-releases-three-year-compilation\image972.jpeg)Brooklyn, NY — Attention, passengers! To celebrate the Black Hole's three year anniversary, Brooklyn-based collective ALKHEMY has brought together “some of the mightiest in the galaxy” of techno for this characteristically energetic global compilation. It is now available to listen and purchase on [Soundcloud](https://soundcloud.com/alkhemy666/sets/3-years-of-the-black-hole) and [Bandcamp](https://whirlwindtrax.bandcamp.com/album/3-years-of-the-black-hole-protectors-of-the-galaxy-va) via the collective’s imprint, Whirlwind. The cover art, inspired by the iconic flyers of The Black Hole in which people of color and women are showcased in a powerful manner, was designed by Detroit legend Alan Oldham aka DJ T-1000. The spaceship is now approaching the new era of techno, please mind the gap. 
 
 Full list of artists:
 

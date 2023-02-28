@@ -6,7 +6,7 @@ type: post
 slug: editors-pick-bangface-weekender-2020
 author: 68
 banner:
-  - imported/editors-pick-bangface-weekender-2020/image1052.jpeg
+  - imported\editors-pick-bangface-weekender-2020\image1052.jpeg
 description: >-
   For this edition of Editors&#39; Pick, Jack takes us back to the rave.
   &quot;It&#39;s been a while since I&#39;ve had the opportunity to go outside
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/editors-pick-bangface-weekender-2020/image1052.jpeg)_For this edition of Editors' Pick, Jack takes us back to the rave. "It's been a while since I've had the opportunity to go outside and lose myself to music in front of a sound system, so there's no better time to read this gonzo-styled documentation of the last rave on Earth. Hopefully, it will remind you how good it feels to dance with ya pals until you cant remember your name or the pin code to unlock your phone. Some doors were harmed in the making of this account."_
+![image](../imported\editors-pick-bangface-weekender-2020\image1052.jpeg)_For this edition of Editors' Pick, Jack takes us back to the rave. "It's been a while since I've had the opportunity to go outside and lose myself to music in front of a sound system, so there's no better time to read this gonzo-styled documentation of the last rave on Earth. Hopefully, it will remind you how good it feels to dance with ya pals until you cant remember your name or the pin code to unlock your phone. Some doors were harmed in the making of this account."_
 
 Keep Jumpin', Ya Bastards!!! 
 

@@ -6,7 +6,7 @@ type: post
 slug: dnb-fix-016-coco-bryce-bae-be-love-ep-ltwht019
 author: 122
 banner:
-  - imported/dnb-fix-016-coco-bryce-bae-be-love-ep-ltwht019/image1129.jpeg
+  - imported\dnb-fix-016-coco-bryce-bae-be-love-ep-ltwht019\image1129.jpeg
 description: >-
   He&#39;s back at it once again, this week&rsquo;s fix is from the Dutch
   mastermind Coco Bryce. His latest four track EP is set to drop on vinyl late
@@ -17,7 +17,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/dnb-fix-016-coco-bryce-bae-be-love-ep-ltwht019/image1129.jpeg)_He's back at it once again, this week’s fix is from the Dutch mastermind Coco Bryce. His latest four track EP is set to drop on vinyl late next month, and the whole release is a corker. This guy has been on fire the past few years, with big releases coming out the wazoo; from his own label Myor Massiv to 7TH Storey Projects, Fresh 86 and now on Lobster Theremin._It's hard to pick a definitive favourite from the EP as each track is beautifully crafted and faultless in their own way, however, the tune that instantly stands out to me is the first track of the B side – 'Smoke Screen'. The simple yet skilled use of harmonic vocal samples layered with a creamy filtered bass and melodic synth line all work perfectly in tandem to create a floaty dreamscape that charms the listener.
+![image](../imported\dnb-fix-016-coco-bryce-bae-be-love-ep-ltwht019\image1129.jpeg)_He's back at it once again, this week’s fix is from the Dutch mastermind Coco Bryce. His latest four track EP is set to drop on vinyl late next month, and the whole release is a corker. This guy has been on fire the past few years, with big releases coming out the wazoo; from his own label Myor Massiv to 7TH Storey Projects, Fresh 86 and now on Lobster Theremin._It's hard to pick a definitive favourite from the EP as each track is beautifully crafted and faultless in their own way, however, the tune that instantly stands out to me is the first track of the B side – 'Smoke Screen'. The simple yet skilled use of harmonic vocal samples layered with a creamy filtered bass and melodic synth line all work perfectly in tandem to create a floaty dreamscape that charms the listener.
 
 [Lobster Theremin](https://soundcloud.com/lobster-theremin "Lobster Theremin") · [LTWHT019 // Coco Bryce – Ma Bae Be Luv EP](https://soundcloud.com/lobster-theremin/ltwht019-coco-bryce-ma-bae-be-luv-ep "LTWHT019 // Coco Bryce - Ma Bae Be Luv EP")
 

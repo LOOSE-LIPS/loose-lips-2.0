@@ -9,7 +9,7 @@ slug: loose-lips-mix-series-168-dj-peter-perplexe-vaatican-records
 author: 100
 banner:
   - >-
-    imported/loose-lips-mix-series-168-dj-peter-perplexe-vaatican-records/image3106.jpeg
+    imported\loose-lips-mix-series-168-dj-peter-perplexe-vaatican-records\image3106.jpeg
 description: >-
   An incredible mushy-headed pilgrimage.
   https://www.facebook.com/Vaatican-Records-242006919184772 THE VAATICAN RECORDS

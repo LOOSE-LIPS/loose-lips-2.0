@@ -6,7 +6,7 @@ type: post
 slug: aygeetee-answers-for-past-meetings-he14
 author: 100
 banner:
-  - imported/aygeetee-answers-for-past-meetings-he14/image948.jpeg
+  - imported\aygeetee-answers-for-past-meetings-he14\image948.jpeg
 description: >-
   A steady, solid distorted beat giving the backdrop to vocals best described as
   &quot;sounding like Fever Ray stuck in a microwave&quot;! From AyGeeTee&#39;s
@@ -20,4 +20,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/aygeetee-answers-for-past-meetings-he14/image948.jpeg)A steady, solid distorted beat giving the backdrop to vocals best described as "sounding like Fever Ray stuck in a microwave"!From AyGeeTee's _Answers for Past Meetings_ on [Honest Electronics](https://honestelectronics.bandcamp.com).Out 15.10 on digital – Pre-order: [](https://honestelectronics.bandcamp.com/album/answers-for-past-meetings-he14)[https://honestelectronics.bandcamp.com/album/answers-for-past-meetings-he14](https://honestelectronics.bandcamp.com/album/answers-for-past-meetings-he14)[](https://soundcloud.com/honest-electronics)[https://soundcloud.com/honest-electronics](https://soundcloud.com/honest-electronics)[](https://soundcloud.com/agt01)[https://soundcloud.com/agt01](https://soundcloud.com/agt01)
+![image](../imported\aygeetee-answers-for-past-meetings-he14\image948.jpeg)A steady, solid distorted beat giving the backdrop to vocals best described as "sounding like Fever Ray stuck in a microwave"!From AyGeeTee's _Answers for Past Meetings_ on [Honest Electronics](https://honestelectronics.bandcamp.com).Out 15.10 on digital – Pre-order: [](https://honestelectronics.bandcamp.com/album/answers-for-past-meetings-he14)[https://honestelectronics.bandcamp.com/album/answers-for-past-meetings-he14](https://honestelectronics.bandcamp.com/album/answers-for-past-meetings-he14)[](https://soundcloud.com/honest-electronics)[https://soundcloud.com/honest-electronics](https://soundcloud.com/honest-electronics)[](https://soundcloud.com/agt01)[https://soundcloud.com/agt01](https://soundcloud.com/agt01)

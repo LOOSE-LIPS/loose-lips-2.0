@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-178-sim-eon
 author: 100
 banner:
-  - imported/loose-lips-mix-series-178-sim-eon/image3116.jpeg
+  - imported\loose-lips-mix-series-178-sim-eon\image3116.jpeg
 description: >-
   Here&#8217;s a set recorded by Sim Eon at the &#8216;BeeSpace&#8217; event @
   New River Studios, London on 13th May 2018, which was raising funds and

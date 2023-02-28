@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-200-eraldo-bernocchi
 author: 100
 banner:
-  - imported/loose-lips-mix-series-200-eraldo-bernocchi/image3138.jpeg
+  - imported\loose-lips-mix-series-200-eraldo-bernocchi\image3138.jpeg
 description: >-
   200 weeks ago, we started a weekly mix series to showcase the DJ escapades
   (and occasional live sets) of some of our favourite selectors, from across the

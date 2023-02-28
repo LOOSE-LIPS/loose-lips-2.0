@@ -6,7 +6,7 @@ type: post
 slug: rising-xiorro
 author: 7
 banner:
-  - imported/rising-xiorro/image917.jpeg
+  - imported\rising-xiorro\image917.jpeg
 description: >-
   RISING: XIORRO INTERVIEW &amp; REVIEW Felton Cortijo aka Xiorro has been
   making earthquakes in the techno underground. Since co-founding ALKHEMY &amp;
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/rising-xiorro/image917.jpeg)RISING: XIORROINTERVIEW & REVIEW
+![image](../imported\rising-xiorro\image917.jpeg)RISING: XIORROINTERVIEW & REVIEW
 
 Felton Cortijo aka [Xiorro](https://www.residentadvisor.net/dj/xiorro) has been making earthquakes in the techno underground. Since co-founding ALKHEMY & The Black Hole back in 2016 with his partner Christina Hernandez ([Adrestia](https://www.residentadvisor.net/dj/adrestia)), he has proven to be one of the genre’s most exciting new artists, as well as one of the most genuine people you can expect to meet in this hyper-competitive industry. He is usually found between his hometown of Boston, New York and Berlin, where he is resident DJ at Griessemuhle.
 

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-188-drazi-drags-funky-fresh-sk
 author: 100
 banner:
-  - imported/loose-lips-mix-series-188-drazi-drags-funky-fresh-sk/image3126.jpeg
+  - imported\loose-lips-mix-series-188-drazi-drags-funky-fresh-sk\image3126.jpeg
 description: >-
   One of Macedonia&#8217;s finest Hip Hop selectors digging through the crates
   for us! https://www.facebook.com/djdrazidrags Went we first visited Skopje, a

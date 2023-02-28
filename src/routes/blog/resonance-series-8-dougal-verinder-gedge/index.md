@@ -6,7 +6,7 @@ type: post
 slug: resonance-series-8-dougal-verinder-gedge
 author: 76
 banner:
-  - imported/resonance-series-8-dougal-verinder-gedge/image1203.jpeg
+  - imported\resonance-series-8-dougal-verinder-gedge\image1203.jpeg
 description: >-
   Welcome to this edition of &nbsp;the &#39;Resonance&#39; Series &#8211; a
   feature curated by Jasper Golding, about the interplay between art forms. A
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/resonance-series-8-dougal-verinder-gedge/image1203.jpeg)_Welcome to this edition of  the 'Resonance' Series – a feature curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.__Music massively influences visual art, and vice versa. This feature, running every other Tuesday, introduces you to musical individuals via their visual art first, telling a personal story of their creative output and how different mediums influence each other.__**Studying both Graphic Design and Experimental Communication has located Dougal Verinder-Gedge at the middle-ground between what would be considered ‘design’ and ‘art’. A youth experienced through the internet has heavily influenced his work, obliging him to question the meaning of ‘authenticity’ in both physical and digital realms.**_   
+![image](../imported\resonance-series-8-dougal-verinder-gedge\image1203.jpeg)_Welcome to this edition of  the 'Resonance' Series – a feature curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.__Music massively influences visual art, and vice versa. This feature, running every other Tuesday, introduces you to musical individuals via their visual art first, telling a personal story of their creative output and how different mediums influence each other.__**Studying both Graphic Design and Experimental Communication has located Dougal Verinder-Gedge at the middle-ground between what would be considered ‘design’ and ‘art’. A youth experienced through the internet has heavily influenced his work, obliging him to question the meaning of ‘authenticity’ in both physical and digital realms.**_   
 _**![](http://loose-lips.co.uk/img/wysiwyg/5f0d8ffeb80a0.jpg)**__**Self professing his work and practice to be experimental by nature, Verinder-Gedge seeks to constantly question and raise awareness of topics which the general public would generally overlook.**_**  
 [](https://www.youtube.com/watch?v=52CJ-0rRhOs)[](https://www.youtube.com/watch?v=52CJ-0rRhOs)  
 ****Dougal Verinder-Gedge AKA @Dougalofcourse is a deluxe example of what the future holds for graphic design, art and communication. Untold cheek that’s demolishing new grounds through his free reign over visual language and identity. Part climber, part runner part societal commenteur, Dougal somehow straddles many worlds, the thematic brainchild of this synergy is like a fresh new baby of an unknown race, a kind of more socially acceptable version of nietzsche's ubermensch; not to be ignored, lest we miss zarathustra’s redemptive message.** 

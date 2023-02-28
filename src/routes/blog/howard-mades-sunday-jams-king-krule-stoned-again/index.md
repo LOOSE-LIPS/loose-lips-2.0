@@ -6,7 +6,7 @@ type: post
 slug: howard-mades-sunday-jams-king-krule-stoned-again
 author: 63
 banner:
-  - imported/howard-mades-sunday-jams-king-krule-stoned-again/image1040.jpeg
+  - imported\howard-mades-sunday-jams-king-krule-stoned-again\image1040.jpeg
 description: >-
   Was hard for me to even pick a tune this week, as this album is just gold.
   He&#39;s so raw in his lyricism yet very poetic.&nbsp; I went for Stoned Again
@@ -17,4 +17,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported/howard-mades-sunday-jams-king-krule-stoned-again/image1040.jpeg)Was hard for me to even pick a tune this week, as this album is just gold. He's so raw in his lyricism yet very poetic. I went for Stoned Again as it's a fuckin' heater and was feeling fuckin' lucky – I only went and won a lil cheeky fiver on a scratchy din't I?! But in all seriousness check this whole album it's sick.
+![image](../imported\howard-mades-sunday-jams-king-krule-stoned-again\image1040.jpeg)Was hard for me to even pick a tune this week, as this album is just gold. He's so raw in his lyricism yet very poetic. I went for Stoned Again as it's a fuckin' heater and was feeling fuckin' lucky – I only went and won a lil cheeky fiver on a scratchy din't I?! But in all seriousness check this whole album it's sick.

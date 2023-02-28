@@ -7,7 +7,7 @@ slug: loose-lips-x-skoop-in-glasgow-wthe-northaze-jack-jetson-more-1
 author: 100
 banner:
   - >-
-    imported/loose-lips-x-skoop-in-glasgow-wthe-northaze-jack-jetson-more-1/image2756.jpeg
+    imported\loose-lips-x-skoop-in-glasgow-wthe-northaze-jack-jetson-more-1\image2756.jpeg
 description: >-
   Collaborating in Glasgow for the first time&#8230; http://loose-lips.co.uk/
   https://www.facebook.com/SkoopCollective Line-up:
