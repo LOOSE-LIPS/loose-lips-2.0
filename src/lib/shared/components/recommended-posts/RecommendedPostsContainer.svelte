@@ -17,17 +17,17 @@
             return post.tags.includes(tags[0]);
           })
           .map((post) => {
+            let random = Math.random();
             recommendedPosts.push(post);
-            recommendedPosts = recommendedPosts;
+            recommendedPosts = recommendedPosts.slice(
+              random * 100 - (100 - recommendedPosts.length),
+              3
+            );
           });
       });
   });
   console.log(recommendedPosts);
 </script>
-
-{#if recommendedPosts.length > 0}
-  <h1 class="text-white">{recommendedPosts[0].id}</h1>
-{/if}
 
 <div
   class="flex flex-col items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg) "
