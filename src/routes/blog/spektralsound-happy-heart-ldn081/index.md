@@ -15,7 +15,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/spektralsound-happy-heart-ldn081/image1200.jpeg)Neon beats making Agent Deckard bust a move!From [Spektralsound](https://soundcloud.com/spektralsounduk)'s _Safe Haven_ EP on [Keysound Recordings](http://keysoundrecordings.co.uk/).Out now on digital – [](https://smarturl.it/LDN081)[https://smarturl.it/LDN081](https://smarturl.it/LDN081)[](http://keysoundrecordings.co.uk/)[http://keysoundrecordings.co.uk](http://keysoundrecordings.co.uk/)  

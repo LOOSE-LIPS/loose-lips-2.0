@@ -15,7 +15,7 @@ description: >-
   building pace within the industry [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/dnb-fix-011-subtension-tom-yum/image1080.jpeg)_This stupid isolation isn’t going to stop us keeping you locked and loaded with the hottest Drum & Bass week in week out; this week's Fix comes from Subtension and the Flexout Audio imprint._ Flexout Audio seems only natural for a producer such as Subtension; the young Slovakian has been building pace within the industry for many years, and with releases across a number of major labels, including Critical and Neosignal in recent times; it’s no surprise his tracks are getting picked up by the biggest names on the circuit.

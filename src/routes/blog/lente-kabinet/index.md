@@ -15,7 +15,7 @@ description: >-
   than 20s person would normally have had. Hurra [...]Read More...
 published: true
 tags:
-  - post
+  - festival-review
 featured: false
 ---
 ![image](../imported/lente-kabinet/image939.jpeg)**My Festival Summer: Part One – An honest opinion on Dekmantel’s small sibling Lente Kabinet.** 

@@ -17,7 +17,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/pata-its-like-skoop/image1178.jpeg)Ritualistic banger! Sitting between Trap and Drill, _It's Like_ is gliding smoothly into cut up Brazilian percussions,  

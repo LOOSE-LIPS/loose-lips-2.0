@@ -15,7 +15,7 @@ description: >-
   across the BPM spectrum. Wetman manages [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/dnb-fix-033-wetman-ride-snoop/image1291.jpeg)_This week's DnB fix comes all the way from the other side of the pond, courtesy of Wetman, featuring on the Seattle based, Vivid Recordings. This latest release, The Wettening EP, is a five track journey of face melting, auditory opium._Comprised of bass-heavy, dubbed out beats, sprawled well across the BPM spectrum. Wetman manages to create a floaty, sub-nautical dreamscape, In which he’s the captain; piloting you through the deepest and darkest depths.

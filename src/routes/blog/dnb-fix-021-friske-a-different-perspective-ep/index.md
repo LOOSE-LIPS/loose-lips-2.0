@@ -15,7 +15,7 @@ description: >-
   it&rsquo;s obvious [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/dnb-fix-021-friske-a-different-perspective-ep/image1179.jpeg)_Always a treat to see new releases from Metalheadz, especially when it’s a long-awaited EP from Friske. Here he offers up an impressive 16 tracks, no collabs, simply his own personal take on drum and bass. This album has been 3 years in the making and judging from the fantastic previews out already, it’s obvious this is one to watch._Friske is known for his unique sound which is heavily influenced from outside the drum and bass genre. He incorporates his earlier B-boy and hip hop influences into the junglist sound. He’s not one to follow the mainstream trends, which naturally makes him compatible as part of the Metalheadz crew and a wider underground sound.Eponymous first track ‘A Different Perspective’ is a little slower in nature, more like the original drum and bass sound from the early 90s. It’s a relaxed track, yet there’s just so much going on. It’s a little steppy, due to the great rhythm conjured from plenty of percussion and FX. Around 2 mins in, Friske brings in this brilliant pattern of subtle stabs, which just adds another dimension and direction to this tune.

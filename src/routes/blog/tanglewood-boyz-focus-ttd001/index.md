@@ -14,7 +14,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/tanglewood-boyz-focus-ttd001/image795.jpeg)A hi-energy Memphis style Electro Body Bass.From _Street Justice_ V/A on [Ten Trax](https://tentrax.bandcamp.com).Out 5.04 on digital – Pre-order: [](https://tentrax.bandcamp.com/releases)[https://tentrax.bandcamp.com/releases](https://tentrax.bandcamp.com/releases)[https://soundcloud.com/tentrax](https://soundcloud.com/tentrax)

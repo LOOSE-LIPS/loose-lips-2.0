@@ -15,7 +15,7 @@ description: >-
   https://soundcloud.com/shoganai-records [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/dj-sentinelle-homing-missile-shgn001/image916.jpeg)One of our resident described this track as "Mumdance meets Spandau Ballet" and this analogy makes so much sense after listening to this unique number.From DJ Sentinelle _best 3D waifu_ EP on [Shoganai](https://shoganai-records.bandcamp.com).Out 20.09 on digital – Pre-order: [](https://shoganai-records.bandcamp.com/album/3d)[https://shoganai-records.bandcamp.com/album/3d](https://shoganai-records.bandcamp.com/album/3d)[](https://soundcloud.com/shoganai-records)[https://soundcloud.com/shoganai-records](https://soundcloud.com/shoganai-records)

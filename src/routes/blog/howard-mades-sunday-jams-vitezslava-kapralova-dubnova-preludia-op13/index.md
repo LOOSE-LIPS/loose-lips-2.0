@@ -19,7 +19,7 @@ description: >-
   captivating, [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/howard-mades-sunday-jams-vitezslava-kapralova-dubnova-preludia-op13/image1008.jpeg)Vítězslava Kaprálová  was a Czech composer and conductor who birthed over 50 full compositions (across various genres, although very few were actually published during her life) in her quarter century stay on earth which was SNATCHED from her by tuberculosis whilst she was in exile in France. 

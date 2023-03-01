@@ -15,7 +15,7 @@ description: >-
   https://soundcloud.com/massagebraincult [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/jessica-walrus-peachy-soundmask89-mbc001/image1024.jpeg)From Massage Brain Cult's first vinyl release!  [Jessica Walrus](https://ninetin1.bandcamp.com/) mash the amens up with a good dose a cerebral twists along the way!From _√∆1_ VA compilation on [Massage Brain Cult](https://massagebraincult.bandcamp.com/).Out 20.02 on 12" and digital – [](https://massagebraincult.bandcamp.com/album/1)[https://massagebraincult.bandcamp.com/album/1](https://massagebraincult.bandcamp.com/album/1)[](https://soundcloud.com/massagebraincult)[https://soundcloud.com/massagebraincult](https://soundcloud.com/massagebraincult)

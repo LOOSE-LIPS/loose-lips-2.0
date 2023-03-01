@@ -15,7 +15,7 @@ description: >-
   fortunate [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/melt-antlanta-1/image837.jpeg)In hindsight of the Loose Lips showcase with MELT last weekend, we decided to find out more about the Atlanta based collective.

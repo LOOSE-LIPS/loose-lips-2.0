@@ -15,7 +15,7 @@ description: >-
   well as one of the most genuine people [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/rising-xiorro/image917.jpeg)RISING: XIORROINTERVIEW & REVIEW

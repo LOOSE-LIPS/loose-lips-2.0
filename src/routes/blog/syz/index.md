@@ -16,7 +16,7 @@ description: >-
   imprints&nbsp;Pressure Dome&nbsp;and&nbsp;Only Ruins. On [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/syz/image1142.jpeg)### **_“It’s All DIY, You Know?”_ LL Speaks To Syz**

@@ -15,7 +15,7 @@ description: >-
   exports in terms [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/kortzers-sunday-jams-roots-manuva-fighting-for/image877.jpeg)This week hails arguably the UK's greatest rapper, Roots Manuva. Fighting For screams Sunday jams to me, the track is a pensive emotional ballad and fits my Sunday down to the ground. Roots Manuva is an artist that I've recently rediscovered and in my opinion, truly is one of the UK's finest exports in terms of hip hop.

@@ -17,7 +17,7 @@ description: >-
   on&nbsp;this here [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/picks-caley-dewhursts-a-delicate-resonance-of-longing/image1306.jpeg)**_Picks returns, this time with a close friend of the sqwaaa Caley Dewhurst, a graphic designer and Threads radio DJ w_****_ho has contributed to our recent_ [_Euphoric Apocalyptica_](http://loose-lips.co.uk/blog/euphoric-apocalyptica) _collaborative article, digging this time into his record collection for music that sits on the knife's edge between warmth and frost. Enjoy,_ _you can check out the tracks on_** [**_this here spotify playlist_**](https://open.spotify.com/playlist/7zDcbwAHjaYsHOTYe4LEfn?si=txTNRWJXQtmamjT6HQebQg)**_, and see previous episodes of Caley's Halcyon:Faze show_ [_here_](https://linktr.ee/caleydewhurst)_._** **_Take it away…_**

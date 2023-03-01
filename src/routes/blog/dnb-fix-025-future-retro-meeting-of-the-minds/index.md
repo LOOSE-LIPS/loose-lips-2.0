@@ -15,7 +15,7 @@ description: >-
   originally started out as a run of London [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/dnb-fix-025-future-retro-meeting-of-the-minds/image1223.jpeg)_Future Retro, the latest new record label focused towards releasing 90’s inspired Jungle and Hardcore pulls up into the limelight this week with their debut 2 part vinyl / digital release; 'Meeting of The Minds'._ Cooked up from the infinitely amazing mind of Tim Reaper, Future Retro originally started out as a run of London based club nights however it has quickly evolved far beyond its humble beginnings. Now establishing itself as a potentially key label in the UK Jungle scene. Meeting of The Minds boasts a fierce ‘all-star’ collection of producers. Both volumes are comprised of 4 tracks each, all of which are collaborations from different artists working alongside Tim Reaper. Each track could easily merit it’s own feature, however I sadly can’t cover all of them in-depth otherwise we could be here until the end of summer. 

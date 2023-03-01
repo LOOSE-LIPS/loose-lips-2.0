@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/james-bangura-broken-mind-vpr-18/image1012.jpeg)Big bass kicks nonchalantly hit you in the face while you're rolling at the club!From [James Bangura](https://soundcloud.com/jamesbangura) EP on [Vanity Press](https://vanitypressrecords.bandcamp.com/).Out 14.02.2020 on 12" and digital –  Pre-order: [https://www.rubadub.co.uk/records/james-bangura-ep](https://www.rubadub.co.uk/records/james-bangura-ep)[](https://soundcloud.com/vanitypress)[https://soundcloud.com/vanitypress](https://soundcloud.com/vanitypress)  

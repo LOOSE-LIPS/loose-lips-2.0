@@ -17,7 +17,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/ukaea-rdx-hoso44/image1327.jpeg)A concentrate of rave energy blended with mahraganat-style sonic assault!From UKAEA's _Energy is Forever_ LP on [Hominid Sounds](https://hominidsounds.bandcamp.com).  

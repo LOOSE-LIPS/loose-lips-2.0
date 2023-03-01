@@ -16,7 +16,7 @@ description: >-
   is in&nbsp;this [...]Read More...
 published: true
 tags:
-  - post
+  - deep-cuts
 featured: false
 ---
 ![image](../imported/wordless-tone/image1051.jpeg)**_Welcome to our fourth monthly Deep Cuts article. What a month. This month’s theme is Wordless Tone, its prompt question was 'what music speaks clearly without words'_**_**.**_ _The illustration comes from_ [_Trav_](https://www.backdownwarchild.co.uk/)_.__**Music from each of this months' writers is combined in the mix below, their full answers below that.**_ **_All the spotify-friendly music mentioned is in_** **_[this helpful playlist](https://open.spotify.com/playlist/1q8eBbK4IPvfkpwxWs53WU?si=MG90QKD1QwCNowKfGeoy-Q)._** **_(Last month’s theme was_** [**_Old School_**](http://loose-lips.co.uk/blog/old-school)**_)._****_Enjoy!_**

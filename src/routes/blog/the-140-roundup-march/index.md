@@ -15,7 +15,7 @@ description: >-
   Get Me? is [...]Read More...
 published: true
 tags:
-  - post
+  - monthly-feature
 featured: false
 ---
 ![image](../imported/the-140-roundup-march/image768.jpeg)Last month, I used these lines to mention a few newcomers that will most certainly deliver in 2019. Now it’s February and they have been able to meet expectations already. I was eagerly awaiting the **Tubz** new solo EP for **Chameleon Audio**, one of grime’s most reliable labels at the moment. **Ya Get Me?** is definitely worth the attention: Tubz provides four cuts displaying his production’s breadth, from “Amm”’s minimalism to the trap leanings of “Neutral” – and also showcases his distinct palette throughout. **Sub Audio** is another imprint that has often featured here for the quality of its roster. Another newcomer could be found behind their twelfth digital release this month, as **Kodama** stepped up with the **Dastan EP**. Each track portrays a different landscape within a dubstep canvas as the producer uses melody to create oneiric atmospheres. I’ll only briefly mention **J-Shadow**’s fantastic new **Dissociations EP** for Nous Disques, and **Mungk**’s **Lion Dub** on Dubstep Rotterdam, which both see their respective producer going deep into their own music universe. To conclude: expect much more from these guys in 2019.

@@ -15,7 +15,7 @@ description: >-
   https://soundcloud.com/simhutchins [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/sim-hutchins-edm-money-following-zero-001/image816.jpeg)Darkwave observed with an ultra-modern, high-definition lens capable of catching the finest details of this  

@@ -14,7 +14,7 @@ description: >-
   &#39;daytrip picks&#39; concept. All Spotify-able songs [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../undefined)_For this week's edition of picks, the [dis.orient](https://soundcloud.com/disorientuk?fbclid=IwAR1iudI-SDOiLjADg8e_Tqgxg0baRg3RZkikI3Xeh8cRjm2h2JKty85n1hg) crew take control of the aux. Having held residencies at London's Phonox and Bussey Building, and Bristol's The Island and Old Crown Courts, their record vaults bursting with off-beat energy, the crew came up with their own charismatic take on our 'daytrip picks' concept. All Spotify-able songs are gathered_ [_here_](https://open.spotify.com/playlist/1iD1FWBkjNokupXtMjRCi6?si=0G895VEISRK934e64XYS1g)_. Take it away…_

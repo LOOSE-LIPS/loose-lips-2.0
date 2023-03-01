@@ -17,7 +17,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/felix-raman-reedsdutiful-bathtime-sessions/image1198.jpeg)Clicks, pops, feedbacks, noise, vocals snippets, elements coming reasonably together to form a piece that merges from abstract, sporadic events into a rhythmical consensus!From _A Quarantine Dream_ V/A compilation on [Bathtime Sessions.](https://bathtimesessions.bandcamp.com/)Out now on digital – Order: [](https://bathtimesessions.bandcamp.com/)[https://bathtimesessions.bandcamp.com](https://bathtimesessions.bandcamp.com/)[https://soundcloud.com/bathtimesessions](https://soundcloud.com/bathtimesessions)  

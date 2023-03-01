@@ -15,7 +15,7 @@ description: >-
   Box N Lock. Another Chapter is pure Sicko Mode [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/dnb-fix-031-chimpo-another-chapter-ep/image1273.jpeg)_Are you ready? Hands up. There’s no intro. There’s no easing in. If you’re looking for an ‘(Interlude)’ hallway through to calm you down, it isn’t here. Chimpo steps up to the plate in this week's DnB Fix; with his new release "Another Chapter" over on Box N Lock._Another Chapter is pure Sicko Mode Chimpo (Drake feature not included). It’s twenty minutes of blistering, in-your-face energy. There’s rave stabs straight out of the 90s, raw grime squares from the noughties, there's even some [familiar sounding](https://www.youtube.com/watch?v=zAbkBLKisIg) bass pattern chopping on _Cantankerous Business_, but it’s this very combination of familiar sounds used in a much more hectic form which makes these bangers so much more fun, in that very Chimpo style. 

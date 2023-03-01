@@ -16,7 +16,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - review
 featured: false
 ---
 ![image](../imported/galaxian-coming-up-for-air-ep/image953.jpeg)Mark Kastner of Glasgow, aka Galaxian, has been manufacturing genre-bending and undefined electronics for over 10 years now. Adorned in a menacing mask and helmet, his hallucinatory electro has steadily absorbed listeners from all types of musical background like a maelstrom of psychedelic liberation. Kastner’s dynamism has only really begun to leave its mark on the unorthodox electro realms in the last 3 years, after being picked up by heavy-hitting labels such as Lower Parts, Shipwrec and Return to Disorder. His anarchistic aesthetic has only been strengthened over the years, exacerbated by an unerring desire to avoid artistic convention and submit militant but evocative electronic forays unbound by any genre-aligned resistance.

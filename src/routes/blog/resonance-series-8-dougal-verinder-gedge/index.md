@@ -15,7 +15,7 @@ description: >-
   art, and vice versa. This [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/resonance-series-8-dougal-verinder-gedge/image1203.jpeg)_Welcome to this edition of  the 'Resonance' Series – a feature curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.__Music massively influences visual art, and vice versa. This feature, running every other Tuesday, introduces you to musical individuals via their visual art first, telling a personal story of their creative output and how different mediums influence each other.__**Studying both Graphic Design and Experimental Communication has located Dougal Verinder-Gedge at the middle-ground between what would be considered ‘design’ and ‘art’. A youth experienced through the internet has heavily influenced his work, obliging him to question the meaning of ‘authenticity’ in both physical and digital realms.**_   

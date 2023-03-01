@@ -15,7 +15,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/in-conversation-with-repulsion-off-switch-audio/image802.jpeg)Recently you'll have seen we featured Grand Prix by Repulsion; ahead of the release of his new EP on Off Switch Audio.  We were lucky enough to speak with the man behind the exceptional release and talk to him about his journey, his techniques and the future.

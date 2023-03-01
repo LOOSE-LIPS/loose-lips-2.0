@@ -16,7 +16,7 @@ description: >-
   https://soundcloud.com/brainwaves_crew [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/thomas-bodenstaendig-doubts-brainwaves-12/image907.jpeg)A period-piece of raw, provocative, uncompromising Electro Body Music from an authentic Ruhrpot degenerate!  

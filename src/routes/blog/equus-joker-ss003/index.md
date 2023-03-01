@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/equus-joker-ss003/image1332.jpeg)A fast-paced, sub-heavy electroid number layered with majestic detroit-style strings. Class!From Equus' _REHD {Raw, Uncut}_ EP on [Slippery Sounds](https://slipperysounds.bandcamp.com/).Out 27.11 on digital – Pre-order: [https://slipperysounds.bandcamp.com/album/ss003-equus-rehd-raw-uncut](https://slipperysounds.bandcamp.com/album/ss003-equus-rehd-raw-uncut)[https://soundcloud.com/slipperysounds](https://soundcloud.com/slipperysounds)  

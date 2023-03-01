@@ -15,7 +15,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/gaffa-mud-cup-skoop/image1002.jpeg)Debut release from Gaffa on Edinburgh's very own SKOOP!  

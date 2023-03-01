@@ -17,7 +17,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/ice-eyes-maps-of-despair-abadir-remix-edt10/image1323.jpeg)Berlin-based Egyptian producer ABADIR reformulate _Maps of Despair_ into a hectic Jungle-meets-traditional-percussions piece. Highly satisfactory!From [Ice\_Eyes](https://www.discogs.com/artist/3197874-Ice_eyes)' _Antipodes_ EP on [Ernest D. Tapes](https://ernestdtapes.bandcamp.com/).Out 16.11 on cassette and digital – Pre-order: [https://ernestdtapes.bandcamp.com/album/antipodes-ep](https://ernestdtapes.bandcamp.com/album/antipodes-ep)[https://soundcloud.com/ernestdtapes](https://soundcloud.com/ernestdtapes)  

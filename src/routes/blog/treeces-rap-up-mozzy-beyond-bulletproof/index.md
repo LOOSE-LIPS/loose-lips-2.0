@@ -16,7 +16,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/treeces-rap-up-mozzy-beyond-bulletproof/image1121.jpeg)_Treece is back again for the third edition of Rap Up, introducing you to his favourite new wordplay. If you missed the last edition, he reviewed Big Moochie Grapes' debut; 'Eat or Get Ate'. This time round, heading to California, he chose the Sacramento rapper Mozzy's most recent release: 'Beyond Bulletproof'…_![](/wp-content/uploads/live/img/wysiwyg/5ebd144262386.jpg)

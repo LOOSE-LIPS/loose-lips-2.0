@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/kurisutaru-forgot-my-email-password-again-unsustainable/image1276.jpeg)Young Prague-based producer Kurisutaru gets the machines sweating on this squelchy electro bleep tune!From [Kurisutaru](https://kurisutaru.bandcamp.com/)'s _Face Check_ EP in [Unsustainable](https://unsustainable.bandcamp.com).Out 28.09.2020 on digital – [https://unsustainable.bandcamp.com](https://unsustainable.bandcamp.com/)[https://soundcloud.com/kkurisutaruu](https://soundcloud.com/kkurisutaruu)

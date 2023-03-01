@@ -15,7 +15,7 @@ description: >-
   Elements is strictly for hip [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/btek-musicology/image748.jpeg)**A few words with Btek, an independent DJ, A&R and Bookings Agent in the northern scene.**[Facebook – BT3KMusicology](https://www.facebook.com/BT3KMusicology/)

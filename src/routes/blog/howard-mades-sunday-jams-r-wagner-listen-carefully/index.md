@@ -10,7 +10,7 @@ banner:
 description: 'No explanation needed. Howard and the crew are at Bangface. [...]Read More...'
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/howard-mades-sunday-jams-r-wagner-listen-carefully/image1047.jpeg)No explanation needed. Howard and the crew are at Bangface.

@@ -16,7 +16,7 @@ description: >-
   toxic&#8230;not2b by Suny, Zoee [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/suny-zoee-julia-star-interview-each-other/image783.jpeg)_To celebrate three of London’s most, exciting, distinctive creators’ EP not2b, Loose Lips considered interviewing the nextgen squad, before deciding that it would make more sense to let them take control of the narrative. They’re performing live along with an extended family of hook-heavy rule breakers_ [_next Thursday_](https://www.facebook.com/events/304428323757659/)_, be there or be toxic…_  

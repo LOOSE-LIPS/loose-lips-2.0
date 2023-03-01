@@ -15,7 +15,7 @@ description: >-
   Operator, is dropping his first solo EP in [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/hrdvsion-come-on-f-bd15/image1182.jpeg)_Come On, F_ is an adventurous piece, starting as an electro club track with neon rave aesthetics, it develops into more introspective and sombre tones, yet keeping the balance and not forgetting its role as a dance track. Class!  

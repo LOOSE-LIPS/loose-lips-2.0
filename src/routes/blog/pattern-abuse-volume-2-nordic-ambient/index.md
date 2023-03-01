@@ -15,7 +15,7 @@ description: >-
   Nordic countries often has a certain character. Recurring [...]Read More...
 published: true
 tags:
-  - post
+  - release-review
 featured: false
 ---
 ![image](../imported/pattern-abuse-volume-2-nordic-ambient/image721.jpeg)A collection of fairly unknown artists compiles a variety of Nordic ambient music on [Liquido](https://www.discogs.com/artist/3621168-Liquido-2)’s label [Pattern Abuse](https://www.discogs.com/label/634766-Pattern-Abuse). As opposed to the eclecticism of [Volume 1](https://soundcloud.com/pattern-abuse/sets/pattern-abuse-compilation-1), Volume 2 heads in a more precise direction, delivering soothing synth atmospheres and icy sound signatures inspired by Scandinavia.

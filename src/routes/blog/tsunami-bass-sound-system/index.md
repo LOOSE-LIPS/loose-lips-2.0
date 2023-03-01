@@ -15,7 +15,7 @@ description: >-
   grabbing you? ShiZaru.zoe: I first discovered dubstep at [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/tsunami-bass-sound-system/image812.jpeg)

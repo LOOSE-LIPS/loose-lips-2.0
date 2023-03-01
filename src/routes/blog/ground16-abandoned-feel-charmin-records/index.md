@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/ground16-abandoned-feel-charmin-records/image1076.jpeg)Hazey drive through deep pads, steady Chicago-style House beats and soothing tape hiss.  

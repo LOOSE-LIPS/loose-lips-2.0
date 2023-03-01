@@ -16,7 +16,7 @@ description: >-
   https://soundcloud.com/yungelj [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/el-james-iron-gauntlets-intervention-1/image1302.jpeg)A sonically satisfying piece by [El James](http://yungelj), driven by breakbeats interacting with short vocal chops under a bright, sparkly percussive melody and blissful pads.From _INTERVENTION x V/A 001_ on [INTERVENTION](https://interventioncru.bandcamp.com/).Out 23.11.2020 on digital – Pre-order: [https://interventioncru.bandcamp.com/album/intervention-x-v-a-001](https://interventioncru.bandcamp.com/album/intervention-x-v-a-001)[https://soundcloud.com/yungelj](https://soundcloud.com/yungelj)

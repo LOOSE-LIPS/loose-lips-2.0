@@ -19,7 +19,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/assembler-code-open-your-mind-sync-24-x-jensen-interceptor-remix-ce033/image1000.jpeg)[Sync 24](https://www.discogs.com/artist/152818-Sync-24) and [Jensen Interceptor](https://www.discogs.com/artist/2784219-Jensen-Interceptor-2) on remix duties on this high octane Electro weapon! From [Assembler Code](https://www.discogs.com/artist/5422649-Assembler-Code)'s _Write Pulse_ EP on [Cultivated Electronics](https://www.discogs.com/label/99223-Cultivated-Electronics).Out this 20.01 on 12" – Pre-order: [](https://clone.nl/item58443.html)[https://clone.nl/item58443.html](https://clone.nl/item58443.html)[](https://soundcloud.com/cultivated-electronics)[https://soundcloud.com/cultivated-electronics](https://soundcloud.com/cultivated-electronics)  

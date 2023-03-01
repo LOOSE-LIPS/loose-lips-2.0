@@ -18,7 +18,7 @@ description: >-
   tape, which marks [...]Read More...
 published: true
 tags:
-  - post
+  - release-review
 featured: false
 ---
 ![image](../imported/paul-blackford-perspectives/image1069.jpeg)Paul Blackford is back (with a tape that came out in September 2019) – but the release date doesn’t matter. What is important is the music, and Paul Blackford’s music has a timeless quality! 

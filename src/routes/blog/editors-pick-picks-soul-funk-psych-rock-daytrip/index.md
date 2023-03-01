@@ -15,7 +15,7 @@ description: >-
   taking the happy [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/editors-pick-picks-soul-funk-psych-rock-daytrip/image1093.jpeg)To be perfectly topical, this is (part of) my lockdown soundtrack of the spring and summer. Lots of people have their quarantine playlists, but mine is specifically sun-focused. I can’t quite combine the act of lying in bed on zoom all day with dark, dirgey music, it gets too bleak. So, we’re taking the happy train today. As a petite disclaimer, I don’t want to underplay the very harsh reality that this time serves for lots of people right now, who are out of work, or in front line jobs, or who are sick. I simply want to bring some tunes that **I** associate with the sun to allow us to see seasonal light at the end of the tunnel.I’m going to run through this in the loose format of a day, start to finish. I’m a big advocate for specifically searching for and listening to music that perfectly suits the situation you find yourself in. There are simply some songs that, just as they work better accompanied with the beaming joy of sunshine, also work better in the morning, maybe sat outside maybe with a cup of coffee, maybe a tea if that’s more your thing. You get the gist.\[Editor's note: we've gathered the tracks in [this here Spotify playlist](https://open.spotify.com/playlist/5AvW3TrpYXh9mt5T9IucpT?si=hzJqkRdhT6i7DWuoo83wNw), enjoy! Also hope you like the photo, I took it just outside Bristol, shortly before all of this kicked off.\]  

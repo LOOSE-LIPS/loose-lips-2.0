@@ -15,7 +15,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/jozef-k/image1122.jpeg)**Hi Joseph, hope you're well. How are you doing?**

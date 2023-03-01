@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/nike-vomita-phantom-variant-cc006/image736.jpeg)Sliding, waving, shifting, evaporating, getting through walls and electronics.  

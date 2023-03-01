@@ -17,7 +17,7 @@ description: >-
   German-based producer provides [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/berk-offset-565-leipzig-rough-cuts-vol2/image1381.jpeg)Wonky electro delights courtesy of [Berk Offset!](https://www.discogs.com/artist/1931073-Berk-Offset)From _Rough Cuts Vol.2_ V/A compilation on [Too Rough 4 Radio](https://toorough4radio.bandcamp.com).Out 15.01.2021 on digital – Pre-order: [https://toorough4radio.bandcamp.com/album/rough-cuts-vol-2-various-artists](https://toorough4radio.bandcamp.com/album/rough-cuts-vol-2-various-artists)[https://soundcloud.com/toorough4radio](https://soundcloud.com/toorough4radio)  

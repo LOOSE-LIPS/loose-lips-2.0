@@ -18,7 +18,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/denis-shubin-amen23-ambr039/image1184.jpeg)In these rather strange times, who doesn't need some sweetness? _Amen23_ is a strong cure to palliate that;  

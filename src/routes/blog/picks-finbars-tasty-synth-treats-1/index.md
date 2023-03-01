@@ -15,7 +15,7 @@ description: >-
   handful of his tracks [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/picks-finbars-tasty-synth-treats-1/image1168.jpeg)_Finbar is a beloved friend of the squad, who presents a monthly radio show on Music Box Radio called Codependent, has a one off show coming soon to Threads named Chronic Intrigue and works with homeless people for St Mungo’s charity. He steps up today with an flavourful, electronic sound-platter, the handful of his tracks available on Spotify are gathered_ [_here_](https://open.spotify.com/playlist/0nfzYJKDpRaW551IDem5Ap?si=A4RyPyymRXWmbu8IjlPzZg)_, but really you know youtube / bandcamp / discogs is your friend. Enjoy!_

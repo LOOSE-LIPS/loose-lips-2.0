@@ -15,7 +15,7 @@ description: >-
   with bankruptcy and [...]Read More...
 published: true
 tags:
-  - post
+  - release-review
 featured: false
 ---
 ![image](../imported/wiggle-turns-25/image893.jpeg)The modern world seems so far detached from the 1990’s, a decade which to me is characterised by cheesy movies, painful dial-up internet and iconic video-game consoles. It was a simpler time. The world was still reeling from the fall of the Berlin Wall, Donald Trump was a mere [casino tycoon](https://www.nytimes.com/1992/12/12/business/company-news-trump-s-plaza-hotel-bankruptcy-plan-approved.html?mtrref=undefined&gwh=432EFA29DD59D4F8BA053C5AE56F0B14&gwt=pay) flirting with bankruptcy and the social and artistic preludes of the 1980’s led to the emergence of global electronic music movements.Whilst some of these cultural exports have come and gone, others have remained ever present.  

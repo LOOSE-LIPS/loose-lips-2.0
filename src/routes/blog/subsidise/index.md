@@ -15,7 +15,7 @@ description: >-
   just came about [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/subsidise/image833.jpeg)_Loose Lips speaks to Oscar Wilkins ahead of the launch of the Subsidise charity event taking place at Five Miles, Tottenham, Thursday 23rd May._

@@ -17,7 +17,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/j-shadow-modulator-sd023/image1081.jpeg)Title-track of the EP, Modulator starts with sparse rhythms and vocal cut-ups, syncopating together with a  

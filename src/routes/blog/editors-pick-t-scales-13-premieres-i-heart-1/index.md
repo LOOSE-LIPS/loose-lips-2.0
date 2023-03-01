@@ -15,7 +15,7 @@ description: >-
   ciel (bau053) / BaumusikRecently premiered, [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/editors-pick-t-scales-13-premieres-i-heart-1/image1102.jpeg)This week's Editors Pick, we turn to T-Scale, who is in charge of premiers. _"I really hate myself for leaving out some other ones from this list but fuck it, [I've had this dilemma before](http://loose-lips.co.uk/blog/t-scales-13-premieres-dilemma).. Here's 13 premieres I heart in no particular order:"_**Antoine Bobicz – Escalateur dans la ciel (bau053) / Baumusik**  

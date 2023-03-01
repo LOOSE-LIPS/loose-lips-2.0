@@ -16,7 +16,7 @@ description: >-
   Astrid Gnosis first come about?&nbsp; It is my true name. [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/astrid-gnosis/image861.jpeg)_Ahead of tonight's mad rave at FOLD in London, the inspiring, nugabber-loving [Astrid Gnosis](https://soundcloud.com/astridgnosis) answers some short, snappy questions, ahead of her hybrid live set!__[](https://www.facebook.com/events/1082849241922269/)_[https://www.facebook.com/events/1082849241922269/](https://www.facebook.com/events/1082849241922269/)[](https://www.residentadvisor.net/events/1264136)[https://www.residentadvisor.net/events/1264136](https://www.residentadvisor.net/events/1264136)

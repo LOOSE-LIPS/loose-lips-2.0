@@ -17,7 +17,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/aygeetee-answers-for-past-meetings-he14/image948.jpeg)A steady, solid distorted beat giving the backdrop to vocals best described as "sounding like Fever Ray stuck in a microwave"!From AyGeeTee's _Answers for Past Meetings_ on [Honest Electronics](https://honestelectronics.bandcamp.com).Out 15.10 on digital – Pre-order: [](https://honestelectronics.bandcamp.com/album/answers-for-past-meetings-he14)[https://honestelectronics.bandcamp.com/album/answers-for-past-meetings-he14](https://honestelectronics.bandcamp.com/album/answers-for-past-meetings-he14)[](https://soundcloud.com/honest-electronics)[https://soundcloud.com/honest-electronics](https://soundcloud.com/honest-electronics)[](https://soundcloud.com/agt01)[https://soundcloud.com/agt01](https://soundcloud.com/agt01)

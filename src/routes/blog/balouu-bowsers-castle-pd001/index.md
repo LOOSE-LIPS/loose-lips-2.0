@@ -17,7 +17,7 @@ description: >-
   https://soundcloud.com/pressuredome [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/balouu-bowsers-castle-pd001/image924.jpeg)New Bass-orientated label in the Bristolian landscape, Pressure Dome drops their first record, consisting of  

@@ -16,7 +16,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/kakofonico-distant-call-intersezioni/image1205.jpeg)Infectious, trance inducing groove built around various ethnic instruments and a sharp, pumping beat!  

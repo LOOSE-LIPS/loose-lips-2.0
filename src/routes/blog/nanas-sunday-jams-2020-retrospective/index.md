@@ -15,7 +15,7 @@ description: >-
   just [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/nanas-sunday-jams-2020-retrospective/image1371.jpeg)**_\[Banner artwork by the majestic [Trav](https://www.backdownwarchild.co.uk/), all of Nana's jams are gathered in [this playlist](https://open.spotify.com/playlist/12UoQ8ov5i6P8BIfm2lOjS?si=jarAn1CXSEuYB9vAxJidOg).\]_****_What’s up Sunday Jammers! This is your editor Will Soer speaking. Our weekly Sunday Jams feature has been running since long before I joined the team in early 2018, I took over as editor about a year ago, and just over half a year ago I suggested Nana take up its reigns, having recently_** [**_welcomed_**](http://loose-lips.co.uk/blog/fantasy-realm) **_her into the team behind my collaborative Deep Cuts feature. The team all agreed that we really enjoyed her writing, and thankfully Nana said that_** **_the challenge of just writing about a tune, any tune, once a week, sounded like something she would really enjoy, in fact she described it as shooting fish in a barrell. I said that any word length is fine, as long as you send it one per week, but the fully developed passion and consistent energy behind Nana’s taste meant that each and every article has come in fully satisfying form, like the caffeinated mid-section of a leisurely lunchtime chat between firm friends. Beautiful writing, bountiful rarities, valuable honesty, we love to see it._** **_As a retrospective, Nana and I each picked three of our favourite Nana’s Sunday Jams from the last year, and I trimmed them each down to a quickly digestible kernel of character. Enjoy!_**

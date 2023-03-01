@@ -15,7 +15,7 @@ description: >-
   exciting occurences [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/picks-dr-puddings-lockeddown-london-daytrip/image1041.jpeg)**_Such a bizarre time. We've been in this mess long enough that some creative fruits are coming out of it, creative connections have been made, music has been shared and properly appreciated, but christ this is a headfuck of a year. The best points seem tethered to the worst; one of the most exciting occurences within the Loose Lips universe has been the entrance of electronic singer/songwriter Lapis, who has put out a couple of fantastic releases through our label, one [spoken word piece](https://looselips123.bandcamp.com/track/lapis-within-all-things-prod-dr-pudding) and one ethereal ballad of a single, a connection-reflection named [Possy](https://looselips123.bandcamp.com/album/ll019-possy). Lapis has already provided us a [picks](http://loose-lips.co.uk/blog/picks-lapis-inspirations) based on her influences, but today we welcome the producer of both aforementioned tracks (and cowriter of the latter),_** [**_Dr Pudding_**](https://www.instagram.com/dr_pudding/)**_, who continues a tradition we started during lockdown, sharing a sonic daytrip, a window into one's own escapist ideals. All tracks (except the Sonzeira one) are gathered in_** [**_this playlist_**](https://open.spotify.com/playlist/7qSHjNAfdgE1KiTYUEHEeb?si=e50yQBgiTB2MkK_z8A3esA)**_, take it away…_** 

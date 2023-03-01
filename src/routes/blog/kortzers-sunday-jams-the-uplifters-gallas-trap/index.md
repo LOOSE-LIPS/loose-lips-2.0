@@ -13,7 +13,7 @@ description: >-
   may or may not have!. [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/kortzers-sunday-jams-the-uplifters-gallas-trap/image884.jpeg)This week I'm featuring The Uplifters – Gallas Drop. The tracks fits Sunday perfectly, the slow swinging reggae beat soothes away any headaches you may or may not have!.

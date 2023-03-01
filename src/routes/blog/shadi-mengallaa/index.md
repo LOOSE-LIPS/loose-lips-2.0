@@ -15,7 +15,7 @@ description: >-
   around him would seem to be hugely&nbsp;challenging [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/shadi-mengallaa/image852.jpeg)_Shadi Megallaa is an inspiring man – an amazing DJ holding his residency at Dubai’s Analog Room, owner of Dubai’s only independent record store, The Flip Side, and owner/A&R at Ark To Ashes, a label connecting Brooklyn and the Arab Emirates.__Combining all this work in the environments around him would seem to be hugely_ _challenging and rewarding. We chatted to him to delve deeper._ 

@@ -15,7 +15,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/high-graid-bounce-ndx02/image753.jpeg)A steamy UK Funky track with enough subs to shake any club soundsystem.From High Graid's _Bounce_ EP on [Indexlife](https://indexlife.bandcamp.com/merch/alex-index-cosmic-calling-ep-t-shirt).Out 15.02 on digital – Pre-order: [https://indexlife.bandcamp.com/releases](https://indexlife.bandcamp.com/releases)[https://soundcloud.com/indexlife](https://soundcloud.com/indexlife)[https://soundcloud.com/highgraid](https://soundcloud.com/highgraid)

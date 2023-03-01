@@ -17,7 +17,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/lbf-hypercharged-ie003/image1048.jpeg)As if you were dropped inside the LHC as a quantum particle, _Hypercharged_ starts off the EP with strong, slick and contemporary aesthetics.From [LBF](https://www.residentadvisor.net/dj/laboumfatale)'s _Scent Of Gravity_ EP on [Ideal Europa](https://www.idealeuropa.eu/).Out 27.03.2020 on digital – Pre-order: [](https://www.junodownload.com/products/lbf-la-boum-fatale-scent-of-gravity/4465576-02/)[https://www.junodownload.com/products/lbf-la-boum-fatale-scent-of-gravity/4465576-02/](https://www.junodownload.com/products/lbf-la-boum-fatale-scent-of-gravity/4465576-02/)[](https://soundcloud.com/idealeuropa)[https://soundcloud.com/idealeuropa](https://soundcloud.com/idealeuropa)  

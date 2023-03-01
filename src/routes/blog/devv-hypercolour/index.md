@@ -15,7 +15,7 @@ description: >-
   in touch ever since.&nbsp; Devv cut his [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/devv-hypercolour/image1310.jpeg)[](https://soundcloud.com/devvmusic "Devv")

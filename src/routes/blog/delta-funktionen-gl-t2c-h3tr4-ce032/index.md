@@ -14,7 +14,7 @@ description: >-
   https://soundcloud.com/deltafunktionen [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/delta-funktionen-gl-t2c-h3tr4-ce032/image951.jpeg)Bootyshake-ready stripped down robot Funk!From [Delta Funkionen](https://www.residentadvisor.net/dj/deltafunktionen)'s _North Point_ EP on [Cultivated Electronics](https://www.residentadvisor.net/record-label.aspx?id=3746).Out 28.10 on 12" – Pre-order: [](https://clone.nl/item57755.html)[https://clone.nl/item57755.html](https://clone.nl/item57755.html)[](https://soundcloud.com/cultivated-electronics)[https://soundcloud.com/cultivated-electronics](https://soundcloud.com/cultivated-electronics)[](https://soundcloud.com/deltafunktionen)[https://soundcloud.com/deltafunktionen](https://soundcloud.com/deltafunktionen)

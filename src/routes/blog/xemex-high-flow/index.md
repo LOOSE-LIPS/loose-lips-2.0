@@ -13,7 +13,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/xemex-high-flow/image1328.jpeg)Badwoi cyberfunk!From [XemeX](https://xemex.bandcamp.com)'s _XemeX 1_ EP.Out now on digital – [https://xemex.bandcamp.com/releases](https://xemex.bandcamp.com/releases)[https://soundcloud.com/xemexmusic](https://soundcloud.com/xemexmusic)

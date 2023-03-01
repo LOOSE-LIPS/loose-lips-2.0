@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/autobodies-blind-summit-ledg010/image797.jpeg)From [Stoogie Houzer](https://s2ghzr.bandcamp.com/)'s new project Autobodies, this track is a slow burner that gets more and more attractive as it develops.From Autobodies' _Bodywork_ EP on [Eddy Larkin](https://www.eddylarkin.com/).Out now on digital – Order: [](https://eddylarkin.bandcamp.com/album/bodywork)[https://eddylarkin.bandcamp.com/album/bodywork](https://eddylarkin.bandcamp.com/album/bodywork)[https://soundcloud.com/eddylarkin](https://soundcloud.com/eddylarkin)[](https://soundcloud.com/stoogiehouzer)[https://soundcloud.com/stoogiehouzer](https://soundcloud.com/stoogiehouzer)

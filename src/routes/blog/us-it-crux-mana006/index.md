@@ -13,7 +13,7 @@ description: >-
   https://soundcloud.com/8-manahttps://soundcloud.com/usandit [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../undefined)An ultra fresh Club track with Braindance sensibilities from Us & It!From _3142_ V/A EP on [8MANA](https://8mana.bandcamp.com/).Out 24.04.2019 – Pre-order: [](https://8mana.bandcamp.com/album/3142)[https://8mana.bandcamp.com/album/3142](https://8mana.bandcamp.com/album/3142)[](https://soundcloud.com/8-mana)[https://soundcloud.com/8-mana](https://soundcloud.com/8-mana)  

@@ -16,7 +16,7 @@ description: >-
   his first full-length Electro album in [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/the-advent-statis-v2-ce035-lp/image1115.jpeg)[The Advent](https://www.residentadvisor.net/dj/theadvent) returns with a fire compilation of unreleased electro tracks from the '90s, surfacing a sampler of mad popping sonics, as featured in this very special premiere!From The Advent's _Life Cycle_ LP on [Cultivated Electronics](https://www.discogs.com/label/99223-Cultivated-Electronics).Out now on 2×12" and digital – Order: [](https://l.facebook.com/l.php?u=https%3A%2F%2Fclone.nl%2Fitem59925.html%3Ffbclid%3DIwAR1tGveswV6Qi9mPd_d4I4cEPv8TiqLbYOvGlucuMWHDiGX1JyqtL914b20&h=AT3QbYqMOirQShW1KxkvQcAC6KuCFQDQRnppTYjSWU5t64ZhQ0e8GSL8OrrQWsN8pHvkKV_Vn42MhlW6MgZuO7pFl7mKWbnYThvzXgc_4jAD16m7uYthnh3VSeBjQkhIWizAq8VP)[https://clone.nl/item59925.html](https://clone.nl/item59925.html)

@@ -17,7 +17,7 @@ description: >-
   and taking all our work! A.I. (Artificial Intelligence) [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/blabbermouth-maschine-fragment-dirter-promotions/image805.jpeg)A unique dystopian Rock song from an equally unique album. Thought provoking and energising!From [Blabbermouth](https://soundcloud.com/user-997091490)'s _Hörspiel_ LP on [Dirter Promotions](http://www.dirterpromotions.com/).Out 26.04 on 12", CD, cassette and digital.  

@@ -14,7 +14,7 @@ description: >-
   https://soundcloud.com/alavux [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/alavux-space-junk-ba088/image732.jpeg)Full throttle into a cosmic belt of space debris, heading towards the nearest black hole.From Alavux's _Cyberpunk_ EP on [Bass Agenda](https://bassagendarecordings.bandcamp.com/).Out 18.01 on digital – Follow [Bass Agenda](https://bassagendarecordings.bandcamp.com/).[https://soundcloud.com/bassagenda](https://soundcloud.com/bassagenda)[https://soundcloud.com/alavux](https://soundcloud.com/alavux)

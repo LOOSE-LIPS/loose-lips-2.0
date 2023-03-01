@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/dothedu-love-illusions-sv004/image911.jpeg)Acid laced Chicago-style House with big dirty kicks and inebriated vocals floating around.  

@@ -15,7 +15,7 @@ description: >-
   from the [...]Read More...
 published: true
 tags:
-  - post
+  - release-review
 featured: false
 ---
 ![image](../imported/yan-cook-counterclockwise-ep/image1059.jpeg)Seldom do I listen to a new EP where all four tracks genuinely tickle my taste buds. Yan Cook’s latest release is one of these rare finds. 

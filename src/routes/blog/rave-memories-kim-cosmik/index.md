@@ -15,7 +15,7 @@ description: >-
   parties, festivals and raving memories of years past. [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/rave-memories-kim-cosmik/image1360.jpeg)_Here we continue our exploration of those social experiences that are so precious to so many of us; often facilitated by amazing soundsystems, great company and inspiring curation.__In our new bi-monthly rave memories feature, members of the Loose Lips extended family highlight some of their favourite parties, festivals and raving memories of years past. We hope these personal insights will further excitement for times to come!__Following our co-founder Medallion Man's memories of Kallida Festival, we have bona fide rave legend (who absolutely bodied the mix for our recent long-read/collaborative playlist [Euphoric Apocalyptica](http://loose-lips.co.uk/blog/euphoric-apocalyptica)),_ [_Kim Cosmik_](https://soundcloud.com/kimcosmik)_.  

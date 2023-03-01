@@ -15,7 +15,7 @@ description: >-
   such as Bizarre Inc. and [...]Read More...
 published: true
 tags:
-  - post
+  - mix-series
 featured: false
 ---
 ![image](../imported/altern8s-mark-archer-raves-up-our-300th-mix-series/image1289.jpeg)_Here we are! Another century! As you might know, we're big on taking opportunities to celebrate and, reaching magic number 300, we've invited Altern8 frontman Mark Archer to do a mix for us!_

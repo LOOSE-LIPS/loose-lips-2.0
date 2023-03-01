@@ -15,7 +15,7 @@ description: >-
   After [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/picks-third-sons-teenagelectronic-crossover/image1295.jpeg)**_Welcome again to the collosseum of bangers!!! Are you hungry for beats?!?!?!?! Do you want them to pour down your throat and simultaneously up your backside until your innermost being consists of Bass?!?!?!?!?!?!?!?!? Well calm down lad, sit down and have a cup of tea. Let me tell you the tale of Third Son. After developing recognition for his rich electronica over the course of 3 hardworking years, h_****_e recorded his debut album together in 20 Days, imagine that! And then named it 20 Days! It's a gorgeous polyphonic splurge, definitely worth a listen. Anyway, Third Son wasn't always as edgy as me, no sir! He used to like indie rock, HAHAHAHAHAHA imagine that. Anyway, he's put together a lovely playlist of tunes that eased his transition into cultural relevancy, all gathered in_** [**_this Spotify playlist_**](https://open.spotify.com/playlist/5oWMXfgcStj7Ec4tpRr44D?si=8DAF7SZKToCwAuwFwlLo5Q) **_here, and explained by the man himself below. Drink up and enjoy…_** **_(also he's due to play alongside Erol Alkan at Night Tales on November 1st!)_**

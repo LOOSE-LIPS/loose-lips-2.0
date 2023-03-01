@@ -15,7 +15,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/carl-finlow-carbon-deposits-vis317/image1064.jpeg)Cybernetic cruising in dark mode!From [Carl Finlow](https://www.2020recordings.com/carlfinlow-random-factor)'s _Apparatus_ LP on [20/20 Vision](https://www.2020recordings.com/).Out 06.04.2020 on digital – Pre-order: [](https://www.juno.co.uk/products/carl-finlow-apparatus/741398-01/)[https://www.juno.co.uk/products/carl-finlow-apparatus/741398-01/](https://www.juno.co.uk/products/carl-finlow-apparatus/741398-01/)[](https://soundcloud.com/2020visionrecordings)[https://soundcloud.com/2020visionrecordings](https://soundcloud.com/2020visionrecordings)  

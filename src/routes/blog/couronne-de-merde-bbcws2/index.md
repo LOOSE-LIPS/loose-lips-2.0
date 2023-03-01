@@ -19,7 +19,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/couronne-de-merde-bbcws2/image1079.jpeg)Incisive and emotional, _Serotonin with a knife_ (as the title translates to) dives down a darkly contemplative path while sustaining the attention with bleeding chopped breaks.From [Couronne De Merde](https://soundcloud.com/couronnedemerde)'s _ﺍﺗﻤﻨﻰ ﻟﻮ ﺍﻥ ﺍﻟﺮﻳﺎﺡ ﺗﺠﻠﻲ ﺍﻟﺮﻣﺎﺩ_ on [Broken Britain Cassettes](https://www.discogs.com/label/1016831-Broken-Britain-Cassettes).Out now on cassette and digital – Order: [](https://wannamarchi.bandcamp.com/album/-)[https://wannamarchi.bandcamp.com/album/-](https://wannamarchi.bandcamp.com/album/-)  

@@ -17,7 +17,7 @@ description: >-
   I have contributed to [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/allan-shotter-something-old-2diy4-24/image1104.jpeg)A dark, dreamy piece sitting between Dark/Synthwave and Minimal House.From [Allan Shotter](https://www.residentadvisor.net/dj/allanshotter)'s _Das Gift_ EP on [2DIY4](https://www.diynamic.com/discography/2diy4/).Out 8.05.2020 on digital – Pre-order: [](https://www.beatport.com/release/das-gift/2937376)[https://www.beatport.com/release/das-gift/2937376](https://www.beatport.com/release/das-gift/2937376)[](https://soundcloud.com/2diy4)[https://soundcloud.com/2diy4](https://soundcloud.com/2diy4)  

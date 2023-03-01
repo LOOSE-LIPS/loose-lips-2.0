@@ -15,7 +15,7 @@ description: >-
   sound gets tasty and we get curious. [...]Read More...
 published: true
 tags:
-  - post
+  - picks
 featured: false
 ---
 ![image](../imported/martin-ghs-gateway-drugs/image1335.jpeg)**_The fascination continues. Over the last few weeks our Picks series has documented all sorts of musical constellations; its sources in marginalised queer communities, its emotional resances, the minds it melts and the journeys it facilitates. But today we go right back to the source, the moment when sound gets tasty and we get curious. Our host is Mancunian Loose Lips writer Martin Guttridge-Hewitt, whose Record Store Days interview/feature series has explored some of the sites of this match-striking (see his most recent Chicago exploration [here](http://loose-lips.co.uk/blog/record-store-days-outsider-betting-at-groove-records-chicago)). As always all Spotifyable tracks are [here](https://open.spotify.com/playlist/5JH8AZStkZLkLVxD6Q4QlB?si=FUOEhb0QQd2ibnSspv2T8Q), take it away…_**

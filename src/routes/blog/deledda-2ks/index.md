@@ -16,7 +16,7 @@ description: >-
   together with Giuseppe [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/deledda-2ks/image1263.jpeg)**We've caught up with** [**SCHiLLiNG**](https://schillingapparelmusic.bandcamp.com/) **and** [**Kisk**](https://www.discogs.com/artist/1182106-Kisk)**, talking about their new project with Deledda on the forthcoming _Spore_ EP on their very own** [**Apparel Tronic**](https://www.apparelmusic.com/apparel-tronic/)**, from which you can have a glimpse at with our premiere:**_Hi guys! Could you introduce yourselves in a few words to our readers?_Here's Ludovico Schilling (SCHiLLiNG), founder of Apparel Tronic together with Giuseppe DʼAlessandro (Kisk).  
