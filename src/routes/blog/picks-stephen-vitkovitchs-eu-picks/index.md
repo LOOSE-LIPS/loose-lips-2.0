@@ -15,7 +15,7 @@ description: >-
   thought a &#39;Picks&#39; on Europe would [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/picks-stephen-vitkovitchs-eu-picks/image1202.jpeg)_Stepping up for this week's sonic tasteboard, we have the head of the fantastic [Byrd Out](https://byrdout.bandcamp.com/) label, all tracks gathered in [this here spotify playlist](https://open.spotify.com/playlist/7D2RUILXGUdoODPAwinBjI?si=tVwxD67aQHGMh3XxjDo4Qw), take it away Stephen!_ 

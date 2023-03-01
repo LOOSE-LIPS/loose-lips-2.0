@@ -15,7 +15,7 @@ description: >-
   tempos you don&rsquo;t expect, [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/dnb-fix-019-1985-music-edition-3/image1160.jpeg)_Alix Perez isn’t interested in the past. He constantly looks for ways to move forward – to explore new sonic territory, new ideas, new approaches. [His Keep Hush showed that](https://www.youtube.com/watch?v=4u7nAXV-9EY). 1985 Music is the testing ground for these new ideas, and their third compilation is their most diverse yet._It has tempos you don’t expect, for one. Alix’s recent contributions at 140bpm on the Last Rites EP were some of my most memorable dubstep moments of 2019, and the handful of dubby cuts here represent emerging talents from that lane fully. Drone knocks it out of the park for Bristol as usual on Blood Orange, pulsating, aggy bass propelled forward by rolling hats and snapping claps. There’s Lordel’s Relic, a two-note synth fluttering in the background growing into an angry snarl before sliding to nostalgic, rolling breaks.  From international boarders, Cesco’s Bomba slaps into another dimension with a wubbing stomper of a melody, and over in Minneapolis, Ternion Sound emphasise the dub, delayed snares abound on Look No Further. They’re excellent demonstrations of ‘less is more’.

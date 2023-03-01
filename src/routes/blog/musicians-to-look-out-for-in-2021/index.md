@@ -15,7 +15,7 @@ description: >-
   club-ready hits as he is expansive drones and [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/musicians-to-look-out-for-in-2021/image1365.jpeg)_As we end a truly odd and challenging year, we've asked some of our crew and extended family to look forward, onwards and upwards – sharing some musical excitement!_

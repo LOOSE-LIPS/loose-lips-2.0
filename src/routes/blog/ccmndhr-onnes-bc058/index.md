@@ -15,7 +15,7 @@ description: >-
   https://soundcloud.com/bricolage-g5 [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/ccmndhr-onnes-bc058/image1297.jpeg)Majestic escapism into icey, aerial landscapes courtesy of Glaswegian duo cCmndhr.From cCmndhr's _sBtrfge_ EP on [Bricolage](https://bricolageglasgow.bandcamp.com/).Out 23.10.2020 on digital – Pre-order: [https://bricolageglasgow.bandcamp.com/album/sbtrfge-bc058](https://bricolageglasgow.bandcamp.com/album/sbtrfge-bc058)[https://soundcloud.com/bricolage-g5](https://soundcloud.com/bricolage-g5)

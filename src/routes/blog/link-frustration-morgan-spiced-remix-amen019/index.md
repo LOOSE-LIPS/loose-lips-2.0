@@ -15,7 +15,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/link-frustration-morgan-spiced-remix-amen019/image1180.jpeg)[Morgan Spiced](https://soundcloud.com/morganjohnston) on remix duties, mashing it up proper!From Link's _Frustration_ remix EP on [Amenology](https://www.amenology.com/).Out soon on 12" and digital – [](https://www.amenology.com/vinyl/amen019)[https://www.amenology.com/vinyl/amen019](https://www.amenology.com/vinyl/amen019)[https://soundcloud.com/amenology](https://soundcloud.com/amenology)  

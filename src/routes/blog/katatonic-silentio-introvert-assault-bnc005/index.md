@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/katatonic-silentio-introvert-assault-bnc005/image1148.jpeg)Bass-heavy dystopian Electro from Milan-based producer Katatonic Silentio, straight to the point!From [Katatonic Silentio](https://www.residentadvisor.net/dj/katatonicsilentio-it)'s _Prisoner Of The Self_ EP on [Bristol NormCore](https://bristolnormcore.bandcamp.com/).Out 18.06.2020 on 12" and digital – Pre-order: [](https://bristolnormcore.bandcamp.com/album/katatonic-silentio-prisoner-of-the-self)[https://bristolnormcore.bandcamp.com/album/katatonic-silentio-prisoner-of-the-self](https://bristolnormcore.bandcamp.com/album/katatonic-silentio-prisoner-of-the-self)  

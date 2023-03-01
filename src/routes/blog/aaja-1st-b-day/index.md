@@ -15,7 +15,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/aaja-1st-b-day/image930.jpeg)**Why did you choose MOT for the venue?**

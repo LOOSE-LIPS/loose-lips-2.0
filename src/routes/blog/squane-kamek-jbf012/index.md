@@ -15,7 +15,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/squane-kamek-jbf012/image985.jpeg)A club burner, pulsating over steel-like percussions. Tasty!From Squane's Venta EP on Jelly Bean Farm.Out 20.12 on digital – Pre-order: [](https://boomkat.com/products/vesta?taxon_id=107763)[https://boomkat.com/products/vesta?taxon\_id=107763](https://boomkat.com/products/vesta?taxon_id=107763)[](https://soundcloud.com/jellybeanfarm)[https://soundcloud.com/jellybeanfarm](https://soundcloud.com/jellybeanfarm)  

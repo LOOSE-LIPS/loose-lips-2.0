@@ -16,7 +16,7 @@ description: >-
   https://soundcloud.com/keysound-recordings [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/blackdown-the-hunger-ldn079/image1046.jpeg)A Weightless exploration of darkside 130bpm rollage, introducing the EP with brooding tension, glowing in the middle of a storm.

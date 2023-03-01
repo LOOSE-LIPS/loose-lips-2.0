@@ -16,7 +16,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/polo-lilli-mtbk-shubzinva001/image1038.jpeg)[Polo Lilli](https://www.facebook.com/pololilli/) gives his take on the Punjabi MC's 2002 hit '_Mundian To Bach Ke_', turning it into a flamboyant, uptempo Jungle/Footwork hybrid that would seduce any subwoofer!From _SHUBZIN001_ V/A compilation, also featuring artists such as Garneau, Go Nuclear, Fiesta Soundsystem, Weith, Rory Kelly, LMajor and many more!Out 10.03.2020 on digital – Pay what you want at [http://shubzin.bandcamp.com/album/shubzin-va001](http://shubzin.bandcamp.com/album/shubzin-va001)![](https://soundcloud.com/shubzin)[https://soundcloud.com/shubzin](https://soundcloud.com/shubzin)  

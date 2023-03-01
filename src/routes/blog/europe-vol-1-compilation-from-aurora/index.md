@@ -15,7 +15,7 @@ description: >-
   release is a compilation that presents [...]Read More...
 published: true
 tags:
-  - post
+  - release-review
 featured: false
 ---
 ![image](../imported/europe-vol-1-compilation-from-aurora/image1085.jpeg)  

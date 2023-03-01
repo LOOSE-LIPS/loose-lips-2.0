@@ -15,7 +15,7 @@ description: >-
   musical development for some years now. Apart [...]Read More...
 published: true
 tags:
-  - post
+  - event-review
 featured: false
 ---
 ![image](../imported/nene-h-ensemble-basiani-performance-at-ctm-festival/image1037.jpeg)_We're all missing the experience of live music in venues right now: for this edition of Editors' Pick, Hardy takes us back to Zuzana Friday's in depth review of a unique experience – Nene H & Ensemble Basiani at CTM festival, January 2020._

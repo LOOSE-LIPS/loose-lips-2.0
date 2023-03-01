@@ -15,7 +15,7 @@ description: >-
   https://soundcloud.com/osckins [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../undefined)This is like Miami Bass on steroids! If you need to wake up or enhance your mood, look no further!From _VNDLYVA01_ VA compilation of [Vandelay Radio](https://vandelayradio.com/).Out 22.02 on digital – Download for any price of feel like: [https://shop.vandelayradio.com/album/vndlyva01](https://shop.vandelayradio.com/album/vndlyva01)[https://soundcloud.com/vandelaylol](https://soundcloud.com/vandelaylol)[https://soundcloud.com/adreimatup](https://soundcloud.com/adreimatup)[https://soundcloud.com/osckins](https://soundcloud.com/osckins)

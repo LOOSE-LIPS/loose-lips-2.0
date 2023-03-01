@@ -16,7 +16,7 @@ description: >-
   acidic binges that would put [...]Read More...
 published: true
 tags:
-  - post
+  - event-review
 featured: false
 ---
 ![image](../imported/midori-takada-and-lafawndah-blue-ceremony-at-the-barbican/image845.jpeg)Genre defying pop music is not a phrase one would quickly attribute to, now cult level, Japanese percussionist Midori Takada. So the collaboration with up and comer Lafawndah doesn’t jump out on paper. However, the little known story of her taking up residence with legend David Bowie, and indulging in acidic binges that would put both the Beatles and the merry pranksters to shame, helps it all make sense. Her solo show professing the ‘perfect wisdom’ taken to new, all encompassing heights, stepping outside any cultural and religious preconceptions and frameworks to spread the devout message. A feeling familiar to those ‘experienced’ a feeling, a knowing, which isn’t tarnished by dogma and thus accessible to all.

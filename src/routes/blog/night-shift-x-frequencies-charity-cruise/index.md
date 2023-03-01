@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - review
 featured: false
 ---
 ![image](../imported/night-shift-x-frequencies-charity-cruise/image882.jpeg)Two of Toronto’s hottest musical showcases took to the waves of Lake Ontario last Thursday for a great cause. The weekly dance-music staple; [_Nightshift_](https://www.facebook.com/NightShiftToronto/)_,_ teamed up with monthly live-performance hub; [_Frequencies_](https://www.facebook.com/frequencies.to/) for a night of nautical fun onboard the [River Gambler](https://www.facebook.com/rivergamblertoronto/). Both platforms are committed to harbouring the music scene in Toronto through their regular free parties. On this occasion, their time and effort was not just donated to the music scene but to Toronto as a whole. The event was fundraising on behalf of two local charities who do some incredible work (click the links to find out more or to donate to [Street Health](http://www.streethealth.ca/donate%2523.XRZsRpNKhPM) and [St. Stephen’s Community House](https://www.sschto.ca/Ways-to-Give/Donate)). The party was rescheduled to accommodate better weather conditions and this decision paid off bountifully. We embarked upon a glorious sunny evening on the top deck as [ISO](https://www.isoradio.to/) Resident [ASEY](https://soundcloud.com/whoisasey/tracks)  

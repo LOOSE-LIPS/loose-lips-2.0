@@ -15,7 +15,7 @@ description: >-
   Vomita&#39;s Rrose EP on EVEL Records. Out 01.10 on [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/nike-vomita-3konika-longtale-edt-evel-records/image928.jpeg)Barcelona-based producer Nike Vomita features on the 5th instalment of the Adipem Fex Series, with a large  

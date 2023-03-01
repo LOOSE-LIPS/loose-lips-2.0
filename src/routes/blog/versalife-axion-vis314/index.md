@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/versalife-axion-vis314/image889.jpeg)The man behind Conforce delivers an Electro track harboring his well defined sonic palette.From [Versalife](https://www.residentadvisor.net/dj/versalife)'s _Machine Life_ on [20/20 Vision](https://www.discogs.com/label/15-2020-Vision).Out 15.07 on digital. Vinyl is already available on [](https://www.juno.co.uk/products/versalife-machine-life/715237-01/)[https://www.juno.co.uk/products/versalife-machine-life/715237-01](https://www.juno.co.uk/products/versalife-machine-life/715237-01/).[](https://soundcloud.com/2020visionrecordings)[https://soundcloud.com/2020visionrecordings](https://soundcloud.com/2020visionrecordings)[](https://soundcloud.com/conforce)[https://soundcloud.com/conforce](https://soundcloud.com/conforce)

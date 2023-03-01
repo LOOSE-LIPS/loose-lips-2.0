@@ -18,7 +18,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - release-review
 featured: false
 ---
 ![image](../imported/brain-rays-parish-news-ft-dan-jose-inner-freak/image1097.jpeg)Last Friday saw the release of a brand-new project from award-winning filmmaker Max Sobol and motion-designer Matt Osborne. The pair have created a unique video project – featuring the latest single by the UK-based producers and DJs- _Brain Rays_ and _Parish News_ (whose work has been supported by Annie Mac, Mixmag and Bandcamp). _“Brain Rays had the idea after seeing the ways people were dealing with the unique circumstances brought about by the Covid-19 crisis.”_ 

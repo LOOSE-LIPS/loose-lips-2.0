@@ -16,7 +16,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/barom-inim-osd004/image1290.jpeg)A positive Grime-infused piece oscillating between waves of euphoria and cosy, gentle percussive melodies.From Barom's _don't leave, never arrive please_ on [Off-Switch Audio](https://offswitchaudio.bandcamp.com/).Out now on digital – [https://offswitchaudio.bandcamp.com](https://offswitchaudio.bandcamp.com/)[https://soundcloud.com/offswitchaudio](https://soundcloud.com/offswitchaudio)  

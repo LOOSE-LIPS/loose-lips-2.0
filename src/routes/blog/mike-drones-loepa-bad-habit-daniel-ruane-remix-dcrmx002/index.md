@@ -18,7 +18,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../undefined)Daniel Ruane re-interprets the original in a bass-driven, beatless, intricate and gritty way. Powerful.From [Mike Drones](https://www.discogs.com/artist/4871335-Mike-Drones) & [Loëpa's](https://loepa.bandcamp.com/) _Still Bad_ remix EP on [Deep Cover](https://deepcoveruk.bandcamp.com).Out 12.04 on digital – Pre-order: [](https://deepcoveruk.bandcamp.com/album/dcrmx002-still-bad)[https://deepcoveruk.bandcamp.com/album/dcrmx002-still-bad](https://deepcoveruk.bandcamp.com/album/dcrmx002-still-bad)[https://soundcloud.com/deepcoveruk](https://soundcloud.com/deepcoveruk)[](https://soundcloud.com/mike-drones)[https://soundcloud.com/mike-drones](https://soundcloud.com/mike-drones)[](https://soundcloud.com/loepa)[https://soundcloud.com/loepa](https://soundcloud.com/loepa)[](https://soundcloud.com/daniel-ruane-2)[https://soundcloud.com/daniel-ruane-2](https://soundcloud.com/daniel-ruane-2)

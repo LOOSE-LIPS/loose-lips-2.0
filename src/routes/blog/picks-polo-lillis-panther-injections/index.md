@@ -16,7 +16,7 @@ description: >-
   as an [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/picks-polo-lillis-panther-injections/image1209.jpeg)_This week, we invite the twisted pop provocateur, Bristolian DJ and producer Polo Lilli, fresh from the release of their transcendant breakbeat, Pink-Floyd-on-pingers face-splash 'The Great Bootleg In The Sky' (out now on [bandcamp](https://polo-lilli.bandcamp.com/track/the-great-bootleg-in-the-sky)__). All Spotify-able tracks are gathered in_ [_this playlist_](https://open.spotify.com/playlist/3tkgbZE4a7uPVmf6msm5zZ?si=emYXxG0YQG2IvfRMdqr_Ig)_, take it away Prime Minister Polo…_

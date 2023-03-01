@@ -15,7 +15,7 @@ description: >-
   showcases some of the best new tracks the label [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/dnb-fix-029-hlz-blind-slug-fractale-remix/image1258.jpeg)_International Drum & Bass trio Fractale make their mark on Unchained Recordings’ latest remix LP with a heavy hitting remix of HLZ’s half-time banger, Blind Slug._CHina based label; Unchained Audio celebrates its diverse global network of incredible artists with a 16 track remix LP that showcases some of the best new tracks the label has to offer coupled with some seriously hot remixes from the back catalogue.The LP is chock-a-block with weight from a selection of some of the best artists the scene has to offer, including Arkaik, Rohaan, Black Barrell, Whiney and Royalston. Many of these are well known household names in the European scene, but it’s not all about Europe, with the likes of China based Radiax and 3ASIC contributing fresh and unique productions on this VA.

@@ -10,7 +10,7 @@ banner:
 description: 'a [...]Read More...'
 published: true
 tags:
-  - post
+  - article
 featured: false
 ---
 ![image](../imported/a/image1395.jpeg)a

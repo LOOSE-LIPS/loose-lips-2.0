@@ -16,7 +16,7 @@ description: >-
   heavy [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/joakim-hellgren-boy-tr4r-02/image831.jpeg)In a similar vein as his Lo-Fi House peers re-imagining House Music, [Joakim Hellgren](https://joakimhellgren.bandcamp.com) drops his vision of a 93' era 'Ardcore Jungle track that punches through the guts!His d&b focused contribution, ‘Boy’ is undoubtedly the most ‘different’ of all the tracks on show on TR4R02, principally because it adheres to a more d&b heavy theme. An urban-inspired gem that could well have come from the streets of East London, it displays an unlikely albeit welcome side to the label. An occupational sound designer currently residing in Stockholm, Sweden, Joakim's passion for sound exploration has landed him opportunities to express himself artistically through his occupation, which has resulted in critically acclaimed projects. A key member of the Osignat crew, he has played alongside the likes of DJ Boring and released on VAs alongside the likes of DJ Swagger and DJ Windows XP to name a few.From _TR4R 02_ VA compilation on [Too Rough 4 Radio](https://toorough4radio.bandcamp.com/).Out 31.05 on 12" and digital – Pre-order:Lobster Records: [bit.ly/2Lj7VcR](http://bit.ly/2Lj7VcR)  

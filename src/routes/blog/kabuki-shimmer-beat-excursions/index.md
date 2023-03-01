@@ -15,7 +15,7 @@ description: >-
   https://soundcloud.com/iamkabuki [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/kabuki-shimmer-beat-excursions/image1043.jpeg)A slow burning half-step hybrid from [Kabuki](https://iamkabuki.bandcamp.com/), at crossroads between classic Dubstep and Aux88-style Electro!From _Beat Excursions #5_ V/A EP on [Beat Excursions](https://www.discogs.com/label/1460730-Beat-Excursions).Out 27.03.2020 on digital – Pre-order: [](https://iamkabuki.bandcamp.com/album/beat-excursions-5)[https://iamkabuki.bandcamp.com/album/beat-excursions-5](https://iamkabuki.bandcamp.com/album/beat-excursions-5)[](https://soundcloud.com/iamkabuki)[https://soundcloud.com/iamkabuki](https://soundcloud.com/iamkabuki)

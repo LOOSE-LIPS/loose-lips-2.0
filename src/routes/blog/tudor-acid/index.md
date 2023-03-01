@@ -16,7 +16,7 @@ description: >-
   Facebook &amp; Twitch pages at 18:30 (GMT). [...]Read More...
 published: true
 tags:
-  - post
+  - live-session
 featured: false
 ---
 ![image](../imported/tudor-acid/image1382.jpeg)Ahead of his Loose Lips Live Session streaming live this evening, [Tudor Acid](https://www.discogs.com/artist/1799662-Tudor-Acid) has given us a sneak preview into the exploration, with this splendid, lush, melody-driven track.Hitting that Braindance itch![https://soundcloud.com/tudorbeats](https://soundcloud.com/tudorbeats)  

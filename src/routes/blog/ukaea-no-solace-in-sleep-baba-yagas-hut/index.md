@@ -17,7 +17,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/ukaea-no-solace-in-sleep-baba-yagas-hut/image1322.jpeg)What happens when you smash techno atoms in the LHC, then reconstruct them with audio gear?  

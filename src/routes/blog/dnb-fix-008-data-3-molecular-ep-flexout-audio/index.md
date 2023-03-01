@@ -15,7 +15,7 @@ description: >-
   scientific talents to the study and production [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/dnb-fix-008-data-3-molecular-ep-flexout-audio/image1053.jpeg)_Introducing the sounds of the near future, with Data 3.  Legend has it that the trio met when they were all studying Particle Physics at The University of Hebden – located somewhere off the coast of Callisto, Jupiter’s second largest moon._They have now chosen to direct their scientific talents to the study and production of Drum & Bass music, and this is the reason behind their choice of track names.

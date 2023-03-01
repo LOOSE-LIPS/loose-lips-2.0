@@ -15,7 +15,7 @@ description: >-
   representation. I felt like I recognised [...]Read More...
 published: true
 tags:
-  - post
+  - release-review
 featured: false
 ---
 ![image](../imported/julia-star-in-the-ocean-i-depart/image936.jpeg)Julia Star reminds me of tv characters like Fleabag’s Claire and Broad City’s Iliana. She has Claire’s cutting anxiety and Iliana’s rockstar swagger, but what really brings them to mind when listening to _In The Ocean I Depart_, the new ep written, performed and produced by the Star, is representation. I felt like I recognised these characters when I first met them onscreen. I didn’t recognise them from any similar characters I’d seen on tv, only from people I had met and had actual conversations with, in my own life. 

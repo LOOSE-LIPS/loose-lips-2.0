@@ -16,7 +16,7 @@ description: >-
   inordinate amount [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/sultan-shakes-fold/image859.jpeg)_Medallion Man interviews fellow-curator,_ [_Sultan Shakes_](https://www.facebook.com/sultanshakes/)_, following_ [_their night at FOLD this Saturday_](https://www.facebook.com/events/1082849241922269/)_._

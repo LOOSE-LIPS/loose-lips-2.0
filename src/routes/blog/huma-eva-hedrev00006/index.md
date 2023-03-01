@@ -15,7 +15,7 @@ description: >-
   https://soundcloud.com/huma4444 [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/huma-eva-hedrev00006/image961.jpeg)Mayhem in the Garden of Eden! Excerpt from Huma's forthcoming album of the same name, a deep and technological tale of extremes! From [Huma](http://residentadvisor.net/dj/huma)'s _Eva_ LP on [Hedonic Reversal](http://hedonicreversal.com/).Out 11.11 on 2×12" and digital – [](http://hedonicreversal.com/)[http://hedonicreversal.com](http://hedonicreversal.com/)[](https://soundcloud.com/hedonic_reversal)[https://soundcloud.com/hedonic\_reversal](https://soundcloud.com/hedonic_reversal)[https://soundcloud.com/huma4444](https://soundcloud.com/huma4444)

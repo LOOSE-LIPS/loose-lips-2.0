@@ -16,7 +16,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/dnb-fix-009-baby-t-portra-ep-smde15/image1065.jpeg)_You may recognise household name Brianna Price AKA B.Traits for her contribution to the bass house and breakbeat scene over the last 10 years. ‘Portra’ couldn’t be any more dissimilar to her 2011 single ‘Fever’, which paid homage to the up-lifting piano house tracks of the 90s. Albeit, ‘Fever’ was indeed a wicked track, but it’s nothing like the new material Baby T has in store for us._ 

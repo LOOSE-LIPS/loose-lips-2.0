@@ -14,7 +14,7 @@ description: >-
   the first time they&#39;ve linked [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../undefined)_Rising talent T95 and veteran MC DRS cross paths and release dark roller "On Site" over on Overview Music._T95 is an up and coming producer from Surrey, previously part of the duo Xyphon. This is his debut solo release featuring veteran Mancunian wordsmith DRS. Despite that, it's not actually the first time they've linked up; in 2019 as part of ‘Xyphon’, T95 worked alongside Harry Shotta to release heavy foghorn roller ‘Curriculum Vitae’ which featured a verse from DRS himself.

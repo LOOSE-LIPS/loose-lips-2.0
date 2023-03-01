@@ -16,7 +16,7 @@ description: >-
   above all of what we believe [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/gravitational-effect-you-know-frequency-pt001/image992.jpeg)Liège-based producer [Gravitational Effect](https://www.discogs.com/artist/5385515-Gravitational-Effect) spins up the Funk valve to deliver a slick 80's tinted Electro Boogie number!From _Bored in a Cosmic Network_ V/A EP on [Planet Tapes](https://www.facebook.com/Planet.Tapes).Out 13.01.2020 on 12" – Pre-order: [](https://www.juno.co.uk/products/gravitational-effect-bored-in-a-cosmic-network/758728-01/)[https://www.juno.co.uk/products/gravitational-effect-bored-in-a-cosmic-network/758728-01](https://www.juno.co.uk/products/gravitational-effect-bored-in-a-cosmic-network/758728-01/)_"Bored in a Cosmic Network" is the mirror of what reflects us and above all of what we believe can remain imprinted in the listener’s mind._[https://soundcloud.com/planet\_tapes](https://soundcloud.com/planet_tapes)[https://soundcloud.com/gravitationaleffect](https://soundcloud.com/gravitationaleffect)

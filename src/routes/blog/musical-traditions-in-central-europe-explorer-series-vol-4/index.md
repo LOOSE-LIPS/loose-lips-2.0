@@ -16,7 +16,7 @@ description: >-
   collections [...]Read More...
 published: true
 tags:
-  - post
+  - release-review
 featured: false
 ---
 ![image](../imported/musical-traditions-in-central-europe-explorer-series-vol-4/image832.jpeg)I must start by saying that the name [Burnt Friedman](https://burntfriedman.com) always lurked at the edges of my musical library. I guess he's one of those artists that have a huge portfolio of collaborations. For example, he is a guest artist on countless legendary dub records, and you can’t miss his name when scanning through collections of the genre.  

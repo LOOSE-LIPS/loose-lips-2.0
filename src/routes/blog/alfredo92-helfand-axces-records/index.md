@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/alfredo92-helfand-axces-records/image1010.jpeg)Crystalline percussive notes advancing alongside smoothly pulsating percussions into a mysterious  

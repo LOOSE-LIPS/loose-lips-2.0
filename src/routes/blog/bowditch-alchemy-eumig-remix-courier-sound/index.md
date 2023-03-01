@@ -16,7 +16,7 @@ description: >-
   https://soundcloud.com/user-215497162 [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/bowditch-alchemy-eumig-remix-courier-sound/image781.jpeg)[Eumig](https://www.discogs.com/artist/4923841-Eumig) takes the original and re-localises it into a frozen moment in time.Original taken from Bowditch's _Alchemy 4_ EP on [Courier](https://couriersound.bandcamp.com/).Out 18.03 on limited mini CDr and digital – Pre-order: [https://couriersound.bandcamp.com/album/alchemy-4](https://couriersound.bandcamp.com/album/alchemy-4)[https://soundcloud.com/couriersound](https://soundcloud.com/couriersound)[http://soundcloud.com/stuartbowditch](http://soundcloud.com/stuartbowditch)[https://soundcloud.com/user-215497162](https://soundcloud.com/user-215497162)

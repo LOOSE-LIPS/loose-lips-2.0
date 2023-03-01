@@ -14,7 +14,7 @@ description: >-
   was based in East London at a secret [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/alba-heidari/image1032.jpeg)_Ahead of her set tonight at The Cause, Loose Lips caught of with Alba Heidari_

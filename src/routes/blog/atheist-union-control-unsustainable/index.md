@@ -13,7 +13,7 @@ description: >-
   digital &#8211; https://unsustainable.bandcamp.com [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/atheist-union-control-unsustainable/image1217.jpeg)Syncopated machine assault, just right in the face, no questions asked.From Atheist Union's _Disband Structures_ EP on [Unsustainable](https://unsustainable.bandcamp.com).Out 27.07.2020 on digital – [](https://unsustainable.bandcamp.com/)[https://unsustainable.bandcamp.com](https://unsustainable.bandcamp.com/)

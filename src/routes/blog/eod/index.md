@@ -14,7 +14,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/eod/image1133.jpeg)Braindance goodness from [EOD](https://eodtracks.bandcamp.com/). A sweet and playful numberFrom EOD's self-released _□_ EPOut now on digital – Order: [](https://eodtracks.bandcamp.com/album/--4)[https://eodtracks.bandcamp.com/album/–4](https://eodtracks.bandcamp.com/album/--4)[](https://soundcloud.com/eod-6)[https://soundcloud.com/eod-6](https://soundcloud.com/eod-6)

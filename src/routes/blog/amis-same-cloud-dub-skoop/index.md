@@ -17,7 +17,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/amis-same-cloud-dub-skoop/image1348.jpeg)Edinburgh-based Skoop collective has been working hard this year with a plethora of slick releases.  

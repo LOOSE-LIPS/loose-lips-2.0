@@ -15,7 +15,7 @@ description: >-
   we listen, love and talk [...]Read More...
 published: true
 tags:
-  - post
+  - deep-cuts
 featured: false
 ---
 ![image](../imported/head-space-loose-lips-inaugural-deep-cuts-feature/image984.jpeg)**_Loose Lips have been organising parties, mixes, records, shows and articles for 5 years now, all based on a philosophy of openness. No genre policy, no covering music because we should, just honest expression. Our new monthly feature Deep Cuts brings this attitude to the page, exploring the diverse ways we listen, love and talk about music in 2019._**_**The first Deep Cuts theme (explored by each writer) is Head Space. The first Deep Cuts mix (combining music from each writers' contribution) comes from Deep Cuts mama Will Soer, along with a helpful spotify** [**playlist**](https://open.spotify.com/playlist/0waITYaBtleahAxr88N02O?si=KsLrE8x_TiaVE92PQbwLoQ)_**_. Enjoy!_**

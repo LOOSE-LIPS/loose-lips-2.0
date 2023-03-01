@@ -17,7 +17,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/burland-agbekor-mwb010/image921.jpeg)Initially a traditional Ghanaian piece, Agbekor gets a modern, club/dance-orientated redesign with heavy 808s and syncopated percussion.From [Burland](https://burland.bandcamp.com)'s _Tell Me Why You Worry_ EP on [Mawimbi Records](https://wearemawimbi.bandcamp.com).Out 13.09 on digital – Order: [](https://wearemawimbi.bandcamp.com/album/tell-me-why-you-worry-ep)[https://wearemawimbi.bandcamp.com/album/tell-me-why-you-worry-ep](https://wearemawimbi.bandcamp.com/album/tell-me-why-you-worry-ep)[](https://soundcloud.com/wearemawimbi)[https://soundcloud.com/wearemawimbi](https://soundcloud.com/wearemawimbi)[](https://soundcloud.com/burlandmusic)[https://soundcloud.com/burlandmusic](https://soundcloud.com/burlandmusic)

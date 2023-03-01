@@ -15,7 +15,7 @@ description: >-
   lot of acid. All of us have [...]Read More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/brainwaves/image793.jpeg)Last week, we've premiered [_Catch-23_ by Tout Casser](http://loose-lips.co.uk/blog/tout-casser-catch-23-bws003), excerpts from Brainwaves' latest VA _Caustic Dance_ EP.  

@@ -15,7 +15,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/kortzers-sunday-jams-billy-joe-morgan-stop-them/image918.jpeg)This weeks' selection comes from Billy Joe Morgan with _Stop Them_. This track is a personal favourite and Sunday classic to say the least. This is the only track that I've come across from Billy but it's an absolute Percy! If you were to only record one track this isn't a bad one to do, although I'm hoping there there's more that I just haven't come across.

@@ -15,7 +15,7 @@ description: >-
   Get Ate&#39;&#8230; This mixtape [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/treeces-rap-up-big-moochie-grape/image1086.jpeg)_Treece is back again for his 2nd edition of Rap Up, introducing you to his favourite new wordplay. if you missed the last edition, he reviewed Stove God Cook$' debut; 'Reasonable Drought'. This time round, heading to the south, he had to pick another debut: 'Big Moochie Grape – Eat Or Get Ate'…_

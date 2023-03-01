@@ -15,7 +15,7 @@ description: >-
   bespoke and fresh, that [...]Read More...
 published: true
 tags:
-  - post
+  - review
 featured: false
 ---
 ![image](../imported/tzusan-babau/image993.jpeg)In recent years, there’s no doubt that the popularity of word-based art has skyrocketed, and as a result the quality, quantity and variety of associative works has all correlated positively. Some may refer to it as a saturation, others as a godsend. However the work of artists like Tzusan is so bespoke and fresh, that it is impossible to pigeonhole. Bombarding listeners with diverse and untapped elements, his work is dauntingly dark yet unnervingly welcoming at the same time. It’s not all too often in 2019 that rappers or vocal artists also produce their own beats, so Tzusan takes that fact and spits in its puerile face. 

@@ -16,7 +16,7 @@ description: >-
   https://artsik.net/releases/?rl=3674 [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/dema-persistence-of-visions-ibd002/image841.jpeg)_Persistence of Visions_ is a murky warm-up tune that features warm swinging beats that provide space for ricocheting percussion, dragging dancers into a stoned sway and steady head-bop.  

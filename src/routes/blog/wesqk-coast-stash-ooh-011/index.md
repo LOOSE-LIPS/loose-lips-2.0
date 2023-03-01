@@ -17,7 +17,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/wesqk-coast-stash-ooh-011/image779.jpeg)Taken from [Wesqk Coast](https://wesqkcoast.bandcamp.com/)’s limited edition cassette \[OOH-011\] the video for 'S.T.A.S.H.'  

@@ -15,7 +15,7 @@ description: >-
   https://jitterjazzrecords.bandcamp.com/album/wouter-bailey [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../undefined)This smokey, dusty live improvisation takes one side of this cassette, filled with glimpses  

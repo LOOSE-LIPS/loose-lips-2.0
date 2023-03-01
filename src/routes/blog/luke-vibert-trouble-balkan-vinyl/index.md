@@ -16,7 +16,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/luke-vibert-trouble-balkan-vinyl/image1362.jpeg)Xmas season is coming and Balkan is dropping this surprise, burning hot wax weapon! A split EP featuring Luke Vibert and Posthuman in full ecstatic rave mode. _Trouble_ is a juicy electro cut filled with vocal chops, vibrant low-ends and ultra-funky synth lines!From Luke Vibert & Posthuman's _Unitary Covert Sonic Procedures II_ EP on [Balkan Recordings](https://balkanvinyl.bandcamp.com/).Out 21.12 on 12" and digital – Available at launch from [https://balkanvinyl.bandcamp.com](https://balkanvinyl.bandcamp.com/)[https://soundcloud.com/balkan-recordings](https://soundcloud.com/balkan-recordings)  

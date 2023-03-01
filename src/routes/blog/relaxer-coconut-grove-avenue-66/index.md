@@ -15,7 +15,7 @@ description: >-
   featured, among others, a few EPs [...]Read More...
 published: true
 tags:
-  - post
+  - release-review
 featured: false
 ---
 ![image](../imported/relaxer-coconut-grove-avenue-66/image941.jpeg)Brooklin’s artist Daniel Martin-McCormick is back after a year hiatus under his moniker Relaxer with _Coconut Grove_, a beautiful double EP comprising of 9 tracks navigating between Ambient and melodic Techno. The album, to be released on Los Angeles' [Avenue 66](https://www.residentadvisor.net/record-label.aspx?id=9736) – a sub label of [Acid Test](https://www.residentadvisor.net/record-label.aspx?id=10709) which featured, among others, a few EPs by Joey Anderson – is not the first one of McCormick as Relaxer, who is however definitely better known to most people as [Ital](https://planet.mu/artists/ital/).With _Coconut Grove_, McCormick touches new heights while maintaining a certain integrity to his signature sound: a constant flux between deep and emotional ambient soundscapes and simple but no nonsense dub techno, with a modern, breaky touch at times. Developed in solitude over the course of one year during sleepless nights at home, the album feels however much more personal and emotional than most of his previous works.

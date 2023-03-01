@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/lobec-5am-nostalgia-rico-casazza-remix-fe029/image981.jpeg)Household name and long time friend [Rico Casazza](https://www.residentadvisor.net/dj/ricocasazza) delivers a nostalgic trip equipped with dreamy pads and heartfelt vocals.From [Lobec](https://www.discogs.com/artist/7307240-Lobec)'s _5AM Nostalgia_ EP  on [Furthur Electronix](https://www.facebook.com/FurthurElectronix/).Out January 2020 on 12" – Check for updates: [](https://furthurelectronix.bandcamp.com/)[https://furthurelectronix.bandcamp.com/](https://furthurelectronix.bandcamp.com/)  

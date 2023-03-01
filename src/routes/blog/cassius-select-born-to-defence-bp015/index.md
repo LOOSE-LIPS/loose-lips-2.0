@@ -17,7 +17,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/cassius-select-born-to-defence-bp015/image1329.jpeg)Hybrid broken beat goodness from Australian producer Cassius Select! This title track is a sexy slow burner full of dancefloor freshness.From [Cassius Select](https://www.discogs.com/artist/3841422-Cassius-Select)'s _Born To Defence_ EP on Bristol-based [Banoffee Pies](https://banoffeepiesrecords.bandcamp.com/album/heavyweight).Out 4.12.2020 on 12" and digital – Pre-order: [https://banoffeepiesrecords.bandcamp.com/album/heavyweight](https://banoffeepiesrecords.bandcamp.com/album/heavyweight)[https://soundcloud.com/banoffee-pies](https://soundcloud.com/banoffee-pies)  

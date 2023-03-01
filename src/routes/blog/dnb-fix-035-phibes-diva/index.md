@@ -15,7 +15,7 @@ description: >-
   be times where they don&rsquo;t get [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/dnb-fix-035-phibes-diva/image1317.jpeg)_Another week in Drum & Bass has come and gone, but the spotlight is very much stuck on Phibes, with this week’s fix dedicated to the brothers' Third Dimension EP on the Born on Road imprint._It’s pretty generally accepted, that growing up around brothers, there is going to be times where they don’t get along, fight and generally piss each other off; that said, the sentiment seems to be lost on Ryan and Scott Phibes; with the only conflict I can sense here, being between me trying to maintain some sort of professionalism and not bussin’ out the gun fingers whilst listening to this release in the office.

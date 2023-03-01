@@ -18,7 +18,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/samantha-togni-control-sub007/image1153.jpeg)[Samantha Togni](https://www.residentadvisor.net/dj/samanthatogni) delivers a Techno/EBM track that has a slick cyberpunk flavour!From _PRONOMINA II – Various Artists (For Amnesty International)_ V/A compilation on [Substantiv](https://www.residentadvisor.net/record-label.aspx?id=16419).Out now on digital – Order: [](https://substantiv.bandcamp.com/album/pronomina-ii-various-artists-for-amnesty-international-sub007)[https://substantiv.bandcamp.com/album/pronomina-ii-various-artists-for-amnesty-international-sub007](https://substantiv.bandcamp.com/album/pronomina-ii-various-artists-for-amnesty-international-sub007)  

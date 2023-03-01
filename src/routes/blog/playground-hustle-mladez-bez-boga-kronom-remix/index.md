@@ -18,7 +18,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/playground-hustle-mladez-bez-boga-kronom-remix/image1268.jpeg)Skopje-based noise-meister [Kronom](https://soundcloud.com/kronombass) gives [Playground Hustle](https://playgroundhustle.bandcamp.com/)'s _Mladež Bez Boga_ the heavy treatment:  

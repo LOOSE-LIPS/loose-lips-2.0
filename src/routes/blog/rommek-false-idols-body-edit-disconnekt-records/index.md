@@ -18,7 +18,7 @@ description: >-
   compilation. Each artist is contributing [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/rommek-false-idols-body-edit-disconnekt-records/image1120.jpeg)A pounding beast unleashed by [Rommek](https://www.residentadvisor.net/dj/rommek).From _Various Artists 002 Fundraiser Compilation_ V/A compilation on [Disconnekt Records](https://disconnektrecords.bandcamp.com/).Out 15.05.2020 on digital – Pre-order: [](https://disconnektrecords.bandcamp.com/album/various-artists-002-fundraiser-compilation)[https://disconnektrecords.bandcamp.com/album/various-artists-002-fundraiser-compilation](https://disconnektrecords.bandcamp.com/album/various-artists-002-fundraiser-compilation)  

@@ -15,7 +15,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - interview
 featured: false
 ---
 ![image](../imported/in-conversation-wirth-fatima-ferrari/image987.jpeg)_Back in November, I had the pleasure of hosting a very talented DJ on my radio show. Her name is Fatima Ferrari, she lives in The Hague, Nederlands and her name should ring a bell to anyone who attended the past edition of Atlas festival in Marrakech, where she delivered an evocative two hours of bass music infused with middle eastern sounds. During the same summer, she was invited to play by a friend of mine at Mundi, apparently it’s a very suggestive festival inside a castle in Puglia, Southern Italy. Federico told me I should listen to her set from there, and so I did. What I discovered was a pristine talent with a very creative selection and style, so I decided to get her on board my show on Threads Radio. In order to accompany her guest mix with a bit of introduction, I asked her to answer some questions to inform our listeners what she’s all about. It turns out she has a rather interesting take on DJing, other artistic disciplines she’s involved in, and some cool stories about her favourite music-things in The Netherlands too._ _You can read what came out of our conversation here below. But first, press play on her mix and everything will make much more sense. Fatima Ferrari’s mix starts at the 1 hour mark._

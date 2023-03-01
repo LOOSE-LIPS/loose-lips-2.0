@@ -16,7 +16,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/participant-defiant-subject-no-way-back/image1147.jpeg)[Participant](https://soundcloud.com/participantmusic) drops a dark and steady roller for both the head and the legs!From _Stir Crazy Vol.1_ V/A compilation on [No Way Back](http:// https://nowaybackuk.bandcamp.com).Out now on digital – [](https://nowaybackuk.bandcamp.com/album/stir-crazy-vol-1)[https://nowaybackuk.bandcamp.com/album/stir-crazy-vol-1](https://nowaybackuk.bandcamp.com/album/stir-crazy-vol-1)  

@@ -15,7 +15,7 @@ description: >-
   made a [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/nanas-sunday-jams-walrus-dd-dumbo/image1218.jpeg)_Banner art by [Trav](https://www.backdownwarchild.co.uk/)_

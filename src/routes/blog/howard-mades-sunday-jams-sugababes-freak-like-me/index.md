@@ -14,7 +14,7 @@ description: >-
   original tune.&nbsp; [...]Read More...
 published: true
 tags:
-  - post
+  - feature
 featured: false
 ---
 ![image](../imported/howard-mades-sunday-jams-sugababes-freak-like-me/image986.jpeg)Sugababes are undoubtedly my favourite (and the best) girl band. This track was originally a bootleg by Richard X, mixing Gary Numen's Are Dreams Electric and Adina Doward…….. He then got the Babez to cover the original tune.

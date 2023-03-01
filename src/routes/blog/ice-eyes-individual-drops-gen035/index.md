@@ -16,7 +16,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/ice-eyes-individual-drops-gen035/image811.jpeg)Granulated fragments of sounds falling from a CGI sky, hitting every vectors of your digital body.From [Ice\_Eyes](https://www.discogs.com/artist/3197874-Ice_eyes)' _Individual Drops_ album on [Genot Centre](https://genot.bandcamp.com).Out 30.04 on cassette and digital – Pre-order: [](https://genot.bandcamp.com/album/individual-drops)[https://genot.bandcamp.com/album/individual-drops](https://genot.bandcamp.com/album/individual-drops)[](https://soundcloud.com/genotcentre)[https://soundcloud.com/genotcentre](https://soundcloud.com/genotcentre)[](https://soundcloud.com/ice_eyes)[https://soundcloud.com/ice\_eyes](https://soundcloud.com/ice_eyes)

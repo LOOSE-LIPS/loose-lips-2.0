@@ -17,7 +17,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/acum-23-murder-the-dj-espectro-10/image1275.jpeg)_Murder the DJ_ is an acid-fueled, high-octane rave rollercoaster. And more impressively, Buenos Aires-based producer Acum 23 made it in 1998, like all the tracks on this album!From [Acum 23](https://www.discogs.com/artist/68753-Acum-23)'s _FTP Flux_ album on [Amplio Espectro](https://amplioespectrolabel.bandcamp.com/).Out 02.10.2020 on digital – [https://amplioespectrolabel.bandcamp.com](https://amplioespectrolabel.bandcamp.com/)[https://soundcloud.com/amplioespectro](https://soundcloud.com/amplioespectro)  

@@ -19,7 +19,7 @@ description: >-
   [...]Read More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/scanone-one-meat-beat-manifesto-high-plains-grifter-version-ym016/image940.jpeg)This version of the original track, drifting on a darker, atmospheric yet still in-ya-face vibe, is a twisted adventure  

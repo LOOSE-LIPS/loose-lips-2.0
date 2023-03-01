@@ -15,7 +15,7 @@ description: >-
   over-enthusiastically told about the wonders that await [...]Read More...
 published: true
 tags:
-  - post
+  - review
 featured: false
 ---
 ![image](../imported/maelstrom-heat-wave-ep/image1021.jpeg)There’s no two ways about it, the Mechatronica imprint has been steadily blowing up these last few years. Many electro fanatics religiously buy the Berlin labels’ records, and I would hazard a guess that around 99% of those who’ve got into electro recently will have been drunkenly or over-enthusiastically told about the wonders that await them in terms of Mechatronica’s machine-driven offerings. With a couple of sublabel offshoots and a roster boasting legendary names like Dez Williams, Zeta Reticula, Luke Eargoggle and Umwelt, it’s fair to say that they’ve already achieved a status that many label heads can only dream of. Consistency is fundamentally key in this game, and it’s plain to see that label boss Mejle has mastered the ever-important art. Unsurprisingly MTRON016 comes from an electro scene stalwart, and features collabs with an indomitable Irish powerhouse who is finally starting to get the reps he truly deserves. 

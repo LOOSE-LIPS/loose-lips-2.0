@@ -16,7 +16,7 @@ description: >-
   More...
 published: true
 tags:
-  - post
+  - premiere
 featured: false
 ---
 ![image](../imported/nas1-il-sangue-non-serve-a-niente-interlude-boscoexv024/image1284.jpeg)Celestial New Jack Funk!From [Nas1](https://www.discogs.com/Nas1-Polaris-Time/release/15879088)'s _Polaris Time_ LP on [Bosconi Records](https://bosconirecords.bandcamp.com/).Out 15.10.2020 on 12" – Pre-order: [https://bosconirecords.bandcamp.com/album/boscoexv024-polaris-time-lp](https://bosconirecords.bandcamp.com/album/boscoexv024-polaris-time-lp)[https://soundcloud.com/bosconi-records](https://soundcloud.com/bosconi-records)  
