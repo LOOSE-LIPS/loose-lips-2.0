@@ -5,7 +5,10 @@
   export async function load({ fetch }) {
     return {
       props: {
-        blogs: await fetch(`/blog.json?recent=${5}`).then((res) => res.json()),
+        // blogs: await fetch(`src/routes/blog.json?recent=${3}`).then((res) =>
+        //   res.json()
+        // ),
+        test: ["test"],
       },
     };
   }
@@ -13,24 +16,24 @@
 
 <script lang="ts">
   import RecommendedPost from "../recommended-post/RecommendedPost.svelte";
-  import { recommendedArray } from "../../../../stores";
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
-  export let posts!: (IBlog | IEventsCard)[];
-
-  let recommendedPosts = [];
-  recommendedArray.subscribe((data) => {
-    posts.forEach((post) => {
-      data.map((tag) => {
-        post.tags.includes(tag)
-          ? recommendedPosts.push(post)
-          : console.log("nope");
-      });
-    });
-  });
+  export let test;
+  console.log(test);
+  // recommendedArray.subscribe((data) => {
+  //   posts.forEach((post) => {
+  //     data.map((tag) => {
+  //       post.tags.includes(tag)
+  //         ? recommendedPosts.push(post)
+  //         : console.log("nope");
+  //     });
+  //   });
+  // });
 </script>
 
-{#if recommendedPosts.length > 0}
+<h1 class="text-white">Recommended</h1>
+
+<!-- {#if recommendedPosts.length > 0}
   <div
     class="flex flex-col items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg) "
   >
@@ -51,4 +54,4 @@
       {/each}
     </div>
   </div>
-{/if}
+{/if} -->

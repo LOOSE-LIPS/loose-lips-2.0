@@ -56,7 +56,6 @@
 <div class="w-[100%] mt-28">
   <FeaturedContent {posts} />
   <!-- <TagsContainer {blogs} /> -->
-
   <RecentPostsContainer {posts} />
   <!-- <EventsContainer {events} /> -->
 </div>

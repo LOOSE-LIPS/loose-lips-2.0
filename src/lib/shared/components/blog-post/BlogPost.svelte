@@ -9,7 +9,6 @@
    * @type {IBlog}
    */
   export let blog!: IBlog;
-  console.log(blog.slug);
 
   // End: Exported Properties
 </script>
