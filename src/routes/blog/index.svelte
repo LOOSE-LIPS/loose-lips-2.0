@@ -6,7 +6,6 @@
     return {
       props: {
         blogs: await fetch("/blog.json").then((res) => res.json()),
-        test: [1, 2, 3],
       },
     };
   }
@@ -21,8 +20,7 @@
   import { convertToSlug } from "$utils/convert-to-slug";
 
   export let blogs!: IBlog[];
-  export let test;
-  console.log(test, "test");
+
   /**
    * @type {IMetaTagProperties}
    */
@@ -46,13 +44,13 @@
 
   let listWithDuplicatetags: string[] = [];
 
-  blogs.forEach((blog) => {
-    listWithDuplicatetags =
-      listWithDuplicatetags.length === 0
-        ? [...blog.tags]
-        : [...listWithDuplicatetags, ...blog.tags];
-  });
-  $: tags = [...new Set(listWithDuplicatetags)];
+  // blogs.forEach((blog) => {
+  //   listWithDuplicatetags =
+  //     listWithDuplicatetags.length === 0
+  //       ? [...blog.tags]
+  //       : [...listWithDuplicatetags, ...blog.tags];
+  // });
+  // $: tags = [...new Set(listWithDuplicatetags)];
 </script>
 
 <HeadTags {metaData} />

@@ -26,12 +26,10 @@ for (let i = 1; i < totalPages; i++) {
       data.map(async (post) => {
         const imageData = post?.yoast_head_json?.og_image || [];
 
-
         const imgDirectory = path.join(rootDir, `static/imported/${post.slug}`);
         if (!fs.existsSync(imgDirectory)) {
           fs.mkdirSync(imgDirectory, { recursive: true });
         }
-
 
         const images = await Promise.all(
           imageData.map((x) => {
@@ -90,7 +88,7 @@ for (let i = 1; i < totalPages; i++) {
         const imgHtml = `<img src=../${images[0]} alt="image"></img>`;
         const imgMd = turndownService.turndown(imgHtml);
         const yamlData = yaml.safeDump(data);
-        
+
         const folderDirectory = path.join(
           rootDir,
           `src/routes/blog/${post.slug}`

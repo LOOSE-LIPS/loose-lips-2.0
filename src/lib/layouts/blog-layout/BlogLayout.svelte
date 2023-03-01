@@ -1,19 +1,3 @@
-<script lang="ts" context="module">
-  /**
-   * @type {import('@sveltejs/kit').Load}
-   */
-  export async function load({ fetch }) {
-    return {
-      props: {
-        blogs: await fetch(`src/routes/blog.json?recent=${5}`).then((res) =>
-          res.json()
-        ),
-        test: ["test"],
-      },
-    };
-  }
-</script>
-
 <script lang="ts">
   import { onMount } from "svelte";
 
@@ -37,13 +21,13 @@
   import RecommendedPost from "$lib/shared/components/recommended-post/RecommendedPost.svelte";
   //   import RecommendedPostsContainer from "$shared/components/recommended-posts/RecommendedPostsContainer.svelte";
   //   import { blogTags } from "$lib/data/tags";
-  export let test;
+  export let blogs;
   // Exports
-
+  const tags = ["testTag"];
   export let title = "";
   export let slug = "";
   export let description = "";
-  export let tags = [];
+  // export let tags = [];
   export let date = "";
   export let author = "";
   //   export let previousArticleLink = "";
@@ -113,6 +97,7 @@
       };
     }
   }
+
   // End: Reactive properties
 
   // Local Methods
@@ -121,8 +106,6 @@
   //       `${document.getElementById("blog-conent").textContent}`
   //     ).time;
   //   });
-
-  console.log(test, "test");
 </script>
 
 <!-- Start: Header Tag -->
@@ -132,7 +115,6 @@
 <article
   class="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 w-full"
 >
-  <RecommendedPostContainer {test} />
   <!-- <h1
     class="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white"
   >
@@ -160,6 +142,7 @@
   <div class="prose dark:prose-dark max-w-none w-full" id="blog-conent">
     <slot />
   </div>
+
   <!-- <div class="mt-8">
     <RecommendedPostsContainer {tags} />
     <TagsContainer {tags} />
@@ -200,4 +183,5 @@
     </div>
   {/if} -->
   <!-- </div> -->
+  <RecommendedPostContainer {tags} />
 </article>
