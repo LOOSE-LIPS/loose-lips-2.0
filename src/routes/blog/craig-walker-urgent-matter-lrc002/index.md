@@ -6,7 +6,7 @@ type: post
 slug: craig-walker-urgent-matter-lrc002
 author: 100
 banner:
-  - imported\craig-walker-urgent-matter-lrc002\image1245.jpeg
+  - imported/craig-walker-urgent-matter-lrc002/image1245.jpeg
 description: >-
   Deep down into a smoked filled low ceiling basement, rushing feelings of
   excitement pulsing as you clench your fist and punch the air. That&#39;s new
@@ -21,6 +21,6 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\craig-walker-urgent-matter-lrc002\image1245.jpeg)Deep down into a smoked filled low ceiling basement, rushing feelings of excitement pulsing as you clench your fist and punch the air. That's new school club vibes delivered by Glasgow producer [Craig Walker](https://soundcloud.com/craigwalkermusic).From _Right Place, Wrong Time_ V/A on [Left, Right & Centre](https://leftrightandcentre.bandcamp.com/).Out on digital 28.08.2020 – Pre-order: [https://leftrightandcentre.bandcamp.com/album/vol-2-right-place-wrong-time-lrc002-2](https://leftrightandcentre.bandcamp.com/album/vol-2-right-place-wrong-time-lrc002-2)  
+![image](../imported/craig-walker-urgent-matter-lrc002/image1245.jpeg)Deep down into a smoked filled low ceiling basement, rushing feelings of excitement pulsing as you clench your fist and punch the air. That's new school club vibes delivered by Glasgow producer [Craig Walker](https://soundcloud.com/craigwalkermusic).From _Right Place, Wrong Time_ V/A on [Left, Right & Centre](https://leftrightandcentre.bandcamp.com/).Out on digital 28.08.2020 – Pre-order: [https://leftrightandcentre.bandcamp.com/album/vol-2-right-place-wrong-time-lrc002-2](https://leftrightandcentre.bandcamp.com/album/vol-2-right-place-wrong-time-lrc002-2)  
 [https://soundcloud.com/leftrightandcentreuk](https://soundcloud.com/leftrightandcentreuk)  
 [](https://soundcloud.com/craigwalkermusic)[https://soundcloud.com/craigwalkermusic](https://soundcloud.com/craigwalkermusic)

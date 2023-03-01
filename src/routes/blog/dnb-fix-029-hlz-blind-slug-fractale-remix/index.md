@@ -6,7 +6,7 @@ type: post
 slug: dnb-fix-029-hlz-blind-slug-fractale-remix
 author: 51
 banner:
-  - imported\dnb-fix-029-hlz-blind-slug-fractale-remix\image1258.jpeg
+  - imported/dnb-fix-029-hlz-blind-slug-fractale-remix/image1258.jpeg
 description: >-
   International Drum &amp; Bass trio Fractale make their mark on Unchained
   Recordings&rsquo; latest remix LP with a heavy hitting remix of HLZ&rsquo;s
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\dnb-fix-029-hlz-blind-slug-fractale-remix\image1258.jpeg)_International Drum & Bass trio Fractale make their mark on Unchained Recordings’ latest remix LP with a heavy hitting remix of HLZ’s half-time banger, Blind Slug._CHina based label; Unchained Audio celebrates its diverse global network of incredible artists with a 16 track remix LP that showcases some of the best new tracks the label has to offer coupled with some seriously hot remixes from the back catalogue.The LP is chock-a-block with weight from a selection of some of the best artists the scene has to offer, including Arkaik, Rohaan, Black Barrell, Whiney and Royalston. Many of these are well known household names in the European scene, but it’s not all about Europe, with the likes of China based Radiax and 3ASIC contributing fresh and unique productions on this VA.
+![image](../imported/dnb-fix-029-hlz-blind-slug-fractale-remix/image1258.jpeg)_International Drum & Bass trio Fractale make their mark on Unchained Recordings’ latest remix LP with a heavy hitting remix of HLZ’s half-time banger, Blind Slug._CHina based label; Unchained Audio celebrates its diverse global network of incredible artists with a 16 track remix LP that showcases some of the best new tracks the label has to offer coupled with some seriously hot remixes from the back catalogue.The LP is chock-a-block with weight from a selection of some of the best artists the scene has to offer, including Arkaik, Rohaan, Black Barrell, Whiney and Royalston. Many of these are well known household names in the European scene, but it’s not all about Europe, with the likes of China based Radiax and 3ASIC contributing fresh and unique productions on this VA.
 
 [Loose Lips](https://soundcloud.com/loose-lips123 "Loose Lips") · [PREMIERE: HLZ – Blind Slug (Fractale Remix) (UNCH019)](https://soundcloud.com/loose-lips123/premiere-hlz-blind-slug-fractale-remix-unch019 "PREMIERE: HLZ - Blind Slug (Fractale Remix) (UNCH019)")
 

@@ -7,7 +7,7 @@ slug: loose-lips-mcr-live-sessions-in-aid-of-the-launch-project
 author: 100
 banner:
   - >-
-    imported\loose-lips-mcr-live-sessions-in-aid-of-the-launch-project\image2768.jpeg
+    imported/loose-lips-mcr-live-sessions-in-aid-of-the-launch-project/image2768.jpeg
 description: >-
   Come join us as we wave goodbye to Summer by launching our Live Sessions, a
   new series of events, revolved around all the live music we love. Each edition

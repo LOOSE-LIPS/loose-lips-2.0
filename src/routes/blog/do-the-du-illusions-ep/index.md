@@ -6,7 +6,7 @@ type: post
 slug: do-the-du-illusions-ep
 author: 61
 banner:
-  - imported\do-the-du-illusions-ep\image1020.jpeg
+  - imported/do-the-du-illusions-ep/image1020.jpeg
 description: >-
   In all honesty, I hadn&rsquo;t heard of Do The Du until I was sent this
   record. As many of my friends know I almost accidentally consume knowledge
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\do-the-du-illusions-ep\image1020.jpeg)In all honesty, I hadn’t heard of Do The Du until I was sent this record. As many of my friends know I almost accidentally consume knowledge (especially in terms of Music) with great ease, often causing borderline annoyance because I have usually heard tracks they send me to listen to. So naturally I was pleasantly surprised after digging into this Londoner’s new EP to then find he had released 3 more EPs on the same label as this one, Senseverse Records. This is his own label/project, and – as has become popular of late – it has only ever been used to release his own material. The mystery and intrigue swiftly became rife, as this was pretty much the only info I came across (which I already had anyway) whilst perusing various electronic realms.
+![image](../imported/do-the-du-illusions-ep/image1020.jpeg)In all honesty, I hadn’t heard of Do The Du until I was sent this record. As many of my friends know I almost accidentally consume knowledge (especially in terms of Music) with great ease, often causing borderline annoyance because I have usually heard tracks they send me to listen to. So naturally I was pleasantly surprised after digging into this Londoner’s new EP to then find he had released 3 more EPs on the same label as this one, Senseverse Records. This is his own label/project, and – as has become popular of late – it has only ever been used to release his own material. The mystery and intrigue swiftly became rife, as this was pretty much the only info I came across (which I already had anyway) whilst perusing various electronic realms.
 
 So; Do The Du remains nameless, his info is scarce bar the odd slither of text to compliment his EPs AND he ritually designs, creates and assembles the handmade copies of each record, with each cover of the 300 being individually treated and bespoke. There is clearly some benign talent at play here, and on listening to his 4 releases, it cumulatively became clear that he is a man of the world characterised by pure talent.
 

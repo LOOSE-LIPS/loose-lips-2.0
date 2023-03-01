@@ -6,7 +6,7 @@ type: post
 slug: michael-ferragosto-furious-rwcltr010
 author: 100
 banner:
-  - imported\michael-ferragosto-furious-rwcltr010\image910.jpeg
+  - imported/michael-ferragosto-furious-rwcltr010/image910.jpeg
 description: >-
   Totally raw and saturated live drum machine goodness.It just gets your primal
   instincts out of your guts from the first few seconds! From Raw Culture&#39;s
@@ -18,5 +18,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\michael-ferragosto-furious-rwcltr010\image910.jpeg)Totally raw and saturated live drum machine goodness.  
+![image](../imported/michael-ferragosto-furious-rwcltr010/image910.jpeg)Totally raw and saturated live drum machine goodness.  
 It just gets your primal instincts out of your guts from the first few seconds!From _Raw Culture's Pushers Vol.3_ VA on [Raw Culture](https://rawculture.bandcamp.com).Out now on 12" and digital – Order: [](https://www.deejay.de/Various_Artists_Raw_Culture%E2%80%99s_Pushers_03_RWCLTR010_Vinyl__933023)[https://rawculture.bandcamp.com/album/raw-cultures-pushers-03](https://rawculture.bandcamp.com/album/raw-cultures-pushers-03)[https://soundcloud.com/raw-culture-recordings](https://soundcloud.com/raw-culture-recordings)

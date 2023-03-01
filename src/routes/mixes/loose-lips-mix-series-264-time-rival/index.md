@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-264-time-rival
 author: 100
 banner:
-  - imported\loose-lips-mix-series-264-time-rival\image3202.jpeg
+  - imported/loose-lips-mix-series-264-time-rival/image3202.jpeg
 description: >-
   We&#8217;re very glad to welcome Triplicate label boss Time Rival on our Mix
   Series for a sweet, mellow and uplifting journey! @timerival

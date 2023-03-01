@@ -9,7 +9,7 @@ slug: loose-lips-x-arroz-esudios-ll-5th-anniv-in-lisbon-with-posthuman-1
 author: 100
 banner:
   - >-
-    imported\loose-lips-x-arroz-esudios-ll-5th-anniv-in-lisbon-with-posthuman-1\image2810.jpeg
+    imported/loose-lips-x-arroz-esudios-ll-5th-anniv-in-lisbon-with-posthuman-1/image2810.jpeg
 description: >-
   London based music platform, party throwers, and &#8211; record label &#8211;
   Loose Lips &#8211; are coming to the river for an all night label showcase

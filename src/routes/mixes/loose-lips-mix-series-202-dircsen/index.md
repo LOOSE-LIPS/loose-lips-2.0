@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-202-dircsen
 author: 100
 banner:
-  - imported\loose-lips-mix-series-202-dircsen\image3139.jpeg
+  - imported/loose-lips-mix-series-202-dircsen/image3139.jpeg
 description: >-
   A short (mind) trip without an idea behind it. One track in memory to Mika
   Vainio. The photo was taken last week on Dircsen&#8217;s holiday.

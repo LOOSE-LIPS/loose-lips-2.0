@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-223-trevor-wilkes
 author: 100
 banner:
-  - imported\loose-lips-mix-series-223-trevor-wilkes\image3161.jpeg
+  - imported/loose-lips-mix-series-223-trevor-wilkes/image3161.jpeg
 description: >-
   90 minutes of pumping electro, techno and ravey madness from the man
   who&#8217;ll be playing alongside, and has invited, @medallionman &#038;

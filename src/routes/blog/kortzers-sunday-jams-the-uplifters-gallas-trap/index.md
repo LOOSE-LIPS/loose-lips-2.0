@@ -6,7 +6,7 @@ type: post
 slug: kortzers-sunday-jams-the-uplifters-gallas-trap
 author: 96
 banner:
-  - imported\kortzers-sunday-jams-the-uplifters-gallas-trap\image884.jpeg
+  - imported/kortzers-sunday-jams-the-uplifters-gallas-trap/image884.jpeg
 description: >-
   This week I&#39;m featuring The Uplifters &#8211; Gallas Drop. The tracks fits
   Sunday perfectly, the slow swinging reggae beat soothes away any headaches you
@@ -16,4 +16,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\kortzers-sunday-jams-the-uplifters-gallas-trap\image884.jpeg)This week I'm featuring The Uplifters – Gallas Drop. The tracks fits Sunday perfectly, the slow swinging reggae beat soothes away any headaches you may or may not have!.
+![image](../imported/kortzers-sunday-jams-the-uplifters-gallas-trap/image884.jpeg)This week I'm featuring The Uplifters – Gallas Drop. The tracks fits Sunday perfectly, the slow swinging reggae beat soothes away any headaches you may or may not have!.

@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-shackleton-pre-party-eastern-bloc-mcr
 author: 100
 banner:
-  - imported\loose-lips-shackleton-pre-party-eastern-bloc-mcr\image2760.jpeg
+  - imported/loose-lips-shackleton-pre-party-eastern-bloc-mcr/image2760.jpeg
 description: >-
   We&#39;ve got one of most exciting parties to date coming up next Friday at
   White Hotel w/Shackleton, WSR, Conor Thomas, Denham Audio, Rommek, Paxman

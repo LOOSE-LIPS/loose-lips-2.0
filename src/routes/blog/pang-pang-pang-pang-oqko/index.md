@@ -6,7 +6,7 @@ type: post
 slug: pang-pang-pang-pang-oqko
 author: 100
 banner:
-  - imported\pang-pang-pang-pang-oqko\image788.jpeg
+  - imported/pang-pang-pang-pang-oqko/image788.jpeg
 description: >-
   Deconstructed industrial kick drums marinated in drone juice, served with
   broken Techno sauce. From PANG&#39;s PANG EP on oqko. Out 5.4 on 12&quot; and
@@ -17,4 +17,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\pang-pang-pang-pang-oqko\image788.jpeg)Deconstructed industrial kick drums marinated in drone juice, served with broken Techno sauce.From PANG's _PANG_ EP on [oqko](https://www.oqko.org/).Out 5.4 on 12" and digital – Pre-order: [https://pangofficial.bandcamp.com/album/pang](https://pangofficial.bandcamp.com/album/pang)[https://soundcloud.com/oqko](https://soundcloud.com/oqko)
+![image](../imported/pang-pang-pang-pang-oqko/image788.jpeg)Deconstructed industrial kick drums marinated in drone juice, served with broken Techno sauce.From PANG's _PANG_ EP on [oqko](https://www.oqko.org/).Out 5.4 on 12" and digital – Pre-order: [https://pangofficial.bandcamp.com/album/pang](https://pangofficial.bandcamp.com/album/pang)[https://soundcloud.com/oqko](https://soundcloud.com/oqko)

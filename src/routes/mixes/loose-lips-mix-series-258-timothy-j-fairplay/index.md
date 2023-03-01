@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-258-timothy-j-fairplay
 author: 100
 banner:
-  - imported\loose-lips-mix-series-258-timothy-j-fairplay\image3196.jpeg
+  - imported/loose-lips-mix-series-258-timothy-j-fairplay/image3196.jpeg
 description: >-
   For today&#8217;s edition of our Mix Series we have analog don Timothy J.
   Fairplay delivering an hour long electro mix that includes a wonderful array

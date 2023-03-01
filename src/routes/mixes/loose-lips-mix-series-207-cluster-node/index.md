@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-207-cluster-node
 author: 100
 banner:
-  - imported\loose-lips-mix-series-207-cluster-node\image3146.jpeg
+  - imported/loose-lips-mix-series-207-cluster-node/image3146.jpeg
 description: >-
   A whole host of label treats from Clapton-based Cluster Node, released and
   unreleased. https://www.residentadvisor.net/record-label.aspx?id=15608 You

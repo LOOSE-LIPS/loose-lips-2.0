@@ -7,7 +7,7 @@ slug: record-store-days-2-getting-political-at-idle-hands-bristol
 author: 106
 banner:
   - >-
-    imported\record-store-days-2-getting-political-at-idle-hands-bristol\image996.jpeg
+    imported/record-store-days-2-getting-political-at-idle-hands-bristol/image996.jpeg
 description: >-
   It&rsquo;s 2010 and the world is almost the same as it is today. Almost.
   Austerity cuts are hitting Britain&rsquo;s most vulnerable hardest, cost of
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\record-store-days-2-getting-political-at-idle-hands-bristol\image996.jpeg)It’s 2010 and the world is almost the same as it is today. Almost. Austerity cuts are hitting Britain’s most vulnerable hardest, cost of living has become a tragic joke and the divide between rich and the rest is reaching record levels. 
+![image](../imported/record-store-days-2-getting-political-at-idle-hands-bristol/image996.jpeg)It’s 2010 and the world is almost the same as it is today. Almost. Austerity cuts are hitting Britain’s most vulnerable hardest, cost of living has become a tragic joke and the divide between rich and the rest is reaching record levels. 
 
 Meanwhile, in dance music, the dubstep explosion has subsided, giving way to a UK sound that can (sadly) only accurately be described in the wankiest way; post-genre. South West England’s biggest city, Bristol, has reaffirmed its place as a Mecca for rave thanks to broken, bass-heavy permutations, while also fast becoming one of the most expensive non-capital cities in Europe to do anything in. 
 

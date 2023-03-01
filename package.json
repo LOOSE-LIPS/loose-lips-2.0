@@ -198,6 +198,7 @@
     "react-icons": "^4.7.1",
     "soundcloud-scraper": "^5.0.3",
     "svelte-aplayer": "^0.1.1",
-    "turndown": "^7.1.1"
+    "turndown": "^7.1.1",
+    "yabai": "^0.0.10"
   }
 }

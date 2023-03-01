@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-255-flotsam-jetsam
 author: 100
 banner:
-  - imported\loose-lips-mix-series-255-flotsam-jetsam\image3193.jpeg
+  - imported/loose-lips-mix-series-255-flotsam-jetsam/image3193.jpeg
 description: >-
   Week 255, mix 255. This week we present a mix from London based DJ and radio
   host Flotsam / Jetsam who guides us through an hour of hushed vocals and hazy

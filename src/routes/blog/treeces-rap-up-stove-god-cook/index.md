@@ -6,7 +6,7 @@ type: post
 slug: treeces-rap-up-stove-god-cook
 author: 158
 banner:
-  - imported\treeces-rap-up-stove-god-cook\image1067.jpeg
+  - imported/treeces-rap-up-stove-god-cook/image1067.jpeg
 description: >-
   In this new feature, Treece will be delving in to the world of rap music,
   reviewing current global sounds from NY Street Rap to new school Memphis and
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\treeces-rap-up-stove-god-cook\image1067.jpeg)**In this new feature, Treece will be delving in to the world of rap music, reviewing current global sounds from NY Street Rap to new school Memphis and beyond…**
+![image](../imported/treeces-rap-up-stove-god-cook/image1067.jpeg)**In this new feature, Treece will be delving in to the world of rap music, reviewing current global sounds from NY Street Rap to new school Memphis and beyond…**
 
  _‘I just sold a brick out the church parking lot hallelujah’_
 

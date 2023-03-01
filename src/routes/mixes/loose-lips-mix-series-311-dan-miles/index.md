@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-311-dan-miles
 author: 100
 banner:
-  - imported\loose-lips-mix-series-311-dan-miles\image3249.jpeg
+  - imported/loose-lips-mix-series-311-dan-miles/image3249.jpeg
 description: >-
   Dan Miles pulls us into an engrossing 74&#8242; of modern and dubby
   bass-orientated oddities. @danielmileswhite Dan Miles is a non-binary producer

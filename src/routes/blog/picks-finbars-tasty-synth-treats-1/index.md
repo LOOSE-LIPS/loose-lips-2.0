@@ -6,7 +6,7 @@ type: post
 slug: picks-finbars-tasty-synth-treats-1
 author: 49
 banner:
-  - imported\picks-finbars-tasty-synth-treats-1\image1168.jpeg
+  - imported/picks-finbars-tasty-synth-treats-1/image1168.jpeg
 description: >-
   Finbar is a beloved friend of the squad, who presents a monthly radio show on
   Music Box Radio called Codependent, has a one off show coming soon to Threads
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\picks-finbars-tasty-synth-treats-1\image1168.jpeg)_Finbar is a beloved friend of the squad, who presents a monthly radio show on Music Box Radio called Codependent, has a one off show coming soon to Threads named Chronic Intrigue and works with homeless people for St Mungo’s charity. He steps up today with an flavourful, electronic sound-platter, the handful of his tracks available on Spotify are gathered_ [_here_](https://open.spotify.com/playlist/0nfzYJKDpRaW551IDem5Ap?si=A4RyPyymRXWmbu8IjlPzZg)_, but really you know youtube / bandcamp / discogs is your friend. Enjoy!_
+![image](../imported/picks-finbars-tasty-synth-treats-1/image1168.jpeg)_Finbar is a beloved friend of the squad, who presents a monthly radio show on Music Box Radio called Codependent, has a one off show coming soon to Threads named Chronic Intrigue and works with homeless people for St Mungo’s charity. He steps up today with an flavourful, electronic sound-platter, the handful of his tracks available on Spotify are gathered_ [_here_](https://open.spotify.com/playlist/0nfzYJKDpRaW551IDem5Ap?si=A4RyPyymRXWmbu8IjlPzZg)_, but really you know youtube / bandcamp / discogs is your friend. Enjoy!_
 
 Back when I first listened to this album when I was 19, I was mostly into rock and jazz. At that point, I viewed Electronic music as something that was good to dance to, but not as something to spend all my time listening to. The album, and this song in particular, really opened my eyes up to how expressive bleep music could be.
 

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-224-lauryn-sisu
 author: 100
 banner:
-  - imported\loose-lips-mix-series-224-lauryn-sisu\image3162.jpeg
+  - imported/loose-lips-mix-series-224-lauryn-sisu/image3162.jpeg
 description: >-
   A special 4/4-amen journey. @harperworkz @sisu_crew Lauryn has been listening
   and appreciating music since she can remember. She is a born and bred

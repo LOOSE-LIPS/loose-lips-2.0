@@ -6,7 +6,7 @@ type: post
 slug: picks-roos-halcyon-days
 author: 100
 banner:
-  - imported\picks-roos-halcyon-days\image1236.jpeg
+  - imported/picks-roos-halcyon-days/image1236.jpeg
 description: >-
   Hello and welcome! This week&#39;s picks comes from Roo, a writer and editor
   with the cheek to co-found a top quality blog whose name comes dangerously
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\picks-roos-halcyon-days\image1236.jpeg)_Hello and welcome! This week's picks comes from Roo, a writer and editor with the cheek to co-found a top quality blog whose name comes dangerously close to sounding cooler than 'loose lips'; [Halcyon Wax](https://www.halcyonwax.com/)! She also runs a womxn + non binary collective named Shifting Spheres, organising DJ workshops in Manchester to promote inclusivity, whose first [compilation](https://shiftingspheres.bandcamp.com/releases?fbclid=IwAR1CWkIPXeoka1vvDnB0Z2CCES8cRWH438X9fS7v7uiTwlhjIsgPHXAD6jE) contains absolute heaters from Deep Cuts writers Lauryn and Jazzi Bobbi, essential listening. Aside from this she's also a riproaring DJ with a particular taste for rich transcendent grooves and experience supporting everyone from Carista to Special Request, take it away…._
+![image](../imported/picks-roos-halcyon-days/image1236.jpeg)_Hello and welcome! This week's picks comes from Roo, a writer and editor with the cheek to co-found a top quality blog whose name comes dangerously close to sounding cooler than 'loose lips'; [Halcyon Wax](https://www.halcyonwax.com/)! She also runs a womxn + non binary collective named Shifting Spheres, organising DJ workshops in Manchester to promote inclusivity, whose first [compilation](https://shiftingspheres.bandcamp.com/releases?fbclid=IwAR1CWkIPXeoka1vvDnB0Z2CCES8cRWH438X9fS7v7uiTwlhjIsgPHXAD6jE) contains absolute heaters from Deep Cuts writers Lauryn and Jazzi Bobbi, essential listening. Aside from this she's also a riproaring DJ with a particular taste for rich transcendent grooves and experience supporting everyone from Carista to Special Request, take it away…._
 
 A combination of seeing the rise of illegal raves during lockdown and watching an array of rave films including the cult classic Human Traffic and Beats which is centered around the Criminal Justice Act of 1994 that banned music which was "wholly or predominantly characterised by the emission of a succession of repetitive beats" has inspired me to curate a 80s/90s selection. Halcyon, is taken from my website name but it is by definition, a past time that was idyllically happy and peaceful. I’m not sure the late 80’s and early 90’s can be necessarily named idyllic but the music certainly makes me happy so I’ve picked out a bunch of grooves that make me smile. 
 

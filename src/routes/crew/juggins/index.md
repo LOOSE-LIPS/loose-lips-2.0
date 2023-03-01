@@ -6,7 +6,7 @@ type: crew
 slug: juggins
 author: 100
 banner:
-  - imported\juggins\image4526.jpeg
+  - imported/juggins/image4526.jpeg
 description: 'BRISTOLIAN BOSS / FOUNDER / RESIDENT DJ [...]Read More...'
 published: true
 tags:

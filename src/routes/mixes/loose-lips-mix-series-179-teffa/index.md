@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-179-teffa
 author: 100
 banner:
-  - imported\loose-lips-mix-series-179-teffa\image3117.jpeg
+  - imported/loose-lips-mix-series-179-teffa/image3117.jpeg
 description: >-
   The mix contains various tracks from producers that Teffa is supporting and
   blessed to receive music from (each track in the mix is from a different

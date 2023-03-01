@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-196-metalogue-towards-collapse
 author: 100
 banner:
-  - imported\loose-lips-mix-series-196-metalogue-towards-collapse\image3134.jpeg
+  - imported/loose-lips-mix-series-196-metalogue-towards-collapse/image3134.jpeg
 description: >-
   Science-fiction involving mysterious or abnormal &#8216;zones&#8217; is a
   massive inspiration for Metalogue. Roadside Picnic (Arkady and Boris

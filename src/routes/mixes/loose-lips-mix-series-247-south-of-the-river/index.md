@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-247-south-of-the-river
 author: 100
 banner:
-  - imported\loose-lips-mix-series-247-south-of-the-river\image3185.jpeg
+  - imported/loose-lips-mix-series-247-south-of-the-river/image3185.jpeg
 description: >-
   Glad to have Boston DJ &#8216;Sam May Day Malone&#8217; AKA &#8216;South of
   the River&#8217; on our next entry!! Having been a DJ on Californian freeform

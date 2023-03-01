@@ -6,7 +6,7 @@ type: post
 slug: francis-redmans-hopeful-dawn
 author: 100
 banner:
-  - imported\francis-redmans-hopeful-dawn\image1376.jpeg
+  - imported/francis-redmans-hopeful-dawn/image1376.jpeg
 description: >-
   Well here we are, 2021 has begun and I am already exhausted, to be honest I
   can barely gather the strength to write this introduction. But I am writing
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\francis-redmans-hopeful-dawn\image1376.jpeg)**_Well here we are, 2021 has begun and I am already exhausted, to be honest I can barely gather the strength to write this introduction. But I am writing it, I’m still pouring my free time and effort into Loose Lips, because I’ve got love for this shit, and thankfully that love gestates into hope for warm, joyful times. Spinning on that theme for this week’s picks is Francis Redman, DJ and head of Trouble In Utopia, a record label whose_** [**_website_**](http://www.troubleinutopia.com/) **_frontpage states in big bold letters;_** _**‘Surrounded by noise we found each other.**__**We have sound.’**__**Lovely. As always all Spotifyable tracks are gathered [here](https://open.spotify.com/playlist/3WpVraRH8qpYOh88GoIwcA), take it away…**_
+![image](../imported/francis-redmans-hopeful-dawn/image1376.jpeg)**_Well here we are, 2021 has begun and I am already exhausted, to be honest I can barely gather the strength to write this introduction. But I am writing it, I’m still pouring my free time and effort into Loose Lips, because I’ve got love for this shit, and thankfully that love gestates into hope for warm, joyful times. Spinning on that theme for this week’s picks is Francis Redman, DJ and head of Trouble In Utopia, a record label whose_** [**_website_**](http://www.troubleinutopia.com/) **_frontpage states in big bold letters;_** _**‘Surrounded by noise we found each other.**__**We have sound.’**__**Lovely. As always all Spotifyable tracks are gathered [here](https://open.spotify.com/playlist/3WpVraRH8qpYOh88GoIwcA), take it away…**_
 
 For me to be awake early I am likely to be under the duress of some kind of commitment, or because there is something pressing my consciousness into being active. However, although when I do see a sunrise I am more likely than not bleary eyed and thick headed – there is also nothing like a beautiful morning to shake you up and invigorate you with new energy. I feel similar about the year ahead, emerging into a new dawn, downtrodden and ill prepared on the back of quite a trying year.I am ready for new energy; I would like to see some more sunrises this year; these tracks are those ideal for these kind of transitional moments. 
 

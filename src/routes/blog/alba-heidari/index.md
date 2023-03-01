@@ -6,7 +6,7 @@ type: post
 slug: alba-heidari
 author: 5
 banner:
-  - imported\alba-heidari\image1032.jpeg
+  - imported/alba-heidari/image1032.jpeg
 description: >-
   Ahead of her set tonight at The Cause, Loose Lips caught of with Alba Heidari
   Tell us about the ARIA collective and your recent party? The first rule of
@@ -17,7 +17,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\alba-heidari\image1032.jpeg)_Ahead of her set tonight at The Cause, Loose Lips caught of with Alba Heidari_
+![image](../imported/alba-heidari/image1032.jpeg)_Ahead of her set tonight at The Cause, Loose Lips caught of with Alba Heidari_
 
 **Tell us about the ARIA collective and your recent party?**
 

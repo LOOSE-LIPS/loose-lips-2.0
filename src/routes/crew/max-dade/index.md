@@ -6,7 +6,7 @@ type: crew
 slug: max-dade
 author: 100
 banner:
-  - imported\max-dade\image4529.jpeg
+  - imported/max-dade/image4529.jpeg
 description: >-
   EDITOR / WRITER Loose Lips&#39; legend in Lisbon! DJ | MKSPromoter / Dogsbody
   | Desterro/DARC (Lisboa, PT)Improviser | Desterronics Articles:

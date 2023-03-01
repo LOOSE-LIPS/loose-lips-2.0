@@ -6,7 +6,7 @@ type: post
 slug: ice-eyes-maps-of-despair-abadir-remix-edt10
 author: 100
 banner:
-  - imported\ice-eyes-maps-of-despair-abadir-remix-edt10\image1323.jpeg
+  - imported/ice-eyes-maps-of-despair-abadir-remix-edt10/image1323.jpeg
 description: >-
   Berlin-based Egyptian producer ABADIR reformulate Maps of Despair&nbsp;into a
   hectic Jungle-meets-traditional-percussions piece. Highly satisfactory! From
@@ -20,6 +20,6 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\ice-eyes-maps-of-despair-abadir-remix-edt10\image1323.jpeg)Berlin-based Egyptian producer ABADIR reformulate _Maps of Despair_ into a hectic Jungle-meets-traditional-percussions piece. Highly satisfactory!From [Ice\_Eyes](https://www.discogs.com/artist/3197874-Ice_eyes)' _Antipodes_ EP on [Ernest D. Tapes](https://ernestdtapes.bandcamp.com/).Out 16.11 on cassette and digital – Pre-order: [https://ernestdtapes.bandcamp.com/album/antipodes-ep](https://ernestdtapes.bandcamp.com/album/antipodes-ep)[https://soundcloud.com/ernestdtapes](https://soundcloud.com/ernestdtapes)  
+![image](../imported/ice-eyes-maps-of-despair-abadir-remix-edt10/image1323.jpeg)Berlin-based Egyptian producer ABADIR reformulate _Maps of Despair_ into a hectic Jungle-meets-traditional-percussions piece. Highly satisfactory!From [Ice\_Eyes](https://www.discogs.com/artist/3197874-Ice_eyes)' _Antipodes_ EP on [Ernest D. Tapes](https://ernestdtapes.bandcamp.com/).Out 16.11 on cassette and digital – Pre-order: [https://ernestdtapes.bandcamp.com/album/antipodes-ep](https://ernestdtapes.bandcamp.com/album/antipodes-ep)[https://soundcloud.com/ernestdtapes](https://soundcloud.com/ernestdtapes)  
 [https://soundcloud.com/ice\_eyes](https://soundcloud.com/ice_eyes)  
 [https://soundcloud.com/rami-abadir](https://soundcloud.com/rami-abadir)

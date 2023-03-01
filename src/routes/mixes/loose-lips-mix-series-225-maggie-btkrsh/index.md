@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-225-maggie-btkrsh
 author: 100
 banner:
-  - imported\loose-lips-mix-series-225-maggie-btkrsh\image3163.jpeg
+  - imported/loose-lips-mix-series-225-maggie-btkrsh/image3163.jpeg
 description: >-
   It&#8217;s like some serious and dark slime balloon has just burst in my ears,
   splattering new-school noises with more balanced psychedelic sounds.

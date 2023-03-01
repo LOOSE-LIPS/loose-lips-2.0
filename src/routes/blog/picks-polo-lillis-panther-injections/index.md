@@ -6,7 +6,7 @@ type: post
 slug: picks-polo-lillis-panther-injections
 author: 100
 banner:
-  - imported\picks-polo-lillis-panther-injections\image1209.jpeg
+  - imported/picks-polo-lillis-panther-injections/image1209.jpeg
 description: >-
   This week, we invite the twisted pop provocateur, Bristolian DJ and producer
   Polo Lilli, fresh from the release of their transcendant breakbeat,
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\picks-polo-lillis-panther-injections\image1209.jpeg)_This week, we invite the twisted pop provocateur, Bristolian DJ and producer Polo Lilli, fresh from the release of their transcendant breakbeat, Pink-Floyd-on-pingers face-splash 'The Great Bootleg In The Sky' (out now on [bandcamp](https://polo-lilli.bandcamp.com/track/the-great-bootleg-in-the-sky)__). All Spotify-able tracks are gathered in_ [_this playlist_](https://open.spotify.com/playlist/3tkgbZE4a7uPVmf6msm5zZ?si=emYXxG0YQG2IvfRMdqr_Ig)_, take it away Prime Minister Polo…_
+![image](../imported/picks-polo-lillis-panther-injections/image1209.jpeg)_This week, we invite the twisted pop provocateur, Bristolian DJ and producer Polo Lilli, fresh from the release of their transcendant breakbeat, Pink-Floyd-on-pingers face-splash 'The Great Bootleg In The Sky' (out now on [bandcamp](https://polo-lilli.bandcamp.com/track/the-great-bootleg-in-the-sky)__). All Spotify-able tracks are gathered in_ [_this playlist_](https://open.spotify.com/playlist/3tkgbZE4a7uPVmf6msm5zZ?si=emYXxG0YQG2IvfRMdqr_Ig)_, take it away Prime Minister Polo…_
 
 I like to think of a DJ set as an organic thing. Constantly shifting and changing and reacting to its environment. It can be anything from a flower, making slow, subtle movements to catch the sunlight, to a panther stalking its prey. Being a proud adopter of the panther school of mixing, I’ve collated a list of tracks that have the power to inject animalistic unpredictability into a set.
 

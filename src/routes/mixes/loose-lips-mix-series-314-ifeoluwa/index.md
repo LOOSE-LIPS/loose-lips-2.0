@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-314-ifeoluwa
 author: 100
 banner:
-  - imported\loose-lips-mix-series-314-ifeoluwa\image3252.jpeg
+  - imported/loose-lips-mix-series-314-ifeoluwa/image3252.jpeg
 description: >-
   Delve into leftfield techno, bass, club, trance, breaks, jungle and modern
   electronics; brilliantly selected and mixed by DJ, writer, academic,

@@ -9,7 +9,7 @@ slug: ll-x-kp-2-bad-mice-source-direct-dj-absolutely-shit-jim-bane
 author: 100
 banner:
   - >-
-    imported\ll-x-kp-2-bad-mice-source-direct-dj-absolutely-shit-jim-bane\image2813.jpeg
+    imported/ll-x-kp-2-bad-mice-source-direct-dj-absolutely-shit-jim-bane/image2813.jpeg
 description: >-
   In celebration of Loose Lips&#39;s 5th Birthday, we&#39;ve teamed up once
   again with Kulture Project to throw one of our infamous Jungle &amp; Hardcore

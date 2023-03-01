@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-190-background-seeksicksound
 author: 100
 banner:
-  - imported\loose-lips-mix-series-190-background-seeksicksound\image3128.jpeg
+  - imported/loose-lips-mix-series-190-background-seeksicksound/image3128.jpeg
 description: >-
   The 190th mix in our series links all kinds of 140BPM music &#8211; dubstep,
   grime, garage, breakbeat and bass. Showcasing some weirder and really

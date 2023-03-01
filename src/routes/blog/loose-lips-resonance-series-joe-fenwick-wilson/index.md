@@ -6,7 +6,7 @@ type: post
 slug: loose-lips-resonance-series-joe-fenwick-wilson
 author: 76
 banner:
-  - imported\loose-lips-resonance-series-joe-fenwick-wilson\image1109.jpeg
+  - imported/loose-lips-resonance-series-joe-fenwick-wilson/image1109.jpeg
 description: >-
   Welcome to the third instalment of the &#39;Resonance Series&#39; &#8211;
   curated by Jasper Golding, it explores the interplay between art
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\loose-lips-resonance-series-joe-fenwick-wilson\image1109.jpeg)_Welcome to the third instalment of the 'Resonance Series' – curated by Jasper Golding, it explores the interplay between art forms._ _This feature, running every other Tuesday, introduces you to musical individuals through the other art forms they engage in, telling a personal story of their creative output and how different mediums influence each other._Thoughtful geezer and strong creative energy. Joe’s demeanor spills out in to all forms, the ‘martial art’ of his existence is ever present, in his spoken and written wordplay as in his skateboarding and drawing. His playful dynamism can be seen strewn across each of these forms. 
+![image](../imported/loose-lips-resonance-series-joe-fenwick-wilson/image1109.jpeg)_Welcome to the third instalment of the 'Resonance Series' – curated by Jasper Golding, it explores the interplay between art forms._ _This feature, running every other Tuesday, introduces you to musical individuals through the other art forms they engage in, telling a personal story of their creative output and how different mediums influence each other._Thoughtful geezer and strong creative energy. Joe’s demeanor spills out in to all forms, the ‘martial art’ of his existence is ever present, in his spoken and written wordplay as in his skateboarding and drawing. His playful dynamism can be seen strewn across each of these forms. 
 
 ![](https://lh6.googleusercontent.com/q5o0kk6iA2YVYkN5_erRSbX51VLA6uqyzpe8Fvm2jjL2-JthQHjYRKRwnLpXgY4zJYFu0dLkSRzl9xiG1ViP9txSV_RIWFvImTYjnwiW3-JU656AZDEWTRvyCkhpT29Wh63QK1XC)
 

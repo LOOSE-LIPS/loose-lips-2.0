@@ -9,7 +9,7 @@ slug: kortzers-sunday-jams-uncle-sam-round-the-world-girls-tes-la-rok-remix
 author: 96
 banner:
   - >-
-    imported\kortzers-sunday-jams-uncle-sam-round-the-world-girls-tes-la-rok-remix\image933.jpeg
+    imported/kortzers-sunday-jams-uncle-sam-round-the-world-girls-tes-la-rok-remix/image933.jpeg
 description: >-
   This week&#39;s Sunday Jam comes courtesy of Loose Lips Badman Treece aka
   Charlie Boy Manson. Today&#39;s the first time I&#39;ve heard this track and
@@ -20,4 +20,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\kortzers-sunday-jams-uncle-sam-round-the-world-girls-tes-la-rok-remix\image933.jpeg)This week's Sunday Jam comes courtesy of Loose Lips Badman Treece aka Charlie Boy Manson. Today's the first time I've heard this track and instantly I knew she was the one for me. Sit back, relax and let the wubs roll through!
+![image](../imported/kortzers-sunday-jams-uncle-sam-round-the-world-girls-tes-la-rok-remix/image933.jpeg)This week's Sunday Jam comes courtesy of Loose Lips Badman Treece aka Charlie Boy Manson. Today's the first time I've heard this track and instantly I knew she was the one for me. Sit back, relax and let the wubs roll through!

@@ -6,7 +6,7 @@ type: post
 slug: jerome-caproni-manon-moon-beam-records
 author: 100
 banner:
-  - imported\jerome-caproni-manon-moon-beam-records\image1004.jpeg
+  - imported/jerome-caproni-manon-moon-beam-records/image1004.jpeg
 description: >-
   Hazey piece of Electronica diving into Jazz and Dub territories with sensual
   saxophone silhouettes. From J&eacute;rome Caproni&#39;s Manon&nbsp;EP on Moon
@@ -19,5 +19,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\jerome-caproni-manon-moon-beam-records\image1004.jpeg)Hazey piece of Electronica diving into Jazz and Dub territories with sensual saxophone silhouettes.From [Jérome Caproni](https://www.residentadvisor.net/dj/jeromecaproni)'s _Manon_ EP on [Moon Beam Records](https://www.facebook.com/moonbeamrecord/).Out 27.01 on digital – Pre-order: [](http://classic.beatport.com/release/manon/2830436)[http://classic.beatport.com/release/manon/2830436](http://classic.beatport.com/release/manon/2830436)[](https://soundcloud.com/zecapx)[https://soundcloud.com/zecapx](https://soundcloud.com/zecapx)  
+![image](../imported/jerome-caproni-manon-moon-beam-records/image1004.jpeg)Hazey piece of Electronica diving into Jazz and Dub territories with sensual saxophone silhouettes.From [Jérome Caproni](https://www.residentadvisor.net/dj/jeromecaproni)'s _Manon_ EP on [Moon Beam Records](https://www.facebook.com/moonbeamrecord/).Out 27.01 on digital – Pre-order: [](http://classic.beatport.com/release/manon/2830436)[http://classic.beatport.com/release/manon/2830436](http://classic.beatport.com/release/manon/2830436)[](https://soundcloud.com/zecapx)[https://soundcloud.com/zecapx](https://soundcloud.com/zecapx)  
 [](https://soundcloud.com/kassianstudios)[https://soundcloud.com/kassianstudios](https://soundcloud.com/kassianstudios)

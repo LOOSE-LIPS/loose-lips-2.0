@@ -10,7 +10,7 @@ slug: >-
 author: 100
 banner:
   - >-
-    imported\loose-lips-x-future-everything-showcase-memphis-ft-medallion-man-kortzer-strooly-qemist-and-nrvvs\image2799.jpeg
+    imported/loose-lips-x-future-everything-showcase-memphis-ft-medallion-man-kortzer-strooly-qemist-and-nrvvs/image2799.jpeg
 description: >-
   Loose Lips is a prolific, hardworking collective of DJs, producers, MCs,
   artists, and writers based in Manchester and London, UK. On top of touring

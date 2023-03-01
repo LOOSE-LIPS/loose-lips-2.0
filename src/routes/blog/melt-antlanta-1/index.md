@@ -6,7 +6,7 @@ type: post
 slug: melt-antlanta-1
 author: 100
 banner:
-  - imported\melt-antlanta-1\image837.jpeg
+  - imported/melt-antlanta-1/image837.jpeg
 description: >-
   In hindsight of the Loose Lips showcase with MELT last weekend, we decided to
   find out more about the Atlanta based collective. Introduce yourself and MELT,
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\melt-antlanta-1\image837.jpeg)In hindsight of the Loose Lips showcase with MELT last weekend, we decided to find out more about the Atlanta based collective.
+![image](../imported/melt-antlanta-1/image837.jpeg)In hindsight of the Loose Lips showcase with MELT last weekend, we decided to find out more about the Atlanta based collective.
 
 **Introduce yourself and MELT, how did it all start?**Paolo: So I think my personal story and the story of MELT are absolutely intertwined. Without getting into too much detail, I was fortunate enough to have spent most of my twenties and a good part of my thirties living overseas across Europe and Asia. I’ve also been more or less obsessed with house and techno music for my entire adult life. That combination of passion for music and experience living in multiple countries and continents meant that I was exposed to many different, wonderful visions of what dance music is; different interpretations of dance music culture, and many, many creative ideas around event production that stick with me to this day.  
   
