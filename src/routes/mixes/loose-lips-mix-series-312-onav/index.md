@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-312-onav
 author: 100
 banner:
-  - imported\loose-lips-mix-series-312-onav\image3250.jpeg
+  - imported/loose-lips-mix-series-312-onav/image3250.jpeg
 description: >-
   Punching through the end of 2020, @sisu_crew&#8217;s ona:v races between
   electro, breaks, techno, ghettotech and hardtech in this 2h26m crescendo.

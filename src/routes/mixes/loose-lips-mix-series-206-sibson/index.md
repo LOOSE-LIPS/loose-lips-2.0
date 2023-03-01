@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-206-sibson
 author: 100
 banner:
-  - imported\loose-lips-mix-series-206-sibson\image3144.jpeg
+  - imported/loose-lips-mix-series-206-sibson/image3144.jpeg
 description: >-
   YES SELECTOR! https://www.residentadvisor.net/dj/mikeysibson Leeds-born,
   London-based DJ, producer and record collector Mikey Sibson has been involved

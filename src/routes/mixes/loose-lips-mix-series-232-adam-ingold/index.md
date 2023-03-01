@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-232-adam-ingold
 author: 100
 banner:
-  - imported\loose-lips-mix-series-232-adam-ingold\image3170.jpeg
+  - imported/loose-lips-mix-series-232-adam-ingold/image3170.jpeg
 description: >-
   Positive and mellow House vibes on our next Mix Series entry! Enjoy!! &#8220;I
   wanted to roll out some bits I&#8217;m currently feeling, be they older or

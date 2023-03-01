@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-315-francis-redman
 author: 100
 banner:
-  - imported\loose-lips-mix-series-315-francis-redman\image3253.jpeg
+  - imported/loose-lips-mix-series-315-francis-redman/image3253.jpeg
 description: >-
   Following his recent PICKS on our blog, Francis Redman conjures a series of
   ethereal musical landscapes punctuated by intricate rhythms and warm grooves!

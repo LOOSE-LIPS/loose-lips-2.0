@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-193-pepo-fernandez
 author: 100
 banner:
-  - imported\loose-lips-mix-series-193-pepo-fernandez\image3131.jpeg
+  - imported/loose-lips-mix-series-193-pepo-fernandez/image3131.jpeg
 description: >-
   The host of @199Radio&#8217;s Ignition show, sharing the finest sentimental
   techno&#8230; https://199rad.io/pepo-fernandez TRACKLIST: Undisclosed

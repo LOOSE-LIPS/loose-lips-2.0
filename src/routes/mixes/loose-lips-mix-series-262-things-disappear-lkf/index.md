@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-262-things-disappear-lkf
 author: 100
 banner:
-  - imported\loose-lips-mix-series-262-things-disappear-lkf\image3200.jpeg
+  - imported/loose-lips-mix-series-262-things-disappear-lkf/image3200.jpeg
 description: >-
   For our 262nd Mix Series, we&#8217;re excited to welcome LKF; co-founder of
   Tottenham-based radio station Threads alongside Medallion Man! With a history

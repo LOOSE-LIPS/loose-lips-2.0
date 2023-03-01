@@ -41,7 +41,9 @@
       Recommended
     </h2>
 
-    <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5">
+    <div
+      class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5"
+    >
       {#each recommendedPosts as post}
         <div>
           <RecommendedPost {post} />

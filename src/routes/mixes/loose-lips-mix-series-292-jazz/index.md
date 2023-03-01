@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-292-jazz
 author: 100
 banner:
-  - imported\loose-lips-mix-series-292-jazz\image3230.jpeg
+  - imported/loose-lips-mix-series-292-jazz/image3230.jpeg
 description: >-
   Introducing JAZZ to our mix series for 120&#8242; of techno, electro,
   breakbeat and UKG from Two Shells, DJ Plead, Deadboy, LSDXOXO, Main Phase,

@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-268-alba-heidari
 author: 100
 banner:
-  - imported\loose-lips-mix-series-268-alba-heidari\image3206.jpeg
+  - imported/loose-lips-mix-series-268-alba-heidari/image3206.jpeg
 description: >-
   We&#8217;re happy to welcome Alba Heidari on our next Mix Series instalment!
   Injecting a healthy dose of energetic Techno into your ears in anticipation of

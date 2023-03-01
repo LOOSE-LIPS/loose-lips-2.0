@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-306-ukaea
 author: 100
 banner:
-  - imported\loose-lips-mix-series-306-ukaea\image3244.jpeg
+  - imported/loose-lips-mix-series-306-ukaea/image3244.jpeg
 description: >-
   UKAEA announces the colour from the get go: here&#8217;s a 95 minutes sonic
   assault of melting, deconstructed industrial badbwoi bizniz! @user-799719556

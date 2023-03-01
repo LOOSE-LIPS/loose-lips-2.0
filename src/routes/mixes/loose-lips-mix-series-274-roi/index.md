@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-274-roi
 author: 100
 banner:
-  - imported\loose-lips-mix-series-274-roi\image3211.jpeg
+  - imported/loose-lips-mix-series-274-roi/image3211.jpeg
 description: >-
   3 weeks ago, we introduced one co-founder of A&#8217;Coruna&#8217;s Fanzine
   Records to our Mix Series, and now it&#8217;s time for the other partner in

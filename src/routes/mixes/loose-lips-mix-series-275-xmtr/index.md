@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-275-xmtr
 author: 100
 banner:
-  - imported\loose-lips-mix-series-275-xmtr\image3215.jpeg
+  - imported/loose-lips-mix-series-275-xmtr/image3215.jpeg
 description: >-
   Our 275th mix series is from XMTR, firing a deflagration of breakbeats and
   non-linear rhythms in this highly enjoyable 1h journey! We met Jago in London

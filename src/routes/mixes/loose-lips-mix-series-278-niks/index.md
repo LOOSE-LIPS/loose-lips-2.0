@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-278-niks
 author: 100
 banner:
-  - imported\loose-lips-mix-series-278-niks\image3209.jpeg
+  - imported/loose-lips-mix-series-278-niks/image3209.jpeg
 description: >-
   We today welcome to our mix series&#8230;Noods radio resident, and core WXMB 2
   member, NIKS. @niksdelanancy NIKS, South-East London born, and South-West
