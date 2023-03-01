@@ -14,8 +14,7 @@ description: >-
   And how does it sound? Danish sound artist Jacob Kirkegaard, whose sound art
   has resonated within the walls of [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/jacob-kirkegaard-opus-mors-event-invitation/image1007.jpeg)What happens to us after we die? This question hasn’t ceased to fascinate, possibly scare and eventually occupy the minds of anyone who ever grasped the notion of one’s mortality. But what happens to our corpses? And how does it sound? Danish sound artist Jacob Kirkegaard, whose sound art has resonated within the walls of venues such as MoMA in New York, the Rothko Chapel in Houston and the Mori Art Museum in Tokyo, dared to take an acoustic trip into the future – recording the sounds produced by and surrounding a human corpse post mortem.

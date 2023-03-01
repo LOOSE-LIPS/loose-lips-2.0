@@ -14,8 +14,7 @@ description: >-
   his epic photography through to his reflective tape recordings. With
   introspection and [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/loose-lips-resonance-series/image1127.jpeg)If you were to pour out a fresh pot of coffee Abe’s eyes would probably peek out from between a british cultural theory book on K-Punk and a low pulled beanie. Abe’s stamp can be seen in all forms of his work, from his epic photography through to his reflective tape recordings. With introspection and an appeal to some looming, dark underworld Abe’s practise is a kind of  retreat into a space in which humanity is vacant and dark forces deliberate.

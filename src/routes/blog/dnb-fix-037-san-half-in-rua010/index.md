@@ -14,8 +14,7 @@ description: >-
   from the enigmatic San. Bristol based producer San&#39;s (who at this point;
   is nothing short [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-037-san-half-in-rua010/image1333.jpeg)_This week's DnB Fix has gone a bit off key; with our own Morgan stepping away from the vinyl only “proper Jungle" selects that usually grasp his attention, and into the proverbial dark side with a release on Rua Sound from the enigmatic San._Bristol based producer San's (who at this point; is nothing short of a mystery, other than it’s an alias from an already established Techno artist) "The Subject 9 EP" arguably falls under the pretence of Future Jungle / Tech-step DnB, which would normally get left to the other members of the team. Nevertheless, this isn’t to say the release lacks the raw vibe and spirit of the old-skool. Hence why Morgan felt it deserves a big, BIG, shout out. Half In presents itself with the mannerisms of a late 90's Source Direct tune, with production skills that rival Sully and electrifying breakbeat edits that would hold themselves against the likes of Photek. 

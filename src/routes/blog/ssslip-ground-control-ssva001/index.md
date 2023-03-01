@@ -17,8 +17,7 @@ description: >-
   for a dance floor ready compilation (SSVA001).Venturing through garage,
   breaks, footwork and re-works, the release [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/ssslip-ground-control-ssva001/image1101.jpeg)[SSSLIP](https://soundcloud.com/ssslip) delivers here a shiny 2-Step number with classic RnB vocals!From _Flavours For The Dance_ _Vol.1_ V/A compilation on [Slippery Sounds](https://slipperysounds.bandcamp.com/).Out now on digital – Pre-order: [](https://slipperysounds.bandcamp.com/album/slippery-sounds-presents-flavours-for-the-dance-vol-1?fbclid=IwAR3WtaSsJvi4E9kQFXXyFd7y00g-wHJzojFWqJEuCZ5h2wYWiyUbiiFPq2Y)[https://slipperysounds.bandcamp.com/album/slippery-sounds-presents-flavours-for-the-dance-vol-1](https://slipperysounds.bandcamp.com/album/slippery-sounds-presents-flavours-for-the-dance-vol-1)[](https://soundcloud.com/ssslip)[https://soundcloud.com/ssslip](https://soundcloud.com/ssslip)  

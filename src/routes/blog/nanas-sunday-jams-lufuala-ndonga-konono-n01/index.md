@@ -14,8 +14,7 @@ description: >-
   labels that should feature somewhere on one of your playlists, (really they
   should be [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/nanas-sunday-jams-lufuala-ndonga-konono-n01/image1224.jpeg)_Artwork by the majestic [Trav](https://www.backdownwarchild.co.uk/)_

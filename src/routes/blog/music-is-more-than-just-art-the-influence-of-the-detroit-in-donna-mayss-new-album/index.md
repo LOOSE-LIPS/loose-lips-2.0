@@ -19,8 +19,7 @@ description: >-
   with field recordings sculpting musical portraits that highlight the contrast
   between former purpose and present [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/music-is-more-than-just-art-the-influence-of-the-detroit-in-donna-mayss-new-album/image1388.jpeg)  

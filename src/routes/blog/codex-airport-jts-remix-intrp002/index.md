@@ -15,8 +15,7 @@ description: >-
   https://interpolaterecords.bandcamp.com/album/airport-a-window-remixes
   https://soundcloud.com/interpolaterecords &nbsp; [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/codex-airport-jts-remix-intrp002/image1255.jpeg)Durham-based producer JTS on remix duties here, taking the original into a slick electronica leaning UKG number, building euphoria on top of the vocals!From Codex's _Airport / A Window Remixes_ EP on [Interpolate Records](https://interpolaterecords.bandcamp.com/).Out 18.09.2020 on digital – Pre-order: [https://interpolaterecords.bandcamp.com/album/airport-a-window-remixes](https://interpolaterecords.bandcamp.com/album/airport-a-window-remixes)[https://soundcloud.com/interpolaterecords](https://soundcloud.com/interpolaterecords)

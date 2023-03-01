@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/zecapxhttps://soundcloud.com/kassianstudios [...]Read
   More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/jerome-caproni-manon-moon-beam-records/image1004.jpeg)Hazey piece of Electronica diving into Jazz and Dub territories with sensual saxophone silhouettes.From [Jérome Caproni](https://www.residentadvisor.net/dj/jeromecaproni)'s _Manon_ EP on [Moon Beam Records](https://www.facebook.com/moonbeamrecord/).Out 27.01 on digital – Pre-order: [](http://classic.beatport.com/release/manon/2830436)[http://classic.beatport.com/release/manon/2830436](http://classic.beatport.com/release/manon/2830436)[](https://soundcloud.com/zecapx)[https://soundcloud.com/zecapx](https://soundcloud.com/zecapx)  

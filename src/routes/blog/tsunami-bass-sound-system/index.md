@@ -14,8 +14,7 @@ description: >-
   arse.&nbsp;&nbsp; When do you first remember &#39;bass culture&#39; music
   grabbing you? ShiZaru.zoe: I first discovered dubstep at [...]Read More...
 published: true
-tags:
-  - interview
+tags: interview
 featured: false
 ---
 ![image](../imported/tsunami-bass-sound-system/image812.jpeg)

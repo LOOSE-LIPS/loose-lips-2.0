@@ -15,8 +15,7 @@ description: >-
   the design!) Finnegan Travers: 1. Splash &#8211; Babylon&nbsp; [...]Read
   More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-loose-lips-x-5ras-top-jungle-tracks/image785.jpeg)_Fire, thunder, chaos, rhythm, speed. Jungle. We usually invite individual guests to share themed Picks pieces, but for this edition the Loose Lips and 5RA Teams went B2B, vibing off a shared love for that hardest shaking, massive-est of genres, the sound that is jungle. (Shouts to_ [_Finn_](http://loose-lips.co.uk/crew/finnegan-travers) _for the design!)__![](/wp-content/uploads/live/img/wysiwyg/5c917abb7d4ad.jpg)_**Finnegan Travers:****1\. Splash – Babylon** **2\. Lemon D – Manhattan Melody** **3\. Third Party – Screwface****Guy Man:****1\. Rising sons – Dreams Of You****2\. Richie Brains – Bring Dat Back******3\. D Bridge – China Blue******  

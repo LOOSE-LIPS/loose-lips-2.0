@@ -13,8 +13,7 @@ description: >-
   like to be surprised, those who aren&rsquo;t satisfied to hear and experience
   the same things time and time again, [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../undefined)_Mystic State have dropped this delightful collaboration on YUKU featuring the mighty War on the remix. YUKU’s vision is to deliver music which invokes an ‘island of experience and stimulation for the kinds of people who like to be surprised, those who aren’t satisfied to hear and experience the same things time and time again, as an oasis in the never-ending sea of digital information and consumerism’._  _If big atmospherics and a bit of the experimental attract you, this one’s for you._

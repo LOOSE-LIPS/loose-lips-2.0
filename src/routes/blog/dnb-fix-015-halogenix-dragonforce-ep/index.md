@@ -14,8 +14,7 @@ description: >-
   stepper that wouldn&rsquo;t be out of place in the murkiest of sets, cutting
   through the rollers with crunch and attitude. [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-015-halogenix-dragonforce-ep/image1119.jpeg)_More stellar quality production from Don Halogenix, he’s offered up 4 tracks of solid straight-up well-dressed badman business on the Dragonforce EP, out on Critical Music 8th of May._Title track Dragonforce is a proper stepper that wouldn’t be out of place in the murkiest of sets, cutting through the rollers with crunch and attitude. It’s a little bit reminiscent of Skeptical’s 2019 absolute bomb ‘Musket’, undeniably a little bit jump up, yet undeniably addictive. Dragonforce has the same effect, much like ‘Musket’, and similar to Halogenix’s notorious Blej; a tune so moreish it’s been remixed more times than we can count on two hands.Dragonforce has that great call and response effect between the chewy bass and the cheeky synths. So much more than a generic foghorn tune, the mid-range synths awash with distortion give the feel you’re indeed marching into a melee like the one depicted in the EP’s cover art. It’s typical Critical, an FX fiesta, featuring that great vocal that pays homage to Japanese comic book influences, as does the wonderful artwork. There’s a great array of percussion that keeps the track varied throughout, it’s definitely a bit of a head-twister, in the best, freshest way.It’s an EP that comes full circle through the dynamic range of Drum and Bass, something that Halogenix pulls off beautifully. It’s a very forward-thinking EP in terms of the DnB sonisphere, futuristic, and pioneering in terms of production. You’ll find no Jungle in guy, but this one would still turn Hare Krishna into a Bad bwoi.

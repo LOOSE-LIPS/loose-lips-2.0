@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/polaarsounds https://soundcloud.com/user-808630238
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/jumboclat-whodafuqdopa-polaar/image815.jpeg)Pretty unique grooves from Jumboclat, blending Broken Beat, Club and Grime in a coherent manner.  

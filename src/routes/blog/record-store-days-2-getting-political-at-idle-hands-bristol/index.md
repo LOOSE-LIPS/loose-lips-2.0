@@ -15,8 +15,7 @@ description: >-
   reaching record levels.&nbsp; Meanwhile, in dance music, the dubstep explosion
   has subsided, giving way to a [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/record-store-days-2-getting-political-at-idle-hands-bristol/image996.jpeg)It’s 2010 and the world is almost the same as it is today. Almost. Austerity cuts are hitting Britain’s most vulnerable hardest, cost of living has become a tragic joke and the divide between rich and the rest is reaching record levels. 

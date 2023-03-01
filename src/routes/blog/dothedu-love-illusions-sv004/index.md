@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/user-631627282 https://soundcloud.com/do_thedu
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/dothedu-love-illusions-sv004/image911.jpeg)Acid laced Chicago-style House with big dirty kicks and inebriated vocals floating around.  

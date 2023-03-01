@@ -15,8 +15,7 @@ description: >-
   putting pen straight to paper&#8230; Right, new EP from the Blackdown, I have
   precisely one hour to review this EP, let&rsquo;s [...]Read More...
 published: true
-tags:
-  - release-review
+tags: release-review
 featured: false
 ---
 ![image](../imported/blackdown-rollage-vol-4-the-hunger-ep-keysound-recordings/image1072.jpeg)_We gave our editor Will Soer 1 hour to listen too, and write a review on, Blackdown's recent Hunger EP on legendary rugged bass music label,_ [_Keysound Recordings_](https://www.residentadvisor.net/record-label.aspx?id=3396)_.__This is truly how his thoughts unfolded, putting pen straight to paper…_

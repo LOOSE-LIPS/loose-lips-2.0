@@ -14,8 +14,7 @@ description: >-
   underrated. This is her most famous solo work and the b side is well worth
   checking out too! [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/kortzers-sunday-jams-shortie-no-mass-u-like-my-style/image798.jpeg)This Sunday your soundtrack is supplied by Shortie No Mass! She was discovered by De La Soul and featured on their album Buhloone Mindstate. On the whole she's a little known artist yet extremely talented and incredibly underrated. This is her most famous solo work and the b side is well worth checking out too! Enjoy your Sunday!

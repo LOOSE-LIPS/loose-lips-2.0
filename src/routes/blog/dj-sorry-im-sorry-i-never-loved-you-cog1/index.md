@@ -17,8 +17,7 @@ description: >-
   https://soundcloud.com/clubofgorehttps://soundcloud.com/frekvenciihttps://soundcloud.com/sorrylovers
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/dj-sorry-im-sorry-i-never-loved-you-cog1/image1251.jpeg)Dirty, raw and unapologetic, _I'm Sorry I Never Loved You_ is a heartfelt, claustrophobic track that doesn't let your sorrows get in the way of a good air punch.From [DJ Sorry](https://soundcloud.com/sorrylovers) and [Likvidator](https://www.discogs.com/artist/4674137-Likvidator)'s C_lub of Gore №1_ split EP on [Club of Gore](https://clubofgore.bandcamp.com/).Out 10.09.2020 on limited cassette and digital – Pre-order: [https://clubofgore.bandcamp.com/album/club-of-gore-1](https://clubofgore.bandcamp.com/album/club-of-gore-1)[](https://soundcloud.com/clubofgore?fbclid=IwAR1eiL5i0HNjTc21LtMkNKa0BumY2yRajs1jGQwN5aZzkIIy5A8w8I80iDY)[https://soundcloud.com/clubofgore](https://soundcloud.com/clubofgore)  

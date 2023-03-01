@@ -17,8 +17,7 @@ description: >-
   up with a name for the night and we noticed one of caleb&rsquo;s favorite
   [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/oblako-presents-subjected-yan-cook-dyad-james-newmarch-at-fold/image823.jpeg)Loose Lips chats to Stella and Caleb about the launch of their new night, Oblako, which begins at Fold on the 17th of May.

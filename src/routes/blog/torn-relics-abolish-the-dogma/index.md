@@ -14,8 +14,7 @@ description: >-
   Abolish the Dogma. Here, with their first LP, released in February by the
   Amsterdam label Leyla, Torn [...]Read More...
 published: true
-tags:
-  - release-review
+tags: release-review
 featured: false
 ---
 ![image](../imported/torn-relics-abolish-the-dogma/image1063.jpeg)Torn Relics' first release, _The Poisoned Chalice_ (2019), was a triumph of gut-punching dread, threading percussive techno with the mournful cries of a modulated violin. The pitch black mood of that record is in no short supply on _Abolish the Dogma_. Here, with their first LP, released in February by the Amsterdam label Leyla, Torn Relics capture a sound that is forward-looking – modern, industrial – while recalling shadows of history in its evocation occultism and ritual. 

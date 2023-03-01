@@ -13,8 +13,7 @@ description: >-
   Pre-order: https://4-player-records.com/releases/4P013
   https://soundcloud.com/alavux [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../undefined)Alavux exploits the tonal and percussive nature of drum machines, bringing out dance music that's minimalist by its nature but big in essence.From [Alavux](https://www.residentadvisor.net/dj/alavux)'s _Rhythm Tones_ EP on [4 Player Records](https://4-player-records.com/).Out 30.04 on digital – Pre-order: [](https://4-player-records.com/releases/4P013)[https://4-player-records.com/releases/4P013](https://4-player-records.com/releases/4P013)[https://soundcloud.com/alavux](https://soundcloud.com/alavux)

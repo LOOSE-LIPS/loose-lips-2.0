@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/shoganai-recordshttps://soundcloud.com/rigsonrigson
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/rigson-light-metal-shgn002/image1034.jpeg)A majestic cyberpunk fly-by!From [RIGSON's](https://soundcloud.com/rigsonrigson) _Private Hell_ EP on [Shonagai](https://shoganai-records.bandcamp.com/).Out 15.03.2020 on 12" and digital – Pre-order: [](https://shoganai-records.bandcamp.com/album/private-hell)[https://shoganai-records.bandcamp.com/album/private-hell](https://shoganai-records.bandcamp.com/album/private-hell)[https://soundcloud.com/shoganai-records](https://soundcloud.com/shoganai-records)  

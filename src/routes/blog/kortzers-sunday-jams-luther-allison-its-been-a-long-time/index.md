@@ -10,8 +10,7 @@ banner:
     imported/kortzers-sunday-jams-luther-allison-its-been-a-long-time/image903.jpeg
 description: '[...]Read More...'
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/kortzers-sunday-jams-luther-allison-its-been-a-long-time/image903.jpeg)

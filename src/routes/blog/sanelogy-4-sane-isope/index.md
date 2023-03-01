@@ -14,8 +14,7 @@ description: >-
   a lot of thought has gone into this release, right down to the artwork
   [...]Read More...
 published: true
-tags:
-  - release-review
+tags: release-review
 featured: false
 ---
 ![image](../imported/sanelogy-4-sane-isope/image729.jpeg)SANELOGY 4 track EP by Russell Burnell aka SANE is by far, one of the most INSANE Techno records you'll ever hear.Released on the Belgian label Isope and being delivered on lush Turquoise vinyl , it's clear to see that a lot of thought has gone into this release, right down to the artwork and superb presentation with a Keychain and stickers to boot.It all starts off with the absurdly named "The Burglar Wore Clogs." An unconventional journey of screaming synths, buzzy analogue twists and big brutal kicks, with the track sounding like an escaped lunatic who has broken into a keyboard factory; it bangs the hell out of your speakers and plays with your senses, a killer of a tune and unlike anything you'd normally hear.The jerking dark mood of "Your Feet Hum" takes on a much deeper vibe but yet again Sane offers that bizarre twist of noise that makes you think "what on earth is going on?" as it winds its way deeper underground yet still holding a structure that chews the brain.  

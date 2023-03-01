@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/indexlife https://soundcloud.com/circuit900
   https://soundcloud.com/shespellsdoom [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/circuit-900-balthazar-she-spells-doom-remix-indexlife/image923.jpeg)Zambia's finest [SHE Spells Doom](https://www.residentadvisor.net/dj/shespellsdoom) on remix duties. Adding that flavour we know and love; he delivers  

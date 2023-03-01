@@ -16,8 +16,7 @@ description: >-
   https://soundcloud.com/toorough4radiohttps://soundcloud.com/tr4r-roughcutshttps://soundcloud.com/anna-melashchenko1
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/konerytmi-ilmatila-rough-cuts-03/image1274.jpeg)With its airy pads, squary, acidy bassline and more squelchy goodness, _Ilmatila_ is an oneiric electro tune with a capacity to widen your inner smile.From [Konerytmi](https://soundcloud.com/anna-melashchenko1)'s _Kalevala_ EP on [Too Rough 4 Radio](https://toorough4radio.bandcamp.com/).Out 29.10 on cassette and digital – Pre-order: [https://toorough4radio.bandcamp.com/album/rough-cuts-03-konerytmi-kalevala-ep](https://toorough4radio.bandcamp.com/album/rough-cuts-03-konerytmi-kalevala-ep)[https://soundcloud.com/toorough4radio](https://soundcloud.com/toorough4radio)  

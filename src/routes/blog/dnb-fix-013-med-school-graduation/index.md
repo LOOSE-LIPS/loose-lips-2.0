@@ -14,8 +14,7 @@ description: >-
   itself as the trendsetter; having been set up back in 2006 by Hospital Records
   founders, Tony [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-013-med-school-graduation/image1099.jpeg)_Having played host to much of the industry’s rising talent, amongst many big stars too; MedSchool has been at the forefront of Drum and Bass for over a decade, and this release is no exception._ MedSchool has always touted itself as the trendsetter; having been set up back in 2006 by Hospital Records founders, Tony Coleman (London Elektricity) and Chris Goss, as a home to champion emerging talent and to offer a different yet equally well-crafted palette of sounds.Back in September 2019, we were given some unfortunate news; after 13 years of operation, Med School was closing its doors; in an ode to the label, they put out a final few releases to close the year, alongside an Australian & New Zealand tour; with the promise of a final hurrah in the form of this week’s DnB Fix “Med School Graduation”.

@@ -14,8 +14,7 @@ description: >-
   insight. Who&rsquo;s behind Brainwaves and how did it start? Five aliens and a
   lot of acid. All of us have [...]Read More...
 published: true
-tags:
-  - interview
+tags: interview
 featured: false
 ---
 ![image](../imported/brainwaves/image793.jpeg)Last week, we've premiered [_Catch-23_ by Tout Casser](http://loose-lips.co.uk/blog/tout-casser-catch-23-bws003), excerpts from Brainwaves' latest VA _Caustic Dance_ EP.  

@@ -13,8 +13,7 @@ description: >-
   on Box &lsquo;n&rsquo; Lock. The track, which is produced by Chimpo himself,
   features verses from all three artists and is [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../undefined)_With Valentine’s Day just around the corner three lords of Manchester have chosen the perfect time to release this sexy Drum & Bass future anthem. DRS, Slay, and Chimpo team up on ‘Hurt Someone’, released on Box ‘n’ Lock._The track, which is produced by Chimpo himself, features verses from all three artists and is sure to be a staple selection in many a set this coming festival season.

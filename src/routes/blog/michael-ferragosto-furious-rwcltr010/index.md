@@ -14,8 +14,7 @@ description: >-
   Order: https://rawculture.bandcamp.com/album/raw-cultures-pushers-03
   https://soundcloud.com/raw-culture-recordings [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/michael-ferragosto-furious-rwcltr010/image910.jpeg)Totally raw and saturated live drum machine goodness.  

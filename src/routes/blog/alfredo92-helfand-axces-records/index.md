@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/axcesrecordingshttps://soundcloud.com/alfred092
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/alfredo92-helfand-axces-records/image1010.jpeg)Crystalline percussive notes advancing alongside smoothly pulsating percussions into a mysterious  

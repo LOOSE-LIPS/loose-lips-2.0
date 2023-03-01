@@ -14,8 +14,7 @@ description: >-
   being topped with a raspy punk ballard. The track was recorded in 1980 &amp;
   was produced by legendary Mikey Dread. The [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/kortzers-sunday-jams-the-clash-bankrobber/image839.jpeg)This week I've chosen an all time favourite, The Clash's _Bankrobber_. The track combines many different styles and influences. Featuring wobbly synth lines backed by a ska rhythm, blended in with dubby processing whilst being topped with a raspy punk ballard. The track was recorded in 1980 & was produced by legendary Mikey Dread. The preachy tale drifts you off into trip daydream, all the while being soothed by the reggae rhythm and dubby backbeat. Proper Sunday Jam.

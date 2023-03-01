@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/pattern-abuse https://soundcloud.com/m422-m3d14
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/m422-oo-pa007/image724.jpeg)A progressive recollection of frozen memories.From _Pattern Abuse Compilation 2 – Nordic Ambient_ on [Pattern Abuse](https://pattern-abuse.bandcamp.com).Out now on cassette and digital – Order: [https://pattern-abuse.bandcamp.com/album/pattern-abuse-compilation-2-nordic-ambient](https://pattern-abuse.bandcamp.com/album/pattern-abuse-compilation-2-nordic-ambient)[https://soundcloud.com/pattern-abuse](https://soundcloud.com/pattern-abuse)[https://soundcloud.com/m422-m3d14](https://soundcloud.com/m422-m3d14)

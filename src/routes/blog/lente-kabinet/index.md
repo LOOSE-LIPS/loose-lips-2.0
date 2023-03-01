@@ -14,8 +14,7 @@ description: >-
   and indulge in more festival experiences than a judicious, closer to his 30s
   than 20s person would normally have had. Hurra [...]Read More...
 published: true
-tags:
-  - festival-review
+tags: festival-review
 featured: false
 ---
 ![image](../imported/lente-kabinet/image939.jpeg)**My Festival Summer: Part One – An honest opinion on Dekmantel’s small sibling Lente Kabinet.** 

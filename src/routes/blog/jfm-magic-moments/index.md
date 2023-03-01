@@ -15,8 +15,7 @@ description: >-
   self-released &#39;Magick Moments&#39; 2020&nbsp;EP. Out now on digital
   &#8211; [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/jfm-magic-moments/image1367.jpeg)Using Art of Noise's classic _Moments in Love_'s main riff as a backdrop, also referenced in the title, JFM create a sweet uplifting dance track that reflects on his life experiences during this doomed year.  

@@ -15,8 +15,7 @@ description: >-
   Bizarre Rituals) and radio shows (Die Curious&nbsp;on Threads). Packing that
   into one sentence wasn&rsquo;t [...]Read More...
 published: true
-tags:
-  - picks
+tags: picks
 featured: false
 ---
 ![image](../imported/brain-rays-queer-essentials-2/image1334.jpeg)**_Hello to the Loose Lipped massive! Today we have a tuneblast from Brain Rays, an intriguing Devon-generated gentlemen who just does whatever he wants really; high bpm beaters, scintillating soundtracks (including Rhys Chapman’s debut film Wonderkid), crew found-ings (Wrong Music and Bizarre Rituals) and radio shows (_**_[**Die Curious**](https://www.mixcloud.com/ThreadsRadio/die-curious-w-glysk-brain-rays-17-sep-20/) **on Threads). Packing that into one sentence wasn’t easy, but ye what a guy, and moreover he’s doing something that I love to see in this article; there are many forces at play in the scene which erase the tensions which inspire its , so shout out to Mr Rays for countering this. The tunes are gathered in** [**this**](https://open.spotify.com/playlist/21R5Jeo047WZUZbi2yRk1e?si=kjni8x00Q_OQDQmeW1EiEA)_ **_Spotify playlist, take it away…_** Sadly no part of the world is free from racism, sexism and homophobia. The electronic dance music scene is rooted in the struggles but also the solidarity of the LGBTQ+ community. This is often forgotten about and queer representation in dance music is still depressingly meagre. Here are some of my favourite tracks. They are all by queer artists/producers.

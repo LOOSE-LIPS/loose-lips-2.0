@@ -14,8 +14,7 @@ description: >-
   I&rsquo;ve got love for this shit, and thankfully that love gestates into hope
   [...]Read More...
 published: true
-tags:
-  - picks
+tags: picks
 featured: false
 ---
 ![image](../imported/francis-redmans-hopeful-dawn/image1376.jpeg)**_Well here we are, 2021 has begun and I am already exhausted, to be honest I can barely gather the strength to write this introduction. But I am writing it, I’m still pouring my free time and effort into Loose Lips, because I’ve got love for this shit, and thankfully that love gestates into hope for warm, joyful times. Spinning on that theme for this week’s picks is Francis Redman, DJ and head of Trouble In Utopia, a record label whose_** [**_website_**](http://www.troubleinutopia.com/) **_frontpage states in big bold letters;_** _**‘Surrounded by noise we found each other.**__**We have sound.’**__**Lovely. As always all Spotifyable tracks are gathered [here](https://open.spotify.com/playlist/3WpVraRH8qpYOh88GoIwcA), take it away…**_

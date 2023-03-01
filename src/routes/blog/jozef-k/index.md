@@ -14,8 +14,7 @@ description: >-
   the world, you are all fucking heroes. My brother is frontline NHS so the
   [...]Read More...
 published: true
-tags:
-  - interview
+tags: interview
 featured: false
 ---
 ![image](../imported/jozef-k/image1122.jpeg)**Hi Joseph, hope you're well. How are you doing?**

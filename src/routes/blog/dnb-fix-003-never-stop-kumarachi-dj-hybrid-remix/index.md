@@ -14,8 +14,7 @@ description: >-
   instalment of this epic release contains tunes from Substrate, Veak, Conrad
   Subs and Stompz. But our pick this time round [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-003-never-stop-kumarachi-dj-hybrid-remix/image1003.jpeg)_We’re back for 2020!_ _Having finally got over the holiday blues, and the withdrawal; we’re back with another Drum and Bass showcase.  This week we’ve got the new Deep in the Jungle album._The sixth instalment of this epic release contains tunes from Substrate, Veak, Conrad Subs and Stompz. But our pick this time round comes from Kumarachi in the form of Never Stop; with DJ Hybrid on the remix.

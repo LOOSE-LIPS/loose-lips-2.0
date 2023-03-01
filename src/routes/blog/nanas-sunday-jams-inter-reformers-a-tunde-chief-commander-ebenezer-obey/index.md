@@ -17,8 +17,7 @@ description: >-
   heat and revived you in time for the next stop on the Sunday Jams tour. If you
   [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/nanas-sunday-jams-inter-reformers-a-tunde-chief-commander-ebenezer-obey/image1235.jpeg)_Banner a_rtwork by the majestic [Trav](https://www.backdownwarchild.co.uk/), all of Nana's jams are gathered in__ [__this playlist__](https://open.spotify.com/playlist/12UoQ8ov5i6P8BIfm2lOjS?si=jarAn1CXSEuYB9vAxJidOg)__.__Yes and Yes Sunday Jammers peace and salutations. Hope the mini reset has restored any parts of you that might have melted in the heat and revived you in time for the next stop on the Sunday Jams tour. If you are a regular reader of the monthly Deep Cuts strand, the topic of this month’s edition prompted today’s choice. Check it out upon publishing next Saturday.The label is Afrodisia home to the musical Titan, _Fela Ransom Kuti,_ and many many other legends; _King Sunny Ade_, _Christine Essien_ and _Commander Ebenezer Obey_. These bands were foundation stones on which modern music from West Africa, and beyond, were built on. Those forms include Afrobeat, Afrofunk, Highlife and more recently Hiplife. The label, like many other indies, was born out of a larger entity (in this case Decca Records). Decca created an outpoint for the growing voice of West African music that was in turn responding to musical turnings in Europe and American, reinterpreted through local perspectives and traditions. The forms were various, the bangers were immense.  

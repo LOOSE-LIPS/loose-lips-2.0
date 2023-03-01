@@ -15,8 +15,7 @@ description: >-
   On first impression,&nbsp;you might think is the start of a donk track with
   [...]Read More...
 published: true
-tags:
-  - release-review
+tags: release-review
 featured: false
 ---
 ![image](../imported/dale-cornish-sim-hutchins-decoupleseries-ooh-012/image780.jpeg)Like a magic wand, this two-track 12” split EP of far-out blissful tenderness shows that UK producers are still churning out top-quality Ambient. The first track on _decouple \]\[ series_ comes from the Croydon master of obliqueness, [Dale Cornish](https://dalecornish.bandcamp.com/), with his track 'California'. On first impression, you might think is the start of a donk track with the sub-tone panned out, the kick drum spread flat, until…  you hear it is being used more and more in the outlying areas of a hypnotic realm.Gouging out a 4/4 to a 16/16 beat with sporadic, reverbing claps, well-timed rests and misinterpretable vocal samples, Dale Cornish has his finger firmly attached to the pulse; however, it is here that Dale takes you to that place where electronic beauty abides. After circling your head and playing with your senses, this is a 9:15 minute electrocutioner ride of how to work the emotion and motion of a drum machine and has all the relevance of the term of “Sit the fuck down — listen and dance”.   

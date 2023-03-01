@@ -14,8 +14,7 @@ description: >-
   Elements events for 6 years alongside Nick Divine and Laurie Burton &#8211;
   Elements is strictly for hip [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/btek-musicology/image748.jpeg)**A few words with Btek, an independent DJ, A&R and Bookings Agent in the northern scene.**[Facebook – BT3KMusicology](https://www.facebook.com/BT3KMusicology/)

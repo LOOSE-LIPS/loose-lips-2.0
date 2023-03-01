@@ -65,7 +65,7 @@ for (let i = 1; i < totalPages; i++) {
           banner: images,
           description: post.yoast_head_json.og_description,
           published: true,
-          tags: [`${extract}`],
+          tags: extract,
           featured: featured,
         };
 

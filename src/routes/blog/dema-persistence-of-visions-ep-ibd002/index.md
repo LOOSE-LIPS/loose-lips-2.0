@@ -14,8 +14,7 @@ description: >-
   swinging beats that provide space for ricocheting percussion, dragging dancers
   into a stoned sway and steady head-bop.&nbsp; [...]Read More...
 published: true
-tags:
-  - release-review
+tags: release-review
 featured: false
 ---
 ![image](../imported/dema-persistence-of-visions-ep-ibd002/image840.jpeg)With his _Persistence of Visions_ EP, DE:MA presents 3 rolling Dub-Breakbeat (is that a thing? It is now!) tracks ready for the open, peak and close of your night. _Persistence of Visions_, a murky warm-up tune, features warm swinging beats that provide space for ricocheting percussion, dragging dancers into a stoned sway and steady head-bop. _Memory Bank_, the second track, is more up-tempo and wouldn’t sound out of place in a Djrum set or on Burial’s USB stick. Tight percussion zips back and forth while ethereal pads and sound design hum through the mix to dramatic effect. _Blue Champagne_ is the most upbeat of the three. Shuffling high-hats keep the subtly broken beat chugging away steadily. An uplifting key change half way through offers a glimpse into a potentially euphoric “I love you man” moment, before plummeting back to the depths from whence it came.On remix duties are three artists offering their own interpretation of _Blue Champagne_. 6ISS’s is distortion-heavy with industrial elements which ploughs on but can feel convoluted at times where the sounds stack up. The second, from Nothing is Real, introduces the first 4/4 kick drum in the EP.  

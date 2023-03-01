@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/plus-ultra-654507949
   https://soundcloud.com/joeljohnsound [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/joel-john-white-chrysler-plus-ultra/image879.jpeg)A more pumping take on Dub Techno!From Joel John's _White Chrysler_ EP on [Plus Ultra](https://plusultralabel.bandcamp.com).Out now on digital – Order: [](https://plusultralabel.bandcamp.com/album/white-chrysler-ep)[https://plusultralabel.bandcamp.com/album/white-chrysler-ep](https://plusultralabel.bandcamp.com/album/white-chrysler-ep)[https://soundcloud.com/plus-ultra-654507949](https://soundcloud.com/plus-ultra-654507949)[](https://soundcloud.com/joeljohnsound)[https://soundcloud.com/joeljohnsound](https://soundcloud.com/joeljohnsound)

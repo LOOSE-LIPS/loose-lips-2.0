@@ -15,8 +15,7 @@ description: >-
   personal story of their creative output and how different mediums influence
   each other. Thoughtful [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/loose-lips-resonance-series-joe-fenwick-wilson/image1109.jpeg)_Welcome to the third instalment of the 'Resonance Series' – curated by Jasper Golding, it explores the interplay between art forms._ _This feature, running every other Tuesday, introduces you to musical individuals through the other art forms they engage in, telling a personal story of their creative output and how different mediums influence each other._Thoughtful geezer and strong creative energy. Joe’s demeanor spills out in to all forms, the ‘martial art’ of his existence is ever present, in his spoken and written wordplay as in his skateboarding and drawing. His playful dynamism can be seen strewn across each of these forms. 

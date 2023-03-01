@@ -14,8 +14,7 @@ description: >-
   via emotion, although this is often only fleeting. Beef Records have helped
   [...]Read More...
 published: true
-tags:
-  - review
+tags: review
 featured: false
 ---
 ![image](../imported/shades-of-gray-under-my-skin-lp/image995.jpeg)In the present world, we see less and less shades of grey (gray). Everything has to be black or white, awash with absolutes or at least made to feel that way. However, music is of course an entity that can accentuate our escapism via emotion, although this is often only fleeting. Beef Records have helped blur the sentient lines once more, with a third full length studio album from the duo known as ‘Shades of Gray’.

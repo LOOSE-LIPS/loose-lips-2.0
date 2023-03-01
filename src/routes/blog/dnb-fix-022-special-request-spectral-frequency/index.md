@@ -14,8 +14,7 @@ description: >-
   Frequency was originally part of a free Bandcamp release, &lsquo;Zero
   Fucks&rsquo;, that was put out late last year [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-022-special-request-spectral-frequency/image1189.jpeg)_Special Request steals the spotlight this week for the fix, no questions asked. His latest release courtesy of R&S Records sees him coming onto vinyl again with a 4 track EP that’s nothing shy of naughty!_Spectral Frequency was originally part of a free Bandcamp release, ‘Zero Fucks’, that was put out late last year although it has since been swapped out and given its own dedicated release. Although the flip side of the EP doesn’t continue with the DnB / Jungle theme, this release still deserves a mention as Spectral Frequency is simply ingenious.

@@ -188,5 +188,7 @@
     </div>
   {/if} -->
   <!-- </div> -->
-  <RecommendedPostContainer {tags} />
 </article>
+<div class="flex flex-col justify-center items-start  mx-auto mb-16 w-full">
+  <RecommendedPostContainer {tags} />
+</div>

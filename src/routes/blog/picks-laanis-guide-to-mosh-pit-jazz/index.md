@@ -15,8 +15,7 @@ description: >-
   Tings&nbsp;show on Threads showcases the vibrancy and attitude of the scene,
   mixed, presented and interviewed [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-laanis-guide-to-mosh-pit-jazz/image765.jpeg)**_Nu-Jazz has been bubbling as London’s most exciting underground movement for some time now, but it’s not easy to appreciate the energy from outside: no Spotify playlist or pseudo-academic article can capture its riotous energy. Enter [Laani](https://facebook.com/Laaniofficial), a Brownswood-affiliated DJ whose [Jazz Tings](https://threadsradio.com/project/jazztings-w-laani/) show on Threads showcases the vibrancy and attitude of the scene, mixed, presented and interviewed with passion. We’re enormously excited to have her share a few choice selections, take it away…_****'Think jumping around losing your shit, think head-banging, think elbows in the face, think sweating in places you didn’t even know existed! If you dare to enter the jazz mosh pit, be warned! Any accidental damage to teeth and soft tissues is well worth it!** **Nu Jazz is pushing the boundaries in to new territories, fusing influences from Grime, Hip Hop, Reggae Dub, Bashment and Punk. Whether it’s a sweaty Steam Down session or an Ezra Collective jump up on the beach at Dimensions, here’s a list of tracks that will make lose your senses and dance up a storm. WARNING: not suitable for downstairs at Ronnie Scotts.'****Sons of Kemet – Afrofuturism** This band are always at the forefront of pushing the boundaries of music! The drums as the driving force and the chemistry between the sax and tuba guarantees you to lose your mind, body and soul.**Ezra Collective – Space is the place  

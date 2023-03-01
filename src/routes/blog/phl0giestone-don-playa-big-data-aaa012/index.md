@@ -13,8 +13,7 @@ description: >-
   selection of collaborations between ogie and various artists, mainly from
   Macedonia and the Balkans. Make sure to give it [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../undefined)A collaboration between rapper Don Playa from Bitola and Skopje-based producer pHl0giestone aka ogie aka Dr. Ogie aka Analogie! Resulting in a tripped out, lysergically soaked Trap song!This is part of a compilation grouping a selection of collaborations between ogie and various artists, mainly from Macedonia and the Balkans. Make sure to give it a go!From _AAA012 – Various Artists – MEM.MK (2011-2016)_ V/A album on [AAA Музика](https://aaamuzika.bandcamp.com).Out 17.10 on 12" and digital – [](https://aaamuzika.bandcamp.com/)[https://aaamuzika.bandcamp.com](https://aaamuzika.bandcamp.com)[](https://soundcloud.com/aaamuzika)[https://soundcloud.com/aaamuzika](https://soundcloud.com/aaamuzika)[](https://soundcloud.com/phl0giestone)[https://soundcloud.com/phl0giestone](https://soundcloud.com/phl0giestone)[AAA Музика](https://aaamuzika.bandcamp.com) released a batch of other releases at the same time!AAA010 – ogie – MEM.MK (1998-2003)  

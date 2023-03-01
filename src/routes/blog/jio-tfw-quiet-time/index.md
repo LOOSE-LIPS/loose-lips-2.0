@@ -14,8 +14,7 @@ description: >-
   under different monikers such as Gazatech. Having also started the Exotic
   Dance Records label with [...]Read More...
 published: true
-tags:
-  - review
+tags: review
 featured: false
 ---
 ![image](../imported/jio-tfw-quiet-time/image741.jpeg)The prolific Jiovanni Nadal greets the new year with an exciting new project on Quiet Time. The multifaceted producer has put music out most notably as J. Albert on the likes of 1080p, Hypercolour and The Trilogy Tapes, and even under different monikers such as Gazatech.

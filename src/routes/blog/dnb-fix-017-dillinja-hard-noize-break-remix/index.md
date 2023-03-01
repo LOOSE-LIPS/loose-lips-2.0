@@ -14,8 +14,7 @@ description: >-
   Valve Recordings. 2020 has been difficult for many people so far. However, one
   positive to [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-017-dillinja-hard-noize-break-remix/image1140.jpeg)_If I could pick one track to use as an example of Dillinja’s genius, it would be ‘Hard Noize’. 22 Years after its original release on Test Recordings it returns May 29th as a remix by Break on Dillinja’s imprint Valve Recordings._2020 has been difficult for many people so far. However, one positive to come from this unprecedented lockdown is the deluge of new and old music being released that was never previously available to the masses. One such track is Break’s remix of Dillinja’s epic dancefloor erupting classic ‘Hard Noize’ that is finally seeing a release on Dillinja’s imprint Valve Recordings. It is accompanied by another stellar production from Break named ‘Tubes’. After some Covid-related delays, the release had to be pushed back, however, as of tomorrow May 29th it will be available for purchase and download (something myself and many others have been eagerly anticipating for years).
