@@ -14,8 +14,7 @@ description: >-
   wishing part of me hopes you are Sunday dancing and at least one track has
   made a [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/nanas-sunday-jams-walrus-dd-dumbo/image1218.jpeg)_Banner art by [Trav](https://www.backdownwarchild.co.uk/)_

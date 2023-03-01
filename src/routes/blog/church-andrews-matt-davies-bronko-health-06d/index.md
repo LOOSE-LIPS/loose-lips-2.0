@@ -16,8 +16,7 @@ description: >-
   https://health.bandcamp.comhttps://soundcloud.com/churchandrews The duo
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../undefined)Simple in its form, _Bronko_ is a substantially intricate marvel resulting from the interaction of acoustic and digital mediums, giving not only this piece, but the whole release a refined and emotionally-driven feel. A masterpiece, no less.From Church Andrews & Matt Davies' _NEIGHBOURS_ on [Health](https://health.bandcamp.com/).Out 16.10.2020 on digital – Pre-order: [https://health.bandcamp.com/album/neighbours](https://health.bandcamp.com/album/neighbours)[](https://soundcloud.com/churchandrews)[https://health.bandcamp.com](https://health.bandcamp.com/)  

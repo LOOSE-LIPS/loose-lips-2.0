@@ -15,8 +15,7 @@ description: >-
   nuts and bolts sense, music&rsquo;s role in cinema is often a subservient one.
   A soundtrack is carried [...]Read More...
 published: true
-tags:
-  - editors-pick
+tags: editors-pick
 featured: false
 ---
 ![image](../imported/scenes-in-sound-good-time-and-the-contradiction-of-compassion/image1222.jpeg)_Film is a visual artform, but music radically alters the tone of those flickering images. In the second edition of Scenes in Sound, we look at Good Time, and the contradictorily compassionate face of toxicity._In a strictly nuts and bolts sense, music’s role in cinema is often a subservient one. A soundtrack is carried along by the ebbs and flows of the on-screen drama, prodding the audience to let them know when they should be in good spirits and when they should be sour; as Hollywood becomes increasingly lazy, a score literally underscores the emotive notes of a film. Think of the modern blockbuster and try to conjure up a moment where the music genuinely led the direction of a scene, or even a single memorable musical motif. There’s an overriding sentiment in the milquetoast mainstream that soundtracks should be heard, but not listened to. Two months on from considering how Daniel Lopatin undercut the anxious energy of [_Uncut Gems_](http://loose-lips.co.uk/blog/scenes-in-sound-uncut-gems-and-the-climax-that-never-comes-1) (2020), it seemed fitting to further analyse his work on the Safdie Brothers’ previous picture, _Good Time_ (2017). While both films feature abrasive scores by Lopatin, aka Oneohtrix Point Never, the purpose of that abrasion is distinct. Where _Uncut Gems_ is giddy, _Good Time_ is dour, and where _Uncut Gems_ saw Lopatin twist anxiety into cosmic purpose, in _Good Time_ he’s far more in tune with the minute-to-minute seat-of-your-pants propulsion. Subservient, however, he is not. 

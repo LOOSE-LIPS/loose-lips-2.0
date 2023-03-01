@@ -14,8 +14,7 @@ description: >-
   of the club instead. In fact the latest Hammahalle release is handmade and
   reflects Sisyphos&rsquo; long standing commitment to [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/vinicius-honorio-signal-feat-leodosreis-sisyphon013/image964.jpeg)Hot and spicy Electro number with a Miami Bass and Techno aftertaste!The label Sisyphon is rewriting the rules of the format for its upcoming Hammahalle compilation, replacing the classic double vinyl with a real piece of the club instead.In fact the latest Hammahalle release is handmade and reflects Sisyphos’ long standing commitment to recycling and up-cycling.Each piece is unique and is constructed from original material abandoned on-site in the club’s earlier life as an East German factory, and is locked to a USB stick containing the music.The pieces will be a very limited edition.The compilation looks like it sounds. Raw, edgy, dirty – the kind of techno that takes you to the core of Hammahalle.![](/wp-content/uploads/live/img/wysiwyg/5dd3226f898a7.jpg)  

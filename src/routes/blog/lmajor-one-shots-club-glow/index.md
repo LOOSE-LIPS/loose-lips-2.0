@@ -14,8 +14,7 @@ description: >-
   recently passed away. It consists of 17 tracks from the likes of Sully, Benny
   ill, Itoa, [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/lmajor-one-shots-club-glow/image1044.jpeg)[LMajor](https://www.residentadvisor.net/dj/lmajor) brings up the heat with a modernised UK Hardcore number!From _Club Glow x Disc Shop Zero – Fundraiser for Naoki_ VA compilation on [Club Glow](https://clubglow.bandcamp.com/).This tape is dedicated to [Disc Shop Zero](http://www.discshopzero.com/) and its owner Naoki, who recently passed away.It consists of 17 tracks from the likes of Sully, Benny ill, Itoa, Benton, Denham Audio, LMajor, Borai, Mani Festo, Mantra, Skin Teeth, Unitz, ThugWidow, Pressa, Limited Toss, West Norwood Cassette Library, Etch and Kellam Matthews100% of the profits will go to Naoki's family and we hope this can help in some way with any cost they may have. so please join us in celebrating the life of a great manOut 27.03.2020 on cassette and digital – Pre-order: [](https://clubglow.bandcamp.com/album/club-glow-x-disc-shop-zero-fundraiser-for-naoki)[https://clubglow.bandcamp.com/album/club-glow-x-disc-shop-zero-fundraiser-for-naoki](https://clubglow.bandcamp.com/album/club-glow-x-disc-shop-zero-fundraiser-for-naoki)Naoki was a big supporter of UK culture and music scene, (with a particular soft spot for Bristol) and did a lot to support artists within the UK scene at his events and in his shop. He welcomed anyone visiting to Japan into his home, introduced them to his family and went above and beyond to accommodate people with such warmth.As someone who has supported Club Glow from the beginning as well as each of us individually, we've pulled together a host of like minded artists who either knew Naoki personally or someone who we knew he'd like and put together a jam packed tape for all of you

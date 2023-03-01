@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/kronombass https://soundcloud.com/dvntt [...]Read
   More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/kronom-trial-behold-dvntt018/image942.jpeg)Skopje-based producer Kronom unleashes an obsessive Broken Techno track, showcasing his mastery of controlled noises and depth of sound. Out 4.11 on digital – Pre-orders from 17.11 on [Bandcamp](https://dvntt.bandcamp.com) and 21.10 on [Beatport](https://www.beatport.com).

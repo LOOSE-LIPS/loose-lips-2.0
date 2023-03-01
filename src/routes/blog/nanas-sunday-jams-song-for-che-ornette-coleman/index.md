@@ -14,8 +14,7 @@ description: >-
   Just want to send a shout out to some lovely people who sent me some kind
   [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/nanas-sunday-jams-song-for-che-ornette-coleman/image1331.jpeg)**_Banner a_rtwork by the majestic [Trav](https://www.backdownwarchild.co.uk/), all of Nana's jams are gathered in__ [__this playlist__](https://open.spotify.com/playlist/12UoQ8ov5i6P8BIfm2lOjS?si=jarAn1CXSEuYB9vAxJidOg)__.__**  

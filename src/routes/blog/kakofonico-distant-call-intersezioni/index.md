@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/intrsznhttps://soundcloud.com/kakofonico [...]Read
   More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/kakofonico-distant-call-intersezioni/image1205.jpeg)Infectious, trance inducing groove built around various ethnic instruments and a sharp, pumping beat!  

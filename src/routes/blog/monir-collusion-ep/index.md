@@ -14,8 +14,7 @@ description: >-
   the grey area between garage, dubstep, grime, techno and everything in
   between. Keysound Recordings have been rolling that [...]Read More...
 published: true
-tags:
-  - review
+tags: review
 featured: false
 ---
 ![image](../imported/monir-collusion-ep/image1172.jpeg)[More Cowbell](https://soundcloud.com/more-cowbell "More Cowbell") · [SHOWREEL: MONIR – COLLUSION EP](https://soundcloud.com/more-cowbell/showreel-monir-collusion-ep "SHOWREEL: MONIR - COLLUSION EP")

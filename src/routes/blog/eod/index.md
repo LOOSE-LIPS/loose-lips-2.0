@@ -13,8 +13,7 @@ description: >-
   https://eodtracks.bandcamp.com/album/&#8211;4 https://soundcloud.com/eod-6
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/eod/image1133.jpeg)Braindance goodness from [EOD](https://eodtracks.bandcamp.com/). A sweet and playful numberFrom EOD's self-released _□_ EPOut now on digital – Order: [](https://eodtracks.bandcamp.com/album/--4)[https://eodtracks.bandcamp.com/album/–4](https://eodtracks.bandcamp.com/album/--4)[](https://soundcloud.com/eod-6)[https://soundcloud.com/eod-6](https://soundcloud.com/eod-6)

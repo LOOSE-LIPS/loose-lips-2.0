@@ -14,8 +14,7 @@ description: >-
   through High Park to Sunnyside Beach. With the Loose Lips family recently
   here; I had the [...]Read More...
 published: true
-tags:
-  - event-review
+tags: event-review
 featured: false
 ---
 ![image](../imported/take-a-walk-on-the-sunnyside/image850.jpeg)I have spent the past five or so months walking along the icy shores of Lake Ontario, eagerly awaiting summer’s arrival. Even in these colder months, I always recommend to visitors of Toronto that they enjoy a southbound amble through High Park to Sunnyside Beach. With the Loose Lips family recently here; I had the pleasure of taking Kortzer and Medallion Man on this delightful stroll. There were detours to see the park’s famous Sakura blossoms, buy hotdogs and visit the zoo. For a large part of the year, Sunnyside Beach is battered by bitter chills from the frozen lake’s winter winds. For just a few magic months; this West-Toronto gem becomes a paradise of leafy shade, cooling lake breeze and world-class musical curation. The Sunnyside Bathing Pavilion dates back to 1922; it is a beautiful venue defined as much by its idyllic natural surroundings as its historic significance in Toronto. This picturesque location has become the home of the brainchild of Richard Brooks – [Captive Audience](https://www.facebook.com/mycaptiveaudience/). With a career spanning over two decades; the Toronto house music stalwart started the project aiming to [“produce some top shelf music events that stimulate the mind, body and soul.”](https://torontoguardian.com/2016/05/richard-brooks-20-years/) With this ambition in mind, it is safe to say that this event was successful in achieving its goal. 

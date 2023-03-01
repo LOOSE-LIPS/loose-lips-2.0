@@ -14,8 +14,7 @@ description: >-
   record&rsquo;s looking good, people seem keen. I&rsquo;ve shed a whole host of
   shitty, stunted ideologies in the last 10 [...]Read More...
 published: true
-tags:
-  - interview
+tags: interview
 featured: false
 ---
 ![image](../imported/young-girl/image775.jpeg)In anticipation of Young Girl's forthcoming album _A Marshmallow Called Moon_, here's a nice in-depth interview with the man behind the alias.

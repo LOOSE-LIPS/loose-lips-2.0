@@ -13,8 +13,7 @@ description: >-
   orchestral section &amp; of course Ella Fitzgerald&#39;s hypnotic voice is
   guaranteed to soothe you through the rest of your Sunday! [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/kortzers-sunday-jams-ella-fitzgerald-travelin-light/image935.jpeg)This weekend I've chosen Ella Fitzgerald – Travelin' Light. One of my favourite things about this track is the bluesy organ backed with the orchestral section & of course Ella Fitzgerald's hypnotic voice is guaranteed to soothe you through the rest of your Sunday!

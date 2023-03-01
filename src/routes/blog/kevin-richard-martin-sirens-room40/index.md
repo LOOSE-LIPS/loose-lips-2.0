@@ -14,8 +14,7 @@ description: >-
   Bug&#39;s first album Tapping the Conversation. Being a breakbeat and hardcore
   hip-hop addict, together with my love for dub [...]Read More...
 published: true
-tags:
-  - release-review
+tags: release-review
 featured: false
 ---
 ![image](../imported/kevin-richard-martin-sirens-room40/image873.jpeg)I first heard [Kevin Martin](https://www.discogs.com/artist/142639-Kevin-Martin)’s (aka The Bug) music in a film. I used to be a huge cinephile, and [_The Conversation_](https://www.imdb.com/title/tt0071360/) _(1974)_ was one of my favourite films. Coppola's classic really touched me, and led me to The Bug's first album [_Tapping the Conversation_](https://www.discogs.com/The-Bug-Tapping-The-Conversation/master/1120350). Being a breakbeat and hardcore hip-hop addict, together with my love for dub and noise, I found this album and artist a gift from heaven. His productions are non-apologetic and _Tapping the Conversation_ is much a better listen than the original film soundtrack, at least for me. I also got hooked on all of Kevin’s later albums, and my first vinyl by The Bug was his collaboration with the band Earth on the [_Boa/Cold_ single](https://www.youtube.com/watch?v=mfGUMBUxN4M).  

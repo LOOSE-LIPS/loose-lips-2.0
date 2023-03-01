@@ -14,8 +14,7 @@ description: >-
   something more specific, music that either evokes or hijacks those jagged,
   exciteable and unhinged rushes of euphoria that [...]Read More...
 published: true
-tags:
-  - picks
+tags: picks
 featured: false
 ---
 ![image](../imported/impact-drivers-serotonin-1/image1369.jpeg)**_Serotonin. What a playlist theme ay? You might imagine a serotonin playlist simply gathering good music, or any music that sounds good when you're munching chunks of cheek and seeing God in the process. This article implies something more specific, music that either evokes or hijacks those jagged, exciteable and unhinged rushes of euphoria that raise the night's significance, slingshotting you towards God, for realsies. Shout out to Impact Driver on this one, as per all spotifyable tracks are gathered [here](https://open.spotify.com/playlist/1nh2akV7op8Wzrt9rhcmLI), take it away…_** 

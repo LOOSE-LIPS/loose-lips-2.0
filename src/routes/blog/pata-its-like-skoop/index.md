@@ -16,8 +16,7 @@ description: >-
   https://soundcloud.com/skoopskoophttps://soundcloud.com/iampata [...]Read
   More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/pata-its-like-skoop/image1178.jpeg)Ritualistic banger! Sitting between Trap and Drill, _It's Like_ is gliding smoothly into cut up Brazilian percussions,  

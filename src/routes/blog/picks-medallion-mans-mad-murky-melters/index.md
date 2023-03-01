@@ -14,8 +14,7 @@ description: >-
   man and as a politician&#39;. The reason we&#39;re all here today. All
   Spotify-able tracks [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-medallion-mans-mad-murky-melters/image1301.jpeg)**_STEPPING UP we have a transmission live from the very centre of the Loose Lips universe; Medallion Man AKA Frederick Sugden AKA Loose Lips Bossman AKA the breakbeat dungeon master AKA Mr Big Love AKA 'I hate Boris Johnson as a man and as a politician'. The reason we're all here today. All Spotify-able tracks gathered_** [**_here_**](https://open.spotify.com/playlist/1oXB6ruzqKvS9mEZaLcqe8?si=FablKtiWTqCVXcLNHnoyuA)**_, take it away Freddie…_**

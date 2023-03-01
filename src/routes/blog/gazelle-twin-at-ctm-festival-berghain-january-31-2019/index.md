@@ -15,8 +15,7 @@ description: >-
   to absolute truths. The most illustrious embodiment of this discourse at the
   festival was [...]Read More...
 published: true
-tags:
-  - review
+tags: review
 featured: false
 ---
 ![image](../imported/gazelle-twin-at-ctm-festival-berghain-january-31-2019/image958.jpeg)The main motive of the 20th CTM festival was perseverance. Perseverance in resisting the polarization of society and simplified rhetoric, exploring its opposite – "the ephemeral, provincial" and emphasizing personal artistic experience as a means of empathy, pluralism, as an antidote to absolute truths. The most illustrious embodiment of this discourse at the festival was certainly the British musician Gazelle Twin, who performer last year's album _Pastoral_, reflecting Brexit and English culture.

@@ -14,8 +14,7 @@ description: >-
   soothe any hungover Sunday ache. Hate to be literal, but I am indeed in a
   sentimental mood. [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/howard-mades-sunday-jams-sarah-vaughn-in-a-sentimental-mood/image997.jpeg)One of my nearest and dearest friends first showed me this absolutely STUNNING song. Originally written by Duke Ellington, this version’s voice will soothe any hungover Sunday ache. Hate to be literal, but I am indeed in a sentimental mood.

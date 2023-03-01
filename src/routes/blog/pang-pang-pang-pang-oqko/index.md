@@ -13,8 +13,7 @@ description: >-
   digital &#8211; Pre-order: https://pangofficial.bandcamp.com/album/pang
   https://soundcloud.com/oqko [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/pang-pang-pang-pang-oqko/image788.jpeg)Deconstructed industrial kick drums marinated in drone juice, served with broken Techno sauce.From PANG's _PANG_ EP on [oqko](https://www.oqko.org/).Out 5.4 on 12" and digital – Pre-order: [https://pangofficial.bandcamp.com/album/pang](https://pangofficial.bandcamp.com/album/pang)[https://soundcloud.com/oqko](https://soundcloud.com/oqko)

@@ -14,8 +14,7 @@ description: >-
   whose record collection stretches from Dub Techno to Dancehall, fantastic!
   That will get [...]Read More...
 published: true
-tags:
-  - picks
+tags: picks
 featured: false
 ---
 ![image](../imported/hanz-genred-walkthrough/image1345.jpeg)**_Hello mate!!! Yeah I’m so sorry to knock on your door in such strange times, rest assured this is only my astral projection so no viruses will be passed, I just need some bangers, is that all right??? OH you’re a DJ whose record collection stretches from Dub Techno to Dancehall, fantastic! That will get my actoplasm right back up to peak virility in no time. What’s your name, [Hanz](https://soundcloud.com/joshhoward-2?ref=clipboard&p=i&c=1)? Great great, I hope you don’t mind me gathering a spotify playl- oh they're pretty much all wax-only?? Fair enough, Spotify is a bit wank anyway I guess. Ok sweet, well I’ll just settle into the foetal position on the floor whilst you talk me through the vibes if that’s all right. Cheers, take it away…_**

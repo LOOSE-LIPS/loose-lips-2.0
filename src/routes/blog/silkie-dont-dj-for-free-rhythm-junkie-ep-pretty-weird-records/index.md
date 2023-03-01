@@ -17,8 +17,7 @@ description: >-
   twinned with the infectious &#39;itch n&#39; scratch&#39; beats and cheeky 808
   cowbells and you got a sure-fire dancefloor banger. [...]Read More...
 published: true
-tags:
-  - release-review
+tags: release-review
 featured: false
 ---
 ![image](../imported/silkie-dont-dj-for-free-rhythm-junkie-ep-pretty-weird-records/image734.jpeg)Coming correct with a serious bassline, [Silkie](https://www.residentadvisor.net/dj/silkie)'s 'Dont Dj For Free' really takes me back to my teenage induction into bass music. In this track, what stands out for me is the distorted and crushed wah-wah sound twinned with the infectious 'itch n' scratch' beats and cheeky 808 cowbells and you got a sure-fire dancefloor banger. The well-cut vocals add the extra an extra layer and forge the old-school US footwork flex with the juke-ish 808 grooves that really gives this tune a unique but recognisable feeling. After pushing through the first minute of bass warfare and you are soon confronted by some very very greazy, ice-cold stabs and arps that, personified, would be like some kinda 9th dimension hell-demon smiting you down with a serious broadsword — 'whipclang shupang'!Flaming hot 'n' spicy, 'Dont Dj For Free' should be handled with care.   

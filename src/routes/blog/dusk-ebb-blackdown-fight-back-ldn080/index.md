@@ -15,8 +15,7 @@ description: >-
   accessible without needing a vinyl deck, CD drive or a tape player. [...]Read
   More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/dusk-ebb-blackdown-fight-back-ldn080/image1083.jpeg)A steppy number bouncing on grimey bass drops, featuring New Zealand's [Ebb](https://www.discogs.com/artist/5983512-Ebb-10).From [Dusk + Blackdown](https://www.discogs.com/artist/1206128-Dusk-Blackdown)'s _RollageLive vol.1: Nightfall_ compilation album on [Keysound Recordings](http://keysoundrecordings.co.uk/). It aims for the sweet spot between a longer-lived artist album and an in-the moment live DJ mix – yet accessible without needing a vinyl deck, CD drive or a tape player.Out now on digital – [https://smarturl.it/RollageLiveVol1Night](https://smarturl.it/RollageLiveVol1Night)[](https://soundcloud.com/keysound-recordings)[https://soundcloud.com/keysound-recordings](https://soundcloud.com/keysound-recordings)  

@@ -14,8 +14,7 @@ description: >-
   acid/electro experiments to Threads radio, lugging his Roland boxes to
   collaborative gigs around London, and just [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-tudor-acids-influential-lps-from-1993-2020/image1262.jpeg)_**Tudor Acid is in the HOUSE motherfuckers. This is one seriously wiggy boi over here, he's been wigging people out with his naughty fucking synths for many years, the most recent of which have seen him bringing his live acid/electro experiments to Threads radio, lugging his Roland boxes to collaborative gigs around London, and just generally being a very naughty boy, all culminating in a lovely album released earlier this year for all you dirty dirty freaks. Take it away…**_

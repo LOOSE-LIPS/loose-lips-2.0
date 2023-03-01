@@ -12,8 +12,7 @@ description: >-
   collection to a bunch of my colleagues, ah well twas all in good spirit. Those
   same good spirits are the type I like [...]Read More...
 published: true
-tags:
-  - picks
+tags: picks
 featured: false
 ---
 ![image](../undefined)**_gyargh, ok ok ok, what time is it? FUCK it's 2pm no wayyyy wow I really went hard at that zoom party last night, I think I might have shown my weed collection to a bunch of my colleagues, ah well twas all in good spirit. Those same good spirits are the type I like to remedy the hangovers I get from naughty spirits, so I'm just gonna go ahead and format this picks article from best DJ buds_** [**_Turk & Fin_**](https://soundcloud.com/turkandfin?fbclid=IwAR1kC088uHIkrqyFFKJ3RICloAQRgwww4t5xcfOs1iY1_Prj_M7MCmcy-KU) _**. These cheeky monkeys (who are central to Berlin's**_ [_**Raiders**_](https://soundcloud.com/raiders_records) _**record label and**_ [_**Some Lush Frequencies**_](https://soundcloud.com/somelushfrequencies) _**crew)**_ **_sent us this hearty playlist of tunes that they have in their physical record collection and also the collection of memories recorded into their pink squidgy brains, the very same memories that give purpose and direction to life. (all spotify-able tracks are gathered_** [**_here_**](https://open.spotify.com/playlist/5HkZRsyc7hUGApAR6Ocoz4)**_)_**

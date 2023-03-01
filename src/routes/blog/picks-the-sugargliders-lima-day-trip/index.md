@@ -14,8 +14,7 @@ description: >-
   DJ recently returned home after nearly finishing a second circumnavigation of
   the world, [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-the-sugargliders-lima-day-trip/image1124.jpeg)_Shortly after we began our Daytrip Picks feature, asking selectors to share ten songs that sketch out the flow of a day, sharing a beloved escapist vibe that grows and throbs, we knew we had to ask The Sugarglider. The writer and DJ recently returned home after nearly finishing a second circumnavigation of the world, on their bike. Yup. They also happen to be a great writer and selector, having contributed to a couple of our Deep Cuts articles, and delivered the_ [_most recent Deep Cuts_](http://loose-lips.co.uk/blog/fantasy-realm) _mix, putting a personal spin on the 'Fantasy Realm' theme by mixing in tracks from the most transcendent memories of their travels. Here these rhythmic memories are expanded into 'a South American influenced playlist set to a sunny day in the Peruvian capital’. The tunes are gathered in_ [_this here_](https://open.spotify.com/playlist/3mfZZuzEVMHUOFBWpDdPX1?si=XzpQ-_ddRayZh99j2ZrSQw) _Spotify playlist, tune in, switch off and float away…_

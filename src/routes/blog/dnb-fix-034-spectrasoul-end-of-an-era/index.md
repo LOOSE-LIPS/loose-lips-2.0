@@ -15,8 +15,7 @@ description: >-
   alongside multiple high profile remixes and collaborations with the industries
   top [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-034-spectrasoul-end-of-an-era/image1304.jpeg)_14 years after Jack Stevens and David Kennett joined forces to create a plethora of the most iconic Drum & Bass tracks in existence, they have finally called it a day._Spectrasoul, the duo behind masterpieces such as ‘Away With Me’, ‘Glimpse’ and ‘Burst’ alongside multiple high profile remixes and collaborations with the industries top tier producers, announced on social media that they are retiring the alias to pursue solo projects. It is a huge loss for the scene, with the pair having such a substantial impact on Drum & Bass and electronic music in general for the last 14 years – but all good things must come to an end.

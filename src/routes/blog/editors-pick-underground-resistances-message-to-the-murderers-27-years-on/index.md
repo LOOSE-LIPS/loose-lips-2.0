@@ -17,8 +17,7 @@ description: >-
   Being an LA virgin, I hit the record stores hard, nothing escaped my crate,
   not even psychedelic cabaret &nbsp;recordings. Being [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/editors-pick-underground-resistances-message-to-the-murderers-27-years-on/image954.jpeg)_For this version of Editors' Pick, Will takes us back to the thoughts of Nadia Taylor who explores the rebellious history of Underground Resistance_ 

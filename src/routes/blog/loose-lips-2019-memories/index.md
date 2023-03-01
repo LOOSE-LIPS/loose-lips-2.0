@@ -14,8 +14,7 @@ description: >-
   Whilst the last year has been full of incredible times, my personal highlight
   for 2019 is that it&#39;s the [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/loose-lips-2019-memories/image991.jpeg)_An incredible year, a whirlwind…__10 of our crew recount their finest memories from the last 12 months of Loose Lips escapades, closing out the decade in style…_

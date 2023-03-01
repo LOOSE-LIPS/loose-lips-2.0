@@ -16,8 +16,7 @@ description: >-
   www.alavux.blogspot.comwww.discogs.com/artist/1100696-Alavuxhttps://soundcloud.com/alavux
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/alavux-rave-okt002/image1229.jpeg)A relentless trance-inducing acid-electro-tech number!From [Alavux](https://alavux808.bandcamp.com/)'s _Glitch EP Vol.1_ on Oktagon Records.Out now on limited  transparent 7" and digital – [](https://alavux808.bandcamp.com/album/glitch-ep-vol-1)[https://alavux808.bandcamp.com/album/glitch-ep-vol-1](https://alavux808.bandcamp.com/album/glitch-ep-vol-1)  

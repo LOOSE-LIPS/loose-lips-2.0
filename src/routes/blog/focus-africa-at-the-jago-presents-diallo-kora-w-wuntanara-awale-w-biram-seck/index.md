@@ -17,8 +17,7 @@ description: >-
   protest to stop said luxury flats. The result? Unnecessary luxury flats. In
   June 2016 Legendary Dalston venue and community hub Passing [...]Read More...
 published: true
-tags:
-  - event-review
+tags: event-review
 featured: false
 ---
 ![image](../imported/focus-africa-at-the-jago-presents-diallo-kora-w-wuntanara-awale-w-biram-seck/image825.jpeg)It's a sadly common story, with a near inevitable end: long established, community- supporting music venue gets shut down to be turned into unnecessary luxury flats. Community and music fans unite in inspiring, life-affirming protest to stop said luxury flats. The result? Unnecessary luxury flats. In June 2016 Legendary Dalston venue and community hub Passing Clouds looked as if it was going to follow that storyline too. Having been closed overnight as London saw an unprecedented decimation of its clubs and live music venues with rents being doubled, noise complaints, late licences being revoked and in some cases no longer granted at all (in a borough 'quota' system) London's famed nightlife was in crisis and it seemed that Passing Clouds would be just another depressing footnote. 

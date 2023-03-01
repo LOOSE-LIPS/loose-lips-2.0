@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/aperture-records https://soundcloud.com/user-61385884
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/oberman-knocks-triangulated-sorminn-fifth-ap014/image874.jpeg)Like sliding down an organic tube made of alien flesh.From _Remhex Coyles_ EP on [aperture records](http://aperturerecords.com).Out 05.07 on 12" and digital – Pre-order: [](https://aperturerecords.bandcamp.com/album/remhex-coyles-ep)[https://aperturerecords.bandcamp.com/album/remhex-coyles-ep](https://aperturerecords.bandcamp.com/album/remhex-coyles-ep)[](https://soundcloud.com/aperture-records)[https://soundcloud.com/aperture-records](https://soundcloud.com/aperture-records)[](https://soundcloud.com/user-61385884)[https://soundcloud.com/user-61385884](https://soundcloud.com/user-61385884)

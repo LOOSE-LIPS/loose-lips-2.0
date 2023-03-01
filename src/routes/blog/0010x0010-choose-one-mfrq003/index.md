@@ -14,8 +14,7 @@ description: >-
   http://classic.beatport.com/release/m-dvlxxr/2612151
   https://soundcloud.com/modularfreq [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/0010x0010-choose-one-mfrq003/image878.jpeg)Shifting modular rhythmic patterns and waves of analogue pads.From 0010×0010's _MØDVLXXR_ album on [Modular Freq](https://www.modularfreq.com/).Out 15.07 on digital – Pre-Order: [](http://classic.beatport.com/release/m-dvlxxr/2612151)[http://classic.beatport.com/release/m-dvlxxr/2612151](http://classic.beatport.com/release/m-dvlxxr/2612151)[](https://soundcloud.com/modularfreq)[https://soundcloud.com/modularfreq](https://soundcloud.com/modularfreq)

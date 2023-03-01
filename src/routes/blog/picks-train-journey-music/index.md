@@ -14,8 +14,7 @@ description: >-
   playlist to sweeten the commute&rsquo;, Train Journey Music is a gorgeously
   modern example of music [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-train-journey-music/image754.jpeg)Each time we host a guest selector for our Picks series, we ask them to pick a theme, but this guest comes with one already part of the conceptual package. Born out of the functionality of ‘an extensive multi-genre music playlist to sweeten the commute’, Train Journey Music is a gorgeously modern example of music creation, hosting intimate club events that bring their aesthetic to the next level. Their next journey [gears up on Saturday the 16th](https://www.facebook.com/events/546763755791292/) for those who wish to travel with them, in the meantime here are a few selections from the residents!

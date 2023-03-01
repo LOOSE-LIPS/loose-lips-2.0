@@ -16,8 +16,7 @@ description: >-
   https://soundcloud.com/ooh-soundshttps://soundcloud.com/calumgunn [...]Read
   More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/calum-gunn-wall-of-full-stacks-ooh-022/image1308.jpeg)Imagine getting sucked inside a CRT monitor with a Megadrive hooked-up but, instead of a video game, a vivid flow of consciousness streams inside it. Well then, you're almost there.From Calum Gunn's _Paradox of Choice_ EP on [OOH-sounds](https://ooh-sounds.bandcamp.com/music).Out 06.11.2020 on cassette and digital – Pre-order: [](https://ooh-sounds.bandcamp.com/album/calum-gunn-paradox-of-choice)[https://ooh-sounds.bandcamp.com/album/calum-gunn-paradox-of-choice](https://ooh-sounds.bandcamp.com/album/calum-gunn-paradox-of-choice)[https://soundcloud.com/ooh-sounds](https://soundcloud.com/ooh-sounds)  

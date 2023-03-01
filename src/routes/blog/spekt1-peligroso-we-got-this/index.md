@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/spekt1https://soundcloud.com/wegotthisofficial
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/spekt1-peligroso-we-got-this/image1256.jpeg)A tasty tropical club number!From [Spekt1](https://spekt1.bandcamp.com/)'s _Flowery Combat_ EP on [We Got This](https://wegotthis.bandcamp.com/).Out 14.09.2020 on digital – Pre-order: [https://fanlink.to/FloweryCombat](https://fanlink.to/FloweryCombat)[https://soundcloud.com/spekt1](https://soundcloud.com/spekt1)  

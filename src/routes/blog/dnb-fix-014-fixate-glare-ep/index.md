@@ -14,8 +14,7 @@ description: >-
   is a much darker one.&nbsp; Fixate &middot; GLARE EP Old-school hip-hop
   bounces with a hair of Rob D [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-014-fixate-glare-ep/image1110.jpeg)[_That Sherelle moment?_](https://www.youtube.com/watch?v=Z4_KD9UhdCE&t=1430s) _Quality over quantity. Fixate’s only release of 2019, and probably the biggest UK club tune of the year. You might’ve gotten [this](https://www.youtube.com/watch?v=TaG53J9k474) too if you were fast enough. This time, on Exit Records, the ride is a much darker one._ 

@@ -14,7 +14,7 @@
       .then((res) => {
         res
           .filter((post) => {
-            return post.tags.includes(tags[0]);
+            return post.tags.includes(tags);
           })
           .map((post) => {
             let random = Math.random();

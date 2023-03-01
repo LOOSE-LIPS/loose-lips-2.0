@@ -14,8 +14,7 @@ description: >-
   booked him to play the first ever microminimal party in Toronto, we have kept
   in touch ever since.&nbsp; Devv cut his [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/devv-hypercolour/image1310.jpeg)[](https://soundcloud.com/devvmusic "Devv")

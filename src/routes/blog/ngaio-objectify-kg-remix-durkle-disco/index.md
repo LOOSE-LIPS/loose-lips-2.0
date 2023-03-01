@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/durklediscohttps://soundcloud.com/ngaioanyiahttps://soundcloud.com/karennyamekg
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/ngaio-objectify-kg-remix-durkle-disco/image1082.jpeg)An energetic UK Funky take on the original!From [NGAIO](https://ngaioanyia.bandcamp.com/)'s _We Fly Remixes_ EP on [Durkle Disco](https://durkledisco.bandcamp.com/).Out now on digital – Order: [](https://durkledisco.bandcamp.com/album/we-fly-remixes)[https://durkledisco.bandcamp.com/album/we-fly-remixes](https://durkledisco.bandcamp.com/album/we-fly-remixes)[](https://soundcloud.com/durkledisco)[https://soundcloud.com/durkledisco](https://soundcloud.com/durkledisco)  

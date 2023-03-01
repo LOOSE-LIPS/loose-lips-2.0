@@ -14,8 +14,7 @@ description: >-
   numerous ways in which this can be done. Music massively influences visual
   art, and vice versa. This feature, [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/resonance-series-9-auguste-oldham/image1220.jpeg)**Welcome to this edition of 'Resonance Series' – a feature, curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.****Music massively influences visual art, and vice versa. This feature, running every other Tuesday from now on, introduces you to musical individuals via their visual art first, telling a personal story of their creative output and how different mediums influence each other.****This week we uncover the explorative works of Auguste Oldham.**—Auguste transmits the world’s finest details, projecting them out into sensory compositions, windows into unexplored territory. Using field recordings and analogue synths Auguste displays his findings in glistening compositions that expose life as being something to be celebrated, studied and reflected on.

@@ -14,8 +14,7 @@ description: >-
   synthetic textures and thoughtful lyrics to explore friendship, hope and bare
   humanity, as on her debut LL release, Possy. [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-lapis-inspirations/image1253.jpeg)**_What do you picture when you think of a singer/songwriter? Cardigans, low-lit coffee bars and various acoustic guitars lurking around the room, waiting to bind their owners to the space? Lapis’ music explodes that space, using synthetic textures and thoughtful lyrics to explore friendship, hope and bare humanity, as on her debut LL release, Possy. Today she shares the influences of her particular perspectives, (all spotify-able tunes gathered in [this playlist](https://open.spotify.com/playlist/31CqaMrfbmg0iiRzT1qW6g?si=ccasLbPWT_id7M1V1ccK5w)), take it – and us – away…_**

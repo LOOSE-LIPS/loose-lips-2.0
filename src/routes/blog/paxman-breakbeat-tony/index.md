@@ -15,8 +15,7 @@ description: >-
   &#8211; https://paxman.bandcamp.com/releases https://soundcloud.com/paxmanmcr
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/paxman-breakbeat-tony/image1155.jpeg)Paxman has dropped a self-released EP with 5 exciting tracks, ranging from slow industrial Electro to bleepy, colourful warehouse Techno to Breakbeat euphoria like this number, an after-hours anthem filled with strong positive energy!From [Paxman's](http://paxman.bandcamp.com) _10.6.8 Will Never Die #1_ EP.Out now on digital – [](https://paxman.bandcamp.com/releases)[https://paxman.bandcamp.com/releases](https://paxman.bandcamp.com/releases)[](https://soundcloud.com/paxmanmcr)[https://soundcloud.com/paxmanmcr](https://soundcloud.com/paxmanmcr)

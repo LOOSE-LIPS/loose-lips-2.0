@@ -14,8 +14,7 @@ description: >-
   Off Life&#39;. This time round, heading back to Memphis, a city currently
   going through a renaissance and outputting [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/treeces-rap-up-key-glock-son-of-a-gun/image1159.jpeg)_Treece is back again this time for his 5th edition of Rap Up, introducing you to his favourite new wordplay since the beginning of Lockdown. If you missed the last edition, he reviewed Future’s contemporary classic; 'High Off Life'. This time round, heading back to Memphis, a city currently going through a renaissance and outputting some of the bust rap music in the world, he had to shout out another Paper Route Empire release: 'Key Glock – Son Of A Gun'…__![](/wp-content/uploads/live/img/wysiwyg/5ee008d7782e7.jpg)_

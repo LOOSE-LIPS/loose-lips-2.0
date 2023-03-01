@@ -16,8 +16,7 @@ description: >-
   https://soundcloud.com/baba-yagas-huthttps://soundcloud.com/user-799719556
   [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/ukaea-no-solace-in-sleep-baba-yagas-hut/image1322.jpeg)What happens when you smash techno atoms in the LHC, then reconstruct them with audio gear?  

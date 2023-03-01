@@ -17,8 +17,7 @@ description: >-
   Bacallan and Alec Seynaeve decided to do shortly after Belgium was plunged
   into lockdown [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/record-store-days-feelings-for-sale-at-object-sounds-ghent/image1370.jpeg)![](/wp-content/uploads/live/img/wysiwyg/5feb58246a99f.jpg)  

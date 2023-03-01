@@ -15,8 +15,7 @@ description: >-
   there&rsquo;s a feature on all tracks bar one but by no means does he takes a
   back seat, Gunn&rsquo;s Buffalo street [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/treeces-rap-up-westside-gunn-flygod-is-an-awesome-god-2/image1212.jpeg)FLYGOD IS AN AWESOME GOD 2 is Buffalo legend Westside Gunn’s second release this year, coming three months after fan- favourite and cult classic ‘Pray for Paris’. Here, he takes a laidback curators role; there’s a feature on all tracks bar one but by no means does he takes a back seat, Gunn’s Buffalo street tales and sharp wordplay hit as hard as ever. In familiar Buffalo fashion the beats swing in a minimal motion; drum samples rarely layered on top, the tracks often let the original sample take centre stage. The beats speak for themselves, acting as the perfect canvas for Gunn’s spoken imagery. As far as Gangster Rap goes, the minimalist sound can be abstract and uninviting for listener, yet the Buffalo sound has risen in popularity across the globe, and that’s thanks to Westside Gunn, his brother Conway the Machine, Roc Marciano and a handful of others. 

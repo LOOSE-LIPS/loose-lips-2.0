@@ -16,8 +16,7 @@ description: >-
   https://yellow-machines.bandcamp.com Yellow Machines is back after a 5 year
   break with a 4 track EP, 2 original tracks from [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/pera-sta-ori-gone-beautiful-scanone-version-yellow-machines/image796.jpeg)[ScanOne](https://scanone.bandcamp.com/) revisits the original, slowing it down a little and steering it into Breakbeat territories.From [ΠΕΡΑ ΣΤΑ ΟΡΗ](https://soundcloud.com/pera-sta-ori)'s _Iskios_ EP on [Yellow Machines](https://yellow-machines.bandcamp.com).Out 6.04 on 12" and digital – Available from this Saturday on [https://yellow-machines.bandcamp.com](https://yellow-machines.bandcamp.com)[](https://soundcloud.com/yellow-machines)[Yellow Machines](https://soundcloud.com/yellow-machines) is back after a 5 year break with a 4 track EP, 2 original tracks from ΠΕΡΑ ΣΤΑ ΟΡΗ  or PERA STA ORI (Greeklish) and two completely reworked versions from [Brenecki](https://www.residentadvisor.net/dj/borisbrenecki) and [ScanOne](https://www.discogs.com/artist/112614-Scanone).For fans of SKAM, Analogical Force and Further Electronics these tracks touch on distorted Electro with early 90's Sheffield Techno references, bleeps and drones and breaks. A solid all round EP for the braindance crew and raveheads.PERA STA ORI (Beyond The Mountains) is an alias of producer George Kontogiannidis. He studied music technology in Thessaloniki (GR) and has been composing music since 2007.  

@@ -16,8 +16,7 @@ description: >-
   https://soundcloud.com/clikno https://soundcloud.com/dr-nojoke [...]Read
   More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/dr-nojoke-chiripim-mat-ed01/image827.jpeg)A very unique Dub Techno number explained in more details through our interview with Dr. Nojoke:[http://loose-lips.co.uk/blog/dr-nojoke-inventing-importance](http://loose-lips.co.uk/blog/dr-nojoke-inventing-importance)From [Dr Nojoke](http://www.drnojoke.de/)'s _Inventing Importance_ LP on [CLIKNO](https://clikno.bandcamp.com/).Out 31.05 on 12" and digital – Pre-order: [](https://clikno.bandcamp.com/)[https://clikno.bandcamp.com/](https://clikno.bandcamp.com/)[](https://soundcloud.com/clikno)[https://soundcloud.com/clikno](https://soundcloud.com/clikno)[](https://soundcloud.com/dr-nojoke)[https://soundcloud.com/dr-nojoke](https://soundcloud.com/dr-nojoke)

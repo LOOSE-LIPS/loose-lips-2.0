@@ -14,8 +14,7 @@ description: >-
   struggled with the fact that I mostly focus on actual releases &#8211; whether
   they be self-made or done [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/the-bpm-continuum-2020/image1057.jpeg)Upon launching this series of articles a few months ago, I’ve been looking for new ways to reflect the moving nature of forward-thinking bass music beyond BPM considerations. In the first few editions of this feature, I struggled with the fact that I mostly focus on actual releases – whether they be self-made or done through a label. Sometimes this focus prevents me from speaking about artists who haven’t released tunes yet. Artists that you stumble upon through your email address or during a digital digging session. In order to shine a light on that side of the scene, I’ll add insights on various producers in this category.

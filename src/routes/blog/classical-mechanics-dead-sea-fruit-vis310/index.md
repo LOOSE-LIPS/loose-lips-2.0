@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/2020visionrecordings
   https://soundcloud.com/classicalmechanics [...]Read More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/classical-mechanics-dead-sea-fruit-vis310/image757.jpeg)Stripped down and syncopated electronic Funk diving naked in a sea of crunchy glitches.From Classical Mechanic's _Count Basis_ EP on [2020Vision](https://www.residentadvisor.net/record-label.aspx?id=459).Out 18.02 on digital – Pre-order: [http://classic.beatport.com/release/count-basis/2489878](http://classic.beatport.com/release/count-basis/2489878)[https://soundcloud.com/2020visionrecordings](https://soundcloud.com/2020visionrecordings)[https://soundcloud.com/classicalmechanics](https://soundcloud.com/classicalmechanics)

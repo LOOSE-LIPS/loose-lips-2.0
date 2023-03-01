@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/canaperecordshttps://soundcloud.com/longeez [...]Read
   More...
 published: true
-tags:
-  - premiere
+tags: premiere
 featured: false
 ---
 ![image](../imported/longeez-kill-kill-cnp013/image1392.jpeg)Nodding back to the proto-dubstep days of uk garage, _Kill Kill_ is a crisp and warm dancefloor sweetness.From Longeez's _Illicit Material_ EP on Bristol-based [Canapé Records](https://canape-records.bandcamp.com).[https://soundcloud.com/canaperecords](https://soundcloud.com/canaperecords)  

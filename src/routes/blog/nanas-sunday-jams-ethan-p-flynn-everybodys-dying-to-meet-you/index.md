@@ -15,8 +15,7 @@ description: >-
   and forth whether I should jump on the bandwagon- did not take [...]Read
   More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/nanas-sunday-jams-ethan-p-flynn-everybodys-dying-to-meet-you/image1210.jpeg)_Artwork by the majestic [Trav](https://www.backdownwarchild.co.uk/)_

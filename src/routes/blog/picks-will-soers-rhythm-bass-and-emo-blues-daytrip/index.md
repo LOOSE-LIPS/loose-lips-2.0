@@ -14,8 +14,7 @@ description: >-
   were happy to do the review, but feared it would be inappropriate to whinge
   about their [...]Read More...
 published: true
-tags:
-  - feature
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-will-soers-rhythm-bass-and-emo-blues-daytrip/image1111.jpeg)_I recently asked a friend to contribute to a team-review of a charity compilation, and suggested they write to whatever word limit they want, that they ‘go off on one’ about life in these times if they wish. They were happy to do the review, but feared it would be inappropriate to whinge about their sheltered life, when the compilation was raising money to provide NHS staff with PPE. I’ve thought a lot about others people’s experience of these strange times, having interviewed 20 Samaritans volunteers for a research project anout their effect on our lives. This made me want to write about my own quarantine experience less, simply for the sake of head space.__But then I published this_ _[great article](http://loose-lips.co.uk/blog/picks-sss-soul-funk-psych-rock-daytrip) from_ _a writer named Minna. It documented a 10 song playlist she made, which I listened to on a long, sunlit walk. She structured it in the loose format of a day, songs that perfectly suited her own situation. I thought this was a great way of sharing music, in a way that’s related to what’s going on, to make something escapist whilst also getting some perspective on your own situation. I recommend that you do the same, if only because it’s important to remember what these times felt like.__I've also gathered these songs (along with a few other spiritual bangers) in_ [_this here spotify playlist_](https://open.spotify.com/playlist/6VUhUj0Wo1sDTjSCbZP4PZ?si=V0mm4goTQYKr9S1Eb51B8w)_. Enjoy._
