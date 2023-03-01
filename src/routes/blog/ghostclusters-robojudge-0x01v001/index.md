@@ -6,7 +6,7 @@ type: post
 slug: ghostclusters-robojudge-0x01v001
 author: 100
 banner:
-  - imported\ghostclusters-robojudge-0x01v001\image1096.jpeg
+  - imported/ghostclusters-robojudge-0x01v001/image1096.jpeg
 description: >-
   A pulsating, gritty rhythmic track hitting the right sweet spots! From Various
   Artists 1 V/A EP on 0x01 Records. Out 01.05 on 12&quot; and digital &#8211;
@@ -18,5 +18,5 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\ghostclusters-robojudge-0x01v001\image1096.jpeg)A pulsating, gritty rhythmic track hitting the right sweet spots!From _Various Artists 1_ V/A EP on [0x01 Records](https://www.residentadvisor.net/record-label.aspx?id=17073).Out 01.05 on 12" and digital – Pre-order: [](https://olan1.bandcamp.com/album/various-artists-1)[https://olan1.bandcamp.com/album/various-artists-1](https://olan1.bandcamp.com/album/various-artists-1)[https://soundcloud.com/0x01records](https://soundcloud.com/0x01records)  
+![image](../imported/ghostclusters-robojudge-0x01v001/image1096.jpeg)A pulsating, gritty rhythmic track hitting the right sweet spots!From _Various Artists 1_ V/A EP on [0x01 Records](https://www.residentadvisor.net/record-label.aspx?id=17073).Out 01.05 on 12" and digital – Pre-order: [](https://olan1.bandcamp.com/album/various-artists-1)[https://olan1.bandcamp.com/album/various-artists-1](https://olan1.bandcamp.com/album/various-artists-1)[https://soundcloud.com/0x01records](https://soundcloud.com/0x01records)  
 [](https://soundcloud.com/ghostclusters)[https://soundcloud.com/ghostclusters](https://soundcloud.com/ghostclusters)

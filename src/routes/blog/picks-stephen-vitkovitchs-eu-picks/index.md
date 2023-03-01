@@ -6,7 +6,7 @@ type: post
 slug: picks-stephen-vitkovitchs-eu-picks
 author: 100
 banner:
-  - imported\picks-stephen-vitkovitchs-eu-picks\image1202.jpeg
+  - imported/picks-stephen-vitkovitchs-eu-picks/image1202.jpeg
 description: >-
   Stepping up for this week&#39;s sonic tasteboard, we have the head of the
   fantastic Byrd Out&nbsp;label, all tracks gathered in this here spotify
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\picks-stephen-vitkovitchs-eu-picks\image1202.jpeg)_Stepping up for this week's sonic tasteboard, we have the head of the fantastic [Byrd Out](https://byrdout.bandcamp.com/) label, all tracks gathered in [this here spotify playlist](https://open.spotify.com/playlist/7D2RUILXGUdoODPAwinBjI?si=tVwxD67aQHGMh3XxjDo4Qw), take it away Stephen!_ 
+![image](../imported/picks-stephen-vitkovitchs-eu-picks/image1202.jpeg)_Stepping up for this week's sonic tasteboard, we have the head of the fantastic [Byrd Out](https://byrdout.bandcamp.com/) label, all tracks gathered in [this here spotify playlist](https://open.spotify.com/playlist/7D2RUILXGUdoODPAwinBjI?si=tVwxD67aQHGMh3XxjDo4Qw), take it away Stephen!_ 
 
 Frederick \[Loose Lips bawseman) asked me about this a few days after the fourth anniversary of the EU Referendum, so I thought a 'Picks' on Europe would be appropriate. Each song is from a different EU Member State, with some relevance to me and my musical interests.
 

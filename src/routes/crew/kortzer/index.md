@@ -6,7 +6,7 @@ type: crew
 slug: kortzer
 author: 100
 banner:
-  - imported\kortzer\image4545.jpeg
+  - imported/kortzer/image4545.jpeg
 description: >-
   MANCHESTER MANIAC https://kortzer.bandcamp.com/releases &lsquo;One sec, we
   need to get some chips in him before his set&rsquo; Sisu maingal and Loose

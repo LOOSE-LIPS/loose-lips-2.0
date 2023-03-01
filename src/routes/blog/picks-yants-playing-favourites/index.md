@@ -6,7 +6,7 @@ type: post
 slug: picks-yants-playing-favourites
 author: 164
 banner:
-  - imported\picks-yants-playing-favourites\image1042.jpeg
+  - imported/picks-yants-playing-favourites/image1042.jpeg
 description: >-
   Pulsing, bouncin&#39;, swervin&#39; tunnel vision Techno. A crucial craft
   within the Loose Lips aesthetic, and one which has been honed by Yant, a DJ
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\picks-yants-playing-favourites\image1042.jpeg)_Pulsing, bouncin', swervin' tunnel vision Techno. A crucial craft within the Loose Lips aesthetic, and one which has been honed by [Yant](https://soundcloud.com/yantmusicuk), a DJ and producer whose work has been played in Fabric, Berghain. Bassiani, the Ritz Hotel's secret sex dungeon, basically everywhere important. We're very excited to share a few of this sesh necromancer's favourite soundweapons…_
+![image](../imported/picks-yants-playing-favourites/image1042.jpeg)_Pulsing, bouncin', swervin' tunnel vision Techno. A crucial craft within the Loose Lips aesthetic, and one which has been honed by [Yant](https://soundcloud.com/yantmusicuk), a DJ and producer whose work has been played in Fabric, Berghain. Bassiani, the Ritz Hotel's secret sex dungeon, basically everywhere important. We're very excited to share a few of this sesh necromancer's favourite soundweapons…_
 
 Easing in with a little something I might not get the chance to play often. It’s the Future Sound Of Melbourne. I am very particular with what I like out of the rave-style tracks. A lot of this rave techno out there at the moment doesn't interest me. But something raw and authentic, a little bit old school like this really gets me going. I first heard this at De School last year, I think it was Phuong Dan playing… Thankfully I found it!
 

@@ -9,7 +9,7 @@ slug: loose-lips-x-unbound-with-juan-atkins-spfdj-makaton-alex-downey-more
 author: 100
 banner:
   - >-
-    imported\loose-lips-x-unbound-with-juan-atkins-spfdj-makaton-alex-downey-more\image2778.jpeg
+    imported/loose-lips-x-unbound-with-juan-atkins-spfdj-makaton-alex-downey-more/image2778.jpeg
 description: >-
   Unbound, Loose Lips and The Cause have teamed up to bring to you a smorgasbord
   of unbelievable talent, bringing together the finest acts in the world of

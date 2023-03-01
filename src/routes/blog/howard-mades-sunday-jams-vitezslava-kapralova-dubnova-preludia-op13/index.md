@@ -9,7 +9,7 @@ slug: howard-mades-sunday-jams-vitezslava-kapralova-dubnova-preludia-op13
 author: 63
 banner:
   - >-
-    imported\howard-mades-sunday-jams-vitezslava-kapralova-dubnova-preludia-op13\image1008.jpeg
+    imported/howard-mades-sunday-jams-vitezslava-kapralova-dubnova-preludia-op13/image1008.jpeg
 description: >-
   V&iacute;tězslava Kapr&aacute;lov&aacute; &nbsp;was a Czech composer and
   conductor who birthed over 50 full compositions (across various genres,
@@ -22,7 +22,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\howard-mades-sunday-jams-vitezslava-kapralova-dubnova-preludia-op13\image1008.jpeg)Vítězslava Kaprálová  was a Czech composer and conductor who birthed over 50 full compositions (across various genres, although very few were actually published during her life) in her quarter century stay on earth which was SNATCHED from her by tuberculosis whilst she was in exile in France. 
+![image](../imported/howard-mades-sunday-jams-vitezslava-kapralova-dubnova-preludia-op13/image1008.jpeg)Vítězslava Kaprálová  was a Czech composer and conductor who birthed over 50 full compositions (across various genres, although very few were actually published during her life) in her quarter century stay on earth which was SNATCHED from her by tuberculosis whilst she was in exile in France. 
 
 Her April preludes written in 1937 are captivating, the four movements start with Allegro Mon Troppo, followed by Andante (my favourite), Andante Semplice and finally Vivo, a cheeky fast paced polka. It's firey, it's explosive, her compositional maturity was unreal; you can hear so many influences in her work. Very thought provoking, I enjoy listening to this when it's raining for some reason.
 

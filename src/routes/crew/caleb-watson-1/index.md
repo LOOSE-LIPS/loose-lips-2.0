@@ -6,7 +6,7 @@ type: crew
 slug: caleb-watson-1
 author: 100
 banner:
-  - imported\caleb-watson-1\image4534.jpeg
+  - imported/caleb-watson-1/image4534.jpeg
 description: >-
   AFFILIATE Clarinet extraordinaire. The man behind LL013&#39;s football
   anthem&#8230; LL013 &#8211; Cindys Pearl &#8211; Footy &#038; Lager by Cindys

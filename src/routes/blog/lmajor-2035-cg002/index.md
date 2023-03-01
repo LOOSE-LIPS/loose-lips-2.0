@@ -6,7 +6,7 @@ type: post
 slug: lmajor-2035-cg002
 author: 100
 banner:
-  - imported\lmajor-2035-cg002\image809.jpeg
+  - imported/lmajor-2035-cg002/image809.jpeg
 description: >-
   A properly naughty UK Hardcore tune that materialises a rave inside the
   listener&#39;s head. From LMajor and Mani Festo&#39;s Club Glow Vol.2 on Borai
@@ -18,4 +18,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\lmajor-2035-cg002\image809.jpeg)A properly naughty UK Hardcore tune that materialises a rave inside the listener's head.From [LMajor](https://www.discogs.com/artist/6561637-LMajor) and [Mani Festo](https://www.residentadvisor.net/dj/manifesto)'s _Club Glow Vol.2_ on [Borai & Denham Audio](https://clubglow.bandcamp.com/).Out 26.04 on digital and limited cassette – Pre-order: [](https://clubglow.bandcamp.com/)[https://clubglow.bandcamp.com/](https://clubglow.bandcamp.com/)[](https://soundcloud.com/denhamaudio)[https://soundcloud.com/denhamaudio](https://soundcloud.com/denhamaudio)[](https://soundcloud.com/lmajor)[https://soundcloud.com/lmajor](https://soundcloud.com/lmajor)
+![image](../imported/lmajor-2035-cg002/image809.jpeg)A properly naughty UK Hardcore tune that materialises a rave inside the listener's head.From [LMajor](https://www.discogs.com/artist/6561637-LMajor) and [Mani Festo](https://www.residentadvisor.net/dj/manifesto)'s _Club Glow Vol.2_ on [Borai & Denham Audio](https://clubglow.bandcamp.com/).Out 26.04 on digital and limited cassette – Pre-order: [](https://clubglow.bandcamp.com/)[https://clubglow.bandcamp.com/](https://clubglow.bandcamp.com/)[](https://soundcloud.com/denhamaudio)[https://soundcloud.com/denhamaudio](https://soundcloud.com/denhamaudio)[](https://soundcloud.com/lmajor)[https://soundcloud.com/lmajor](https://soundcloud.com/lmajor)

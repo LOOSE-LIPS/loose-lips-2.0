@@ -6,7 +6,7 @@ type: post
 slug: picks-nk-industrys-nostalgia-ultra-1
 author: 100
 banner:
-  - imported\picks-nk-industrys-nostalgia-ultra-1\image1185.jpeg
+  - imported/picks-nk-industrys-nostalgia-ultra-1/image1185.jpeg
 description: >-
   NK INDUSTRY is a multidisciplinary recording artist based in North London.
   After years of delivering his signature high-octane performances in and around
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\picks-nk-industrys-nostalgia-ultra-1\image1185.jpeg)_NK INDUSTRY is a multidisciplinary recording artist based in North London. After years of delivering his signature high-octane performances in and around the capital, the Balamii and Threads-affiliated vocalist bided time and honed in on his technical and songwriting abilities. Hard hitting lyricism, rapid flows and flourishes of lightheartedness raise his debut single_ _Somehow, taken from his forthcoming EP ATLAS vol I, a sound that is versatile, striking and unapologetically honest. It also fuckin bangs. Presenting a playlist of beats and lyrics that ooze nostalgia, here he is! \[All tracks mentioned except the Frank Ocean mixtape cut are gathered in [this playlist](https://open.spotify.com/playlist/0ijG5XIzAXwJY9OzYmGwpv?si=Xp00cESXRH-RnGjVEWL9zw)__\]_
+![image](../imported/picks-nk-industrys-nostalgia-ultra-1/image1185.jpeg)_NK INDUSTRY is a multidisciplinary recording artist based in North London. After years of delivering his signature high-octane performances in and around the capital, the Balamii and Threads-affiliated vocalist bided time and honed in on his technical and songwriting abilities. Hard hitting lyricism, rapid flows and flourishes of lightheartedness raise his debut single_ _Somehow, taken from his forthcoming EP ATLAS vol I, a sound that is versatile, striking and unapologetically honest. It also fuckin bangs. Presenting a playlist of beats and lyrics that ooze nostalgia, here he is! \[All tracks mentioned except the Frank Ocean mixtape cut are gathered in [this playlist](https://open.spotify.com/playlist/0ijG5XIzAXwJY9OzYmGwpv?si=Xp00cESXRH-RnGjVEWL9zw)__\]_
 
 [NK INDUSTRY](https://soundcloud.com/nkindustry "NK INDUSTRY") · [Somehow](https://soundcloud.com/nkindustry/somehow "Somehow")
 

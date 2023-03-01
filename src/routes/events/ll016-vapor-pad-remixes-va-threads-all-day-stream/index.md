@@ -6,7 +6,7 @@ type: event
 slug: ll016-vapor-pad-remixes-va-threads-all-day-stream
 author: 100
 banner:
-  - imported\ll016-vapor-pad-remixes-va-threads-all-day-stream\image2803.jpeg
+  - imported/ll016-vapor-pad-remixes-va-threads-all-day-stream/image2803.jpeg
 description: >-
   To celebrate the of launch RICO CASAZZA&#39;s &#39;Vapor Pad Remixes V/A&#39;,
   out on&nbsp;Loose Lips on Friday 26th July, we&#39;re taking over the Threads*

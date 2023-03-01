@@ -6,7 +6,7 @@ type: post
 slug: treeces-rap-up-future-high-off-life
 author: 158
 banner:
-  - imported\treeces-rap-up-future-high-off-life\image1135.jpeg
+  - imported/treeces-rap-up-future-high-off-life/image1135.jpeg
 description: >-
   &lsquo;Lord forgive me, for I been on a rampage.&rsquo; &lsquo;High Off
   Life&rsquo; is now &#39;Atlanta Trap God&#39; Future&rsquo;s
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\treeces-rap-up-future-high-off-life\image1135.jpeg)‘Lord forgive me, for I been on a rampage.’
+![image](../imported/treeces-rap-up-future-high-off-life/image1135.jpeg)‘Lord forgive me, for I been on a rampage.’
 
 ‘High Off Life’ is now 'Atlanta Trap God' Future’s 32nd official full length release. Not only does the album title read like a statement, the whole release plays like one: it's clear you're listening to a maturing artist that has evolved and morphed throughout his career, expanding his sound and fan base whilst doing so. The side of Future that strikes me the most is when he’s summoning his demons and spilling his heart out to an instrumental. This Future is ever present on ‘High Off Life’. Amongst the women, the winning and the gluttony, the pain is hiding in plain sight. On ‘High Off Life’, you find a tale of excess through the whirlwind of fame and all that comes with it. In Future’s case the percocet, the lean, the Jimmy Choo sandals, the Ferrari and the Maybach outside, the Chanel fanny pack out in Egypt and the Audemars Piguet watches for the outta’ space bitches. Yet, the money doesn’t come without the paranoia, the highs don’t come without the withdrawals and the good doesn’t come without the bad – that’s the duality of nature. 
 

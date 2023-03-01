@@ -6,7 +6,7 @@ type: post
 slug: nene-h-ensemble-basiani-performance-at-ctm-festival
 author: 165
 banner:
-  - imported\nene-h-ensemble-basiani-performance-at-ctm-festival\image1037.jpeg
+  - imported/nene-h-ensemble-basiani-performance-at-ctm-festival/image1037.jpeg
 description: >-
   We&#39;re all missing the experience of live music in venues right now: for
   this edition of Editors&#39; Pick, Hardy takes us back to Zuzana Friday&#39;s
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\nene-h-ensemble-basiani-performance-at-ctm-festival\image1037.jpeg)_We're all missing the experience of live music in venues right now: for this edition of Editors' Pick, Hardy takes us back to Zuzana Friday's in depth review of a unique experience – Nene H & Ensemble Basiani at CTM festival, January 2020._
+![image](../imported/nene-h-ensemble-basiani-performance-at-ctm-festival/image1037.jpeg)_We're all missing the experience of live music in venues right now: for this edition of Editors' Pick, Hardy takes us back to Zuzana Friday's in depth review of a unique experience – Nene H & Ensemble Basiani at CTM festival, January 2020._
 
 ![](https://lh4.googleusercontent.com/Dacw16Pr-ZhfErnWiLUomB1PqmaxA_PmPETSy-hgoricdwRP1zU63-CypWTANwavn8WBBSL68RC_vorPFCiGQ4d0CLGORsk_l_Uk6XCppLLFFRKZQY-ngoDKIofba79sUJ4MDlrN)I’ve been following Nene H’s musical development for some years now. Apart from being a studied pianist, composer and producer, she’s also an experienced singer, having previously combined electronic compositions with Eastern folklore elements. She went on to shift much closer towards the club sound, crafting deconstructed rhythms and noisy, abrasive sounds into productions that left a mark in the industrial techno scene. Nevertheless, under the snarl of throbbing beats, unsettling ambient layers and daring sound experiments, she stayed true to her style, refusing to fit the Berlin techno mold. As such, her new project for CTM, working with Georgian choir Ensemble Basiani, was one of the highlights of the festival’s FOMO-inducing line-up. [](https://www.youtube.com/watch?v=vIk84wx1bc0)[](https://www.youtube.com/watch?v=vIk84wx1bc0)  
 Once a singer, always a singer – that’s something I personally feel because singing gives you this tingling feeling no other instrument can provide. It’s the vibration of your own body, the air being pressed out of tubes that graze vocal cords, the modulation of sound by the diaphragm and the throat. It is the body itself becoming an instrument that makes singing such a unique experience. It’s also the most immediate, intimate and visceral form of musical expression – the timbre of a human voice is something people respond to naturally. This is why I was excited to see Nene H using vocals in her music again. Yet this time, it was from a different angle. In 2019, she merged the club and vocal elements in an indeed raw and visceral performance ‘Rau’. Here, the vocal was not used only as the leading element, but also rather as a tool used to create an atmosphere, to transfer energy of the moment: to tell a story.  

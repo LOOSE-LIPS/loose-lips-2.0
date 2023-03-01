@@ -6,7 +6,7 @@ type: post
 slug: artsclub
 author: 56
 banner:
-  - imported\artsclub\image927.jpeg
+  - imported/artsclub/image927.jpeg
 description: >-
   After another successful Loose Lips day party in aid of the mental health
   charity, Headway East London, we decided to catch up with artsclub and chat
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\artsclub\image927.jpeg)After another successful Loose Lips day party in aid of the mental health charity, Headway East London, we decided to catch up with artsclub and chat about the exhibition, which is summarised below: 
+![image](../imported/artsclub/image927.jpeg)After another successful Loose Lips day party in aid of the mental health charity, Headway East London, we decided to catch up with artsclub and chat about the exhibition, which is summarised below: 
 
 Artsclub will be curating an art exhibition entitled ‘Square Format: A Celebration of Art Contributions to Modern Day Club Culture’. It aims to immortalise contemporary rave art that has only existed in the digital sphere. In today’s scene, social media provides the space for the promotion of events and is the platform for the artwork that represents them. Once the event is over, an artist’s work is lost to the recesses of the internet; existing in the void, searchable but not present. The exhibition will celebrate this art by enlarging, printing and projecting it on the walls of Grow Tottenham. This allows the work to be appreciated in the same light as the physical rave art of old, enhancing one's perception and appreciation of it. The works will be available to buy through an auction on the day, with all profits going to Headway East London. They will be printed at 50cm x 50cm and framed.
 

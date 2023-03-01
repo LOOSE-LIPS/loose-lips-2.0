@@ -7,7 +7,7 @@ slug: loose-lips-eastern-bloc-pre-party-for-schwefelgelb-at-twh
 author: 100
 banner:
   - >-
-    imported\loose-lips-eastern-bloc-pre-party-for-schwefelgelb-at-twh\image2790.jpeg
+    imported/loose-lips-eastern-bloc-pre-party-for-schwefelgelb-at-twh/image2790.jpeg
 description: >-
   In the build up to our party at&nbsp;The White
   Hotel&nbsp;with&nbsp;Schwefelgelb,&nbsp;Torn

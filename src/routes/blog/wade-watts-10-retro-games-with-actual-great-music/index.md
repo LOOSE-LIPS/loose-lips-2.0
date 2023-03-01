@@ -6,7 +6,7 @@ type: post
 slug: wade-watts-10-retro-games-with-actual-great-music
 author: 100
 banner:
-  - imported\wade-watts-10-retro-games-with-actual-great-music\image1399.jpeg
+  - imported/wade-watts-10-retro-games-with-actual-great-music/image1399.jpeg
 description: >-
   Who, or maybe should we say &#39;what&#39;, is Wade Watts?It&#39;s been
   recently discovered that this entity has been synthesised in an FPGA.Yet, it
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\wade-watts-10-retro-games-with-actual-great-music\image1399.jpeg)Who, or maybe should we say 'what', is Wade Watts?  
+![image](../imported/wade-watts-10-retro-games-with-actual-great-music/image1399.jpeg)Who, or maybe should we say 'what', is Wade Watts?  
 It's been recently discovered that this entity has been synthesised in an FPGA.  
 Yet, it lives inside T-Scale's head permanently. A ghost in the shell, perhaps? A non-malicious virus?  
 No one knows.All we know for now are its releases on various labels such as Dionysian Mysteries, LOST EARS and more recently on our [LL017 V/A Vol.I](https://looselips123.bandcamp.com/album/ll017-v-a-vol-i-in-aid-of-ruff-sqwad-arts-foundation) with a satiric track simply called COVID19 as well as an [appearance on our Mix Series last year](https://soundcloud.com/loose-lips123/loose-lips-mix-series-296-wade-watts).Retro VGM (Video Game Music) can be put into two distinct categories:– games that came out on CD-based consoles such as Sega Saturn or Sony Playstation. From then, the music is just playing like on a normal CD players although sound effects would generally be generated on a chip.– games that came out on previous generations of cartridge-based consoles such as the Sega Megadrive, Nintendo Super NES, Sega Master System or Nintendo NES.The latter have a unique feel to them because of one feature, or lack thereof;  

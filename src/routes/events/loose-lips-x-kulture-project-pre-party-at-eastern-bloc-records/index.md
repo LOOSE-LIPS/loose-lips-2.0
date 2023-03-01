@@ -7,7 +7,7 @@ slug: loose-lips-x-kulture-project-pre-party-at-eastern-bloc-records
 author: 100
 banner:
   - >-
-    imported\loose-lips-x-kulture-project-pre-party-at-eastern-bloc-records\image2777.jpeg
+    imported/loose-lips-x-kulture-project-pre-party-at-eastern-bloc-records/image2777.jpeg
 description: >-
   MAIN EVENT: https://www.facebook.com/events/250506682288839/ YES PEOPLE.
   PRE-PARTY BUSINESS. Prior to our main event at Stage &amp; Radio on December

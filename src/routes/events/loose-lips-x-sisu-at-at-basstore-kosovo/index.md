@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-x-sisu-at-at-basstore-kosovo
 author: 100
 banner:
-  - imported\loose-lips-x-sisu-at-at-basstore-kosovo\image2759.jpeg
+  - imported/loose-lips-x-sisu-at-at-basstore-kosovo/image2759.jpeg
 description: >-
   BASStore welcomes music collectives from London and Skopje. Friday
   [23.02.2018] &gt;&gt;&gt;&nbsp;Sisu&nbsp;x&nbsp;Loose Lips&nbsp;Showcase Night

@@ -6,7 +6,7 @@ type: post
 slug: editors-pick-t-scales-13-premieres-i-heart-1
 author: 159
 banner:
-  - imported\editors-pick-t-scales-13-premieres-i-heart-1\image1102.jpeg
+  - imported/editors-pick-t-scales-13-premieres-i-heart-1/image1102.jpeg
 description: >-
   This week&#39;s Editors Pick, we turn to T-Scale, who is in charge of
   premiers. &quot;I really hate myself for leaving out some other ones from this
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\editors-pick-t-scales-13-premieres-i-heart-1\image1102.jpeg)This week's Editors Pick, we turn to T-Scale, who is in charge of premiers. _"I really hate myself for leaving out some other ones from this list but fuck it, [I've had this dilemma before](http://loose-lips.co.uk/blog/t-scales-13-premieres-dilemma).. Here's 13 premieres I heart in no particular order:"_**Antoine Bobicz – Escalateur dans la ciel (bau053) / Baumusik**  
+![image](../imported/editors-pick-t-scales-13-premieres-i-heart-1/image1102.jpeg)This week's Editors Pick, we turn to T-Scale, who is in charge of premiers. _"I really hate myself for leaving out some other ones from this list but fuck it, [I've had this dilemma before](http://loose-lips.co.uk/blog/t-scales-13-premieres-dilemma).. Here's 13 premieres I heart in no particular order:"_**Antoine Bobicz – Escalateur dans la ciel (bau053) / Baumusik**  
 Recently premiered, _Escalateur dans la ciel_ (note the intentional -or not?- typo in "la ciel") by pilot and songwriter Antoine Bobicz is an assumed quirky pop song that reminds me a lot of 70s French comedy films and Wes Anderson movie soundtracks.  
 [http://loose-lips.co.uk/blog/antoine-bobicz-escalateur-dans-la-ciel-bau053](http://loose-lips.co.uk/blog/antoine-bobicz-escalateur-dans-la-ciel-bau053)**Cocktail Party Effect – Deerhorn (TECLP024) / Tectonic Recordings**  
 Another recent one is this anti-4×4 banger from Cocktail Party Effect which i describe like so: "An energy bomb, exploding into aural clusters. Being hit in the face has rarely been so enjoyable!"  

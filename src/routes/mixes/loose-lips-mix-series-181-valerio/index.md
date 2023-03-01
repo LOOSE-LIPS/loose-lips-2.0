@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-181-valerio
 author: 100
 banner:
-  - imported\loose-lips-mix-series-181-valerio\image3120.jpeg
+  - imported/loose-lips-mix-series-181-valerio/image3120.jpeg
 description: >-
   @valerio-moscaritolo With releases on labels such as Variant Electronic and
   Shape of Void, Valerio here creeps through the gears into a flourish of

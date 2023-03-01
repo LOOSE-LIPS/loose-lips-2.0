@@ -6,7 +6,7 @@ type: crew
 slug: j-city
 author: 100
 banner:
-  - imported\j-city\image4521.jpeg
+  - imported/j-city/image4521.jpeg
 description: >-
   DESIGNER / HYPE MAN / RESIDENT DJ An integral cog and comedian. Whether
   it&#39;s making amazing linos for our party&#39;s decor, rolling around naked

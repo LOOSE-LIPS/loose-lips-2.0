@@ -6,7 +6,7 @@ type: crew
 slug: will-soer
 author: 100
 banner:
-  - imported\will-soer\image4543.jpeg
+  - imported/will-soer/image4543.jpeg
 description: >-
   CREATIVE EDITOR / WRITER Will Soer&#39;s work&nbsp;&#8211; which includes
   in-depth interviews, gonzo reviews and a monthly 2 hour radio show &#8211;

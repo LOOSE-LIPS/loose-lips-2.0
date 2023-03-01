@@ -6,7 +6,7 @@ type: mix
 slug: loose-lips-mix-series-182-max-mason
 author: 100
 banner:
-  - imported\loose-lips-mix-series-182-max-mason\image3119.jpeg
+  - imported/loose-lips-mix-series-182-max-mason/image3119.jpeg
 description: >-
   &#8220;After 6 months of travel, I have arrived in Hanoi. It only seemed fair
   to share some of the tracks I&#8217;ve picked up from Berlin, Indo and Japan,

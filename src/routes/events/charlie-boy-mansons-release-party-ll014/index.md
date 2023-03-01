@@ -6,7 +6,7 @@ type: event
 slug: charlie-boy-mansons-release-party-ll014
 author: 100
 banner:
-  - imported\charlie-boy-mansons-release-party-ll014\image2773.jpeg
+  - imported/charlie-boy-mansons-release-party-ll014/image2773.jpeg
 description: >-
   On halloween we are celebrating the release of [LL014] Charlie Boy Manson
   &amp; The Handsome Family. The debut project from a mysterious alter ego.

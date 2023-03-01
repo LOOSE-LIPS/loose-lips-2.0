@@ -6,7 +6,7 @@ type: post
 slug: the-140-roundup-april-2019
 author: 17
 banner:
-  - imported\the-140-roundup-april-2019\image814.jpeg
+  - imported/the-140-roundup-april-2019/image814.jpeg
 description: >-
   April seemed like a quieter place compared to last month&rsquo;s frenzy. There
   was still plenty to be found all over the 140BPM spectrum though, including
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\the-140-roundup-april-2019\image814.jpeg)April seemed like a quieter place compared to last month’s frenzy. There was still plenty to be found all over the 140BPM spectrum though, including some promising insights into the next few months. One of the best releases came in the form of **Infernal Sounds** unearthing two old school dubs from veteran producer **Cluekid**, whose break and dub infused tunes helped shape the future of dubstep in the late 00s. The fourteenth addition to the IFS roster brings “Mistik World” back to life, allowing us to properly taste its crisp production, tight drum programming and lovely esoteric atmosphere. On the flip, another archive tune, “Bunn Da Sensi”, reaches for that mix of breaks and dub that made tunes such as “Jay’s Reese” such classics. Though more recent, another long-awaited dub eventually got released this month, as **Sector 7** **Sounds** decided to put **Jook**’s “Flying Nimbus” to wax. It’s easy to see why it attracted such expectations – “Flying Nimbus” finds the perfect balance between weird atmospherics and a killer drop relying almost entirely on a massive distorted lead. The track is efficient and defiantly catchy, but you shouldn’t overlook the rest of the EP, for example “Rolling In His Grave” and “Bittersweet” are just as competent.
+![image](../imported/the-140-roundup-april-2019/image814.jpeg)April seemed like a quieter place compared to last month’s frenzy. There was still plenty to be found all over the 140BPM spectrum though, including some promising insights into the next few months. One of the best releases came in the form of **Infernal Sounds** unearthing two old school dubs from veteran producer **Cluekid**, whose break and dub infused tunes helped shape the future of dubstep in the late 00s. The fourteenth addition to the IFS roster brings “Mistik World” back to life, allowing us to properly taste its crisp production, tight drum programming and lovely esoteric atmosphere. On the flip, another archive tune, “Bunn Da Sensi”, reaches for that mix of breaks and dub that made tunes such as “Jay’s Reese” such classics. Though more recent, another long-awaited dub eventually got released this month, as **Sector 7** **Sounds** decided to put **Jook**’s “Flying Nimbus” to wax. It’s easy to see why it attracted such expectations – “Flying Nimbus” finds the perfect balance between weird atmospherics and a killer drop relying almost entirely on a massive distorted lead. The track is efficient and defiantly catchy, but you shouldn’t overlook the rest of the EP, for example “Rolling In His Grave” and “Bittersweet” are just as competent.
 
 ![](/wp-content/uploads/live/img/wysiwyg/5cca1c679aebe.jpg)
 

@@ -58,7 +58,7 @@
   <!-- <TagsContainer {blogs} /> -->
 
   <RecentPostsContainer {posts} />
-  <EventsContainer {events} />
+  <!-- <EventsContainer {events} /> -->
 </div>
 
 <style>

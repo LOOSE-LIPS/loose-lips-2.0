@@ -6,7 +6,7 @@ type: event
 slug: butterfly-effect-beaverworks-24519
 author: 100
 banner:
-  - imported\butterfly-effect-beaverworks-24519\image2787.jpeg
+  - imported/butterfly-effect-beaverworks-24519/image2787.jpeg
 description: >-
   &quot;THE BUTTERFLY EFFECT&quot; 5 of the hottest underground collectives
   throwing events in West Yorkshire come together for &quot;THE BUTTERFLY

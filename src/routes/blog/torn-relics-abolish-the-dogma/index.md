@@ -6,7 +6,7 @@ type: post
 slug: torn-relics-abolish-the-dogma
 author: 40
 banner:
-  - imported\torn-relics-abolish-the-dogma\image1063.jpeg
+  - imported/torn-relics-abolish-the-dogma/image1063.jpeg
 description: >-
   Torn Relics&#39; first release, The Poisoned Chalice (2019), was a triumph of
   gut-punching dread, threading percussive techno with the mournful cries of a
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\torn-relics-abolish-the-dogma\image1063.jpeg)Torn Relics' first release, _The Poisoned Chalice_ (2019), was a triumph of gut-punching dread, threading percussive techno with the mournful cries of a modulated violin. The pitch black mood of that record is in no short supply on _Abolish the Dogma_. Here, with their first LP, released in February by the Amsterdam label Leyla, Torn Relics capture a sound that is forward-looking – modern, industrial – while recalling shadows of history in its evocation occultism and ritual. 
+![image](../imported/torn-relics-abolish-the-dogma/image1063.jpeg)Torn Relics' first release, _The Poisoned Chalice_ (2019), was a triumph of gut-punching dread, threading percussive techno with the mournful cries of a modulated violin. The pitch black mood of that record is in no short supply on _Abolish the Dogma_. Here, with their first LP, released in February by the Amsterdam label Leyla, Torn Relics capture a sound that is forward-looking – modern, industrial – while recalling shadows of history in its evocation occultism and ritual. 
 
 Formed in 2018 by Romek Boyer and Aimée Mullen, the duo incorporates diverse musical tradition, style, and instrumentation. Boyer, who also releases techno as Rommek, demonstrates his skill for heavy, driving rhythms and dark soundscapes. Mullen's background in traditional Irish music as a violinist – the instrument is used in myriad ways here – and bodhrán player brings a counterpoint that is as earthly as it is ghostly. Together, they produce a sound that is wholly organic and rough at the edges.
 

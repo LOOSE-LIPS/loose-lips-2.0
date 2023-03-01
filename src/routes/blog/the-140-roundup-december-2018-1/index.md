@@ -6,7 +6,7 @@ type: post
 slug: the-140-roundup-december-2018-1
 author: 17
 banner:
-  - imported\the-140-roundup-december-2018-1\image728.jpeg
+  - imported/the-140-roundup-december-2018-1/image728.jpeg
 description: >-
   December is always a special month in the ecosystem of music, with the album
   front suddenly getting quieter following a few months of frenzy and labels
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\the-140-roundup-december-2018-1\image728.jpeg)December is always a special month in the ecosystem of music, with the album front suddenly getting quieter following a few months of frenzy and labels sorting some of their highest-profile releases before the holiday season. The end of 2018 was no different, with a relentless assault of some of the biggest players in 140BPM music offering releases, making for a  month of intense movement – unavoidable drama within the dubstep scene contributed to the picture as well. The whole panorama does not come down to these matters though, as December was also home to quality releases from trailblazing labels and up-and-coming artists: a few days into the new year, I’ll try to make sense of it all summing up some of the most interesting tracks, EPs and compilations released in the past few weeks.![](/wp-content/uploads/live/img/wysiwyg/5c37ae8c576cc.jpg)
+![image](../imported/the-140-roundup-december-2018-1/image728.jpeg)December is always a special month in the ecosystem of music, with the album front suddenly getting quieter following a few months of frenzy and labels sorting some of their highest-profile releases before the holiday season. The end of 2018 was no different, with a relentless assault of some of the biggest players in 140BPM music offering releases, making for a  month of intense movement – unavoidable drama within the dubstep scene contributed to the picture as well. The whole panorama does not come down to these matters though, as December was also home to quality releases from trailblazing labels and up-and-coming artists: a few days into the new year, I’ll try to make sense of it all summing up some of the most interesting tracks, EPs and compilations released in the past few weeks.![](/wp-content/uploads/live/img/wysiwyg/5c37ae8c576cc.jpg)
 
 **· Commodo – Rikers (Deep Medi Musik)****· V/A – Crucial EP Volume 2 (Crucial)**It just wouldn’t be right to call this article a 140 Roundup without starting with “Rikers”. One of the most awaited dubplates of the year, **Commodo**’s track finally came to life through **Deep Medi Musik** and is coupled with “Daytona” to make it a cohesive two-tracker. Chances are you already have your opinion on it if you read to this point but to these ears “Rikers” is Commodo at its finest, in the direct continuity with this year’s stunning Dyrge EP. The track hasn’t lost any of its magic, still managing to retain all its impact after countless plays – just another justification for Commodo’s unique status within the scene. **Crucial Recordings** also went all out right before Christmas with Crucial EP Volume 2, a joint effort bringing together some of the most distinctive producers working in this sound right now. The whole EP is impressive, showcasing these artists’ creativity and sound palette. **Causa** comes forward with his best tune of the year with “Are We”, a killer track whose rolling bassline should do damage to any dancefloor, while **Opus** packs a psychedelic affair with “People”, complete with glistening synths, occult voices and jolting beat patterns.
 

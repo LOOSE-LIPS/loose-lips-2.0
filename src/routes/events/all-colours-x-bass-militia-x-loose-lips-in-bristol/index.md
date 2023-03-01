@@ -6,7 +6,7 @@ type: event
 slug: all-colours-x-bass-militia-x-loose-lips-in-bristol
 author: 100
 banner:
-  - imported\all-colours-x-bass-militia-x-loose-lips-in-bristol\image2781.jpeg
+  - imported/all-colours-x-bass-militia-x-loose-lips-in-bristol/image2781.jpeg
 description: >-
   TRUST ME! A heavyweight line-up of jungle, dubstep and breaks from three
   heavyweight promoters&#8230; https://www.facebook.com/AllColoursMusic

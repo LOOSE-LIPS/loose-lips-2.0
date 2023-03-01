@@ -6,7 +6,7 @@ type: post
 slug: picks-safejas-electronic-inspirations
 author: 100
 banner:
-  - imported\picks-safejas-electronic-inspirations\image1176.jpeg
+  - imported/picks-safejas-electronic-inspirations/image1176.jpeg
 description: >-
   This month&rsquo;s PICKS feature comes from Safejas, a Berlin-based producer
   with a warm, explorative aesthetic, whose music treads the emotional fringes
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\picks-safejas-electronic-inspirations\image1176.jpeg)_This month’s PICKS feature comes from Safejas, a Berlin-based producer with a warm, explorative aesthetic, whose music treads the emotional fringes of electronic music. His debut single Eyeline Inspector feels like it’s brooding over the memory of the dancefloor, whilst crucially being distant and somehow detached from it. Its a piece of music not aimed squarely at the club, but rather recalls the early-morning tinge of the journey back from it, when the embers of the night are still gently smouldering._ _All Spotify-able tracks are gathered_ [_in this playlist_](https://open.spotify.com/playlist/6T3qwYw1AHOCfGf0HYCJ1J?si=-Tmo6UeETaiNbqMLD1lHsg)_, enjoy!_
+![image](../imported/picks-safejas-electronic-inspirations/image1176.jpeg)_This month’s PICKS feature comes from Safejas, a Berlin-based producer with a warm, explorative aesthetic, whose music treads the emotional fringes of electronic music. His debut single Eyeline Inspector feels like it’s brooding over the memory of the dancefloor, whilst crucially being distant and somehow detached from it. Its a piece of music not aimed squarely at the club, but rather recalls the early-morning tinge of the journey back from it, when the embers of the night are still gently smouldering._ _All Spotify-able tracks are gathered_ [_in this playlist_](https://open.spotify.com/playlist/6T3qwYw1AHOCfGf0HYCJ1J?si=-Tmo6UeETaiNbqMLD1lHsg)_, enjoy!_
 
 I wanted this selection to cover a bit of a range – from tracks that inspired me to start making this kind of music, to tracks that more directly inspired my first release, and then some that I’m obsessing over right now as I’m working on new stuff.
 

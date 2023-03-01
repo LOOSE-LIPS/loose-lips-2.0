@@ -6,7 +6,7 @@ type: post
 slug: tanglewood-boyz-focus-ttd001
 author: 100
 banner:
-  - imported\tanglewood-boyz-focus-ttd001\image795.jpeg
+  - imported/tanglewood-boyz-focus-ttd001/image795.jpeg
 description: >-
   A hi-energy Memphis style Electro Body Bass. From Street Justice V/A on Ten
   Trax. Out 5.04 on digital &#8211; Pre-order:
@@ -17,4 +17,4 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\tanglewood-boyz-focus-ttd001\image795.jpeg)A hi-energy Memphis style Electro Body Bass.From _Street Justice_ V/A on [Ten Trax](https://tentrax.bandcamp.com).Out 5.04 on digital – Pre-order: [](https://tentrax.bandcamp.com/releases)[https://tentrax.bandcamp.com/releases](https://tentrax.bandcamp.com/releases)[https://soundcloud.com/tentrax](https://soundcloud.com/tentrax)
+![image](../imported/tanglewood-boyz-focus-ttd001/image795.jpeg)A hi-energy Memphis style Electro Body Bass.From _Street Justice_ V/A on [Ten Trax](https://tentrax.bandcamp.com).Out 5.04 on digital – Pre-order: [](https://tentrax.bandcamp.com/releases)[https://tentrax.bandcamp.com/releases](https://tentrax.bandcamp.com/releases)[https://soundcloud.com/tentrax](https://soundcloud.com/tentrax)

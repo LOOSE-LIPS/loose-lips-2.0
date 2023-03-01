@@ -6,7 +6,7 @@ type: event
 slug: loose-lips-5th-bday-tour-poznan-poland
 author: 100
 banner:
-  - imported\loose-lips-5th-bday-tour-poznan-poland\image2807.jpeg
+  - imported/loose-lips-5th-bday-tour-poznan-poland/image2807.jpeg
 description: >-
   5 years since Loose Lips was born from a hyper discussion in a sweaty living
   room after coming back from a long night at Fabric! To celebrate half a decade

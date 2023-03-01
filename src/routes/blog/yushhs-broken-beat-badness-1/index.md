@@ -6,7 +6,7 @@ type: post
 slug: yushhs-broken-beat-badness-1
 author: 164
 banner:
-  - imported\yushhs-broken-beat-badness-1\image937.jpeg
+  - imported/yushhs-broken-beat-badness-1/image937.jpeg
 description: >-
   Ahead of her set at Loose Lips&rsquo; 5th anniversary night in Bristol, we
   asked local donnie Yushh to share some of the lush, hater-hushing sonic
@@ -19,7 +19,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\yushhs-broken-beat-badness-1\image937.jpeg)**Ahead of her set at Loose Lips’ 5th anniversary night in Bristol, we asked local donnie Yushh to share some of the lush, hater-hushing sonic badassery that characterises her sets. The Pressure Dome labelhead did not disappoint, sharing a slew of ‘Broken beat badddnessss’ (yes we corrected the spelling, we’re sorry.) Enjoy!****Tom Blip & Swordman Kitala – Kitala Beat**One of my fave releases this year so far, such a good tune for switching up the vibe. Weighty vocals, bass driven beat, UK – Uganda connect, can’t go wrong. 
+![image](../imported/yushhs-broken-beat-badness-1/image937.jpeg)**Ahead of her set at Loose Lips’ 5th anniversary night in Bristol, we asked local donnie Yushh to share some of the lush, hater-hushing sonic badassery that characterises her sets. The Pressure Dome labelhead did not disappoint, sharing a slew of ‘Broken beat badddnessss’ (yes we corrected the spelling, we’re sorry.) Enjoy!****Tom Blip & Swordman Kitala – Kitala Beat**One of my fave releases this year so far, such a good tune for switching up the vibe. Weighty vocals, bass driven beat, UK – Uganda connect, can’t go wrong. 
 
 **BFTT – I**Taken from BFTT’s latest release on Gobstopper records, all three tracks on the release are high quality. Such a talented DJ / producer – was lucky enough to have him come down and play at the label launch for Pressure Dome. Safe to say, he smashed it.  
 **E-Unity – 3.6** Could have chosen a number of E-Unity tracks, love this guy’s production. Very individual style, very fun to mix, nice amount of space to blend over other tracks. This one maybe the more overlooked B side of the Tallarita EP from last year. 

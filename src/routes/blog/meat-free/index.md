@@ -6,7 +6,7 @@ type: post
 slug: meat-free
 author: 97
 banner:
-  - imported\meat-free\image1118.jpeg
+  - imported/meat-free/image1118.jpeg
 description: >-
   A few months ago, Loose Lips announced a Manchester party to take place on
   March 21st, headlined by Bjarki and Inga Mauer. Getting some of the
@@ -18,7 +18,7 @@ tags:
   - post
 featured: false
 ---
-![image](../imported\meat-free\image1118.jpeg)A few months ago, Loose Lips announced a Manchester party to take place on March 21st, headlined by Bjarki and Inga Mauer. Getting some of the city’s finest involved, including Yant and Meat Free’s very own aalice and Lucy Ironmonger, there is no doubt that this would have been a night to remember. While we are currently unsure of the rescheduled date, all the elements which got us excited in the first place will still be there and will make our first dance at The Progress Centre even sweeter.
+![image](../imported/meat-free/image1118.jpeg)A few months ago, Loose Lips announced a Manchester party to take place on March 21st, headlined by Bjarki and Inga Mauer. Getting some of the city’s finest involved, including Yant and Meat Free’s very own aalice and Lucy Ironmonger, there is no doubt that this would have been a night to remember. While we are currently unsure of the rescheduled date, all the elements which got us excited in the first place will still be there and will make our first dance at The Progress Centre even sweeter.
 
 If anything, this period of collective uncertainty about the future has pushed me to revisit my past experiences. I miss seeing my friends, going to garages converted into nightclubs and listening to dance music on rib-rattling sound systems. I have been feeling nostalgic about the nights that were unique, when I saw artists that I had never seen before, or when I headed to a club for the first time because I knew the promoters were worth following there. Some of those memories were made while going to the Meat Free parties. 
 
