@@ -23,7 +23,7 @@
   //   import { blogTags } from "$lib/data/tags";
   export let blogs;
   // Exports
-  const tags = ["testTag"];
+  export let tags = [];
   export let title = "";
   export let slug = "";
   export let description = "";
@@ -56,6 +56,7 @@
       "svelte",
       ...tags,
     ],
+    tags: tags,
     searchUrl: `/blog/${slug}`,
     image: `/images/blogs/${slug}/banner.jpg`,
     twitter: {
@@ -82,6 +83,7 @@
           "svelte",
           ...tags,
         ],
+        tags: tags,
         searchUrl: `/blog/${slug}`,
         description: `${description}`,
         image: `/images/blogs/${slug}/banner.jpg`,
@@ -97,6 +99,9 @@
       };
     }
   }
+
+  console.log(title, "title");
+  console.log(tags, "tags");
 
   // End: Reactive properties
 
