@@ -32,24 +32,13 @@
     searchUrl: "/blog",
   };
 
-  const mostRecentBlogs: IBlog[] = blogs
-    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .slice(0, 150);
-
-  let searchValue = "";
-  $: filteredBlogPosts = blogs
-    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .filter((blog) =>
-      blog.title.toLowerCase().includes(searchValue.toLowerCase())
-    );
-
   const tags = blogs
     .map((x) => x.tags)
     .reduce((a, b) => (a.includes(b) ? a : [...a, b]), []);
   console.log(tags);
 
   let visible = blogs;
-
+  let searchValue = "";
   let selectedTags = [];
 
   const handleTagClick = (tag) => {
