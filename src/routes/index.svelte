@@ -54,6 +54,7 @@
 <HeadTags {metaData} />
 
 <div class="w-[100%] mt-28">
+  <h1 class="text-white">LOOSE LIPS</h1>
   <FeaturedContent {posts} />
   <!-- <TagsContainer {blogs} /> -->
   <RecentPostsContainer {posts} />
