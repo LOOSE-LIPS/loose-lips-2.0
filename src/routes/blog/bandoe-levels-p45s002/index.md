@@ -13,8 +13,7 @@ description: >-
   &#8211; https://p45sound.bandcamp.com https://soundcloud.com/pfortyfive
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/bandoe-levels-p45s002/image1361.jpeg)Bass-led dark 2-step number that should be played at very high level!From Bandoe's _Sidewinder / Levels_ EP on [P45 Sound](https://p45sound.bandcamp.com/).Out now on digital – [https://p45sound.bandcamp.com](https://p45sound.bandcamp.com/)[https://soundcloud.com/pfortyfive](https://soundcloud.com/pfortyfive)

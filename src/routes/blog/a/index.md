@@ -9,8 +9,7 @@ banner:
   - imported/a/image1395.jpeg
 description: 'a [...]Read More...'
 published: true
-tags:
-  - post
+tags: article
 featured: false
 ---
 ![image](../imported/a/image1395.jpeg)a

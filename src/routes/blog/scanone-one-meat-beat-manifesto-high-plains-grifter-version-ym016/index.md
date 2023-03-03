@@ -18,8 +18,7 @@ description: >-
   https://yellow-machines.bandcamp.comAvailable on 12&quot; with 4 tracks and
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/scanone-one-meat-beat-manifesto-high-plains-grifter-version-ym016/image940.jpeg)This version of the original track, drifting on a darker, atmospheric yet still in-ya-face vibe, is a twisted adventure  

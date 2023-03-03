@@ -12,8 +12,7 @@ description: >-
   digital &#8211; Pre-order: www.beatport.com/release/permissions/2691307
   https://soundcloud.com/oneseventyldn [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/daat-037-osva001/image920.jpeg)Claustrophobic bass assault!From Permissions VA on [One.Seventy](https://www.facebook.com/One.Seventy.LND/).Out 20.09 on digital – Pre-order: [www.beatport.com/release/permissions/2691307](http://www.beatport.com/release/permissions/2691307)[](https://soundcloud.com/oneseventyldn)[https://soundcloud.com/oneseventyldn](https://soundcloud.com/oneseventyldn)

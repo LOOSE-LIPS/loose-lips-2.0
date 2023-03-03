@@ -14,8 +14,7 @@ description: >-
   it. I&#39;ve embedded all the sets below to listen and cherish, each is so
   unique from the [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/our-first-deep-cuts-event-130920/image1265.jpeg)_**\*\*\*UPDATE\*\*\* All of the sets have been uploaded now. All of the artworks have been sold, raising £500 for the Ruff Sqwad Arts Foundation, massive shout out to everyone who bought one, and everyone involved, you all smashed it. I've embedded all the sets below to listen and cherish, each is so unique from the other, you're guaranteed to find something for you in there. W**_**_e also have a couple of aftermovies, watchable_**_** [**_**_here_**_**](https://www.instagram.com/tv/CGHtISYnSUl/) **_**_and_**_** [__here__](https://www.instagram.com/tv/CGHxUkkHFmQ/)__.__ Enjoy.**__8-10pm, artwork by_ [_Jasper Golding_](http://bit.ly/38NoOX0) _(on the let) and [Trav](https://www.backdownwarchild.co.uk/) (on the right, whose artwork is also the banner)._

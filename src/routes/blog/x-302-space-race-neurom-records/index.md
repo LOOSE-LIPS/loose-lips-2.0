@@ -13,8 +13,7 @@ description: >-
   Records. Out 15.10 on digital &#8211; https://neuromrecords.bandcamp.com
   https://soundcloud.com/neur0mhttps://soundcloud.com/x-302 [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/x-302-space-race-neurom-records/image1287.jpeg)Cavernous beats chasing each other in the deep lightless infinity on this dark, dubby industrial piece.From [X-302](https://soundcloud.com/x-302)'s _Nirvana_ EP on [Neurom Records](https://neuromrecords.bandcamp.com/).Out 15.10 on digital – [https://neuromrecords.bandcamp.com](https://neuromrecords.bandcamp.com/)[https://soundcloud.com/neur0m](https://soundcloud.com/neur0m)  

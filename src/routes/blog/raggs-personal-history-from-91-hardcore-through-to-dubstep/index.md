@@ -15,8 +15,7 @@ description: >-
   the summer (or winter) of love to change lives as it should. Time to tune into
   eachother&rsquo;s [...]Read More...
 published: true
-tags:
-  - post
+tags: picks
 featured: false
 ---
 ![image](../imported/raggs-personal-history-from-91-hardcore-through-to-dubstep/image1387.jpeg)[](https://www.youtube.com/watch?v=1MEzjB1kZXk)[](https://www.youtube.com/watch?v=1MEzjB1kZXk)**It’s time to get excited. Which is to say, it’s the time when we’re all feeling shit and really realistically have no idea when rave shall return, so the getting of excitement has to be gradual, substantial, for the summer (or winter) of love to change lives as it should. Time to tune into eachother’s gold dust drawers, to tie our hifi’s together via the web. Stepping up is the OG that is Raggs, a rave legend who** [**destroyed**](https://thenycdownlow.com/2020/03/11/raggs-iicon-glastonbury-2019/) **the IICON stage at Glastonbury in 2019. As per, all Spotifyable tracks are gathered** [**here**](https://open.spotify.com/playlist/08Tu39SCDfD4edHBiT3zmL)**, enjoy…**

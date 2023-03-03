@@ -15,8 +15,7 @@ description: >-
   re-discover paintings by his grandfather, Lionel, which inspired him to
   re-think [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/la-houle-phils-odyssey-ont005/image1181.jpeg)Kosmische musik excursions by [La Houle](https://lahouleesttonsalut.bandcamp.com/), put into image by graphic artist [Antoine Djack](https://www.instagram.com/antoine_djack/), mirroring the minimalist, yet heartwarming and contemplative quality of this piece.Usually accustomed to noisy pop, the band’s singer and composer Simon Sockeel took advantage of this confinement period to re-discover paintings by his grandfather, Lionel, which inspired him to re-think his way of composing.  Armed with a multitrack tape recorder, La Houle lays on tape what is set to be "listened to or simply heard”, echoing the “furniture music” coined by Erik Satie.  

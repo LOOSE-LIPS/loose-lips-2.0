@@ -15,8 +15,7 @@ description: >-
   Junodownload and 20.06 in all good online stores &#8211; Pre-order:
   https://artsik.net/releases/?rl=3674 [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/dema-persistence-of-visions-ibd002/image841.jpeg)_Persistence of Visions_ is a murky warm-up tune that features warm swinging beats that provide space for ricocheting percussion, dragging dancers into a stoned sway and steady head-bop.  

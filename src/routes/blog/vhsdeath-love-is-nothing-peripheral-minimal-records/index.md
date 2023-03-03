@@ -16,8 +16,7 @@ description: >-
   https://vhsxdeath.bandcamp.com/album/peripheral-minimal-records-debut-l-p-la-llorona-love-all-the-hate
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/vhsdeath-love-is-nothing-peripheral-minimal-records/image1128.jpeg)With a modern approach to Synthwave/Coldwave sonics, _LOVE IS NOTHING_ is a nod to the Post-Punk paradigm with a foot in the Electro garden, which can be heard all over the album as well. From [VHS¥DEATH](https://vhsxdeath.bandcamp.com/)'s _LA LLORONA (LOVE & ALL THE HATE)_ LP on [Peripheral Minimal Records](https://www.peripheralminimal.com/).Out now on digital – Order: [](https://vhsxdeath.bandcamp.com/album/peripheral-minimal-records-debut-l-p-la-llorona-love-all-the-hate)[https://vhsxdeath.bandcamp.com/album/peripheral-minimal-records-debut-l-p-la-llorona-love-all-the-hate](https://vhsxdeath.bandcamp.com/album/peripheral-minimal-records-debut-l-p-la-llorona-love-all-the-hate)[https://soundcloud.com/peripheral-minimal](https://soundcloud.com/peripheral-minimal)  

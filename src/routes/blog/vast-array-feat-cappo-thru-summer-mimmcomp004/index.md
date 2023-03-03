@@ -13,8 +13,7 @@ description: >-
   Compilation on Mimm. Out 13.09 on digital &#8211; More info via
   https://www.mimm.co.uk https://soundcloud.com/mimmstore [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/vast-array-feat-cappo-thru-summer-mimmcomp004/image912.jpeg)As the summer slowly reaches through its end, Vast Array and Cappo give their insightful perspective.From _Mimm Exploration Compilation Vol 2_ VA Compilation on [Mimm](https://www.mimm.co.uk).Out 13.09 on digital – More info via [](https://www.mimm.co.uk/)[https://www.mimm.co.uk](https://www.mimm.co.uk)[](https://soundcloud.com/mimmstore)[https://soundcloud.com/mimmstore](https://soundcloud.com/mimmstore)

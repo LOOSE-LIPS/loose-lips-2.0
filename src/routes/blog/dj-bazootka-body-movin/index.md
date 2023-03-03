@@ -14,8 +14,7 @@ description: >-
   https://djbazootka.bandcamp.com/album/body-movin
   https://soundcloud.com/djbazootka [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/dj-bazootka-body-movin/image1144.jpeg)Down-to-the-floor pumpin' & bouncin' booty number. From [DJ Bazootka](https://djbazootka.bandcamp.com/)'s _Body Movin'_ EP. Includes a remix by [Japanese Acid Person](https://japaneseacidperson.bandcamp.com/).Out now on digital – Order: [](https://djbazootka.bandcamp.com/album/body-movin)[https://djbazootka.bandcamp.com/album/body-movin](https://djbazootka.bandcamp.com/album/body-movin)[](https://soundcloud.com/djbazootka)[https://soundcloud.com/djbazootka](https://soundcloud.com/djbazootka)

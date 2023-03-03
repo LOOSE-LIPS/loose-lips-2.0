@@ -15,8 +15,7 @@ description: >-
   a roster including the large majority of artists that dominate [...]Read
   More...
 published: true
-tags:
-  - post
+tags: review
 featured: false
 ---
 ![image](../imported/ceili-rough-n-ready/image1027.jpeg)Obscuur Records is a label that has been systematically pushing harsh, industrial techno for 5 years now. Based in Utrecht, the Netherlands, they’ve been putting out releases at an unbelievably prolific rate. Mainly focussing on digital EPs aided by their [Ōtomo Trax](https://www.discogs.com/label/1093305-%25C5%258Ctomo-Trax) sublabel, they boast a roster including the large majority of artists that dominate the scene they promote. Via I Hate Models and Dentis to Keepsakes and Ike Dusk, they have modelled themselves into acute proponents of the neo-industrial techno craze.

@@ -14,8 +14,7 @@ description: >-
   brooding over the memory of the dancefloor, whilst crucially being distant and
   somehow detached from it. Its a piece of music not aimed [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-safejas-electronic-inspirations/image1176.jpeg)_This month’s PICKS feature comes from Safejas, a Berlin-based producer with a warm, explorative aesthetic, whose music treads the emotional fringes of electronic music. His debut single Eyeline Inspector feels like it’s brooding over the memory of the dancefloor, whilst crucially being distant and somehow detached from it. Its a piece of music not aimed squarely at the club, but rather recalls the early-morning tinge of the journey back from it, when the embers of the night are still gently smouldering._ _All Spotify-able tracks are gathered_ [_in this playlist_](https://open.spotify.com/playlist/6T3qwYw1AHOCfGf0HYCJ1J?si=-Tmo6UeETaiNbqMLD1lHsg)_, enjoy!_

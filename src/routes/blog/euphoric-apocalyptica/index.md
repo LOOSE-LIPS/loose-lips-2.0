@@ -14,8 +14,7 @@ description: >-
   Apocalyptica, was suggested by a writer named Zoran Petković in the midst
   [...]Read More...
 published: true
-tags:
-  - post
+tags: deep-cuts
 featured: false
 ---
 ![image](../imported/euphoric-apocalyptica/image1298.jpeg)**_Well to the tenth edition of Deep Cuts! Our last edition was August's [Dead Inside But It's Ok](http://loose-lips.co.uk/blog/dead-inside-but-its-ok), and after that I took a break for a month to focus on our first Deep Cuts event (it was [great](http://loose-lips.co.uk/blog/our-first-deep-cuts-event-130920)). This month's theme, Euphoric Apocalyptica, was suggested by a writer named Zoran Petković in the midst of last year, so his and a couple of other submissions were written pre-covid, but the majority were born from this last 7 months of fuckery. It's a rollercoaster ride packed with  hope, fear, breakbeats (one contribution comes from a bona fide 90s rave legend),_** **_poetry and pilgrimage. Quite unlike anything I've ever published before, I love it (even though it reflects this bewitched mess). Massive shout out to all the writers, you're the best_**_**As always, tracks from each contribution are gathered in this month's Deep Cuts mix embedded below (this time contributed by the demonically good**_ [_**Kim Cosmik**_](https://soundcloud.com/kimcosmik)_**), the mix's tracklist is at the end of the article,**_ _the illustration comes from [Trav](https://www.backdownwarchild.co.uk/) and_ _**all Spotify-able tracks are in**_ [_**this playlist here**_](https://open.spotify.com/playlist/51A75F3xGi9JgXVOGRNgaT?si=Hd2jJfkeSvCdBMvMoT9Sew) _**(though that's not many, as this month's selections are heavily dance-leaning, naturally).**_ _**Stay safe and love yourselves, Will x**_

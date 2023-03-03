@@ -13,8 +13,7 @@ description: >-
   https://fanlink.to/PDCOMP001 https://soundcloud.com/pressuredome [...]Read
   More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/outsider-petrochemical-pdcomp001/image979.jpeg)Dripping and sticking refined petroleum beats!From _PDCOMP001_ V/A compilation on [Pressure Dome](https://pressuredome.bandcamp.com/).Out 6.12 on digital – Pre-order: [](https://fanlink.to/PDCOMP001)[https://fanlink.to/PDCOMP001](https://fanlink.to/PDCOMP001)[](https://soundcloud.com/pressuredome)[https://soundcloud.com/pressuredome](https://soundcloud.com/pressuredome)

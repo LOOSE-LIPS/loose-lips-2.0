@@ -14,8 +14,7 @@ description: >-
   album was released, three years during which she&#39;s become fucking huge
   despite making such INTENSELY dark songs, [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/soers-sunday-jams-phoebe-bridgers-garden-song/image1036.jpeg)'The doctor put her hands over my liver,  

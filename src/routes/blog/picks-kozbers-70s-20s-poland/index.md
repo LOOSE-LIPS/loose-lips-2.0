@@ -14,8 +14,7 @@ description: >-
   modern rebel anti-Communism touch.&rsquo; All the spotify-able tracks are
   gathered here. Take it away, Kozber! I [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-kozbers-70s-20s-poland/image1157.jpeg)_For this week’s edition of Picks, we have a close friend of the Loose Lips family, a DJ, producer and member of the next-level psychedelic duo [Bonasforsa](https://soundcloud.com/bonasforsa?fbclid=IwAR174qoI8iCjilIh-z9OB1DNdJt9JrmPIRc6htKFUAauLZoynPiHrS6meYg), here he takes us on a ‘lil weird historical journey, with a modern rebel anti-Communism touch.’ All the spotify-able tracks are gathered_ [_here_](https://open.spotify.com/playlist/2ltnjR7AKdwKskFJfvzkzL?si=S0pr4a_tRr6s5O37zyZNtA)_. Take it away, Kozber!_I was asked to prepare this picks a long time ago, I finally decided to take picks from the huge scene of my country, Poland, though I have lived over here in London for over 14 years! The origin of Polish music can be traced as far back as the 13th century but I’m gonna focus on modern music, starting from early '70.

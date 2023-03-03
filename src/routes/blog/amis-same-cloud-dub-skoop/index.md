@@ -16,8 +16,7 @@ description: >-
   https://soundcloud.com/skoopskoophttps://soundcloud.com/soundsofliftup
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/amis-same-cloud-dub-skoop/image1348.jpeg)Edinburgh-based Skoop collective has been working hard this year with a plethora of slick releases.  

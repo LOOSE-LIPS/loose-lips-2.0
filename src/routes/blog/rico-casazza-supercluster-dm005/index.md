@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/dionysian-mysterieshttps://soundcloud.com/ricocasazza
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/rico-casazza-supercluster-dm005/image1011.jpeg)Prolific producer Rico Casazza delivers a dubby Electro number that satisfies both the head and the legs!From [Rico Casazza](https://www.residentadvisor.net/dj/ricocasazza)'s Purplewave EP on [Dionysian Mysteries](https://www.residentadvisor.net/record-label.aspx?id=14343).Out 14.02.2020 on 12" and digital – [](https://www.juno.co.uk/products/rico-casazza-purplewave-ep/762899-01/)[https://www.juno.co.uk/products/rico-casazza-purplewave-ep/762899-01](https://www.juno.co.uk/products/rico-casazza-purplewave-ep/762899-01/)[https://soundcloud.com/dionysian-mysteries](https://soundcloud.com/dionysian-mysteries)  

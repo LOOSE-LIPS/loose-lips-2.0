@@ -14,8 +14,7 @@ description: >-
   Jazz. Out 25.05 on limited cassette &#8211;
   https://jitterjazzrecords.bandcamp.com/album/wouter-bailey [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../undefined)This smokey, dusty live improvisation takes one side of this cassette, filled with glimpses  

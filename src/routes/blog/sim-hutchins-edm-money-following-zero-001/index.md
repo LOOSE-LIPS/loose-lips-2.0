@@ -14,8 +14,7 @@ description: >-
   &#8211; Pre-order: https://simhutchins.bandcamp.com/album/e-d-m-money
   https://soundcloud.com/simhutchins [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/sim-hutchins-edm-money-following-zero-001/image816.jpeg)Darkwave observed with an ultra-modern, high-definition lens capable of catching the finest details of this  

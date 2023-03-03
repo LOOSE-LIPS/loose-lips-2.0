@@ -17,8 +17,7 @@ description: >-
   https://soundcloud.com/bosconi-recordshttps://soundcloud.com/291out [...]Read
   More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/291out-knock-out-boscohcbd02/image1190.jpeg)_Knock Out_ is an elegant, floaty and warm space disco number from Italian ensemble [291out](https://www.discogs.com/artist/3239107-291out), starting the second volume of two fund-raising compilations coming out on Bosconi Records and set to raise money for the [**Banco Alimentare Onlus Foundation**](https://www.bancoalimentare.it/en)**.**From _Home Cooked Beats_ V/A compilation on [Bosconi Records](https://www.bosconirecords.com/).Out now on digital – Order:  

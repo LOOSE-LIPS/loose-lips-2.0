@@ -14,8 +14,7 @@ description: >-
   day, and yet, everything is changing. It&rsquo;s kind of like techno, at any
   moment [...]Read More...
 published: true
-tags:
-  - post
+tags: picks
 featured: false
 ---
 ![image](../imported/lnrs-velocities-of-thought/image1363.jpeg)**_Christ. What a time to be alive ay!!?? We’ll remember this past Saturday for the rest of our lives, mark my words. Britain is stuck in a solidified loop that has swallowed up the winter, everything is the same every single day, and yet, everything is changing. It’s kind of like techno, at any moment in a set the track might sound like a simple, repeated loop, and yet that repetition hides deep r in its folds. Hear to explore this theme of repetition with a look through Britain’s richest, most ragged 80s/90s dance music is_** **_[LNR](https://www.instagram.com/lnr_dj/), the DJ and journalist behind Threads Radio’s [Biodegradable Soundsystem](https://www.mixcloud.com/ThreadsRadio/playlists/biodegradable-soundsystem/) show (which explores the connection between written and sonic communication through the lens of rave microclimates). Prepare yourself for inspiration and BANGERS (all spotifyable tracks are gathered [here](https://open.spotify.com/playlist/18haTk5lpysoRkxECKu78L)). Take it away…_**

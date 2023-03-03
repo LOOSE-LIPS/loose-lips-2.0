@@ -14,8 +14,7 @@ description: >-
   universe to emote about music along a shared theme, back when this was still
   [...]Read More...
 published: true
-tags:
-  - post
+tags: deep-cuts
 featured: false
 ---
 ![image](../imported/dead-inside-but-its-ok/image1240.jpeg)_**Welcome to edition nine of Deep Cuts! At this point our monthly feature is starting to mould into a real fucking thing, like really real. But back when this idea, the thought of gathering lost souls from across the Loose Lips universe to emote about music along a shared theme, back when this was still fresh, Julia Star gave it life. Completely misunderstanding my request, she went through the set of starter themes I had come up with and answered every single one. With this in mind, I asked her to suggest her own theme, and provide a starter article using only images (inspired by her fantastic, indistinguishable Instagram stories). This is the result, with the prompt question: 'What music connects with your integral issues?'**_ _**Last month's theme was Connection, so if you want some groovey beats and stories of unity, that's your ticket. If you wanna get DEEP, then scroll on. As always, tracks from each contribution are gathered in this month's Deep Cuts mix embedded below, the mix's tracklist is at the end of the article, all Spotify-able tracks are in**_ [_**this playlist here**_](https://open.spotify.com/playlist/4fHI8A6ix1vAUw1UggW0rX?si=pI8urgfZQv237GJcgvhJHA) _**and the illustration comes from [Trav](https://www.backdownwarchild.co.uk/). Last month's theme was**_ [_**Connection**_](http://loose-lips.co.uk/blog/connection)_**.**__**We hope you enjoy it, and of course love yourselves x**_

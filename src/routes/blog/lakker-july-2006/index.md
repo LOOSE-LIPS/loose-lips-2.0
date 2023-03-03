@@ -14,8 +14,7 @@ description: >-
   retrospective EP, aimed at collecting their old material into three
   consecutive releases. Make sure to check them out! [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/lakker-july-2006/image1169.jpeg)A hectic Breakstep number with a totally cheeky vibe, from the vaults!Although from 2006, Lakker (as _Lakker Rave System_, then) is already showing signs of their signature sound and arrangements. This is excerpt from the 2nd retrospective EP, aimed at collecting their old material into three consecutive releases. Make sure to check them out!From [Lakker](https://lakker.wordpress.com/)'s _Rave System Demos 2 – System Breaks \[2005 – 2006\]_ EP.Out soon on digital – [](https://lakker.bandcamp.com/)[https://lakker.bandcamp.com](https://lakker.bandcamp.com/)  

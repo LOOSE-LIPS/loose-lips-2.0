@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/orsonrecordshttps://soundcloud.com/benpesthttps://soundcloud.com/transparent-sound
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../undefined)[Transparent Sound](https://www.discogs.com/artist/20784-Transparent-Sound) are delivering a highly euphoric, climaxical rendition of Best Pest's original Electro Acid number.From [Ben Pest](https://benpest.bandcamp.com/)'s _Vim & Vigor_ EP on [Orson Records](https://orsonrecords.bandcamp.com/).Out soon on 12" and digital – Pre-order: [](https://www.juno.co.uk/products/ben-pest-vim-vigour-ep/785108-01/)[https://www.juno.co.uk/products/ben-pest-vim-vigour-ep/785108-01/](https://www.juno.co.uk/products/ben-pest-vim-vigour-ep/785108-01/)[https://soundcloud.com/orsonrecords](https://soundcloud.com/orsonrecords)  

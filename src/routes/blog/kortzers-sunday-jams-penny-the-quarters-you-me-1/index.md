@@ -13,8 +13,7 @@ description: >-
   the heights they were destined for and were never signed. The tracks were
   found when Clem [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../undefined)This week I've chosen a piece of music that I can only describe as beautiful. Penny & The Quarters are a much unknown group, having recorded some demo tracks in the 1970's including this one. The group never reached the heights they were destined for and were never signed. The tracks were found when Clem Price, studio owner, passed away in the mid 00s. Ultimately the tracks they recorded including this one got the fame they deserve in recent years being featured in films & adverts. You & Me is a truly moving, yet warming track, and suits a Sunday down to the ground.

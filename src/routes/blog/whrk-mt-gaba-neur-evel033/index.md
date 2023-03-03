@@ -14,8 +14,7 @@ description: >-
   https://evel.bandcamp.com/album/tensafoam
   https://soundcloud.com/evelrdcshttps://soundcloud.com/whrikk [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/whrk-mt-gaba-neur-evel033/image1206.jpeg)A masterful gitch-o-matic braindance track, sliding through DSP spams under a cosy romantic blanket and surrounded by bots on acid.From [Whrk](https://whrikk.bandcamp.com/)'s _Tensafoam_ EP on [Evel Records](https://evel.bandcamp.com/).Out now on digital – Order: [](https://evel.bandcamp.com/album/tensafoam)[https://evel.bandcamp.com/album/tensafoam](https://evel.bandcamp.com/album/tensafoam)[https://soundcloud.com/evelrdcs](https://soundcloud.com/evelrdcs)  

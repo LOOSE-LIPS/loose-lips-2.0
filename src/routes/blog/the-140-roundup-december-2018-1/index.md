@@ -14,8 +14,7 @@ description: >-
   end of 2018 was no different, with a relentless assault of some of the biggest
   players in 140BPM [...]Read More...
 published: true
-tags:
-  - post
+tags: monthly-feature
 featured: false
 ---
 ![image](../imported/the-140-roundup-december-2018-1/image728.jpeg)December is always a special month in the ecosystem of music, with the album front suddenly getting quieter following a few months of frenzy and labels sorting some of their highest-profile releases before the holiday season. The end of 2018 was no different, with a relentless assault of some of the biggest players in 140BPM music offering releases, making for a  month of intense movement – unavoidable drama within the dubstep scene contributed to the picture as well. The whole panorama does not come down to these matters though, as December was also home to quality releases from trailblazing labels and up-and-coming artists: a few days into the new year, I’ll try to make sense of it all summing up some of the most interesting tracks, EPs and compilations released in the past few weeks.![](/wp-content/uploads/live/img/wysiwyg/5c37ae8c576cc.jpg)

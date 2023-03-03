@@ -15,8 +15,7 @@ description: >-
   international artists partaking in this release. With many of the tracks
   [...]Read More...
 published: true
-tags:
-  - post
+tags: review
 featured: false
 ---
 ![image](../imported/vedana-records-va-conexoes-vol-1/image980.jpeg)One of South America’s most exciting labels – [Vedana Records](https://www.beatport.com/label/vedana-records/61635) returns with yet another stellar V.A. compilation. Founded in Santos in 2016 by Carolina Valdrighi, Rafael Aires, Rogério Soares and Thomas Moreira, they have grown into a global phenomenon – with a myriad of international artists partaking in this release.With many of the tracks from its predecessor _(Brasólia V.A)_ already featured on my [label’s](https://www.facebook.com/microminimal) show on [_Threads Radio_](https://threadsradio.com/)  

@@ -14,8 +14,7 @@ description: >-
   listening to music and bobbing heads at DJ sets is like a dream in soft focus.
   Headz bobbing [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/nanas-sunday-jams-frosted-perspeks-foreign-beggars/image1228.jpeg) _Banner a_rtwork by the majestic [Trav](https://www.backdownwarchild.co.uk/)__Yes Yes Yes Sunday Jammers. Hotness in the bloody city, love that life is making a comeback albeit with a makeover. Hearing tales from friends who are having socially distanced fun, listening to music and bobbing heads at DJ sets is like a dream in soft focus. Headz bobbing is the inspiration this week.I have been thinking about artist led independent music labels. These are the labels that come into being because of something lacking in the landscape, creating a route for their own music or a desire to remould ideas about artist development. Some have stayed the course and others fold, the rhyme and reasons vary from ability to adapt, luck, necessity, bankruptcy and so on, but whatever the distance marker they passed most of them leave an imprint.The imprint here was made by Dented Records, home to UK Hip Hop outfit Foreign Beggars. Sadly the label is no longer, but its distribution catalogue reads like a love letter of sorts to the UK Hip Hop scene of the 00s. The label was born out of necessity and a hunger to be heard and it was a case of learning on the job. The process of pressing a record, who would sell them, how to create a platform using different channels such as radio, guerrilla marketing tactics that involved stickering any available space. Their efforts were greeted positively by specialised retailers, larger distributors and attracted the attentions of other artists. Dented Records went on to distribute music by _Dubdledge, Ed Skrein, Medison, Speakers Corner, Stig of the Dump,_  

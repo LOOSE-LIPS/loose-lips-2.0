@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/constantcircles
   https://soundcloud.com/algorythm-official [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/algorythm-popeye-cc034/image817.jpeg)Raving in the middle of a field of arpeggiated wonders with [Algorythm](https://www.residentadvisor.net/dj/algorythm)!From _Spirals Vol. 7_ V/A compilation on [Constant Circles](http://www.constantcircles.com/).Out 24.05 on digital – Pre-order: [](https://fanlink.to/cc034)[https://fanlink.to/cc034](https://fanlink.to/cc034)[](https://soundcloud.com/constantcircles)[https://soundcloud.com/constantcircles](https://soundcloud.com/constantcircles)[](https://soundcloud.com/algorythm-official)[https://soundcloud.com/algorythm-official](https://soundcloud.com/algorythm-official)

@@ -14,8 +14,7 @@ description: >-
   even warmer when a brass section comes in near the end! From ScanOne&#39;s
   BRAEK EP on Yellow Machines. Out now on 12&quot; and [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/scanone-lux-ym017/image1163.jpeg)ScanOne's explorations of the deep and jazzy side of Drum n Bass, within a definite Noir/Cyberpunk world.  

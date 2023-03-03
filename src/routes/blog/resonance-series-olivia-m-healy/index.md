@@ -15,8 +15,7 @@ description: >-
   each other. For this edition we introduce you to Olivia Healy&#39;s dieties,
   [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/resonance-series-olivia-m-healy/image1164.jpeg)_Welcome to this installment of the 'Resonance Series' – curated by Jasper Golding._ _This feature, running every other Tuesday, introduces you to musical individuals through the art forms they engage in, telling a personal story of their creative output and how different mediums influence each other.__For this edition we introduce you to Olivia Healy's dieties, celebrations of queer culture and the music scenes that go hand-in hand with it._ 

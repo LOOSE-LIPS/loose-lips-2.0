@@ -13,8 +13,7 @@ description: >-
   early next year with a single coming towards the back-end of 2020 &#8211; a
   special collaboration with an incredible new [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../undefined)We have a mysterious and corrupted tune for you with today’s premiere.The next few months are going to be full of [Charlie Boy Manson](https://www.facebook.com/charlieboymansonswms/)’s story-telling. His, and Loose Lips’, first vinyl release is dropping early next year with a single coming towards the back-end of 2020 – a special collaboration with an incredible new cinematically-inspired label called CINEMA100 and producer, Parallel Action.Today we have a track from an alternative project of his to share with you, in the lead-up to that. CBM24 teams up with [Luke Leadbelly](https://www.discogs.com/artist/6304367-Luke-Leadbelly) for an intricate and pleasantly-noisy bass extravaganza, over which impeccable yet dystopian lyrics flow like lava pouring down an erupting volcano.Keep your ears and eyes locked for more news on Charlie Boy Manson’s output later this year!From _Day 0_ V/A album on New-York based [P.S. 4080](https://ps4080.bandcamp.com/).Out now on digital – [https://ps4080.bandcamp.com/album/day-0](https://ps4080.bandcamp.com/album/day-0)[https://soundcloud.com/ps4080](https://soundcloud.com/ps4080)  

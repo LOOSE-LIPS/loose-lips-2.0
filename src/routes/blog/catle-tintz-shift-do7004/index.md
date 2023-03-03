@@ -13,8 +13,7 @@ description: >-
   on digital &#8211; https://dee-oh-7.bandcamp.com/album/shift .
   https://soundcloud.com/cazzztle [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../undefined)Flowing over CA$TLE's dark and moody production, Tintz raps with composure about real life struggles, hard work and constant hustling.From [CA$TLE](https://soundcloud.com/cazzztle) & Tintz's _Shift_ single on Bristol-based [Dee Oh 7](https://dee-oh-7.bandcamp.com).Out now on digital – [https://dee-oh-7.bandcamp.com/album/shift](https://dee-oh-7.bandcamp.com/album/shift) .[https://soundcloud.com/cazzztle](https://soundcloud.com/cazzztle)

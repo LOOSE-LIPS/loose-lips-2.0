@@ -14,8 +14,7 @@ description: >-
   non-malicious virus?No one knows. All we know for now are its releases on
   various labels such as Dionysian Mysteries, LOST [...]Read More...
 published: true
-tags:
-  - post
+tags: picks
 featured: false
 ---
 ![image](../imported/wade-watts-10-retro-games-with-actual-great-music/image1399.jpeg)Who, or maybe should we say 'what', is Wade Watts?  

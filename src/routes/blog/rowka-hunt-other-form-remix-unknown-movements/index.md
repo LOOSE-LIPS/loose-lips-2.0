@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/unknown-movementshttps://soundcloud.com/rowka-2https://soundcloud.com/otherform
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/rowka-hunt-other-form-remix-unknown-movements/image1078.jpeg)[Unknown Movements](https://unknownmovements.com/) label boss [Other Form](https://soundcloud.com/otherform) on remix duties for [Rowka](https://soundcloud.com/rowka-2) with a stomping, grooved out Techno number!From Rowka's _Scansion_ EP on [Unknown Movements](https://unknownmovements.bandcamp.com).Out 24.04 on digital – Pre-order: [](https://unknownmovements.bandcamp.com/album/scansion-ep)[https://unknownmovements.bandcamp.com/album/scansion-ep](https://unknownmovements.bandcamp.com/album/scansion-ep)[https://soundcloud.com/unknown-movements](https://soundcloud.com/unknown-movements)  

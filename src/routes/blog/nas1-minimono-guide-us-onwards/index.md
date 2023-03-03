@@ -13,8 +13,7 @@ description: >-
   vaccine, shoveling down vegan mcmuffins at the midpoint of a 72 hour bender
   this time 4 months from now? Who knows. I&rsquo;m [...]Read More...
 published: true
-tags:
-  - post
+tags: picks
 featured: false
 ---
 ![image](../undefined)**_What’s up sugarpuffs. It’s your conductor speaking. The seas are shifting under our feet, bubbling and bursting like the positive lasagne of matter, problematic but potentially delicious. Will we all be dosed with vaccine, shoveling down vegan mcmuffins at the midpoint of a 72 hour bender this time 4 months from now? Who knows. I’m one for big dramatic dreams me, and today my dreamcast is guided by the calm, steady hands of Italian bros, bros whose beats stretch from Tuscany to Bologna, selector xxXtraordinaires Nas1 and duo Minimono (5 tracks each, one after eachother). Saddle up buttercup, the vibes are on their way. (All Spotifyable tunes gathered [here](https://open.spotify.com/playlist/7lxaXKFnrfvwDHz94YcXrq?si=nJ0fQF4-TTOkkjHBTCcrGQ))_**  

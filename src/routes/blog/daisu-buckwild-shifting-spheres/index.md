@@ -14,8 +14,7 @@ description: >-
   focus.It&#39;s easy to get immersed into it and lose track of time, as you
   start paying attention [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/daisu-buckwild-shifting-spheres/image1204.jpeg)_Buckwild_ is hard to pin down; it's a stripped down number, that'd qualify as Dubstep but it's as if Minimal Techno had eaten a few edibles and its legs started wobbling while surrounding sounds drift in and out of focus.  

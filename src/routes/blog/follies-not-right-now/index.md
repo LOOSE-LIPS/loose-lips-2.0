@@ -16,8 +16,7 @@ description: >-
   Right Now&quot; (Official Music Video) from Deirdre Beck on Vimeo.
   https://soundcloud.com/folliesmusic Follies [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/follies-not-right-now/image844.jpeg)Spoken words gently floating over [Follies](https://folliesfollies.bandcamp.com)' pulsating Jazzy arrangement, visually augmented by the movements of dancer [IJ Chan](https://kairosdancetheater.wordpress.com/about/dancers/) in a rainbow of neons lights in this video by [Deirdre Beck](https://vimeo.com/deirdreebeck).From Follies' _Interloper_ EP_._Out now on digital – Order: [](https://folliesfollies.bandcamp.com/album/interloper)[https://folliesfollies.bandcamp.com/album/interloper](https://folliesfollies.bandcamp.com/album/interloper)[Follies – "Not Right Now" (Official Music Video)](https://vimeo.com/338942399) from [Deirdre Beck](https://vimeo.com/deirdreebeck) on [Vimeo](https://vimeo.com).[https://soundcloud.com/folliesmusic](https://soundcloud.com/folliesmusic)Follies is the folk-gone-electronic project of music producer, Kate Siefker.  

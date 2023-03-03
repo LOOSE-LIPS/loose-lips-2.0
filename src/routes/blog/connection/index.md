@@ -15,8 +15,7 @@ description: >-
   quarantine, but there&#39;s a gorgeous synchronicity there.&nbsp; As always,
   tracks from [...]Read More...
 published: true
-tags:
-  - post
+tags: deep-cuts
 featured: false
 ---
 ![image](../imported/connection/image1208.jpeg)**_Welcome to our eighth monthly Deep Cuts article. EIGHT. The theme is Connection, its prompt question was 'what music represents someone / some group you want to stay connected to?'_**_**. As with last month's theme**_ [_**Bitter Sweet**_](http://loose-lips.co.uk/blog/bitter-sweet)_**, we've been working on this since long before quarantine, but there's a gorgeous synchronicity there.**_ **_As always, tracks from each contribution are gathered in this month's Deep Cuts mix (mixed this month by the Sugar Glider), embedded below, the mix's tracklist is at the end of the article, all the Spotify-able tracks are gathered_** [**_in this playlist here_**](https://open.spotify.com/playlist/3sm0jSXjhwvblif8kC8zvD?si=ezy6Qw5WQIKtCMvk71lJgQ)**_,_** **_and t_**_**he illustration comes from**_ **[_Trav_](https://www.backdownwarchild.co.uk/)**_**.**_ _**Massive shout-out to all the contributors, much love, enjoy x**_

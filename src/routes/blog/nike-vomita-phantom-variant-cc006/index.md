@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/concrete-collage https://soundcloud.com/nike_vomita
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/nike-vomita-phantom-variant-cc006/image736.jpeg)Sliding, waving, shifting, evaporating, getting through walls and electronics.  

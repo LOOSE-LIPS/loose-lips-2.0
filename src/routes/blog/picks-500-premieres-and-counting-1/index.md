@@ -14,8 +14,7 @@ description: >-
   too soon with a legacy of amazing music to dig into. You can read more about
   [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-500-premieres-and-counting-1/image1248.jpeg)_We love nothing more than bringing the crew together at a time of celebration. At the back-end of last week, we celebrated our 500th premiere on Loose Lips with a special one from talented producer_ [_Omori_](https://soundcloud.com/stoyan-yovchev-omori) _who has left us way too soon with a legacy of amazing music to dig into. You can read more about it_ _[here](http://loose-lips.co.uk/blog/death-grips-guillotine-omori-remix-index-tapes)._It's been an absolute pleasure to connect with so many inspirational labels and artists via this nutty selection of tracks. There really is a bit of everything in there and we encourage you to listen to [the whole 500](https://soundcloud.com/loose-lips123/sets/loose-lips-premieres-2) non-stop without sleeping. We asked the Loose Lips crew to do exactly that and pick their favourites from the whole bunch.**Blain:** **Bluematter – Real (LORELTD004) /** [**more info**](http://loose-lips.co.uk/blog/dnb-fix-007-bluematter-real-loreltd004)"The reason I’ve picked Bluematter ‘Real” for our 500th premiere piece is plain and simple; it has seriously alluring drums and a savage, raw bassline. Oh yeah, it was also our first premiere over on the dnb fix series."

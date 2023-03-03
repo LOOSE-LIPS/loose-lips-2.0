@@ -14,8 +14,7 @@ description: >-
   such as grime and dubstep. The problem with this approach was that many of
   these artists aren&rsquo;t [...]Read More...
 published: true
-tags:
-  - post
+tags: monthly-feature
 featured: false
 ---
 ![image](../imported/the-bpm-continuum-october-2019/image919.jpeg)This new feature continues from a series of articles I published from October 2018 to April 2019 – The 140 Roundup. Back then I was exploring producers who were working fluidly in between styles of 140BPM bass music, such as grime and dubstep. The problem with this approach was that many of these artists aren’t only producing at 140BPM but many different styles & pitches. 

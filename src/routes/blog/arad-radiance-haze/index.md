@@ -14,8 +14,7 @@ description: >-
   exploration of persona: physically and virtually. Through ARAD, Smith is
   allowing his many-tendriled mind to investigate [...]Read More...
 published: true
-tags:
-  - post
+tags: release-review
 featured: false
 ---
 ![image](../imported/arad-radiance-haze/image1139.jpeg)[VOITAX](https://soundcloud.com/voitax "VOITAX") · [VOI 020 Arad | Radiance Haze (Snippets)](https://soundcloud.com/voitax/sets/voi-020-arad-radiance-haze-snippets "VOI 020 Arad | Radiance Haze (Snippets)")

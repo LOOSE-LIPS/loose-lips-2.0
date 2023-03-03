@@ -14,8 +14,7 @@ description: >-
   a womxn + non binary collective named Shifting Spheres, organising DJ
   workshops in Manchester to promote inclusivity, [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-roos-halcyon-days/image1236.jpeg)_Hello and welcome! This week's picks comes from Roo, a writer and editor with the cheek to co-found a top quality blog whose name comes dangerously close to sounding cooler than 'loose lips'; [Halcyon Wax](https://www.halcyonwax.com/)! She also runs a womxn + non binary collective named Shifting Spheres, organising DJ workshops in Manchester to promote inclusivity, whose first [compilation](https://shiftingspheres.bandcamp.com/releases?fbclid=IwAR1CWkIPXeoka1vvDnB0Z2CCES8cRWH438X9fS7v7uiTwlhjIsgPHXAD6jE) contains absolute heaters from Deep Cuts writers Lauryn and Jazzi Bobbi, essential listening. Aside from this she's also a riproaring DJ with a particular taste for rich transcendent grooves and experience supporting everyone from Carista to Special Request, take it away…._

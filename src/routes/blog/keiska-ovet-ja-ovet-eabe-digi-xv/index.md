@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/eabemusichttps://soundcloud.com/keiska [...]Read
   More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/keiska-ovet-ja-ovet-eabe-digi-xv/image1286.jpeg)A mantra-like piece from Finnish producer [Keiska](https://keiska.bandcamp.com/).From _EABE Ambient Compilation I_ on [EABE](https://eabe.bandcamp.com/).Out now on digital – [https://eabe.bandcamp.com/album/eabe-ambient-compilation-i](https://eabe.bandcamp.com/album/eabe-ambient-compilation-i)[https://soundcloud.com/eabemusic](https://soundcloud.com/eabemusic)  

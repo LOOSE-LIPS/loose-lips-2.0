@@ -9,8 +9,7 @@ banner:
   - imported/reach-magic-number-303-with-mat-satin/image1312.jpeg
 description: "If &lsquo;303&rsquo; resonates with you, then we probably don&rsquo;t need to reveal the story behind this number..\L But we will. \L\LThe Roland TB-303 bass line was released in the early 80&rsquo;s as an accompaniment to the Roland TR-606 drum machine, marketed as bass player replacement. After its flop, it found its way through to becoming [...]Read More..."
 published: true
-tags:
-  - post
+tags: mix-series
 featured: false
 ---
 ![image](../imported/reach-magic-number-303-with-mat-satin/image1312.jpeg)If ‘303’ resonates with you, then we probably don’t need to reveal the story behind this number.. But we will.   The Roland TB-303 bass line was released in the early 80’s as an accompaniment to the Roland TR-606 drum machine, marketed as bass player replacement. After its flop, it found its way through to becoming a cheap second hand synth for producers on a budget, whom included the likes of Chris Carter in the UK (of Throbbing Gristle fame) and infamous Chicago house music duo, Phuture. It became soon clear to them that the potential of this little grey box was beyond what it was designed for… ![](/wp-content/uploads/live/img/wysiwyg/5fa2c1c32ba25.jpg)Whilst Christ Carter’s approach was more subtle, producers like Phuture’s DJ Pierre and Herb Jackson used the looping, squelchy sounds over pulsating House beats, giving the genre a new psychedelic and visceral twist.The TB-303 is today more than a synthesiser – it is an iconic machine representing a whole cultural movement which has been cloned by many companies aiming at reproducing its original sound.We could never be thankful enough for such a bad marketing move from Roland!It was therefore inevitable to have this edition of our Mix Series dedicated to the sound of the 303, but not  

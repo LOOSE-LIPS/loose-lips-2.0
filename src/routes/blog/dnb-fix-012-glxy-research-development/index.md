@@ -13,8 +13,7 @@ description: >-
   planning to drop their debut album, my initial thoughts were &ndash;
   &lsquo;Wait, how have GLXY not released an album [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../undefined)_After what seems like a millennium of quality output from GLXY already, last week saw the highly anticipated release of their debut album ‘Research & Development’ on Shogun Audio._Upon hearing the news that GLXY were planning to drop their debut album, my initial thoughts were – ‘Wait, how have GLXY not released an album yet?’. A quick search of my Rekordbox shows that I own a lot of GLXY productions – singles, remixes and EP’s but no albums. I’ve been through the same thought process with other artists that have taken the decision to wait until they’re truly ready to release a full album and it reminded me just how much time and energy is required to put together a meaningful debut LP.

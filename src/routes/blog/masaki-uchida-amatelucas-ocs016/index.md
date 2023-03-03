@@ -16,8 +16,7 @@ description: >-
   https://soundcloud.com/ourcircularsoundhttps://soundcloud.com/masaki-2
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/masaki-uchida-amatelucas-ocs016/image1141.jpeg)Masaki Uchida drives us into a world of light and darkness, silence and noise. A perfectly balanced, yet powerful track, that keeps the listener's attention until the end. From Masaki Uchida's _Amatelucas_ EP on [Our Circular Sound](https://ourcircularsound.bandcamp.com/).Out 29.05 on 12" and digital – Pre-order: [](https://ourcircularsound.bandcamp.com/album/amatelucas)[https://ourcircularsound.bandcamp.com/album/amatelucas](https://ourcircularsound.bandcamp.com/album/amatelucas)[](https://soundcloud.com/ourcircularsound)[https://soundcloud.com/ourcircularsound](https://soundcloud.com/ourcircularsound)  

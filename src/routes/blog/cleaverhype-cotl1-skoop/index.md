@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/skoopskoop http://www.soundcloud.com/cleaverhype
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/cleaverhype-cotl1-skoop/image982.jpeg)AKA Children Of The Lie 1; a hard hitting, anthemic Grime instrumental in the 8-bar tradition!From [Cleaverhype](https://cleaverhype.bandcamp.com/)'s _COTL_ EP on [SKOOP](https://skoop.bandcamp.com/).Out 13.12 on digital – Check for more at [](https://skoop.bandcamp.com/)[https://skoop.bandcamp.com](https://skoop.bandcamp.com/)[](https://soundcloud.com/skoopskoop)[https://soundcloud.com/skoopskoop](https://soundcloud.com/skoopskoop)[http://www.soundcloud.com/cleaverhype](http://www.soundcloud.com/cleaverhype)

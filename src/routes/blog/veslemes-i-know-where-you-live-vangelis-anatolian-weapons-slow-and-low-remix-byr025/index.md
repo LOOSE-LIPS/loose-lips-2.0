@@ -19,8 +19,7 @@ description: >-
   https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis
   https://soundcloud.com/byrdouthttps://soundcloud.com/felizol [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/veslemes-i-know-where-you-live-vangelis-anatolian-weapons-slow-and-low-remix-byr025/image1207.jpeg)Athen-based producer [Anatolian Weapons](https://anatolianweapons.bandcamp.com/) on remix duties here, distillating the original into a slow, gritty and corrosive acid dub piece.  From [Veslemes](https://felizol.bandcamp.com/)' _Know Where You Live Vangelis!_ EP on [Byrd Out](https://byrdout.com/).Out 24.07.2020 on limited cassette and digital – Pre-order: [](https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis)[https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis](https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis)[](https://soundcloud.com/byrdout)[https://soundcloud.com/byrdout](https://soundcloud.com/byrdout)  

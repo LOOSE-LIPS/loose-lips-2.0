@@ -14,8 +14,7 @@ description: >-
   curating an art exhibition entitled &lsquo;Square Format: A Celebration of Art
   Contributions to Modern Day Club Culture&rsquo;. It aims [...]Read More...
 published: true
-tags:
-  - post
+tags: interview
 featured: false
 ---
 ![image](../imported/artsclub/image927.jpeg)After another successful Loose Lips day party in aid of the mental health charity, Headway East London, we decided to catch up with artsclub and chat about the exhibition, which is summarised below: 

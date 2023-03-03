@@ -14,8 +14,7 @@ description: >-
   While all 12&quot; have sold out already on the Balkan Vinyl Bandcamp, 100
   more [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/posthuman-saturnium-acid-ila021/image1174.jpeg)A lush Acid track! Opening a 3-tracker of slow, sweet and fizzy Acid House, signalling as well the return of Posthuman on their own I Love Acid imprint!From [Posthuman](https://posthuman.bandcamp.com/)'s _I_ _Love Acid 19_ EP on [Balkan Vinyl / I Love Acid](https://balkanvinyl.bandcamp.com/).While all 12" have sold out already on the [Balkan Vinyl Bandcamp](https://balkanvinyl.bandcamp.com/album/ila021), 100 more copies will hit the shelves from Monday 22.06! A choice made in support to the record stores, as Joshu from Posthuman/ILA mentioned:  

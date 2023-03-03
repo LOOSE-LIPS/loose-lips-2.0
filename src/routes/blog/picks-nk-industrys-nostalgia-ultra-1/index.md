@@ -15,8 +15,7 @@ description: >-
   flows and flourishes of lightheartedness raise his debut single&nbsp;Somehow,
   taken from [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-nk-industrys-nostalgia-ultra-1/image1185.jpeg)_NK INDUSTRY is a multidisciplinary recording artist based in North London. After years of delivering his signature high-octane performances in and around the capital, the Balamii and Threads-affiliated vocalist bided time and honed in on his technical and songwriting abilities. Hard hitting lyricism, rapid flows and flourishes of lightheartedness raise his debut single_ _Somehow, taken from his forthcoming EP ATLAS vol I, a sound that is versatile, striking and unapologetically honest. It also fuckin bangs. Presenting a playlist of beats and lyrics that ooze nostalgia, here he is! \[All tracks mentioned except the Frank Ocean mixtape cut are gathered in [this playlist](https://open.spotify.com/playlist/0ijG5XIzAXwJY9OzYmGwpv?si=Xp00cESXRH-RnGjVEWL9zw)__\]_

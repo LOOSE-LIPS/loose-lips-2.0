@@ -14,8 +14,7 @@ description: >-
   there are numerous ways in which this can be done. Music massively influences
   visual art, and vice [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/resonance-series-2-sarahsson-1/image1092.jpeg)_Welcome to the next installment of the 'Resonance Series' – a new feature, curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.__Music massively influences visual art, and vice versa. This feature, running every other Tuesday, introduces you to musical individuals through the other art forms they engage in, telling a personal story of their creative output and how different mediums influence each other._

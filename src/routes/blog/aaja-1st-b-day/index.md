@@ -14,8 +14,7 @@ description: >-
   wicked staff and a wicked sound system. It seemed fitting to host [...]Read
   More...
 published: true
-tags:
-  - post
+tags: interview
 featured: false
 ---
 ![image](../imported/aaja-1st-b-day/image930.jpeg)**Why did you choose MOT for the venue?**

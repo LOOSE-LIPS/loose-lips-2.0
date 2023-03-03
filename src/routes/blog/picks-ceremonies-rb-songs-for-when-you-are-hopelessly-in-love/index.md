@@ -15,8 +15,7 @@ description: >-
   shortages in the 60s, not unlike the UK&rsquo;s postwar windrush) and
   amusements when Drake samples the same Peverelist track that [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../undefined)As Canada’s largest and most diverse city, Toronto has a lot of cultural crossovers with London, resulting in accusations that Drake has nicked London slang (Toronto encouraged Jamaican migration due to factors such as nurse shortages in the 60s, not unlike the UK’s postwar windrush) and [amusements](https://www.factmag.com/2017/07/24/drake-teases-new-music-samples-peverelist-roll-with-punches/) when Drake samples the same Peverelist track that shook us all up a decade ago. Yes I just referenced Drake whilst introducing a Toronto DJ, I’m sorry everyone, BUT there’s a link, as Ceremonies’ sets show off an appreciation and response to the sounds shaking the UK in the present day, such as this [fiery blast of techno](https://soundcloud.com/ceremoniesdj/opening-set-for-mord-records-5yr-tour-bas-mooy-uvb-20180929) featuring Peverelist, Hodge & Randomer, which she recommends for ‘home rinsing, home raving, a good ear cleaning’. Today she offers a look into the flip side of her record collection, enjoy…**Nothing Even Matters – Lauryn Hill ft. D’Angelo**Honestly this list could probably be 100% D’angelo and Ms. Lauryn and it wouldn’t even be a lie, but for starters: this iconic collab from Lauryn Hill’s 1998 debut album. Equal parts tender and dreamy with unbelievable vibrato from two vocal legends.

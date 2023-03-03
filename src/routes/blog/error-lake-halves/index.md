@@ -15,8 +15,7 @@ description: >-
   https://errorlake.bandcamp.com/album/windshield-halves
   https://soundcloud.com/error_lake [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/error-lake-halves/image1398.jpeg)A piece that evokes being on a shore, far away, floating above the ground with hazey waves of bliss flowing over your cheeks, cradled by error lake's smooth, crooning voice.From [error lake](https://errorlake.bandcamp.com)'s _windshield / halves_ EP.Out now on digital – [https://errorlake.bandcamp.com/album/windshield-halves](https://errorlake.bandcamp.com/album/windshield-halves)[https://soundcloud.com/error\_lake](https://soundcloud.com/error_lake)

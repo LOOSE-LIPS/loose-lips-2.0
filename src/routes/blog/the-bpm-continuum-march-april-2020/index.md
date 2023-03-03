@@ -14,8 +14,7 @@ description: >-
   to write a feature on forward-thinking electronic music and the way bass music
   moves and not mention [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/the-bpm-continuum-march-april-2020/image1137.jpeg)As much as I’d love not to start with the obligatory topic that the entire world’s been focusing on in the past two months, I’m compelled to by the effects on our ecosystem. It just wouldn’t be right to write a feature on forward-thinking electronic music and the way bass music moves and not mention the effects of worldwide lockdowns on these scenes. The economic and social impact of the Covid-19 crisis, with the actual risk of industry-scale collapse, has already been much discussed. The implications are even wider though – with the lack of events, club music in general has lost its primary point – the point that gives it it’s name and, often, it’s purpose. This rings particularly true in the case of bass music: productions are frequently designed in the functional aim to sound efficient on a club system. What happens to the music when you lose this context?

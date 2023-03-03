@@ -12,8 +12,7 @@ description: >-
   https://traxhaven.bandcamp.com/album/council-trax-ep
   https://soundcloud.com/traxhaven160 [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../undefined)UK Bass infused Juke banger from Rascal & Lucid!From _Council Trax_ V/A EP on [Trax Haven](https://traxhaven.bandcamp.com/).Out now on digital – Order: [](https://traxhaven.bandcamp.com/album/council-trax-ep)[https://traxhaven.bandcamp.com/album/council-trax-ep](https://traxhaven.bandcamp.com/album/council-trax-ep)[https://soundcloud.com/traxhaven160](https://soundcloud.com/traxhaven160)

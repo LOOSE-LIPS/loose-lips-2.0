@@ -15,8 +15,7 @@ description: >-
   interpretations of the theme,&nbsp;the contributions which are not related
   [...]Read More...
 published: true
-tags:
-  - post
+tags: deep-cuts
 featured: false
 ---
 ![image](../imported/bitter-sweet/image1173.jpeg)[](https://www.tobiaslichtmann.de/)**_Welcome to our seventh monthly Deep Cuts article. The theme is Bitter Sweet, its prompt question was 'what music makes darkness digestible (or even tasty)?'_**_**. It's worth mentioning that most of the contributions were written over a month ago (some are even pre-Covid), hence the varied interpretations of the theme,**_ _**the contributions which are not related to**_ _**the largest civil rights protest of all time,**_ _**the horrors that motivated it, or the astonishing black musicians who continue to push culture forward, just as they have in all the years since they invented the genres of music that make life sweet.**_ **_As always, tracks from each contribution are gathered in this month's Deep Cuts mix, embedded below, the mix's tracklist is at the end of the article, all the Spotify-able tracks are gathered chronologically in_** [**_this playlist_**](https://open.spotify.com/playlist/211SC3gTmsLDoRpQlTjhEb?si=JE5BlxPWTW6h6OZZADnRNw)**_, and t_**_**he illustration comes from**_ **[_Trav_](https://www.backdownwarchild.co.uk/)**_**. Last month's theme was**_ [_**Blind Sided**_](http://loose-lips.co.uk/blog/blind-sided)_**.**__**Stay safe, look after yourselves and enjoy x**_

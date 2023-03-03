@@ -13,8 +13,7 @@ description: >-
   Pre-order: https://djdifferent.bandcamp.com/album/visions
   https://soundcloud.com/adifferentdj [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/dj-different-flash/image824.jpeg)A fresh vision of New Jack and RnB, beamed out from a nostalgia that has yet to happen.From [DJ DIFFERENT](https://www.residentadvisor.net/dj/djdifferent)'s _Vision_ album.Out 30.07 on digital – Pre-order: [](https://djdifferent.bandcamp.com/album/visions)[https://djdifferent.bandcamp.com/album/visions](https://djdifferent.bandcamp.com/album/visions)[](https://soundcloud.com/adifferentdj)[https://soundcloud.com/adifferentdj](https://soundcloud.com/adifferentdj)

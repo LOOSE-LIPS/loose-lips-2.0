@@ -17,8 +17,7 @@ description: >-
   barrage of furloughed photos we are now accustomed to.&nbsp; Following the
   outbreak of COVID-19 Sweden didn&rsquo;t [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/record-store-days-the-last-men-standing-at-music-lovers-gothenburg/image1138.jpeg)Anders Björnsson picks up the phone and explains he’s just about to open for the day. The thought of someone standing behind a counter ready to chat shop and sounds with customers is a welcome break from the constant barrage of furloughed photos we are now accustomed to. Following the outbreak of COVID-19 Sweden didn’t issue a direct instruction to close all but essential businesses and services. The polar opposite to so many countries, this means Music Lovers Records, in the country’s second city of Gothenburg, is likely one of few physical record shops still open in Western Europe. From the outside looking in, life appears to continue as per, but reality tells a different story. “Economically it would be better to close down and take another job,” Björnsson says when we broach the dreaded subject. “But I don’t want to do that. If the situation continues for the rest of the year, then maybe it could be a problem for me. Because I have the rent, and bills. You know, I need to earn money.” 

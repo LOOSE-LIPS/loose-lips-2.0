@@ -14,8 +14,7 @@ description: >-
   the introspective B side &quot;I Don&rsquo;t Know What The Future
   Brings&quot;. Born in 2002; the Critical sound has been [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-039-kasra-let-it-slide/image1349.jpeg)_All rise for King Kasra, the man that gifted Critical Records to the world. This week's DnB Fix features another treat from the pioneering boss himself. With his latest release "Let It Slide" featuring Slay; and the introspective B side "I Don’t Know What The Future Brings"._Born in 2002; the Critical sound has been growing within the underground drum & bass scene through the years, with their influence in 2020 being stronger than ever. The label has pioneered and paved the way for many of the artists we know and love today, with Kasra gaining royalty status along the way.His first release on Critical was a two-track release with Stray, one of Critical’s finest products. Since then, a Kasra cameo has been something of a rare treat, collaborating with various critical top boys from time to time until 2018 when we were blessed with his first full solo release, Ski Mask EP.The first lockdown of 2020 has left a lot of people with spare time on their hands, Kasra included. Coming out of the other side, he cleared his Instagram account, uploaded a single post announcing that the start of a new phase in his career as a producer was here; with a new two track release "Let It Slide/I Don’t Know What The Future Brings." being the first proof he's here to conquer.

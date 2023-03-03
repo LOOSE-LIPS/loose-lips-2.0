@@ -14,8 +14,7 @@ description: >-
   https://unsustainable.bandcamp.com/album/digital-is-dead-long-live-digital
   https://soundcloud.com/withheld-uk [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/withheld-vco-unsustainable/image1100.jpeg)A funky ride along an arpeggiated bassline!From Withheld's _Digital Is Dead, Long Live Digital_ EP on [Unsustainable](https://unsustainable.bandcamp.com/).Out 7.05 on digital – Pre-order: [](https://unsustainable.bandcamp.com/)[](https://unsustainable.bandcamp.com/album/digital-is-dead-long-live-digital)[https://unsustainable.bandcamp.com/album/digital-is-dead-long-live-digital](https://unsustainable.bandcamp.com/album/digital-is-dead-long-live-digital)[https://soundcloud.com/withheld-uk](https://soundcloud.com/withheld-uk)

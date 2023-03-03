@@ -15,8 +15,7 @@ description: >-
   contribution are gathered in the mix below (whizzed together by Deep [...]Read
   More...
 published: true
-tags:
-  - post
+tags: deep-cuts
 featured: false
 ---
 ![image](../imported/old-school/image1022.jpeg)**_Deep Cuts is a new multi-writer article format from Loose Lips. Members of our sprawling community are asked to share music and experiences along a shared theme._** _**This month’s theme is Old School. Its prompt question: ‘What music sounds cool?'**_**_Songs from each writer’s contribution are gathered in the mix below (whizzed together by Deep Cuts' mama Will Soer, live on his Threads radio show). Every song shared (except a few that aren't on Spotify) is gathered in_** [**_this helpful playlist_**](https://open.spotify.com/playlist/2C40iQM8LOLKtRGeo8sYOI?si=nRWuGfGLR3mkBv0lvm2rtw)**_. You can also check last month's article, 'City Hues',_** [**_here_**](http://loose-lips.co.uk/blog/city-hues)**_._** **Julia Star**I was introduced to Bahamadia by a wealthy white man and its weird. I got flewed out to Australia and ended up catching feelings for the guy. After I left he sent me a USB stick filled of 90s hip hop like Naughty By Nature and LL Cool J and so I discovered Bahamadia. I heard the song Spontaneity \[0:41 in the mix\] and really fell in love with it. I just felt like those guys were really amazing writers, since then my music and the way I write songs started getting closer and closer to hip-hop.  

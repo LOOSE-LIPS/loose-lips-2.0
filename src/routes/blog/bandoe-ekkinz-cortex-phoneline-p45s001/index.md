@@ -13,8 +13,7 @@ description: >-
   https://soundcloud.com/pfortyfivehttps://soundcloud.com/ekkinz [...]Read
   More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../undefined)Bad bwoi Breakstep!From Bandoe, Ekkinz & Cortex's _Phoneline / XS_ EP on [P45 Sound](https://p45sound.bandcamp.com/). Out now on digital – Order: [](https://p45sound.bandcamp.com/releases)[https://p45sound.bandcamp.com/releases](https://p45sound.bandcamp.com/releases)[](https://soundcloud.com/pfortyfive)[https://soundcloud.com/pfortyfive](https://soundcloud.com/pfortyfive)  

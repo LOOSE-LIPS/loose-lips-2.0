@@ -12,11 +12,13 @@
 <div class="mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5">
   <!-- <a data-sveltekit:prefetch href={`../blog/${post.slug}`} class="w-full"> -->
   <div class="flex flex-col md:flex-row justify-between">
-    <img
-      src={`../../static/${post.banner}`}
-      alt=""
-      style="height: 12em; width:100%;"
-    />
+    {#if post.banner}
+      <img
+        src={`../../static/${post.banner}`}
+        alt=""
+        style="height: 12em; width:100%;"
+      />
+    {/if}
   </div>
 
   <h3

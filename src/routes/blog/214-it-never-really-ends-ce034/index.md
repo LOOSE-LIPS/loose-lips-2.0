@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/cultivated-electronicshttps://soundcloud.com/214_electro
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/214-it-never-really-ends-ce034/image1035.jpeg)Extra slick Electro that has everything you need for an ass shaking session!From [214](https://www.residentadvisor.net/dj/214)'s _Si View_ EP on [Cultivated Electronics](https://www.residentadvisor.net/record-label.aspx?id=3746).02.03.2020 on 12" and digital – Pre-order: [](https://clone.nl/item59294.html)[https://clone.nl/item59294.html](https://clone.nl/item59294.html)[](https://soundcloud.com/cultivated-electronics)[https://soundcloud.com/cultivated-electronics](https://soundcloud.com/cultivated-electronics)  

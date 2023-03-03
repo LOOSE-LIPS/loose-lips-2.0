@@ -15,8 +15,7 @@ description: >-
   Schefelgelb. After releasing their first album, The Poisoned Chalice, Torn
   Relics gave us a selection of 10 [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/editors-pick-torn-relics-soundtrack-to-your-recurring-dreams/image810.jpeg)For this edition of Editors Pick, Hardy takes us back to memories of summers gone by – in particular, two amazing nights: a Torn Relics gig at Griessmuhle and a Loose Lips event in Manchester which also included Schefelgelb. After releasing their first album, The Poisoned Chalice, Torn Relics gave us a selection of 10 tracks to your recurring dreams…

@@ -14,8 +14,7 @@ description: >-
   his own label, Cooked. Here, each track has its own value, decidedly different
   from the [...]Read More...
 published: true
-tags:
-  - post
+tags: release-review
 featured: false
 ---
 ![image](../imported/yan-cook-counterclockwise-ep/image1059.jpeg)Seldom do I listen to a new EP where all four tracks genuinely tickle my taste buds. Yan Cook’s latest release is one of these rare finds. 

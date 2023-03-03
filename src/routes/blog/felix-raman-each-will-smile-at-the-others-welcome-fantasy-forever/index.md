@@ -17,8 +17,7 @@ description: >-
   Westcoast of Jutland and beyond.A piece of common ground, a collection of
   voices stringed together by friends.A Blooming Event, [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/felix-raman-each-will-smile-at-the-others-welcome-fantasy-forever/image1373.jpeg)Last premiere of the year, ending on a soft, intimate note with this sweet ambient piece by [Felix Raman](https://soundcloud.com/felixraman).From _A Blooming Event_ V/A compilation on [Fantasy Forever](https://fantasyforever.bandcamp.com).A 17 track compilation featuring 18 artists from the Westcoast of Jutland and beyond.  

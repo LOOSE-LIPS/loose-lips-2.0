@@ -17,8 +17,7 @@ description: >-
   https://soundcloud.com/combatrecordings https://soundcloud.com/stormfield
   https://soundcloud.com/nonima [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../undefined)In anticipation of their forthcoming release, Stormfield and Nonima cooked up an edit of this tense, acidified, dreamlike industrial dancefloor number.From Stormfield & Nonima's _Expanse_ EP on [Combat Recordings](http://www.combatrecordings.com/).Out 24.04 on digital – Pre-order: [https://combatrecordings.bandcamp.com/album/expanse-e-p](https://combatrecordings.bandcamp.com/album/expanse-e-p)[https://soundcloud.com/combatrecordings](https://soundcloud.com/combatrecordings)[https://soundcloud.com/stormfield](https://soundcloud.com/stormfield)[https://soundcloud.com/nonima](https://soundcloud.com/nonima)

@@ -14,8 +14,7 @@ description: >-
   alone, so we may get another edition out soon! Matt Hardy &#8211; [...]Read
   More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/what-to-look-forward-to-2019-1/image731.jpeg)As 2018 ends, Loose Lips takes a look forward to the most exciting events to put in your diary for 2019. Although this was originally supposed to be for all of 2019, the crew had too many good suggestions for January and February alone, so we may get another edition out soon!

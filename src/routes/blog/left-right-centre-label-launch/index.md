@@ -14,8 +14,7 @@ description: >-
   Centre&rsquo; on to a new chapter as a record label &#8211; with a 4 track VA
   debut release [...]Read More...
 published: true
-tags:
-  - post
+tags: interview
 featured: false
 ---
 ![image](../imported/left-right-centre-label-launch/image1113.jpeg)_After two years of running mint parties and booking some of the most forward thinking names the UK and beyond has to offer, Manchester based creatives Wakil Ahmed and Connor Cooper take their brand ‘Left Right & Centre’ on to a new chapter as a record label – with a 4 track VA debut release out on May 29th._  ![](/wp-content/uploads/live/img/wysiwyg/5eb7ff2379c7e.png)

@@ -15,8 +15,7 @@ description: >-
   dangerous quantity of genuine fire in the WIP folder. To celebrate, we
   [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-xmtrs-headphone-freakouts/image1090.jpeg)[](https://www.youtube.com/watch?v=Jk-sMpvU8Bo)**_As [hailed](http://loose-lips.co.uk/blog/fantasy-realm)  

@@ -14,8 +14,7 @@ description: >-
   https://gagarin.bandcamp.com/album/the-great-north-wood
   https://soundcloud.com/gagarin-1 [...]Read More...
 published: true
-tags:
-  - post
+tags: free-download
 featured: false
 ---
 ![image](../imported/gagarin-panceat-beanfield-mix-geo-records/image1330.jpeg)An adventure into dubbed out electronica that completes Gagarin's Live Session. Offered to you as a free download!From [Gagarin](https://gagarin.bandcamp.com/)'s _The Great North Wood_ LP on [Geo Records](https://georecords.kudosrecords.co.uk/).Out now on CD and digital – [https://gagarin.bandcamp.com/album/the-great-north-wood](https://gagarin.bandcamp.com/album/the-great-north-wood)[](https://soundcloud.com/gagarin-1)[](https://soundcloud.com/gagarin-1)[https://soundcloud.com/gagarin-1](https://soundcloud.com/gagarin-1)

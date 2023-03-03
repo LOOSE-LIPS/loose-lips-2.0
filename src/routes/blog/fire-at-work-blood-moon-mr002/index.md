@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/monolith-records https://soundcloud.com/fire-at-work
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/fire-at-work-blood-moon-mr002/image766.jpeg)Feet on the ground and head in the moon, flirting with EBM and Electro on the dancefloor until noon.From [Fire at Work](https://www.discogs.com/it/artist/17470-Fire-At-Work)'s _Atomic Spawn_ EP on [Monolith Records](https://www.residentadvisor.net/record-label.aspx?id=11663).Out 06.03 on 12" and digital – Pre-order: [https://monolithrecberlin.bandcamp.com/album/atomic-spawn](https://monolithrecberlin.bandcamp.com/album/atomic-spawn)[https://soundcloud.com/monolith-records](https://soundcloud.com/monolith-records)[https://soundcloud.com/fire-at-work](https://soundcloud.com/fire-at-work)

@@ -14,8 +14,7 @@ description: >-
   not knowing just how much worse things would get, or how much life this
   feature would give me. It&#39;s been [...]Read More...
 published: true
-tags:
-  - post
+tags: deep-cuts
 featured: false
 ---
 ![image](../imported/double-sustenance/image1354.jpeg)_**So here we are, two years after I started gathering Deep Cuts contributions, one year after we published the first multi-writer article '**_[_**Head Space**_](http://loose-lips.co.uk/blog/head-space-loose-lips-inaugural-deep-cuts-feature)_**'. I talked about the upsetting UK election results in this article, not knowing just how much worse things would get, or how much life this feature would give me. It's been mad. I could go on but this month's article really speaks for itself, massive shout out to everyone who has been involved and all the repeat writers, I feel honoured to work with you.**__**This month's theme is Double Sustenance, its prompt question: 'what music satisfies you at a basic sensory level, and also at a deeper, more conscious level (ie it means something to you)?' As always, tracks from each contribution are combined in the mix embedded below, all Spotify-able tracks are gathered in**_ [_**this playlist**_](https://open.spotify.com/playlist/3FEePfHq25DgJ6qmsz58lj?si=2l1NkUmxSDeLTKmaM1PIVg)_**, and the artwork comes from our prodigy**_ [_**Trav**_](https://www.backdownwarchild.co.uk/)_**.**__**Stay safe, love yourselves.**_ _**Will x**_

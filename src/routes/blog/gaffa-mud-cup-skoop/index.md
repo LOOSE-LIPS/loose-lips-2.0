@@ -14,8 +14,7 @@ description: >-
   Check https://skoop.bandcamp.com! https://soundcloud.com/skoopskoop [...]Read
   More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/gaffa-mud-cup-skoop/image1002.jpeg)Debut release from Gaffa on Edinburgh's very own SKOOP!  

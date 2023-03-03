@@ -16,8 +16,7 @@ description: >-
   Andr&eacute; Trindade and his Urubu Tapes are back with another sound/visual
   object. The label&rsquo;s 24th [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/gruth-somnum-exterreri-i-feat-db55-uuu24/image1311.jpeg)_Somnum Exterreri I_ is an unadulterated, twenty minutes descent into dark, dreamlike territories. No haste here, as time doesn't count anymore.From [Gruth](https://gruth.bandcamp.com/)'s _Somnum Exterreri_ LP on [Urubu Tapes](https://urubutapes.bandcamp.com/).Out soon on limited cassette and digital – [https://urubutapes.bandcamp.com/](https://urubutapes.bandcamp.com/)[https://soundcloud.com/gruth](https://soundcloud.com/gruth)  

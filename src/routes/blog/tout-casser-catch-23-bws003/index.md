@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/brainwaves_crew https://soundcloud.com/toutcasser
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/tout-casser-catch-23-bws003/image790.jpeg)Tout Casser's number evokes moments of introspective escapism, while dancing in the middle of an acid rain.From _Caustic Dance_ EP V/A compilation on [Brainwaves](https://brainwavescrew.bandcamp.com).Out 1.04 on 12" and digital – Pre-order: [https://brainwavescrew.bandcamp.com/album/caustic-dance](https://brainwavescrew.bandcamp.com/album/caustic-dance)[https://soundcloud.com/brainwaves\_crew](https://soundcloud.com/brainwaves_crew)[](https://soundcloud.com/toutcasser)[https://soundcloud.com/toutcasser](https://soundcloud.com/toutcasser)

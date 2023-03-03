@@ -15,8 +15,7 @@ description: >-
   dream team on this track. From Swordman Kitala:&nbsp;Remixes EP on Blip Discs.
   Out now [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/swordman-kitala-oflynn-ekhe-heat-flexx-blipbc001/image1188.jpeg)O’Flynn and Ekhe have constructed a formidable, mutant electro, sure-fire hitter built on vocal samples from Swordman Kitala and Tom Blip’s collaborative debut last year. Peppered with new vocal material and unexpected turns, Swordman Kitala, O’Flynn and Ekhe really make a dream team on this track.From _Swordman Kitala:_ _Remixes_ EP on [Blip Discs](https://blipdiscs.bandcamp.com/).Out now on digital – Order: [](https://blipdiscs.bandcamp.com/album/swordman-kitala-remixes)[https://blipdiscs.bandcamp.com/album/swordman-kitala-remixes](https://blipdiscs.bandcamp.com/album/swordman-kitala-remixes)[https://soundcloud.com/blip-discs](https://soundcloud.com/blip-discs)  

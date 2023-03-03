@@ -13,8 +13,7 @@ description: >-
   think this is inherently a bad thing as it is most definitely for the best,
   yet [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../undefined)_'So Strange' – no two words could better describe the current scenario we are all faced with. The whole world has been grounded and it is starting to look like summer 2020 will officially be cancelled; (not that I think this is inherently a bad thing as it is most definitely for the best, yet I'm going to avoid getting into politics…)_Nevertheless, this week's DnB Fix comes from Tim Reaper and Dwarde; their contribution to a 3 part series of compilations put out by London based Lobster Theremin; off the back of the waived fees across Bandcamp last month. The sentiment behind these releases was to help raise money for charity including _Mind_ and _Shelter,_ as well as creating a fund to help contributing artists and the music community.

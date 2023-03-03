@@ -14,8 +14,7 @@ description: >-
   Intelligence are nothing short of a Drum &amp; Bass staple; their tunes have
   graced many a record bag over [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-030-artificial-intelligence-no-choice/image1264.jpeg)_Yep, it’s that time of the week again, and this DnB Fix is a new liquidy one from the legends that are Artificial Intelligence, with their new EP "Signs" on Metalheadz._Hailing from North London, Artificial Intelligence are nothing short of a Drum & Bass staple; their tunes have graced many a record bag over the years, covering the whole spectrum; it’s pretty unsurprising that the duo is back once again, with another seriously good release; this time on Goldie’s Metalheadz imprint.This weeks track in question is “No Choice” and the one collaboration on the EP.  A.I have worked alongside Rotterdam based Satl this time around to create a choral liquid masterpiece.

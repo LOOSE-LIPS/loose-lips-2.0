@@ -14,8 +14,7 @@ description: >-
   he has proven to be one of the genre&rsquo;s most exciting new artists, as
   well as one of the most genuine people [...]Read More...
 published: true
-tags:
-  - post
+tags: interview
 featured: false
 ---
 ![image](../imported/rising-xiorro/image917.jpeg)RISING: XIORROINTERVIEW & REVIEW

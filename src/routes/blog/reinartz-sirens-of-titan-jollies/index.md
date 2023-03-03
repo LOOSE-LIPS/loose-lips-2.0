@@ -15,8 +15,7 @@ description: >-
   https://reinartz.bandcamp.com/album/interactions
   https://soundcloud.com/rreinartz [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/reinartz-sirens-of-titan-jollies/image867.jpeg)Lazers bursting out in the big dark vacuum of space, celestial objects colliding into each other, inter-dimensional beings passing through, … So much is happening in the milky way!From [Reinartz](https://reinartz.bandcamp.com)'s _Interactions_ EP on [Jollies](https://jollies.bandcamp.com/).Out now on cassette and digital – Order: [](https://reinartz.bandcamp.com/album/interactions)[https://reinartz.bandcamp.com/album/interactions](https://reinartz.bandcamp.com/album/interactions)[](https://soundcloud.com/rreinartz)[https://soundcloud.com/rreinartz](https://soundcloud.com/rreinartz)

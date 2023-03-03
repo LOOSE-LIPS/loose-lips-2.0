@@ -50,6 +50,11 @@ for (let i = 1; i < totalPages; i++) {
         } else {
           featured = false;
         }
+
+        const urlForTag = post.link;
+        const extract = urlForTag.split("/")[3];
+        console.log(extract, "extract"); // Output: "release-review"
+
         const data = {
           id: post.id,
           date: transformedDateString,
@@ -60,7 +65,7 @@ for (let i = 1; i < totalPages; i++) {
           banner: images,
           description: post.yoast_head_json.og_description,
           published: true,
-          tags: ["post"],
+          tags: extract,
           featured: featured,
         };
 

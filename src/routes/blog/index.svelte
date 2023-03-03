@@ -14,6 +14,7 @@
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import BlogPost from "$components/blog-post/BlogPost.svelte";
+  import Button from "$shared/ui/components/button/Button.svelte";
   import TagsContainer from "$shared/components/tags-container/TagsContainer.svelte";
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
@@ -31,26 +32,27 @@
     searchUrl: "/blog",
   };
 
-  const mostRecentBlogs: IBlog[] = blogs
-    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .slice(0, 150);
+  const tags = blogs
+    .map((x) => x.tags)
+    .reduce((a, b) => (a.includes(b) ? a : [...a, b]), []);
+  console.log(tags);
 
+  let visible = blogs;
   let searchValue = "";
-  $: filteredBlogPosts = blogs
-    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .filter((blog) =>
-      blog.title.toLowerCase().includes(searchValue.toLowerCase())
-    );
+  let selectedTags = [];
 
-  let listWithDuplicatetags: string[] = [];
-
-  // blogs.forEach((blog) => {
-  //   listWithDuplicatetags =
-  //     listWithDuplicatetags.length === 0
-  //       ? [...blog.tags]
-  //       : [...listWithDuplicatetags, ...blog.tags];
-  // });
-  // $: tags = [...new Set(listWithDuplicatetags)];
+  const handleTagClick = (tag) => {
+    if (selectedTags.includes(tag)) {
+      selectedTags = selectedTags.filter((x) => x !== tag);
+    } else {
+      selectedTags = [...selectedTags, tag];
+    }
+    visible = blogs.filter((x) => {
+      if (selectedTags.length === 0) return true;
+      return selectedTags.includes(x.tags);
+    });
+  };
+  console.log("test");
 </script>
 
 <HeadTags {metaData} />
@@ -66,29 +68,8 @@
     blog posts. From in-depth album reviews and artist interviews to the latest
     industry news and concert coverage, our team of passionate music enthusiasts
     bring you the best of the music scene.
-    <!-- There are {blogs.length} articles on this site. Use
-		<a sveltekit:prefetch href="/tags" aria-label="tags" class="text-blue-500 hover:text-blue-700 transition"
-			>tags</a
-		>
-		to get articles based on different tags. Use the search below to filter by title. -->
   </p>
-  <!-- <div class="flex flex-row flex-wrap w-full mt-4 items-center">
-    {#each tags as tag, index (tag)}
-      <a
-        data-sveltekit:prefetch
-        href={`/tags/${convertToSlug(tag)}`}
-        aria-label={tag}
-        class="text-xl font-bold text-black-400 text-black dark:text-white hover:text-white dark:hover:text-white"
-      >
-        {tag.toUpperCase()}
-      </a>
-      {#if index !== tags.length - 1}
-        <p class="mr-2 ml-2 text-black dark:text-white">
-          {` • `}
-        </p>
-      {/if}
-    {/each}
-  </div> -->
+
   <div class="relative w-full mb-4">
     <input
       bind:value={searchValue}
@@ -114,35 +95,31 @@
     <!-- <TagsContainer {tags} /> -->
   </div>
 
-  {#if !searchValue}
-    <h2
-      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
-    >
-      Most Recent
-    </h2>
-    <div
-      class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5"
-    >
-      {#each mostRecentBlogs as blog}
-        <BlogPost {blog} />
-      {/each}
-    </div>
-  {:else}
-    <h2
-      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
-    >
-      All Posts
-    </h2>
-    {#if filteredBlogPosts.length === 0}
-      <p class="text-gray-600 dark:text-gray-400 mb-4">No posts found.</p>
-    {:else}
-      <div
-        class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5"
-      >
-        {#each filteredBlogPosts as blog}
-          <BlogPost {blog} />
-        {/each}
-      </div>
-    {/if}
-  {/if}
+  <h2
+    class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
+  >
+    Most Recent
+  </h2>
+  <div class="flex flex-row flex-wrap w-full mt-4 items-center">
+    {#each tags as tag, index (tag)}
+      <Button
+        {tag}
+        onClick={() => handleTagClick(tag)}
+        active={selectedTags.includes(tag)}
+      />
+      {#if index !== tags.length - 1}
+        <p class="mr-2 ml-2 text-black dark:text-white">
+          {` • `}
+        </p>
+      {/if}
+    {/each}
+  </div>
+
+  <div
+    class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5"
+  >
+    {#each visible as blog}
+      <BlogPost {blog} />
+    {/each}
+  </div>
 </div>

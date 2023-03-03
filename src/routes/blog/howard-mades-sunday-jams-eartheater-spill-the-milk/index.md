@@ -13,8 +13,7 @@ description: >-
   this trappy yet atmospheric, soul-stirring track produced by Tony Seltzer can
   absolutely kip at ours. [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/howard-mades-sunday-jams-eartheater-spill-the-milk/image1095.jpeg)I'm obsessed, shouts to Lucy Bonner for gettin me onto her. This Queens -based artist is just ticking allllllll the boxes for me, she's so dreamy; this trappy yet atmospheric, soul-stirring track produced by Tony Seltzer can absolutely kip at ours.

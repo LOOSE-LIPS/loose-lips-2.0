@@ -14,8 +14,7 @@ description: >-
   of such a type of track that doesn&#39;t take itself seriously and can easily
   put a [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/speed-gonzales-rave-theory-unsustainable/image1031.jpeg)In a world far appart from the Berlin-minded, poker faced and over-serious Techno, there lies a kingdom where chipmunk vocals co-exist with ravey stabs in a fluo world, echoing the euphoria from 1992. _Rave Theory_ is a fine example of such a type of track that doesn't take itself seriously and can easily put a smile on your face!From Speed Gonzales' 2-tracker EP on [Unsustainable](https://unsustainable.bandcamp.com).Out 11.03.2020 on digital – [](https://unsustainable.bandcamp.com/)[https://unsustainable.bandcamp.com](https://unsustainable.bandcamp.com/)

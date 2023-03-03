@@ -15,8 +15,7 @@ description: >-
   listening to a maturing artist that has evolved and morphed throughout his
   career, expanding [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/treeces-rap-up-future-high-off-life/image1135.jpeg)‘Lord forgive me, for I been on a rampage.’

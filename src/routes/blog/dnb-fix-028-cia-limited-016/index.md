@@ -14,8 +14,7 @@ description: >-
   is a serious security threat to your ears. Side A is ironically named
   &lsquo;Lightweight&rsquo;. Don&rsquo;t be [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/dnb-fix-028-cia-limited-016/image1244.jpeg)_Total Science's Bristol Based imprint; CIA, are back once again with the ill behaviour. CIA Limited 016 is a heavy release featuring 2 massive tunes updated into 2 raucous remixes. Be Warned; this 2 track cut of pure rollage, is a serious security threat to your ears._Side A is ironically named ‘Lightweight’. Don’t be fooled, this is only for the hardcore. What happens when you take an existing Drum & Bass anthem and get Break on the remix? The bomb that is ‘Lightweight’. It’s littered with Total Science samples, and stays pretty faithful to the original, though albeit with added madness. With rising tension from the offset, you can’t help feel excited knowing what the track is leading up to (come on, it’s TS & Break); a drop weightier than a black hole. Stabs, Growls, Hoovers, it’s all there in a frantic hypnotic swirl that makes this addictive roller seriously stand out for any bass head.

@@ -14,8 +14,7 @@ description: >-
   are numerous ways in which this can be done. Music massively influences visual
   art, and vice versa. [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/resonance-series-7-helena-goddard/image1186.jpeg)_Welcome to this edition of  the 'Resonance' Series – a new feature, curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done.__Music massively influences visual art, and vice versa. This feature, running every other Tuesday, introduces you to musical individuals via their visual art first, telling a personal story of their creative output and how different mediums influence each other._**Whether it’s photographing the juxtaposed architecture of singapore or depicting the harmonies of beautifully designed interiors, Helena’s work absorbs the beauty of the world, internal and external with an elegant hyperreality. Helena makes the world her home and knows how to explore a city, building deep relationships with fellow creatives. Most recently she has been pursuing her drawing and tattooing in Berlin.** 

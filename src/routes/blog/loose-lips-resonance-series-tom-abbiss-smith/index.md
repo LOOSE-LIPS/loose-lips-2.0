@@ -14,8 +14,7 @@ description: >-
   shrine to his chilled-out work, his stand showed a bounty of patterned
   dopeness. Tom [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/loose-lips-resonance-series-tom-abbiss-smith/image1143.jpeg)The deep cuts of Tom abbiss smith’s paper works first caught my eye at the d&ad new blood convention in 2018. He was manning a stand there which displayed his smoothed out homages to nature and idyllic forms. A kind of shrine to his chilled-out work, his stand showed a bounty of patterned dopeness.

@@ -13,8 +13,7 @@ description: >-
   &#8211; Order: https://honestelectronics.bandcamp.com/album/pockets-ep-he13
   https://soundcloud.com/honest-electronics [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/krimson-vial-shadowe-he13/image888.jpeg)Light and darkness playing games in this deep Electronica number. From Krimson Vial's _Pockets_ EP on [Honest Electronics](https://honestelectronics.bandcamp.com/).Out now on digital – Order: [](https://honestelectronics.bandcamp.com/album/pockets-ep-he13)[https://honestelectronics.bandcamp.com/album/pockets-ep-he13](https://honestelectronics.bandcamp.com/album/pockets-ep-he13)[https://soundcloud.com/honest-electronics](https://soundcloud.com/honest-electronics)

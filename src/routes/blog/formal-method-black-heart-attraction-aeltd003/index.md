@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/formalmethodtechnohttps://soundcloud.com/audioexit
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/formal-method-black-heart-attraction-aeltd003/image1267.jpeg)A spanky EBM piece!From [Formal Method](https://formalmethodtechno.bandcamp.com/)'s _Artificial Desire_ EP on [Audioexit](http://www.audioexit.com/).Out now on 7" – Order: [https://audioexitrecords.bandcamp.com/album/aeltd003-artificial-desire](https://audioexitrecords.bandcamp.com/album/aeltd003-artificial-desire)[https://soundcloud.com/formalmethodtechno](https://soundcloud.com/formalmethodtechno)  

@@ -14,8 +14,7 @@ description: >-
   https://soundcloud.com/crooked-lidz https://soundcloud.com/purpleman7
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../undefined)A late night drive behind curtains, augmented by enveloping vocals.From Purpleman & Jess Aspinwall's _Shade_ EP on [Crooked Lidz](https://soundcloud.com/crooked-lidz).Out early March on digital – Pre-order: [](https://crookedlidz.bandcamp.com/album/shade-ep-cl010)[https://crookedlidz.bandcamp.com/album/shade-ep-cl010](https://crookedlidz.bandcamp.com/album/shade-ep-cl010)[](https://soundcloud.com/crooked-lidz)[https://soundcloud.com/crooked-lidz](https://soundcloud.com/crooked-lidz)[](https://soundcloud.com/purpleman7)[https://soundcloud.com/purpleman7](https://soundcloud.com/purpleman7)

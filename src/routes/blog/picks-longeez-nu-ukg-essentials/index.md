@@ -14,8 +14,7 @@ description: >-
   functioning ears and feet. Well praise the lord, we have the Bristol UKG fiend
   and 1020 Radio studio hand [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-longeez-nu-ukg-essentials/image1219.jpeg)**_Why do people make music that isn’t UKG? The perfect musical genre exists and yet musicians keep on making Folk, Tech-House, Opera, it’s like they just don’t know, which would make no sense for anyone with functioning ears and feet. Well praise the lord, we have the Bristol UKG fiend and 1020 Radio studio hand [Longeez](https://www.instagram.com/longeez_/) here to present some of the Nuuukg bangers that he plays out on his 1020 [Radio show](https://www.mixcloud.com/1020Radio/capri-swung-w-longeez-2nd-july-2020/), (check out his debut release below). No customary Spotify playlist this week because the cuts are too damn rare, step up selecta!_** 

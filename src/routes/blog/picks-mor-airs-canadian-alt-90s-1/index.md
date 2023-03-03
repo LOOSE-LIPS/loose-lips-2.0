@@ -13,8 +13,7 @@ description: >-
   and serotonin that we had planned to use up at festivals, and so it only makes
   sense that we invite the Canadian ambient sensei Mor Air [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/picks-mor-airs-canadian-alt-90s-1/image1270.jpeg)**_The sun is receding, gradually we look out into the sky to see the last furls of summer curling up and away. Our heads are fuzzy with emotional confusion and serotonin that we had planned to use up at festivals, and so it only makes sense that we invite the Canadian ambient sensei Mor Air to take the aux cable, to give us a soundtrack for this bizarre but sometimes pretty state of mind, all tracks are gathered in this Spotify_** [**_playlist_**](https://open.spotify.com/playlist/1ja6E1phg56Jo8bSmsp3pa?si=B5JtdhSQQCupykvr33LDCQ)**_. (tune into his new album below instead if you wanna get reeeeeally chill)_**

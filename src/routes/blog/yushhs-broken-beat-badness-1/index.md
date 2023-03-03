@@ -15,8 +15,7 @@ description: >-
   corrected the spelling, we&rsquo;re sorry.) Enjoy! Tom Blip &amp; [...]Read
   More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../imported/yushhs-broken-beat-badness-1/image937.jpeg)**Ahead of her set at Loose Lips’ 5th anniversary night in Bristol, we asked local donnie Yushh to share some of the lush, hater-hushing sonic badassery that characterises her sets. The Pressure Dome labelhead did not disappoint, sharing a slew of ‘Broken beat badddnessss’ (yes we corrected the spelling, we’re sorry.) Enjoy!****Tom Blip & Swordman Kitala – Kitala Beat**One of my fave releases this year so far, such a good tune for switching up the vibe. Weighty vocals, bass driven beat, UK – Uganda connect, can’t go wrong. 

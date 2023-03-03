@@ -14,8 +14,7 @@ description: >-
   artists around Europe who look to connect people through techno. The first
   release is a compilation that presents [...]Read More...
 published: true
-tags:
-  - post
+tags: release-review
 featured: false
 ---
 ![image](../imported/europe-vol-1-compilation-from-aurora/image1085.jpeg)  

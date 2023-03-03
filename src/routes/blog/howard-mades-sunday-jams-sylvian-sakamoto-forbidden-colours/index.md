@@ -15,8 +15,7 @@ description: >-
   the track was reissued with David Sylvian singing lyrics.&nbsp; Sorry this is
   [...]Read More...
 published: true
-tags:
-  - post
+tags: feature
 featured: false
 ---
 ![image](../undefined)Such a beautiful piece, I only found it 2 days ago and tears did flow.Its instrumental composed by Ryuichi Sakamoto is from a war film with David Bowie called Merry Christmas Mr Lawrence, I havent seen it but I intend too. Then the track was reissued with David Sylvian singing lyrics. Sorry this is all I can write today, morale is low, but I do implore you all to listen to this track, very much a Sunday song.

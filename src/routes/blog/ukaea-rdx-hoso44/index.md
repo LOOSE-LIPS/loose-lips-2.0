@@ -16,8 +16,7 @@ description: >-
   &#8211;&nbsp;https://hominidsounds.bandcamp.com/album/energy-is-forever
   [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/ukaea-rdx-hoso44/image1327.jpeg)A concentrate of rave energy blended with mahraganat-style sonic assault!From UKAEA's _Energy is Forever_ LP on [Hominid Sounds](https://hominidsounds.bandcamp.com).  

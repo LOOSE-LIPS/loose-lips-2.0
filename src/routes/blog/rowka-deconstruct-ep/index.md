@@ -14,8 +14,7 @@ description: >-
   remixes. Miles Murgett, the Manchester-based producer has kept his nose to
   [...]Read More...
 published: true
-tags:
-  - post
+tags: release-review
 featured: false
 ---
 ![image](../imported/rowka-deconstruct-ep/image966.jpeg)While [Rowka](https://soundcloud.com/rowka-2) may not be a name you may be too familiar with, I’d be willing to bet that if you’ve been to any decent techno event in the UK in the last year, you’ll have heard at least one of his productions or remixes. Miles Murgett, the Manchester-based producer has kept his nose to the grindstone over the last few years, working resolutely to create the solid base through which to conceive his fresh brand of techno. Producing since 2013 but only concocting his Rowka identity in 2016, Miles has quietly put his Masters in Sound Production to lucrative effect in 2019.Initially picked up by [JoeFarr](https://soundcloud.com/joefarr_ux) through a highly-coveted remix competition, his propensity for forward-thinking techno was immediately apparent to most, and he was included in a compilation on the Bristolian producer's [User Experience](https://joefarr.bandcamp.com/) label. Fast forward to the present and Rowka recently released his sophomore EP on UX, with a new release already in the works. He also has releases forthcoming on Taro Extra, a Berlin-based label, as well as another one on a French label in the near future. We’ll keep the details vague so as to imbue a more mysterious air around this prolific producer’s machinations. His work has rapidly become highly sought after and the [Deconstruct EP](https://joefarr.bandcamp.com/album/ux011)  

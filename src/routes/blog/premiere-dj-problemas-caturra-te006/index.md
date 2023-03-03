@@ -15,8 +15,7 @@ description: >-
   https://soundcloud.com/tormenta-electrica-records
   https://soundcloud.com/djproblemas [...]Read More...
 published: true
-tags:
-  - post
+tags: premiere
 featured: false
 ---
 ![image](../imported/premiere-dj-problemas-caturra-te006/image914.jpeg)Sub-heavy ritual music, like a dance around a fire whose flames follow the rhythms, which send  
