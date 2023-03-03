@@ -12,7 +12,7 @@
   <div class="w-full  border-gray-100 dark:border-gray-800 h-[50%]">
     <a
       data-sveltekit:prefetch
-      href={`../../routes/markdownfiles/importPosts/${currentPost.slug}`}
+      href={`../../blog/${currentPost.slug}`}
       class="w-full"
     >
       <div class="flex flex-col md:flex-row justify-between">
