@@ -8,10 +8,7 @@ export async function get({
 }: {
   query: URLSearchParams;
 }): Promise<Partial<{ body: IBlog[]; status: number }>> {
-  const modules = import.meta.glob(
-    "../markdownfiles/importEvents/**/index.{md,svx,svelte.md}"
-  );
-
+  const modules = import.meta.glob("./**/index.{md,svx,svelte.md}");
   const postPromises = [];
   const limit = Number(query.get("limit") ?? Infinity);
   const recent = Number(query.get("recent") ?? Infinity);
