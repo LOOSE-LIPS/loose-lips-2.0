@@ -1,7 +1,5 @@
 <script lang="ts">
   import { createEventDispatcher } from "svelte";
-  import Icon from "svelte-awesome";
-  import { faMoon, faSun } from "@fortawesome/free-solid-svg-icons";
   import type { IHeaderNavLink } from "$models/interfaces/iheader-nav-link.interface";
   import { page } from "$app/stores";
   /**
@@ -72,8 +70,7 @@ margin-top: 7%;font-size:1.2em;margin-right:1em"
         class="opacity-100 flex justify-center items-center flex-wrap space-x-2"
         id="menu"
       >
-
-        <!-- <a href="https://soundcloud.com/loose-lips123">
+        <a href="https://soundcloud.com/loose-lips123">
           <ion-icon name="logo-soundcloud" size="large" class="soundcloud" />
         </a>
         <a href="https://www.instagram.com/looselipsevents/?hl=fr">
@@ -85,10 +82,10 @@ margin-top: 7%;font-size:1.2em;margin-right:1em"
         <a href="https://www.youtube.com/channel/UCjGQIIPUXfIi-ahpj79p7jA">
           <ion-icon name="logo-discord" size="large" class="discord" />
         </a>
-       
+
         <a href=" https://looselips123.bandcamp.com/">
           <ion-icon name="logo-discord" size="large" class="discord" />
-        </a> -->
+        </a>
       </div>
     </div>
   </nav>
