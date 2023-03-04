@@ -33,6 +33,14 @@
       path: "/mixes",
       label: "MIXES",
     },
+    {
+      path: "/radio-shows",
+      label: "RADIO-SHOWS",
+    },
+    {
+      path: "/labels",
+      label: "labels",
+    },
   ];
 </script>
 
