@@ -144,7 +144,7 @@
       {readingTimeDuration}
     </p>
   </div> -->
-  <div class="prose dark:prose-dark max-w-none w-full" id="blog-conent">
+  <div class="prose dark:prose-dark max-w-none w-full mt-40" id="blog-conent">
     <slot />
   </div>
 
