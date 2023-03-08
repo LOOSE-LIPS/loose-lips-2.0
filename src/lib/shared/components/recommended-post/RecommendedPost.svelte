@@ -10,11 +10,11 @@
 </script>
 
 <div class="mb-8 w-full border-b border-gray-100 dark:border-gray-800 pb-5">
-  <!-- <a data-sveltekit:prefetch href={`../blog/${post.slug}`} class="w-full"> -->
+  <a data-sveltekit:prefetch href={`../blog/${post.slug}`} class="w-full">
   <div class="flex flex-col md:flex-row justify-between">
     {#if post.banner}
       <img
-        src={`../../static/${post.banner}`}
+        src={`../../${post.banner}`}
         alt=""
         style="height: 12em; width:100%;"
       />
@@ -26,5 +26,5 @@
   >
     {post.title}
   </h3>
-  <!-- </a> -->
+</a>
 </div>
