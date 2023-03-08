@@ -18,6 +18,7 @@
   import MixPost from "$shared/components/mix-post/MixPost.svelte";
   import Button from "$shared/ui/components/button/Button.svelte";
   export let mixData;
+  console.log(mixData);
   /**
    * @type {IMetaTagProperties}
    */
@@ -51,6 +52,7 @@
       return selectedTags.includes(x.tags);
     });
   };
+  console.log(visible);
   console.log("test");
 </script>
 
@@ -88,7 +90,6 @@
     </div>
 
     <!-- <TagsContainer {tags} {visible}/> -->
-
 
     <div class="flex flex-row flex-wrap w-full mt-4 items-center">
       {#each tags as tag, index (tag)}

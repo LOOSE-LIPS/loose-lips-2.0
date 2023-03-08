@@ -7,6 +7,7 @@
    */
 
   export let mixData: IMix;
+  console.log(mixData);
 </script>
 
 <div class="flex-col h-[100%] m-6 ">

@@ -1,0 +1,19 @@
+---
+id: 3841
+date: '2020-04-07'
+title: Loose Lips w/ Ffelt (full show takeover) - 06-Apr-20 - Loose Lips
+type: radio
+slug: loose-lips-w-ffelt-full-show-takeover-06-apr-20
+author: 100
+banner:
+  - imported/loose-lips-w-ffelt-full-show-takeover-06-apr-20/image3841.jpeg
+description: >-
+  Something beautiful for you during lockdown for this week&#8217;s
+  @loose-lips123 show &#8211; Ffelt, an ambient producer based in East London,
+  hailing from Cornwall. Only 1 hour this week&#8230;focus in and melt. This
+  show focuses on the year after moving to London and the changes that this
+  brought on&#8230; Listen live &#8211; www.threadsradio.com [...]Read More...
+published: true
+tags:
+  - radioShow
+---

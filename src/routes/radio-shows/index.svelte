@@ -13,10 +13,14 @@
 
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
-  import type { IBlog } from "$models/interfaces/iblog.interface";
-  import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
 
-  export let radioShows!: IBlog[];
+  import type { IMix } from "$lib/models/interfaces/imix.interface";
+  import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
+  import RadioShowPost from "$shared/components/radioshow-post/RadioShowPost.svelte";
+
+  export let radioShows!: IMix[];
+
+
   /**
    * @type {IMetaTagProperties}
    */
@@ -29,7 +33,9 @@
   };
 
   let searchValue = "";
-  $: filteredRadioShows = radioShows
+
+  $: filteredshowData = radioShows
+
     .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
     .filter((crewMember) =>
       crewMember.title.toLowerCase().includes(searchValue.toLowerCase())
@@ -72,6 +78,12 @@
     <div
       class="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 justify-between gap-5 "
     />
-    <h1 class="text-white">Radio Shows, coming soon....</h1>
+
+    <div class="grid  grid-cols-4 grid-rows-4 justify-between gap-3">
+      {#each filteredshowData as showData}
+        <RadioShowPost {showData} />
+      {/each}
+    </div>
+
   </div>
 </div>

@@ -13,6 +13,8 @@
 
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
+  import LabelPost from "$shared/components/label-post/LabelPost.svelte";
+
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
 
@@ -72,6 +74,12 @@
     <div
       class="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 justify-between gap-5 "
     />
-    <h1 class="text-white">LABELS, coming soon....</h1>
+
+    <div class="grid  grid-cols-4 grid-rows-4 justify-between gap-3">
+      {#each labels as label}
+        <LabelPost {label} />
+      {/each}
+    </div>
+
   </div>
 </div>

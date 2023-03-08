@@ -1,0 +1,20 @@
+---
+id: 3733
+date: '2017-11-03'
+title: >-
+  30/10/17 - Loose Lips w/Ambient Animal, Moritz &amp; BR-Laser (live from
+  Vienna) - Loose Lips
+type: radio
+slug: 30-10-17-loose-lips-w-ambient-animal-moritz-br-laser-live-from-vienna
+author: 100
+banner: []
+description: >-
+  http://loose-lips.co.uk https://www.facebook.com/elbicoatmosferico
+  https://www.facebook.com/MoritzScharfElektronischeMusik
+  https://www.facebook.com/Br-Laser-1424682447796343 199radio Release of the
+  week = https://www.discogs.com/The-Cyclist-Sapa-Inca-Delirium/release/11061266
+  [...]Read More...
+published: true
+tags:
+  - radioShow
+---
