@@ -1,0 +1,18 @@
+---
+id: 3761
+date: '2018-04-25'
+title: Loose Lips Show (199Radio) w/Jah Shabby - 09/04/18 - Loose Lips
+type: radio
+slug: loose-lips-show-199radio-w-jah-shabby-09-04-18
+author: 100
+banner:
+  - imported/loose-lips-show-199radio-w-jah-shabby-09-04-18/image3761.jpeg
+description: >-
+  This week, we welcomed a top journalist, joker and radio host on. Also gave
+  away 2 tickets to Alfresco Festival&#8230; http://loose-lips.co.uk
+  https://www.newriverstudios.com/199radio/listen Release of the week =
+  https://balkanvinyl.bandcamp.com/album/ila017 [...]Read More...
+published: true
+tags:
+  - radioShow
+---

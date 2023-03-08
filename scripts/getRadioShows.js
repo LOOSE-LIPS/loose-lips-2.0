@@ -5,6 +5,7 @@ import https from "https";
 import phin from "phin";
 import path from "path";
 import SoundCloud from "soundcloud-scraper";
+import { get } from "svelte/store";
 const client = new SoundCloud.Client();
 const username = "seedpipdev";
 const password = "ThisIsAPassword";
@@ -14,9 +15,10 @@ const rootDir = process.cwd();
 export async function getsoundCloudData(url) {
   return client
     .getSongInfo(url)
-    .then(console.log)
+    .then((res) => {
+      console.log(res, "res");
+    })
     .then(async (song) => {
-      console.log(song, "song");
       return {
         id: song.id,
         title: song.title,
@@ -50,14 +52,22 @@ for (let i = 1; i < totalPages; i++) {
     .then((response) => response.body)
     .then(async (data) => {
       data.map(async (show) => {
-        if (show.slug) {
-          let url = `https://soundcloud.com/loose-lips123/${show.slug}`;
-          try {
-            await getsoundCloudData(url).then((res) => {
+        const url = `https://soundcloud.com/loose-lips123/${show.slug}`;
+        if (isUrlValid(url)) {
+          await getsoundCloudData(url).then((response) => {
+            console.log(response);
+          });
+          console.log("VALID");
+        } else {
+          console.log("NOT VALID");
+
+          if (show.slug) {
+            await getsoundCloudData(
+              `https://soundcloud.com/loose-lips123/${show.slug}`
+            ).then(async (res) => {
+              console.log(res);
               const tags = res.tags ? res.tags : "";
               const imageData = show?.yoast_head_json?.og_image || [];
-              console.log(tags, "tags");
-              console.log(imageData, "imgdata");
               const imgDirectory = path.join(
                 rootDir,
                 `static/imported/${show.slug}`
@@ -65,13 +75,64 @@ for (let i = 1; i < totalPages; i++) {
               if (!fs.existsSync(imgDirectory)) {
                 fs.mkdirSync(imgDirectory, { recursive: true });
               }
+              const images = await Promise.all(
+                imageData.map((x) => {
+                  const output = path.join(
+                    imgDirectory,
+                    `/image${show.id}.jpeg`
+                  );
+                  return downloadImageTo(x.url, output).then(() =>
+                    path.relative(path.join(rootDir, "static"), output)
+                  );
+                })
+              );
+              const regex = /^(\d{4})-(\d{2})-(\d{2}).*/;
+              const match = regex.exec(show.date);
+              const transformedDateString =
+                match[1] + "-" + match[2] + "-" + match[3];
+              const data = {
+                id: show.id,
+                date: transformedDateString,
+                title: show.yoast_head_json.title,
+                type: show.type,
+                slug: show.slug,
+                author: show.author,
+                banner: images,
+                description: show.yoast_head_json.og_description,
+                published: true,
+                tags: ["radioShow"],
+              };
+              const turndownService = new TurndownService();
+              // const markdownString = turndownService.turndown(mix.content.rendered);
+              const yamlData = yaml.safeDump(data);
+              const folderDirectory = path.join(
+                rootDir,
+                `src/routes/radio-shows/${show.slug}`
+              );
+              if (!fs.existsSync(folderDirectory)) {
+                fs.mkdirSync(folderDirectory, { recursive: true });
+              }
+              console.log(`writing to: ${folderDirectory}`);
+              fs.writeFileSync(
+                path.join(folderDirectory, "index.md"),
+                "---\n" + yamlData.trim() + "\n---\n"
+              ).catch(() => {
+                null;
+              });
             });
-          } catch (error) {
-            console.log("what is this splitting buisness");
           }
         }
       });
     });
+}
+
+async function isUrlValid(url) {
+  try {
+    const response = await fetch(url, { method: "HEAD" });
+    return response.ok;
+  } catch (error) {
+    return false;
+  }
 }
 
 const downloadImageTo = (url, dest) =>
