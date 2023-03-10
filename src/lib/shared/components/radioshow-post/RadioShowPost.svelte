@@ -1,10 +1,8 @@
 <script lang="ts">
   import type { IMix } from "$models/interfaces/imix.interface";
-
   /**
    * @type {IMix}
    */
-
   export let showData: IMix;
   console.log(showData);
 </script>
