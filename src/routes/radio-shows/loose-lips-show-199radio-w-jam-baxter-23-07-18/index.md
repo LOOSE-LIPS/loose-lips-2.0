@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-jam-baxter-230818
 id: 3779
 date: '2018-09-27'
 title: Loose Lips Show (199Radio) w/ Jam Baxter - 23/07/18 - Loose Lips
@@ -15,6 +17,5 @@ description: >-
   https://www.amazon.com/What-Sweeter-Music-Choral-Favourites/dp/B0176Q84NA
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Hip Hop
 ---

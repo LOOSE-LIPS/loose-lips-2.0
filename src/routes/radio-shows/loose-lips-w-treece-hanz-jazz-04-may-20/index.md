@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-treece-hanz-jazz-04-may-20'
 id: 3856
 date: '2020-05-30'
 title: 'Loose Lips w/ Treece, Hanz &amp; JAZZ - 04-May-20 - Loose Lips'
@@ -13,6 +14,5 @@ description: >-
   &#8211; Hanz and JAZZ. https://soundcloud.com/patriceswms Release in focus =
   https://empire.ffm.to/jackboy [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Lush Bass
 ---

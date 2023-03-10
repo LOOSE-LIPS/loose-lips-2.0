@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-yodea-17-feb-20'
 id: 3834
 date: '2020-02-18'
 title: Loose Lips w/ Yodea - 17-Feb-20 - Loose Lips
@@ -16,6 +17,5 @@ description: >-
   https://www.youtube.com/watch?v=kBiMoRM5lfo&#038;list=PLo-CVFFA0DtXbFVErQH0kKHYEvi07sfLK&#038;fbclid=IwAR04ZdWSs7h_T91PPgPUhMsBhk0KHt6P0TsG7gnDmX476JaOQT2oZeeBVeY
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Weatherall
 ---

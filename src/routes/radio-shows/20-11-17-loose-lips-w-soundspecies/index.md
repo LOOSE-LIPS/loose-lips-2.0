@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/199radio/201117-loose-lips-w-soundspecies'
 id: 3737
 date: '2017-11-23'
 title: 20/11/17 - Loose Lips w/Soundspecies - Loose Lips
@@ -16,6 +17,5 @@ description: >-
   www.soundcloud.com/soundspecies www.newriverstudios.com/199radio Release of
   the week = [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronic
 ---

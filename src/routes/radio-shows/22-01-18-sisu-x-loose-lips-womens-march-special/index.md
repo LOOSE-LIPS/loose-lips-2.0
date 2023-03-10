@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/199radio/220118-sisu-x-loose-lips-presents-womens-march'
 id: 3747
 date: '2018-02-01'
 title: 22/01/18 - SISU X Loose Lips - Women's March Special - Loose Lips
@@ -15,6 +16,5 @@ description: >-
   resistance and self-determination. https://www.facebook.com/sisuldn
   http://loose-lips.co.uk 199radio [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Women's March
 ---

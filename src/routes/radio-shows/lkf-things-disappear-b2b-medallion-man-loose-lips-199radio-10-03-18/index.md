@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/lkf-things-disappear-b2b-medallion-man-loose-lips-199radio-100318
 id: 3756
 date: '2018-03-25'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   https://www.facebook.com/medallionmanmusic
   https://www.newriverstudios.com/199radio/listen [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Rave
 ---

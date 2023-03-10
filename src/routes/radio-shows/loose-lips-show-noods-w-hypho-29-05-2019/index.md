@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-noods-w-hypho-29052019'
 id: 3814
 date: '2019-07-10'
 title: Loose Lips Show (Noods)- w/ Hypho - 29/05/2019 - Loose Lips
@@ -13,6 +14,5 @@ description: >-
   latest release on Swamp81. 30 min alter ego mix spanning all things house and
   rave! [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: House
 ---

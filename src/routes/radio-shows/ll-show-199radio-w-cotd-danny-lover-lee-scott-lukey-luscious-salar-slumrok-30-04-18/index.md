@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/ll-show-199radio-w-cotd-danny-lover-lee-scott-lukey-luscious-salar-slumrok-300418
 id: 3765
 date: '2018-05-02'
 title: >-
@@ -19,6 +21,5 @@ description: >-
   https://www.juno.co.uk/products/dokta-london-nights-ep-feat-jason-heath/673609-01/
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Hip Hop
 ---

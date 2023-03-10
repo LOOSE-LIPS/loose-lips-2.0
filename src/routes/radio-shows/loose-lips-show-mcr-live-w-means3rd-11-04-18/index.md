@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-wmeans-3rd-110418'
 id: 3762
 date: '2018-04-25'
 title: Loose Lips Show (MCR Live) w/ Means&amp;3rd - 11/04/18 - Loose Lips
@@ -12,6 +13,5 @@ description: >-
   Bloc Record&#8217;s Means&#038;3rd for a guest mix in the 2nd hour. [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

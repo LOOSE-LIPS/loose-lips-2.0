@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-medallion-man-11-may-20'
 id: 3857
 date: '2020-05-30'
 title: Loose Lips w/ Medallion Man - 11-May-20 - Loose Lips
@@ -14,6 +15,5 @@ description: >-
   numbers. Release in focus = https://boomkat.com/products/life-cycles [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: We Are The Robots
 ---

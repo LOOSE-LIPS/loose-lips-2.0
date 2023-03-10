@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/199radio/111217-loose-lips-wpalindrom'
 id: 3740
 date: '2017-12-14'
 title: 11/12/17 - Loose Lips w/Palindrom - Loose Lips
@@ -12,6 +13,5 @@ description: >-
   https://www.199radio.com Release of the week =
   https://onthecornerrecords.bandcamp.com/album/versus-ii [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Post-rock
 ---

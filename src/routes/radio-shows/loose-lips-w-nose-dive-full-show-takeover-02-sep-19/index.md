@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/loose-lips-nose-dive-cover-show-02-sep-2019
 id: 3854
 date: '2020-04-23'
 title: Loose Lips w/ Nose Dive (full show takeover) - 02-Sep-19 - Loose Lips
@@ -13,6 +15,5 @@ description: >-
   and other settling vibrations. https://www.facebook.com/NoseDivin Listen live
   &#8211; www.threadsradio.com [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronic
 ---

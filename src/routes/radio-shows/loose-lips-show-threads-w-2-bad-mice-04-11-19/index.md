@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-2-bad-mice-041119
 id: 3828
 date: '2019-11-14'
 title: Loose Lips Show (Threads) w/ 2 Bad Mice - 04/11/19 - Loose Lips
@@ -17,6 +19,5 @@ description: >-
   https://morriarchi.bandcamp.com/album/a-lot-of-people-tell-me-i-have-a-fake-guitar
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Hardcore
 ---

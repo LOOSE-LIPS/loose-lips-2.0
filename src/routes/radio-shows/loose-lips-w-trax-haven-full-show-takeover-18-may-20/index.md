@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-trax-haven-full-show-takeover'
 id: 3858
 date: '2020-05-30'
 title: Loose Lips w/ Trax Haven (full show takeover)- 18-May-20 - Loose Lips
@@ -15,6 +16,5 @@ description: >-
   facebook.com/traxhavenmedia soundcloud.com/djjetski instagram.com/michaelowem
   soundcloud.com/airpods160 instagram.com/airpodzuk [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronic
 ---

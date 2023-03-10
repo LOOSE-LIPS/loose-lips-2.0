@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/loose-lips-w-fire-emojione-hundred-emoji-07-oct-19
 id: 3827
 date: '2019-10-09'
 title: Loose Lips w/ Fire Emoji/One Hundred Emoji - 07-Oct-19 - Loose Lips
@@ -15,6 +17,5 @@ description: >-
   https://soundcloud.com/ilian-tape/it042-galaxian-coming-up-for-air [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: BEEF
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-luther-vine-phonica2020vision-14-dec-20
 id: 3877
 date: '2020-12-17'
 title: >-
@@ -17,6 +19,5 @@ description: >-
   providing a platform to some of the most prominent artists in electronic
   music, including Palms Trax, Heidi, Anthea [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: House
 ---

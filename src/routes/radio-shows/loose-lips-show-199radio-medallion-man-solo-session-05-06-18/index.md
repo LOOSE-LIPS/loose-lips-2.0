@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-medallion-man-solo-session-050618
 id: 3772
 date: '2018-06-06'
 title: >-
@@ -17,6 +19,5 @@ description: >-
   https://looselips123.bandcamp.com/album/loose-lips-compilation-album-1
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Eclectic
 ---

@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-impact-driver-21-dec-200'
 id: 3878
 date: '2020-12-22'
 title: Loose Lips w/ Impact Driver - 21-Dec-20 - Loose Lips
@@ -14,6 +15,5 @@ description: >-
   techno. @loose-lips123 Release in focus =
   https://hyperboloidrecords.com/album/iso [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Straws
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-radio-show-threads-301219-w-kozber-b2b-medallion-man
 id: 3812
 date: '2020-02-06'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   the studio for his and Medallion Man&#8217;s first ever b2b session!
   @medallionman @sirius www.threadsradio.com [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Rowdy
 ---

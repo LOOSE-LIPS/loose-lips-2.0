@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-evm128-coop-selectors-assemble-011018
 id: 3790
 date: '2018-10-12'
 title: >-
@@ -17,6 +19,5 @@ description: >-
   https://www.discogs.com/The-Source-Experience-The-Source-Experience/release/22657
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: UK Funky
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/199radio/301017-loose-lips-wambient-animal-moritz-br-laser-live-from-vienna
 id: 3733
 date: '2017-11-03'
 title: >-
@@ -15,6 +17,5 @@ description: >-
   week = https://www.discogs.com/The-Cyclist-Sapa-Inca-Delirium/release/11061266
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

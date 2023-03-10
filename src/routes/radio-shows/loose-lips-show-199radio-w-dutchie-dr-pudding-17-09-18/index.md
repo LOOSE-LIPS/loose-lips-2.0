@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-dutchie-drpudding-170918
 id: 3788
 date: '2018-10-12'
 title: Loose Lips Show (199Radio) w/ Dutchie &amp; Dr.Pudding - 17/09/18 - Loose Lips
@@ -15,6 +17,5 @@ description: >-
   http://199rad.io Release of the week =
   http://blackesteverblack.com/releases/stop-suffering [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Jazz
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/199radio/091017-loose-lips-wjacob-korn-storenfried-moritz-simon-geist
 id: 3731
 date: '2017-10-17'
 title: >-
@@ -12,6 +14,5 @@ description: >-
   http://loose-lips.co.uk https://www.facebook.com/jacobkorn.uv
   http://sonicrobots.com 199radio [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Dresden
 ---

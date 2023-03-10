@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-wwill-soer-deep-cuts-16-mar-20
 id: 3838
 date: '2020-04-05'
 title: >-
@@ -15,6 +17,5 @@ description: >-
   month&#8217;s Deep Cuts mix live in the second hour.This month&#8217;s Deep
   Cuts theme is &#8216;Wordless Tone&#8217;, check [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Indie
 ---

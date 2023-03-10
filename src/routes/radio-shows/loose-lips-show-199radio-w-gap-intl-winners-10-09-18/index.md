@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-gap-intl-winners-100918
 id: 3785
 date: '2018-09-27'
 title: Loose Lips Show (199Radio) w/ Gap (Int'l Winners) - 10/09/18 - Loose Lips
@@ -14,6 +16,5 @@ description: >-
   = https://www.junodownload.com/products/j-shadow-hypnagogia/3861361-02/
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Experimental
 ---

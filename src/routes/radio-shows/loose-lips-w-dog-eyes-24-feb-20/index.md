@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-dog-eyes-24-feb-20'
 id: 3837
 date: '2020-02-28'
 title: Loose Lips w/ Dog Eyes - 24-Feb-20 - Loose Lips
@@ -12,6 +13,5 @@ description: >-
   https://soundcloud.com/indextapes / https://soundcloud.com/francissapphire
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronic
 ---

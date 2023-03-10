@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wemma-shalt-astral-plane-260218
 id: 3750
 date: '2018-02-27'
 title: >-
@@ -13,6 +15,5 @@ description: >-
   https:///www.newriverstudios.com/199radio/listen Release of the week =
   https://www.discogs.com/Richard-Bartz-Subway/release/5862 [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Astral Plane
 ---

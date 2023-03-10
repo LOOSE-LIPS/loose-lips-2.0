@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/199radio/131117-loose-lips-wleonidas'
 id: 3736
 date: '2017-11-21'
 title: 13/11/17 - Loose Lips w/Leonidas - Loose Lips
@@ -13,6 +14,5 @@ description: >-
   https://www.kudosrecords.co.uk/release/bbr012/masaki-uchida-noein.html
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: House
 ---

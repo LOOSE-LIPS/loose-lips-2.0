@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/loose-lips-w-ffelt-full-show-takeover-06-apr-20
 id: 3841
 date: '2020-04-07'
 title: Loose Lips w/ Ffelt (full show takeover) - 06-Apr-20 - Loose Lips
@@ -14,6 +16,5 @@ description: >-
   show focuses on the year after moving to London and the changes that this
   brought on&#8230; Listen live &#8211; www.threadsradio.com [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: ambient
 ---

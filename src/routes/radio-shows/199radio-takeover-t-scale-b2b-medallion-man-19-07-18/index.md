@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/199radio-takeover-t-scale-b2b-medallion-man-190718
 id: 3778
 date: '2018-07-21'
 title: 199Radio Takeover - T-Scale b2b Medallion Man - 19/07/18 - Loose Lips
@@ -12,6 +14,5 @@ description: >-
   (straight off the plane from Macedonia) &#038; Medallion Man smashed off one
   hell of a b2b. @medallionman @jef-t-scale [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: ''
 ---

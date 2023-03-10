@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-mcr-live-w-yant-160119'
 id: 3800
 date: '2019-04-17'
 title: Loose Lips Show (MCR Live) w/ Yant - 16/01/19 - Loose Lips
@@ -11,6 +12,5 @@ description: >-
   http://www.loose-lips.co.uk/radio-shows https://www.facebook.com/yantmusic
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

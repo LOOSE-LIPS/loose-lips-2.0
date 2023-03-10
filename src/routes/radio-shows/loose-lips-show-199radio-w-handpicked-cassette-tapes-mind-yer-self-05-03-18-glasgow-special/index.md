@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-whandpicked-cassette-tapes-mind-yer-self-050318-glasgow-special
 id: 3753
 date: '2018-03-08'
 title: >-
@@ -13,6 +15,5 @@ description: >-
   http://loose-lips.co.uk https://www.facebook.com/hndpckd
   https://www.facebook.com/MYS.Glasgow 199radio [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Beats
 ---

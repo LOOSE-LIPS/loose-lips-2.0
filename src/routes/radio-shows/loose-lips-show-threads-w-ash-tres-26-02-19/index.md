@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-ash-tres-260219'
 id: 3796
 date: '2019-02-26'
 title: Loose Lips Show (Threads) w/ Ash Trés - 26/02/19 - Loose Lips
@@ -14,6 +15,5 @@ description: >-
   https://soundcloud.com/classicalmechanics/sets/count-basis-ep-2020vision
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Bass
 ---

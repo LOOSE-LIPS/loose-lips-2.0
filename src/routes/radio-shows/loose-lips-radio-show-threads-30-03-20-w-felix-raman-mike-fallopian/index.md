@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-wfelix-raman-and-mike-fallopian
 id: 3839
 date: '2020-04-05'
 title: >-
@@ -15,6 +17,5 @@ description: >-
   @felixstock-1 Release in focus =
   https://avonterrorcorps.bandcamp.com/album/avon-garde [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Drum & Bass
 ---

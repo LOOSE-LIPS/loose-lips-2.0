@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wjah-shabby-090418
 id: 3761
 date: '2018-04-25'
 title: Loose Lips Show (199Radio) w/Jah Shabby - 09/04/18 - Loose Lips
@@ -13,6 +15,5 @@ description: >-
   https://www.newriverstudios.com/199radio/listen Release of the week =
   https://balkanvinyl.bandcamp.com/album/ila017 [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: House
 ---

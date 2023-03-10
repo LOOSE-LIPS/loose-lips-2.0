@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-rare-hue-krayma-14-sept-20'
 id: 3866
 date: '2020-09-17'
 title: Loose Lips w/ Rare Hue DJs &amp; Krayma - 14-Sep-20 - Loose Lips
@@ -13,6 +14,5 @@ description: >-
   in 2017. Created through a mutal love of clothes, music and art; they set off
   with a vision [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Live Radio
 ---

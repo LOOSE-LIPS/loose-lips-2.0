@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/loose-lips-w-william-wallace-live-for-love-16-nov-20
 id: 3876
 date: '2020-11-24'
 title: Loose Lips w/ William Wallace (Live For Love) - 16-Nov-20 - Loose Lips
@@ -15,6 +17,5 @@ description: >-
   today that relationship takes its next step &#8211; Loose Lips are joined by
   co-founder [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Fundraising
 ---

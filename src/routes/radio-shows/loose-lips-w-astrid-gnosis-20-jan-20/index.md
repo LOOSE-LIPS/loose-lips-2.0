@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-astrid-gnosis-20-jan-2020'
 id: 3831
 date: '2020-02-06'
 title: Loose Lips w/ Astrid Gnosis - 20-Jan-20 - Loose Lips
@@ -14,6 +15,5 @@ description: >-
   Europe with the hardest sounds and her immersive visual shows to purge us from
   our darkest nightmares. Come witness [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: ''
 ---

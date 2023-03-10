@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/loose-lips-w-dog-eyes-full-show-takeover-08-jun-20
 id: 3860
 date: '2020-06-13'
 title: Loose Lips w/ Dog Eyes (full show takeover) - 08-Jun-20 - Loose Lips
@@ -14,6 +16,5 @@ description: >-
   of a Death Grips classic. Dedicated to Jeorgia. @loose-lips123 @indextapes
   @chalkyyy [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

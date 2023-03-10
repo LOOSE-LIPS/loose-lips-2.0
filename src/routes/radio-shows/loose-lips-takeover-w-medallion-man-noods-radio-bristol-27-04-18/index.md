@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-takeover-w-medallion-man-noods-radio-bristol-270418
 id: 3770
 date: '2018-05-23'
 title: >-
@@ -15,6 +17,5 @@ description: >-
   @medallionman hobbled down to Noods to play one of the quickest radio shows
   we&#8217;ve ever done! [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Eclectic
 ---

@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/rinsefm/looselips291119'
 id: 3830
 date: '2020-02-06'
 title: >-
@@ -17,6 +18,5 @@ description: >-
   returns for their annual Boxing Day party on the 26th December at East
   London&#8217;s XOYO Bringing together some of the freshest [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Rinse FM
 ---

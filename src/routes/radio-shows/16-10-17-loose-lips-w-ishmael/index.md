@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/199radio/161017-loose-lips-wishmael'
 id: 3730
 date: '2017-10-17'
 title: 16/10/17 - Loose Lips w/Ishmael - Loose Lips
@@ -13,6 +14,5 @@ description: >-
   https://soundcloud.com/loose-lips123/sets/ll012-masaki-uchida [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: House
 ---

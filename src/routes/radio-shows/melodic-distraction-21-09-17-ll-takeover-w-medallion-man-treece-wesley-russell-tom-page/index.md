@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/melodic-distraction-210917-ll-takeover-wmedallion-man-treece-wesley-russell-tom-page
 id: 3743
 date: '2017-12-29'
 title: >-
@@ -14,6 +16,5 @@ description: >-
   https://soundcloud.com/patriceswms https://soundcloud.com/wesleyrussellmusic
   https://www.facebook.com/djtompage [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Eclectic
 ---

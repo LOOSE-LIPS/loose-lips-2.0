@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/199radio/271117-loose-lips-wthe-attic-magazine'
 id: 3738
 date: '2017-11-29'
 title: >-
@@ -13,6 +14,5 @@ description: >-
   http://www.darkentriesrecords.com/store/vinyl/group-rhoda-wilderless-lp/
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Coldwave
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/loose-lips-w-alphajaks-full-show-takeover-27-apr-21
 id: 3855
 date: '2020-05-04'
 title: Loose Lips w/ Alphajaks (full show takeover) - 27-Apr-20 - Loose Lips
@@ -11,6 +13,5 @@ description: >-
   An eclectic mix of 140bpm techno with dashes of ebm and trance, from a Loose
   Lips Manchester affiliate. @loose-lips123 @alphajaks [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

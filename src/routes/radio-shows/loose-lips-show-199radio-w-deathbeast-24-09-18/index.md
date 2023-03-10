@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-deathbeast-240918
 id: 3789
 date: '2018-10-12'
 title: Loose Lips Show (199Radio) w/ Deathbeast - 24/09/18 - Loose Lips
@@ -14,6 +16,5 @@ description: >-
   final step of true true initiation&#8230; Release of the week =
   https://defendersofstyle.bandcamp.com/album/dirty-sterling [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Psychedelia
 ---

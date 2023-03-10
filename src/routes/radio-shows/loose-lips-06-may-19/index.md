@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-06-may-19'
 id: 3815
 date: '2019-07-10'
 title: Loose Lips - 06-May-19 - Loose Lips
@@ -12,6 +13,5 @@ description: >-
   beats to bathe the ears. Plus updates on Loose Lips&#8217; goings on.
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

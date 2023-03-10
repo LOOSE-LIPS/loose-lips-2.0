@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wtom-esselle-wholemeal-music-130218
 id: 3751
 date: '2018-03-08'
 title: >-
@@ -15,6 +17,5 @@ description: >-
   Release of the week = https://www.discogs.com/Stave-Fought-ep/release/10468170
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: House
 ---

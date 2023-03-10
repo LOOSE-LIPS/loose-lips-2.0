@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-reform-radio-w-hanz-sonice-180719
 id: 3823
 date: '2019-07-25'
 title: Loose Lips Show (Reform Radio) w/ Hanz &amp; Sonice - 18/07/19 - Loose Lips
@@ -10,6 +12,5 @@ description: >-
   Strange Riddim&#8217;s Hanz &#038; Sonice takeover the Loose Lips Show on
   Reform Radio with an extended session! [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronic
 ---

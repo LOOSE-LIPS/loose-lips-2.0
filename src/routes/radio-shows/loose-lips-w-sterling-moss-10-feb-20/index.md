@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-sterling-moss-10-feb-20'
 id: 3835
 date: '2020-02-19'
 title: Loose Lips w/ Sterling Moss - 10-Feb-20 - Loose Lips
@@ -12,6 +13,5 @@ description: >-
   to be soaked in history, story-telling and banging tunes &#8211; don&#8217;t
   miss it!⁠ ⁠ Listen Live @ www.threadsradio.com [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Wide-ranging
 ---

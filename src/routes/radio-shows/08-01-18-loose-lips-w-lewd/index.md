@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/199radio/080118-loose-lips-wlewd'
 id: 3744
 date: '2018-01-10'
 title: 08/01/18 - Loose Lips w/Lewd - Loose Lips
@@ -12,6 +13,5 @@ description: >-
   Release of the week = https://www.discogs.com/Andrea-Outlines/release/7453558
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Bass
 ---

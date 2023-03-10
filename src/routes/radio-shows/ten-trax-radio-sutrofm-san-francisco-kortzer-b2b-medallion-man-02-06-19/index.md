@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/ten-trax-radio-sutrofm-san-francisco-kortzer-b2b-medallion-man-020619
 id: 3825
 date: '2019-08-01'
 title: >-
@@ -15,6 +17,5 @@ description: >-
   Trax for inviting us to record this when we were touring in the States!
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronic
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-malissa-sisu-170619
 id: 3811
 date: '2019-06-19'
 title: Loose Lips Show (Threads) w/ Malissa (Sisu) - 17/06/19 - Loose Lips
@@ -16,6 +18,5 @@ description: >-
   week = https://www.deejay.de/Rommek_Deadly_Nightshade_LEYLA011_Vinyl__352855
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronic
 ---

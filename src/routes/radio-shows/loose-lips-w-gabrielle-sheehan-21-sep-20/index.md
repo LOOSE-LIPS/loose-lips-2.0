@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-gabrielle-sheehan-21-sep-20'
 id: 3870
 date: '2020-09-29'
 title: Loose Lips w/ Gabrielle Sheehan - 21-Sep-20 - Loose Lips
@@ -13,6 +14,5 @@ description: >-
   and @neutral_territory testing their friendship again! Release in focus =
   https://decisionsnyc.bandcamp.com/album/act-fast [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Rock
 ---

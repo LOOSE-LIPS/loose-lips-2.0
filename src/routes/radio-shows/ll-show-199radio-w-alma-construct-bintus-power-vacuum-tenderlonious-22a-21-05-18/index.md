@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/ll-show-199radio-w-alma-construct-bintus-power-vacuum-tenderlonious-22a-210518
 id: 3768
 date: '2018-05-23'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   http://loose-lips.co.uk/blog/stil-bizzy-tril-bizzy-ep-aristocrats-1 [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: jazz
 ---

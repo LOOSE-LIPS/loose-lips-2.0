@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wkadija-kamara-dan-formless-hoxton-fm-160418
 id: 3763
 date: '2018-04-25'
 title: >-
@@ -14,6 +16,5 @@ description: >-
   https://www.newriverstudios.com/199radio/listen Release of the week =
   https://soulsugar.bandcamp.com/album/chase-the-light [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Alternative Soul
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-malleable-krom-mc-090718
 id: 3776
 date: '2018-07-19'
 title: Loose Lips Show (199Radio) w/ Malleable &amp; Krom MC - 09/07/18 - Loose Lips
@@ -14,6 +16,5 @@ description: >-
   https://www.juno.co.uk/products/bleaching-agent-mulkul-ep-d-56m-remix/686732-01/
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Jungle
 ---

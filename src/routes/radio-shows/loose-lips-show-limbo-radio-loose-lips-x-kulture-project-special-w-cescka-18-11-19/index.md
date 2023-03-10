@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-limbo-radiow-ll-x-kp-18112019
 id: 3850
 date: '2020-04-21'
 title: >-
@@ -17,6 +19,5 @@ description: >-
   @patriceswms https://www.facebook.com/footsoldierx @cescka
   www.loose-lips.co.uk [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Drum & Bass
 ---

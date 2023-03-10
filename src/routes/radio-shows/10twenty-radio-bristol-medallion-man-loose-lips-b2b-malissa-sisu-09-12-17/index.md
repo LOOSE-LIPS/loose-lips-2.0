@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/10twenty-radio-bristol-medallion-man-loose-lips-b2b-malissa-sisu-091217
 id: 3742
 date: '2017-12-28'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   https://www.facebook.com/medallionmanmusic http://loose-lips.co.uk [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: Alternative
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/lost-found-voidance-records-b2b-medallion-man-loose-lips-18-nov-19
 id: 3829
 date: '2020-02-06'
 title: >-
@@ -15,6 +17,5 @@ description: >-
   @medallionman @loose-lips123 @lostandfounddj @voidancerecords [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: Bass
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-joel-kane-unbound-events-280119
 id: 3795
 date: '2019-02-19'
 title: >-
@@ -17,6 +19,5 @@ description: >-
   https://analogicalforce.bandcamp.com/album/af018lp-james-shinra-vital-heat-2018
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Dubs
 ---

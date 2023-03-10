@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/199radio/010118-loose-lips-wfedka-the-irritant'
 id: 3746
 date: '2018-02-01'
 title: 01/01/18 - Loose Lips w/Fedka The Irritant - Loose Lips
@@ -12,6 +13,5 @@ description: >-
   https://soundcloud.com/horror-boogie-records/fedka-the-irritant-one [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: Wonky
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/ll-w-federico-zonno-mundiextra-muros-bonasforsa-kozber-rico-casazza-28-sep-20-threads
 id: 3871
 date: '2020-09-29'
 title: >-
@@ -17,6 +19,5 @@ description: >-
   the artists on his festival&#8217;s residency programme) &#8211; delightful
   duo Bonasforsa joining us in [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Trip-Hop
 ---

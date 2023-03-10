@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wbizarre-rituals-brain-rays-stoogie-houzer-tofuti-klein-190318
 id: 3755
 date: '2018-03-24'
 title: >-
@@ -13,6 +15,5 @@ description: >-
   http://loose-lips.co.uk https://www.facebook.com/bizarrerituals
   https://www.newriverstudios.com/199radio/listen [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Devon
 ---

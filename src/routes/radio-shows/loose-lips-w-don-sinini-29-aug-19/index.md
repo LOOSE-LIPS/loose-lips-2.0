@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/29-aug-19-loose-lips-w-don-sinini'
 id: 3826
 date: '2019-08-31'
 title: Loose Lips w/ Don Sinini - 29-Aug-19 - Loose Lips
@@ -14,6 +15,5 @@ description: >-
   READY SCOTLAND! www.loose-lips.co.uk
   https://www.facebook.com/events/1505141262959711 [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Dancehall
 ---

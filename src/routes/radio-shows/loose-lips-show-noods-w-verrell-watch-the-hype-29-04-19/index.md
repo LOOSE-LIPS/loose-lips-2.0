@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-w-paxman-verrell-watch-the-hype
 id: 3806
 date: '2019-05-10'
 title: Loose Lips Show (Noods) w/ Verrell (Watch The Hype) - 29/04/19 - Loose Lips
@@ -15,6 +17,5 @@ description: >-
   somehow kept it together&#8230; 60 mins of the two exploring Broken Beat,
   Industrial and Techno. [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Broken Beat
 ---

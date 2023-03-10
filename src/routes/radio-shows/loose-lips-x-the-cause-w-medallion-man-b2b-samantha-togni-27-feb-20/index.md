@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/loose-lips-x-the-cause-w-medallion-man-b2b-samantha-togni-27-feb-20
 id: 3836
 date: '2020-02-27'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   sure to be a mad night! https://www.facebook.com/events/2681150108779501
   www.threadsradio.com [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Rave
 ---
