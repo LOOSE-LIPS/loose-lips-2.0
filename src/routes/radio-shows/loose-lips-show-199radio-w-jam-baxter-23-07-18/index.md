@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-jam-baxter-230818
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-jam-baxter-230818?in=loose-lips123/sets/radioshows&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3779
 date: '2018-09-27'
 title: Loose Lips Show (199Radio) w/ Jam Baxter - 23/07/18 - Loose Lips

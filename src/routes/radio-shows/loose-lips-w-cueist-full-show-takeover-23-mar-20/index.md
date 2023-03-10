@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/threadsradio/loose-lips-w-cueist-full-show-takeover-23-mar-20
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-cueist-full-show-takeover-23-mar-20&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3840
 date: '2020-04-05'
 title: Loose Lips w/ Cueist (full show takeover) - 23-Mar-20 - Loose Lips

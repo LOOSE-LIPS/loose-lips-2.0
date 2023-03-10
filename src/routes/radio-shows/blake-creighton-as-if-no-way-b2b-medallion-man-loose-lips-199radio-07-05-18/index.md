@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/blake-creighton-as-if-no-way-b2b-medallion-man-loose-lips-199radio-070518
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/blake-creighton-as-if-no-way-b2b-medallion-man-loose-lips-199radio-070518&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3769
 date: '2018-05-23'
 title: >-

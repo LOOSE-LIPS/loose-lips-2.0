@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-radio-show-threads-260819-w-paul-blackford
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-radio-show-threads-260819-w-paul-blackford&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3832
 date: '2020-02-06'
 title: Loose Lips Radio Show (Threads) - 26/08/19 - w/ Paul Blackford - Loose Lips

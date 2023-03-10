@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/threadsradio/29-aug-19-loose-lips-w-don-sinini'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/29-aug-19-loose-lips-w-don-sinini&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3826
 date: '2019-08-31'
 title: Loose Lips w/ Don Sinini - 29-Aug-19 - Loose Lips

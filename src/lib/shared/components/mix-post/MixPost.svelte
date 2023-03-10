@@ -6,7 +6,7 @@
    * @type {IMix}
    */
 
-  export let mixData: IMix;
+  export let mixData: any;
   console.log(mixData);
 </script>
 
@@ -26,7 +26,7 @@
     scrolling="no"
     frameborder="yes"
     allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{mixData.id}&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=true&visual=false"
+    src={mixData.iframeLink}
   />
 
   <!-- <TagsContainer tags={mixData.tags} /> -->

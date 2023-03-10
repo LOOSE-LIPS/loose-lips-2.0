@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/199radio/010118-loose-lips-wfedka-the-irritant'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/199radio/010118-loose-lips-wfedka-the-irritant&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3746
 date: '2018-02-01'
 title: 01/01/18 - Loose Lips w/Fedka The Irritant - Loose Lips

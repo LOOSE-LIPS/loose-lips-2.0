@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/threadsradio/loose-lips-w-fire-emojione-hundred-emoji-07-oct-19
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-fire-emojione-hundred-emoji-07-oct-19&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3827
 date: '2019-10-09'
 title: Loose Lips w/ Fire Emoji/One Hundred Emoji - 07-Oct-19 - Loose Lips

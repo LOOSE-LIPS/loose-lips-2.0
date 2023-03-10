@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-mongo-mudfam-13xl-180219
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-mongo-mudfam-13xl-180219&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3798
 date: '2019-04-12'
 title: Loose Lips Show (Threads) w/ MONGO (Mudfam) &amp; 13XL - 18/02/19 - Loose Lips

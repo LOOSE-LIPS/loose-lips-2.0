@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-show-limbo-radio-w-el-james-120319
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-limbo-radio-w-el-james-120319&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3805
 date: '2019-04-20'
 title: Loose Lips Show (Limbo Radio) w/ El James - 09/04/19 - Loose Lips

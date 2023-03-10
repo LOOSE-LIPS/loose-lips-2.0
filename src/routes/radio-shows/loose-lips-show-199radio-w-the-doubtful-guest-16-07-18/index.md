@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-the-doubtful-guest-160718
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-the-doubtful-guest-160718&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3777
 date: '2018-07-21'
 title: Loose Lips Show (199Radio) w/ The Doubtful Guest - 16/07/18 - Loose Lips

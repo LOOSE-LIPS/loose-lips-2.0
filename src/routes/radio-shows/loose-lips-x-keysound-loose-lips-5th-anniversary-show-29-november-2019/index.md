@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/rinsefm/looselips291119'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/rinsefm/looselips291119?in=loose-lips123/sets/radioshows&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3830
 date: '2020-02-06'
 title: >-

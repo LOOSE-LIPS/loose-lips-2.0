@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-show-w-paxman-ebm-power-hour-noods-radio
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-w-paxman-ebm-power-hour-noods-radio&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3807
 date: '2019-05-10'
 title: Loose Lips Show (Noods) - Paxman's EBM Power Hour - 03/04/19 - Loose Lips

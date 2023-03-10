@@ -7,7 +7,6 @@ import path from "path";
 import SoundCloud from "soundcloud-scraper";
 import axios from "axios";
 import { load } from "cheerio";
-import { get } from "svelte/store";
 const client = new SoundCloud.Client();
 const username = "seedpipdev";
 const password = "ThisIsAPassword";
@@ -23,6 +22,14 @@ async function getSoundcloudLink(url, username, password) {
   const pattern = /\?.*/;
   const soundCloudLink = urlWithOptions.replace(pattern, "");
   return soundCloudLink;
+}
+
+async function getIframeLink(url, username, password) {
+  const auth = { username: username, password: password };
+  const response = await axios.get(url, { auth });
+  const $ = load(response.data);
+  const link = $(".site-main iframe").attr("src");
+  return link;
 }
 
 export async function getsoundCloudData(url) {
@@ -65,11 +72,11 @@ for (let i = 1; i < totalPages; i++) {
     .then(async (data) => {
       data.map(async (show) => {
         const url = show.link;
-        const soundcloudlink = await getSoundcloudLink(url, username, password);
-        console.log(soundcloudlink);
+        const soundCloudlink = await getSoundcloudLink(url, username, password);
 
-        await getsoundCloudData(soundcloudlink).then(async (res) => {
+        await getsoundCloudData(soundCloudlink).then(async (res) => {
           const tags = res.tags ? res.tags : "";
+          const iframeLink = await getIframeLink(url, username, password);
           const imageData = show?.yoast_head_json?.og_image || [];
           const imgDirectory = path.join(
             rootDir,
@@ -91,7 +98,8 @@ for (let i = 1; i < totalPages; i++) {
           const transformedDateString =
             match[1] + "-" + match[2] + "-" + match[3];
           const data = {
-            soundCloudUrl: soundcloudlink,
+            soundCloudUrl: soundCloudlink,
+            iframeLink: iframeLink,
             id: show.id,
             date: transformedDateString,
             title: show.yoast_head_json.title,
@@ -118,11 +126,11 @@ for (let i = 1; i < totalPages; i++) {
             path.join(folderDirectory, "index.md"),
             "---\n" + yamlData.trim() + "\n---\n"
           );
-          // ).catch(() => {
-          //   null;
-          // });
         });
       });
+    })
+    .catch((e) => {
+      return null;
     });
 }
 

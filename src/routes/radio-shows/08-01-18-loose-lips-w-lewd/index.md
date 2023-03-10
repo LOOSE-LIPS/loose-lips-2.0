@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/199radio/080118-loose-lips-wlewd'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/199radio/080118-loose-lips-wlewd&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3744
 date: '2018-01-10'
 title: 08/01/18 - Loose Lips w/Lewd - Loose Lips

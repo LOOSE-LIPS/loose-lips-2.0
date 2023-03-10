@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-noods-w-hypho-29052019'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-noods-w-hypho-29052019&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3814
 date: '2019-07-10'
 title: Loose Lips Show (Noods)- w/ Hypho - 29/05/2019 - Loose Lips

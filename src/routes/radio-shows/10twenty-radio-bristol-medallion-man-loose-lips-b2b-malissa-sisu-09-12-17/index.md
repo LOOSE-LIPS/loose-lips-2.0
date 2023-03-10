@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/10twenty-radio-bristol-medallion-man-loose-lips-b2b-malissa-sisu-091217
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/10twenty-radio-bristol-medallion-man-loose-lips-b2b-malissa-sisu-091217&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3742
 date: '2017-12-28'
 title: >-

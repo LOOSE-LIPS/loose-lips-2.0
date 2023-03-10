@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-ash-tres-260219'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-ash-tres-260219&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3796
 date: '2019-02-26'
 title: Loose Lips Show (Threads) w/ Ash Trés - 26/02/19 - Loose Lips

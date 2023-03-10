@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-trim-01-apr-19'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-trim-01-apr-19&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3808
 date: '2019-06-05'
 title: Loose Lips w/ Trim - 01-Apr-19 - Loose Lips

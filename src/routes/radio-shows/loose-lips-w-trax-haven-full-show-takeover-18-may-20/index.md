@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-trax-haven-full-show-takeover'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-trax-haven-full-show-takeover?in=loose-lips123/sets/radioshows&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3858
 date: '2020-05-30'
 title: Loose Lips w/ Trax Haven (full show takeover)- 18-May-20 - Loose Lips

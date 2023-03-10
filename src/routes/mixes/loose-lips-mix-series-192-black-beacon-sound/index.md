@@ -1,4 +1,8 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-mix-series-192-black-beacon-sound
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-192-black-beacon-sound&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3130
 date: '2018-10-04'
 title: Loose Lips Mix Series - 192 - Black Beacon Sound - Loose Lips

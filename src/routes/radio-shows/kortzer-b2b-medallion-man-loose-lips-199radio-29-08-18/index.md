@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/kortzer-b2b-medallion-man-loose-lips-199radio-290818
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/kortzer-b2b-medallion-man-loose-lips-199radio-290818&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3787
 date: '2018-10-05'
 title: Kortzer b2b Medallion Man (Loose Lips) - 199Radio - 29/08/18 - Loose Lips

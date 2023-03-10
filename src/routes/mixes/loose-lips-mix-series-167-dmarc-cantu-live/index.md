@@ -1,4 +1,8 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-mix-series-167-dmarc-cantu-live
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-167-dmarc-cantu-live&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3105
 date: '2018-03-31'
 title: Loose Lips Mix Series - 167 - D'Marc Cantu (LIVE) - Loose Lips

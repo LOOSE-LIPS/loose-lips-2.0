@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wbizarre-rituals-brain-rays-stoogie-houzer-tofuti-klein-190318
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wbizarre-rituals-brain-rays-stoogie-houzer-tofuti-klein-190318&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3755
 date: '2018-03-24'
 title: >-

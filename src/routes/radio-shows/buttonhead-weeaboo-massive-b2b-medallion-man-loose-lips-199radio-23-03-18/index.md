@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/buttonhead-weeaboo-massive-b2b-medallion-man-loose-lips-199radio-230318
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/buttonhead-weeaboo-massive-b2b-medallion-man-loose-lips-199radio-230318&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3757
 date: '2018-03-28'
 title: >-

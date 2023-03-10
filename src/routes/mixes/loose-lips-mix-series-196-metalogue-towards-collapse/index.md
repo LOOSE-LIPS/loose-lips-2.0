@@ -1,4 +1,8 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-mix-series-196-metalogue-towards-collapse
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-196-metalogue-towards-collapse&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3134
 date: '2018-10-15'
 title: Loose Lips Mix Series - 196 - Metalogue (Towards Collapse) - Loose Lips

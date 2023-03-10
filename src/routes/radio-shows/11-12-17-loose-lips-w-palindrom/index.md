@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/199radio/111217-loose-lips-wpalindrom'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/199radio/111217-loose-lips-wpalindrom&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3740
 date: '2017-12-14'
 title: 11/12/17 - Loose Lips w/Palindrom - Loose Lips
