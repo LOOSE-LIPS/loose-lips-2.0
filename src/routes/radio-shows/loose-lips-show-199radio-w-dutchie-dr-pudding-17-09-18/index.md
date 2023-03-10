@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-dutchie-drpudding-170918
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-dutchie-drpudding-170918&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3788
 date: '2018-10-12'
 title: Loose Lips Show (199Radio) w/ Dutchie &amp; Dr.Pudding - 17/09/18 - Loose Lips

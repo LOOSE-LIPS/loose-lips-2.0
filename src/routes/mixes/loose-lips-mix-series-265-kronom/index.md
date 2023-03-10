@@ -1,4 +1,7 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-mix-series-265-kronom'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-265-kronom&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3203
 date: '2020-02-12'
 title: Loose Lips Mix Series - 265 - Kronom - Loose Lips

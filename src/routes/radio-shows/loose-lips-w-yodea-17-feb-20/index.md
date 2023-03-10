@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-yodea-17-feb-20'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-yodea-17-feb-20&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3834
 date: '2020-02-18'
 title: Loose Lips w/ Yodea - 17-Feb-20 - Loose Lips

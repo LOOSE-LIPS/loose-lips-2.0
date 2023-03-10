@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-x-kulture-project-limbo-radio-190519
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-x-kulture-project-limbo-radio-190519&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3820
 date: '2019-07-25'
 title: Loose Lips X Kulture Project (Limbo Radio) - 19/05/19 - Loose Lips

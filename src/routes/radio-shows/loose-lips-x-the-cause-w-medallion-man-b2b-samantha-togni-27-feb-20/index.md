@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/threadsradio/loose-lips-x-the-cause-w-medallion-man-b2b-samantha-togni-27-feb-20
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-x-the-cause-w-medallion-man-b2b-samantha-togni-27-feb-20&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3836
 date: '2020-02-27'
 title: >-

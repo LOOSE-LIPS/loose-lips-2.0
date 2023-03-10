@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/threadsradio/medallion-man-b2b-kortzer'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/medallion-man-b2b-kortzer?in=threadsradio/sets/threadsbroad-ave-pop-up-stream-in-memphis&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3816
 date: '2019-07-11'
 title: >-

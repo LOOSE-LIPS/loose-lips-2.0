@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wemma-shalt-astral-plane-260218
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wemma-shalt-astral-plane-260218&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3750
 date: '2018-02-27'
 title: >-

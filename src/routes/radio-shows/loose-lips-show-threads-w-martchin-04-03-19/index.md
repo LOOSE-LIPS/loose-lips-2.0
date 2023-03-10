@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-martchin-040319'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-martchin-040319&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3799
 date: '2019-04-14'
 title: Loose Lips Show (Threads) w/ Martchin - 04/03/19 - Loose Lips

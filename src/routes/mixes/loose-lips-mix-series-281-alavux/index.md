@@ -1,4 +1,7 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-mix-series-281-alavux'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-281-alavux&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3219
 date: '2020-05-29'
 title: Loose Lips Mix Series - 281 - Alavux - Loose Lips

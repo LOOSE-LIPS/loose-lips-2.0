@@ -1,4 +1,8 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-mix-series-235-glows-slow-dance
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-235-glows-slow-dance&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3173
 date: '2019-07-23'
 title: Loose Lips Mix Series - 235 - Glows (Slow Dance) - Loose Lips

@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-2-bad-mice-041119
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-2-bad-mice-041119&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3828
 date: '2019-11-14'
 title: Loose Lips Show (Threads) w/ 2 Bad Mice - 04/11/19 - Loose Lips

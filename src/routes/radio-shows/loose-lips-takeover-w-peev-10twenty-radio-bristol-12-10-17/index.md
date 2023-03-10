@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-takeover-wpeev-10twenty-radio-bristol-121017
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-takeover-wpeev-10twenty-radio-bristol-121017&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3729
 date: '2017-10-18'
 title: 'Loose Lips takeover w/Peev - 10Twenty Radio, Bristol - 12/10/17 - Loose Lips'

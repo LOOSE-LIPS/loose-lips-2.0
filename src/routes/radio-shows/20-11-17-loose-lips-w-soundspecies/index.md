@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/199radio/201117-loose-lips-w-soundspecies'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/199radio/201117-loose-lips-w-soundspecies&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3737
 date: '2017-11-23'
 title: 20/11/17 - Loose Lips w/Soundspecies - Loose Lips

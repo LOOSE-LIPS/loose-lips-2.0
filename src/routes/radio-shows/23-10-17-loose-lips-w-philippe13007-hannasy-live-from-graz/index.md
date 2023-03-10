@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/199radio/231017-loose-lips-wphilippe13007-hannasy-live-from-graz
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/199radio/231017-loose-lips-wphilippe13007-hannasy-live-from-graz&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3732
 date: '2017-10-24'
 title: >-

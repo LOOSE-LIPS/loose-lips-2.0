@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/ll-takeover-medallion-man-juggins-kolncampus-radio-cologne-300917
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/ll-takeover-medallion-man-juggins-kolncampus-radio-cologne-300917&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3734
 date: '2017-11-07'
 title: >-

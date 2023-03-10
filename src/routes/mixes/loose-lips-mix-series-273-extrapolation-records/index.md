@@ -1,4 +1,8 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-mix-series-273-extrapolation-records
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-273-extrapolation-records&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3212
 date: '2020-04-10'
 title: Loose Lips Mix Series - 273 - Extrapolation Records - Loose Lips

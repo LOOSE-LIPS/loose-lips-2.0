@@ -1,4 +1,8 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-mix-series-239-spewis-municipal
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-239-spewis-municipal&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3180
 date: '2019-10-02'
 title: Loose Lips Mix Series - 239 - Spewis (Municipal) - Loose Lips

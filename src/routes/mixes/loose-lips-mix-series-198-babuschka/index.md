@@ -1,4 +1,7 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-mix-series-198-babuschka/'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-198-babuschka/&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3136
 date: '2018-11-07'
 title: Loose Lips Mix Series - 198 - Babüschka - Loose Lips

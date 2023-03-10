@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/threadsradio/loose-lips-w-dusk-blackdown-keysound-recordings-03-jun-19
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-dusk-blackdown-keysound-recordings-03-jun-19&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3809
 date: '2019-06-10'
 title: Loose Lips w/ Dusk + Blackdown (Keysound Recordings) - 03-Jun-19 - Loose Lips

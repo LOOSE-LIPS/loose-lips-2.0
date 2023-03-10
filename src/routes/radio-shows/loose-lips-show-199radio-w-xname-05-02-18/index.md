@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wxname-050218'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wxname-050218&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3749
 date: '2018-02-11'
 title: Loose Lips Show (199Radio) w/xname - 05/02/18 - Loose Lips

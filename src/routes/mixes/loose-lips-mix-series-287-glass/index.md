@@ -1,4 +1,7 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-mix-series-287-glass'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-287-glass&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3225
 date: '2020-07-09'
 title: Loose Lips Mix Series - 287 - Glass - Loose Lips

@@ -1,4 +1,7 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-mix-series-267-felix-raman'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-267-felix-raman&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3205
 date: '2020-02-21'
 title: Loose Lips Mix Series - 267 - Felix Raman - Loose Lips

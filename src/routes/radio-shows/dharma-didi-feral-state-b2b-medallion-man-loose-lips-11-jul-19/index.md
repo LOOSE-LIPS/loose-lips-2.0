@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/threadsradio/dharma-didi-b2b-medallion-man-11-jul-19'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/dharma-didi-b2b-medallion-man-11-jul-19&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3817
 date: '2019-07-17'
 title: >-

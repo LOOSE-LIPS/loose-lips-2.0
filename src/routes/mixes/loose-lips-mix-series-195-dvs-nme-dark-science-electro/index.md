@@ -1,4 +1,8 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-mix-series-195-dvs-nme-dark-science-electro
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-195-dvs-nme-dark-science-electro&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3133
 date: '2018-10-10'
 title: Loose Lips Mix Series - 195 - DVS NME (Dark Science Electro) - Loose Lips

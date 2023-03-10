@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-arthur-fisher-09-nov-20'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-arthur-fisher-09-nov-20&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3874
 date: '2020-11-15'
 title: Loose Lips w/ Arthur Fisher - 09-Nov-20 - Loose Lips

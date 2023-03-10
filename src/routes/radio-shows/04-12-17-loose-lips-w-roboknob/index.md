@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/199radio/041217-loose-lips-wroboknob'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/199radio/041217-loose-lips-wroboknob&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3739
 date: '2017-12-07'
 title: 04/12/17 - Loose Lips w/Roboknob - Loose Lips

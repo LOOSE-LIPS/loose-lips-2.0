@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/ten-trax-radio-sutrofm-san-francisco-kortzer-b2b-medallion-man-020619
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/ten-trax-radio-sutrofm-san-francisco-kortzer-b2b-medallion-man-020619&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3825
 date: '2019-08-01'
 title: >-

@@ -1,6 +1,8 @@
 ---
 soundCloudUrl: >-
   https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wegyptian-lover-020418
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wegyptian-lover-020418&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3758
 date: '2018-04-05'
 title: Loose Lips Show (199Radio) w/Egyptian Lover - 02/04/18 - Loose Lips

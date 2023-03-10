@@ -1,5 +1,7 @@
 ---
 soundCloudUrl: 'https://soundcloud.com/199radio/131117-loose-lips-wleonidas'
+iframeLink: >-
+  https://w.soundcloud.com/player/?url=https://soundcloud.com/199radio/131117-loose-lips-wleonidas&color=00aabb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false
 id: 3736
 date: '2017-11-21'
 title: 13/11/17 - Loose Lips w/Leonidas - Loose Lips
