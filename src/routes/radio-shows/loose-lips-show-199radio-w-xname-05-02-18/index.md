@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wxname-050218'
 id: 3749
 date: '2018-02-11'
 title: Loose Lips Show (199Radio) w/xname - 05/02/18 - Loose Lips
@@ -12,6 +13,5 @@ description: >-
   week = https://audioeargasmrecords.bandcamp.com/album/fucking-tune [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: Noise
 ---

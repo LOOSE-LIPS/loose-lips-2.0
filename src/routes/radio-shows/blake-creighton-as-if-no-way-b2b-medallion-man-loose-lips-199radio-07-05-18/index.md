@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/blake-creighton-as-if-no-way-b2b-medallion-man-loose-lips-199radio-070518
 id: 3769
 date: '2018-05-23'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   pastries. https://www.facebook.com/medallionmanmusic
   https://www.facebook.com/asifnoway [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Ambient
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-takeover-netil-radio-medallion-man-rico-casazza
 id: 3818
 date: '2019-07-17'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   building excitement for the Vapor Pad remix Album coming out on Loose Lips,
   Friday 26th July! https://looselips123.bandcamp.com [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronic
 ---

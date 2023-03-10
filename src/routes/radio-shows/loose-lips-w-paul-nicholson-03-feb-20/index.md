@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-paul-nicholson-3-feb-20'
 id: 3833
 date: '2020-02-11'
 title: Loose Lips w/ Paul Nicholson - 03-Feb-20 - Loose Lips
@@ -14,6 +15,5 @@ description: >-
   Ministry of Sound, Orbital, Planet Mu, Roc Nation, Tom Middleton and Warp..
   Tune in to explore his past, present [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronic
 ---

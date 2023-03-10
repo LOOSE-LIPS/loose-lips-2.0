@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-josef-clark-200818
 id: 3784
 date: '2018-09-27'
 title: Loose Lips Show (199Radio) w/ Josef Clark - 20/08/18 - Loose Lips
@@ -13,6 +15,5 @@ description: >-
   https://www.juno.co.uk/products/andy-compton-shamrock-bunny-chow/675933-01/
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Rock
 ---

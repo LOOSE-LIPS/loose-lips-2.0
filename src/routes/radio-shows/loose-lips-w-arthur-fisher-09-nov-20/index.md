@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-arthur-fisher-09-nov-20'
 id: 3874
 date: '2020-11-15'
 title: Loose Lips w/ Arthur Fisher - 09-Nov-20 - Loose Lips
@@ -13,6 +14,5 @@ description: >-
   musicology that an Oxbridge graduate couldn’t dream of. Release in focus =
   https://nyegenyegetapes.bandcamp.com/album/duma [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Exploration
 ---

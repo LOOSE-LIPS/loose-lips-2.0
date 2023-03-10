@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-takeover-medallion-man-hypho-biome-hosted-by-hella-1020-radio-bristol-220219
 id: 3797
 date: '2019-02-27'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   @medallionman b2b @hyphoofficial b2b @biome-official, w/ @helladubs on mic.
   http://loose-lips.co.uk [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Dubstep
 ---

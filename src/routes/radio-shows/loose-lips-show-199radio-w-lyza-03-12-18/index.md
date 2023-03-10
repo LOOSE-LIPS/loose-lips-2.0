@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-lyza-031218'
 id: 3793
 date: '2018-12-21'
 title: Loose Lips Show (199Radio) w/ LYZA - 03/12/18 - Loose Lips
@@ -13,6 +14,5 @@ description: >-
   http://loose-lips.co.uk Release of the week =
   https://www.discogs.com/Ramones-Ramones/master/39341 [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Radio
 ---

@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-ukaea-12-oct-20'
 id: 3873
 date: '2020-10-26'
 title: Loose Lips w/ UKAEA - 12-Oct-20 - Loose Lips
@@ -15,6 +16,5 @@ description: >-
   Release in focus = https://dasbootyrave.bandcamp.com/album/hyper-reality
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Industrial
 ---

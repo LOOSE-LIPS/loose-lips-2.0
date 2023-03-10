@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-felix-raman-b2b'
 id: 3868
 date: '2020-09-19'
 title: >-
@@ -18,6 +19,5 @@ description: >-
   ambient piece based around the track &#8216;Dropped Shoulders&#8217; off their
   album &#8216;Época&#8217; Listen [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: ''
 ---

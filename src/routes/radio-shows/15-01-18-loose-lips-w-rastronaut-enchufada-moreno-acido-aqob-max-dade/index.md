@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/199radio/150118-loose-lips-wrastronaut-enchufada-maks-dade-moreno-acido-aqob
 id: 3745
 date: '2018-02-01'
 title: >-
@@ -13,6 +15,5 @@ description: >-
   https://www.facebook.com/enchufada01 https://soundcloud.com/maks48 199radio
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Eclectic
 ---

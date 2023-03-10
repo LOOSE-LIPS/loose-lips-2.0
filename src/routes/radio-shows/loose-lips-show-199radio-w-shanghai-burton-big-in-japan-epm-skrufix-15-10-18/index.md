@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/show-199radio-w-shanghai-burton-big-in-japanepmskrufix-151018
 id: 3791
 date: '2018-10-16'
 title: >-
@@ -18,6 +20,5 @@ description: >-
   and much much more! https://epm-music.com http://loose-lips.co.uk
   http://199rad.io TRACKLIST: 1. Sampa The Great [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: off-kilter
 ---

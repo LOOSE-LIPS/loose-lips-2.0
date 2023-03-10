@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-lakker-threads48'
 id: 3867
 date: '2020-09-19'
 title: Loose Lips w/ Lakker (Threads48) - 15-Dec-19 - Loose Lips
@@ -15,6 +16,5 @@ description: >-
   ambient piece based around the track &#8216;Dropped Shoulders&#8217; off their
   album &#8216;Época&#8217; Listen [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: ''
 ---

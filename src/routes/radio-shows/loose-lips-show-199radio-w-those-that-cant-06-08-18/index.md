@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-those-that-cant-060818
 id: 3783
 date: '2018-09-27'
 title: Loose Lips Show (199Radio) w/ Those That Can't - 06/08/18 - Loose Lips
@@ -14,6 +16,5 @@ description: >-
   http://199rad.io Release of the week =
   https://apronrecords.bandcamp.com/album/ratgrave [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Eclectic
 ---

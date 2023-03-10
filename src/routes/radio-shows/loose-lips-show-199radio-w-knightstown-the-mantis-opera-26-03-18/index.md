@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wknightstown-the-mantis-opera-260318
 id: 3759
 date: '2018-04-05'
 title: >-
@@ -13,6 +15,5 @@ description: >-
   https://www.facebook.com/themantisopera
   https://www.newriverstudios.com/199radio/listen [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronica
 ---

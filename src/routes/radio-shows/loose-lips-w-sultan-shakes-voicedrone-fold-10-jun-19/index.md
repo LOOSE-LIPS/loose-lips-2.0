@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/loose-lips-w-sultan-shakes-voicedrone-fold-10-jun-19
 id: 3810
 date: '2019-06-11'
 title: Loose Lips w/ Sultan Shakes &amp; Voicedrone (FOLD) - 10-Jun-19 - Loose Lips
@@ -15,6 +17,5 @@ description: >-
   http://loose-lips.co.uk @medallionman https://www.facebook.com/fld.ldn Release
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: THE MOVER
 ---

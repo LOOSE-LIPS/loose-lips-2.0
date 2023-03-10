@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-martchin-040319'
 id: 3799
 date: '2019-04-14'
 title: Loose Lips Show (Threads) w/ Martchin - 04/03/19 - Loose Lips
@@ -15,6 +16,5 @@ description: >-
   him. We were joined in the flat by somewhat of a Loose Lips regular,
   braindance-loving [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Macedonia
 ---

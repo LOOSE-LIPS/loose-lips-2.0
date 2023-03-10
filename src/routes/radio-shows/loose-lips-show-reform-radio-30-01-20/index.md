@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-reform-radio-30012020'
 id: 3843
 date: '2020-04-21'
 title: Loose Lips Show (Reform Radio) - 30/01/20 - Loose Lips
@@ -12,6 +13,5 @@ description: >-
   @patriceswms @auderkortzer https://www.facebook.com/footsoldierx
   www.loose-lips.co.uk [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Jungle
 ---

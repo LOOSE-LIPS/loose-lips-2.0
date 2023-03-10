@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/199radio-loose-lips-w-felix-ramen-and-sam-birkett
 id: 3792
 date: '2018-12-05'
 title: >-
@@ -15,6 +17,5 @@ description: >-
   the man who booked the CBM gig, stepped up in the first hour to discuss the
   breadth of shows he&#8217;s [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Experimental
 ---

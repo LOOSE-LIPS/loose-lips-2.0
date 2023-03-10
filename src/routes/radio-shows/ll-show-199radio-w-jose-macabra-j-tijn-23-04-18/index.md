@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/ll-show-199radio-w-jose-macabra-jtijn-230418
 id: 3767
 date: '2018-05-23'
 title: LL Show (199Radio) w/ Jose Macabra &amp; J.Tijn - 23/04/18 - Loose Lips
@@ -12,6 +14,5 @@ description: >-
   https://huntleyspalmers.bandcamp.com/album/h-p-clyde-built-40-compilation-free
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-mcr-live-w-abyss-241018'
 id: 3804
 date: '2019-04-17'
 title: Loose Lips Show (MCR Live) w/ Abyss - 24/10/18 - Loose Lips
@@ -11,6 +12,5 @@ description: >-
   http://loose-lips.co.uk/radio-shows https://www.facebook.com/abyssrecordings
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-w-paxman-ebm-power-hour-noods-radio
 id: 3807
 date: '2019-05-10'
 title: Loose Lips Show (Noods) - Paxman's EBM Power Hour - 03/04/19 - Loose Lips
@@ -14,6 +16,5 @@ description: >-
   all things aggressive, arpeggiated, and most importantly, anything with a
   massive snare on the 2nd &#038; 4th! [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: EBM
 ---

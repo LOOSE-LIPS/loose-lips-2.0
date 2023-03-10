@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-the-doubtful-guest-160718
 id: 3777
 date: '2018-07-21'
 title: Loose Lips Show (199Radio) w/ The Doubtful Guest - 16/07/18 - Loose Lips
@@ -16,6 +18,5 @@ description: >-
   Release of the week = https://skoop.bandcamp.com/album/skp-vol-002 [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: Acid
 ---

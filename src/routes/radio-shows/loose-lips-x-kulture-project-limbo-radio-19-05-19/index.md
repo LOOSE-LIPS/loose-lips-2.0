@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-x-kulture-project-limbo-radio-190519
 id: 3820
 date: '2019-07-25'
 title: Loose Lips X Kulture Project (Limbo Radio) - 19/05/19 - Loose Lips
@@ -13,6 +15,5 @@ description: >-
   http://loose-lips.co.uk/events/loose-lips-x-kulture-project-jungle-hardcore-marathon-pt-ii
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Drum & Bass
 ---

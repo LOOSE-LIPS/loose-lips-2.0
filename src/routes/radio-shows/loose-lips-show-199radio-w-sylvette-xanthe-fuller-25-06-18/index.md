@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-sylvette-xanthe-fuller-250618
 id: 3774
 date: '2018-07-17'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   Xanthe joined us in true &#8216;desert island discs&#8217; style, [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: Acoustic
 ---

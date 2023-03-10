@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/jeffs-spesh-b2b-medallion-man-loose-lips-199radio-130618
 id: 3781
 date: '2018-09-27'
 title: >-
@@ -19,6 +21,5 @@ description: >-
   http://loose-lips.co.uk/blog/picks-jeff-oparas-no-rewinds.
   http://loose-lips.co.uk [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Electronic
 ---

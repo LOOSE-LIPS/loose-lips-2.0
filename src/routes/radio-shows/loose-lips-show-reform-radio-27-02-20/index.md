@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-show-reform-radio-27022020'
 id: 3844
 date: '2020-04-21'
 title: Loose Lips Show (Reform Radio) - 27/02/20 - Loose Lips
@@ -9,6 +10,5 @@ banner:
   - imported/loose-lips-show-reform-radio-27-02-20/image3844.jpeg
 description: 'Born for it. www.loose-lips.co.uk [...]Read More...'
 published: true
-tags:
-  - radioShow
+tags: Funk Me Baby
 ---

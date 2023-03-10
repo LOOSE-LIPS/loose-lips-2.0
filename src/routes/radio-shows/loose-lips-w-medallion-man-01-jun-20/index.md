@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-medallion-man-01-jun-20'
 id: 3861
 date: '2020-06-19'
 title: Loose Lips w/ Medallion Man - 01-Jun-20 - Loose Lips
@@ -13,6 +14,5 @@ description: >-
   Don&#8217;t miss it&#8230; @medallionman Release in focus =
   https://bit.ly/3gyWh9i [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Lively
 ---

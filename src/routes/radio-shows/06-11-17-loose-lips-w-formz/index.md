@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/199radio/061117-loose-lips-wformz'
 id: 3735
 date: '2017-11-12'
 title: 06/11/17 - Loose Lips w/Formz - Loose Lips
@@ -11,6 +12,5 @@ description: >-
   http://loose-lips.co.uk https://www.facebook.com/FORMZLDN 199radio Release of
   the week = https://swms.bandcamp.com/album/treece-caskevet-o [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Hip Hop
 ---

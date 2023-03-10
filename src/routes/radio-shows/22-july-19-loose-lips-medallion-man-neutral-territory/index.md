@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/22-july-19-loose-lips-medallion-man-neutral-territory
 id: 3824
 date: '2019-07-25'
 title: 22-July-19 - Loose Lips (Medallion Man &amp; Neutral Territory) - Loose Lips
@@ -13,6 +15,5 @@ description: >-
   throughout, just how we like it. @medallionman www.loose-lips.co.uk Release of
   the weeks: [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wsteve-hellier-070518
 id: 3766
 date: '2018-05-23'
 title: Loose Lips Show (199Radio) w/ Steve Hellier - 07/05/18 - Loose Lips
@@ -12,6 +14,5 @@ description: >-
   forthcoming Warp release. http://loose-lips.co.uk Release of the week =
   https://elmc.bandcamp.com/album/egregore [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: IDM
 ---

@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-torn-relics-23-nov-20'
 id: 3875
 date: '2020-11-24'
 title: Loose Lips w/ Torn Relics - 23-Nov-20 - Loose Lips
@@ -14,6 +15,5 @@ description: >-
   Feb 2020 have both shared an incredible range of haunting industrial sounds,
   intoxicating production and [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Baklava
 ---

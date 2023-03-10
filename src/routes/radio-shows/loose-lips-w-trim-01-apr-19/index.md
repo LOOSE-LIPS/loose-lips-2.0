@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-trim-01-apr-19'
 id: 3808
 date: '2019-06-05'
 title: Loose Lips w/ Trim - 01-Apr-19 - Loose Lips
@@ -14,6 +15,5 @@ description: >-
   standout figure on the grime scene since his days in Roll Deep, from the
   critically acclaimed &#8220;Soulfood&#8221; [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Grime
 ---

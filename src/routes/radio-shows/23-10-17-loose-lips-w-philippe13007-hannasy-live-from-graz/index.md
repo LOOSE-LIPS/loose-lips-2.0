@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/199radio/231017-loose-lips-wphilippe13007-hannasy-live-from-graz
 id: 3732
 date: '2017-10-24'
 title: >-
@@ -13,6 +15,5 @@ description: >-
   https://www.facebook.com/hannasymusic 199radio Release of the week =
   https://fourtet.bandcamp.com/album/new-energy [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

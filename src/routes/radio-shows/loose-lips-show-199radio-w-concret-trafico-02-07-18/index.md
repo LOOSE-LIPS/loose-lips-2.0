@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-concret-trafico-040718
 id: 3775
 date: '2018-07-17'
 title: Loose Lips Show (199Radio) w/ Concret (Tráfico) - 02/07/18 - Loose Lips
@@ -12,6 +14,5 @@ description: >-
   his projects! http://loose-lips.co.uk https://www.facebook.com/Concretmusic
   [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: House
 ---

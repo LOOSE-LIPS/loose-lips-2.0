@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-199radio-wlondon-filmmakers-the-nankivell-brothers-120318
 id: 3760
 date: '2018-04-05'
 title: >-
@@ -12,6 +14,5 @@ description: >-
   http://loose-lips.co.uk https://www.facebook.com/londonfilmmakers
   https://www.newriverstudios.com/199radio/listen [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Punk
 ---

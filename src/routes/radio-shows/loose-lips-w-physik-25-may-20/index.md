@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-physik-25-may-20'
 id: 3859
 date: '2020-05-30'
 title: Loose Lips w/ Physik - 25-May-20 - Loose Lips
@@ -13,6 +14,5 @@ description: >-
   techno ticklers! @danphysik @loose-lips123
   https://www.facebook.com/LooseLips123/ [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

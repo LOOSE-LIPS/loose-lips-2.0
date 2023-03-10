@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/loose-lips123/loose-lips-w-epm-261118-199radio'
 id: 3872
 date: '2020-10-02'
 title: Loose Lips w/ EPM - 26/11/18 (199Radio) - Loose Lips
@@ -11,6 +12,5 @@ description: >-
   Addy &#038; Jonas, picking banging tunes and discussing the range of amazing
   work EPM does! https://www.epm-music.com [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: ''
 ---

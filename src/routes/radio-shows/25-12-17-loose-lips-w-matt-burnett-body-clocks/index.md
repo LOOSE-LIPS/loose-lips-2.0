@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/199radio/251217-loose-lips-wmatt-burnett-body-clocks'
 id: 3741
 date: '2017-12-26'
 title: 25/12/17 - Loose Lips w/Matt Burnett &amp; Body Clocks - Loose Lips
@@ -10,6 +11,5 @@ description: >-
   http://loose-lips.co.uk https://www.facebook.com/bodyclocksband
   https://www.facebook.com/mbmusicATX https://www.199radio.com [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/medallion-man-b2b-kortzer'
 id: 3816
 date: '2019-07-11'
 title: >-
@@ -17,6 +18,5 @@ description: >-
   been able to showcase a breadth of the modern musical talent there today,
   stretching from Hip Hop through to various [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: rap
 ---

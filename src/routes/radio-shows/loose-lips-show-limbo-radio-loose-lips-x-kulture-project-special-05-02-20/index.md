@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-limbo-radio-w-ll-x-kp-05022020
 id: 3849
 date: '2020-04-21'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   https://www.residentadvisor.net/events/1371278 @morganjohnston @auderkortzer
   @patriceswms www.loose-lips.co.uk [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Drum & Bass
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/ll-takeover-medallion-man-juggins-kolncampus-radio-cologne-300917
 id: 3734
 date: '2017-11-07'
 title: >-
@@ -13,6 +15,5 @@ description: >-
   Kolncampus for a guest mix and some chat! http://loose-lips.co.uk
   @medallionman [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: House
 ---

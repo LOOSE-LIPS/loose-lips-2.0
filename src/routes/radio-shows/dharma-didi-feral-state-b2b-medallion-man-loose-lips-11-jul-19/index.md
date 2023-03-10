@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/dharma-didi-b2b-medallion-man-11-jul-19'
 id: 3817
 date: '2019-07-17'
 title: >-
@@ -15,6 +16,5 @@ description: >-
   morning tribalism, jazz, electro and dub. Don&#8217;t expect anything, just
   have a listen. [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: World
 ---

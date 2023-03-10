@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-nose-dive-110219
 id: 3794
 date: '2019-02-14'
 title: Loose Lips Show (Threads) w/ Nose Dive - 11/02/19 - Loose Lips
@@ -15,6 +17,5 @@ description: >-
   = http://classic.beatport.com/release/tnkt012-various-2/2416207 [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: Off-kilter
 ---

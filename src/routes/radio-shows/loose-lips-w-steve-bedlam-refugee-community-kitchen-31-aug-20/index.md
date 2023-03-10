@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/threadsradio/loose-lips-w-steve-bedlam-refugee-community-kitchen-31-aug-20
 id: 3864
 date: '2020-09-02'
 title: >-
@@ -20,6 +22,5 @@ description: >-
   https://spacehardware.bandcamp.com/album/planned-obsolescence [...]Read
   More...
 published: true
-tags:
-  - radioShow
+tags: Techno
 ---

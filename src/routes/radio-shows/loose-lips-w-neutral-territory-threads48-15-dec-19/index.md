@@ -1,4 +1,5 @@
 ---
+soundCloudUrl: 'https://soundcloud.com/threadsradio/loose-lips-w-neutral-1'
 id: 3869
 date: '2020-09-19'
 title: Loose Lips w/ Neutral Territory (Threads48) - 15-Dec-19 - Loose Lips
@@ -14,6 +15,5 @@ description: >-
   @felixraman b2b @medallionman &#8211; rinse out @lakker &#8211; a special live
   set [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: ''
 ---

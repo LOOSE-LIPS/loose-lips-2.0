@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-w-repeat-beat-poet-threads-radio-07-sep-20
 id: 3865
 date: '2020-09-08'
 title: Loose Lips w/ Repeat Beat Poet (Threads Radio) - 07-Sep-20 - Loose Lips
@@ -16,6 +18,5 @@ description: >-
   and Hip Hop culture to capture and extend moments of time, thought, and
   feeling. PJ has [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Poetry
 ---

@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/loose-lips-show-limbo-radio-w-treece-tmnms-the-roots-sweggae-090519
 id: 3822
 date: '2019-07-25'
 title: >-
@@ -10,6 +12,5 @@ author: 100
 banner: []
 description: 'LIMBO LIMBO LIMBO! [...]Read More...'
 published: true
-tags:
-  - radioShow
+tags: Reggae
 ---

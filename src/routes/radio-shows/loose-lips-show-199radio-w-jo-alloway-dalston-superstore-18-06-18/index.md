@@ -1,4 +1,6 @@
 ---
+soundCloudUrl: >-
+  https://soundcloud.com/loose-lips123/show-199radio-w-jo-alloway-dalston-superstore-180618
 id: 3773
 date: '2018-07-17'
 title: >-
@@ -16,6 +18,5 @@ description: >-
   http://loose-lips.co.uk Home Release of the week =
   https://www.discogs.com/L-R-L-R-EP/release/10610305 [...]Read More...
 published: true
-tags:
-  - radioShow
+tags: Disco
 ---
