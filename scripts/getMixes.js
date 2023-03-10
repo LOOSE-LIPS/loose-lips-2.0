@@ -11,6 +11,15 @@ const password = "ThisIsAPassword";
 const totalPages = 16;
 const rootDir = process.cwd();
 
+async function getSoundcloudLink(url, username, password) {
+  const auth = { username: username, password: password };
+  const response = await axios.get(url, { auth });
+  const $ = cheerio.load(response.data);
+  const content = $(".site-main iframe").attr("src");
+  const soundCloudLink = new URL(content).searchParams.get("url");
+  return soundCloudLink;
+}
+
 export async function getsoundCloudData(url) {
   return client
     .getSongInfo(url)
