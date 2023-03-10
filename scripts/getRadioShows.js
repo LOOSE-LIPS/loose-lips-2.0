@@ -76,6 +76,7 @@ for (let i = 1; i < totalPages; i++) {
 
         await getsoundCloudData(soundCloudlink).then(async (res) => {
           const tags = res.tags ? res.tags : "";
+
           const iframeLink = await getIframeLink(url, username, password);
           const imageData = show?.yoast_head_json?.og_image || [];
           const imgDirectory = path.join(

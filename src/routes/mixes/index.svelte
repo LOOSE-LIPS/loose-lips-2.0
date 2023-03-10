@@ -34,7 +34,7 @@
     .map((x) => x.tags)
     .filter((x) => x.trim())
     .reduce((a, b) => (a.includes(b) ? a : [...a, b]), []);
-
+  console.log(tags);
   let visible = mixData;
 
   let selectedTags = [];
