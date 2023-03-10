@@ -13,13 +13,13 @@
 
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
+  import Button from "$shared/ui/components/button/Button.svelte";
 
   import type { IMix } from "$lib/models/interfaces/imix.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import RadioShowPost from "$shared/components/radioshow-post/RadioShowPost.svelte";
 
-  export let radioShows!: IMix[];
-
+  export let radioShows!: any;
 
   /**
    * @type {IMetaTagProperties}
@@ -32,14 +32,33 @@
     searchUrl: "/labels",
   };
 
+  const tags = radioShows
+    .map((x) => x.tags)
+    .filter((x) => x.trim())
+    .reduce((a, b) => (a.includes(b) ? a : [...a, b]), []);
+
+  let visible = radioShows.sort(
+    (a, b) => Number(new Date(b.date)) - Number(new Date(a.date))
+  );
+  console.log(visible);
+
+  let selectedTags = [];
+
   let searchValue = "";
 
-  $: filteredshowData = radioShows
-
-    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .filter((crewMember) =>
-      crewMember.title.toLowerCase().includes(searchValue.toLowerCase())
-    );
+  const handleTagClick = (tag) => {
+    if (selectedTags.includes(tag)) {
+      selectedTags = selectedTags.filter((x) => x !== tag);
+    } else {
+      selectedTags = [...selectedTags, tag];
+    }
+    visible = radioShows
+      .filter((x) => {
+        if (selectedTags.length === 0) return true;
+        return selectedTags.includes(x.tags);
+      })
+      .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)));
+  };
 </script>
 
 <HeadTags {metaData} />
@@ -79,11 +98,25 @@
       class="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 justify-between gap-5 "
     />
 
-    <div class="grid  grid-cols-4 grid-rows-4 justify-between gap-3">
-      {#each filteredshowData as showData}
-        <RadioShowPost {showData} />
+    <div class="flex flex-row flex-wrap w-full mt-4 items-center">
+      {#each tags as tag, index (tag)}
+        <Button
+          {tag}
+          onClick={() => handleTagClick(tag)}
+          active={selectedTags.includes(tag)}
+        />
+        {#if index !== tags.length - 1}
+          <p class="mr-2 ml-2 text-black dark:text-white">
+            {` • `}
+          </p>
+        {/if}
       {/each}
     </div>
 
+    <div class="grid  grid-cols-4 grid-rows-4 justify-between gap-3">
+      {#each visible as showData}
+        <RadioShowPost {showData} />
+      {/each}
+    </div>
   </div>
 </div>
