@@ -11,6 +11,25 @@ const totalPages = 68;
 
 const rootDir = process.cwd();
 
+async function getIframes(url, username, password) {
+  const auth = { username: username, password: password };
+  const response = await axios.get(url, { auth });
+  const $ = cheerio.load(response.data);
+  const content = $("iframe");
+  const iframes = [];
+  await content.each((index, x) => {
+    iframes.push({
+      src: $(x).attr("src") ?? null,
+      loading: $(x).attr("loading") ?? null,
+      width: $(x).attr("width") ?? null,
+      height: $(x).attr("height") ?? null,
+      frameborder: $(x).attr("frameborder") ?? null,
+      title: $(x).attr("title") ?? null,
+    });
+  });
+  return iframes;
+}
+
 for (let i = 1; i < totalPages; i++) {
   phin({
     url: `https://loose-lips.seedpip.com/wp-json/wp/v2/posts?page=${i}`,
@@ -25,6 +44,7 @@ for (let i = 1; i < totalPages; i++) {
     .then((data) => {
       data.map(async (post) => {
         const imageData = post?.yoast_head_json?.og_image || [];
+        const url = post.link;
 
         const imgDirectory = path.join(rootDir, `static/imported/${post.slug}`);
         if (!fs.existsSync(imgDirectory)) {
@@ -68,6 +88,7 @@ for (let i = 1; i < totalPages; i++) {
           tags: extract,
           featured: featured,
         };
+        const iFrames = await getIframes(url, username, password);
 
         const turndownService = new TurndownService({});
         turndownService.addRule("<3", {
