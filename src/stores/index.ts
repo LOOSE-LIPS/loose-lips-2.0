@@ -6,4 +6,5 @@ import type { IEventsCard } from "$models/interfaces/ievents-card.interface";
 export const isDev = writable(process.env.NODE_ENV === "development");
 
 export const player = writable(0);
+export const currentTrack = writable("HELLO");
 export const recommendedArray = writable([]);
