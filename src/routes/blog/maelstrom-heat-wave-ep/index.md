@@ -25,4 +25,6 @@ His latest contribution is clinically ruthless as ever and sits perfectly in rec
 
 Make sure you go see Maelstrom play live if he’s booked anywhere near you, same goes for DeFeKT for that matter…
 
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://bandcamp.com/EmbeddedPlayer/album=2792816203/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/'></iframe>
+
 ![](/wp-content/uploads/live/img/wysiwyg/5e46b09c76b42.jpg)

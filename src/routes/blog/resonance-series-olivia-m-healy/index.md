@@ -28,6 +28,8 @@ featured: false
 
 **![](https://lh5.googleusercontent.com/6oCzxN_sM2MK6EkMkuDwQ6Z8zpNDSc_fklFwrDqEhgFKGH07eZ6wTGUkVSBjenIMbxd_-xI1_9-Z9TvsJHIg9TIJPzHXbccpqqzqV9Zu9AkBRlWjJRK9u497Lg_M6-Xx5pOM4Rwi)****Olivia studied Illustration at Falmouth university and her work initially ‘was strongly influenced by nature and the relaxing environment around’ her. But her inclusion in the drag and dance scenes of london melded her subject matter into something that took this meditative approach and inverted it into an explosive celebration of current drag parties.** 
 
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/680173574&color=%23a61104&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>
+
 [INFERNO](https://soundcloud.com/inferno_london "INFERNO") · [INFERNO SEPTEMBER 2019 – VENICE CALYPSO b2b LEWIS G. BURTON](https://soundcloud.com/inferno_london/inferno-september-2019-venice-calypso-b2b-lewis-g-burton "INFERNO SEPTEMBER 2019 - VENICE CALYPSO b2b LEWIS G. BURTON")
 
 **Olivia talks about the meditative roles of nightlife and artwork in her life, both being a means to let go and focus on her immediate surroundings in their audio and visual manifestations. Her artwork reflects this celebration of moments and scenes in her totemic, almost religious homages to god-like beings; pure reflections of the energy of nightlife.**  

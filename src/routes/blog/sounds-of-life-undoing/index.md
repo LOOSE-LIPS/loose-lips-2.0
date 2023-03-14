@@ -16,5 +16,5 @@ published: true
 tags: premiere
 featured: false
 ---
-![image](../imported/sounds-of-life-undoing/image1234.jpeg)An enigmatic collage of foley and field recordings, sinking their way into distortion and revealing more eerie landscapes.An unreleased by [Sounds of Life](https://soundcloud.com/700ok/).[](https://soundsoflife.bandcamp.com/)[https://soundsoflife.bandcamp.com](https://soundsoflife.bandcamp.com/)  
+![image](../imported/sounds-of-life-undoing/image1234.jpeg)An enigmatic collage of foley and field recordings, sinking their way into distortion and revealing more eerie landscapes.An unreleased by [Sounds of Life](https://soundcloud.com/700ok/).<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/875751988&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>[](https://soundsoflife.bandcamp.com/)[https://soundsoflife.bandcamp.com](https://soundsoflife.bandcamp.com/)  
 [](https://augusteoldham.bandcamp.com/)[https://augusteoldham.bandcamp.com](https://augusteoldham.bandcamp.com/)

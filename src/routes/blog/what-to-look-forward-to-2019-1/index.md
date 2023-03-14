@@ -21,6 +21,8 @@ featured: false
 
 **Matt Hardy – Festival Forte (Portugal) 22-25 August**After attending for the first time last year, it was one of the first dates in my diary. The spectacular line up at this single stage festival matches the extraordinary scenery of the Montemor-o-Velho Castle and surrounding towns in Portugal. Certainly a unique event. Inside tip: make sure you grab a hot dog at the stand next to the entrance – let’s just say that it’s not your typical hot dog.
 
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/XWqzn9UoPOE?wmode=opaque'></iframe>
+
 **Joss – Alfa Mist – (Village Underground, London) 13 May**It’s been a while since I’ve been to this venue, but it's still one of my favourites. Interesting to be there when hosting a night that isn’t techno.
 
 ![](/wp-content/uploads/live/img/wysiwyg/5c3ca3dc6910b.jpg)

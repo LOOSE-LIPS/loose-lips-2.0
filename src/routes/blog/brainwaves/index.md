@@ -18,7 +18,7 @@ tags: interview
 featured: false
 ---
 ![image](../imported/brainwaves/image793.jpeg)Last week, we've premiered [_Catch-23_ by Tout Casser](http://loose-lips.co.uk/blog/tout-casser-catch-23-bws003), excerpts from Brainwaves' latest VA _Caustic Dance_ EP.  
-It was also a good opportunity to chat with the guys behind this interesting label from Geneva and get some insight.
+It was also a good opportunity to chat with the guys behind this interesting label from Geneva and get some insight.<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/597477327&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>
 
 **Who’s behind Brainwaves and how did it start?**Five aliens and a lot of acid. All of us have been releasing music on a more experimental / electronica / IDM record label called [EICA Records](https://eicarecords.ch/music) for years now. Brainwaves is our outlet for club-oriented weirdness.
 

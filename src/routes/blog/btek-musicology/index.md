@@ -27,19 +27,19 @@ featured: false
 
 ![](/wp-content/uploads/live/img/wysiwyg/5c5d7c16bb8ed.jpg)
 
-**Btek’s pick of Lofefah**
+**Btek’s pick of Lofefah**<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/ZUk7q0Lh6tE?wmode=opaque'></iframe>
 
-**Btek’s pick of Sumgii**
+**Btek’s pick of Sumgii**<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/kxB6GRbWDjY?wmode=opaque'></iframe>
 
 [Onoe Capone 9th Feb @Hifi Leeds](https://www.facebook.com/events/762840890742800/)Next up is the Onoe Capone show along side some of the best up and coming UK artists. Onoe Capone is London based and signed to High Focus. With a unique and interesting style, it's really worth checking him out and the rest of the talent involved in this show. Onoe Capone just released the first track ‘suicide city’ from his next “surf or die” on high focus records. Jack Jetson just released his highly anticipated new album Strange Cinema and he’ll be performing tracks from it on the night, with support from: Yung Finesse, Lzee169, Jack Jetson (Doomed2020), Lil Jay Erryday (Doomed2020), Toshiro Steel (Doomed2020), Jack Danz (Blah! Records), Lynfield Ward.
 
-Take a peep the first single from the release here:
+Take a peep the first single from the release here:<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/iNU8yFYIP3k?wmode=opaque'></iframe>
 
-**Three favourite Onoe Capone tracks** 
+**Three favourite Onoe Capone tracks** <iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/hDI0EiNqKrk?wmode=opaque'></iframe><iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/uH-2yjhC4vY?wmode=opaque'></iframe><iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/114841493&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true'></iframe>
 
 [Foreign Beggars 22nd Feb @Eiger Studios](https://www.facebook.com/events/219655858910263/)We’ve got Foreign Beggars to play a 3hour DJ set, spanning across their influences – not just the average club set. They haven’t toured in the UK for years so this is a once in a blue moon chance to see them play in an intimate surrounding. Foreign Beggars started out releasing on there own label dented records and since then they have released on Deadmau5’s label Mau5trap and worked alongside Noisia / Alix Perez / Skrillex / Bare Noize (to name a few names). Support for this one coming from Ghost Town.
 
-**Top Pick of Foreign Beggars tracks**
+**Top Pick of Foreign Beggars tracks**<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/hnYvKLFjdjw?wmode=opaque'></iframe><iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/Pb55ep-DrSo?wmode=opaque'></iframe><iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/-chxQEGQ8EQ?wmode=opaque'></iframe>
 
 [Musicology x Bassface Present: Dabbla (Death Moves album tour)](https://www.facebook.com/events/1935311869850319/)Dabbla is a big part of High Focus Recordings and also a member of Dead Players alongside Jam Baxter and Ghost Town. Dabbla fits with the musicology etho’s because his lyrical content is really wide spread and he speaks his mind on all sorts of issues. I worked with Jam Baxter on a show at studio 24 in 2018 and after that went so well they contacted me to arrange the Leeds leg of Dabbla’s tour, last year he released his award winning year of the monkey album and this year will see his return with his next album “death moves” on Potent.
 

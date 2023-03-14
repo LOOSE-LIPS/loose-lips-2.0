@@ -25,7 +25,7 @@ Tom specialises in surface design, and as a result he gets to see his work, worn
 ![](https://lh6.googleusercontent.com/cyie16Cc3k76Z-Arx0qdNh2ilP_hG3Hd6zuLuQxBZDp3INleDUm4OHqeECEk0Qy9n09wfRRkwg-rcTztQDwSfiTn_HaeUhZrkZIalGf5liSUNnyjcwtpjyzWT3u7KQ8xpZejG8CK)Tom’s throw design for Slowdown Studio.
 
 Tom's ability to improve a setting extends to his audio creations too. You can find his musical accompaniments to a chill pad here:  
- 
+ <iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/833557006&color=%23363112&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>
 
 [Abbiss](https://soundcloud.com/abbiss "Abbiss") · [Papaya](https://soundcloud.com/abbiss/papaya "Papaya")
 
@@ -51,7 +51,7 @@ Below are some works that inspire Tom: Sarah Nedovic, Lydia Harwick, and  Marce
 
 ![](https://lh3.googleusercontent.com/zrspg94G8uPaVtVLCn0fKsU7LB4nmBNdc7f_rxfONkZAPnUtUgscUT8P3Flgt5plaoy1lGfCcbl9_fHtkwtFSXsqFlpLTXdrfYlpuK4mwyIx2zhNkTalhbHJMCo0C6-eNl1Pxdwo)
 
-Tom’s work is light and care-free, but the deep tones and out there compositions are anything but twee, he bridges a gap between utopian and dramatic. This relaxed approach lends itself perfectly to studios such as slowdown and other brands that bring a modern paradisal touch to life. 
+Tom’s work is light and care-free, but the deep tones and out there compositions are anything but twee, he bridges a gap between utopian and dramatic. This relaxed approach lends itself perfectly to studios such as slowdown and other brands that bring a modern paradisal touch to life. <iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/831092515&color=%233f511e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>
 
 [Abbiss](https://soundcloud.com/abbiss "Abbiss") · [Coastin'](https://soundcloud.com/abbiss/coastin "Coastin'")
 

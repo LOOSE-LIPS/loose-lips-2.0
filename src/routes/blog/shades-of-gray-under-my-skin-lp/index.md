@@ -27,4 +27,6 @@ The title track _‘Under My Skin’_ is a steadily pumping creature, shifting t
 
 The whole package is attractive and transient. The duo have created a durable album drawing on their extensive experiences as a musical entity. A heads up for the vinyl crew also enjoying this record, an album sampler was released about 2 weeks before the actual album, with copies still available from the usual spots. Remixes on the 12” come from Prime Numbers boss Trus’Me and Jamie Stevens, member of legendary (defunct) Aussie band ‘Infusion’.Album Released: 6th Dec 2019 (Beatport)[Link to album](http://smarturl.it/sogumslp?fbclid=IwAR1igHYuk_XtnaGIA_eOuLI5txzHDjlFB9lY9q48-tI1CHToxUE5CITtApQ)
 
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/922163590&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true'></iframe>
+
 ![](/wp-content/uploads/live/img/wysiwyg/5e1b15fe32cf7.jpg)

@@ -17,4 +17,4 @@ published: true
 tags: feature
 featured: false
 ---
-![image](../imported/howard-mades-sunday-jams-sarah-vaughn-in-a-sentimental-mood/image997.jpeg)One of my nearest and dearest friends first showed me this absolutely STUNNING song. Originally written by Duke Ellington, this version’s voice will soothe any hungover Sunday ache. Hate to be literal, but I am indeed in a sentimental mood.
+![image](../imported/howard-mades-sunday-jams-sarah-vaughn-in-a-sentimental-mood/image997.jpeg)One of my nearest and dearest friends first showed me this absolutely STUNNING song. Originally written by Duke Ellington, this version’s voice will soothe any hungover Sunday ache. Hate to be literal, but I am indeed in a sentimental mood.<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/PHxpp6kbpg8?wmode=opaque'></iframe>

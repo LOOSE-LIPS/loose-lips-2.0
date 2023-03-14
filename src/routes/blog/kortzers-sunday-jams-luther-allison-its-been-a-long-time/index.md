@@ -13,4 +13,4 @@ published: true
 tags: feature
 featured: false
 ---
-![image](../imported/kortzers-sunday-jams-luther-allison-its-been-a-long-time/image903.jpeg)
+![image](../imported/kortzers-sunday-jams-luther-allison-its-been-a-long-time/image903.jpeg)<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/hRSiGOJ5c2c?wmode=opaque'></iframe>

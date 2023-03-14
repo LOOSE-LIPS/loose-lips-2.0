@@ -21,6 +21,8 @@ featured: false
 
 His productions are original, gritty and complex; borne in a dilapidated lab wreathed in gloom and enmity. Out of the smoky chamber lit only by a decadent monitor, Babau has arrived. Categorised by its birthplace, the record reflects its bleak surroundings whilst also being invigorating and energetic. Tzusan consistently reaps the benefit of workman-like sampling, drawing sounds from all manner of milieu. A sci-fi/horror influence is extremely apparent, as the Scot pours fragmented inspiration from film and art-house pieces into his productions with an innate air of maturity. The record features not only Tzusan’s raspy flow and dystopian production, but also contains verses from his SKOOP family crew as well Glaswegian artist Kid Robotik and Brighton based posse CMPND. Let’s dig a little deeper and analyse some of the tracks that make this multifarious bit of madness so original.
 
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://bandcamp.com/EmbeddedPlayer/album=32927676/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/'></iframe>
+
 ‘Prelude’ immediately exemplifies Tzusan’s production skills, with glitched out trills and illbient elements taking the reigns before his vocals punch through, setting the sombre tone with his disconsolate yet thought provoking lyrics.
 
 ‘Freezer Sections Dealers Left’ incorporates a more boom bap styling, but stunts as if rolled on an indica blunt. A sleepy yet haunting backing vocal percolates and instils nagging terror, until the track almost halts, transforming into a pressing entity with a different and eerily echoed message.

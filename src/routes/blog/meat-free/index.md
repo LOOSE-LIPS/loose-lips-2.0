@@ -40,3 +40,5 @@ In seven years, Alice and the rest of Meat Free have achieved so much, and it do
 Ultimately, it’s their passion, along the tremendous amount of work they have put in which cemented their place in the Manchester scene throughout all of these years. _“Despite having natural dips in our journey and times when we felt like giving up, we still have as much love for it today as we did when we started. In the past eighteen months, I think it’s safe to say we all really rekindled our love and passion for it. We’ve all had a lot going on in our own lives and it was really hard at one point to keep all the plates spinning, but I’m really happy that we managed enough energy to keep each other going and came out stronger on the other side.”_
 
 Decidedly, Meat Free is here to stay.
+
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/48355183&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>

@@ -19,6 +19,8 @@ featured: false
 ---
 ![image](../imported/the-bpm-continuum-2020/image1057.jpeg)Upon launching this series of articles a few months ago, I’ve been looking for new ways to reflect the moving nature of forward-thinking bass music beyond BPM considerations. In the first few editions of this feature, I struggled with the fact that I mostly focus on actual releases – whether they be self-made or done through a label. Sometimes this focus prevents me from speaking about artists who haven’t released tunes yet. Artists that you stumble upon through your email address or during a digital digging session. In order to shine a light on that side of the scene, I’ll add insights on various producers in this category.
 
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/725659156&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true'></iframe>
+
 According to his Soundcloud account, Tower Block Dreams is a producer based in both London & Madrid, whp only has a couple of tracks available through Bandcamp at the moment. He already caught the ears of a few well-respected selectors – Riz La Teef and Filter Dread, to name a few –, and, more importantly, his Soundcloud feed already displays a fair amount of tunes showcasing his own take on future garage. Tower Block Dreams stands out, with cues taken through the hardcore continuum’s entire lineage and it has an archaeological quality that reminds me of peers such as Mulengasound. One to follow for sure!
 
 ![](/wp-content/uploads/live/img/wysiwyg/5e81e710d8ef8.jpeg)

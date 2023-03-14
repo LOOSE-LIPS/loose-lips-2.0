@@ -64,4 +64,6 @@ The emotional intensity and sensitivity that comes with any conversation relatin
 
 “So I guess it just stings a little”, he says of how mistrust towards his intentions and allegiances makes him feel. “But that’s because I’ve got quite sensitive skin. But yeah, I can’t reiterate it enough, for me it has always been about being a community thing and representing that strain of dance music culture in a shop. This is a retail concern but I’m not completely money driven. It’s about making a good place to buy records.” 
 
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/49149703&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true'></iframe>
+
 [Idle Hands – Facebook](https://www.facebook.com/idlehandsbristol/)

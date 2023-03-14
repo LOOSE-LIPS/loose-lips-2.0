@@ -20,7 +20,9 @@ published: true
 tags: release-review
 featured: false
 ---
-![image](../imported/paul-blackford-perspectives/image1069.jpeg)Paul Blackford is back (with a tape that came out in September 2019) – but the release date doesn’t matter. What is important is the music, and Paul Blackford’s music has a timeless quality! 
+![image](../imported/paul-blackford-perspectives/image1069.jpeg)<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://bandcamp.com/EmbeddedPlayer/album=1860856939/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/'></iframe>
+
+Paul Blackford is back (with a tape that came out in September 2019) – but the release date doesn’t matter. What is important is the music, and Paul Blackford’s music has a timeless quality! 
 
 In this tape, entitled ‘_Perspectives_’, Blackford comes back to his downtempo roots. This tape, which marks his first release in a while, bears a resemblance to his 2007 release on CPU – ‘Light Years’ which is full of short cuts, beats, and dreamy electro excursions. 
 

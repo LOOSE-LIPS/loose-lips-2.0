@@ -74,6 +74,7 @@ const config = {
       entries: ["*"],
     },
     vite: () => ({
+      server: { port: 3001 },
       resolve: {
         alias: {
           $stores: resolve(__dirname, "./src/stores"),

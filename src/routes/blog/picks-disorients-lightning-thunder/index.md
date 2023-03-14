@@ -20,18 +20,18 @@ featured: false
 
 The following 10 tracks trace the three stages of a storm, exploring the calm, the electricity tinged and the rumbling that follows. As the clouds part and the sun shines through, the storm is over…for now. 
 
-The half-time drums and Eastern twang on this 10” from Zha captures the eeriness of the ‘cumulus’ stage of the storm. Calm but sinister. Somethings brewing.    The sub-frequencies on this 2014 Compa and Ipman release mimic an earthy tension felt at ground level during the build-up of a storm. 
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/vIGaJTRfFUo?wmode=opaque'></iframe>The half-time drums and Eastern twang on this 10” from Zha captures the eeriness of the ‘cumulus’ stage of the storm. Calm but sinister. Somethings brewing.   <iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/eh8p8yQ-KXs?wmode=opaque'></iframe> The sub-frequencies on this 2014 Compa and Ipman release mimic an earthy tension felt at ground level during the build-up of a storm. 
 
- The sonic realities of the storm approach, but from a distance.  
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/nZ0X59x2oP8?wmode=opaque'></iframe> The sonic realities of the storm approach, but from a distance.  
 
-No storm is complete without sweltering rain. Let Paleman drench you in drums and a hypnotic, ever changing modular vocal loop. The storm is now in the ‘mature’ phase.  
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/5I7xWWPOFas?wmode=opaque'></iframe>No storm is complete without sweltering rain. Let Paleman drench you in drums and a hypnotic, ever changing modular vocal loop. The storm is now in the ‘mature’ phase.  
 
-Pulsating and destructive EP from Aftertaste Recordings. The track title says it all. The sky is dark and the lightning is heating the surrounding air to 30,000°C causing a cacophony of thunder.  
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/wql5fcqrLMs?wmode=opaque'></iframe>Pulsating and destructive EP from Aftertaste Recordings. The track title says it all. The sky is dark and the lightning is heating the surrounding air to 30,000°C causing a cacophony of thunder.  
 
- Sukh Knight delves into the high-voltage grime on this White Peach number. No signs of a break in the clouds yet.  
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/rmmxB0pE6Xw?wmode=opaque'></iframe> Sukh Knight delves into the high-voltage grime on this White Peach number. No signs of a break in the clouds yet.  
 
-Forks of strong electric current pierce through this Jerome Hill remix.  
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/513344595&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false'></iframe>Forks of strong electric current pierce through this Jerome Hill remix.  
 
-The opening of this new joint from Reptant on Kalahari Oyster Cult tricks us into thinking the clouds are parting and the storm dissipating. Instead we’re stuck in the eye of the storm and the acid tinged second half pulls us right back into the mix.   The storm slowly begins to dissipate. The vocal here: “Swimming with the already drowned, Neptune’s nepotism comes unwound”, sticks with us as a reminder of the powerful forces of nature.  
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/Rc_zwEFCPqg?wmode=opaque'></iframe>The opening of this new joint from Reptant on Kalahari Oyster Cult tricks us into thinking the clouds are parting and the storm dissipating. Instead we’re stuck in the eye of the storm and the acid tinged second half pulls us right back into the mix.   <iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/N6jV-eUVnnQ?wmode=opaque'></iframe>The storm slowly begins to dissipate. The vocal here: “Swimming with the already drowned, Neptune’s nepotism comes unwound”, sticks with us as a reminder of the powerful forces of nature.  
 
-The land begins to soak up the rains, the sun peeks through the clouds again, and wildlife emerge from their hiding places. The rhythm of life is restored.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/Hell1wNfOJM?wmode=opaque'></iframe>The land begins to soak up the rains, the sun peeks through the clouds again, and wildlife emerge from their hiding places. The rhythm of life is restored.

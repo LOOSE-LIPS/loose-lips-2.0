@@ -42,3 +42,5 @@ I**s there a certain ethos you’re looking to carry through with you as you sta
 ![](/wp-content/uploads/live/img/wysiwyg/5eb7ff728c733.jpg)
 
 **I started on a question for Connor so I’ll end on one for Wakil. Can you talk me through #Pastagate?**Ok I’m not going to name names but it concerns a Manchester based DJ who’s name rhymes with furlough… I made a pasta bake in the afternoon, but I get home after work and there’s about a million people in my gaff… I get to the kitchen and there’s all these people in there and guess what? Pasta bake is gone. Anyway, it turns out it was said DJ, so I took to social media but got no response, that’s about it really, I’ve just been trying to get a response since! Hopefully I’ll get one someday.**Left, Right & Centre – V/A Vol.1 – 'Nothing Left To Say' \[LRC001\] is out 29****th** **May.**
+
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1046769205&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>

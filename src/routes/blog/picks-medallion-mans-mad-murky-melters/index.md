@@ -21,22 +21,22 @@ featured: false
 
 "10 pieces of mischievous malarkey, made malicious by meaningful musicians. Music that’s massively moving me."
 
-Motivational.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/ieXfF89NrXQ?wmode=opaque'></iframe>Motivational.
 
-Memories.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/j7zcIux80Kc?wmode=opaque'></iframe>Memories.
 
-Mullered.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/g8COxLuH_qg?wmode=opaque'></iframe>Mullered.
 
-Minted.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/x4jpQMUScUk?wmode=opaque'></iframe>Minted.
 
-Malevolent.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/784661035&color=%23e1a9b6&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false'></iframe>Malevolent.
 
-Memphis.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/3W2jLb7AM3s?wmode=opaque'></iframe>Memphis.
 
-Misbehaving.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/6zBLh2FHNrw?wmode=opaque'></iframe>Misbehaving.
 
-Mashed.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/gL664OX6Xsc?wmode=opaque'></iframe>Mashed.
 
-Mentally misshapen.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/583230459&color=%23e1a9b6&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false'></iframe>Mentally misshapen.
 
-Mechanical.
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/JAj3ZkgP_4Y?wmode=opaque'></iframe>Mechanical.

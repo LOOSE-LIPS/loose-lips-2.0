@@ -19,5 +19,5 @@ published: true
 tags: premiere
 featured: false
 ---
-![image](../imported/pera-sta-orh-a-pother-evel/image1296.jpeg)Darkside badboi bizniz and beyond, from Greek producer ΠΕΡΑ ΣΤΑ ΟΡΗ (Peta Sta Ori)!From [ΠΕΡΑ ΣΤΑ ΟΡΗ](https://perastaori.bandcamp.com/)'s _REVANCHE_ EP on [EVEL](https://evel.bandcamp.com/).Out 6.11.2020 on 8" and digital – Pre-order: [https://evel.bandcamp.com/album/revanche](https://evel.bandcamp.com/album/revanche)[https://soundcloud.com/evelrdcs](https://soundcloud.com/evelrdcs)  
+![image](../imported/pera-sta-orh-a-pother-evel/image1296.jpeg)Darkside badboi bizniz and beyond, from Greek producer ΠΕΡΑ ΣΤΑ ΟΡΗ (Peta Sta Ori)!From [ΠΕΡΑ ΣΤΑ ΟΡΗ](https://perastaori.bandcamp.com/)'s _REVANCHE_ EP on [EVEL](https://evel.bandcamp.com/).Out 6.11.2020 on 8" and digital – Pre-order: [https://evel.bandcamp.com/album/revanche](https://evel.bandcamp.com/album/revanche)<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/911203585&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>[https://soundcloud.com/evelrdcs](https://soundcloud.com/evelrdcs)  
 [https://soundcloud.com/pera-sta-ori](https://soundcloud.com/pera-sta-ori)

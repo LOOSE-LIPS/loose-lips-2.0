@@ -23,6 +23,8 @@ featured: false
 
 **Will taps in to the mystique of the music producer and their visage with his mixed media works. Using different styles and techniques, he unveils the underlying emotions that are tied to the appreciation of another artist. This ‘art about artists’ is a perfect concept for the resonance series as it really portrays how media can be used to distil down the indescribable. Will draws on his skill for abstraction and application of stylistic techniques to draw out the lateral emotions or styles that he attributes to his chosen musicians, the result is inescapable emotion in physical form, a visual representation of music and his emotion towards it.** 
 
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/842696053&color=%238cb8ba&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>
+
 [Makirikur](https://soundcloud.com/makirikur "Makirikur") · [Ice – Album Mix](https://soundcloud.com/makirikur/ice-album-mix "Ice - Album Mix")
 
 **Will Humphreys / Makirikur****The 100 Electronica Portraits Series****Music, Art and Human Connection****![](https://lh5.googleusercontent.com/37NUI6tyVqYjl_6tG9mjBMWCoEG9RBYZKzCsCRyyXf8b01fQHG5GNWIWi5KNERpEQCl2O2f9g9ZivYfx5OOM6q5K-DtiqFsCI3jwFypxTj8d6U4bf4yeeN1MoiT1JZMyvmHjtaNF "horizontal line")**

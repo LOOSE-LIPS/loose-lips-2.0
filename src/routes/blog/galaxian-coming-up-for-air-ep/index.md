@@ -33,3 +33,5 @@ The EP starts with ‘External Observer’, an unabashedly shrill electro workou
 Sadly, the EP has to finish. ‘Terminal Phase’ cuts Galaxian’s latest transmission off with an eerie signal of lurid intention. Like a celestial drone signalling it’s home planet, the noise evokes thoughts of otherworldly occurrences and cinematic dread.
 
 Whilst still undoubtedly experimental and illicitly ethereal, the EP falls somewhat within the remit of DJ’s who constantly reiterate that they are ‘pushing boundaries’ in their sets. Regardless of its danceability, Galaxian has created another belligerent and bespoke masterpiece brimming with peculiarities and programming dexterity.
+
+<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/686052526&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true'></iframe>
