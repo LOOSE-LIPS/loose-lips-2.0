@@ -17,7 +17,7 @@
   import Footer from "$ui/components/footer/Footer.svelte";
   import RouteTransition from "$ui/components/route-transition/RouteTransition.svelte";
   import Player from "$shared/components/player/Player.svelte";
-
+  import { currentTrack } from "../stores";
   export let path = "";
   /**
    * @type {IHeaderNavLink}
@@ -27,6 +27,11 @@
     const htmlTag = document.getElementsByTagName("html").item(0);
     htmlTag.className = event.detail.dark ? "dark" : "dark";
   };
+
+  let track = "";
+  currentTrack.subscribe((prev) => {
+    track = prev;
+  });
 </script>
 
 <div class="">
@@ -36,10 +41,12 @@
     title={"LOOSE LIPS"}
     useTitleAndLogo={true}
   />
+
   <main id="skip" class="flex flex-col justify-center px-8 dark:bg-black pt-4">
     <RouteTransition referesh={path}>
       <slot />
     </RouteTransition>
     <Footer />
   </main>
+  <Player {track} />
 </div>
