@@ -16,6 +16,7 @@
   import Header from "$ui/components/header/Header.svelte";
   import Footer from "$ui/components/footer/Footer.svelte";
   import RouteTransition from "$ui/components/route-transition/RouteTransition.svelte";
+  import Player from "$shared/components/player/Player.svelte";
 
   export let path = "";
   /**
