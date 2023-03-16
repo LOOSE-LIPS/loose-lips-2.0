@@ -30,6 +30,10 @@
     searchUrl: "/mixes",
   };
 
+  const setTrack = (e: any) => {
+    currentTrack.set(showData.iframeLink);
+  };
+
   const tags = mixData
     .map((x) => x.tags)
     .filter((x) => x.trim())
