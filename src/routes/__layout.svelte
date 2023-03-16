@@ -29,10 +29,6 @@
   };
 
   let track = "";
-
-  currentTrack.subscribe((prev) => {
-    track = prev;
-  });
 </script>
 
 <div class="">

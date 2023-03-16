@@ -1,8 +1,12 @@
 <script lang="ts">
-  import { currentTrack } from "$stores";
   import { onMount } from "svelte";
+  import { currentTrack } from "../../../../stores";
+
   let widget;
-  export let track;
+  let track;
+  currentTrack.subscribe((prev) => {
+    track = prev;
+  });
 
   const getSc = async () => {
     if ((window as any)?.SC) return (window as any)?.SC;
@@ -38,17 +42,19 @@
   });
 </script>
 
-<div class="fixed bottom-0 left-0 right-0 bg-white text-black h-36 py-2 px-4">
-  <h1>PERMANENT Player</h1>
-
-  <iframe
-    id="perP"
-    title="title"
-    width="100%"
-    height="100%"
-    scrolling="no"
-    frameborder="no"
-    allow="autoplay"
-    src={track}
-  />
-</div>
+{#if track === ""}
+  <div />
+{:else}
+  <div class="fixed bottom-0 left-0 right-0 bg-white text-black h-36 py-2 px-4">
+    <iframe
+      id="perP"
+      title="title"
+      width="100%"
+      height="100%"
+      scrolling="no"
+      frameborder="no"
+      allow="autoplay"
+      src={track}
+    />
+  </div>
+{/if}
