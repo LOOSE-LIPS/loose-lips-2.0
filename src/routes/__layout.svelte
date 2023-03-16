@@ -17,7 +17,7 @@
   import Footer from "$ui/components/footer/Footer.svelte";
   import RouteTransition from "$ui/components/route-transition/RouteTransition.svelte";
   import Player from "$shared/components/player/Player.svelte";
-  import { currentTrack } from "../stores";
+
   export let path = "";
   /**
    * @type {IHeaderNavLink}
@@ -49,5 +49,5 @@
     </RouteTransition>
     <Footer />
   </main>
-  <Player {track} />
+  <Player />
 </div>
