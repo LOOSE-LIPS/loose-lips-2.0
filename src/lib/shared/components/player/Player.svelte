@@ -1,4 +1,5 @@
 <script lang="ts">
+
   import { onMount } from "svelte";
   import { currentTrack } from "../../../../stores";
   let widget;
@@ -22,7 +23,9 @@
 
     widget.bind(sc.Widget.Events.READY, function () {
       console.log("LETS GOOOOOOO");
+
       widget.play();
+
     });
   };
 
@@ -38,6 +41,7 @@
     handleSoundCloudWidget();
   });
 </script>
+
 
 {#if track === ""}
   <div />
@@ -55,3 +59,4 @@
     />
   </div>
 {/if}
+
