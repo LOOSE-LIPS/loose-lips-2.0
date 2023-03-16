@@ -40,7 +40,6 @@
   let visible = radioShows.sort(
     (a, b) => Number(new Date(b.date)) - Number(new Date(a.date))
   );
-  console.log(visible);
 
   let selectedTags = [];
 

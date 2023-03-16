@@ -4,8 +4,6 @@
   export let tag: string;
   export let onClick: () => void;
   export let active: boolean;
-
-  console.log({ active });
 </script>
 
 <button
