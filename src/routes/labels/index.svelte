@@ -51,9 +51,11 @@
     <div class="mb-4">
       <input
         bind:value={searchValue}
-        aria-label="Search articles"
+        aria-label="Search Label"
         type="text"
+
         placeholder="Search labels"
+
         class="px-4 py-2 border border-gray-300 dark:border-gray-900 focus:ring-blue-500 focus:border-blue-500 block w-full rounded-md bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
       />
       <svg
@@ -75,8 +77,10 @@
       class="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 justify-between gap-5 "
     />
 
+
     <div class="grid  grid-cols-4 grid-rows-4 justify-between gap-3">
       {#each filteredLabels as label}
+
         <LabelPost {label} />
       {/each}
     </div>

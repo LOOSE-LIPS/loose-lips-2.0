@@ -32,7 +32,7 @@
       {post.title}
     </h3>
     <h4 class=" italic font-thin text-gray-300 text-lg md:text-xl mb-2 w-full ">
-      {post.tags[0]}
+      {post.tags}
     </h4>
   </a>
 </div>

@@ -11,19 +11,22 @@
   export let useTitleAndLogo = false;
 
   const dispatch = createEventDispatcher();
+  import MediaQuery from 'svelte-media-queries'
+  import BurgerMenu from 'svelte-burger-menu'; 
 </script>
 
-<header class="opacity-100 relative flex text-gray-900 w-full bg-white">
+<MediaQuery query="(min-width: 480px)" let:matches>
+<header class="opacity-100 relative flex text-gray-900 w-full bg-black">
   <nav
     class="flex flex-row items-center justify-between w-full max-w-4xl  mx-auto opacity-100"
   >
     {#if useTitleAndLogo}
       <div
-        class="w-auto p-1 text-gray-900 dark:text-gray-100 font-bold"
+        class="w-auto p-1 text-gray-900 dark:text-gray-100 font-bold fxed stop-10 right-5"
         style="position: fixed;
-			left: 5%;
-			top: 5%;
-			transform: translate(-50%, -50%);"
+        left: 5%;
+        top: 5%;
+        transform: translate(-50%, -50%);"
       >
         <a
           data-sveltekit:prefetch
@@ -44,7 +47,7 @@
       </div>
     {/if}
     <div
-      class="flex flex-row items-center sm:mr-0"
+      class="flex flex-row items-center sm:mr-0 invisible md:visible md:flex sm:flex-col"
       style="
       opacity: 1;
 		position: fixed;
@@ -71,22 +74,69 @@ margin-top: 7%;font-size:1.2em;margin-right:1em"
         id="menu"
       >
         <a href="https://soundcloud.com/loose-lips123">
-          <ion-icon name="logo-soundcloud" size="large" class="soundcloud" />
+          <ion-icon name="logo-soundcloud" size="large" class="soundcloud" style="color:white" />
         </a>
         <a href="https://www.instagram.com/looselipsevents/?hl=fr">
-          <ion-icon name="logo-instagram" size="large" class="instagram" />
+          <ion-icon name="logo-instagram" size="large" class="instagram" style="color:white" />
         </a>
         <a href="https://www.youtube.com/channel/UCjGQIIPUXfIi-ahpj79p7jA">
-          <ion-icon name="logo-youtube" size="large" class="youtube" />
-        </a>
-        <a href="https://www.youtube.com/channel/UCjGQIIPUXfIi-ahpj79p7jA">
-          <ion-icon name="logo-discord" size="large" class="discord" />
-        </a>
-
-        <a href=" https://looselips123.bandcamp.com/">
-          <ion-icon name="logo-discord" size="large" class="discord" />
+          <ion-icon name="logo-youtube" size="large" class="youtube" style="color:white" />
         </a>
       </div>
     </div>
   </nav>
 </header>
+
+<style>
+  svg{
+    position: fixed;
+    top: 15px;
+    right: 5px;
+  }
+</style>
+</MediaQuery>
+
+<MediaQuery query="(max-width: 480px)" let:matches>
+	{#if matches}
+  <BurgerMenu burgerColor="white" backgroundColor="black" menuColor="white" width="70%">
+    <div
+    class="opacity-100 flex justify-center items-center flex-wrap space-x-2"
+    id="menu"
+  >
+    <a href="https://soundcloud.com/loose-lips123">
+      <ion-icon name="logo-soundcloud" size="large" class="soundcloud" style="color:white" />
+    </a>
+    <a href="https://www.instagram.com/looselipsevents/?hl=fr">
+      <ion-icon name="logo-instagram" size="large" class="instagram" style="color:white" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCjGQIIPUXfIi-ahpj79p7jA">
+      <ion-icon name="logo-youtube" size="large" class="youtube" style="color:white" />
+    </a>
+    </div>
+    {#each navLinks as navLink, index (navLink.path)}
+    <a
+      data-sveltekit:prefetch
+      href={navLink.path}
+      class="text-5xl p-1"
+      class:nav-active-route={$page.path === navLink.path ||
+        $page.path === `${navLink.path}/`}
+      class:nav-inactive-route={$page.path !== navLink.path &&
+        $page.path !== `${navLink.path}/`}
+    >
+      {navLink.label}
+    </a>
+  {/each}
+
+</BurgerMenu>
+
+<style>
+  #container.s-IcYEBePVyero{
+    z-index:1;
+    position:fixed;
+  }
+
+</style>
+	{/if}
+ 
+</MediaQuery>
+
