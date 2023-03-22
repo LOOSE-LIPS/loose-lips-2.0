@@ -33,8 +33,8 @@
   let searchValue = "";
   $: filteredLabels = labels
     .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
-    .filter((crewMember) =>
-      crewMember.title.toLowerCase().includes(searchValue.toLowerCase())
+    .filter((label) =>
+      label.title.toLowerCase().includes(searchValue.toLowerCase())
     );
 </script>
 
@@ -53,7 +53,7 @@
         bind:value={searchValue}
         aria-label="Search articles"
         type="text"
-        placeholder="Search Crew members"
+        placeholder="Search labels"
         class="px-4 py-2 border border-gray-300 dark:border-gray-900 focus:ring-blue-500 focus:border-blue-500 block w-full rounded-md bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
       />
       <svg
@@ -76,10 +76,9 @@
     />
 
     <div class="grid  grid-cols-4 grid-rows-4 justify-between gap-3">
-      {#each labels as label}
+      {#each filteredLabels as label}
         <LabelPost {label} />
       {/each}
     </div>
-
   </div>
 </div>

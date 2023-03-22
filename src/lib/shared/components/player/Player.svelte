@@ -1,4 +1,5 @@
 <script lang="ts">
+  import type { log } from "console";
   import { onMount } from "svelte";
   import { currentTrack } from "../../../../stores";
 
@@ -18,14 +19,10 @@
     const sc = await getSc();
     let iframeElement = document.getElementById("perP");
     widget = sc.Widget(iframeElement);
-
     widget.bind(sc.Widget.Events.READY, function () {
       console.log("LETS GOOOOOOO");
-      if (track != "") {
-        setTimeout(() => {
-          widget.play();
-        }, 5000);
-      }
+
+      widget.play();
     });
   };
 
@@ -38,7 +35,11 @@
       script.onload = () => handleSoundCloudWidget();
       return;
     }
-    handleSoundCloudWidget();
+
+    if (track != "") {
+      handleSoundCloudWidget();
+      console.log("woooohoooo");
+    }
   });
 </script>
 

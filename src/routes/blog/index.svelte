@@ -15,7 +15,6 @@
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import BlogPost from "$components/blog-post/BlogPost.svelte";
   import Button from "$shared/ui/components/button/Button.svelte";
-  import TagsContainer from "$shared/components/tags-container/TagsContainer.svelte";
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import { convertToSlug } from "$utils/convert-to-slug";
@@ -38,9 +37,15 @@
   console.log(tags);
 
   let visible = blogs;
-  let searchValue = "";
-  let selectedTags = [];
 
+  let searchValue = "";
+  $: searchedBlogs = visible
+    .sort((a, b) => Number(new Date(b.date)) - Number(new Date(a.date)))
+    .filter((blog) =>
+      blog.title.toLowerCase().includes(searchValue.toLowerCase())
+    );
+
+  let selectedTags = [];
   const handleTagClick = (tag) => {
     if (selectedTags.includes(tag)) {
       selectedTags = selectedTags.filter((x) => x !== tag);
@@ -118,8 +123,14 @@
   <div
     class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5"
   >
-    {#each visible as blog}
-      <BlogPost {blog} />
-    {/each}
+    {#if searchValue === ""}
+      {#each visible as blog}
+        <BlogPost {blog} />
+      {/each}
+    {:else}
+      {#each searchedBlogs as blog}
+        <BlogPost {blog} />
+      {/each}
+    {/if}
   </div>
 </div>

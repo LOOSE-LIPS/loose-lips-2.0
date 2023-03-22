@@ -14,7 +14,6 @@
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import Button from "$shared/ui/components/button/Button.svelte";
-
   import type { IMix } from "$lib/models/interfaces/imix.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import RadioShowPost from "$shared/components/radioshow-post/RadioShowPost.svelte";
@@ -75,7 +74,7 @@
         bind:value={searchValue}
         aria-label="Search articles"
         type="text"
-        placeholder="Search Crew members"
+        placeholder="Search radio shows"
         class="px-4 py-2 border border-gray-300 dark:border-gray-900 focus:ring-blue-500 focus:border-blue-500 block w-full rounded-md bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100"
       />
       <svg
