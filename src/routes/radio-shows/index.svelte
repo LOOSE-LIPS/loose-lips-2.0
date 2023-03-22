@@ -111,7 +111,7 @@
       {/each}
     </div>
 
-    <div class="grid  grid-cols-4 grid-rows-4 justify-between gap-3">
+    <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5">
       {#each visible as showData}
         <RadioShowPost {showData} />
       {/each}
