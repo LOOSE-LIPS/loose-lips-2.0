@@ -6,7 +6,7 @@ type: crew
 slug: trav-chris-wardle
 author: 100
 banner:
-  - imported/trav-chris-wardle/image4554.jpeg
+  - imported\trav-chris-wardle\image4554.jpeg
 description: >-
   I am an illustrator, animator and hand painted clothing bootlegger and video
   man&#8230; I work mainly in the medium of pen and ink and digital colour but

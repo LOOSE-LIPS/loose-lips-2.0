@@ -6,7 +6,7 @@ type: crew
 slug: physik
 author: 100
 banner:
-  - imported/physik/image4533.jpeg
+  - imported\physik\image4533.jpeg
 description: 'BRISTOLIAN BOSS [...]Read More...'
 published: true
 tags:
