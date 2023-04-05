@@ -82,6 +82,9 @@ margin-top: 7%;font-size:1.2em;margin-right:1em"
         <a href="https://www.youtube.com/channel/UCjGQIIPUXfIi-ahpj79p7jA">
           <ion-icon name="logo-youtube" size="large" class="youtube" style="color:white" />
         </a>
+        <a href="https://www.youtube.com/">
+          <img src="/icons/mc (2).png" style="height:32px" alt="mixcloud">
+        </a>
       </div>
     </div>
   </nav>
