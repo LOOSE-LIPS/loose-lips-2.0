@@ -6,7 +6,7 @@ type: crew
 slug: circula
 author: 100
 banner:
-  - imported/circula/image4522.jpeg
+  - imported\circula\image4522.jpeg
 description: >-
   AFFILIATE / INTERVIEWER Just some guy that makes music sometimes&#8230;the
   purveyor of LL011. Articles: http://loose-lips.co.uk/blog/wsr

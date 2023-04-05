@@ -6,7 +6,7 @@ type: crew
 slug: jack-rayner
 author: 100
 banner:
-  - imported/jack-rayner/image4549.jpeg
+  - imported\jack-rayner\image4549.jpeg
 description: >-
   EDITOR Widely discredited online editor Jack Rayner runs parties in Melbourne
   and makes electro-bass-techno clangs under the name Hedchef.

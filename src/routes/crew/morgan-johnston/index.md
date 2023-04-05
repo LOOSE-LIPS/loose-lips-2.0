@@ -6,7 +6,7 @@ type: crew
 slug: morgan-johnston
 author: 100
 banner:
-  - imported/morgan-johnston/image4538.jpeg
+  - imported\morgan-johnston\image4538.jpeg
 description: >-
   A&amp;R / Editorialist / Creative Contributor / DJ &amp; Producer A long time
   friend and collaborator of Loose Lips, Morgan resides in Manchester as a sound

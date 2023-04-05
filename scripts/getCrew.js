@@ -7,7 +7,7 @@ import path from "path";
 
 const username = "seedpipdev";
 const password = "ThisIsAPassword";
-const totalPages = 3;
+const totalPages = 4;
 
 const rootDir = process.cwd();
 

@@ -6,7 +6,7 @@ type: crew
 slug: clara-tehrani
 author: 100
 banner:
-  - imported/clara-tehrani/image4528.jpeg
+  - imported\clara-tehrani\image4528.jpeg
 description: >-
   WRITER Her gipsy nature has led Clara to live all over the world before
   deciding Berlin was the place to call home. Techno might have had something to
