@@ -35,11 +35,11 @@
     },
     {
       path: "/radio-shows",
-      label: "RADIO-SHOWS",
+      label: "RADIO",
     },
     {
       path: "/labels",
-      label: "LABELS",
+      label: "LABEL",
     },
   ];
 </script>
