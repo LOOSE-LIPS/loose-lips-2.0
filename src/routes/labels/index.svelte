@@ -46,7 +46,7 @@
       class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black
       dark:text-white"
     >
-      Labels
+      Label
     </h1>
     <div class="mb-4">
       <input
