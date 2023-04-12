@@ -31,6 +31,8 @@
     title: `${status} | Sveltekit`,
     description: "404 page of Sveltekit starter project",
   };
+
+  const test = () => {};
 </script>
 
 <HeadTags {metaData} />
