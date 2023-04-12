@@ -30,6 +30,10 @@
     keywords: ["about"],
     searchUrl: "/crew",
   };
+  
+  function sayHello(){
+    
+  }
 
   let searchValue = "";
   $: filteredCrewMembers = crewMembers
