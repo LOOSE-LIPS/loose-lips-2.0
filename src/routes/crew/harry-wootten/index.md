@@ -6,7 +6,7 @@ type: crew
 slug: harry-wootten
 author: 100
 banner:
-  - imported/harry-wootten/image4553.jpeg
+  - imported\harry-wootten\image4553.jpeg
 description: >-
   WRITER Writer, promoter and tune threader. Traversing the astral plane with
   vigour. Do believe the hype. It&#39;s real. He was there before you, if you

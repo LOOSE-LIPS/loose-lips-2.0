@@ -26,7 +26,8 @@
         {blog.title}
       </h3>
     </a>
-    <p class="text-gray-600 dark:text-gray-400">{blog.description}</p>
+    <p class="text-gray-600 dark:text-gray-400">{blog.description.substring(0,100)}...</p>
+    <p class="text-gray-600 dark:text-gray-400">Read More...</p>
     <p class="text-gray-600 dark:text-gray-400">{blog.date}</p>
     <!-- <TagsContainer tags={blog.tags} /> -->
   </div>
