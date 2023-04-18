@@ -199,8 +199,6 @@
     "soundcloud-scraper": "^5.0.3",
     "soundcloud-widget": "^0.2.1",
     "svelte-aplayer": "^0.1.1",
-    "svelte-burger-menu": "^2.0.5",
-    "svelte-hamburgers": "^4.0.1",
     "svelte-media-queries": "^1.5.4",
     "turndown": "^7.1.1",
     "yabai": "^0.0.10"
