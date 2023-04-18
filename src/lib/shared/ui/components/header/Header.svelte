@@ -2,6 +2,7 @@
   // Start: Local Imports
 
   import type { IHeaderNavLink } from "$models/interfaces/iheader-nav-link.interface";
+  import { NavigationProgressBar } from "$ui/components/navigation-progress-bar";
   import { NavigationBar } from "$ui/components/navigation-bar";
   export let logoImage!: string;
   export let title = "LOOSE LIPS";
@@ -16,7 +17,6 @@
       path: "/",
       label: "LL",
     },
-
     {
       path: "/blog",
       label: "BLOG",
@@ -35,11 +35,11 @@
     },
     {
       path: "/radio-shows",
-      label: "RADIO",
+      label: "RADIO-SHOWS",
     },
     {
       path: "/labels",
-      label: "LABEL",
+      label: "labels",
     },
   ];
 </script>
