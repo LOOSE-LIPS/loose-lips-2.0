@@ -13,13 +13,13 @@
 </script>
 
 <div class="flex-col h-[100%] m-6 cursor-pointer " on:click={setTrack}>
+
+  <img src={mixData.banner} alt="banner" />
   <h3
     class="text-lg md:text-xl font-medium  w-full text-gray-900 dark:text-gray-100"
   >
     {mixData.title}
   </h3>
-  <img src={mixData.banner} alt="banner" />
-
   <!-- <iframe
     id="sc-widget"
     title={mixData.title}
