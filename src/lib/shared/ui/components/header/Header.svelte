@@ -14,10 +14,6 @@
 
   const navLinks: IHeaderNavLink[] = [
     {
-      path: "/",
-      label: "LL",
-    },
-    {
       path: "/blog",
       label: "BLOG",
     },
@@ -35,7 +31,7 @@
     },
     {
       path: "/radio-shows",
-      label: "RADIO-SHOWS",
+      label: "RADIO",
     },
     {
       path: "/labels",
