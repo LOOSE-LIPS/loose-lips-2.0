@@ -1,16 +1,11 @@
 <script lang="ts">
-  // Start: Local Imports
-  // Components
   import TagsContainer from "$ui/components/tags-container/TagsContainer.svelte";
-
-  // Models
   import type { IBlog } from "$models/interfaces/iblog.interface";
   /**
    * @type {IBlog}
    */
   export let blog!: IBlog;
-
-  // End: Exported Properties
+  console.log(blog.description);
 </script>
 
 {#if blog && blog?.slug}
@@ -19,17 +14,17 @@
       <div class="flex flex-col md:flex-row justify-between">
         <img src={blog.banner} alt="" style="height: 12em; width:100%;" />
       </div>
-
       <h3
         class="text-lg md:text-xl font-medium mb-2 w-full text-gray-900 dark:text-gray-100"
       >
         {blog.title}
       </h3>
     </a>
-    <p class="text-gray-600 dark:text-gray-400">{blog.description.substring(0,100)}...</p>
+    <p class="text-gray-600 dark:text-gray-400">
+      {blog.description.substring(0, 100)}...
+    </p>
     <p class="text-gray-600 dark:text-gray-400">Read More...</p>
     <p class="text-gray-600 dark:text-gray-400">{blog.date}</p>
     <!-- <TagsContainer tags={blog.tags} /> -->
   </div>
-  <!-- <hr class="w-full border-1 border-gray-200 dark:border-gray-800 mb-8" /> -->
 {/if}
