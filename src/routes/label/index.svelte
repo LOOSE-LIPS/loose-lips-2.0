@@ -5,7 +5,7 @@
   export async function load({ fetch }) {
     return {
       props: {
-        labels: await fetch("/labels.json").then((res) => res.json()),
+        labels: await fetch("/label.json").then((res) => res.json()),
       },
     };
   }
@@ -25,9 +25,9 @@
   const metaData: Partial<IMetaTagProperties> = {
     title: "Labels | Sveltekit Label",
     description: "Labels page of Sveltekit blog starter project",
-    url: "/labels",
-    keywords: ["labels"],
-    searchUrl: "/labels",
+    url: "/label",
+    keywords: ["label"],
+    searchUrl: "/label",
   };
 
   let searchValue = "";
