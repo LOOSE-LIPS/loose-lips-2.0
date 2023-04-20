@@ -5,18 +5,22 @@
   export let events: IEventsCard[];
 </script>
 
-<div class="flex flex-row justify-left items-start max-w-2xl mx-auto">
+<div class="flex flex-row justify-left items-start mx-auto">
   <div class="">
     <h2
-      class="font-bold text-2xl md:text-2xl tracking-tight mb-2 max-w-1xl text-black dark:text-white"
+      class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white  m-4"
     >
-      Upcoming Events
+      Events
     </h2>
-    {#if events.length > 0}
-      {#each events as event}
-        <EventPost {event} />
-      {/each}
-    {/if}
+    <div
+      class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5"
+    >
+      {#if events.length > 0}
+        {#each events as event}
+          <EventPost {event} />
+        {/each}
+      {/if}
+    </div>
     <a href="events" class="viewAll">
       <p class="font-italic text-m text-white">View past events</p>
     </a>
