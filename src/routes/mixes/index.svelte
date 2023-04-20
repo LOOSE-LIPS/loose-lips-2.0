@@ -13,7 +13,6 @@
 
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
-  import TagsContainer from "$shared/components/tags-container/TagsContainer.svelte";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import MixPost from "$shared/components/mix-post/MixPost.svelte";
   import Button from "$shared/ui/components/button/Button.svelte";
@@ -106,7 +105,9 @@
       {/each}
     </div>
 
-    <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5">
+    <div
+      class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5"
+    >
       {#each visible as mixData}
         <MixPost {mixData} />
       {/each}
