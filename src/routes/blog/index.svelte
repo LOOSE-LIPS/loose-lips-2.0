@@ -34,7 +34,6 @@
   const tags = blogs
     .map((x) => x.tags)
     .reduce((a, b) => (a.includes(b) ? a : [...a, b]), []);
-  console.log(tags);
 
   let visible = blogs;
 
@@ -57,7 +56,6 @@
       return selectedTags.includes(x.tags);
     });
   };
-  console.log("test");
 </script>
 
 <HeadTags {metaData} />
