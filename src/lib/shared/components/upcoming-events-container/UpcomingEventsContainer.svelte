@@ -3,6 +3,15 @@
   import EventPost from "$lib/shared/components/event-post/EventPost.svelte";
   import type { IEventsCard } from "$models/interfaces/ievents-card.interface";
   export let events: IEventsCard[];
+
+  const isDateInFuture = (dateString) => {
+    const inputDate = new Date(dateString);
+    const currentDate = new Date();
+
+    return inputDate.getTime() > currentDate.getTime();
+  };
+
+  const filteredEvents = events.filter((event) => isDateInFuture(event.date));
 </script>
 
 <div class="flex flex-row justify-left items-start mx-auto">
@@ -15,8 +24,8 @@
     <div
       class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5"
     >
-      {#if events.length > 0}
-        {#each events as event}
+      {#if filteredEvents.length > 0}
+        {#each filteredEvents as event}
           <EventPost {event} />
         {/each}
       {/if}
