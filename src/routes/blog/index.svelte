@@ -17,8 +17,6 @@
   import Button from "$shared/ui/components/button/Button.svelte";
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
-  import { convertToSlug } from "$utils/convert-to-slug";
-
   export let blogs!: IBlog[];
 
   /**

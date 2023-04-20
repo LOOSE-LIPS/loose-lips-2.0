@@ -34,8 +34,8 @@
       label: "RADIO",
     },
     {
-      path: "/labels",
-      label: "labels",
+      path: "/label",
+      label: "LABEL",
     },
   ];
 </script>
