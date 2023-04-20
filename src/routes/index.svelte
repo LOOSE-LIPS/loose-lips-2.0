@@ -19,7 +19,9 @@
   import TagsContainer from "$shared/components/tags-container/TagsContainer.svelte";
   import RecentPostsContainer from "$shared/components/recent-posts-container/RecentPostsContainer.svelte";
   import RecommendedPostsContainer from "$lib/shared/components/recommended-posts/RecommendedPostsContainer.svelte";
+
   import UpcomingEventsContainer from "$lib/shared/components/upcoming-events-container/UpcomingEventsContainer.svelte";
+
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
   import type { IBlog } from "$models/interfaces/iblog.interface";
   import type { IEventsCard } from "$lib/models/interfaces/ievents-card.interface";
@@ -56,6 +58,7 @@
   <!-- <TagsContainer {blogs} /> -->
   <RecentPostsContainer {posts} />
   <UpcomingEventsContainer {events} />
+
 </div>
 
 <style>
