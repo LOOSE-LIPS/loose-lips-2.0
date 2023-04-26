@@ -14,4 +14,4 @@ published: true
 tags:
   - crew
 ---
-We're back!Loose Lips' Block Party taking over Barrio Loco district at Boomtown.
+![image](../imported/loose-lips-block-party-at-boomtown-festival-2018/image2766.jpeg)We're back!Loose Lips' Block Party taking over Barrio Loco district at Boomtown.

@@ -19,7 +19,7 @@ published: true
 tags:
   - crew
 ---
-The terrible trio…a match made in heaven! Locals Más combine forces for a 2-space all-dayer with all-female artistic community, SISU, and UK-spread lunatics, Loose Lips.M$R founder Max Graef returns to Liverpool for a special show, supported by Meine Nacht's Breakwave and an array of raunchy resident DJs.From 1400-1600, there will be SISU-run DJ workshops in Kitchen Street's main space, with guest teacher Breakwave.
+![image](../imported/max-graef-mas-x-loose-lips-x-sisu-liverpool-all-dayer/image2764.jpeg)The terrible trio…a match made in heaven! Locals Más combine forces for a 2-space all-dayer with all-female artistic community, SISU, and UK-spread lunatics, Loose Lips.M$R founder Max Graef returns to Liverpool for a special show, supported by Meine Nacht's Breakwave and an array of raunchy resident DJs.From 1400-1600, there will be SISU-run DJ workshops in Kitchen Street's main space, with guest teacher Breakwave.
 
 [](https://l.facebook.com/l.php?u=http%3A%2F%2Floose-lips.co.uk%2F&h=AT1Z5pK2cwxuyjyXrDT_9bsMBPCST8t6H9aNyv-gvAHgffEQiWfIod9rydyHB2OMIAdOrtPw2boT6hPHAs2UDlVFCDkS58NU623hFGqogFQRBRJiVVoGjE7EodsPCQwZUxdna-M&s=1)[http://loose-lips.co.uk](http://loose-lips.co.uk)[](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.sisucrew.com%2F&h=AT166lpFMSSwPMUtlBelnsTVjKfPpnfoJ0pFLL48AT5-kB96WqM2v1vjJqOurQL6o7RcG1S4wPBGviH5KGNS7wx4ZMVCvUu_lbRovus3qSqbyRpgvidy5rGaekHXQfVIf6Kg98E&s=1)[http://www.sisucrew.com](http://www.sisucrew.com)
 

@@ -13,6 +13,6 @@ published: true
 tags:
   - crew
 ---
-|| Night Shift and Bedroomer Present || 
+![image](../undefined)|| Night Shift and Bedroomer Present || 
 
  A night of diverse musical indulgence featuring UK label

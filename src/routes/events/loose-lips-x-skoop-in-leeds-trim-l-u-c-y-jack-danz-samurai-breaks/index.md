@@ -21,7 +21,7 @@ published: true
 tags:
   - crew
 ---
-SKOOP & Loose Lips are coming to Leeds!  
+![image](../imported/loose-lips-x-skoop-in-leeds-trim-l-u-c-y-jack-danz-samurai-breaks/image2783.jpeg)SKOOP & Loose Lips are coming to Leeds!  
 The 2 monstrous UK collectives are making their debut in Hifi Club with an absolute stonker of a line up featuring the one and only Trim aka Trimbal aka Taliban Trim aka Sith Lord Trim-Trim Cherooooooooo!!!  
 [http://loose-lips.co.uk](http://loose-lips.co.uk)[https://www.facebook.com/SkoopCollective](https://www.facebook.com/SkoopCollective)  
 Trim has been a standout figure on the grime scene since his days in Roll Deep, from the critically acclaimed "Soulfood" mixtape series through to more recent collaborations with heavyweight producers such as Bad Taste Record's Walter Ego and Mercury Prize winner James Blake.  

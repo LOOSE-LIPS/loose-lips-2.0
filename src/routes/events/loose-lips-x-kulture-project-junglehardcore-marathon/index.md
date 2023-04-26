@@ -19,7 +19,7 @@ published: true
 tags:
   - crew
 ---
-Loose Lips and Kulture Project have linked up to bring an absolute Hardcore & Jungle madness to Stage & Radio this festive period. We have invited Sheffield based Jungle dons 'Green Bay Wax' to headline proceedings. Hold tight for announcements of an intimate pre-party in everyone's favourite record shop.   
+![image](../imported/loose-lips-x-kulture-project-junglehardcore-marathon/image2774.jpeg)Loose Lips and Kulture Project have linked up to bring an absolute Hardcore & Jungle madness to Stage & Radio this festive period. We have invited Sheffield based Jungle dons 'Green Bay Wax' to headline proceedings. Hold tight for announcements of an intimate pre-party in everyone's favourite record shop.   
 [https://loose-lips.co.uk](https://loose-lips.co.uk)[https://greenbaywax.bandcamp.com/](https://greenbaywax.bandcamp.com/)[https://kultureproject.co.uk](https://kultureproject.co.uk)  
 Times: 22:00-04:00Tickets: £5, £7, £9Location: Stage & Radio, 43 Port St, Manchester, M1 2EQ  
 ——————–  

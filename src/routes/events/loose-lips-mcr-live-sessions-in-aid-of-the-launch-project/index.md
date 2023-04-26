@@ -18,7 +18,7 @@ published: true
 tags:
   - crew
 ---
-Come join us as we wave goodbye to Summer by launching our Live Sessions, a new series of events, revolved around all the live music we love.  
+![image](../imported/loose-lips-mcr-live-sessions-in-aid-of-the-launch-project/image2768.jpeg)Come join us as we wave goodbye to Summer by launching our Live Sessions, a new series of events, revolved around all the live music we love.  
 Each edition being in aid of a local charity, this time round we're raising funds and spreading awareness for The Launch Project, an amazing new Manchester based charity who address the issues of loneliness, social isolation, poverty and wellbeing. Providing free food to the most vulnerable in society and offering support groups and activities for those living with mental health conditions.  
 [https://thelaunchproject.org/](https://thelaunchproject.org/)[http://loose-lips.co.uk](http://loose-lips.co.uk)  
 The Launch Projects’s efforts still really need their word spreading… so come down to Fuel Cafe in Withington, Manchester, on Friday the 21st of Sep for an evening of live music and DJs. Expect performances from some of the freshest up’n’coming talent in UK Rap and much more!   

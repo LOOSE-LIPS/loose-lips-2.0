@@ -18,7 +18,7 @@ published: true
 tags:
   - crew
 ---
-2 Manchester debuts, some serious tunes. Not to be missed.  
+![image](../undefined)2 Manchester debuts, some serious tunes. Not to be missed.  
 23:00-05:00  
 Pre-sale – £5 / £7 / £10OTD – £12  
 [http://loose-lips.co.uk](http://loose-lips.co.uk)  

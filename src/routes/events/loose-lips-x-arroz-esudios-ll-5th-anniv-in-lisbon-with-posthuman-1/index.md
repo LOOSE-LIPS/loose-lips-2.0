@@ -20,4 +20,4 @@ published: true
 tags:
   - crew
 ---
-London based music platform, party throwers, and – record label – Loose Lips – are coming to the river for an all night label showcase with the UK's Posthuman, residents Medallion Man b2b T-Scale, and Lisbon locals Moreno Ácido and Veia. Expect high quality house and techno all night long.
+![image](../imported/loose-lips-x-arroz-esudios-ll-5th-anniv-in-lisbon-with-posthuman-1/image2810.jpeg)London based music platform, party throwers, and – record label – Loose Lips – are coming to the river for an all night label showcase with the UK's Posthuman, residents Medallion Man b2b T-Scale, and Lisbon locals Moreno Ácido and Veia. Expect high quality house and techno all night long.
