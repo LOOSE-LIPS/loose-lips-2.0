@@ -18,7 +18,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/ambient-pajama-party-at-the-cloud-club-loose-lips-debut/image2796.jpeg)We've got a washy one for you on this here event. Two Loose Lips artists (Medallion Man / Kortzer) have trekked all the way across the pond to be here to create some sonic baths you won't soon forget. 
+![image](../imported/ambient-pajama-party-at-the-cloud-club-loose-lips-debut/image2796.jpeg)
+---
+We've got a washy one for you on this here event. Two Loose Lips artists (Medallion Man / Kortzer) have trekked all the way across the pond to be here to create some sonic baths you won't soon forget. 
 
 So get comfy, show up in your fav PJ's, lounge on some pillows, and get bathed by these British sweethearts (what more could you want from a night in?). 
 

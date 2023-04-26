@@ -22,7 +22,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/boxing-day-gathering-loose-lips-x-its-a-house-thing/image2779.jpeg)Its A House Thing & Loose Lips  
+![image](../imported/boxing-day-gathering-loose-lips-x-its-a-house-thing/image2779.jpeg)
+---
+Its A House Thing & Loose Lips  
 Doors 10.30- 3.30am – 26/12/18The Attic, Torquay————————————————-  
 [http://loose-lips.co.uk](http://loose-lips.co.uk)[https://www.facebook.com/souloudmusic](https://www.facebook.com/souloudmusic)  
 —————————————————-  

@@ -17,7 +17,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/sr-x-loose-lips-charlie-boy-manson/image2775.jpeg)Strongroom and [Loose Lips](https://www.facebook.com/LooseLips123/) present to you a free night of cutting-edge underground hip hop from:
+![image](../imported/sr-x-loose-lips-charlie-boy-manson/image2775.jpeg)
+---
+Strongroom and [Loose Lips](https://www.facebook.com/LooseLips123/) present to you a free night of cutting-edge underground hip hop from:
 
 Charlie Boy Manson w/ Caskevet[](https://looselips123.bandcamp.com/album/ll014-charlie-boy-manson-and-the-handsome-family?fbclid=IwAR3IjTrOcvkE88zPSwyLLo9iInU374XG-6Jlirg_FzKbjaULuPfB1aQhFWQ)[https://looselips123.bandcamp.com/album/ll014-charlie-boy-manson-and-the-handsome-family](https://looselips123.bandcamp.com/album/ll014-charlie-boy-manson-and-the-handsome-family)
 

@@ -19,7 +19,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/loose-lips-in-bristol-wstenny-andrea-rommek-medallion-man/image2754.jpeg)Kicking off 2018 in our favourite prison cells, with 2 special Bristol debuts.  
+![image](../imported/loose-lips-in-bristol-wstenny-andrea-rommek-medallion-man/image2754.jpeg)
+---
+Kicking off 2018 in our favourite prison cells, with 2 special Bristol debuts.  
 Interactive visuals from Naztek – www.naren.co.uk.  
 22:00 – 03:00£6 / £9 / £12 pre-sale  
 [http://loose-lips.co.uk](http://loose-lips.co.uk)  

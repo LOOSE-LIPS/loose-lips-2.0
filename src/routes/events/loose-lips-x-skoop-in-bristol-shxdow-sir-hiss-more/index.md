@@ -17,7 +17,9 @@ published: true
 tags:
   - crew
 ---
-![image](../undefined)After an array of sick collaborative projects in Edinburgh, Glasgow, London & Manchester, Loose Lips & Skoop now combine forces in BRISTOL!Bringing you the Bristol debut of Nottingham's finest, Shxdow, amongst a line-up of the hardest grime, dubstep, hip-hop & trap. It's gonna be Hell In A Cell!  
+![image](../undefined)
+---
+After an array of sick collaborative projects in Edinburgh, Glasgow, London & Manchester, Loose Lips & Skoop now combine forces in BRISTOL!Bringing you the Bristol debut of Nottingham's finest, Shxdow, amongst a line-up of the hardest grime, dubstep, hip-hop & trap. It's gonna be Hell In A Cell!  
 ———–  
 LINE-UP:  
 – Shxdow – Bristol Debut[https://www.youtube.com/channel/UCcJOcz\_V6tk0A7kUUoH8bEw](https://www.youtube.com/channel/UCcJOcz_V6tk0A7kUUoH8bEw)  

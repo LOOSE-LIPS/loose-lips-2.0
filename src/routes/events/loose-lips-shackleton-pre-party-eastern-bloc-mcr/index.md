@@ -20,7 +20,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/loose-lips-shackleton-pre-party-eastern-bloc-mcr/image2760.jpeg)We've got one of most exciting parties to date coming up next Friday at White Hotel w/Shackleton, WSR, Conor Thomas, Denham Audio, Rommek, Paxman & Medallion Man – [https://www.facebook.com/events/389453881479436.](https://www.facebook.com/events/389453881479436.)Where better to warm-up than Manchester's finest record shop!?  
+![image](../imported/loose-lips-shackleton-pre-party-eastern-bloc-mcr/image2760.jpeg)
+---
+We've got one of most exciting parties to date coming up next Friday at White Hotel w/Shackleton, WSR, Conor Thomas, Denham Audio, Rommek, Paxman & Medallion Man – [https://www.facebook.com/events/389453881479436.](https://www.facebook.com/events/389453881479436.)Where better to warm-up than Manchester's finest record shop!?  
 1800-2200.Streamed live.Attendees get cheaper entrance at White Hotel.  
 LINE-UP:  
 – Hanz (Strange Riddim/Mr Marmalade)[https://soundcloud.com/loose-lips123/loose-lips-show-mcr-live-wstrange-riddims-020417](https://soundcloud.com/loose-lips123/loose-lips-show-mcr-live-wstrange-riddims-020417)  

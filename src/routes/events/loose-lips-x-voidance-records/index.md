@@ -15,4 +15,6 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/loose-lips-x-voidance-records/image2812.jpeg)For Novembers Voidance Presents @ Maze, we have an extremely special month as we are proud to be hosting the Loose Lips crew for their Berlin leg of their European tour….
+![image](../imported/loose-lips-x-voidance-records/image2812.jpeg)
+---
+For Novembers Voidance Presents @ Maze, we have an extremely special month as we are proud to be hosting the Loose Lips crew for their Berlin leg of their European tour….

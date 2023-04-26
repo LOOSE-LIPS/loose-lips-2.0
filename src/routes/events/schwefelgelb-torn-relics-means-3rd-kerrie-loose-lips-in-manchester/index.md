@@ -20,7 +20,9 @@ published: true
 tags:
   - crew
 ---
-![image](../undefined)As the second of our cheeky two part event series in Manchester, we're proud to present another 2 MCR debuts (which are both live performances!), with some killer local support.  
+![image](../undefined)
+---
+As the second of our cheeky two part event series in Manchester, we're proud to present another 2 MCR debuts (which are both live performances!), with some killer local support.  
 – PART 1 w/ DRVG CVLTVRE, EKMAN & NO MOON:[](https://www.facebook.com/events/1255726447898457)[https://www.facebook.com/events/1255726447898457](https://www.facebook.com/events/1255726447898457)[](https://bit.ly/2JdXC8Q)[https://bit.ly/2JdXC8Q](https://bit.ly/2JdXC8Q)  
 —–  
 23:59-07:00  

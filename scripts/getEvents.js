@@ -91,6 +91,7 @@ for (let i = 1; i < totalPages; i++) {
             yamlData.trim() +
             "\n---\n" +
             `![image](../${images[0]})` +
+            "\n---\n" +
             `${markdownString}`
         );
       });

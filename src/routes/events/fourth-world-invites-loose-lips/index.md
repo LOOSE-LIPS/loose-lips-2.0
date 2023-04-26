@@ -18,4 +18,6 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/fourth-world-invites-loose-lips/image2770.jpeg)Fourth World are back upstairs at Patterns joined by none other than [Loose Lips](https://www.facebook.com/LooseLips123/)!As one of the UK's brightest collectives, they've hosted some of the finest electronic music over the years years, including Shackleton, Max Graef, Ritzi Lee and Manni Dee (barely scratching the surface of their past guests). It's now our turn to host them as they join us for a FREE night of funk, soul, and disco!
+![image](../imported/fourth-world-invites-loose-lips/image2770.jpeg)
+---
+Fourth World are back upstairs at Patterns joined by none other than [Loose Lips](https://www.facebook.com/LooseLips123/)!As one of the UK's brightest collectives, they've hosted some of the finest electronic music over the years years, including Shackleton, Max Graef, Ritzi Lee and Manni Dee (barely scratching the surface of their past guests). It's now our turn to host them as they join us for a FREE night of funk, soul, and disco!

@@ -18,7 +18,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/loose-lips-ldn-live-session-8-in-aid-of-love-support-unite/image2751.jpeg)If you haven't been to a Loose Lips Live Session before, the events are revolved around any and all types of live musical performance that are in our radar currently…  
+![image](../imported/loose-lips-ldn-live-session-8-in-aid-of-love-support-unite/image2751.jpeg)
+---
+If you haven't been to a Loose Lips Live Session before, the events are revolved around any and all types of live musical performance that are in our radar currently…  
 We'll be hosting this evening session at the Old dentist, in Clapton. This will be different to any other dentist experience you've ever had. [http://www.theolddentist.com](http://www.theolddentist.com)  
 Each event raises donations for a different charity. For December's edition, we're raising awareness for Love Support Unite – [https://lovesupportunite.org](https://lovesupportunite.org)  
 18:30 – 23:30Entry is £4-8 Slidng scale on the door  

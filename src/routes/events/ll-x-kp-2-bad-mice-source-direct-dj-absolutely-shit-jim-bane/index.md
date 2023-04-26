@@ -20,4 +20,6 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/ll-x-kp-2-bad-mice-source-direct-dj-absolutely-shit-jim-bane/image2813.jpeg)In celebration of Loose Lips's 5th Birthday, we've teamed up once again with Kulture Project to throw one of our infamous Jungle & Hardcore Marathons!With a no holds barred line up, bringing some legends of the scene together with Manchester’s finest, this is going to be a birthday party to remember!—23:00-06:00Tickets: £8 / £10 / £12.50 / £15
+![image](../imported/ll-x-kp-2-bad-mice-source-direct-dj-absolutely-shit-jim-bane/image2813.jpeg)
+---
+In celebration of Loose Lips's 5th Birthday, we've teamed up once again with Kulture Project to throw one of our infamous Jungle & Hardcore Marathons!With a no holds barred line up, bringing some legends of the scene together with Manchester’s finest, this is going to be a birthday party to remember!—23:00-06:00Tickets: £8 / £10 / £12.50 / £15

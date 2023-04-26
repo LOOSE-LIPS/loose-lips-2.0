@@ -21,7 +21,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/loose-lips-x-yellow-machines-in-ldn-w-dexorcist-warlock-more/image2788.jpeg)Two crews, with many shared connections, friendships and tastes, link up on a party for the first time.  
+![image](../imported/loose-lips-x-yellow-machines-in-ldn-w-dexorcist-warlock-more/image2788.jpeg)
+---
+Two crews, with many shared connections, friendships and tastes, link up on a party for the first time.  
 Slamming electro, breakbeats and IDM!  
 Ave' it!  
 [http://loose-lips.co.uk](http://loose-lips.co.uk)[https://soundcloud.com/yellow-machines](https://soundcloud.com/yellow-machines)  

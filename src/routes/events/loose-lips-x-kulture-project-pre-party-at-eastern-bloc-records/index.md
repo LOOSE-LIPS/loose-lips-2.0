@@ -18,7 +18,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/loose-lips-x-kulture-project-pre-party-at-eastern-bloc-records/image2777.jpeg)MAIN EVENT: [https://www.facebook.com/events/250506682288839/](https://www.facebook.com/events/250506682288839/)  
+![image](../imported/loose-lips-x-kulture-project-pre-party-at-eastern-bloc-records/image2777.jpeg)
+---
+MAIN EVENT: [https://www.facebook.com/events/250506682288839/](https://www.facebook.com/events/250506682288839/)  
 YES PEOPLE. PRE-PARTY BUSINESS.  
 Prior to our main event at Stage & Radio on December 7th, we're taking over the controls at Eastern Bloc for a rinse out to get everyone in the mood for what's to come later on.  
 This event will be live streamed by our good friends at Reform Radio.  

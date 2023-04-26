@@ -18,7 +18,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/skoop-x-ll-post-festival-party-w-don-sinini/image2805.jpeg)As August once again draws to an inevitable close and Edinburgh breathes a cumulative sigh of relief, we invite you to come and celebrate making it through another year of The Fringe with us at The Wee Red Bar.  
+![image](../imported/skoop-x-ll-post-festival-party-w-don-sinini/image2805.jpeg)
+---
+As August once again draws to an inevitable close and Edinburgh breathes a cumulative sigh of relief, we invite you to come and celebrate making it through another year of The Fringe with us at The Wee Red Bar.  
 RnB//Dancehall//Trap//Favela//Grime  
 £5 OTD         11-3am          
 Headlining this culturally diverse event is none other than hotly-tipped London RnB/Dancehall connoisseur Don Sinini. Fresh off the back of his recent EP release "Love in the Dance" and a banging Boiler Room set he's definitely one to watch.  
