@@ -17,6 +17,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/shadow-zone-011-loose-lips-uk-takeover/image2792.jpeg)
+---
 As any aficionado well knows, the Shadow Zone exists because waves are refracted as they pass through the boundary between the mantle of the Tsunami Bass herd and core artists at its helm, deluging the sacred space in an excursion of multi-sensory immersion. 
 
 For our eleventh installment we are thrilled to host a LOOSE LIPS (UK) takeover feat. MEDALLION MAN & KORTZER coming to throw down on the full force of the Tsunami Bass Sound System. With support by Wavewhore and TBE, the night is guaranteed to be filled with multi-sensory delight till morn. 

@@ -15,5 +15,7 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/alex-honey/image4550.jpeg)Researcher and DJ based in London.[https://www.instagram.com/classtraitor/](https://www.instagram.com/classtraitor/)  
+![image](../imported/alex-honey/image4550.jpeg)
+---
+Researcher and DJ based in London.[https://www.instagram.com/classtraitor/](https://www.instagram.com/classtraitor/)  
 [https://soundcloud.com/djketosis](https://soundcloud.com/djketosis)

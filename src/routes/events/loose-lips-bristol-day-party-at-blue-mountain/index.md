@@ -18,6 +18,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/loose-lips-bristol-day-party-at-blue-mountain/image2802.jpeg)
+---
 Loose Lips is back after a wee Bristolian hiatus for a magical all-day outing.  
 —-  
 [http://loose-lips.co.uk](http://loose-lips.co.uk)  

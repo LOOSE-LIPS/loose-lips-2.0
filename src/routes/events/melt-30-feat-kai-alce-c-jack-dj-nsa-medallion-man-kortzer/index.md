@@ -19,6 +19,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/melt-30-feat-kai-alce-c-jack-dj-nsa-medallion-man-kortzer/image2798.jpeg)
+---
 MELT returns for our 3rd edition; a sonic + visual experience in the Metropolitan Studio Lofts. Visuals curated by [Carina Raye Moravek](https://www.facebook.com/kina.raye.moravek). 
 
 7-9pm Art Walk; suggested $5 donation9pm-LATE; Stepping/Dance time $10 at the door

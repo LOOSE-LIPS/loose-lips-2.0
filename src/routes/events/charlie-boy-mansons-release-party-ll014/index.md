@@ -17,6 +17,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/charlie-boy-mansons-release-party-ll014/image2773.jpeg)
+---
 On halloween we are celebrating the release of \[LL014\] Charlie Boy Manson & The Handsome Family. The debut project from a mysterious alter ego. Lo-fi, dark, twisted, rap unfolds over Doom-esque beats, challenged by the constant plight of hedonism and debauchery.  
 To celebrate his inaugural release Charlie has invited some close friends and family to the Stage and Radio basement. Expect a combination of live acts and DJ’s from Manchester and beyond.  
 Music on the night comes from:  

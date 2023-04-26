@@ -20,6 +20,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/loose-lips-x-skoop-in-glasgow-wthe-northaze-jack-jetson-more-1/image2756.jpeg)
+---
 Collaborating in Glasgow for the first time…
 
 [](http://loose-lips.co.uk/)[http://loose-lips.co.uk/](http://loose-lips.co.uk/)[](https://www.facebook.com/SkoopCollective)[https://www.facebook.com/SkoopCollective](https://www.facebook.com/SkoopCollective)

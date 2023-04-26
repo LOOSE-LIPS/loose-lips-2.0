@@ -19,6 +19,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/loose-lips-x-sisu-at-at-basstore-kosovo/image2759.jpeg)
+---
 BASStore welcomes music collectives from London and Skopje.
 
 Friday \[23.02.2018\] > [Sisu](https://www.facebook.com/sisucrewldn/) x [Loose Lips](https://www.facebook.com/LooseLips123/) Showcase Night

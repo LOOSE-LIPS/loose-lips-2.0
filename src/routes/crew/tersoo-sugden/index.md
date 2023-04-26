@@ -12,4 +12,6 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/tersoo-sugden/image4525.jpeg)ADVISOR
+![image](../imported/tersoo-sugden/image4525.jpeg)
+---
+ADVISOR

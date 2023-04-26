@@ -17,6 +17,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/pussypower-vs-loose-lips-in-glasgow-bleepmas-bash/image2772.jpeg)
+---
 It's Bleepmas! Well nearly…  
 Join the Pussypower Crew as they team up with UK-spread crew, Loose Lips, to bring you another corker of a party with very special guests Ben Pest and Stuart Alcane! If this doesn't drag you kicking and screaming into the festive season, well, we don't know what will….  
 See you on the dancefloor✌️❤️

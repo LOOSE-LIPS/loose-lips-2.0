@@ -19,6 +19,8 @@ published: true
 tags:
   - crew
 ---
+![image](../undefined)
+---
 HARDCORE WILL NEVER DIE.  
 After a very successful collaboration back in December at Stage & Radio, Loose Lips and The Kulture Drum & Bass Project are back with the breaks but this time were making our mark at Indigo Withington.  
 For our last event we had the pleasure of hosting the likes of Greenbay Wax (Kid Lib & Percussive P), Six Sunsets, Luke Leadbelly, Sl8r, Impurity and more. This time we're keeping it a more family affair and have a selection of residents and pals coming down to supply the vibes.  

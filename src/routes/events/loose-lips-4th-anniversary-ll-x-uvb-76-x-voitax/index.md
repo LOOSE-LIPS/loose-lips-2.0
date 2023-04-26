@@ -21,6 +21,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/loose-lips-4th-anniversary-ll-x-uvb-76-x-voitax/image2769.jpeg)
+---
 4 crazy years have passed and we're not stopping anytime soon!  
 To celebrate the madness, we've teamed up with 2 of our favourite labels for one hell of a threesome.  
 [http://loose-lips.co.uk](http://loose-lips.co.uk)[https://soundcloud.com/uvb76music](https://soundcloud.com/uvb76music)[https://soundcloud.com/voitax](https://soundcloud.com/voitax)  

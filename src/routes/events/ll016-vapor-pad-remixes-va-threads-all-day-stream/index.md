@@ -17,6 +17,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/ll016-vapor-pad-remixes-va-threads-all-day-stream/image2803.jpeg)
+---
 To celebrate the of launch [RICO CASAZZA](https://www.facebook.com/ricocasazzamusic/)'s 'Vapor Pad Remixes V/A', out on [Loose Lips](https://www.facebook.com/LooseLips123/) on Friday 26th July, we're taking over the Threads\* airwaves on the day of the release, to bring together many of the artists involved in the making of this release, label owners, and extended LL famalam.
 
 Tune in from 12:00 until 23:00 (CET) at [www.threadsradio.com](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.threadsradio.com%2F%3Ffbclid%3DIwAR3zTtMuTyp9xPnAxU80fvwpxHnWf96UYXx0wN5fgqIqvDLmJhTvLWurEr0&h=AT0Pt5mQFIIX8C0kyZ_3Gmujtz8bJ8kbL2GNNHr-ckmJTZMU-qTbBNa5UnXdl7-037rUPsIqZcD044IvFVdUx2jwVccSlLSisgPb3Cwrl7Kge_UKh1WKZOEcifXq1Nje8rayELY) and, if you happen to be in London, continue the journey at the [LL016 Vapor Pad Remixes V/A – Release Party in Ldn](https://www.facebook.com/events/206869686926963/)!

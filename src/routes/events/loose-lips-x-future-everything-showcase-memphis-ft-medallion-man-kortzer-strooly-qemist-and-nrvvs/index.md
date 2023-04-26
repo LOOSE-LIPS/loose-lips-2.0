@@ -21,5 +21,7 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/loose-lips-x-future-everything-showcase-memphis-ft-medallion-man-kortzer-strooly-qemist-and-nrvvs/image2799.jpeg)
+---
 Loose Lips is a prolific, hardworking collective of DJs, producers, MCs, artists, and writers based in Manchester and London, UK. On top of touring Europe and hosting a dizzying number of showcases and collaborative sessions, the collective runs the Loose Lips music blog and Threads Radio. We are proud to welcome LL to Memphis on their first North American tour. They will be joined on decks by Memphis’ very own Future-Everything DJs, Strooly and Qemist, as well as NRVVS (Ten Trax). This is a late night party that will feature the best of transatlantic techno, house, hip-hop, and experimental sounds.  
 Loose Lips: Medallion Man, KortzerFuture-Everything: Strooly, QemistTen Trax: NRVVSBTYB – Ross al Ghul

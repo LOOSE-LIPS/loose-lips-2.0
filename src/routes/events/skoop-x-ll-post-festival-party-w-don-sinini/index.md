@@ -18,6 +18,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/skoop-x-ll-post-festival-party-w-don-sinini/image2805.jpeg)
+---
 As August once again draws to an inevitable close and Edinburgh breathes a cumulative sigh of relief, we invite you to come and celebrate making it through another year of The Fringe with us at The Wee Red Bar.  
 RnB//Dancehall//Trap//Favela//Grime  
 £5 OTD         11-3am          

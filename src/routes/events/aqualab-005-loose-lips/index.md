@@ -15,6 +15,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/aqualab-005-loose-lips/image2780.jpeg)
+---
 Sheffield-based crew Aqualab have invited T-Scale & Medallion Man up for a special LL takeover!!
 
 [https://www.facebook.com/events/385728245538900/](https://www.facebook.com/events/385728245538900/)

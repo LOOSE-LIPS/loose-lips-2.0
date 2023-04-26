@@ -25,7 +25,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/max-dade/image4529.jpeg)EDITOR / WRITERLoose Lips' legend in Lisbon!DJ | [MKS  
+![image](../imported/max-dade/image4529.jpeg)
+---
+EDITOR / WRITERLoose Lips' legend in Lisbon!DJ | [MKS  
 ](https://www.mixcloud.com/mxdade/)Promoter / Dogsbody | [Desterro](https://www.facebook.com/desterrolx/?ref=br_rs)/DARC (Lisboa, PT)  
 Improviser | [Desterronics](https://www.facebook.com/desterronics/?ref=br_rs)
 

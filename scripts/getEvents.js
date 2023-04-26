@@ -87,7 +87,12 @@ for (let i = 1; i < totalPages; i++) {
         fs.writeFileSync(
           path.join(folderDirectory, "index.md"),
 
-          "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
+          "---\n" +
+            yamlData.trim() +
+            "\n---\n" +
+            `![image](../${images[0]})` +
+            "\n---\n" +
+            `${markdownString}`
         );
       });
     });

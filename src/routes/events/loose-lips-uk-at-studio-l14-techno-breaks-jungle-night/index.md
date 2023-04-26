@@ -16,6 +16,8 @@ published: true
 tags:
   - crew
 ---
+![image](../undefined)
+---
 The group of folks known as Loose Lips over in the UK have been throwing parties, playing on the radio, starting up their own online radio station, and doing the usual mix-series and other internet and real life related Techno things.
 
 Medallion ManMedallion Man is co-founder, resident, and the driving force behind Loose Lips. Since its launch in October 2014, he has directed its growth into a well-respected and ever-ambitious diverse musical platform, curating all events, label releases, charity work, mix series, radio shows and directing the blog's activities. 

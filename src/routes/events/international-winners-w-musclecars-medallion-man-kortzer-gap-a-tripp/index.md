@@ -17,6 +17,8 @@ published: true
 tags:
   - crew
 ---
+![image](../undefined)
+---
 Intl' Winners Presents:◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡
 
 ◡ Musclecars (Coloring Lessons)◡◡ [Medallion Man](https://www.facebook.com/medallionmanmusic/) ([Loose Lips](https://www.facebook.com/LooseLips123/))◡◡◡ [Kortzer](https://www.facebook.com/Kortzer/) ([Loose Lips](https://www.facebook.com/LooseLips123/))◡◡◡◡ Gap & A Tripp

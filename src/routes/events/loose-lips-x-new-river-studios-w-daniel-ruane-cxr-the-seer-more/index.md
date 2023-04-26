@@ -23,6 +23,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/loose-lips-x-new-river-studios-w-daniel-ruane-cxr-the-seer-more/image2776.jpeg)
+---
 UK-spread eclectic music platform Loose Lips team up with one of London's finest DIY venues for a night of punk and experimental electronics.
 
 [](http://loose-lips.co.uk/)[http://loose-lips.co.uk](http://loose-lips.co.uk)[](https://newriverstudios.com/)[https://newriverstudios.com](https://newriverstudios.com)

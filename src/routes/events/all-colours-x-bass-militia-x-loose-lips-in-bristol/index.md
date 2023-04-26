@@ -21,6 +21,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/all-colours-x-bass-militia-x-loose-lips-in-bristol/image2781.jpeg)
+---
 TRUST ME!  
 A heavyweight line-up of jungle, dubstep and breaks from three heavyweight promoters…  
 [https://www.facebook.com/AllColoursMusic](https://www.facebook.com/AllColoursMusic)[https://www.facebook.com/bassmilitiacollective](https://www.facebook.com/bassmilitiacollective)[http://loose-lips.co.uk](http://loose-lips.co.uk)  

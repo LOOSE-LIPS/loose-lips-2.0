@@ -21,6 +21,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/loose-lips-eastern-bloc-pre-party-for-schwefelgelb-at-twh/image2790.jpeg)
+---
 In the build up to our party at The White Hotel with Schwefelgelb, Torn Relics, Means&3rd + Kerrie we're having a pre party at the one and only Eastern Bloc Records!   
 FREE ENTRY!  
 We're buzzin to present you a top lineup of selectors featuring…  

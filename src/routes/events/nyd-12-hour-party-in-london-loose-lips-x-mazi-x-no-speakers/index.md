@@ -23,6 +23,8 @@ published: true
 tags:
   - crew
 ---
+![image](../imported/nyd-12-hour-party-in-london-loose-lips-x-mazi-x-no-speakers/image2752.jpeg)
+---
 The best NYD Party in town. 12 hours long with our own Custom Turbosound rig.1800-0600Pre-sale tickets – £5/10
 
 [http://loose-lips.co.uk](http://loose-lips.co.uk)[https://www.facebook.com/NoSpeakers](https://www.facebook.com/NoSpeakers)[https://www.facebook.com/MAZIevents](https://www.facebook.com/MAZIevents)  
