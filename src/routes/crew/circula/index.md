@@ -19,7 +19,9 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/circula/image4522.jpeg)AFFILIATE / INTERVIEWERJust some guy that makes music sometimes…the purveyor of LL011.
+![image](../imported/circula/image4522.jpeg)
+---
+AFFILIATE / INTERVIEWERJust some guy that makes music sometimes…the purveyor of LL011.
 
 _Articles:_[http://loose-lips.co.uk/blog/wsr](http://loose-lips.co.uk/blog/wsr)
 

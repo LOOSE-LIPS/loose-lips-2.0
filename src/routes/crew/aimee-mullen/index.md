@@ -12,4 +12,6 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/aimee-mullen/image4541.jpeg)Violonist and power-voice from Torn Relics.
+![image](../imported/aimee-mullen/image4541.jpeg)
+---
+Violonist and power-voice from Torn Relics.

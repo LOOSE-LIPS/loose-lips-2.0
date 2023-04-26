@@ -16,4 +16,6 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/j-city/image4521.jpeg)DESIGNER / HYPE MAN / RESIDENT DJAn integral cog and comedian. Whether it's making amazing linos for our party's decor, rolling around naked at Shambala or sorting quality packet, he's always an artistic mind who loves sessioning to good tunes!
+![image](../imported/j-city/image4521.jpeg)
+---
+DESIGNER / HYPE MAN / RESIDENT DJAn integral cog and comedian. Whether it's making amazing linos for our party's decor, rolling around naked at Shambala or sorting quality packet, he's always an artistic mind who loves sessioning to good tunes!

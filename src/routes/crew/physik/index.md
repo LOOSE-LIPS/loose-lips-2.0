@@ -12,4 +12,6 @@ published: true
 tags:
   - crew
 ---
-![image](../imported/physik/image4533.jpeg)BRISTOLIAN BOSS
+![image](../imported/physik/image4533.jpeg)
+---
+BRISTOLIAN BOSS
