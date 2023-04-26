@@ -22,3 +22,9 @@ description: >-
 published: true
 tags: Ambient
 ---
+Two 199radio weirdos sank coffee and played odd tunes.
+
+Fun fun fun. Shouts to the local Brazilian breakfast space in Clapton, now sorting @medallionman with pastries.
+
+https://www.facebook.com/medallionmanmusic  
+https://www.facebook.com/asifnoway

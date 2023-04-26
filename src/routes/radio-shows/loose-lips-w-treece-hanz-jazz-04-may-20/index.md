@@ -18,3 +18,9 @@ description: >-
 published: true
 tags: Lush Bass
 ---
+Loose Lips resident Treece steps up to curate a jam-packed 2 hours. Featuring an introduction and ‘release in focus’ from the man himself, followed by sets from two top notch DJs that have grabbed him during lockdown – Hanz and JAZZ.
+
+  
+https://soundcloud.com/patriceswms
+
+Release in focus = https://empire.ffm.to/jackboy

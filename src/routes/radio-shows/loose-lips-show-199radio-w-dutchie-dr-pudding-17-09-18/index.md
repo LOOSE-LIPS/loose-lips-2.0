@@ -21,3 +21,14 @@ description: >-
 published: true
 tags: Jazz
 ---
+D…D…D…D…!
+
+A special show this week, with 2 guests. Hold Tight Records’ Dutchie up from Bristol, joined by producer/engineer/DJ/festival thrower, Dr.Pudding (not Mr.Pudding!!!!)
+
+https://www.facebook.com/dutchiebristol  
+https://www.facebook.com/doctorpudding  
+http://loose-lips.co.uk  
+https://www.facebook.com/medallionmanmusic  
+http://199rad.io
+
+Release of the week = http://blackesteverblack.com/releases/stop-suffering

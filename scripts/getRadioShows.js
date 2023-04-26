@@ -113,7 +113,9 @@ for (let i = 1; i < totalPages; i++) {
             tags: tags,
           };
           const turndownService = new TurndownService();
-          const markdownString = turndownService.turndown(mix.content.rendered);
+          const markdownString = turndownService.turndown(
+            show.content.rendered
+          );
           const yamlData = yaml.safeDump(data);
           const folderDirectory = path.join(
             rootDir,

@@ -20,3 +20,14 @@ description: >-
 published: true
 tags: Electronic
 ---
+Trax Haven is a footwork/jungle music label and platform founded by DJs Airpods and Jetski. The pair take over from Loose Lips with an hour each of fresh 160bpm bangers and plenty of label exclusives.
+
+soundcloud.com/traxhaven160  
+instagram.com/traxhavenmedia  
+facebook.com/traxhavenmedia
+
+soundcloud.com/djjetski  
+instagram.com/michaelowem
+
+soundcloud.com/airpods160  
+instagram.com/airpodzuk

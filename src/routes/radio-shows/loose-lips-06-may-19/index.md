@@ -17,3 +17,4 @@ description: >-
 published: true
 tags: Techno
 ---
+Hardy brought a bag of records, two releases of the week and some mid-tempo beats to bathe the ears. Plus updates on Loose Lips’ goings on.

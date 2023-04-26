@@ -21,3 +21,11 @@ description: >-
 published: true
 tags: Electronic
 ---
+The Loose Lips show with your host Medallion Man. This week we have DJ/musician/producer brothers Henry and Oliver Keen, also known as Soundspecies. They sat down to chat about their fascinating mix of electronic experimentation and traditional rhythmic percussion, alongside tales of their musical collaborations in Cuba.
+
+http://loose-lips.co.uk  
+www.soundcloud.com/soundspecies
+
+www.newriverstudios.com/199radio
+
+Release of the week = https://www.discogs.com/James-Ruskin-Further-Design/master/92758

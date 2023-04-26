@@ -17,3 +17,7 @@ description: >-
 published: true
 tags: Techno
 ---
+An eclectic mix of 140bpm techno with dashes of ebm and trance, from a Loose Lips Manchester affiliate.
+
+@loose-lips123  
+@alphajaks

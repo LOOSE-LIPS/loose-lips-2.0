@@ -20,3 +20,10 @@ description: >-
 published: true
 tags: Industrial
 ---
+@loose-lips123 are joined by a true musical monster, ahead of his forthcoming Hominid Sounds record release.
+
+@ukaea\_ can only be described as a roaring radical genius whose music and live sets are thoroughly destructive. Get ready for some bone-crushing industrial rave.
+
+@neutral\_territory @medallionmanmusic
+
+Release in focus = https://dasbootyrave.bandcamp.com/album/hyper-reality

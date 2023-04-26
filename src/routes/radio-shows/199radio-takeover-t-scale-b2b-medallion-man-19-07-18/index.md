@@ -18,3 +18,7 @@ description: >-
 published: true
 tags: ''
 ---
+Ahead of Loose Lips’ party at The Cause tomorrow night, T-Scale (straight off the plane from Macedonia) & Medallion Man smashed off one hell of a b2b.
+
+@medallionman  
+@jef-t-scale

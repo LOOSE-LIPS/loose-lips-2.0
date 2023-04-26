@@ -20,3 +20,6 @@ description: >-
 published: true
 tags: EBM
 ---
+@noodsradio @paxmanmcr
+
+Resident Paxman kicks off a new radio residency on Bristol based Noods Radio. This show delved into his EBM collection to find all things aggressive, arpeggiated, and most importantly, anything with a massive snare on the 2nd & 4th!

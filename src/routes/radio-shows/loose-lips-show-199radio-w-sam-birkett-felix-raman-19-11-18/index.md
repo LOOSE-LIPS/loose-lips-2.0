@@ -21,3 +21,12 @@ description: >-
 published: true
 tags: Experimental
 ---
+Ahead of the Loose Lips 4th Anniversary celebrations, and the London debut of our most recent label releasee, Charlie Boy Manson, a special weekly radio show went down.
+
+Sam Birkett from Strongroom & Multi-Storey Promotions, the man who booked the CBM gig, stepped up in the first hour to discuss the breadth of shows he’s put on, followed by Felix Ramen’s guest appearance full of exciting news and industrial obsessions!
+
+http://loose-lips.co.uk  
+https://www.facebook.com/strongroomlondon  
+https://briefencounters1.bandcamp.com
+
+Release of the week = https://aphextwin.warp.net/release/109100-aphex-twin-collapse-ep

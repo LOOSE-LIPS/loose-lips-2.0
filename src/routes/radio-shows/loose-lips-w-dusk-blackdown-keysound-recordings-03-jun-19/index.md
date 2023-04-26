@@ -22,3 +22,13 @@ description: >-
 published: true
 tags: Interview
 ---
+The founders of hugely influential London-label @keysound-recordings, Dusk + Blackdown joined @medallionman for his first @Loose-lips123 show since coming back from the States!
+
+With Medallion Man having no laptop or records, and consequently no ready tunes, after a messy weekend in Leeds, the show took a slightly different format with the interview section kicking off the show. It worked a treat, leading to an incredibly intriguing chat.
+
+https://www.facebook.com/Keysoundrecordings  
+http://loose-lips.co.uk  
+  
+https://www.facebook.com/medallionmanmusic
+
+Release of the week = https://2020vision.bandcamp.com/album/vis312-electronic

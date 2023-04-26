@@ -22,3 +22,6 @@ description: >-
 published: true
 tags: Electronic
 ---
+@medallionman & @ricocasazza at Netil Radio for a special one-off show building excitement for the Vapor Pad remix Album coming out on Loose Lips, Friday 26th July!
+
+https://looselips123.bandcamp.com

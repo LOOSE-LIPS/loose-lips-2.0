@@ -18,3 +18,10 @@ description: >-
 published: true
 tags: Techno
 ---
+Bristol-based Physik takes over from Loose Lips with some tasty techno ticklers!
+
+Bristol-based Physik takes over from Loose Lips with some tasty techno ticklers!
+
+@danphysik  
+@loose-lips123  
+https://www.facebook.com/LooseLips123/

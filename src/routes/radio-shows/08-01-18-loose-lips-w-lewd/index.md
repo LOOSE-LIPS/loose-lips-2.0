@@ -17,3 +17,11 @@ description: >-
 published: true
 tags: Bass
 ---
+http://loose-lips.co.uk
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+  
+https://www.facebook.com/groups/lewdlondon
+
+Release of the week = https://www.discogs.com/Andrea-Outlines/release/7453558

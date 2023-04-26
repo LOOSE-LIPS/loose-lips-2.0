@@ -21,3 +21,4 @@ description: >-
 published: true
 tags: Eclectic
 ---
+In anticipation of our last event in Bristol with FLmm & J.Tijn, @medallionman hobbled down to Noods to play one of the quickest radio shows we’ve ever done!

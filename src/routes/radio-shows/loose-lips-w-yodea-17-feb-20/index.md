@@ -21,3 +21,8 @@ description: >-
 published: true
 tags: Weatherall
 ---
+Yodea in the studio with @medallionman, ahead of @loose-lips123 @ Viva Dalston this Friday 21st Feb!
+
+Look forward to acid, trip-hop, garage, industrial…and a Weatherall tribute, to wave goodbye to a man whose impact on the musical landscapes around us will stay with us forever.
+
+Release In Focus = https://www.youtube.com/watch?v=kBiMoRM5lfo&list=PLo-CVFFA0DtXbFVErQH0kKHYEvi07sfLK&fbclid=IwAR04ZdWSs7h\_T91PPgPUhMsBhk0KHt6P0TsG7gnDmX476JaOQT2oZeeBVeY

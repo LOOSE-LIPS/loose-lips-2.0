@@ -19,3 +19,10 @@ description: >-
 published: true
 tags: Straws
 ---
+@medallionman was joined by his new housemate who has “an absolutely SICK taste in tunes”.
+
+Tune in to hear bangers, tunes to make you cry and for discussions on topics as wide reaching as McDonalds straws and political techno.
+
+@loose-lips123
+
+Release in focus = https://hyperboloidrecords.com/album/iso

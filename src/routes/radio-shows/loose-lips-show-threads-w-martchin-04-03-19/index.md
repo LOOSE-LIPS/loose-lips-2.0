@@ -20,3 +20,8 @@ description: >-
 published: true
 tags: Macedonia
 ---
+Following the Threads\*MKC pop-up in Macedonia, @medallionman & @jef-t-scale re-united to host a special show, streamed live from Jef’s 5\* flat…
+
+@martchin-martchin, founder of @btkrsh-music, was the main guest, who spoke very honestly about the struggles on the scenes surrounding him. We were joined in the flat by somewhat of a Loose Lips regular, braindance-loving @ogie!
+
+Release of the week = https://soundcloud.com/electricbaconrecords/sets/t-scale-what-you-cannot-see-ep

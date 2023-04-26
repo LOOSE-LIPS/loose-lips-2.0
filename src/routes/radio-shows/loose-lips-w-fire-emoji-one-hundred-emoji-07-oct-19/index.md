@@ -21,3 +21,11 @@ description: >-
 published: true
 tags: BEEF
 ---
+To celebrate the 2nd show anniversary of their fellow Threadsian hosts, @loose-lips123 invited Fire Emoji down for 2 hours of complete madness…
+
+Cyphers, beef, story-telling, selections, shouting matches!
+
+www.loose-lips.co.uk  
+@medallionman  
+
+Release of the week = https://soundcloud.com/ilian-tape/it042-galaxian-coming-up-for-air

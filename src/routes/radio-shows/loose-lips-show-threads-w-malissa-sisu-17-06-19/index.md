@@ -22,3 +22,8 @@ description: >-
 published: true
 tags: Electronic
 ---
+@medallionmanmusic invited his beloved @malissa08 from all-female arts collective, Sisu, onto our weekly @threadsradio show this week.
+
+Following up on her mix and interview with us back in December 2017 – http://loose-lips.co.uk/blog/malissa-lauren-harper-scratch-collective – we chatted about where her and Sisu have come from then to now!
+
+Release of the week = https://www.deejay.de/Rommek\_Deadly\_Nightshade\_LEYLA011\_Vinyl\_\_352855

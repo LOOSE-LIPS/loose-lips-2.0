@@ -19,3 +19,7 @@ description: >-
 published: true
 tags: House
 ---
+After their recent gig in Cologne, 2 of our residents headed down to Kolncampus for a guest mix and some chat!
+
+http://loose-lips.co.uk  
+@medallionman

@@ -18,3 +18,9 @@ description: >-
 published: true
 tags: House
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/IshmaelEnsemble
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+Release of the week = https://soundcloud.com/loose-lips123/sets/ll012-masaki-uchida

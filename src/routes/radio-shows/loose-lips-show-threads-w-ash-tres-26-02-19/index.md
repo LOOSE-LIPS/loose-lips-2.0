@@ -19,3 +19,11 @@ description: >-
 published: true
 tags: Bass
 ---
+Amens to ambience.
+
+Heads up on a few lil mic issues throughout the show.
+
+http://loose-lips.co.uk  
+https://www.facebook.com/medallionmanmusic
+
+Release of the week = https://soundcloud.com/classicalmechanics/sets/count-basis-ep-2020vision

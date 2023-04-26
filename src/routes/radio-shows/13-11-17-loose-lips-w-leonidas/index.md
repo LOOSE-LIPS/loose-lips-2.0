@@ -18,3 +18,9 @@ description: >-
 published: true
 tags: House
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/leonidas.artist
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+Release of the week = https://www.kudosrecords.co.uk/release/bbr012/masaki-uchida-noein.html

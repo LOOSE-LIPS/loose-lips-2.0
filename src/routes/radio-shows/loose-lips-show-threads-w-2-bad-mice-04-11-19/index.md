@@ -23,3 +23,12 @@ description: >-
 published: true
 tags: Hardcore
 ---
+Hands down, one of the most fun shows we’ve ever hosted. Legends in the room, jokes flowing!
+
+2 Bad Mice joined us on @threadsradio, ahead of their appearance for our forthcoming 5th Anniversary party in Manchester – https://www.facebook.com/events/2651560191543452.
+
+Hosted by @medallionman, Footsoldier & Neutral Territory.
+
+https://www.discogs.com/artist/2076-2-Bad-Mice
+
+ROTW = https://morriarchi.bandcamp.com/album/a-lot-of-people-tell-me-i-have-a-fake-guitar

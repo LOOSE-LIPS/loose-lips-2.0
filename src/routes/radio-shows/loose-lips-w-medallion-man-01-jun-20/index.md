@@ -18,3 +18,12 @@ description: >-
 published: true
 tags: Lively
 ---
+To kick off june, the weekly @loose-lips123 show ran back down to an isolated Devon bedroom.
+
+Hosted by someone…wait…who the FRED is FUCK?
+
+Don’t miss it…
+
+@medallionman
+
+Release in focus = https://bit.ly/3gyWh9i

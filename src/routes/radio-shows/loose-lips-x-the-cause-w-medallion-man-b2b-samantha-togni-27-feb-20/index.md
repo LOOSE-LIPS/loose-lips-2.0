@@ -22,3 +22,8 @@ description: >-
 published: true
 tags: Rave
 ---
+Ahead of this Friday’s event at The Cause, two of the line-up’s DJs come together for their first ever b2b to whet your appetite for what is sure to be a mad night!
+
+https://www.facebook.com/events/2681150108779501
+
+www.threadsradio.com

@@ -19,3 +19,9 @@ description: >-
 published: true
 tags: Astral Plane
 ---
+https://www.facebook.com/TheAstralPlaneBlog  
+http://loose-lips.co.uk
+
+https:///www.newriverstudios.com/199radio/listen
+
+Release of the week = https://www.discogs.com/Richard-Bartz-Subway/release/5862

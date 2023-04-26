@@ -25,3 +25,15 @@ description: >-
 published: true
 tags: Hip Hop
 ---
+A special special show….
+
+Mid their debut UK tour, and in anticipation of their debut album, some of the legendary ‘Cult of The Damned’ joined Loose Lips to chat shit, freestyle and discuss the adventures.
+
+http://loose-lips.co.uk
+
+https://www.blahrecords.com  
+[CIVILISED TOUR 2018 – Cult of The Damned w/ Danny Lover](https://www.blahrecords.com/collections/civilised-tour-2018-cult-of-the-damned-danny-lover)
+
+https://www.newriverstudios.com/199radio/listen
+
+Release of the week = https://www.juno.co.uk/products/dokta-london-nights-ep-feat-jason-heath/673609-01/

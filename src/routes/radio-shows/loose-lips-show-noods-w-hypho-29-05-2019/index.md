@@ -18,3 +18,6 @@ description: >-
 published: true
 tags: House
 ---
+This month on our Bristol-based radio residency, on Noods, resident Paxman was joined by friend and dubstep producer @hyphoofficial, the day before his latest release on Swamp81.
+
+30 min alter ego mix spanning all things house and rave!

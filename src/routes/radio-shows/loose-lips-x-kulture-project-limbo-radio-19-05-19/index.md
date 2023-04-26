@@ -19,3 +19,6 @@ description: >-
 published: true
 tags: Drum & Bass
 ---
+Both crews in effect ahead of another mad line-up in Manchester, more collabs coming soon.
+
+http://loose-lips.co.uk/events/loose-lips-x-kulture-project-jungle-hardcore-marathon-pt-ii

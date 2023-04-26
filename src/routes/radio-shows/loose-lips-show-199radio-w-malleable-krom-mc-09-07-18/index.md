@@ -20,3 +20,12 @@ description: >-
 published: true
 tags: Jungle
 ---
+From our first ever full live hardware set on the LL show, through to the first time Medallion Man has had an MC host a jungle set on the LL show….
+
+BOOM!
+
+http://loose-lips.co.uk
+
+https://www.facebook.com/malleable808  
+
+Release of the week = https://www.juno.co.uk/products/bleaching-agent-mulkul-ep-d-56m-remix/686732-01/

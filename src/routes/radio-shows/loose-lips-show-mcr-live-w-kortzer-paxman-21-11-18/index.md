@@ -16,3 +16,7 @@ description: >-
 published: true
 tags: Sweg
 ---
+http://www.loose-lips.co.uk/radio-shows
+
+https://www.facebook.com/Kortzer  
+https://www.facebook.com/PaxmanMCR

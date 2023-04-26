@@ -18,3 +18,9 @@ description: >-
 published: true
 tags: Dresden
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/jacobkorn.uv  
+  
+http://sonicrobots.com
+
+> [199radio](https://newriverstudios.com/199radio/)

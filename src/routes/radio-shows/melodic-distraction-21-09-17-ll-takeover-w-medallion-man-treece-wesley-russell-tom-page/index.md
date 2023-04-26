@@ -20,3 +20,10 @@ description: >-
 published: true
 tags: Eclectic
 ---
+> [Home](https://melodicdistraction.com/)
+
+http://loose-lips.co.uk
+
+https://www.facebook.com/medallionmanmusic  
+https://soundcloud.com/patriceswms  
+https://soundcloud.com/wesleyrussellmusic https://www.facebook.com/djtompage

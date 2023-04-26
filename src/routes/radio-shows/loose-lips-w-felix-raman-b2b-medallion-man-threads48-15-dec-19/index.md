@@ -23,3 +23,10 @@ description: >-
 published: true
 tags: ''
 ---
+As part of Threads’ 48-hour long stream, which was the culmination of our Crowdfunder, some of the @loose-lips123 gang and label affiliates rocked up for an inspirational session.
+
+@neutral\_territory – electro set  
+@felixraman b2b @medallionman – rinse out  
+@lakker – a 45min ambient piece based around the track ‘Dropped Shoulders’ off their album ‘Época’
+
+Listen to all 3 of the sets here –> https://soundcloud.com/threadsradio/sets/loose-lips-takeover-for-threads48-15-dec-19

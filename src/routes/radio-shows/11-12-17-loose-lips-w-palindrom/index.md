@@ -17,3 +17,9 @@ description: >-
 published: true
 tags: Post-rock
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/palindrommkd
+
+https://www.199radio.com
+
+Release of the week = https://onthecornerrecords.bandcamp.com/album/versus-ii

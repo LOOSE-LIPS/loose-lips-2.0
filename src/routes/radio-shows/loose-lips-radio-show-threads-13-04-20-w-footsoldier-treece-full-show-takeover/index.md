@@ -17,3 +17,6 @@ description: >-
 published: true
 tags: Electronic
 ---
+Footsoldier and Treece bringing the weekly Loose Lips show to life this week on
+
+Release in focus =

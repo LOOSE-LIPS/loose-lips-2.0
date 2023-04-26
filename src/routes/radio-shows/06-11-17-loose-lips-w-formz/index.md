@@ -16,3 +16,9 @@ description: >-
 published: true
 tags: Hip Hop
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/FORMZLDN
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+Release of the week = https://swms.bandcamp.com/album/treece-caskevet-o

@@ -19,3 +19,13 @@ description: >-
 published: true
 tags: Electronic
 ---
+Loose Lips here joined by an incredible artist who has been a seminal part of musical projects such as Aphex Twin, Andrew Weatherall, Global Communication, Internal Records, Locust, Marc Acardipane (The Mover / PCP), Mike Paradinas, Ministry of Sound, Orbital, Planet Mu, Roc Nation, Tom Middleton and Warp..
+
+Tune in to explore his past, present & future, hearing the music that has both inspired, and been inspired by, his incredible design work.⁠  
+⁠  
+@medallionman  
+@neutral\_territory
+
+Release of the week = https://liesrecords.bandcamp.com/album/the-english-beach
+
+Listen live @ www.threadsradio.com

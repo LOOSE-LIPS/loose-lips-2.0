@@ -25,3 +25,10 @@ description: >-
 published: true
 tags: Electronic
 ---
+We’ve recently become good friends with Jeff Spesh, one of the fine DJs on the @199radio roster.
+
+Our very own @medallionman stepped up last week for an impromptu b2b….the first time they’d ever played together!
+
+Make sure to check out Jeff’s ‘No Rewinds’ PICKS feature he did for our blog – http://loose-lips.co.uk/blog/picks-jeff-oparas-no-rewinds.
+
+http://loose-lips.co.uk

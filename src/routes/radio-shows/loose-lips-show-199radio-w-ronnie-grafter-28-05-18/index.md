@@ -19,3 +19,8 @@ description: >-
 published: true
 tags: Techno
 ---
+Having met at Sickbeatz’s MS Fundraiser event, twas a pleasure to now invite down Ronnie Grafter, one hell of a DJ and selector.
+
+http://loose-lips.co.uk
+
+Track of the week = https://www.youtube.com/watch?v=Lyd9PwXM-A8

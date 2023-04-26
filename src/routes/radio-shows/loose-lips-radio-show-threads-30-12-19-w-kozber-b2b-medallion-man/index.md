@@ -22,3 +22,9 @@ description: >-
 published: true
 tags: Rowdy
 ---
+Finishing off 2019 with one of show of less chat, more mixing…host Medallion Man changed up our usual format to invite Polish guru, Kozber, into the studio for his and Medallion Man’s first ever b2b session!
+
+@medallionman  
+@sirius
+
+www.threadsradio.com

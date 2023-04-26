@@ -16,3 +16,9 @@ description: >-
 published: true
 tags: Techno
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/roboknob
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+Release of the week = https://soundcloud.com/beef/sets/selected-works-2

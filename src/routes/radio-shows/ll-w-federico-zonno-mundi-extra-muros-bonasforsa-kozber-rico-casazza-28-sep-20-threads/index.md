@@ -23,3 +23,15 @@ description: >-
 published: true
 tags: Trip-Hop
 ---
+A jam-packed 2 hour show…
+
+– @medallionman & @neutral\_territory playing music to guarantee your entry to heaven
+
+– a live call-in interview from Italy with Federico Zonno, Artistic Director of MUNDI and Co-organiser of EXTRA MUROS (following the recent announcement of the artists on his festival’s residency programme)
+
+– delightful duo Bonasforsa joining us in the studio for an inevitable 10 (or 11!?) questions and an insight into the influences that have led to the duo’s magical trip-hop-esque productions
+
+@bonasforsa  
+@federico-fritz-zonno
+
+Release in focus = https://nazar.bandcamp.com/album/guerrilla

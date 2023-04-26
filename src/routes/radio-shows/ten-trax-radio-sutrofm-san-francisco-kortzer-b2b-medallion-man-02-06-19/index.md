@@ -21,3 +21,9 @@ description: >-
 published: true
 tags: Electronic
 ---
+@medallionman  
+@auderkortzer
+
+Weird, all over the place, wicked.
+
+Thanks to Ten Trax for inviting us to record this when we were touring in the States!

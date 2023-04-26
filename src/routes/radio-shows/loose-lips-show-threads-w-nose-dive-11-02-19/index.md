@@ -21,3 +21,13 @@ description: >-
 published: true
 tags: Off-kilter
 ---
+Loose Lips joined by the duo known as Nose Dive this week…nose divin’ into all kinds of off-kilter industrial tunes!
+
+Kendrick meets a Trance classic in one special moment of this 2 hour adventure.
+
+www.threadsradio.com
+
+https://www.facebook.com/NoseDivin  
+http://loose-lips.co.uk
+
+Release of the week = http://classic.beatport.com/release/tnkt012-various-2/2416207

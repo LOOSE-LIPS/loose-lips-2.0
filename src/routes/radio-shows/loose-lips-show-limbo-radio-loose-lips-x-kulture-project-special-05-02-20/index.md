@@ -22,3 +22,10 @@ description: >-
 published: true
 tags: Drum & Bass
 ---
+The three musketeers, ahead of more Jungle/Hardcore madness the following Friday with Slipmatt & Coco Bryce – https://www.residentadvisor.net/events/1371278
+
+@morganjohnston  
+@auderkortzer  
+@patriceswms
+
+www.loose-lips.co.uk

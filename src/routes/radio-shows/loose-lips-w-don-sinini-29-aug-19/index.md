@@ -19,3 +19,9 @@ description: >-
 published: true
 tags: Dancehall
 ---
+Ahead of the @loose-lips123 & @skoopskoop party in Edinburgh tomorrow night, headliner and dancehall don, @sininigenie , joined @medallionman for a wee interview, hype about his Scottish debut, and a mad live performance!
+
+GET READY SCOTLAND!
+
+www.loose-lips.co.uk  
+https://www.facebook.com/events/1505141262959711

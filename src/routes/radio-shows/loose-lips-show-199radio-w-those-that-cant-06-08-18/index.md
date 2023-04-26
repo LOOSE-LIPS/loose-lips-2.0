@@ -20,3 +20,10 @@ description: >-
 published: true
 tags: Eclectic
 ---
+Picking some of our all-time favourites, with the man who was behind the 53rd edition of our Loose Lips Mix Series – feels like a while ago now – http://loose-lips.co.uk/mix-series!
+
+  
+http://loose-lips.co.uk  
+http://199rad.io
+
+Release of the week = https://apronrecords.bandcamp.com/album/ratgrave

@@ -18,3 +18,9 @@ description: >-
 published: true
 tags: Coldwave
 ---
+http://loose-lips.co.uk  
+http://the-attic.net
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+Release of the week = http://www.darkentriesrecords.com/store/vinyl/group-rhoda-wilderless-lp/
