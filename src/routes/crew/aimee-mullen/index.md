@@ -6,10 +6,10 @@ type: crew
 slug: aimee-mullen
 author: 100
 banner:
-  - imported\aimee-mullen\image4541.jpeg
+  - imported/aimee-mullen/image4541.jpeg
 description: 'Violonist and power-voice from Torn Relics. [...]Read More...'
 published: true
 tags:
   - crew
 ---
-Violonist and power-voice from Torn Relics.
+![image](../imported/aimee-mullen/image4541.jpeg)Violonist and power-voice from Torn Relics.
