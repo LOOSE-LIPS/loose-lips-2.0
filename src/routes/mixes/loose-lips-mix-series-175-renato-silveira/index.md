@@ -19,3 +19,15 @@ description: >-
 published: true
 tags: Techno
 ---
+Paraguayan perfection.Renato kicked it all off in Asunción & Ciudad Del Este before starting to make a name for himself in Buenos Aires in 2017. He’s now released on labels such as 4/4 Deep Culture, DVNTT and Utnd.TRACKLIST:Bis Zum Nächsten Tag – Schwefelgelb (Phase Fatale Remix)  
+Mr. Gasmask – Machine Stuermer  
+Giorgio Gigli & VSK – Memories Of An Unconnceted Era  
+Advanced Human – Grinding (Black Hats Remix)  
+Joton – Sings  
+Dyad – Zou  
+Abstract Division – Glide (Perc Remix)  
+Exium – Plankton  
+Charlton – Unforgiven  
+Kuroi – Dena  
+Scalameriya – Summoning Sequence  
+Hector Oaks – Dos A ¨A Needless Matter”

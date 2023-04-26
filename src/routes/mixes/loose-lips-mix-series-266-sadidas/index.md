@@ -20,3 +20,7 @@ description: >-
 published: true
 tags: Bass
 ---
+For the 266th installment of our Mix Series, we’re welcoming sadidas for 35′ of Bass-orientated dancefloor music!@sadidascreps  
+https://www.instagram.com/sadidas.crepsLondon-bred DJ sadidas came up through the queer club world.  
+From residenting at Dalston Superstore and playing naughty warehouse raves like Big Dyke Energy to DJing cyphers with the likes of Flirta D at Jungle Jam, she brings big bassy bangers at the 140 mark, digging up the wildest sounds that will have you skankin all night long.TRACKLIST:  
+\-undisclosed-www.loose-lips.co.uk

@@ -19,3 +19,4 @@ description: >-
 published: true
 tags: House
 ---
+Positive and mellow House vibes on our next Mix Series entry! Enjoy!!“I wanted to roll out some bits I’m currently feeling, be they older or fairly new. The emphasis on Housey niceness. A condensed version of what I like to play at home or on The Radio.”@adam-i @threadsradioTRACKLIST:Undisclosed.www.loose-lips.co.uk

@@ -20,3 +20,28 @@ description: >-
 published: true
 tags: Bass
 ---
+Old friend and Switch founder Tom Moon steps up for one hour blend of quality contemporary club music, hinting to better times. Play it loud, this is a good cure!@similartastesOr as Tom puts it: “Songs I’d make my morning porridge to”.https://www.instagram.com/tom\_\_moon  
+https://www.instagram.com/switchuk\_TRACKLIST:North Sea Dialect – Salt \[NMBRS57\]  
+James Massiah – Ride Or Di \[Self-released\]  
+Two Shell – Force \[Unreleased\]  
+Lurka x Gwen Stefani – Hollaback Lurkz \[Wisdom Teeth\]  
+Lurka – Minds Eye Tript \[Timedance020\]  
+TSVI – Labyrinth \[NH VOL. 3\]  
+Doubleheart – Salsa \[NONPLUS018\]  
+Axefield – Keep Talking \[susan010\]  
+Neinzer – Voyager \[WHYT025\]  
+Vince Staples – Party People \[Def Jam\]  
+Colour Plus – Powercell \[VPR 08\]  
+dBRm – Darnley (Original Mix) \[TNS006\]  
+EM + STAV – Afterglow \[INTGRD006\]  
+Koehler – Thief (Original Mix) \[WHYTBLU02\]  
+Reptant – Phasic Reflex \[OYSTER25\]  
+Hodge – Silo \[MF001\]  
+Nora Zion – Freakum Dress (Bootleg) \[Self-released\]  
+Unknown – Never Leave You \[STEDIT 02\]  
+DJ これからの緊急災害 – Slave 4 You \[FTP\]  
+Jack Chrysalis – Feels Like \[Gen Records\]  
+Time Cow & SO$A – Ben UFO \[Self-released\]  
+StacEmp – That’s Right \[SCDD016\]  
+Pearson Sound – Alien Mode \[HES037\]  
+Time Cow & RTKal – Elephant Man (Nora Zion x Burna remix) \[EM13\]www.loose-lips.co.uk

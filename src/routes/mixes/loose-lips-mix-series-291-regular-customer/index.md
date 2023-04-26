@@ -21,3 +21,18 @@ description: >-
 published: true
 tags: Steamwave
 ---
+Regular Customer is no stranger to Loose Lips! As well as being Kozber and 1/2 of Bonasforsa with Rico Casazza, who we’ve covered quite extensively, he’s also been working with us on several releases as our mastering engineer, including both our latest LL017 and LL018 (check: https://bit.ly/2XN6w1U).Here, we’re driven along a twisted 45 minute road of technoid, vaporwave and leftfield electronics.@regularcustomer  
+@sirius  
+@bonasforsaSirustudio, mastering studio:  
+https://www.facebook.com/siriustudioTRACKLIST:1\. Mersey River (Gordon Pohl’s Remiagination, Pt. 1 & Part 2)  
+2\. Maoupa Mazzocchetti – 644 Beauty Marks  
+3\. Puma & The Dolphin – Fosils  
+4\. Frieder Butzmann / Thomas Kapielski ‎– Do the VoPo  
+5\. Plus Instruments – Deutche Frau  
+6\. The Beast (Odopt Remix)  
+7\. Hands Watch – Borusiade  
+8\. Myn – Cold Vision Era   
+9\. Silent Servant – Illusion   
+10\. T-woc – Sunrays  
+11\. Gianni Safred – Planetarium  
+12\. Orm – Indicke Meditace (Regular Customer Edit)www.loose-lips.co.uk

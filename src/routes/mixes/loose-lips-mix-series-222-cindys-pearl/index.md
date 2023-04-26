@@ -18,3 +18,4 @@ description: >-
 published: true
 tags: Industrial
 ---
+Following from the World Cup fever caused solely by Cindy Pearl’s track ‘Footy & Lager’, released as LL013 on our label, he’s back with a heady mix.https://looselips123.bandcamp.comA mysterious post-punk obsessor.TRACKLIST:Undisclosed.

@@ -20,3 +20,31 @@ description: >-
 published: true
 tags: Raveeee
 ---
+Soosee Cue dropping 68′ of rave euphoria – an energising trip down the Hardcore Continuum!Have pHun in this mix of Breakbeat, Dubstep, Speed Garage, Hardcore and Jungle Tekno.We came across Soosee via her incredible recent mix for the @sisu\_crew fundraiser for Southall Black Sisters – https://southallblacksisters.org.uk. Hearing such versatility sparked our attention!@SooseeCueProving that you’re never too old, a late starter in playing out, London-based Soosee Cue loves to select, mix and spin tunes for dance floors home and away.Most loved by those movers and groovers eager to shake their thang to something raucous…In May this year Soosee was thrilled to become a Core DJ for Sisu, a community providing a platform to educate, inspire and showcase aspiring female, female-identifying and non-binary DJs and music producers.https://www.sisucrew.co.uk  
+  
+https://www.open.spotify.com/SooseeCue  
+https://www.facebook.com/SooseeCue  
+https://www.residentadvisor.net/dj/sooseecue  
+https://www.instagram.com/SooseeCue  
+[Tweets by SooseeCue](https://twitter.com/SooseeCue?ref_src=twsrc%5Etfw)TRACKLIST:  
+She’s Gone – Maxee Gee & Moz – Future Jungle Music  
+London Something – BR select aft FeyDer – Future Jungle Music  
+The Deep – Borai – Future Jungle Music  
+16AJ – Demz Da Breakz – Future Jungle Music  
+Burnin – pH – Future Jungle Music  
+Hemsedal Blues – Msymiakos – Future Jungle Music  
+One Love – Vinyl Junkie – Sonic Fortress  
+Big F#k1n Truffle – Manarchy – Big F#k1n Truffle  
+Hardcore Heaven (Rat Pack & Shimano Remix) – DJ Seduction – New State Music  
+Rave In The Bedroom – Low Noise Block – Ibiza Records  
+I’m Going – Richard Champion – Sonic Fortress  
+Paradise – Roots Massitve – Future Jungle Music  
+Summer Rumbler – Sekt 87 – Mangoes + Melons  
+Drop It – Aero Chord – Monstercat  
+Give Yourself To Me – Tony Oldskook – Sonic Fortress  
+Miami Burnin’ – Force Mass Motion – Force Mass Motion  
+Pump This – Rejection – Rejection  
+Dry Rinse – Mr. Psik – Sonic Fortress  
+Ruffneck Biznizz – Ellis Dee – New State Music  
+Ultra – Typestyle – Future Jungle Music  
+Insomnia – Reaper – Breakdown Recordswww.loose-lips.co.uk

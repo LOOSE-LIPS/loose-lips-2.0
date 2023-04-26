@@ -21,3 +21,5 @@ description: >-
 published: true
 tags: Electro
 ---
+Next up on our Mix Series is Electro veteran Transparent Sound dropping this excellent vinyl mix for us!@transparent-sound @orsonrecordsThe resurgent Transparent Sound outfit (now made up of lone UK electro veteran Orson Bramley) has been riding high since their classic “Punk Motherfucker” got picked up for a reissue from Pressure Traxx. 2019 has been a busy year so far for him, with the re-launch of his label Orson which has been very well received and last month saw him release 2 EPs on his Transparent Sound label.With plenty more music on the way on both labels, including a Transparent Sound album, it’s shaping up to be an exciting yearwww.orsonrecords.co.uk  
+www.transparentsound.co.uk

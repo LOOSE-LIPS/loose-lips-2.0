@@ -22,3 +22,6 @@ description: >-
 published: true
 tags: '!'
 ---
+250 weeks ago, we started to bring you a mix (and occasional live set!) every week, from producers and DJs that excite and inspire us.Today, it’s a milestone, a quarter of a century. We like to celebrate such occasions in style…and so we’re honoured to release this edition from a man whose minimalistic productions, combining moving soundscapes with rude and twisted beat structures, have obsessed us since we first discovered them!In anticipation of his forthcoming appearance at the London leg of our 5th Anniversary Tour, on the 29th Nov, where we’ll be collaborating with Keysound Recordings..This is the always innovative Different Circles co-founder, Logos, exploring many different faces of Bass music for 1 hour! Thank you!@logos262  
+@differentcirclesTracklist:  
+\-undisclosed-www.loose-lips.co.uk

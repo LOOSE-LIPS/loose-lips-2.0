@@ -18,3 +18,4 @@ description: >-
 published: true
 tags: Electronic
 ---
+The funkiest side of house & techno, fused with tasty grimey bits throughout. Varied yet coherent – a really colourful ride!@jeff\_oparaMysterious and eclectic 199Radio host, based in the murky depths of Manor House.TRACKLIST:Undisclosed.

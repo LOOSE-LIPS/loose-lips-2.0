@@ -20,3 +20,6 @@ description: >-
 published: true
 tags: '!'
 ---
+Week 255, mix 255. This week we present a mix from London based DJ and radio host Flotsam / Jetsam who guides us through an hour of hushed vocals and hazy libidinal desires.@flotsam  
+www.mixcloud.com/flotsamjetsam  
+www.instagram.com/nickvanlearoijdFlotsam / Jetsam’s mixes explore the liminal spaces of ambient, electronic and drone, with a particular affliction for the kind of ritual esoteric music pioneered by groups like Coil and Nurse With Wound.www.loose-lips.co.uk

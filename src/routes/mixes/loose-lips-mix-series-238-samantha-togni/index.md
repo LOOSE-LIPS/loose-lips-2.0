@@ -19,3 +19,6 @@ description: >-
 published: true
 tags: Techno
 ---
+We’re delighted to have Samantha Togni on board for the next instalment of our Mix Series!  
+Unrelenting Techno with a well deserved capital T!Running her Boudica show on Threads Radio @threadsradio as well as regularly playing around London in clubs such as The Egg, Elektrowerkz (KAOS), The Yard (Inferno) and around Europe, Samantha has also released on Russian Bass/FWD label #internetghetto and more recently on 335 Recordings. You’ll hear more about her on Loose Lips in a near future, too 😉@samanthatogniTracklist:  
+\-undisclosed-www.loose-lips.co.uk

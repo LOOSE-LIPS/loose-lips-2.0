@@ -20,3 +20,11 @@ description: >-
 published: true
 tags: Electronic
 ---
+A moody, mischievous mix from the founder of Silent Kraft, one of Rennes’ most popular club nights, which our residents @medallionman & @rommek were lucky enough to play at a few years back!
+
+  
+https://www.facebook.com/silentkraft
+
+TRACKLIST:
+
+Undisclosed.

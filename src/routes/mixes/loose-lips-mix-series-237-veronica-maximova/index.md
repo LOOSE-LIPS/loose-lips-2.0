@@ -22,3 +22,8 @@ description: >-
 published: true
 tags: Eclectronics
 ---
+It’s with great pleasure that we’re inviting Veronica Maximova on our 237th Mix Series!She’s released an amazing LP titled “Computerlove” last year on VOITAX, blending Electro, Synth Pop, Industrial and Experimental.  
+This mix reflects this eclecticism while staying coherent and keeping a storyline.@veronicamaximova  
+www.veronicamaximova.com  
+www.voitax.comEnjoy the trip.Tracklist:  
+\-undisclosed-www.loose-lips.co.uk

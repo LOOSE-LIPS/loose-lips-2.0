@@ -24,3 +24,4 @@ description: >-
 published: true
 tags: Contrast
 ---
+An incredible mushy-headed pilgrimage.https://www.facebook.com/Vaatican-Records-242006919184772THE VAATICAN RECORDS ARE A FREE & FLY HIGH-QUALITY TRICKY & NAUGHTY NET-LABEL .. = .. namaste WELCOME µ! !! ! .. = = zɹǝʇɐɥ ǝɥʇ oʇ ʞɔnɟ = = there’s no place like home = = = = EACH VAATICAN RELEA§E I§ A CD-R FORMAT THAT YOµ CAN D¤WNL¤AD F¤R FREEE . ///\\ .we believe in a particular sensitivity in language, in art and in music …//////////// .. ..everything is blue in this world … ..TRACKLIST:Undisclosed.

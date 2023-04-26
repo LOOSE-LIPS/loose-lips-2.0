@@ -19,3 +19,5 @@ description: >-
 published: true
 tags: 0-800-CH4LKY
 ---
+Blood, sweat, tears, 30 quid and a total of 12 well spent hours went into putting this mix together. And it shows – the mysterious Chalky gets things done on our 294th Mix Series!@chalkyyyyyVarying from EBM to Electro and Rhythmic Noise, Breaks to Techno, Jungle and Happy Hardcore, these 104′ surely can easily summon your inner tireless child.TRACKLIST:  
+– undisclosed –www.loose-lips.co.uk

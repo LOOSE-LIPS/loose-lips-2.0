@@ -19,3 +19,8 @@ description: >-
 published: true
 tags: Smooth Grooves
 ---
+Recorded through the smoke from Turkish’s front room in SE London, this mix deviates from his usual speciality to focus more on trippy dance floor tunes, dreaming of playing the interdimensional warm-up slot at the Cabaret Voltaire in Edinburgh.Like a trip to outer space in a cardboard box…@thatmanturk
+
+> [S.O.O.N.](https://threadsradio.com/project/s-o-o-n/)
+
+Performing regularly on @threadsradio, as one half of S.O.O.N, playing jazz and broken beats, Turkish is one hell of a selector.TRACKLIST:Undisclosed.

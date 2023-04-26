@@ -20,3 +20,18 @@ description: >-
 published: true
 tags: Bass
 ---
+Forward thinking audio-visual UK Bass…https://www.facebook.com/protonemusicTRACKLIST:1\. Hodge x Ishan Sound – C5 \[Tectonic\]  
+2\. Sensei – Trials Ft. Rakjay \[Glome Sound\]  
+3\. Denham Audio & Serocee – Masta Blastah (Caski Rmx) \[Durlke Disco\]  
+4\. Ebb – Mist \[unreleased\]  
+5\. Yaleesa Hall – Barbara Adams \[Will & lnk\]  
+6\. Pro.tone – Point A \[Simply Deep\]  
+7 Martyn – Nya \[Ostgut Ton\]  
+8\. Laksa – Delicates \[Ilian Tape\]  
+9\. Chungo Differ \[unreleased\]  
+10\. Pro.tone – ??? \[forthcmoing Jelly Bean Farm\]  
+11\. Lowquid – 606 (Pro.tone Remix)  
+12\. Walton – Pan \[Tectonic\]  
+13\. 207 – Ground\_Zero \[Macabre Unit Digital\]  
+14\. Squane x Kelly Dean – No stasis ft. Ill Chill \[Jelly Bean Farm\]  
+15\. Hugo Massien – Advanced Aerial Threat \[Tectonic\]

@@ -19,3 +19,20 @@ description: >-
 published: true
 tags: Eclectronics
 ---
+We’re inviting you to dive into this out-of-time mix from Portuguese DJ and avid record collector, DJ Lynce. Digging from obscure lo-fi electronic dub through to early electro gems and many other fascinating pieces of music that defy genres and classification.@pedrosantosAlthough this may sound paradoxical, DJ Lynce embodies both the character of the ultimate anti-DJ and of a definite “must-to” within the city’s musical scene.Owner of a rather idiosyncratic record collection which he de-manipulates with a faultless technique, Lynce’s peculiarity creates something intelligible and poetic to mould around a club goers expectations.This method of operations has produced some really oblique and one-of-a-kind DJ sets; sound pieces that translate to Portuguese the motto “for those who know”.https://www.instagram.com/\_lynce\_  
+https://www.facebook.com/pedrosantospmssTRACKLIST:DSIP – Take Care Dear!  
+1991 – Distortion Of Time  
+Biosphere – Le Grand Dôme  
+Jean-Luc – Inspiration  
+Vitor Rua – Vidya  
+Leyland Kirby – Moggy & Wearden  
+Cluster – Fotschi Tong  
+Monoton – π 3.141592653589793  
+Tik & Tok – The Tube  
+Jacqueline Boom-Boom – Flight Number 108  
+L.F.T. – Dead Rat Under The Table  
+Fellini – Zum Zum Zazoeira  
+Deux – Paris / Orly  
+De Ambassade – Verloren  
+Victor De Roo – Beland In Bed  
+Hallogallo 2010 – Blinkgürtelwww.loose-lips.co.uk

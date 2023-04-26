@@ -17,3 +17,5 @@ description: >-
 published: true
 tags: Grime
 ---
+Slimzos releasee and prolific producer AS.IF KID provides this 31′ hyperactive mix of absolutely hard grime beats!@sid-akhurstTRACKLIST:  
+– undisclosed –www.loose-lips.co.uk

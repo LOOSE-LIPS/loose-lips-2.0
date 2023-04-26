@@ -19,3 +19,5 @@ description: >-
 published: true
 tags: Techno
 ---
+Interesting sound design within the infinite realm of that thing we call ‘techno’, from a man well respected for his unique warm-up sets at the Municipal parties in Newcastle.@spewisTracklist:  
+\-undisclosed-www.loose-lips.co.uk

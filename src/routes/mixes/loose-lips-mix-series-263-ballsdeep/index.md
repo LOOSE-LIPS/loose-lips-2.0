@@ -20,3 +20,7 @@ description: >-
 published: true
 tags: House
 ---
+On our next entry, Yourboybarold & PlayingWithScissors representing Ballsdeep showcase their deep groovy underground sound!Putting on decisively different parties in and around London for 10 years. From forest’s to warehouse, clubs to old kebab shops.  
+Ballsdeep’s began in The Foundry in north London with the ethos of ‘For Friends by Friends’ and have continued to keep that all ‘friends inside’ atmosphere in their parties.  
+A monthly radio show on Threads plus gigs at The cause, Egg LDN, number 90 and more showing that underground deep sound is still prominent in the capital!TRACKLIST:  
+\-undisclosed-www.loose-lips.co.uk

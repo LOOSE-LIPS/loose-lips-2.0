@@ -19,3 +19,24 @@ description: >-
 published: true
 tags: Bass++
 ---
+Dan Miles pulls us into an engrossing 74′ of modern and dubby bass-orientated oddities.@danielmileswhiteDan Miles is a non-binary producer and DJ from the Midwest region of the United States, with a diverse range of influences and a warm grounded energy that comes through their rolling, bass heavy productions and tunneling psychedelic DJ sets.“I recorded this mix in the first week of January 2020, before there was any word of a pandemic in the US, as a submission mix to a festival which did not pan out. Despite the outcome, I loved the mix when I recorded it and I love it even more a year after I first wrote the original track list. It was recorded as a culmination of the kind of dubby, bass-heavy club music I have spent the last decade absorbing, a sound I have finally had the time and energy to refine in my own productions, and will be rolling out over the next year across several projects. I’m thrilled to finally be putting this out and can’t wait to follow it up in the next coming months. Thank you for listening.”TRACKLIST:Dan Miles – Linger  
+Shackleton – Headcleaner  
+Childplay – Stretching  
+Mosca – White mice  
+Lokua – Headhunter  
+Simo Cell – Cellar Door  
+Dan Miles – Link  
+Mickey Pearce – Tempted (F+club Tonto Edit)  
+Kush Jones – Drum track  
+MM – Rope  
+DJ Delish – Bitch  
+Pluralist – Gallak  
+Lotic – Rendez-vous (Drippin Remix)  
+Loefah – Life Dub  
+Objekt – Shuttered  
+Nautiluss – Guccifer (Keele Warehouse Remix)  
+Karisan – Layan  
+Super Drama – New Graces (Ciel Takes Flight Remix)  
+Dan Miles FKA Flaw – Rezz Cycle  
+Scuba – Flash Addict  
+Dan Miles – Link (Spektralsound Remix)www.loose-lips.co.uk

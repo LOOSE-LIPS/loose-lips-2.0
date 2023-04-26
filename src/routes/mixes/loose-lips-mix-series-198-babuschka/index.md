@@ -19,3 +19,5 @@ description: >-
 published: true
 tags: Electronic
 ---
+#198 of our Loose Lips Mix Series comes from Babuschka, aka RonGueta, a Leipzig-based DJ from Tel Aviv. We met Ron at this year’s Forte Festival, and having seen him play an outstanding closing set at an idyllic beach party this summer, it was a no-brainer to invite this eclectic DJ along for the series.On this mix, Ron states, ‘I mixed between fast tracks at low bpms in a way that the beat doesn’t fall on the first beat in the bar, or sometimes even on the’ off beat’. I also found a way to mix between two different bpms to create polyrhythms. The tracks selected for this mix are quite different to what I am used to playing, but I found it interesting to use you to show it here’.@babu\_schka  
+https://www.facebook.com/ron.gueta.5

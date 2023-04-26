@@ -20,3 +20,38 @@ description: >-
 published: true
 tags: Bass Continuum
 ---
+For our 262nd Mix Series, we’re excited to welcome LKF; co-founder of Tottenham-based radio station Threads alongside Medallion Man!With a history of production in the UK Garage and Drum’n’Bass scenes in London, LKF aka THINGS DISAPPEAR brings us a mix highlighting his own take on the history of bass-based music.  
+Featuring tracks largely from the UK, the mix demonstrates the huge influence Jamaican sound system culture had on the 90s rave scene, and the marked sonic echoes it’s left in musical structures that have originated from metropolitan areas of the UK over the last few decades.This episode of the Loose Lips mix series spans Reggae and Dub, Bleep’n’Bass, Hardcore Techno, Jungle, Drum’n’Bass, Grime, Dubstep, and modern Bass music.@thingsdisappear The photo is taken from outside a house in Stoke Newington, where the studio of London hardcore pioneers Shut Up And Dance was based in the 1990s.The THINGS DISAPPEAR show on Threads radio has featured interviews with pioneers such as A Guy Called Gerald and Colin Dale. The first release on the THINGS DISAPPEAR label is scheduled for Summer 2020 and will see LKF collaborating with KKINGBOO, Felix Raman, Medallion Man, ornography and Marie Malarie.  
+https://www.facebook.com/thingsdisappear  
+https://www.instagram.com/thingsdisappear  
+@threadsradioTRACKLIST:   
+Yabby U & King Tubby – Version Dub  
+Sly & Robbie – Computer Malfunction  
+Bomb The Bass – Darkheart (Alpha & Omega #2 Dub)  
+LFO – El Ef Oh!  
+Unique 3 – Weight For The Bass (3 Ton Mix)  
+Renegade Soundwave – Biting My Nails (Sound System Plays A Renegade Tune)  
+Shut Up & Dance – Derek Went Mad (Remix)  
+Forgemasters – Track With No Name (Communique Mix)  
+Alex Coulton – Ambush  
+Felix Leifur – BROT 2  
+Walton – Rolla  
+Martyn – Odds Against Us  
+Tubby – Tiger Style (Footsie Remix)  
+Slaughter Mob – Creaky Door  
+Plasticman – Pump Up The Jam  
+Digital Mystikz – Chainba  
+Tubby – Steppa  
+Pinch – Chamber Dub  
+Mala – Da Wrath (Souljahz VIP Mix)  
+TRG – Broken Heart (Martyn’s DCM Remix)  
+Sully – Blue (Logos Vapour Dub)  
+Ed Rush – The Force Is Electric (Remix)  
+Dillinja – You Don’t Know (The Remix)  
+Splash – Babylon (DJ Trace Remix)   
+Ed Rush – What’s Up  
+DJ Trace & Nico – Monkeys  
+DJ Ron – Rockers (Industrial Dubwise Pt. 1)  
+Digital – Ras 78 (VIP)  
+A Guy Called Gerald – Anything  
+Caustic Window – Clayhill Dubwww.loose-lips.co.uk

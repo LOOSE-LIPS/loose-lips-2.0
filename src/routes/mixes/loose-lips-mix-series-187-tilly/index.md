@@ -17,3 +17,4 @@ description: >-
 published: true
 tags: Leftfield
 ---
+A true pleasure to listen to.https://www.facebook.com/tillydjNoods radio resident based in Bristol – check out her show every 3rd Friday of the month.TRACKLIST:Undisclosed.

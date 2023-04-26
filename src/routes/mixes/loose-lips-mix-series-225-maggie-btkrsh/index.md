@@ -19,3 +19,4 @@ description: >-
 published: true
 tags: Techno
 ---
+It’s like some serious and dark slime balloon has just burst in my ears, splattering new-school noises with more balanced psychedelic sounds.@magi-popovaIt’s a pleasure to put out this mix by Maggie, who’s part of the new generation of Macedonian DJs, part of the BTKRSH crew and co-founder of the Code XX project.Her diverse music sets are distinguished by combining melodic and psychedelic techno, electro & breaks…undoubtedly arousing a wide range of emotions on the dancefloor.TRACKLIST:Undisclosed.

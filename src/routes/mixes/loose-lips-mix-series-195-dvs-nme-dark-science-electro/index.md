@@ -22,3 +22,17 @@ description: >-
 published: true
 tags: Electro
 ---
+Rave and cry!DVS NME is an Electro and Post Punk enthusiast, living in Colorado. He runs a daily blog called ‘Dark Science Electro’ which features news, live sets, guest mixes, upcoming shows, premieres as well as a weekly radio show on Intergalactic FM. Electro producer representing @transientforce, @solar\_one\_music, Fundamental Records, @pulse-drift-recordings, @ukonx and more.TRACKLIST:Maroje T – LA Confidential  
+Zeta Reticula – Southern Skies  
+Dynarec – Rise Of The Fall  
+Datawave – Chrysalis  
+Commuter – Optical Modulator  
+Maelstrom – Fragment  
+Mutex – Binary Perceptions  
+Versalife – Shine Eye  
+Solar Chrome – Robotnik  
+Franck Kartell – Post Mortem  
+FPU – Seven Of Nine  
+Ashtar Lavanda – Unsolved Mysteries  
+Rico Casazza – Gingerino  
+Animistic Beliefs – Marianentrog Patrol

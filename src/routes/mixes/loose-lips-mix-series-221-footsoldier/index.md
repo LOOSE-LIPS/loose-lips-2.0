@@ -16,3 +16,4 @@ description: >-
 published: true
 tags: Dubstep
 ---
+Resident at Kodiak Productions and head honcho of Kulture Project (Manchester)https://www.facebook.com/footsoldierx/
