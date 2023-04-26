@@ -6,10 +6,10 @@ type: crew
 slug: rob-searle
 author: 100
 banner:
-  - imported\rob-searle\image4546.jpeg
+  - imported/rob-searle/image4546.jpeg
 description: 'PHOTOGRAPHER [...]Read More...'
 published: true
 tags:
   - crew
 ---
-PHOTOGRAPHER
+![image](../imported/rob-searle/image4546.jpeg)PHOTOGRAPHER

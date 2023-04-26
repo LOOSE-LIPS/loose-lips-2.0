@@ -6,7 +6,7 @@ type: crew
 slug: morgan-johnston
 author: 100
 banner:
-  - imported\morgan-johnston\image4538.jpeg
+  - imported/morgan-johnston/image4538.jpeg
 description: >-
   A&amp;R / Editorialist / Creative Contributor / DJ &amp; Producer A long time
   friend and collaborator of Loose Lips, Morgan resides in Manchester as a sound
@@ -17,7 +17,7 @@ published: true
 tags:
   - crew
 ---
-A&R / Editorialist / Creative Contributor / DJ & ProducerA long time friend and collaborator of Loose Lips, Morgan resides in Manchester as a sound engineering student and team assistant. Helping out with varied selection of roles from content uploads and editorials, to event promotion and A&R.
+![image](../imported/morgan-johnston/image4538.jpeg)A&R / Editorialist / Creative Contributor / DJ & ProducerA long time friend and collaborator of Loose Lips, Morgan resides in Manchester as a sound engineering student and team assistant. Helping out with varied selection of roles from content uploads and editorials, to event promotion and A&R.
 
 [Loose Lips](https://soundcloud.com/loose-lips123 "Loose Lips") · [PREMIERE: Link – Frustration (Morgan Spiced Remix) (AMEN019)](https://soundcloud.com/loose-lips123/premiere-link-frustration-morgans-spiced-remix-amen019 "PREMIERE: Link - Frustration (Morgan Spiced Remix) (AMEN019)")
 

@@ -6,7 +6,7 @@ type: crew
 slug: dog-eyes
 author: 100
 banner:
-  - imported\dog-eyes\image4547.jpeg
+  - imported/dog-eyes/image4547.jpeg
 description: >-
   HEAD OF SOCIAL MEDIA / RESIDENT DJ Loose Lips&#39; social media manager and
   one of our resident DJs. Co-host of Index Tapes on Threads. Photo by Tom
@@ -17,7 +17,7 @@ published: true
 tags:
   - crew
 ---
-HEAD OF SOCIAL MEDIA / RESIDENT DJLoose Lips' social media manager and one of our resident DJs. Co-host of Index Tapes on Threads.Photo by Tom Williams[](https://soundcloud.com/loose-lips123/loose-lips-mix-series-254-dogeyes?fbclid=IwAR2Gz5eaXadbSBpSVmYksAy1ji_ypA-N3xm7V62_i869vYjqsbDrQqwCckg)[https://soundcloud.com/loose-lips123/loose-lips-mix-series-254-dogeyes](https://soundcloud.com/loose-lips123/loose-lips-mix-series-254-dogeyes)  
+![image](../imported/dog-eyes/image4547.jpeg)HEAD OF SOCIAL MEDIA / RESIDENT DJLoose Lips' social media manager and one of our resident DJs. Co-host of Index Tapes on Threads.Photo by Tom Williams[](https://soundcloud.com/loose-lips123/loose-lips-mix-series-254-dogeyes?fbclid=IwAR2Gz5eaXadbSBpSVmYksAy1ji_ypA-N3xm7V62_i869vYjqsbDrQqwCckg)[https://soundcloud.com/loose-lips123/loose-lips-mix-series-254-dogeyes](https://soundcloud.com/loose-lips123/loose-lips-mix-series-254-dogeyes)  
 [https://www.facebook.com/deindex/](https://www.facebook.com/deindex/)  
 [https://www.instagram.com/indextapes/](https://www.instagram.com/indextapes/)  
 [https://soundcloud.com/indextapes](https://soundcloud.com/indextapes)

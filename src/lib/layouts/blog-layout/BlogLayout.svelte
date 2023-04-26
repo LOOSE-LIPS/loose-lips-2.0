@@ -100,9 +100,6 @@
     }
   }
 
-  console.log(title, "title");
-  console.log(tags, "tags");
-
   // End: Reactive properties
 
   // Local Methods

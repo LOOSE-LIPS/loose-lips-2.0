@@ -6,7 +6,7 @@ type: crew
 slug: alex-honey
 author: 100
 banner:
-  - imported\alex-honey\image4550.jpeg
+  - imported/alex-honey/image4550.jpeg
 description: >-
   Researcher and DJ based in London.
   https://www.instagram.com/classtraitor/https://soundcloud.com/djketosis
@@ -15,5 +15,5 @@ published: true
 tags:
   - crew
 ---
-Researcher and DJ based in London.[https://www.instagram.com/classtraitor/](https://www.instagram.com/classtraitor/)  
+![image](../imported/alex-honey/image4550.jpeg)Researcher and DJ based in London.[https://www.instagram.com/classtraitor/](https://www.instagram.com/classtraitor/)  
 [https://soundcloud.com/djketosis](https://soundcloud.com/djketosis)
