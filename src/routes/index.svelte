@@ -46,16 +46,12 @@
     .filter((blog) =>
       blog.title.toLowerCase().includes(searchValue.toLowerCase())
     );
-  // End: Local component properties
-
-  console.log("home");
 </script>
 
 <HeadTags {metaData} />
 
 <div class="w-[100%] mt-28">
   <FeaturedContent {posts} />
-  <!-- <TagsContainer {blogs} /> -->
   <RecentPostsContainer {posts} />
   <HomeEventsContainer {events} />
 </div>
