@@ -5,7 +5,9 @@ title: 'Loose Lips: Bjarki // Inga Mauer // aalice b2b Lucy Ironmonger - Loose L
 type: event
 slug: loose-lips-bjarki-inga-mauer-aalice-b2b-lucy-ironmonger
 author: 100
-banner: []
+banner:
+  - >-
+    imported/loose-lips-bjarki-inga-mauer-aalice-b2b-lucy-ironmonger/image2818.jpeg
 description: >-
   Loose Lips is back with its next Manchester party instalment&#8230;
   Iceland&#39;s Bjarki joins us &#8211; his first time in Manchester in 3 year
