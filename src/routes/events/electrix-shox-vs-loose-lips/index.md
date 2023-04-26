@@ -17,7 +17,7 @@ published: true
 tags:
   - crew
 ---
-To raise funds for MIND, an amazing UK mental health charity formed in 1946, there's a special special 2 room rave going down at Tottenham's thriving venue, The Cause.  
+![image](../imported/electrix-shox-vs-loose-lips/image2765.jpeg)To raise funds for MIND, an amazing UK mental health charity formed in 1946, there's a special special 2 room rave going down at Tottenham's thriving venue, The Cause.  
 [https://www.mind.org.uk](https://www.mind.org.uk)  
 Electrix Shox is a new sister project of Electrix Records, revolved around a show on 199Radio and a series of events, run by the man himself, Billy Nasty. Look forward to the finest edges of techno, electro and electronica in Room 1.  
 [https://soundcloud.com/electrix-records](https://soundcloud.com/electrix-records)  

@@ -21,7 +21,7 @@ published: true
 tags:
   - crew
 ---
-After Shackleton's stunning performance for us in March, our next night heads to Hidden for an electro wrinse out!
+![image](../imported/neil-landstrumm-paul-blackford-more-loose-lips-in-mcr/image2762.jpeg)After Shackleton's stunning performance for us in March, our next night heads to Hidden for an electro wrinse out!
 
 BUY TICKETS – [https://www.residentadvisor.net/events/1097308](https://www.residentadvisor.net/events/1097308)Pricing: £5 / £10 pre-saleTime: 22:00 – 04:00   
 LINE-UP:  

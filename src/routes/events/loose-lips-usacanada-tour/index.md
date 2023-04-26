@@ -14,4 +14,4 @@ published: true
 tags:
   - crew
 ---
-OIOIInformation on the specific gigs on separate event pages.
+![image](../imported/loose-lips-usacanada-tour/image2791.jpeg)OIOIInformation on the specific gigs on separate event pages.

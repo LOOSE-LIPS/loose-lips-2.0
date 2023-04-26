@@ -21,7 +21,7 @@ published: true
 tags:
   - crew
 ---
-An intimate Sunday brunchtime session aiming to enthral, transfix and captivate.
+![image](../imported/loose-lips-invited-by-ransom-note-records-ambient-brunch/image2786.jpeg)An intimate Sunday brunchtime session aiming to enthral, transfix and captivate.
 
 FREE ENTRY10am – 3pmRansom Note records, Arch 437, Cranmer Road, E7 0JN
 

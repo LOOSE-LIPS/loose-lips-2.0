@@ -19,7 +19,7 @@ published: true
 tags:
   - crew
 ---
-FOLD & Loose Lips go hard..
+![image](../imported/fold-x-loose-lips-present-the-mover-mesh/image2800.jpeg)FOLD & Loose Lips go hard..
 
 Joining forces to bring hardcore techno legend THE MOVER to LDN for the first time in 25 yrs !
 

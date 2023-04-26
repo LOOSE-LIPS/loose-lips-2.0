@@ -18,7 +18,7 @@ published: true
 tags:
   - crew
 ---
-"THE BUTTERFLY EFFECT"5 of the hottest underground collectives throwing events in West Yorkshire come together for "THE BUTTERFLY EFFECT" a 5 room takeover representing sound system culture across the spectrum – Beaverworks, 24th of May!  
+![image](../imported/butterfly-effect-beaverworks-24519/image2787.jpeg)"THE BUTTERFLY EFFECT"5 of the hottest underground collectives throwing events in West Yorkshire come together for "THE BUTTERFLY EFFECT" a 5 room takeover representing sound system culture across the spectrum – Beaverworks, 24th of May!  
 Musicology x Loose Lips room:  
 MAGUGU x STAGGA feat Skunkadelic – LIVEFORMZ (Shadow Player Records)NORFN GYAL (Kmah / Goodlife)OLD PARADICE (CONFUCIUS x MORRIARCHI) – LIVECHARLIE BOY MANSON & LUKE LEADBELLY (Loose Lips) – LIVEJIM 2 EYES (G FUNK SET) (Style n Fashion)BT3K B2B DOWKER (Musicology/Elements)
 

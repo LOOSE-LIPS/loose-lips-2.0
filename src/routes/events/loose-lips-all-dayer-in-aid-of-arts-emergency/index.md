@@ -18,7 +18,7 @@ published: true
 tags:
   - crew
 ---
-To wave goodbye to summer, we're raising funds and spreading the awareness of Arts Emergency, an amazing North London-based charity who work with 16-to-19-year-olds in further education from diverse backgrounds, to enable access to higher education in the Arts, Humanities and Social Sciences. Highly recommend checking out their amazing work!   
+![image](../imported/loose-lips-all-dayer-in-aid-of-arts-emergency/image2767.jpeg)To wave goodbye to summer, we're raising funds and spreading the awareness of Arts Emergency, an amazing North London-based charity who work with 16-to-19-year-olds in further education from diverse backgrounds, to enable access to higher education in the Arts, Humanities and Social Sciences. Highly recommend checking out their amazing work!   
 [http://arts-emergency.org/](http://arts-emergency.org/)[http://loose-lips.co.uk](http://loose-lips.co.uk)  
 Art Emergency's efforts still really need their word spreading…and so come down to the wonderful waterside venue, Grow, Hackney, on Sat 8th Sep for an eclectic 14 hours of live music and DJs. Expect everything from UK Hip Hop to modular glitches, breakbeats, live poetry, and deluded disco.  
 ——  
