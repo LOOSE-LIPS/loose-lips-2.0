@@ -21,3 +21,25 @@ description: >-
 published: true
 tags: THE MOVER
 ---
+Ahead of https://www.facebook.com/events/1082849241922269 this weekend, Loose Lips invited two of the FOLD crew on to build the excitement for their collaborative event this weekend!
+
+—–
+
+IN THE SHOW:
+
+Release of the week  
+Interview w/ Sultan Shakes  
+Sultan Shakes hardcore mini-mix  
+Interview w/ Voicedrone  
+Voicedrone DJ set  
+Voicedrone b2b Medallion Man
+
+—–
+
+  
+  
+http://loose-lips.co.uk  
+@medallionman  
+https://www.facebook.com/fld.ldn
+
+Release of the week = https://www.discogs.com/The-Mover-Undetected-Act-From-The-Gloom-Chamber/master/1334983

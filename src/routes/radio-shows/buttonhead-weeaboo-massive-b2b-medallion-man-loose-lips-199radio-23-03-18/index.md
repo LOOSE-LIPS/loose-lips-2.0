@@ -21,3 +21,9 @@ description: >-
 published: true
 tags: Jungle
 ---
+Random, ropey at times, incredibly eclectic, and a fuck load of fun!
+
+http://loose-lips.co.uk  
+  
+
+https://www.newriverstudios.com/199radio/listen

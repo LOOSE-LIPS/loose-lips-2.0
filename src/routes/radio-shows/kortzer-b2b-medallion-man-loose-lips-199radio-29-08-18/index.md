@@ -19,3 +19,8 @@ description: >-
 published: true
 tags: ''
 ---
+Another rare Loose Lips resident b2b on the @199radio airwaves…
+
+@Kortzer, down from Manchester for Carnival, teams up with Me me me…@Medallionman!
+
+http://loose-lips.co.uk

@@ -21,3 +21,8 @@ description: >-
 published: true
 tags: Drum & Bass
 ---
+Loose Lips resident Felix Raman was joined by Mike Fallopian (returning from his year long hiatus), live from the lockdown in their Homerton abode. A soundtrack to the insanity of isolated days, weeks, months….
+
+@felixstock-1
+
+Release in focus = https://avonterrorcorps.bandcamp.com/album/avon-garde

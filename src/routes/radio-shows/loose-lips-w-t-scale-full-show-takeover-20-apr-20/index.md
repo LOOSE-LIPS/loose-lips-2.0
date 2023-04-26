@@ -19,3 +19,11 @@ description: >-
 published: true
 tags: Adventure Time
 ---
+This Monday we’ve had Loose Lips’ very own T-Scale streaming from Liege! A 2h musical crescendo live from the fiery city!
+
+@jef-t-scale  
+@loose-lips123
+
+http://www.loose-lips.co.uk
+
+Listen the Threads at www.threadsradio.com

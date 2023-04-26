@@ -20,3 +20,8 @@ description: >-
 published: true
 tags: Ambient
 ---
+In anticipation of our 3rd Anniversary party in Bristol, 10Twenty kindly invited us on the night before for a warm-up session.
+
+@medallionman was joined by one of the party’s guests @peev-music, who was making his Bristol debut!
+
+http://loose-lips.co.uk

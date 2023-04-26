@@ -22,3 +22,29 @@ description: >-
 published: true
 tags: Rinse FM
 ---
+with Medallion Man, Blackdown, Rommek, Kortzer, Ganesa, Footsoldier, T-Scale & Paxman (Hosted by Treece & Koast MC)
+
+Rinse FM Boxing Day 2019 @ XOYO – Tickets: smarturl.it/boxingday\_19
+
+After a 2 year break, Rinse FM returns for their annual Boxing Day party on the  
+26th December at East London’s XOYO
+
+Bringing together some of the freshest and foundation talent over the past 25 Years,  
+our line up on the night will be:
+
+Redlight  
+Geeneus + Katy B + Tippa  
+Novelist  
+Oneman  
+Slimzee  
+The Menendez Brothers  
+Jetsss  
+IZCO  
+Jordss  
+Oblig  
+Eliza Rose  
+Manaré  
+FBR
+
+10PM – 5AM  
+Tickets £10 – £22

@@ -19,3 +19,10 @@ description: >-
 published: true
 tags: House
 ---
+This week, we welcomed a top journalist, joker and radio host on. Also gave away 2 tickets to Alfresco Festival…
+
+http://loose-lips.co.uk
+
+https://www.newriverstudios.com/199radio/listen
+
+Release of the week = https://balkanvinyl.bandcamp.com/album/ila017

@@ -22,3 +22,10 @@ description: >-
 published: true
 tags: Disco
 ---
+Dalston Superstore’s social media manager gave the LL show an insight into the evolution and challenges in managing such an important space.
+
+http://loose-lips.co.uk
+
+> [Home](https://dalstonsuperstore.com/)
+
+Release of the week = https://www.discogs.com/L-R-L-R-EP/release/10610305

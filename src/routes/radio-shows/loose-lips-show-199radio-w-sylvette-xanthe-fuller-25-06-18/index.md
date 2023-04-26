@@ -22,3 +22,10 @@ description: >-
 published: true
 tags: Acoustic
 ---
+A really special show for you here.
+
+It all kicked off with Charlie from Sylvette who chatted to us about the band’s brand new release and Manchester’s up & downs, followed by a really impressive live studio performance.
+
+In the second hour, Mixcloud & Soho Radio’s Xanthe joined us in true ‘desert island discs’ style, running through the range of influences, with much chit chatter along the way!
+
+ENJOY!

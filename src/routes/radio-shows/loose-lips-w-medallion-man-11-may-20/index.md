@@ -19,3 +19,8 @@ description: >-
 published: true
 tags: We Are The Robots
 ---
+Back at the wheel, @medallionman takes the reigns of the @loose-lips123 show, hosting it for the first time during isolation.
+
+What a Devonian diva! 2 hours of selections spanning eccentric electro, Kanye West & some new grimey numbers.
+
+Release in focus = https://boomkat.com/products/life-cycles

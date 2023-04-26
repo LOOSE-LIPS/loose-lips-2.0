@@ -17,3 +17,10 @@ description: >-
 published: true
 tags: Jungle
 ---
+Skankin’ through 2 hours on the beautiful Reform Radio in Manchester.
+
+@patriceswms  
+@auderkortzer  
+https://www.facebook.com/footsoldierx
+
+www.loose-lips.co.uk

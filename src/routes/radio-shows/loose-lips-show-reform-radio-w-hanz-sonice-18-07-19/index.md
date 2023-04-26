@@ -16,3 +16,4 @@ description: >-
 published: true
 tags: Electronic
 ---
+Strange Riddim’s Hanz & Sonice takeover the Loose Lips Show on Reform Radio with an extended session!

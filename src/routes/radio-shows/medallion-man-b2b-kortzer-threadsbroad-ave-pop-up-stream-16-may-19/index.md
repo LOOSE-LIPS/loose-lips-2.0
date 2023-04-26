@@ -22,3 +22,16 @@ description: >-
 published: true
 tags: rap
 ---
+May 2019 – Threads\* pop-up in Memphis, a city on the Mississippi River in southwest Tennessee, famous for the influential strains of blues, soul and rock ‘n’ roll that originated there.
+
+We’re honoured to have been able to showcase a breadth of the modern musical talent there today, stretching from Hip Hop through to various experimental electronic vibrations.
+
+Was streamed live from local skatepark and coffee shop, Society Memphis.
+
+—–
+
+Kortzer & Medallion Man, whose Loose Lips North America tour was the catalyst for this pop-up, finished proceedings with a back and forth between Memphis and UK rap vibes.
+
+—–
+
+www.threadsradio.com

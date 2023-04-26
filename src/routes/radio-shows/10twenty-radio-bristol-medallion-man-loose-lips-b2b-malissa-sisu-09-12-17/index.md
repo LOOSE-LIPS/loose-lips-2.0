@@ -22,3 +22,8 @@ description: >-
 published: true
 tags: Alternative
 ---
+A Saturday afternoon’s selections…
+
+https://www.facebook.com/Malissavibes  
+https://www.facebook.com/medallionmanmusic  
+http://loose-lips.co.uk

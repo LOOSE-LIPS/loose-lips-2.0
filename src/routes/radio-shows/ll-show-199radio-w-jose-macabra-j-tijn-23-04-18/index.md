@@ -18,3 +18,11 @@ description: >-
 published: true
 tags: Techno
 ---
+Noise art, through to sexual favours and grime classics!
+
+http://loose-lips.co.uk
+
+  
+https://soundcloud.com/jtijn
+
+Release of the week = https://huntleyspalmers.bandcamp.com/album/h-p-clyde-built-40-compilation-free

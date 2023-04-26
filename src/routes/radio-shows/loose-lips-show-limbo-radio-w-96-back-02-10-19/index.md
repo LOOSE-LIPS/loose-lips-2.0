@@ -15,3 +15,9 @@ description: 'Serious. @auderkortzer @96-back www.loose-lips.co.uk [...]Read Mor
 published: true
 tags: Electronic
 ---
+Serious.
+
+@auderkortzer  
+@96-back
+
+www.loose-lips.co.uk

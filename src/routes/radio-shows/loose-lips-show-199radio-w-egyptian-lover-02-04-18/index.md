@@ -18,3 +18,10 @@ description: >-
 published: true
 tags: Electro
 ---
+http://loose-lips.co.uk
+
+https://www.facebook.com/ThEgyptianLover
+
+https://www.newriverstudios.com/199radio/listen
+
+Release of the week = https://www.youtube.com/watch?v=WAkgz8wKugs

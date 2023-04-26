@@ -21,3 +21,9 @@ description: >-
 published: true
 tags: House
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/wholemealmusic
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+Release of the week = https://www.discogs.com/Stave-Fought-ep/release/10468170

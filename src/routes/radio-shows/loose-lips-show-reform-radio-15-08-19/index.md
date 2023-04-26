@@ -14,3 +14,8 @@ description: 'C&#8217;MON A BASSLINE! @auderkortzer www.loose-lips.co.uk [...]Re
 published: true
 tags: Rap
 ---
+C’MON A BASSLINE!
+
+@auderkortzer
+
+www.loose-lips.co.uk

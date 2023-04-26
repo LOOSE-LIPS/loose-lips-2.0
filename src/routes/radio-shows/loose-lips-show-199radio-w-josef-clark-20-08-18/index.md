@@ -19,3 +19,9 @@ description: >-
 published: true
 tags: Rock
 ---
+Two friends telling funny stories and discussing tunes like never before!
+
+http://loose-lips.co.uk  
+http://199rad.io
+
+Release of the week = https://www.juno.co.uk/products/andy-compton-shamrock-bunny-chow/675933-01/

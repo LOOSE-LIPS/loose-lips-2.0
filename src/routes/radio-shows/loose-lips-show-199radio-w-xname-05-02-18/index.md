@@ -17,3 +17,9 @@ description: >-
 published: true
 tags: Noise
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/xnaam
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+Release of the week = https://audioeargasmrecords.bandcamp.com/album/fucking-tune

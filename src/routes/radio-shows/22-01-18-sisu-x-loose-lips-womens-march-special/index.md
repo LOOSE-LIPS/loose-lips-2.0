@@ -20,3 +20,9 @@ description: >-
 published: true
 tags: Women's March
 ---
+A special show following up from The Women’s March on 21st January. The Women’s March on London is a women-led movement that brought together people of all genders, ages, races, cultures, political affiliations and backgrounds, to affirm our shared humanity and pronounce our bold message of resistance and self-determination.
+
+https://www.facebook.com/sisuldn  
+http://loose-lips.co.uk
+
+> [199radio](https://newriverstudios.com/199radio/)

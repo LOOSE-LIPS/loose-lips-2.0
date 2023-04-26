@@ -17,3 +17,9 @@ description: >-
 published: true
 tags: Techno
 ---
+The radio show before the party that got Corona’d…
+
+@auderkortzer  
+@patriceswms
+
+www.loose-lips.co.uk

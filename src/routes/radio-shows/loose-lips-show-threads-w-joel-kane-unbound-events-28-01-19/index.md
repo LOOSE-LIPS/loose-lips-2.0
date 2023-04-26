@@ -23,3 +23,12 @@ description: >-
 published: true
 tags: Dubs
 ---
+Our first weekly show on Threads hosted a double whammy, joined by London selector Joel Kane (who brought loads of freshly pressed dubs) and some of the crew from Unbound Events, ahead of the LLxUB collaboration with Juan Atkins that Friday.
+
+www.threadsradio.com
+
+  
+https://www.facebook.com/weareunbound  
+www.loose-lips.co.uk
+
+Release of the week = https://analogicalforce.bandcamp.com/album/af018lp-james-shinra-vital-heat-2018

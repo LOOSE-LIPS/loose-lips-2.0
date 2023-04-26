@@ -23,3 +23,11 @@ description: >-
 published: true
 tags: UK Funky
 ---
+From Rolling Stock to the @199radio studio…
+
+https://www.facebook.com/EVM128  
+https://www.facebook.com/medallionmanmusic  
+http://loose-lips.co.uk  
+http://199rad.io
+
+Release of the week = https://www.discogs.com/The-Source-Experience-The-Source-Experience/release/22657

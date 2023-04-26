@@ -18,3 +18,8 @@ description: >-
 published: true
 tags: Exploration
 ---
+@medallionman was joined by housemate and true noise nerd, Arthur Fisher, for the Loose Lips lube up.
+
+Weird selections from the 70s, library music, and musicology that an Oxbridge graduate couldn’t dream of.
+
+Release in focus = https://nyegenyegetapes.bandcamp.com/album/duma

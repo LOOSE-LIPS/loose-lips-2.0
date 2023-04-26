@@ -19,3 +19,8 @@ description: >-
 published: true
 tags: ''
 ---
+As part of Threads’ 48-hour long stream, which was the culmination of our Crowdfunder, some of the @loose-lips123 gang and label affiliates rocked up for an inspirational session.
+
+@neutral\_territory – electro set  
+@felixraman b2b @medallionman – rinse out  
+@lakker – a special live set

@@ -20,3 +20,6 @@ description: >-
 published: true
 tags: bank-holiday-hype
 ---
+After a mad weekend away in Budapest for a stag doo, @medallionman, Roddy & @patriceswms arrived just in time, joined by absolute geezer and inspiring producer, @paul-blackford.
+
+Tunes, hype, chitter chatter, and a live set from Paul!

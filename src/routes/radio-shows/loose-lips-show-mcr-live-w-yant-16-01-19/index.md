@@ -16,3 +16,6 @@ description: >-
 published: true
 tags: Techno
 ---
+http://www.loose-lips.co.uk/radio-shows
+
+https://www.facebook.com/yantmusic

@@ -18,3 +18,8 @@ description: >-
 published: true
 tags: Rock
 ---
+@loose-lips123 welcomes an old friend and cognitive neuroscientist into the studio for a special show of punk, metal, rock and progressive!
+
+@medallionman and @neutral\_territory testing their friendship again!
+
+Release in focus = https://decisionsnyc.bandcamp.com/album/act-fast

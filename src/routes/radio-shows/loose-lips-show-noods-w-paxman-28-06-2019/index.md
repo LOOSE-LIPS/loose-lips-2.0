@@ -16,3 +16,6 @@ description: >-
 published: true
 tags: Techno
 ---
+A sunburnt Paxman going solo for 60 minutes on the latest monthly Loose Lips residency on Noods Radio.
+
+www.loose-lips.co.uk/radio-shows

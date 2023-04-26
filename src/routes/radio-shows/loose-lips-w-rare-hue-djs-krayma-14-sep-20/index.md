@@ -18,3 +18,14 @@ description: >-
 published: true
 tags: Live Radio
 ---
+@loose-lips123 welcome Rare Hue DJs & rapper Krayma onto their weekly Threads show!
+
+Following on from last week’s jam with Repeat Beat Poet, they’ll also be finishing the show on another live session!
+
+Rare Hue was established in 2017. Created through a mutal love of clothes, music and art; they set off with a vision to bring together DJs, designers, producers, rappers, models and anyone else who shares a passion to create their own mark.
+
+Rare Hue’s mission is creation through any means necessary.
+
+@medallionman and @neutral\_territory hosting, hustling and opening up the first hour as per!
+
+Release in focus = https://shop.tresorberlin.com/index.php/shawn-rudiman-autonomic-pilot-tresor-311.html

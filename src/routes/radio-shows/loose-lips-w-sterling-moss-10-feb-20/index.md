@@ -17,3 +17,8 @@ description: >-
 published: true
 tags: Wide-ranging
 ---
+Loose Lips are joined by acid techno legend, Sterling Moss. Another show sure to be soaked in history, story-telling and banging tunes – don’t miss it!⁠
+
+  
+⁠  
+Listen Live @ www.threadsradio.com

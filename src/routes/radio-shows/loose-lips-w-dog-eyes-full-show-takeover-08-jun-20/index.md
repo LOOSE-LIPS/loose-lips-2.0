@@ -20,3 +20,8 @@ description: >-
 published: true
 tags: Techno
 ---
+Loose Lips resident weirdo and Index Tapes founder Dog Eyes steps in this week for two hours of noisy UK techno bangers, showcasing Untold’s Pennyroyal label and featuring music from the likes of Cadans and Randomer, and a remix of a Death Grips classic. Dedicated to Jeorgia.
+
+@loose-lips123  
+@indextapes  
+@chalkyyy

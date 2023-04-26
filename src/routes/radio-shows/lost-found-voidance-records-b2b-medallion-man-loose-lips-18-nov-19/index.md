@@ -21,3 +21,7 @@ description: >-
 published: true
 tags: Bass
 ---
+Following on from their link-up event in Berlin, at Maze Bar, on the weekend just gone, these two Threads hosts b2b’d it up for the first time, exploring the beautiful middle grounds of UK garage and bass music.
+
+@medallionman @loose-lips123  
+@lostandfounddj @voidancerecords

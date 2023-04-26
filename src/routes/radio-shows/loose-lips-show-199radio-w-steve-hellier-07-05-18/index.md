@@ -18,3 +18,8 @@ description: >-
 published: true
 tags: IDM
 ---
+Talking Death In Vegas, art school & Steve’s involvement in a forthcoming Warp release.
+
+http://loose-lips.co.uk
+
+Release of the week = https://elmc.bandcamp.com/album/egregore

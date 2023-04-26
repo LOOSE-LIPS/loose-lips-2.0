@@ -23,3 +23,9 @@ description: >-
 published: true
 tags: Eclectic
 ---
+For the first time in 3 years, @medallionman went solo on the LL show, with no guests!
+
+http://loose-lips.co.uk  
+https://www.facebook.com/medallionmanmusic
+
+Release of the week = https://looselips123.bandcamp.com/album/loose-lips-compilation-album-1

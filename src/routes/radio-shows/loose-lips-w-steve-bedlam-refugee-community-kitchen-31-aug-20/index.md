@@ -26,3 +26,11 @@ description: >-
 published: true
 tags: Techno
 ---
+Loose Lips welcome a truly passionate humanitarian, DJ and party-thrower, Steve Bedlam, into the studio. The Refugee Community Kitchen founder and Glastonbury regular joined us for the second hour of this show, with Medallion Man’s fractured elbow commanding the first hour.
+
+@loose-lips123  
+@medallionman  
+https://www.facebook.com/LooseLips123  
+https://www.refugeecommunitykitchen.com
+
+Release in focus = https://spacehardware.bandcamp.com/album/planned-obsolescence

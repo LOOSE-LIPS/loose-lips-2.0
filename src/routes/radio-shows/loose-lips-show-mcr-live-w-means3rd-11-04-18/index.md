@@ -17,3 +17,4 @@ description: >-
 published: true
 tags: Techno
 ---
+In the run up to our event on the 12th of may at Hidden with Neil Landstrumm and Paul Blackford, this week’s resident Kortzer is joined by Eastern Bloc Record’s Means&3rd for a guest mix in the 2nd hour.

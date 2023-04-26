@@ -18,3 +18,9 @@ description: >-
 published: true
 tags: Treece
 ---
+Treece curates the Loose Lips show on Threads for the second time, broadcasting from Manchester and showcasing some of the best DJ talent the city has to offer. This week they are joined by Mystique and Bandoe & Cortex (P45), set to be a stomper.
+
+  
+https://www.facebook.com/LooseLips123
+
+Release in focus = https://potterpayper.lnk.to/2020VisionSo

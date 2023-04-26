@@ -14,3 +14,13 @@ description: "A really memorable show \U0001F642 Interviews, freestyles, electro
 published: true
 tags: radio
 ---
+A really memorable show 🙂
+
+Interviews, freestyles, electronic metal and all the standard nonsense.
+
+http://loose-lips.co.uk  
+https://www.facebook.com/medallionmanmusic  
+https://www.facebook.com/MONGO86  
+13XL…
+
+Release of the week = https://blisssignal.bandcamp.com/album/bliss-signal

@@ -17,3 +17,8 @@ description: >-
 published: true
 tags: Jungle
 ---
+http://loose-lips.co.uk  
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+Release of the week = https://arcingseas.bandcamp.com/album/arcs-03-remixes-by-the-mover-peder-mannerfelt-shifted

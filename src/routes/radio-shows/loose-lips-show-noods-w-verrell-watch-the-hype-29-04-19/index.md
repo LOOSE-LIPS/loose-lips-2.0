@@ -21,3 +21,8 @@ description: >-
 published: true
 tags: Broken Beat
 ---
+@verrelluk @noodsradio
+
+Getting into gear with our new radio residency in Bristol on Noods Radio, hosted by @paxmanmcr. Off the back of a very heavy Loose Lips weekend, with events in Manny & Bristol, resident Paxman somehow kept it together…
+
+60 mins of the two exploring Broken Beat, Industrial and Techno.

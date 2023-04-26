@@ -23,3 +23,10 @@ description: >-
 published: true
 tags: Drum & Bass
 ---
+Warm up for our 5th Anniversary sold-out rave – http://loose-lips.co.uk/events/ll-x-kp-2-bad-mice-source-direct-dj-absolutely-shit-jim-bane.
+
+@patriceswms  
+https://www.facebook.com/footsoldierx  
+@cescka
+
+www.loose-lips.co.uk

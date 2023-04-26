@@ -21,3 +21,11 @@ description: >-
 published: true
 tags: Techno
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/elbicoatmosferico  
+https://www.facebook.com/MoritzScharfElektronischeMusik  
+https://www.facebook.com/Br-Laser-1424682447796343
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+Release of the week = https://www.discogs.com/The-Cyclist-Sapa-Inca-Delirium/release/11061266

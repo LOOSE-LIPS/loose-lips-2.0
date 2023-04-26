@@ -20,3 +20,10 @@ description: >-
 published: true
 tags: ambient
 ---
+Something beautiful for you during lockdown for this week’s @loose-lips123 show – Ffelt, an ambient producer based in East London, hailing from Cornwall.
+
+Only 1 hour this week…focus in and melt.
+
+This show focuses on the year after moving to London and the changes that this brought on…
+
+Listen live – www.threadsradio.com

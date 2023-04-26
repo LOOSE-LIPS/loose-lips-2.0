@@ -19,3 +19,8 @@ description: >-
 published: true
 tags: Beats
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/hndpckd  
+https://www.facebook.com/MYS.Glasgow
+
+> [199radio](https://newriverstudios.com/199radio/)

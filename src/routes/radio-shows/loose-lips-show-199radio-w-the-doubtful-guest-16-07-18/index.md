@@ -22,3 +22,10 @@ description: >-
 published: true
 tags: Acid
 ---
+Finding out their intended guests for this week’s show, Eminent Audio, had gone down with food poisoning lead to Loose Lips inviting on one of their very favourite producers! Everything happens for a reason ey
+
+http://loose-lips.co.uk
+
+https://www.residentadvisor.net/dj/thedoubtfulguest
+
+Release of the week = https://skoop.bandcamp.com/album/skp-vol-002

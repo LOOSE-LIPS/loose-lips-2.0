@@ -21,3 +21,10 @@ description: >-
 published: true
 tags: Hip Hop
 ---
+One of the UK’s finest rappers, who kicked it off with Contact Play back in 2009, joins us in the studio to chat breeeeze and pick some fav tunes!
+
+https://www.facebook.com/JamBaxterSMB  
+http://loose-lips.co.uk  
+http://199rad.io
+
+Release of the week = https://www.amazon.com/What-Sweeter-Music-Choral-Favourites/dp/B0176Q84NA

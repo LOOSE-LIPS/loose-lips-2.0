@@ -18,3 +18,8 @@ description: >-
 published: true
 tags: House
 ---
+Whilst on tour round Europe, we grabbed Diego Escobar for a discussion of all his projects!
+
+http://loose-lips.co.uk
+
+https://www.facebook.com/Concretmusic

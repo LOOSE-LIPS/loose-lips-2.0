@@ -18,3 +18,9 @@ description: >-
 published: true
 tags: Radio
 ---
+Some exclusive tunes from our guest this week, experimental trip-hop obsessor, and incredible vocalist, Lyza.
+
+https://www.facebook.com/lyzajanemusic  
+http://loose-lips.co.uk
+
+Release of the week = https://www.discogs.com/Ramones-Ramones/master/39341

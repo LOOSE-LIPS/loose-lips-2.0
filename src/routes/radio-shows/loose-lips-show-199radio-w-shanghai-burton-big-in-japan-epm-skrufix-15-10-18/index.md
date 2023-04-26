@@ -24,3 +24,28 @@ description: >-
 published: true
 tags: off-kilter
 ---
+The LL show travels where @medallionman travels! This week, he’s in Berlin, and is joined by musical chameleon, Liam Nolan!
+
+Banging electronic music from across the globe accompanies chat about Berlin’s diversity, repping South American scenes, being a modern day digital music distributor, and much much more!
+
+  
+  
+https://epm-music.com
+
+http://loose-lips.co.uk
+
+http://199rad.io
+
+TRACKLIST:
+
+1\. Sampa The Great – Rhymes to the East (Big Dada)  
+2\. Coro Qom Chelaalapi meets Lagartijeando – Lapacho (Big in Japan)  
+3\. ARTIST CODE “534147” – Time Out (COD3 QR) https://soundcloud.com/cod3qr/cod3-qr-001-preview  
+4\. Cromby – Futurola (Sulta Selects Silver Service)  
+5\. Mr. Incognito – Macho Man (Rat Life)  
+6\. JEANS – Lul Geen Kalmte (Who’s Susan)  
+7\. DJ Swagger & DJ Ædidias – Untitled (E-Beamz)  
+8\. Coro Qom Chelaalapi meets Lagartijeando – Antiguos Dueños De Las Flechas (IntiChe Remix) (Big In Japan)  
+9\. Dengue Dengue Dengue – Simiolo (Chusma Records)  
+10\. Ratgrave – Big Sausage Pizza (Apron Records)  
+11\. Oliver Way – Dust Storm (Plaid Remix) (EPM Music)

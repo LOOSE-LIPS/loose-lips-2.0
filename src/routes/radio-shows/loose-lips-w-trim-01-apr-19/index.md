@@ -19,3 +19,18 @@ description: >-
 published: true
 tags: Grime
 ---
+Ahead of Loose Lips’ party in Leeds with Trim aka Trimbal aka Taliban Trim aka Sith Lord Trim-Trim Cherooooooooo, he came onto their weekly Monday night show for an incredibly engaging interview and freestyle.
+
+Trim has been a standout figure on the grime scene since his days in Roll Deep, from the critically acclaimed “Soulfood” mixtape series through to more recent collaborations with heavyweight producers such as Bad Taste Record’s Walter Ego and Mercury Prize winner James Blake.
+
+http://loose-lips.co.uk  
+https://www.facebook.com/TrimTali  
+https://www.facebook.com/medallionmanmusic
+
+Videos of interview and freestyle here:  
+https://www.facebook.com/threadsradio/videos/972560379608332  
+https://www.facebook.com/threadsradio/videos/652801408490899
+
+Release of the week = https://looselips123.bandcamp.com/album/ll015-charlie-boy-manson-and-the-handsome-family-remix-v-a
+
+LISTEN LIVE @ www.threadsradio.com

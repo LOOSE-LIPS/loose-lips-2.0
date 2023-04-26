@@ -22,3 +22,8 @@ description: >-
 published: true
 tags: Dubstep
 ---
+Ahead of http://loose-lips.co.uk/events/all-colours-x-bass-militia-x-loose-lips-in-bristol, Loose Lips headed down for a pre-event 1020 session, as per tradition.
+
+@medallionman b2b @hyphoofficial b2b @biome-official, w/ @helladubs on mic.
+
+http://loose-lips.co.uk

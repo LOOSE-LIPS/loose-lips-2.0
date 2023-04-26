@@ -22,3 +22,10 @@ description: >-
 published: true
 tags: Rave
 ---
+Saturday morning madness from two of 199radio’s main idiots.
+
+https://www.facebook.com/thingsdisappear  
+http://loose-lips.co.uk  
+https://www.facebook.com/medallionmanmusic
+
+https://www.newriverstudios.com/199radio/listen

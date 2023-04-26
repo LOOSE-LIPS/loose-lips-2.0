@@ -21,3 +21,8 @@ description: >-
 published: true
 tags: Fundraising
 ---
+Throughout lockdown, #LIVEFORLOVE emerged, a project bringing together creatives of all kinds to stream sets and performances to raise money for UK Food Banks. Since, they’ve raised £45,121.00, an incredible effort. @loose-lips123 & Threads have collaborated with them multiple times and today that relationship takes its next step – Loose Lips are joined by co-founder William Wallace, to discuss the project’s origins, its future and share a load of influential tunes whilst at it. Hosted by @medallionman.
+
+More info – https://www.gofundme.com/f/LIVEFORLOVEUK
+
+Release in focus = https://xemex.bandcamp.com/releases

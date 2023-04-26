@@ -17,3 +17,6 @@ description: >-
 published: true
 tags: Electronic
 ---
+Loose Lips are joined by one of their own, complete and utter twat Dog Eyes.
+
+https://soundcloud.com/indextapes / https://soundcloud.com/francissapphire

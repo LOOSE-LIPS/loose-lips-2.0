@@ -19,3 +19,11 @@ description: >-
 published: true
 tags: Baklava
 ---
+The Loose Lips show hosts two dear friends, fellow Threads Radio hosts and prime suspects; Torn Relics  
+aka ROMMEK & Aimee Mullen!
+
+Their debut EP on SNTS’ label in March 2019 and then their debut album on Leyla Records in Feb 2020 have both shared an incredible range of haunting industrial sounds, intoxicating production and hypnotic vocals.
+
+LL got the chance to interview them together for the first time and share loads of whopper tunes! Co-hosted by Neutral Territory & Medallion Man.
+
+www.threadsradio.com

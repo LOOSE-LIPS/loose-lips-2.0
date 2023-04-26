@@ -19,3 +19,6 @@ description: >-
 published: true
 tags: Dubstep
 ---
+The DJ Cueist takes over the Loose Lips deckles this week with an hour of 140 bass pressure.
+
+Release in focus = https://soundcloud.com/cncpt\_collective/cncptv001-wakkusu-coming-soon

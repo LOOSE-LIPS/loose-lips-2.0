@@ -20,3 +20,11 @@ description: >-
 published: true
 tags: Experimental
 ---
+Over from Brooklyn, NYC, Int’l Winners’ founder, Gap, joined us for a special show.
+
+What more could you want – a live set, chat, and pucca selections!
+
+http://loose-lips.co.uk  
+http://199rad.io  
+
+Release of the week = https://www.junodownload.com/products/j-shadow-hypnagogia/3861361-02/

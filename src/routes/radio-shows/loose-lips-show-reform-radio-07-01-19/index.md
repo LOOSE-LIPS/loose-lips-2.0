@@ -14,3 +14,8 @@ description: 'You turn me upside down! @auderkortzer www.loose-lips.co.uk [...]R
 published: true
 tags: HIT ME!
 ---
+You turn me upside down!
+
+@auderkortzer
+
+www.loose-lips.co.uk

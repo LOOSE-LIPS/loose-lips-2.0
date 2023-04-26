@@ -20,3 +20,6 @@ description: >-
 published: true
 tags: Eclectic
 ---
+The Loose Lips takeover on Limbo Radio in Manchester prior to our night @ the White Hotel with Shackleton & WSR…
+
+Damn it went off!

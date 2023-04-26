@@ -20,3 +20,11 @@ description: >-
 published: true
 tags: Alternative Soul
 ---
+http://loose-lips.co.uk
+
+https://www.facebook.com/kadijakamaramusic  
+https://www.facebook.com/DanFormlessPage
+
+https://www.newriverstudios.com/199radio/listen
+
+Release of the week = https://soulsugar.bandcamp.com/album/chase-the-light

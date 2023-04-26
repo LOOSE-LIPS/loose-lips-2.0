@@ -22,3 +22,13 @@ description: >-
 published: true
 tags: jazz
 ---
+http://loose-lips.co.uk
+
+  
+https://www.facebook.com/superhexagonleeds  
+https://www.facebook.com/power.vacuum
+
+https://www.facebook.com/tenderlonious  
+https://www.facebook.com/22aMusic
+
+Release of the week = http://loose-lips.co.uk/blog/stil-bizzy-tril-bizzy-ep-aristocrats-1

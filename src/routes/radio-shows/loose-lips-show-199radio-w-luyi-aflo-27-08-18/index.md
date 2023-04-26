@@ -20,3 +20,10 @@ description: >-
 published: true
 tags: Afro
 ---
+Having first met at London Promoters’ Society, Medallion Man this week invited on Luyi, the lady behind a new afro-centric night called AFLO!
+
+https://www.facebook.com/afloevents  
+http://loose-lips.co.uk  
+http://199rad.io
+
+Release of the week = https://www.juno.co.uk/products/pusha-t-daytona/699760-01/

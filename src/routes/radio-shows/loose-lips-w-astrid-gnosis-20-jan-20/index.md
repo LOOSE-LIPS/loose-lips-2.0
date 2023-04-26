@@ -19,3 +19,20 @@ description: >-
 published: true
 tags: ''
 ---
+The crew is joined by producer, philosopher, dj and visual artist @astridgnosis who is on a HEADY RAMPAGE.
+
+After her Hardcore club anthem DropDead and the release of her second EP album HEADY, Gnosis is touring Europe with the hardest sounds and her immersive visual shows to purge us from our darkest nightmares.
+
+Come witness the strength of this incendiary performer. “RAVE AGAINST THE DYING OF THE LIGHT”
+
+Plus @auderkortzer joining @medallionman & @neutral\_territory on hosting duties.
+
+Release of the week = https://www.discogs.com/SL2-DJs-Take-Control-Way-In-My-Brain/release/7466
+
+https://www.facebook.com/LooseLips123/  
+[Tweets by looselipsevents](https://twitter.com/looselipsevents?ref_src=twsrc%5Etfw)  
+https://www.instagram.com/looselipsevents
+
+You can listen back to all the shows at http://loose-lips.co.uk/radio-shows
+
+Listen to Threads live on www.threadsradio.com

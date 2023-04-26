@@ -20,3 +20,6 @@ description: >-
 published: true
 tags: Psychedelia
 ---
+Having recently mixed the 184th edition of our Loose Lips mix series, started to write for the blog, and played at our recent Arts Emergency fundraiser all-dayer at Grow Hackney, having Deathbeast as guest on the LL show was that final step of true true initiation…
+
+Release of the week = https://defendersofstyle.bandcamp.com/album/dirty-sterling

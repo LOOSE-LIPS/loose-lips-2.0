@@ -19,3 +19,10 @@ description: >-
 published: true
 tags: Techno
 ---
+http://loose-lips.co.uk  
+https://www.facebook.com/13007Philippe  
+https://www.facebook.com/hannasymusic
+
+> [199radio](https://newriverstudios.com/199radio/)
+
+Release of the week = https://fourtet.bandcamp.com/album/new-energy
