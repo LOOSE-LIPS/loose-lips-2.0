@@ -117,6 +117,7 @@ for (let i = 1; i < totalPages; i++) {
             const markdownString = turndownService.turndown(
               mix.content.rendered
             );
+
             const yamlData = yaml.safeDump(data);
 
             const folderDirectory = path.join(
@@ -130,7 +131,7 @@ for (let i = 1; i < totalPages; i++) {
             console.log(`writing to: ${folderDirectory}`);
             fs.writeFileSync(
               path.join(folderDirectory, "index.md"),
-              "---\n" + yamlData.trim() + "\n---\n"
+              "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
             );
 
             console.log(res.tags);
