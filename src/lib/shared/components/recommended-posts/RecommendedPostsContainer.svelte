@@ -26,11 +26,11 @@
           });
       });
   });
-  console.log(recommendedPosts);
+  console.log(recommendedPosts.length);
 </script>
 
 <div
-  class="flex flex-col items-start max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg) "
+  class="flex flex-col justify-center items-center max-w-6xl mx-auto mb-16 hover:transform-rotate(4deg) "
 >
   <h2
     class="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white mt-8em m-6"
@@ -40,7 +40,7 @@
   </h2>
 
   <div
-    class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5"
+    class="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-3 items-center justify-between w-full"
   >
     {#each recommendedPosts as post}
       <div>
