@@ -21,3 +21,18 @@ description: >-
 published: true
 tags: Zouk
 ---
+Worm Disco Club have concocted a sunny, 100% wax cocktail to heat you up, containing a healthy dose of carefully selected ingredients from the Caribbeans, Angola and West Africa!You may have come across their label releases last year via our premiere of Run Logan Run’s ‘A Sea Of Apathy And Indifference’ – http://loose-lips.co.uk/blog/run-logan-run-a-sea-of-apathy-and-indifference-worm-discs.@wormdiscs  
+https://wormdiscs.bandcamp.comWorm Disco Club are an established crew of musicians, promoters and diggers based in Bristol with a reputation for producing unique, packed-out club nights showcasing Jazz, Brazilian, Latin and Afro-centric music. This led to them hosting the Wormhole, one of the hottest new venues for Glastonbury Festival 2019.As DJs, they have honed their skills playing sets across the UK as well as in Berlin, Amsterdam and Brazil. They are dedicated to playing the finest cuts of rare vinyl magic scoured from all corners of the globe with a heavy dose of percussive fire and deep grooves.This mix, put together by Jake and Jackson Worm, focuses on the heady, synth-driven sounds that came out of late 1970s and early 1980s Caribbean Islands such as Guadeloupe, Martinique, Trinidad and Jamaica. Expect plenty of zouk dancefloor fire dripping with sleazy synths alongside heavyweight Rapso and Dancehall bangers and a splash of forward looking Digi Semba and Soukous for good measure!TRACKLIST:Captain Créole – Fré Moin  
+Alain Malespine – Lésé Woulé  
+Meliza – Paradis En Moin  
+Lucien Robert – Anaïs  
+Bana & Kings Man – Outa Orda  
+Celeste Mariposa – Amor Forçado  
+Papa San – Maddy Maddy Cry  
+Tenor Saw – I Know  
+Esnard Boisour – Mizik Bel  
+Hubert Lagier – Mouve II  
+Touch – Touch Music (edit)  
+Heli Plaisir – N’Kembo Ma  
+Guy Jacquet – Sa Ki Ka Pase  
+Invader – Line Jamwww.loose-lips.co.uk

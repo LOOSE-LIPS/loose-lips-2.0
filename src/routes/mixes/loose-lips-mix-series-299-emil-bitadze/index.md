@@ -18,3 +18,5 @@ description: >-
 published: true
 tags: Soulful Bleep
 ---
+Introduced to us by our dear friend @ricocasazza after a tour in Georgia, Tbilisi-based Emil Bitadze distils a crystal clear, soulful, bleepy house and techno set. Enjoy!@emilbitadzeTRACKLIST:  
+– undisclosed –www.loose-lips.co.uk

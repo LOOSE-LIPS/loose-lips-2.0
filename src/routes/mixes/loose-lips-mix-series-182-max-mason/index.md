@@ -20,3 +20,19 @@ description: >-
 published: true
 tags: Eclectic
 ---
+“After 6 months of travel, I have arrived in Hanoi.It only seemed fair to share some of the tracks I’ve picked up from Berlin, Indo and Japan, and to include a remix I’m working on at the moment.An everything goes mix – just the way I like it.”https://www.facebook.com/maxmasonmusic  
+TRACKLIST:Good Life (Ian’s La Buena Vida En Notas Mix)- Ian Pooley  
+Look How Hard I’ve Tried – Barker  
+Voids Two – Martyn  
+?? – Rap Roulette  
+Rise From Your Grave (London Radio Edit) – Phuture  
+When It Rains’ (Bonus Beats)- Jeymes Samuel  
+Interchangeable Patterns Part 2 (Untitled 2)- Steve O’Sullivan  
+Celebration Suite – Airto Moreira  
+Functions On The Low (Original Mix) – Ruff Squad  
+Strings Of Light – Yussef Kamaal  
+Alone In Da Sun – Beat Spacek  
+Mili Alay (Sway To Me)- Mohamed Al Ali  
+Island in the Sky (Original Mix) – Andy Hart  
+??? – Max Mason  
+Quote – Abstract : The Art Of Design

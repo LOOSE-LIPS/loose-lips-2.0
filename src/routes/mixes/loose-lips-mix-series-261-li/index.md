@@ -19,3 +19,5 @@ description: >-
 published: true
 tags: Spiritual Techno
 ---
+Hailing from Liverpool and recently supporting the likes of Nina Kraviz, Dense & Pika and Sam Paganini, Li is making some serious waves in the North West of the UK at the moment.Having played for us two years running at Boomtown, and at our party with Max Graef at Liverpool’s Kitchen Street in the summer of 2018, it’s about time he joined the weekly mix series!Tracklist:  
+–undisclosed–www.loose-lips.co.uk

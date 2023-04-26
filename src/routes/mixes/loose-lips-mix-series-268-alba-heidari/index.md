@@ -20,3 +20,8 @@ description: >-
 published: true
 tags: Techno
 ---
+We’re happy to welcome Alba Heidari on our next Mix Series instalment! Injecting a healthy dose of energetic Techno into your ears in anticipation of her appearance at our event this Friday 28.02 at The Cause w/ Umfang, Rommek, Samantha Togni and much more across 3 rooms! https://www.residentadvisor.net/events/1384690@lemmiwinksCurrently residing in London, Decoding The Void collective part member.  
+In 2009, Alba became a member of Impersonal Strikes collaborating and DJ’ing Breaks and DnB parties with L.Crowne.  
+Since 2012, she has been a resident of Spanish collective ‘Random’. More recently, a steady expansion of her repertoire has Alba playing for an increased number of different parties between Spain and London.  
+Along Manson X they formed the collective “D.T.V” in 2016.https://www.residentadvisor.net/dj/albaheidari  
+https://www.facebook.com/albaheidarisanchezTRACKLIST:\-undisclosed-www.loose-lips.co.uk

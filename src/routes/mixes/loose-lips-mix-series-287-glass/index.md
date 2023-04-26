@@ -19,3 +19,28 @@ description: >-
 published: true
 tags: Neuro Flex
 ---
+We’re excited to have french duo Glass on this new Mix Series edition! They’ve cooked up this 60′ dish of brain melting, limb flexing, neuro gymnastic music for your own enjoyment!It’s also a pleasure to have them feature on our forthcoming LL017 V/A coming out this Friday 10.07, in aid of Ruff Sqwad Arts Foundation – https://www.ruffsqwadarts.org/about. Check out the release here – https://looselips123.bandcamp.com.@glassglassmusicGlass is a production team based in Caen, France, due to debut on OOH-sounds next September with a new EP.Check their latest release ‘Postlexia’ on CSR : https://comicsansrecords.bandcamp.com/track/postlexiaand their previous EP ‘L.U.C.A’ on Santé Records:  
+https://santerecords.bandcamp.com/album/glass-l-u-c-a-ep-srd003https://www.facebook.com/glassglassmusic  
+https://www.instagram.com/glassglassmusic  
+[Tweets by glassdatafeed](https://twitter.com/glassdatafeed?ref_src=twsrc%5Etfw)  
+https://glassglassmusic.bandcamp.comTRACKLIST:1\. treibgut – A Bug’s Dream  
+2\. Aho Ssan – Simulacrum IV  
+3\. Sote – Modality Transporter \[Parallel Yorkshire – Mark Fell \] (excerpt)  
+4\. ruben kotkamp – untitled in chrome 02  
+5\. ICE\_EYES – OFF THROAT (unreleased)  
+6\. Zebra Katz – LOUSY  
+7\. CNDSD – Leitmotiv  
+8\. Lee Fraser – Ply (excerpt)  
+9\. Synalegg – Engineer  
+10\. Radian – Nahfeld  
+11\. Treibgut – Chimera  
+12\. Christian Coiffure – Bassbenderz Theme (12- Remasterz)  
+13\. EVITCELES – Slash Me  
+14\. Elysia Crampton Chuquimia – Flora (feat. Jeremy Rojas)  
+15\. Lee Fraser – Ply (excerpt)  
+16\. Sim Hutchins – Some Men (you) Just Want to Watch the World Burn  
+17\. CRYSTALLMESS, Nadsat – Issa Revenge  
+18\. Paradoxes – PRDXS 1.3  
+19\. Nebulo – Ressaut et Terrasses  
+20\. Byrke Lou – Earth  
+21\. Sote – Modality Transporter \[Parallel Yorkshire – Mark Fell \] (excerpt)www.loose-lips.co.uk

@@ -20,3 +20,6 @@ description: >-
 published: true
 tags: Eclectronics
 ---
+Celestial Grub joins the dots between hip hop, dub, techno and acid in a slow, psychedelic and dark outing.@celestialgrubPerfect for an exorcism, a blood sacrifice or an opium den…or if you are sick and twisted, this works anytime of the day.Recorded on two Technics 1210s from Grub HQ.https://www.instagram.com/celestialgrub  
+TRACKLIST:  
+\-undisclosed-www.loose-lips.co.uk

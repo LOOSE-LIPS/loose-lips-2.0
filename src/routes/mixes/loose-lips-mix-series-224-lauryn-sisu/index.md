@@ -19,3 +19,5 @@ description: >-
 published: true
 tags: Techno
 ---
+A special 4/4-amen journey.@harperworkz  
+@sisu\_crewLauryn has been listening and appreciating music since she can remember. She is a born and bred Londoner, from punk roots. As a teenager, she found the world of electronic music through the diverse London scene. After appreciating genres such as Techno, House, Jungle, Drum N Bass, Leftfield, Jazz, Reggae, Punk and Ska, she enrolled on the ‘Scratch’ DJ course at the Southbank Centre and learnt to DJ. Since then she has been experimenting with Djing, music production and has played events at Hackney Showroom, Womb 2, WOW – Women of the World Festival, Noisily Festival of Music & Arts 2018 and Threads Radio’s club night in Berlin. Her style is an eclectic fusion of genres, textured percussion and harmonies, entrenched in solid techno rhythms. She is a resident DJ, workshop facilitator and manages bookings at Sisu.TRACKLIST:Undisclosed.

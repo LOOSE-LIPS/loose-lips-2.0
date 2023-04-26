@@ -20,3 +20,4 @@ description: >-
 published: true
 tags: Techno
 ---
+Trip out to tunes from the likes of Conrad Von Orton, Regis, Luke Slater, Judas, Oscar Mulero & Manni Dee!@ryan-dallasDJing on the Belfast scene for over 10 years now, Ryan has found his home as one of the residents for Belfast based collective, DSNT. A crew hardly known for their laid back approach towards music and club nights! In recent times you’ll have seen Ryan sharing lineups alongside the likes of Sunil Sharpe, Paula Temple, Perc and Truss.He’s a big fan of all things techno – from the deep & spaced out, right through to the 150bpm face melters!TRACKLIST:Undisclosed.

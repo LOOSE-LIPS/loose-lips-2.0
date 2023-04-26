@@ -19,3 +19,6 @@ description: >-
 published: true
 tags: Bass
 ---
+An ecstatic journey through breaks, bass and beyond from the guys behind Digital Distortions!“A bunch of tracks played one after the other in a sequence designed  
+to make a dancefloor wobble and groove.”https://www.facebook.com/JohnandRoland  
+https://digitaldistortions.co.ukTRACKLIST:Undisclosed.www.loose-lips.co.uk

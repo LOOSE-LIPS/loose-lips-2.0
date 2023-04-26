@@ -20,3 +20,4 @@ description: >-
 published: true
 tags: Doom Dub
 ---
+In anticipation of the Electrix Shox vs Loose Lips party at The Cause in Tottenham tonight, Helsinki-based producer GRMMSK has compiled a ground-shaking selection of bass-orientated, urban chaos-inspired music that induces eardrums to swing and wobble while plunging the brain into a hazy mist of pleasant disturbances.https://www.facebook.com/events/2032479686824315@grmmskTRACKLIST:Undisclosed.

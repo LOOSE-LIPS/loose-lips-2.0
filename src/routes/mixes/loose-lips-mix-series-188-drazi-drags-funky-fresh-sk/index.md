@@ -21,3 +21,4 @@ description: >-
 published: true
 tags: Hip Hop
 ---
+One of Macedonia’s finest Hip Hop selectors digging through the crates for us!https://www.facebook.com/djdrazidragsWent we first visited Skopje, a good few years ago now, Drazi Drags was one of the first local musicians we connected with. Since, we’ve travelled across his country with him, playing gigs, spitting tunes together driving down the motorway, and eating obscene amounts of fast food. BIGUPS DRAGAN!Also, make sure to check out his ‘UK Rap Hitters’ picks feature for our blog here – http://loose-lips.co.uk/blog/picks-dj-drazi-drags-uk-rap-hitters-1.TRACKLIST:Undisclosed.

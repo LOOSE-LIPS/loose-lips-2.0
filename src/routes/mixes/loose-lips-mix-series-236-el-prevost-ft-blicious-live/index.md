@@ -20,3 +20,4 @@ description: >-
 published: true
 tags: House
 ---
+Partners in crime.A live set from beat-maker El Prevost and Heliocentrics vocalist, B’licious. Keep your ears and eyes peeled for some amazing new music from this duo and their other collaborators…TRACKLIST:Undisclosed.www.loose-lips.co.uk

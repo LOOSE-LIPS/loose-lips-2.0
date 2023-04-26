@@ -20,3 +20,19 @@ description: >-
 published: true
 tags: Techno
 ---
+@valerio-moscaritoloWith releases on labels such as Variant Electronic and Shape of Void, Valerio here creeps through the gears into a flourish of high-energy techno…TRACKLIST:1 – Mattias Fridell – Negligera Allt  
+2 – Below Surface & Tension – Room Concept  
+3 – Zenker Brothers – Mintro  
+4 – Honzo – Orientalism  
+5 – Valerio – Dossier 00000001  
+6 – Unknown Artist – Take Control  
+7 – Johannes Heil – Scene Five  
+8 – UVB – Yours Truthly  
+9 – Progression – Brontide  
+10 – Introversion – Unmarried Old Man  
+11 – Cleric & Setaoc Mass – Madame Butterfly  
+12 – Sawlin – Rituale  
+13 – Myler – Whiskey & White Women  
+14 – Clouds – Chained to a Dead Camel (Edit Select Rave Tool)  
+15 – Kamikaze Space Programme – Type 3 (JoeFar Remix)  
+16 – I Hate Models – Shades Of Night

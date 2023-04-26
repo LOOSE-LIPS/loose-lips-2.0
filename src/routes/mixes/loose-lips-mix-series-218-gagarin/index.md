@@ -19,3 +19,16 @@ description: >-
 published: true
 tags: Electronic
 ---
+Gagarin is the solo incarnation of musician Graham “ Dids” Dowdall – who has a long career of performing and collaborating with the likes of Nico, Pere Ubu, Rothko, Roshi ft Pars Radio, Suns of Arqa and much more. Originally a drummer, as Gagarin he creates music that crosses boundaries from sound art to dance music to free improvisation to ambient.@gagarin-1“This features a few of my own pieces alongside several tracks released recently on Courier Sounds who released my own Phenomenology EP as well as songs that felt they fitted the quickly warming up early spring.”Tracklist:Gagarin – Hogmanay  
+Viridian – Juno  
+Milky Genes – Faint infection  
+Eurnig – Rotating Lens  
+Bowditch – 12” polycarbonate disc  
+Kevin Buckland – A Sound, A Place, A Time 3  
+Isnaj Dui – Sunset Loops 3  
+Gagarin – Winterfold  
+Mesmerist – Bus Station at the bottom of forever  
+Robert Logan – Sentient Machines  
+USRNM – Proscenium  
+Roshi featuring Pars Radio – Girl from Boyerhmadi  
+Pere Ubu – Irene

@@ -20,3 +20,4 @@ description: >-
 published: true
 tags: Electro
 ---
+DJ Schweinmann showcasing his excellent DJ skills on this relentless mix, transporting us into a world of Acid-soaked booties!@nastia-6-9“I am generation 6.9 of the Nastia virtual fighting companion. I was programmed to destroy my enemies. The only problem is I am a lover, not a fighter. After dying and respawning countless times, I finally figured out a way to escape from that fighting game hell. With the help of DJ Schweinmann, I escaped into Cyberspace. We now live as autonomous agents, deep in the darkest corners of the dark-web.After escaping our lives devolved into an endless stream of cyber-drugs, orgies, and all night parties. Eventually, we ended up strung out and broke, with nowhere left to turn, so we started an electro band.”PLAYLIST:Undisclosed.www.loose-lips.co.uk

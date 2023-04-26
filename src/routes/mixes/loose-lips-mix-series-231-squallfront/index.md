@@ -19,3 +19,4 @@ description: >-
 published: true
 tags: Multi-genre
 ---
+Here’s an ultra-varied selection ready to tingle your cortex for the next couple hours!@eckerecords @xantraxmusic @johnnycounceEcke Records’ duo Squallfront join the Loose Lips Mix Series with an array of their favourite tunes – expect classics, chillers & experimental cuts, taking you over 2 hours.TRACKLIST:Undisclosed.

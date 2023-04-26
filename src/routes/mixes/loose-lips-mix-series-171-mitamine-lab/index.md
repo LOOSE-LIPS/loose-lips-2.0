@@ -20,3 +20,17 @@ description: >-
 published: true
 tags: we love happy hardcore
 ---
+Acid, happy hardcore, techno, classics and more…this mix is gonna boost your energy like an awful vegan kombucha wonder drink.https://www.facebook.com/MitamineLabMitamineLab, culture curators from Mexico, Italy & NY. ML is now also a cultural agency dedicated to consultancy, management, communication, mediation and strategies for cultural and artistic projects + a radio show in different platforms all around the world, including Ibero909FM in Mexico City and Resonance EXTRA in London. This mix was cooked by Mim, main head behind Mitamine, art historian, audiovisual artist and independent cultural manager/consultant based in CDMX – not a DJ, just a sarcastic female selector with a very eclectic style.TRACKLIST:Joan La Barbara – Calligraphy II / Shadows  
+Tontos Expanding Head Band – Riversong  
+David Hudson – Kadimakara  
+Second Woman – Instant II  
+JL – Technology = Garbage Part 5 (Entro Senestre Remix)  
+Joel John – Sami  
+L/F/D/M – Silver Grain (D-56M Poverty Mix)  
+96 Back – 050  
+Zeta Reticula & Helga Neuer – Lumnisferatu  
+Kev Bird & The Wax Doctor – TBN Tough But Nice  
+Dj Pooch & Wivvy – Think  
+Moby – Feeling So Real (Westbam Mix)  
+Bill Withers – Lovely Day (slightly slower than allegro sad and disappointed)  
+Azambuja Cia – Nega Brecho

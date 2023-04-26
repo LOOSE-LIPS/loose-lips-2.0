@@ -19,3 +19,7 @@ description: >-
 published: true
 tags: Inverza
 ---
+We turn to a special guest who we met during our 5th Anniversary tour, when he invited us to collaborate with his Inverza Electronics night in Belgrade! And damn did we have a good time….A brutalist mix fluctuating between Techno, Breaks, Electro and Industrial.@suuutooonSuton is a DJ and producer from Serbia working under different aliases for almost a decade. He is in charge of a newly formed electronic music platform; Inverza. Suton’s approach to music nurtures eclecticism and proper sonic manipulation, in order to craft a unique and ever-moving sound.https://www.facebook.com/inverzaelectronics  
+https://www.instagram.com/inverza\_\_  
+https://www.facebook.com/dnoxmoraTRACKLIST:  
+– undisclosed –www.loose-lips.co.uk

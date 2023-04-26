@@ -19,3 +19,22 @@ description: >-
 published: true
 tags: Electronic
 ---
+Here’s a set recorded by Sim Eon at the ‘BeeSpace’ event @ New River Studios, London on 13th May 2018, which was raising funds and awareness for the preservation of bees.@beespace @bionisamp-1“This sound bonanza was conceived and curated by the gentle genius, and my dear friend, (often known by the DJ moniker of ‘Bioni Samp’), to raise funds for the preservation of the bee population – a genuinely vital cause, and one which he spearheads in the London area. I hope anyone listening will enjoy my odd mix of genres here, ranging from Kraut Rocky cosmic type stuff, through to New Beat & Techno, and all sorts of other bizarreness sandwiched in between. I tried to pick buzzy sounds and vague references to colonies for obvious reasons.”TRACKLIST:Tross – Colonization \[Space Ritual\]  
+Khidja – Racheta El Fadaa  
+Sascha Funke – Lotos Land  
+Blasé – The Third Wall  
+Tapan – Europa (Timothy J Fairplay remix)  
+Marcus Marr – Familiar Five  
+Tiago – Motorcycles  
+Die Orangen – Museum Of Old And New Art \[Malka Tuti\]  
+Paqua – Late Train (Idjut Boys remix)  
+Kompleks – Since 1871 (feat. Ichisan)  
+Manfredas – Mani From The Block  
+Sunmantra – Esoteric (Timothy Clerkin remix)  
+Farbor Resande Mac – Tidens Tand  
+Tunnel Signs – Cracks (Emile Strunz remix)  
+Desert Sound Colony – Lose My Rhythm  
+Mange Moi – Kill The Revolution \[Mufti edit\]  
+Mondowski – Surfin Hell (Sebastian Chenut remix)  
+Rouge Mecanique – Witches  
+Paul Twin – Icaro

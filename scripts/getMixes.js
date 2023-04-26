@@ -114,6 +114,17 @@ for (let i = 1; i < totalPages; i++) {
               tags: tags,
             };
             const turndownService = new TurndownService();
+            turndownService.addRule("new rule", {
+              filter: "p",
+              replacement: function (content) {
+                if (content.includes("Yantan Ministry")) {
+                  return "";
+                } else {
+                  return content.replace(/<<|<>|>>/gi, "");
+                }
+              },
+            });
+
             const markdownString = turndownService.turndown(
               mix.content.rendered
             );
@@ -131,7 +142,7 @@ for (let i = 1; i < totalPages; i++) {
             console.log(`writing to: ${folderDirectory}`);
             fs.writeFileSync(
               path.join(folderDirectory, "index.md"),
-              "---\n" + yamlData.trim() + "\n---\n" + `${markdownString}`
+              "---\n" + yamlData.trim() + "\n---\n" + markdownString
             );
 
             console.log(res.tags);

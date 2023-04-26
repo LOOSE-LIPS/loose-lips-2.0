@@ -18,3 +18,4 @@ description: >-
 published: true
 tags: Electro
 ---
+This mix comes to you from Seven Hills Records co-founder, Everett. Over the course of 70 minutes it ties together groovy, acidic techno cuts, sub-rattling electro and even the odd trance number. Suitable for all scenarios.https://soundcloud.com/t-bowerTRACKLIST:Undisclosed.

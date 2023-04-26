@@ -23,3 +23,5 @@ description: >-
 published: true
 tags: Soundscapes
 ---
+Soothing.Littoral Transmissions explore an imagined coastline through improvisation and shifting soundscapes, seeking to reinterpret raw materials through improvisational and collaborative approaches. The duo formed exploring the interplay between clarinet and modular synth which provides the core of their sound. Their performances increasingly utilise alternative sound sources including tape loops, hydrophones, contact mics, found objects, microelectronics and field recordings. They often collaborate live with other artists and re-purpose submitted material in live settings.The primary medium for this project are regular live broadcasts on @resonance-extra and @threadsradio, developing long-form sonic explorations in the medium of radio and transmission art. They also perform live as well as more broadly as part of the London Free Improvisation scene.Tracklist:  
+?????!!!!!!!????www.loose-lips.co.uk

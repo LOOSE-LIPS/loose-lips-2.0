@@ -19,3 +19,29 @@ description: >-
 published: true
 tags: Electronic
 ---
+Kahter is a DJ/Producer based in the South-West of England, making tight, technical and powerful genre-defying tracks set to push any worthy sound system.His contemporary DJ sets provide an insightful and moody curation of techno, dub and grime.@kahterTRACKLIST:1 – Ploy – =O  
+2 – Maribour – Chrominance  
+3- Cabasa – A L’école  
+4- Sensei – Sector  
+5 – Syz – Ethos  
+6 – Laksa – Delicates  
+7 – Randomer – Van Pelt  
+8 – Ebb – Locus  
+9 – Walton – Angry Drummer  
+10 – Sensei – Tension  
+1 1- Kahter – Fipple (Forthcoming)  
+12 – Hypho – Trench  
+13 – Hugo Massien – Advanced Aerial Threat  
+14 – Kahter – Bubble (Forthcoming)  
+1 5- Cocktail Party Effect – Bangers  
+1 6- Vexxe – Pulse 5  
+1 7- Kahter – Jigger  
+18 -Agrippa – Mygraine Urgraine  
+19 -Walton – Mad Zapper  
+20 -Kahter – Quire  
+21 -Croft – With Shadows of Ghosts  
+22 -Ploy – Ramos  
+23 -Yaleesa Hall – Zoe Price  
+24 -Truska – Intra  
+25 -Hugo Massien – Candy Flip  
+26 – Walton – Erhu

@@ -19,3 +19,4 @@ description: >-
 published: true
 tags: Techno
 ---
+A year or so ago, Deep Emotions Collective, a Birmingham-based techno outfit invited our residents @rommek & @medallionman to play at Spotlight in the UK’s 2nd capital.Gambeat especially impressed us that night and so we’re now delighted to release a vinyl mix from the Voyager Podcast founder.TRACKLIST:Undisclosed.

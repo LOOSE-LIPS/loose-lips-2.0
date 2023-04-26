@@ -20,3 +20,11 @@ description: >-
 published: true
 tags: Electro
 ---
+One of our favourite London producers, making euphoric killer electro to destroy any dancefloor! This mix is no different! Braindance to the max!https://www.facebook.com/jamesshinra/2015  
+Mutant City Acid 2 (Balkan Vinyl)  
+Ball + Chain EP (Null+Void)2016  
+Cosiin (Analogical Force)  
+Remix of Sandboards – Visa (Feel My Bicep)2017  
+Meteor EP (Analogical Force)  
+Orbit EP (Bandcamp)2018  
+Supernova EP (Analogical Force)
