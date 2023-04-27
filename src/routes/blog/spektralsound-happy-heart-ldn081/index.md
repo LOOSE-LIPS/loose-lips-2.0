@@ -8,9 +8,8 @@ author: 100
 banner:
   - imported/spektralsound-happy-heart-ldn081/image1200.jpeg
 description: >-
-  Neon beats making Agent Deckard bust a move! From Spektralsound&#39;s Safe
-  Haven EP on Keysound Recordings. Out now on digital &#8211;
-  https://smarturl.it/LDN081
+  Neon beats making Agent Deckard bust a move! From Spektralsound;s Safe Haven
+  EP on Keysound Recordings. Out now on digital ; https://smarturl.it/LDN081
   http://keysoundrecordings.co.ukhttps://soundcloud.com/spektralsounduk
   [...]Read More...
 published: true

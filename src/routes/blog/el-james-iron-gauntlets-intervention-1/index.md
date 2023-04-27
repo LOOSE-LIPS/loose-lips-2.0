@@ -10,9 +10,8 @@ banner:
 description: >-
   A sonically satisfying piece by El James, driven by breakbeats interacting
   with short vocal chops under a bright, sparkly percussive melody and blissful
-  pads. From INTERVENTION x V/A 001 on INTERVENTION. Out 23.11.2020 on digital
-  &#8211; Pre-order:
-  https://interventioncru.bandcamp.com/album/intervention-x-v-a-001
+  pads. From INTERVENTION x V/A 001 on INTERVENTION. Out 23.11.2020 on digital ;
+  Pre-order: https://interventioncru.bandcamp.com/album/intervention-x-v-a-001
   https://soundcloud.com/yungelj [...]Read More...
 published: true
 tags: premiere

@@ -9,8 +9,8 @@ banner:
   - imported/rowka-hunt-other-form-remix-unknown-movements/image1078.jpeg
 description: >-
   Unknown Movements label boss Other Form on remix duties for Rowka with a
-  stomping, grooved out Techno number! From Rowka&#39;s Scansion EP on Unknown
-  Movements. Out 24.04 on digital &#8211; Pre-order:
+  stomping, grooved out Techno number! From Rowka;s Scansion EP on Unknown
+  Movements. Out 24.04 on digital ; Pre-order:
   https://unknownmovements.bandcamp.com/album/scansion-ep
   https://soundcloud.com/unknown-movementshttps://soundcloud.com/rowka-2https://soundcloud.com/otherform
   [...]Read More...

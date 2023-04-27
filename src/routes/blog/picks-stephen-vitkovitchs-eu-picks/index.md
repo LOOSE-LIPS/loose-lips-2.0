@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/picks-stephen-vitkovitchs-eu-picks/image1202.jpeg
 description: >-
-  Stepping up for this week&#39;s sonic tasteboard, we have the head of the
-  fantastic Byrd Out&nbsp;label, all tracks gathered in this here spotify
-  playlist, take it away Stephen!&nbsp; Frederick [Loose Lips bawseman) asked me
-  about this a few days after the fourth anniversary of the EU Referendum, so I
-  thought a &#39;Picks&#39; on Europe would [...]Read More...
+  Stepping up for this week;s sonic tasteboard, we have the head of the
+  fantastic Byrd Out;label, all tracks gathered in this here spotify playlist,
+  take it away Stephen!; Frederick [Loose Lips bawseman) asked me about this a
+  few days after the fourth anniversary of the EU Referendum, so I thought a
+  ;Picks; on Europe would [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -7,8 +7,8 @@ slug: rascal-lucid-chav-juice-trax-haven
 author: 100
 banner: []
 description: >-
-  UK Bass infused Juke banger from Rascal &amp; Lucid! From Council
-  Trax&nbsp;V/A EP on&nbsp;Trax Haven. Out now on digital &#8211; Order:
+  UK Bass infused Juke banger from Rascal &amp; Lucid! From Council Trax;V/A EP
+  on;Trax Haven. Out now on digital ; Order:
   https://traxhaven.bandcamp.com/album/council-trax-ep
   https://soundcloud.com/traxhaven160 [...]Read More...
 published: true

@@ -9,8 +9,8 @@ banner:
   - imported/bayalien-sound-system-smokestacks/image1280.jpeg
 description: >-
   Heavy and infectious bass-infused sweg with a healthy dose of acid. From
-  Bayalien Sound System&#39;s Smokestacks&nbsp;EP. Out 28.10.2020 on digital
-  &#8211; https://bayalien.bandcamp.com/album/smokestacks
+  Bayalien Sound System;s Smokestacks;EP. Out 28.10.2020 on digital ;
+  https://bayalien.bandcamp.com/album/smokestacks
   https://soundcloud.com/bayalien [...]Read More...
 published: true
 tags: premiere

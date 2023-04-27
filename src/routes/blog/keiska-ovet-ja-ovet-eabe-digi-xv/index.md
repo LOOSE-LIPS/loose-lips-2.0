@@ -9,7 +9,7 @@ banner:
   - imported/keiska-ovet-ja-ovet-eabe-digi-xv/image1286.jpeg
 description: >-
   A mantra-like piece from Finnish producer Keiska. From EABE Ambient
-  Compilation I&nbsp;on EABE. Out now on digital &#8211;
+  Compilation I;on EABE. Out now on digital ;
   https://eabe.bandcamp.com/album/eabe-ambient-compilation-i
   https://soundcloud.com/eabemusichttps://soundcloud.com/keiska [...]Read
   More...

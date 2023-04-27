@@ -9,10 +9,10 @@ banner:
   - imported/lmajor-one-shots-club-glow/image1044.jpeg
 description: >-
   LMajor brings up the heat with a modernised UK Hardcore number! From Club Glow
-  x Disc Shop Zero &#8211; Fundraiser for Naoki&nbsp;VA compilation on Club
-  Glow. This tape is dedicated to Disc Shop Zero and its owner Naoki, who
-  recently passed away. It consists of 17 tracks from the likes of Sully, Benny
-  ill, Itoa, [...]Read More...
+  x Disc Shop Zero ; Fundraiser for Naoki;VA compilation on Club Glow. This tape
+  is dedicated to Disc Shop Zero and its owner Naoki, who recently passed away.
+  It consists of 17 tracks from the likes of Sully, Benny ill, Itoa, [...]Read
+  More...
 published: true
 tags: premiere
 featured: false

@@ -8,11 +8,11 @@ author: 122
 banner:
   - imported/dnb-fix-42-ftl-ockhams-razor-be-004/image1377.jpeg
 description: >-
-  This week&#39;s Dnb Fix comes from Beyond Electronix, a sub-label of the
-  legendary Brighton based Electro record label Further Electronix, bringing the
-  exceptional &lsquo;Full Metal Junglist EP&#39; to fruition. From the super
-  low-key alias FTL, who I can only assume is one of the minds behind the record
-  label or an incognito alter-ego from an [...]Read More...
+  This week;s Dnb Fix comes from Beyond Electronix, a sub-label of the legendary
+  Brighton based Electro record label Further Electronix, bringing the
+  exceptional &lsquo;Full Metal Junglist EP; to fruition. From the super low-key
+  alias FTL, who I can only assume is one of the minds behind the record label
+  or an incognito alter-ego from an [...]Read More...
 published: true
 tags: feature
 featured: false

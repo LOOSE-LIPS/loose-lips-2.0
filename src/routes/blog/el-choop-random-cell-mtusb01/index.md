@@ -11,7 +11,7 @@ description: >-
   Gentle hiss massaging your brain, dub chords soothing your mood and crackles
   reverberating in this ocean of calmness. This is translated very well in the
   video that accompanies it. From Metamaterial V/A compilation on Mint Tea. Out
-  27.06 on digital and USB Drive &#8211; Pre-order:
+  27.06 on digital and USB Drive ; Pre-order:
   https://mintteaa.bandcamp.com/album/metamaterial
   https://soundcloud.com/mint-tea-records https://soundcloud.com/el_choop
   [...]Read More...

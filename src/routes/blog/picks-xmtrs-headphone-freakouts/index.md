@@ -11,9 +11,8 @@ description: >-
   As hailed by Jossy Mitsu, Corrupt Data is one of the most exciting underground
   labels around, serving up fresh kicks of rave energy. Their new Covid-19
   Support Compilation features the debut (in collaboration with Fiesta
-  Soundsystem)&nbsp;of an enormously talented producer and&nbsp;DJ, with a
-  dangerous quantity of genuine fire in the WIP folder. To celebrate, we
-  [...]Read More...
+  Soundsystem);of an enormously talented producer and;DJ, with a dangerous
+  quantity of genuine fire in the WIP folder. To celebrate, we [...]Read More...
 published: true
 tags: feature
 featured: false

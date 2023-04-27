@@ -7,7 +7,7 @@ slug: pata-vamos-vip-skoop
 author: 100
 banner:
   - imported/pata-vamos-vip-skoop/image1303.jpeg
-description: "Oldskool Dubstep tastefully revisited through the lens of this young talented producer. Offering on this VIP a slower paced take. \LRaw and effective! From PATA&#39;s Vamos&nbsp;single on Skoop. Out 28.11.2020 on digital &#8211; Pre-order: https://iampata.bandcamp.com/album/vamos https://soundcloud.com/skoopskoophttps://soundcloud.com/iampata [...]Read More..."
+description: "Oldskool Dubstep tastefully revisited through the lens of this young talented producer. Offering on this VIP a slower paced take. \LRaw and effective! From PATA;s Vamos;single on Skoop. Out 28.11.2020 on digital ; Pre-order: https://iampata.bandcamp.com/album/vamos https://soundcloud.com/skoopskoophttps://soundcloud.com/iampata [...]Read More..."
 published: true
 tags: premiere
 featured: false

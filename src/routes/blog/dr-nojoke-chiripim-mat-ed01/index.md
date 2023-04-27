@@ -11,10 +11,9 @@ description: >-
   A very unique Dub Techno number explained in more details through our
   interview with Dr.
   Nojoke:http://loose-lips.co.uk/blog/dr-nojoke-inventing-importance From Dr
-  Nojoke&#39;s Inventing Importance LP on CLIKNO. Out 31.05 on 12&quot; and
-  digital &#8211; Pre-order: https://clikno.bandcamp.com/
-  https://soundcloud.com/clikno https://soundcloud.com/dr-nojoke [...]Read
-  More...
+  Nojoke;s Inventing Importance LP on CLIKNO. Out 31.05 on 12&quot; and digital
+  ; Pre-order: https://clikno.bandcamp.com/ https://soundcloud.com/clikno
+  https://soundcloud.com/dr-nojoke [...]Read More...
 published: true
 tags: premiere
 featured: false

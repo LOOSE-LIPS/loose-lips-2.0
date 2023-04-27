@@ -8,7 +8,7 @@ author: 100
 banner:
   - imported/xemex-high-flow/image1328.jpeg
 description: >-
-  Badwoi cyberfunk! From XemeX&#39;s XemeX 1&nbsp;EP. Out now on digital &#8211;
+  Badwoi cyberfunk! From XemeX;s XemeX 1;EP. Out now on digital ;
   https://xemex.bandcamp.com/releases https://soundcloud.com/xemexmusic
   [...]Read More...
 published: true

@@ -8,11 +8,11 @@ author: 96
 banner:
   - imported/kortzers-sunday-jams-ze-roberto-lotus-72d/image869.jpeg
 description: >-
-  This week I&#39;ve chosen Ze Roberto &#8211; 72D. In truth I know very little
-  if anything about Roberto, and the lyrics go straight over my head, yet
-  despite that this track powers through in terms of feeling &amp; vibe. A feel
-  good anthem despite not translating directly onto an English speaking ear,
-  it&#39;s easy to [...]Read More...
+  This week I;ve chosen Ze Roberto ; 72D. In truth I know very little if
+  anything about Roberto, and the lyrics go straight over my head, yet despite
+  that this track powers through in terms of feeling &amp; vibe. A feel good
+  anthem despite not translating directly onto an English speaking ear, it;s
+  easy to [...]Read More...
 published: true
 tags: feature
 featured: false

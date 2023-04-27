@@ -8,10 +8,10 @@ author: 100
 banner:
   - imported/pata-its-like-skoop/image1178.jpeg
 description: >-
-  Ritualistic banger! Sitting between Trap and Drill, It&#39;s Like is gliding
+  Ritualistic banger! Sitting between Trap and Drill, It;s Like is gliding
   smoothly into cut up Brazilian percussions,creating a fine balance between
-  modern, slick aesthetics and traditional imagery. From PATA&#39;s Manifesta EP
-  on Skoop. Out 24.07.2020 on digital &#8211; Pre-order:
+  modern, slick aesthetics and traditional imagery. From PATA;s Manifesta EP on
+  Skoop. Out 24.07.2020 on digital ; Pre-order:
   https://skoop.bandcamp.com/album/manifesta
   https://soundcloud.com/skoopskoophttps://soundcloud.com/iampata [...]Read
   More...

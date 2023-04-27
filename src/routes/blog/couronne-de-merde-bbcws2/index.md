@@ -8,11 +8,10 @@ author: 100
 banner:
   - imported/couronne-de-merde-bbcws2/image1079.jpeg
 description: >-
-  Incisive and emotional,&nbsp;Serotonin with a knife&nbsp;(as the title
-  translates to)&nbsp;dives down a darkly contemplative path&nbsp;while
-  sustaining the attention with bleeding chopped breaks. From Couronne De
-  Merde&#39;s ﺍﺗﻤﻨﻰ ﻟﻮ ﺍﻥ ﺍﻟﺮﻳﺎﺡ ﺗﺠﻠﻲ ﺍﻟﺮﻣﺎﺩ&nbsp;on Broken Britain Cassettes.
-  Out now on cassette and digital &#8211; Order:
+  Incisive and emotional,;Serotonin with a knife;(as the title translates
+  to);dives down a darkly contemplative path;while sustaining the attention with
+  bleeding chopped breaks. From Couronne De Merde;s ﺍﺗﻤﻨﻰ ﻟﻮ ﺍﻥ ﺍﻟﺮﻳﺎﺡ ﺗﺠﻠﻲ
+  ﺍﻟﺮﻣﺎﺩ;on Broken Britain Cassettes. Out now on cassette and digital ; Order:
   https://wannamarchi.bandcamp.com/album/-
   https://soundcloud.com/brokenbritaincassetteshttps://soundcloud.com/couronnedemerde
   &quot;BEIRUT, Lebanon &mdash; a haunted city. The dead look out [...]Read

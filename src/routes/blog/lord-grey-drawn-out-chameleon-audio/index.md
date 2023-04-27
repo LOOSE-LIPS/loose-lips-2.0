@@ -8,14 +8,12 @@ author: 100
 banner:
   - imported/lord-grey-drawn-out-chameleon-audio/image1356.jpeg
 description: >-
-  A dark instrumental drill track by Lord Grey on Chameleon Audio&#39;s end of
-  year compilation with 19 tracks of UK bass and urban underground beats! From
-  Chameleon Audio&nbsp;Vol.5 V/A compilation, featuring artists by the likes of
-  7th Ed,&nbsp;Aranha,&nbsp;Beanzo,&nbsp;Chemist
-  RNS,&nbsp;Dubzta,&nbsp;Itmek,&nbsp;Jakebob,&nbsp;Katon,&nbsp;Khabs,
-  Lingerz,&nbsp;Nenkz,&nbsp;Maximu,s&nbsp;MoJoe,&nbsp;Mr
-  Dubz,&nbsp;OMAAR,&nbsp;S3 Dubs&nbsp;,Scrivs, Timma T,&nbsp;Tofz and&nbsp;Tubz.
-  Out 28.12.2020 on digital &#8211; https://chameleonaudio.bandcamp.com
+  A dark instrumental drill track by Lord Grey on Chameleon Audio;s end of year
+  compilation with 19 tracks of UK bass and urban underground beats! From
+  Chameleon Audio;Vol.5 V/A compilation, featuring artists by the likes of 7th
+  Ed,;Aranha,;Beanzo,;Chemist RNS,;Dubzta,;Itmek,;Jakebob,;Katon,;Khabs,
+  Lingerz,;Nenkz,;Maximu,s;MoJoe,;Mr Dubz,;OMAAR,;S3 Dubs;,Scrivs, Timma T,;Tofz
+  and;Tubz. Out 28.12.2020 on digital ; https://chameleonaudio.bandcamp.com
   https://soundcloud.com/chameleonaudiohttps://soundcloud.com/greyscale1989
   [...]Read More...
 published: true

@@ -8,8 +8,8 @@ author: 100
 banner: []
 description: >-
   This is like Miami Bass on steroids! If you need to wake up or enhance your
-  mood, look no further! From VNDLYVA01&nbsp;VA compilation of Vandelay Radio.
-  Out 22.02 on digital &#8211; Download for any price of feel like:
+  mood, look no further! From VNDLYVA01;VA compilation of Vandelay Radio. Out
+  22.02 on digital ; Download for any price of feel like:
   https://shop.vandelayradio.com/album/vndlyva01
   https://soundcloud.com/vandelaylol https://soundcloud.com/adreimatup
   https://soundcloud.com/osckins [...]Read More...

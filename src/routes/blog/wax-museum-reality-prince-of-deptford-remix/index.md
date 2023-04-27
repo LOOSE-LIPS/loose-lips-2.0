@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/wax-museum-reality-prince-of-deptford-remix/image1225.jpeg
 description: >-
-  Prince Of Deptford on remix duties on Wax Museum&#39;s post-punk fusion-funk
-  song Reality. Slowing it down a notch and using the brass section as a more
-  organic compound to contrast with the robotic, stomping beat that heavily
-  sustains the track. Original track is from Wax Museum&#39;s I Will Probably Do
-  The Opposite&nbsp;EP on Unsustainable. Out [...]Read More...
+  Prince Of Deptford on remix duties on Wax Museum;s post-punk fusion-funk song
+  Reality. Slowing it down a notch and using the brass section as a more organic
+  compound to contrast with the robotic, stomping beat that heavily sustains the
+  track. Original track is from Wax Museum;s I Will Probably Do The Opposite;EP
+  on Unsustainable. Out [...]Read More...
 published: true
 tags: premiere
 featured: false

@@ -8,11 +8,11 @@ author: 103
 banner:
   - imported/picks-ludovico-espositos-tributes-to-andrea-mi/image1077.jpeg
 description: >-
-  The Italian long-time music activist Andrea Mi&nbsp;has passed away. When the
-  news came out last Monday, April 13th, I felt devastated like many many
-  others. After over three decades of DJing, teaching, journalism and radio
-  shows, he couldn&rsquo;t defeat a serious disease he has been fighting for
-  several months. It&#39;s been very difficult to handle [...]Read More...
+  The Italian long-time music activist Andrea Mi;has passed away. When the news
+  came out last Monday, April 13th, I felt devastated like many many others.
+  After over three decades of DJing, teaching, journalism and radio shows, he
+  couldn;t defeat a serious disease he has been fighting for several months.
+  It;s been very difficult to handle [...]Read More...
 published: true
 tags: feature
 featured: false

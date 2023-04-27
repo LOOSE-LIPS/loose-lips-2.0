@@ -9,8 +9,8 @@ banner:
   - imported/kronom-senzor-kornarion009/image806.jpeg
 description: >-
   A claustrophobic descent driven by quaking drums and unidentified
-  interferences. Flawless delivery. From Kronom&#39;s Visions 009 on
-  Kornarion.&nbsp; Out 28.04 on digital &#8211; Pre-order:
+  interferences. Flawless delivery. From Kronom;s Visions 009 on Kornarion.; Out
+  28.04 on digital ; Pre-order:
   https://kornarion.bandcamp.com/album/kronom-visions-009
   https://soundcloud.com/kornarion https://soundcloud.com/kronombass [...]Read
   More...

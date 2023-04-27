@@ -9,10 +9,10 @@ banner:
   - imported/dnb-fix-40-altern8-hard-crew/image1350.jpeg
 description: >-
   25 years after blasting onto the scene with massive singles like
-  &lsquo;Frequency&rsquo;, Altern 8 have returned. &nbsp;This week&#39;s Dnb Fix
-  takes a closer look at Hard Crew, in all it&#39;s remixed glory, featuring the
-  likes of Samurai Breaks, Denham Audio, Mechanizm &amp; Kin. Hard Crew sounds
-  like it&rsquo;s emerged from a perfectly preserved 1994 hard [...]Read More...
+  &lsquo;Frequency;, Altern 8 have returned. ;This week;s Dnb Fix takes a closer
+  look at Hard Crew, in all it;s remixed glory, featuring the likes of Samurai
+  Breaks, Denham Audio, Mechanizm &amp; Kin. Hard Crew sounds like it;s emerged
+  from a perfectly preserved 1994 hard [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -8,11 +8,11 @@ author: 70
 banner:
   - imported/monir-collusion-ep/image1172.jpeg
 description: >-
-  More Cowbell &middot; SHOWREEL: MONIR &#8211; COLLUSION EP You ever hear a
-  weird tune in a DJ set that makes you think &lsquo;what is this?&rsquo;
-  That&rsquo;s bass. It&rsquo;s the abstract. A genre that has evolved out of
-  the grey area between garage, dubstep, grime, techno and everything in
-  between. Keysound Recordings have been rolling that [...]Read More...
+  More Cowbell &middot; SHOWREEL: MONIR ; COLLUSION EP You ever hear a weird
+  tune in a DJ set that makes you think &lsquo;what is this?; That;s bass. It;s
+  the abstract. A genre that has evolved out of the grey area between garage,
+  dubstep, grime, techno and everything in between. Keysound Recordings have
+  been rolling that [...]Read More...
 published: true
 tags: review
 featured: false

@@ -9,11 +9,11 @@ banner:
   - imported/the-advent-statis-v2-ce035-lp/image1115.jpeg
 description: >-
   The Advent returns with a fire compilation of unreleased electro tracks from
-  the &#39;90s, surfacing a sampler of mad popping sonics, as featured in this
-  very special premiere! From The Advent&#39;s Life Cycle&nbsp;LP
-  on&nbsp;Cultivated Electronics. Out now on 2&#215;12&quot; and digital &#8211;
-  Order: https://clone.nl/item59925.html The Advent (Cisco Ferreira) delivers
-  his first full-length Electro album in [...]Read More...
+  the ;90s, surfacing a sampler of mad popping sonics, as featured in this very
+  special premiere! From The Advent;s Life Cycle;LP on;Cultivated Electronics.
+  Out now on 2&#215;12&quot; and digital ; Order:
+  https://clone.nl/item59925.html The Advent (Cisco Ferreira) delivers his first
+  full-length Electro album in [...]Read More...
 published: true
 tags: premiere
 featured: false

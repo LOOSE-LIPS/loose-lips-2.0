@@ -9,8 +9,8 @@ banner:
   - imported/atheist-union-control-unsustainable/image1217.jpeg
 description: >-
   Syncopated machine assault, just right in the face, no questions asked. From
-  Atheist Union&#39;s Disband Structures EP on Unsustainable. Out 27.07.2020 on
-  digital &#8211; https://unsustainable.bandcamp.com [...]Read More...
+  Atheist Union;s Disband Structures EP on Unsustainable. Out 27.07.2020 on
+  digital ; https://unsustainable.bandcamp.com [...]Read More...
 published: true
 tags: premiere
 featured: false

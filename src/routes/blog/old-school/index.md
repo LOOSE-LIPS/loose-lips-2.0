@@ -10,10 +10,9 @@ banner:
 description: >-
   Deep Cuts is a new multi-writer article format from Loose Lips. Members of our
   sprawling community are asked to share music and experiences along a shared
-  theme.&nbsp; This month&rsquo;s theme is Old School. Its prompt question:
-  &lsquo;What music sounds cool?&#39; Songs from each writer&rsquo;s
-  contribution are gathered in the mix below (whizzed together by Deep [...]Read
-  More...
+  theme.; This month;s theme is Old School. Its prompt question: &lsquo;What
+  music sounds cool?; Songs from each writer;s contribution are gathered in the
+  mix below (whizzed together by Deep [...]Read More...
 published: true
 tags: deep-cuts
 featured: false

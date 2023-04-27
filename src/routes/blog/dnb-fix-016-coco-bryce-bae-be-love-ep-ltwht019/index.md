@@ -8,10 +8,10 @@ author: 122
 banner:
   - imported/dnb-fix-016-coco-bryce-bae-be-love-ep-ltwht019/image1129.jpeg
 description: >-
-  He&#39;s back at it once again, this week&rsquo;s fix is from the Dutch
-  mastermind Coco Bryce. His latest four track EP is set to drop on vinyl late
-  next month, and the whole release is a corker. This guy has been on fire the
-  past few years, with big releases coming out the wazoo; from [...]Read More...
+  He;s back at it once again, this week;s fix is from the Dutch mastermind Coco
+  Bryce. His latest four track EP is set to drop on vinyl late next month, and
+  the whole release is a corker. This guy has been on fire the past few years,
+  with big releases coming out the wazoo; from [...]Read More...
 published: true
 tags: feature
 featured: false

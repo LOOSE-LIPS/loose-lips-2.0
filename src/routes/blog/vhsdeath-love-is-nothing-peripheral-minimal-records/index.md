@@ -10,9 +10,8 @@ banner:
 description: >-
   With a modern approach to Synthwave/Coldwave sonics, LOVE IS NOTHING is a nod
   to the Post-Punk paradigm with a foot in the Electro garden, which can be
-  heard all over the album as well. &nbsp;From VHS&yen;DEATH&#39;s LA LLORONA
-  (LOVE &amp; ALL THE HATE) LP on Peripheral Minimal Records. Out now on digital
-  &#8211; Order:
+  heard all over the album as well. ;From VHS&yen;DEATH;s LA LLORONA (LOVE &amp;
+  ALL THE HATE) LP on Peripheral Minimal Records. Out now on digital ; Order:
   https://vhsxdeath.bandcamp.com/album/peripheral-minimal-records-debut-l-p-la-llorona-love-all-the-hate
   [...]Read More...
 published: true

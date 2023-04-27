@@ -11,9 +11,9 @@ description: >-
   Hailing from Bristol, the duo Spektral Sound comes through with their deep,
   dub style release &ldquo;Safe Haven&rdquo; from Keysound Recordings. Expect
   showers of FM goodness, atmospheric hallowing pads, textures and deep bass
-  tones.&nbsp; Their title track &ldquo;Safe haven&rdquo; opens with a waterfall
-  of FM synthesis thats plays throughout, pinging and bouncing around while
-  being modulated [...]Read More...
+  tones.; Their title track &ldquo;Safe haven&rdquo; opens with a waterfall of
+  FM synthesis thats plays throughout, pinging and bouncing around while being
+  modulated [...]Read More...
 published: true
 tags: release-review
 featured: false

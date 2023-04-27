@@ -8,11 +8,11 @@ author: 61
 banner:
   - imported/do-the-du-illusions-ep/image1020.jpeg
 description: >-
-  In all honesty, I hadn&rsquo;t heard of Do The Du until I was sent this
-  record. As many of my friends know I almost accidentally consume knowledge
-  (especially in terms of Music) with great ease, often causing borderline
-  annoyance because I have usually heard tracks they send me to listen to. So
-  naturally I was [...]Read More...
+  In all honesty, I hadn;t heard of Do The Du until I was sent this record. As
+  many of my friends know I almost accidentally consume knowledge (especially in
+  terms of Music) with great ease, often causing borderline annoyance because I
+  have usually heard tracks they send me to listen to. So naturally I was
+  [...]Read More...
 published: true
 tags: review
 featured: false

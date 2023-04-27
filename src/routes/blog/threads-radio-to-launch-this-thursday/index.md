@@ -8,11 +8,11 @@ author: 160
 banner:
   - imported/threads-radio-to-launch-this-thursday/image740.jpeg
 description: >-
-  It&#39;s happening, and we&#39;re so so excited. www.threadsradio.com&nbsp;
-  After a months break, the crew who ran 199Radio are back with a bang! THREADS!
-  Despite being advertised as Friday, broadcasting will in fact launch on
-  Thursday, with two special pre-launch streams, one from the London launch
-  party, and one over in Prague!! Surfing the middle grounds [...]Read More...
+  It;s happening, and we;re so so excited. www.threadsradio.com; After a months
+  break, the crew who ran 199Radio are back with a bang! THREADS! Despite being
+  advertised as Friday, broadcasting will in fact launch on Thursday, with two
+  special pre-launch streams, one from the London launch party, and one over in
+  Prague!! Surfing the middle grounds [...]Read More...
 published: true
 tags: news
 featured: false

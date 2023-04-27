@@ -11,9 +11,9 @@ banner:
 description: >-
   2020 has been a hell of year for everyone, but few countries have found
   themselves trapped in the kind of pressure cooker that the US has. From
-  claiming the tragic title of world&rsquo;s biggest coronavirus victim, through
-  the widespread Black Lives Matter protests and civil unrest in major cities,
-  onto a Presidential Election many see [...]Read More...
+  claiming the tragic title of world;s biggest coronavirus victim, through the
+  widespread Black Lives Matter protests and civil unrest in major cities, onto
+  a Presidential Election many see [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -11,10 +11,10 @@ banner:
   - >-
     imported/howard-mades-sunday-jams-serge-gainsbourg-et-brigitte-bardot-bonnie-and-clyde/image1016.jpeg
 description: >-
-  You&#39;re in Paris, and you&#39;re red wine drunk, in bed with a lover, the
-  sheets are sticky and stained. He sparks a cigarette, blows it in your face
-  then probably tells you you&#39;ve got fat legs. The man is Serge Gainsbourg.
-  He&#39;s absoloutely scandalous, he causes murder and I love it; once he did a
+  You;re in Paris, and you;re red wine drunk, in bed with a lover, the sheets
+  are sticky and stained. He sparks a cigarette, blows it in your face then
+  probably tells you you;ve got fat legs. The man is Serge Gainsbourg. He;s
+  absoloutely scandalous, he causes murder and I love it; once he did a
   [...]Read More...
 published: true
 tags: feature

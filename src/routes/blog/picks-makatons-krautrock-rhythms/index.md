@@ -8,12 +8,11 @@ author: 105
 banner:
   - imported/picks-makatons-krautrock-rhythms/image1123.jpeg
 description: >-
-  Do you want it darker? Do you??? We&#39;ve got Makaton, the Birmingham Techno
-  cult legend with 22 years of unique beats under his belt in, sharing a slice
-  of his record collection that has influenced his sound (as displayed in
-  sizzling live sets, alongside his imprint&nbsp;Rodz-Konez). We&#39;ve gathered
-  the tunes in&nbsp;this here&nbsp;Spotify playlist too. Enjoy! [...]Read
-  More...
+  Do you want it darker? Do you??? We;ve got Makaton, the Birmingham Techno cult
+  legend with 22 years of unique beats under his belt in, sharing a slice of his
+  record collection that has influenced his sound (as displayed in sizzling live
+  sets, alongside his imprint;Rodz-Konez). We;ve gathered the tunes in;this
+  here;Spotify playlist too. Enjoy! [...]Read More...
 published: true
 tags: feature
 featured: false

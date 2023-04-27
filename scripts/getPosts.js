@@ -7,6 +7,12 @@ import path from "path";
 import axios from "axios";
 import { load } from "cheerio";
 
+//&#39
+//&#8211
+//&rsquo;
+//&nbsp;
+//&#8217;s
+
 const username = "seedpipdev";
 const password = "ThisIsAPassword";
 const totalPages = 68;
@@ -100,6 +106,19 @@ for (let i = 1; i < totalPages; i++) {
           const urlForTag = post.link;
           const extract = urlForTag.split("/")[3];
           // console.log(extract, "extract"); // Output: "release-review"
+          // let symbolsToReplace = [
+          //   "&#39",
+          //   "&#8211",
+          //   "&rsquo",
+          //   "&nbsp",
+          //   "&#8217",
+          // ];
+
+          // symbolsToReplace.forEach((symbol) => {
+          //   console.log(symbol, "symbol");
+          //   console.log(post.yoast_head_json.description, "description");
+          // });
+
           const data = {
             id: post.id,
             date: transformedDateString,
@@ -108,7 +127,7 @@ for (let i = 1; i < totalPages; i++) {
             slug: post.slug,
             author: post.author,
             banner: images,
-            description: post.yoast_head_json.og_description,
+            description: post.yoast_head_json.description,
             published: true,
             tags: extract,
             featured: featured,

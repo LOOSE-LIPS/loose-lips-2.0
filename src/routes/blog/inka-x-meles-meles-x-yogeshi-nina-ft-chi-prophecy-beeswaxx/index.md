@@ -11,9 +11,8 @@ banner:
 description: >-
   A perfect example of how UK Hip-Hop is a sound of its own, with influences
   clearly rooted in Dub and soundsystem culture! From Inka x Meles Meles x
-  Yogeshi&#39;s Dark Matter Dojo EP on Beeswaxx. Out now on 12&quot; and digital
-  &#8211; Order:
-  https://inkamelesmelesandyogeshi.bandcamp.com/album/dark-matter-dojo
+  Yogeshi;s Dark Matter Dojo EP on Beeswaxx. Out now on 12&quot; and digital ;
+  Order: https://inkamelesmelesandyogeshi.bandcamp.com/album/dark-matter-dojo
   https://soundcloud.com/beeswaxxmcr https://soundcloud.com/inka_mcr
   https://soundcloud.com/meles-meles-326406220 https://soundcloud.com/yogeshi
   https://soundcloud.com/chiprophet [...]Read More...

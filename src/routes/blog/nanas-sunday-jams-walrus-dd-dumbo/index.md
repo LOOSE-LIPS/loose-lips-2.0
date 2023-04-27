@@ -9,8 +9,8 @@ banner:
   - imported/nanas-sunday-jams-walrus-dd-dumbo/image1218.jpeg
 description: >-
   Banner art by Trav Yes Yes Sunday Jammers. So, I am made, finally, I am
-  officially&nbsp;now your Sunday musical tour guide, crowned by the Patron this
-  week so celebrate, celebrate, celebrate. Hope you are enjoying the jams, the
+  officially;now your Sunday musical tour guide, crowned by the Patron this week
+  so celebrate, celebrate, celebrate. Hope you are enjoying the jams, the
   wishing part of me hopes you are Sunday dancing and at least one track has
   made a [...]Read More...
 published: true

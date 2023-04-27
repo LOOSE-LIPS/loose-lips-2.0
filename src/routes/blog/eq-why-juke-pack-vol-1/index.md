@@ -10,9 +10,9 @@ banner:
 description: >-
   Juke Pack Vol.1 by EQ Why The footwork formula is a confounding one. Stock 808
   drum kit sounds, vocal chops and sample loops are a lean recipe, yet fresh
-  takes from the limited ingredients turn up every day, 2 decades on.
-  &nbsp;Switch the emphasis from the rhythms to the melodies&nbsp;and you
-  suddenly have a different [...]Read More...
+  takes from the limited ingredients turn up every day, 2 decades on. ;Switch
+  the emphasis from the rhythms to the melodies;and you suddenly have a
+  different [...]Read More...
 published: true
 tags: review
 featured: false

@@ -10,8 +10,8 @@ banner:
 description: >-
   Lazers bursting out in the big dark vacuum of space, celestial objects
   colliding into each other, inter-dimensional beings passing through, &#8230;
-  So much is happening in the milky way! From Reinartz&#39;s Interactions EP on
-  Jollies. Out now on cassette and digital &#8211; Order:
+  So much is happening in the milky way! From Reinartz;s Interactions EP on
+  Jollies. Out now on cassette and digital ; Order:
   https://reinartz.bandcamp.com/album/interactions
   https://soundcloud.com/rreinartz [...]Read More...
 published: true

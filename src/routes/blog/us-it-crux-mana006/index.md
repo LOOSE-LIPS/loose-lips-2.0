@@ -8,7 +8,7 @@ author: 100
 banner: []
 description: >-
   An ultra fresh Club track with Braindance sensibilities from Us &amp; It! From
-  3142&nbsp;V/A EP on 8MANA. Out 24.04.2019 &#8211; Pre-order:
+  3142;V/A EP on 8MANA. Out 24.04.2019 ; Pre-order:
   https://8mana.bandcamp.com/album/3142
   https://soundcloud.com/8-manahttps://soundcloud.com/usandit [...]Read More...
 published: true

@@ -8,11 +8,11 @@ author: 125
 banner:
   - imported/nanas-sunday-jams-girl-killswsh/image1277.jpeg
 description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Yes Sunday Jammers. Greetings and endless
-  salutations. Feels like it&rsquo;s been a while, has it been the same for you?
-  So happy to be back penning stuff and getting the Sunday train back on the
-  tracks. Things I am [...]Read More...
+  Banner artwork by the majestic Trav, all of Nana;s jams are gathered in;this
+  playlist. Yes Yes Yes Sunday Jammers. Greetings and endless salutations. Feels
+  like it;s been a while, has it been the same for you? So happy to be back
+  penning stuff and getting the Sunday train back on the tracks. Things I am
+  [...]Read More...
 published: true
 tags: feature
 featured: false

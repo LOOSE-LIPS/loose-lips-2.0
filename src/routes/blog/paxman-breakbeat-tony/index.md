@@ -11,8 +11,8 @@ description: >-
   Paxman has dropped a self-released EP with 5 exciting tracks, ranging from
   slow industrial Electro to bleepy, colourful warehouse Techno to Breakbeat
   euphoria like this number, an after-hours anthem filled with strong positive
-  energy! From Paxman&#39;s 10.6.8 Will Never Die #1 EP. Out now on digital
-  &#8211; https://paxman.bandcamp.com/releases https://soundcloud.com/paxmanmcr
+  energy! From Paxman;s 10.6.8 Will Never Die #1 EP. Out now on digital ;
+  https://paxman.bandcamp.com/releases https://soundcloud.com/paxmanmcr
   [...]Read More...
 published: true
 tags: premiere

@@ -10,7 +10,7 @@ banner:
 description: >-
   VOITAX &middot; VOI 020 Arad | Radiance Haze (Snippets) Dara Smith, one half
   of the successful duo Lakker, continues to reinvent himself through his solo
-  moniker ARAD. &nbsp;ARAD is not only an exploration of new sounds, but also an
+  moniker ARAD. ;ARAD is not only an exploration of new sounds, but also an
   exploration of persona: physically and virtually. Through ARAD, Smith is
   allowing his many-tendriled mind to investigate [...]Read More...
 published: true

@@ -7,9 +7,9 @@ slug: kortzers-sunday-jams-little-walter-blue-lonesome
 author: 96
 banner: []
 description: >-
-  This week I&rsquo;ve gone for possibly the bluest blues song of all time. Blue
-  &amp; Lonesome by Little Walter. Little Walter is a Blues legend &amp; his
-  story is suitably fitting. Thought to have been born in 1930 in Louisiana
+  This week I;ve gone for possibly the bluest blues song of all time. Blue &amp;
+  Lonesome by Little Walter. Little Walter is a Blues legend &amp; his story is
+  suitably fitting. Thought to have been born in 1930 in Louisiana
   &ldquo;Walter&rdquo; grew up in Rapides Parish where he first learned to play
   the harmonica. Marion [...]Read More...
 published: true

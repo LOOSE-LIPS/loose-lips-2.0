@@ -11,7 +11,7 @@ description: >-
   A collaboration between Jakebob and MoJoe that works perfectly; alternating
   between witty rap verses and sang choruses, with an autotune glueing the
   vocals onto that smooth, hazey instrumental (courtesy of MoJoe)! From
-  Jakebob&#39;s Smokers LP on Chameleon Audio. Out 9.10 on digital &#8211;
+  Jakebob;s Smokers LP on Chameleon Audio. Out 9.10 on digital ;
   https://chameleonaudio.bandcamp.com
   https://soundcloud.com/chameleonaudiohttps://soundcloud.com/hr6jakebob
   [...]Read More...

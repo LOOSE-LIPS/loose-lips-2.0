@@ -8,11 +8,10 @@ author: 153
 banner:
   - imported/dnb-fix-027-45-roller-rain/image1233.jpeg
 description: >-
-  It&rsquo;s time for another DnB Fix; and this time it comes in the form of
-  something we&rsquo;ve all been hoping for; &ldquo;Rain&rdquo; featuring over
-  on cult.ure this A side banger from 45 Roller definitely hits the tone this
-  week. 45 Roller is a new name on the block: but they are far from new to
-  [...]Read More...
+  It;s time for another DnB Fix; and this time it comes in the form of something
+  we;ve all been hoping for; &ldquo;Rain&rdquo; featuring over on cult.ure this
+  A side banger from 45 Roller definitely hits the tone this week. 45 Roller is
+  a new name on the block: but they are far from new to [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -10,8 +10,7 @@ banner:
 description: >-
   Poly Sone delivers here a superb Lo-Fi Techno number, full of magnetic
   saturation and creating an ethereal sense of tension. From Assorted Pieces 2
-  V/A EP on Friendship &amp; Decadence. Out now on 12&quot; and digital &#8211;
-  Order:
+  V/A EP on Friendship &amp; Decadence. Out now on 12&quot; and digital ; Order:
   https://bordelloaparigi.com/shop/musica/various-artists-assorted-pieces-2-ep/
   https://soundcloud.com/fndlabel https://soundcloud.com/polysone [...]Read
   More...

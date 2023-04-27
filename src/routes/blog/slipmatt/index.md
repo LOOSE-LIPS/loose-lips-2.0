@@ -9,8 +9,8 @@ banner:
   - imported/slipmatt/image1014.jpeg
 description: >-
   Tomorrow, for the 4th edition of our Jungle/Hardcore event series in
-  Manchester, we&#39;re welcoming an absolute legend, a man responsible for so
-  much musical history that followed him&#8230;DJ Slipmatt!
+  Manchester, we;re welcoming an absolute legend, a man responsible for so much
+  musical history that followed him&#8230;DJ Slipmatt!
   https://www.facebook.com/events/2560145147446444/ Ahead of the event, we
   jumped on the blower and had a quick natter! What was your first experience of
   a proper rave? Probably 1988 [...]Read More...

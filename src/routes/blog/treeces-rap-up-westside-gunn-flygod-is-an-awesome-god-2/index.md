@@ -9,11 +9,11 @@ banner:
   - >-
     imported/treeces-rap-up-westside-gunn-flygod-is-an-awesome-god-2/image1212.jpeg
 description: >-
-  FLYGOD IS AN AWESOME GOD 2 is Buffalo legend Westside Gunn&rsquo;s second
-  release this year, coming three months after fan- favourite and cult classic
-  &lsquo;Pray for Paris&rsquo;. Here, he takes a laidback curators role;
-  there&rsquo;s a feature on all tracks bar one but by no means does he takes a
-  back seat, Gunn&rsquo;s Buffalo street [...]Read More...
+  FLYGOD IS AN AWESOME GOD 2 is Buffalo legend Westside Gunn;s second release
+  this year, coming three months after fan- favourite and cult classic
+  &lsquo;Pray for Paris;. Here, he takes a laidback curators role; there;s a
+  feature on all tracks bar one but by no means does he takes a back seat,
+  Gunn;s Buffalo street [...]Read More...
 published: true
 tags: feature
 featured: false

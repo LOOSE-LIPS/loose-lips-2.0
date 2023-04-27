@@ -10,9 +10,8 @@ banner:
 description: >-
   Yes Sunday Jammers. So, hope you are well. Have you managed to catch any of
   the lights around the city? Feels extra special this year, I stood in the glow
-  and felt like I was shaking off the blanket of fog and confusion that&rsquo;s
-  had us all so tightly wrapped. Something about the quietness of [...]Read
-  More...
+  and felt like I was shaking off the blanket of fog and confusion that;s had us
+  all so tightly wrapped. Something about the quietness of [...]Read More...
 published: true
 tags: feature
 featured: false

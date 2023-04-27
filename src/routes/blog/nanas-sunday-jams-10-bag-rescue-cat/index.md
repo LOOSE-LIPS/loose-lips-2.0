@@ -8,11 +8,11 @@ author: 125
 banner:
   - imported/nanas-sunday-jams-10-bag-rescue-cat/image1397.jpeg
 description: >-
-  [Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered in
-  this playlist.]&nbsp; Yes Yes Sunday Jammers. Hope you&rsquo;re well keeping
-  warm or getting buried in the snow. Feels like light radiating in from all the
-  crisp, clean whiteness dressing up all the empty spaces. Once you&rsquo;ve
-  finished frolicking come back inside for [...]Read More...
+  [Banner artwork by the majestic Trav, all of Nana;s jams are gathered in this
+  playlist.]; Yes Yes Sunday Jammers. Hope you;re well keeping warm or getting
+  buried in the snow. Feels like light radiating in from all the crisp, clean
+  whiteness dressing up all the empty spaces. Once you;ve finished frolicking
+  come back inside for [...]Read More...
 published: true
 tags: feature
 featured: false

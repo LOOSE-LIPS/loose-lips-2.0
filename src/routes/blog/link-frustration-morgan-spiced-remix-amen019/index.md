@@ -8,9 +8,9 @@ author: 100
 banner:
   - imported/link-frustration-morgan-spiced-remix-amen019/image1180.jpeg
 description: >-
-  Morgan Spiced on remix duties, mashing it up proper! From Link&#39;s
-  Frustration&nbsp;remix EP on Amenology. Out soon on 12&quot; and digital
-  &#8211; https://www.amenology.com/vinyl/amen019
+  Morgan Spiced on remix duties, mashing it up proper! From Link;s
+  Frustration;remix EP on Amenology. Out soon on 12&quot; and digital ;
+  https://www.amenology.com/vinyl/amen019
   https://soundcloud.com/amenologyhttps://soundcloud.com/morganjohnston
   [...]Read More...
 published: true

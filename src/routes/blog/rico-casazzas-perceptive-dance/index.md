@@ -9,10 +9,10 @@ banner:
   - imported/rico-casazzas-perceptive-dance/image1383.jpeg
 description: >-
   Right hello hello all, Loose Lips editor Will Soer here. Rico Casazza, one of
-  the Loose Lips team&#8217;s favourite producers from the enormous world of
-  House and Techno has just released a new ep of dance music, the first release
-  on his new record label (its artwork is above, we premiered End Of
-  Transmissions). Both [...]Read More...
+  the Loose Lips team;s favourite producers from the enormous world of House and
+  Techno has just released a new ep of dance music, the first release on his new
+  record label (its artwork is above, we premiered End Of Transmissions). Both
+  [...]Read More...
 published: true
 tags: article
 featured: false

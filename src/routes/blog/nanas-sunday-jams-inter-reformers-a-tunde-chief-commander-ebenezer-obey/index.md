@@ -11,10 +11,10 @@ banner:
   - >-
     imported/nanas-sunday-jams-inter-reformers-a-tunde-chief-commander-ebenezer-obey/image1235.jpeg
 description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes and Yes Sunday Jammers peace and salutations. Hope
-  the mini reset has restored any parts of you that might have melted in the
-  heat and revived you in time for the next stop on the Sunday Jams tour. If you
+  Banner artwork by the majestic Trav, all of Nana;s jams are gathered in;this
+  playlist. Yes and Yes Sunday Jammers peace and salutations. Hope the mini
+  reset has restored any parts of you that might have melted in the heat and
+  revived you in time for the next stop on the Sunday Jams tour. If you
   [...]Read More...
 published: true
 tags: feature

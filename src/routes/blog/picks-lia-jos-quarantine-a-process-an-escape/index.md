@@ -8,11 +8,11 @@ author: 164
 banner:
   - imported/picks-lia-jos-quarantine-a-process-an-escape/image1242.jpeg
 description: >-
-  For this week&rsquo;s Picks, we have a very special guest indeed; Lia-Jo, fka
-  Alien, an artist and transcendental tastemaker whose producing skills have
-  been crucial in keeping Threads radio going over lockdown, and recently took
-  over a new Monday slot (check the first show here). All songs are gathered in
-  this&nbsp;Spotiplaylist, take it away Lia! [...]Read More...
+  For this week;s Picks, we have a very special guest indeed; Lia-Jo, fka Alien,
+  an artist and transcendental tastemaker whose producing skills have been
+  crucial in keeping Threads radio going over lockdown, and recently took over a
+  new Monday slot (check the first show here). All songs are gathered in
+  this;Spotiplaylist, take it away Lia! [...]Read More...
 published: true
 tags: feature
 featured: false

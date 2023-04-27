@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/picks-kortzers-clubless-daytrip/image1226.jpeg
 description: >-
-  Over quarantine we&#39;ve had a fantastic variety of guest selectors step up
-  for Picks, but today we&#39;re on home turf with our very own saucey sorcerer
-  supreme, Mancunian Loose Lips resident DJ and previous &#39;Sunday Jams&#39;
-  captain, Kortzer!!! Following on in S/S and Sugarglider&#39;s footsteps, the
-  livest bloke in Blightey takes us on a rare [...]Read More...
+  Over quarantine we;ve had a fantastic variety of guest selectors step up for
+  Picks, but today we;re on home turf with our very own saucey sorcerer supreme,
+  Mancunian Loose Lips resident DJ and previous ;Sunday Jams; captain,
+  Kortzer!!! Following on in S/S and Sugarglider;s footsteps, the livest bloke
+  in Blightey takes us on a rare [...]Read More...
 published: true
 tags: feature
 featured: false

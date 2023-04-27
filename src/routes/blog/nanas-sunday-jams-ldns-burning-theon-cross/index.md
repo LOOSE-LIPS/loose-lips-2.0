@@ -8,11 +8,11 @@ author: 125
 banner:
   - imported/nanas-sunday-jams-ldns-burning-theon-cross/image1299.jpeg
 description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Sunday Jammers. How are you feeling? Good I
-  hope and not too discombobulated. I felt the same up until the last couple of
-  days but have decided to use music to sail above it all. I cannot recommend it
-  [...]Read More...
+  Banner artwork by the majestic Trav, all of Nana;s jams are gathered in;this
+  playlist. Yes Yes Sunday Jammers. How are you feeling? Good I hope and not too
+  discombobulated. I felt the same up until the last couple of days but have
+  decided to use music to sail above it all. I cannot recommend it [...]Read
+  More...
 published: true
 tags: feature
 featured: false

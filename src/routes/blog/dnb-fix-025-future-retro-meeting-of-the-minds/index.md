@@ -8,11 +8,11 @@ author: 122
 banner:
   - imported/dnb-fix-025-future-retro-meeting-of-the-minds/image1223.jpeg
 description: >-
-  Future Retro, the latest new record label focused towards releasing 90&rsquo;s
+  Future Retro, the latest new record label focused towards releasing 90;s
   inspired Jungle and Hardcore pulls up into the limelight this week with their
-  debut 2 part vinyl / digital release; &#39;Meeting of The Minds&#39;.&nbsp;
-  Cooked up from the infinitely amazing mind of Tim Reaper, Future Retro
-  originally started out as a run of London [...]Read More...
+  debut 2 part vinyl / digital release; ;Meeting of The Minds;.; Cooked up from
+  the infinitely amazing mind of Tim Reaper, Future Retro originally started out
+  as a run of London [...]Read More...
 published: true
 tags: feature
 featured: false

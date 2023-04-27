@@ -9,8 +9,8 @@ banner:
   - imported/samantha-togni-control-sub007/image1153.jpeg
 description: >-
   Samantha Togni delivers a Techno/EBM track that has a slick cyberpunk flavour!
-  From PRONOMINA II &#8211; Various Artists (For Amnesty International) V/A
-  compilation on Substantiv. Out now on digital &#8211; Order:
+  From PRONOMINA II ; Various Artists (For Amnesty International) V/A
+  compilation on Substantiv. Out now on digital ; Order:
   https://substantiv.bandcamp.com/album/pronomina-ii-various-artists-for-amnesty-international-sub007All
   proceeds from this album will go to Amnesty International for their continued
   work for LGBT+ rights globally.

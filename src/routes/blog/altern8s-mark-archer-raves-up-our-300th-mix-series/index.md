@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/altern8s-mark-archer-raves-up-our-300th-mix-series/image1289.jpeg
 description: >-
-  Here we are! Another century! As you might know, we&#39;re big on taking
-  opportunities to celebrate and, reaching magic number 300, we&#39;ve invited
+  Here we are! Another century! As you might know, we;re big on taking
+  opportunities to celebrate and, reaching magic number 300, we;ve invited
   Altern8 frontman Mark Archer to do a mix for us! With a musical career
   spanning more than 30 years and having been part of notorious rave outfits
   such as Bizarre Inc. and [...]Read More...

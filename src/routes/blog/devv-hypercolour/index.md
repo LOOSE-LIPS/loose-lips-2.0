@@ -9,10 +9,10 @@ banner:
   - imported/devv-hypercolour/image1310.jpeg
 description: >-
   Today marks the release of the outstanding debut album by Toronto-based DJ and
-  producer &#8211; Devv &#8211; titled Hypercolour.&nbsp; A resident of
-  Toronto&rsquo;s All Blak Records &#8211; Devv and I became friends after we
-  booked him to play the first ever microminimal party in Toronto, we have kept
-  in touch ever since.&nbsp; Devv cut his [...]Read More...
+  producer ; Devv ; titled Hypercolour.; A resident of Toronto;s All Blak
+  Records ; Devv and I became friends after we booked him to play the first ever
+  microminimal party in Toronto, we have kept in touch ever since.; Devv cut his
+  [...]Read More...
 published: true
 tags: premiere
 featured: false

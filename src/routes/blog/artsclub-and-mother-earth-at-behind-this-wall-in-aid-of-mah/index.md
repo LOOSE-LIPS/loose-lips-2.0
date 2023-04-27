@@ -9,7 +9,7 @@ banner:
   - >-
     imported/artsclub-and-mother-earth-at-behind-this-wall-in-aid-of-mah/image908.jpeg
 description: >-
-  With the mood surrounding London&rsquo;s nightlife being one of despondency in
+  With the mood surrounding London;s nightlife being one of despondency in
   recent years, it is events like these that renew our faith in the scene.
   Intimate, personal and with slamming selections to boot, the positive aspects
   of musical culture that so many thought were lost have finally shone through

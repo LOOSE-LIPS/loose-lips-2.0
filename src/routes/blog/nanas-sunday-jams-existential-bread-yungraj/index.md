@@ -8,11 +8,11 @@ author: 125
 banner:
   - imported/nanas-sunday-jams-existential-bread-yungraj/image1285.jpeg
 description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Sunday Jammers. Welcome, welcome, welcome. Hope
-  you are well, hope the surreal life hasn&rsquo;t turned too many things upside
-  down, most of all hope the tunes are helping to keep you steady and maintain
-  some kind of balance. So, [...]Read More...
+  Banner artwork by the majestic Trav, all of Nana;s jams are gathered in;this
+  playlist. Yes Yes Sunday Jammers. Welcome, welcome, welcome. Hope you are
+  well, hope the surreal life hasn;t turned too many things upside down, most of
+  all hope the tunes are helping to keep you steady and maintain some kind of
+  balance. So, [...]Read More...
 published: true
 tags: feature
 featured: false

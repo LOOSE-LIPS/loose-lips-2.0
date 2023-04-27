@@ -8,11 +8,11 @@ author: 27
 banner:
   - imported/dnb-fix-019-1985-music-edition-3/image1160.jpeg
 description: >-
-  Alix Perez isn&rsquo;t interested in the past. He constantly looks for ways to
-  move forward &ndash; to explore new sonic territory, new ideas, new
-  approaches. His Keep Hush showed that. 1985 Music is the testing ground for
-  these new ideas, and their third compilation is their most diverse yet. It has
-  tempos you don&rsquo;t expect, [...]Read More...
+  Alix Perez isn;t interested in the past. He constantly looks for ways to move
+  forward &ndash; to explore new sonic territory, new ideas, new approaches. His
+  Keep Hush showed that. 1985 Music is the testing ground for these new ideas,
+  and their third compilation is their most diverse yet. It has tempos you don;t
+  expect, [...]Read More...
 published: true
 tags: feature
 featured: false

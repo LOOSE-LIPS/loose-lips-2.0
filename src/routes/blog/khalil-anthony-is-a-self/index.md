@@ -8,12 +8,11 @@ author: 118
 banner:
   - imported/khalil-anthony-is-a-self/image1300.jpeg
 description: >-
-  Khalil Anthony is self-identified polymath and multi-disciplinary artist.
-  I&rsquo;ve been searching for another way to describe Khalil since
-  (tele-)meeting him, as these words seem to haunt his name on each and every
-  platform. I&rsquo;ve discovered that it&rsquo;s really hard not to reuse them.
-  Under his self-established publishing house, urban folk, inc. he has put out
-  [...]Read More...
+  Khalil Anthony is self-identified polymath and multi-disciplinary artist. I;ve
+  been searching for another way to describe Khalil since (tele-)meeting him, as
+  these words seem to haunt his name on each and every platform. I;ve discovered
+  that it;s really hard not to reuse them. Under his self-established publishing
+  house, urban folk, inc. he has put out [...]Read More...
 published: true
 tags: interview
 featured: false

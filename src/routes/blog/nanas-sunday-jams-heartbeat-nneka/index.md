@@ -8,11 +8,11 @@ author: 125
 banner:
   - imported/nanas-sunday-jams-heartbeat-nneka/image1305.jpeg
 description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Sunday Jammers. How are you? Hope you are
-  managing to stay upright in this permanent state of upside down. So, the
-  unearthing continues into 2020 and full disclosure some of it has weighed in
-  hard this week, it&rsquo;s been [...]Read More...
+  Banner artwork by the majestic Trav, all of Nana;s jams are gathered in;this
+  playlist. Yes Yes Sunday Jammers. How are you? Hope you are managing to stay
+  upright in this permanent state of upside down. So, the unearthing continues
+  into 2020 and full disclosure some of it has weighed in hard this week, it;s
+  been [...]Read More...
 published: true
 tags: feature
 featured: false

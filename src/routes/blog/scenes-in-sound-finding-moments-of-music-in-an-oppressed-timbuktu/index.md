@@ -13,8 +13,8 @@ banner:
 description: >-
   Film is a visual artform, but music radically alters the tone of those
   flickering images. In the fourth edition of Scenes in Sound, we look at
-  Abderrahmane Sissako&rsquo;s Timbuktu, and how censoring art is at the root of
-  systemic oppression.&nbsp; In 2012, during the Malian Civil War, the city of
+  Abderrahmane Sissako;s Timbuktu, and how censoring art is at the root of
+  systemic oppression.; In 2012, during the Malian Civil War, the city of
   Timbuktu fell to an insurgent [...]Read More...
 published: true
 tags: feature

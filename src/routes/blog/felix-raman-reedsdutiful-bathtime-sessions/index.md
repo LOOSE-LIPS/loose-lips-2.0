@@ -11,8 +11,7 @@ description: >-
   Clicks, pops, feedbacks, noise, vocals snippets, elements coming reasonably
   together to form a piece that merges from abstract, sporadic events into a
   rhythmical consensus! From A Quarantine Dream V/A compilation on Bathtime
-  Sessions. Out now on digital &#8211; Order:
-  https://bathtimesessions.bandcamp.com
+  Sessions. Out now on digital ; Order: https://bathtimesessions.bandcamp.com
   https://soundcloud.com/bathtimesessionshttps://soundcloud.com/felixraman
   [...]Read More...
 published: true

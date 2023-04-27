@@ -11,9 +11,9 @@ banner:
 description: >-
   Film is a visual artform, but music radically alters the tone of those
   flickering images. In the first edition of Scenes in Sound, we look at Uncut
-  Gems, and how winning is never as simple as getting what you want.&nbsp; What
-  does winning sound like? Is it the rolling thunder of hands beating together;
-  the [...]Read More...
+  Gems, and how winning is never as simple as getting what you want.; What does
+  winning sound like? Is it the rolling thunder of hands beating together; the
+  [...]Read More...
 published: true
 tags: feature
 featured: false

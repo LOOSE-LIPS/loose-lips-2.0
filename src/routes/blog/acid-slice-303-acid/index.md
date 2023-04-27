@@ -8,8 +8,8 @@ author: 67
 banner:
   - imported/acid-slice-303-acid/image848.jpeg
 description: >-
-  303% Acid is a celebration of the 303, of Acid Slice&rsquo;s contribution to
-  the acid scene and a showcase of some of the best acid music Melbourne has to
+  303% Acid is a celebration of the 303, of Acid Slice;s contribution to the
+  acid scene and a showcase of some of the best acid music Melbourne has to
   offer. Acid Slice are a collective that have been putting on acid raves in
   their home town of Melbourne since 2017, with a major focus on [...]Read
   More...

@@ -10,10 +10,10 @@ banner:
     imported/blackdown-rollage-vol-4-the-hunger-ep-keysound-recordings/image1072.jpeg
 description: >-
   We gave our editor Will Soer 1 hour to listen too, and write a review on,
-  Blackdown&#39;s recent Hunger EP on legendary rugged bass music
-  label,&nbsp;Keysound Recordings. This is truly how his thoughts unfolded,
-  putting pen straight to paper&#8230; Right, new EP from the Blackdown, I have
-  precisely one hour to review this EP, let&rsquo;s [...]Read More...
+  Blackdown;s recent Hunger EP on legendary rugged bass music label,;Keysound
+  Recordings. This is truly how his thoughts unfolded, putting pen straight to
+  paper&#8230; Right, new EP from the Blackdown, I have precisely one hour to
+  review this EP, let;s [...]Read More...
 published: true
 tags: release-review
 featured: false

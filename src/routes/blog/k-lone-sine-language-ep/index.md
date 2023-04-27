@@ -8,12 +8,12 @@ author: 110
 banner:
   - imported/k-lone-sine-language-ep/image854.jpeg
 description: >-
-  K-Lone&rsquo;s Sine Language EP&nbsp;is the latest release to come out on the
-  artist&#39;s own Bristol-based imprint Wisdom Teeth, which he runs with Facta.
-  The synchronistic Sine Language EP slinks fluidly through four movers that
-  flit between dusky electro and percussive workouts for the deep mind.
-  &nbsp;Full of evolving, organic, yet tightly-sync&rsquo;d loops, there&#39;s a
-  degree [...]Read More...
+  K-Lone;s Sine Language EP;is the latest release to come out on the artist;s
+  own Bristol-based imprint Wisdom Teeth, which he runs with Facta. The
+  synchronistic Sine Language EP slinks fluidly through four movers that flit
+  between dusky electro and percussive workouts for the deep mind. ;Full of
+  evolving, organic, yet tightly-sync;d loops, there;s a degree [...]Read
+  More...
 published: true
 tags: release-review
 featured: false

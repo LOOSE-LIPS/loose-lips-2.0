@@ -7,8 +7,8 @@ slug: turk-fins-hearty-dance-tales
 author: 100
 banner: []
 description: >-
-  gyargh, ok ok ok, what time is it? FUCK it&#39;s 2pm no wayyyy wow I really
-  went hard at that zoom party last night, I think I might have shown my weed
+  gyargh, ok ok ok, what time is it? FUCK it;s 2pm no wayyyy wow I really went
+  hard at that zoom party last night, I think I might have shown my weed
   collection to a bunch of my colleagues, ah well twas all in good spirit. Those
   same good spirits are the type I like [...]Read More...
 published: true

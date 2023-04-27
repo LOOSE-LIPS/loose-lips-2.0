@@ -9,8 +9,8 @@ banner:
   - imported/dnb-fix-038-workforce-your-loss-halogenix-remix/image1336.jpeg
 description: >-
   Atmospheric. Dark. Genius. Masterpiece. Workforce &ndash; Your Loss gets the
-  Halogenix treatment in this week&#39;s Dnb Fix; for what can only be described
-  as a likely contender for remix of the year. With the end to one of the most
+  Halogenix treatment in this week;s Dnb Fix; for what can only be described as
+  a likely contender for remix of the year. With the end to one of the most
   turbulent years in recent history closing in, Halogenix is showing no signs of
   slowing down [...]Read More...
 published: true

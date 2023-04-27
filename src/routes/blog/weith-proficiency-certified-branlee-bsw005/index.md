@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/weith-proficiency-certified-branlee-bsw005/image868.jpeg
 description: >-
-  Hardcore raving for the modern-era! From Weith&#39;s Obsidian EP on
-  Brainwaves. Out 26.06 on digital &#8211; Pre-order:
+  Hardcore raving for the modern-era! From Weith;s Obsidian EP on Brainwaves.
+  Out 26.06 on digital ; Pre-order:
   https://brainwavescrew.bandcamp.com/album/obsidian
   https://soundcloud.com/brainwaves_crew https://soundcloud.com/weith [...]Read
   More...

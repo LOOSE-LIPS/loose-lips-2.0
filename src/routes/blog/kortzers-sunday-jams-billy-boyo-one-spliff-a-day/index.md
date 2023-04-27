@@ -9,10 +9,10 @@ banner:
   - imported/kortzers-sunday-jams-billy-boyo-one-spliff-a-day/image807.jpeg
 description: >-
   This weekend falls upon the date of the infamous 420 celebrations &amp; if
-  you&#39;re in Manchester well be celebrating today because well, we do things
-  differently here. I&#39;ve chosen Billy Boyo&#39;s &quot;One Spliff a
-  Day&quot;. The track is easily his most famous and he&#39;s arguably one of
-  the most well known child mcs to date. [...]Read More...
+  you;re in Manchester well be celebrating today because well, we do things
+  differently here. I;ve chosen Billy Boyo;s &quot;One Spliff a Day&quot;. The
+  track is easily his most famous and he;s arguably one of the most well known
+  child mcs to date. [...]Read More...
 published: true
 tags: feature
 featured: false

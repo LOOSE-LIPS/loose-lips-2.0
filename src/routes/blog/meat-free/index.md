@@ -9,10 +9,10 @@ banner:
   - imported/meat-free/image1118.jpeg
 description: >-
   A few months ago, Loose Lips announced a Manchester party to take place on
-  March 21st, headlined by Bjarki and Inga Mauer. Getting some of the
-  city&rsquo;s finest involved, including Yant and Meat Free&rsquo;s very own
-  aalice and Lucy Ironmonger, there is no doubt that this would have been a
-  night to remember. While we [...]Read More...
+  March 21st, headlined by Bjarki and Inga Mauer. Getting some of the city;s
+  finest involved, including Yant and Meat Free;s very own aalice and Lucy
+  Ironmonger, there is no doubt that this would have been a night to remember.
+  While we [...]Read More...
 published: true
 tags: interview
 featured: false

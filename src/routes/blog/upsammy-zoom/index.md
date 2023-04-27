@@ -14,7 +14,7 @@ description: >-
   upsammy&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
   Zoom, the anticipated full length album from upsammy, lives up to
   expectations. In many ways, this LP is typical of the signature style Thessa
-  Torsing has crafted in mixes over the last few years &#8211; such as those for
+  Torsing has crafted in mixes over the last few years ; such as those for
   Dekmantel Festival. Building on her previous release (Branches on Ice on Die
   [...]Read More...
 published: true

@@ -9,11 +9,11 @@ banner:
   - >-
     imported/nanas-sunday-jams-image-of-you-red-snapper-ft-alison-david/image1318.jpeg
 description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Sunday Jammers. Hello, feels like it&rsquo;s
-  been a minute since my last long word. Thanks, so much to Patron Will Soer for
-  stepping in&nbsp;last week and for the most beautiful jam by the incredible
-  Nilufer Yanya&#8211; heart heart heart. [...]Read More...
+  Banner artwork by the majestic Trav, all of Nana;s jams are gathered in;this
+  playlist. Yes Yes Sunday Jammers. Hello, feels like it;s been a minute since
+  my last long word. Thanks, so much to Patron Will Soer for stepping in;last
+  week and for the most beautiful jam by the incredible Nilufer Yanya; heart
+  heart heart. [...]Read More...
 published: true
 tags: feature
 featured: false

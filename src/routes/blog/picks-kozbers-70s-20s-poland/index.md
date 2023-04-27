@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/picks-kozbers-70s-20s-poland/image1157.jpeg
 description: >-
-  For this week&rsquo;s edition of Picks, we have a close friend of the Loose
-  Lips family, a DJ, producer and member of the next-level psychedelic duo
+  For this week;s edition of Picks, we have a close friend of the Loose Lips
+  family, a DJ, producer and member of the next-level psychedelic duo
   Bonasforsa, here he takes us on a &lsquo;lil weird historical journey, with a
-  modern rebel anti-Communism touch.&rsquo; All the spotify-able tracks are
-  gathered here. Take it away, Kozber! I [...]Read More...
+  modern rebel anti-Communism touch.; All the spotify-able tracks are gathered
+  here. Take it away, Kozber! I [...]Read More...
 published: true
 tags: feature
 featured: false
