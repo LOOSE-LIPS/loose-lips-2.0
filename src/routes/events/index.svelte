@@ -1,11 +1,3 @@
-<!-- HOME PAGE OF WEBSITE
-
-
-
-
-
-
- -->
 <script lang="ts" context="module">
   /**
    * @type {import('@sveltejs/kit').Load}
@@ -51,18 +43,19 @@
     Upcoming Events
   </h2>
 
-
   <h2
     class="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white"
   >
     Past Events
   </h2>
-  <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5">
+  <div
+    class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 justify-between gap-5"
+  >
     {#if events.length > 0}
-    {#each events as event}
-      <EventPost {event} />
-    {/each}
-  {/if}
+      {#each events as event}
+        <EventPost {event} />
+      {/each}
+    {/if}
   </div>
 
   <a href="events" class="viewAll">
