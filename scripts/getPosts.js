@@ -106,18 +106,20 @@ for (let i = 1; i < totalPages; i++) {
           const urlForTag = post.link;
           const extract = urlForTag.split("/")[3];
           // console.log(extract, "extract"); // Output: "release-review"
-          // let symbolsToReplace = [
-          //   "&#39",
-          //   "&#8211",
-          //   "&rsquo",
-          //   "&nbsp",
-          //   "&#8217",
-          // ];
+          let symbolsToReplace = [
+            "&#39",
+            "&#8211",
+            "&rsquo",
+            "&nbsp",
+            "&#8217",
+          ];
 
-          // symbolsToReplace.forEach((symbol) => {
-          //   console.log(symbol, "symbol");
-          //   console.log(post.yoast_head_json.description, "description");
-          // });
+          symbolsToReplace.forEach((symbol) => {
+            post.content.rendered = post.content.rendered.replace(
+              new RegExp(symbol, "g"),
+              "'"
+            );
+          });
 
           const data = {
             id: post.id,
