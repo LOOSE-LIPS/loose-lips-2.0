@@ -8,11 +8,11 @@ author: 122
 banner:
   - imported/dnb-fix-037-san-half-in-rua010/image1333.jpeg
 description: >-
-  This week&#39;s DnB Fix has gone a bit off key; with our own Morgan stepping
-  away from the vinyl only &ldquo;proper Jungle&quot; selects that usually grasp
-  his attention, and into the proverbial dark side with a release on Rua Sound
-  from the enigmatic San. Bristol based producer San&#39;s (who at this point;
-  is nothing short [...]Read More...
+  This week;s DnB Fix has gone a bit off key; with our own Morgan stepping away
+  from the vinyl only &ldquo;proper Jungle&quot; selects that usually grasp his
+  attention, and into the proverbial dark side with a release on Rua Sound from
+  the enigmatic San. Bristol based producer San;s (who at this point; is nothing
+  short [...]Read More...
 published: true
 tags: feature
 featured: false

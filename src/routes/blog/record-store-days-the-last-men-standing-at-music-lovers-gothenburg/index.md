@@ -11,11 +11,11 @@ banner:
   - >-
     imported/record-store-days-the-last-men-standing-at-music-lovers-gothenburg/image1138.jpeg
 description: >-
-  Anders Bj&ouml;rnsson picks up the phone and explains he&rsquo;s just about to
-  open for the day. The thought of someone standing behind a counter ready to
-  chat shop and sounds with customers is a welcome break from the constant
-  barrage of furloughed photos we are now accustomed to.&nbsp; Following the
-  outbreak of COVID-19 Sweden didn&rsquo;t [...]Read More...
+  Anders Bj&ouml;rnsson picks up the phone and explains he;s just about to open
+  for the day. The thought of someone standing behind a counter ready to chat
+  shop and sounds with customers is a welcome break from the constant barrage of
+  furloughed photos we are now accustomed to.; Following the outbreak of
+  COVID-19 Sweden didn;t [...]Read More...
 published: true
 tags: feature
 featured: false

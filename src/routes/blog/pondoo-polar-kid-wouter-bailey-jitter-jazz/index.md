@@ -10,8 +10,8 @@ description: >-
   This smokey, dusty live improvisation takes one side of this cassette, filled
   with glimpsesof late night empty streets as well as moments of claustrophobia,
   zoning out, weightlessness and more..A soundtrack for your brain, printed on
-  magnetic tape. From Pondoo &amp; Polar Kid&#39;s Wouter Bailey EP on Jitter
-  Jazz. Out 25.05 on limited cassette &#8211;
+  magnetic tape. From Pondoo &amp; Polar Kid;s Wouter Bailey EP on Jitter Jazz.
+  Out 25.05 on limited cassette ;
   https://jitterjazzrecords.bandcamp.com/album/wouter-bailey [...]Read More...
 published: true
 tags: premiere

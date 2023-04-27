@@ -8,11 +8,11 @@ author: 164
 banner:
   - imported/niluefer-yanya-at-earth-hackney-090419/image804.jpeg
 description: >-
-  Reading Nil&uuml;fer&rsquo;s&nbsp;Loud &amp; Quiet cover feature, it was hard
-  to imagine what her music would sound like. She&rsquo;s supported Interpol,
-  sports riffs that wouldn&rsquo;t sound out of place in a Hard-fi record, but
-  also has a &lsquo;signature crisp jazzy guitar sound&rsquo;. How do you make
-  room for jazzy crispness at the NME/Radio 1 stage? And [...]Read More...
+  Reading Nil&uuml;fer;s;Loud &amp; Quiet cover feature, it was hard to imagine
+  what her music would sound like. She;s supported Interpol, sports riffs that
+  wouldn;t sound out of place in a Hard-fi record, but also has a
+  &lsquo;signature crisp jazzy guitar sound;. How do you make room for jazzy
+  crispness at the NME/Radio 1 stage? And [...]Read More...
 published: true
 tags: event-review
 featured: false

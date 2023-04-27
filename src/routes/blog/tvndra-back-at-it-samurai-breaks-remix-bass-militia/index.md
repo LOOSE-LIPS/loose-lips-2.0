@@ -9,15 +9,15 @@ banner:
   - imported/tvndra-back-at-it-samurai-breaks-remix-bass-militia/image1131.jpeg
 description: >-
   Samurai Breaks takes us on a hi-energy mission across hyperbass/footworkian
-  territories in this spin of TVNDRA&#39;s original! TVNDRA&#39;s Interference:
-  The Remixes&nbsp;on Bass Militia Records. Out 26.05.2020 on digital
-  &#8211;&nbsp;https://fanlink.to/bmr009
+  territories in this spin of TVNDRA;s original! TVNDRA;s Interference: The
+  Remixes;on Bass Militia Records. Out 26.05.2020 on digital
+  ;;https://fanlink.to/bmr009
   https://soundcloud.com/bassmilitiarecordshttps://www.facebook.com/bassmilitiacollectivehttps://soundcloud.com/tvndramusichttps://soundcloud.com/samuraibreaks
   (Taken
-  from&nbsp;https://threethousand.co.uk/we-premiere-tvndras-new-feature-on-the-latest-bass-militia-compilation)
-  After presenting their debut EP &#39;Interference&#39; with Bass Militia
-  Records back in October, TVNDRA have since joined forces with some of the
-  labels [...]Read More...
+  from;https://threethousand.co.uk/we-premiere-tvndras-new-feature-on-the-latest-bass-militia-compilation)
+  After presenting their debut EP ;Interference; with Bass Militia Records back
+  in October, TVNDRA have since joined forces with some of the labels [...]Read
+  More...
 published: true
 tags: premiere
 featured: false

@@ -12,7 +12,7 @@ description: >-
   and undefined electronics for over 10 years now. Adorned in a menacing mask
   and helmet, his hallucinatory electro has steadily absorbed listeners from all
   types of musical background like a maelstrom of psychedelic liberation.
-  Kastner&rsquo;s dynamism has only really begun to leave its mark on [...]Read
+  Kastner;s dynamism has only really begun to leave its mark on [...]Read
   More...
 published: true
 tags: review

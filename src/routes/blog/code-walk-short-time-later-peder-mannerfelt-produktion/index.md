@@ -11,8 +11,8 @@ banner:
 description: >-
   Danish duo Code Walk bring us deep down, into subterranean ends to see
   ourselves gliding on a raw sub bass that meanders along cavernous
-  incantations. From Code Walk&#39;s Separate EP part of Phases Triptych on
-  Peder Mannerfelt Produktion. Out 14.09.2020 on digital &#8211; Pre-order:
+  incantations. From Code Walk;s Separate EP part of Phases Triptych on Peder
+  Mannerfelt Produktion. Out 14.09.2020 on digital ; Pre-order:
   https://pedermannerfeltproduktion.bandcamp.com/album/separate
   https://soundcloud.com/the-subliminal-kidhttps://soundcloud.com/codewalk
   [...]Read More...

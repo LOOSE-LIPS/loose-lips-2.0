@@ -10,9 +10,9 @@ banner:
 description: >-
   Treece is back again this time for his 5th edition of Rap Up, introducing you
   to his favourite new wordplay since the beginning of Lockdown. If you missed
-  the last edition, he reviewed Future&rsquo;s contemporary classic; &#39;High
-  Off Life&#39;. This time round, heading back to Memphis, a city currently
-  going through a renaissance and outputting [...]Read More...
+  the last edition, he reviewed Future;s contemporary classic; ;High Off Life;.
+  This time round, heading back to Memphis, a city currently going through a
+  renaissance and outputting [...]Read More...
 published: true
 tags: feature
 featured: false

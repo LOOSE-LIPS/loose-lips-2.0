@@ -9,8 +9,8 @@ banner:
   - imported/ssslip-ground-control-ssva001/image1101.jpeg
 description: >-
   SSSLIP delivers here a shiny 2-Step number with classic RnB vocals! From
-  Flavours For The Dance&nbsp;Vol.1&nbsp;V/A compilation on&nbsp;Slippery
-  Sounds. Out now on digital &#8211; Pre-order:
+  Flavours For The Dance;Vol.1;V/A compilation on;Slippery Sounds. Out now on
+  digital ; Pre-order:
   https://slipperysounds.bandcamp.com/album/slippery-sounds-presents-flavours-for-the-dance-vol-1
   https://soundcloud.com/sssliphttps://soundcloud.com/slipperysounds To
   celebrate a year of Slippery Sounds, friends of the label contributed tracks

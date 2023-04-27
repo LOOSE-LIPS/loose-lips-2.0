@@ -9,11 +9,10 @@ banner:
   - imported/elmc-melt/image947.jpeg
 description: >-
   MELT is a fresh compilation released by the ELM Collective in digital format
-  and limited edition cassette tapes (only 20 tapes &#8211; celebrating
-  ELMC&rsquo;s 20th release &#8211; congratulations!). It features 14 artists
-  whose tracks represent a fine selection of the underground electronic music,
-  broadly labeled as Braindance / IDM. It also features very lush psychedelic
-  [...]Read More...
+  and limited edition cassette tapes (only 20 tapes ; celebrating ELMC;s 20th
+  release ; congratulations!). It features 14 artists whose tracks represent a
+  fine selection of the underground electronic music, broadly labeled as
+  Braindance / IDM. It also features very lush psychedelic [...]Read More...
 published: true
 tags: release-review
 featured: false

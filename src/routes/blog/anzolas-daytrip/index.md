@@ -9,11 +9,10 @@ banner:
   - imported/anzolas-daytrip/image1353.jpeg
 description: >-
   Well hello there sweet friends of mine! I recently got a noise complaint from
-  my downstairs neighbours; I&#39;ve been blasting house and techno everyday in
-  an attempt to induce productivity, particularly Moxie&#39;s show on NTS,
-  particularly an&nbsp;episode&nbsp;with a guest mix by Pursuit Grooves, a
-  fantastic Canadian DJ whose mix put me onto a fantastic Canadian [...]Read
-  More...
+  my downstairs neighbours; I;ve been blasting house and techno everyday in an
+  attempt to induce productivity, particularly Moxie;s show on NTS, particularly
+  an;episode;with a guest mix by Pursuit Grooves, a fantastic Canadian DJ whose
+  mix put me onto a fantastic Canadian [...]Read More...
 published: true
 tags: picks
 featured: false

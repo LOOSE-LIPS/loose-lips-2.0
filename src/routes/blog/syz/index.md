@@ -8,12 +8,12 @@ author: 69
 banner:
   - imported/syz/image1142.jpeg
 description: >-
-  &ldquo;It&rsquo;s All DIY, You Know?&rdquo; LL Speaks To Syz As co-founder of
-  multimedia collective&nbsp;Method Lab, Oli Samways has been throwing dances in
-  the basements and dark rooms of Bristol since 2015. Under
-  his&nbsp;Syz&nbsp;moniker, Oli&rsquo;s singular take on intricate UK techno
-  and unearthly bass music has seen physical release on fellow Bristol
-  imprints&nbsp;Pressure Dome&nbsp;and&nbsp;Only Ruins. On [...]Read More...
+  &ldquo;It;s All DIY, You Know?&rdquo; LL Speaks To Syz As co-founder of
+  multimedia collective;Method Lab, Oli Samways has been throwing dances in the
+  basements and dark rooms of Bristol since 2015. Under his;Syz;moniker, Oli;s
+  singular take on intricate UK techno and unearthly bass music has seen
+  physical release on fellow Bristol imprints;Pressure Dome;and;Only Ruins. On
+  [...]Read More...
 published: true
 tags: interview
 featured: false

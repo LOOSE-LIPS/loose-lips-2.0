@@ -9,11 +9,11 @@ banner:
   - >-
     imported/nanas-sunday-jams-patience-and-fortitude-valaida-snow/image1325.jpeg
 description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Sunday jammers. Warm greetings and salutations
-  the big fizzy, sherbet dipped kind. So, the last few days have been spent in a
-  medium sized dive into early jazz and the pioneers who gave birth to the
-  various forms. Such [...]Read More...
+  Banner artwork by the majestic Trav, all of Nana;s jams are gathered in;this
+  playlist. Yes Yes Sunday jammers. Warm greetings and salutations the big
+  fizzy, sherbet dipped kind. So, the last few days have been spent in a medium
+  sized dive into early jazz and the pioneers who gave birth to the various
+  forms. Such [...]Read More...
 published: true
 tags: feature
 featured: false

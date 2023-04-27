@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/picks-longeez-nu-ukg-essentials/image1219.jpeg
 description: >-
-  Why do people make music that isn&rsquo;t UKG? The perfect musical genre
-  exists and yet musicians keep on making Folk, Tech-House, Opera, it&rsquo;s
-  like they just don&rsquo;t know, which would make no sense for anyone with
-  functioning ears and feet. Well praise the lord, we have the Bristol UKG fiend
-  and 1020 Radio studio hand [...]Read More...
+  Why do people make music that isn;t UKG? The perfect musical genre exists and
+  yet musicians keep on making Folk, Tech-House, Opera, it;s like they just
+  don;t know, which would make no sense for anyone with functioning ears and
+  feet. Well praise the lord, we have the Bristol UKG fiend and 1020 Radio
+  studio hand [...]Read More...
 published: true
 tags: feature
 featured: false

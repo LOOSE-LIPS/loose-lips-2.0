@@ -8,11 +8,10 @@ author: 100
 banner:
   - imported/dj-sorry-im-sorry-i-never-loved-you-cog1/image1251.jpeg
 description: >-
-  Dirty, raw and unapologetic, I&#39;m Sorry I Never Loved You&nbsp;is a
-  heartfelt, claustrophobic track that doesn&#39;t let your sorrows get in the
-  way of a good air punch. From DJ Sorry and Likvidator&#39;s Club of Gore
-  №1&nbsp;split EP on Club of Gore. Out 10.09.2020 on limited cassette and
-  digital &#8211; Pre-order:
+  Dirty, raw and unapologetic, I;m Sorry I Never Loved You;is a heartfelt,
+  claustrophobic track that doesn;t let your sorrows get in the way of a good
+  air punch. From DJ Sorry and Likvidator;s Club of Gore №1;split EP on Club of
+  Gore. Out 10.09.2020 on limited cassette and digital ; Pre-order:
   https://clubofgore.bandcamp.com/album/club-of-gore-1
   https://soundcloud.com/clubofgorehttps://soundcloud.com/frekvenciihttps://soundcloud.com/sorrylovers
   [...]Read More...

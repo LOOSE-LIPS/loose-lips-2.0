@@ -8,13 +8,12 @@ author: 85
 banner:
   - imported/va-mt-usb01-metamaterial-mint-tea-records/image887.jpeg
 description: >-
-  With Metamaterial&nbsp;(MT USB01), Mint Tea Records flies in from outer-space,
+  With Metamaterial;(MT USB01), Mint Tea Records flies in from outer-space,
   bringing forth galactic sounds with a vintage feel. Packed into a
   spaceship-like custom USB stick, this 8-track release is an exciting display
-  of the Bristol-based label&rsquo;s vision of the future. Tracks from&nbsp;El
-  Choop&nbsp;and&nbsp;Ornamental&nbsp;initiate lift-off.&nbsp;Random
-  Cell&rsquo;s&nbsp;synth stabs echo and crackle before a kick drum lumbers in,
-  [...]Read More...
+  of the Bristol-based label;s vision of the future. Tracks from;El
+  Choop;and;Ornamental;initiate lift-off.;Random Cell;s;synth stabs echo and
+  crackle before a kick drum lumbers in, [...]Read More...
 published: true
 tags: release-review
 featured: false

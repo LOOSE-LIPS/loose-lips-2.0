@@ -9,11 +9,11 @@ banner:
   - imported/antoine-bobicz-escalateur-dans-la-ciel-bau053/image1091.jpeg
 description: >-
   Unbelievably catchy, this caustic piece is a blend of Synthwave meets Psyche
-  Pop meets Musique Concrete &#8211; wouldn&#39;t feel out of place on a Wes
-  Anderson movie soundtrack! From KEDI 2 V/A compilation on baumusik. Out now on
-  3D-printed USB and digital download &#8211; Order:
+  Pop meets Musique Concrete ; wouldn;t feel out of place on a Wes Anderson
+  movie soundtrack! From KEDI 2 V/A compilation on baumusik. Out now on
+  3D-printed USB and digital download ; Order:
   https://baumusik.bandcamp.com/album/kedi-2-2 https://soundcloud.com/baumusik
-  When Antoine Bobicz&#39;s parents moved from Czech to [...]Read More...
+  When Antoine Bobicz;s parents moved from Czech to [...]Read More...
 published: true
 tags: premiere
 featured: false

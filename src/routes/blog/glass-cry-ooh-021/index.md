@@ -8,10 +8,10 @@ author: 100
 banner:
   - imported/glass-cry-ooh-021/image1254.jpeg
 description: >-
-  Title track of the release, crY&nbsp;is a continuously evolving piece,
-  shifting grooves as diverse percussing elements collide with growling, grimey
-  pads, creating an intriguing futuristic environment. From Glass&#39; crY EP on
-  OOH-sounds. Out 18.09.2020 on digital &#8211; Pre-order:
+  Title track of the release, crY;is a continuously evolving piece, shifting
+  grooves as diverse percussing elements collide with growling, grimey pads,
+  creating an intriguing futuristic environment. From Glass; crY EP on
+  OOH-sounds. Out 18.09.2020 on digital ; Pre-order:
   https://ooh-sounds.bandcamp.com/album/glass-cry
   https://soundcloud.com/ooh-soundshttps://soundcloud.com/glassglassmusic
   [...]Read More...

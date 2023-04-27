@@ -10,12 +10,12 @@ banner:
 description: >-
   &amp;amp;lt;a
   href=&#8221;http://brainrays.bandcamp.com/album/brain-rays-parish-news-inner-freak-feat-dan-jose&#8221;&amp;amp;gt;Brain
-  Rays &amp;amp;amp;amp; Parish News &#8211; Inner Freak (feat. Dan Jose) by
-  Brain Rays &amp;amp;amp;amp; Parish News&amp;amp;lt;/a&amp;amp;gt; Last Friday
-  saw the release of a brand-new project from award-winning filmmaker Max Sobol
-  and motion-designer Matt Osborne. The pair have created a unique video project
-  &#8211; featuring the latest single by the UK-based producers and DJs-
-  [...]Read More...
+  Rays &amp;amp;amp;amp; Parish News ; Inner Freak (feat. Dan Jose) by Brain
+  Rays &amp;amp;amp;amp; Parish News&amp;amp;lt;/a&amp;amp;gt; Last Friday saw
+  the release of a brand-new project from award-winning filmmaker Max Sobol and
+  motion-designer Matt Osborne. The pair have created a unique video project ;
+  featuring the latest single by the UK-based producers and DJs- [...]Read
+  More...
 published: true
 tags: release-review
 featured: false

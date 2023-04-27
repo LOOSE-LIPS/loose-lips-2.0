@@ -10,10 +10,9 @@ banner:
 description: >-
   Oshimi Drift is a slick UK Bass number flirting between classic oldskool
   Dubstep/Grime from the non-halfstep era and more contemporary urban sounds and
-  styles, definitely geared towards busy dancefloors! From Rizla Ops&#39; RK002
-  EP on ROADKILL. Out 25.07.2020 on digital &#8211;
-  https://roadkilluk.bandcamp.com https://soundcloud.com/roadkill_uk [...]Read
-  More...
+  styles, definitely geared towards busy dancefloors! From Rizla Ops; RK002 EP
+  on ROADKILL. Out 25.07.2020 on digital ; https://roadkilluk.bandcamp.com
+  https://soundcloud.com/roadkill_uk [...]Read More...
 published: true
 tags: premiere
 featured: false

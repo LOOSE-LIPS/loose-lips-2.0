@@ -11,10 +11,10 @@ banner:
   - >-
     imported/khalil-anthony-misty-morning-rimarkable-remix-black-beacon-sound/image1158.jpeg
 description: >-
-  Rimarkable reworks Khalil Anthony&#39;s Misty Morning; a catchy piece that
-  oozes of sunshine and hazy fragrances of Afrobeat and House! From Khalil
-  Anthony&#39;s SCARAB remix album on Black Beacon Sound (in conjunction with
-  Urban Folk Music). Out 09.06 on digital &#8211; Pre-order:
+  Rimarkable reworks Khalil Anthony;s Misty Morning; a catchy piece that oozes
+  of sunshine and hazy fragrances of Afrobeat and House! From Khalil Anthony;s
+  SCARAB remix album on Black Beacon Sound (in conjunction with Urban Folk
+  Music). Out 09.06 on digital ; Pre-order:
   https://blackbeaconsoundintl.bandcamp.com/album/scarab
   https://soundcloud.com/khalil-anthonyhttps://soundcloud.com/iamrimarkablehttps://www.facebook.com/blackbeaconsoundintl
   In solidarity to the black community in the midst of recent [...]Read More...

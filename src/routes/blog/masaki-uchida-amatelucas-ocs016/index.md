@@ -9,9 +9,9 @@ banner:
   - imported/masaki-uchida-amatelucas-ocs016/image1141.jpeg
 description: >-
   Masaki Uchida drives us into a world of light and darkness, silence and noise.
-  A perfectly balanced, yet powerful track, that keeps the listener&#39;s
-  attention until the end.&nbsp; From Masaki Uchida&#39;s Amatelucas&nbsp;EP on
-  Our Circular Sound. Out 29.05 on 12&quot; and digital &#8211; Pre-order:
+  A perfectly balanced, yet powerful track, that keeps the listener;s attention
+  until the end.; From Masaki Uchida;s Amatelucas;EP on Our Circular Sound. Out
+  29.05 on 12&quot; and digital ; Pre-order:
   https://ourcircularsound.bandcamp.com/album/amatelucas
   https://soundcloud.com/ourcircularsoundhttps://soundcloud.com/masaki-2
   [...]Read More...

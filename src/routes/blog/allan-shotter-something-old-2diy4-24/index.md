@@ -9,10 +9,10 @@ banner:
   - imported/allan-shotter-something-old-2diy4-24/image1104.jpeg
 description: >-
   A dark, dreamy piece sitting between Dark/Synthwave and Minimal House. From
-  Allan Shotter&#39;s Das Gift EP on 2DIY4. Out 8.05.2020 on digital &#8211;
-  Pre-order: https://www.beatport.com/release/das-gift/2937376
+  Allan Shotter;s Das Gift EP on 2DIY4. Out 8.05.2020 on digital ; Pre-order:
+  https://www.beatport.com/release/das-gift/2937376
   https://soundcloud.com/2diy4https://soundcloud.com/allanshotter-music Allan
-  Shotter&rsquo;s second EP on 2DIY4 tells his very personal story of that
+  Shotter;s second EP on 2DIY4 tells his very personal story of that
   excruciating question that reads &ldquo;What if I had been more present? Could
   I have contributed to [...]Read More...
 published: true

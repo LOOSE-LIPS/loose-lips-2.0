@@ -12,10 +12,10 @@ description: >-
   href=&#8221;http://blaklab.bandcamp.com/album/nuit-miel-ep&#8221;&amp;amp;amp;amp;amp;amp;amp;gt;Nuit
   Miel EP by Naom,
   Djosh&amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;gt; One of
-  North America&rsquo;s shining stars on the global minimal stage, All Blak
-  Records are excited to announce a new sub-label &#8211; Blaklab. What began as
-  a series of parties across Toronto has grown into a bustling musical community
-  and platform.&nbsp; I must admit I have a soft-spot [...]Read More...
+  North America;s shining stars on the global minimal stage, All Blak Records
+  are excited to announce a new sub-label ; Blaklab. What began as a series of
+  parties across Toronto has grown into a bustling musical community and
+  platform.; I must admit I have a soft-spot [...]Read More...
 published: true
 tags: release-review
 featured: false

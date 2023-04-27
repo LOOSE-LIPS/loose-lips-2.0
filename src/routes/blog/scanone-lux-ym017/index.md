@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/scanone-lux-ym017/image1163.jpeg
 description: >-
-  ScanOne&#39;s explorations of the deep and jazzy side of Drum n Bass, within a
-  definite Noir/Cyberpunk world.Lux&#39;s intricate drum programming is
-  augmented by an incredibly sexy saxophone and soft, floating pads, getting
-  even warmer when a brass section comes in near the end! From ScanOne&#39;s
-  BRAEK EP on Yellow Machines. Out now on 12&quot; and [...]Read More...
+  ScanOne;s explorations of the deep and jazzy side of Drum n Bass, within a
+  definite Noir/Cyberpunk world.Lux;s intricate drum programming is augmented by
+  an incredibly sexy saxophone and soft, floating pads, getting even warmer when
+  a brass section comes in near the end! From ScanOne;s BRAEK EP on Yellow
+  Machines. Out now on 12&quot; and [...]Read More...
 published: true
 tags: premiere
 featured: false

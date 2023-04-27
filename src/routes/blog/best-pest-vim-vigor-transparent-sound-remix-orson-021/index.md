@@ -8,9 +8,9 @@ author: 100
 banner: []
 description: >-
   Transparent Sound are delivering a highly euphoric, climaxical rendition of
-  Best Pest&#39;s original Electro Acid number. From&nbsp;Ben Pest&#39;s Vim
-  &amp; Vigor EP on Orson Records. Out soon on 12&quot; and digital &#8211;
-  Pre-order: https://www.juno.co.uk/products/ben-pest-vim-vigour-ep/785108-01/
+  Best Pest;s original Electro Acid number. From;Ben Pest;s Vim &amp; Vigor EP
+  on Orson Records. Out soon on 12&quot; and digital ; Pre-order:
+  https://www.juno.co.uk/products/ben-pest-vim-vigour-ep/785108-01/
   https://soundcloud.com/orsonrecordshttps://soundcloud.com/benpesthttps://soundcloud.com/transparent-sound
   [...]Read More...
 published: true

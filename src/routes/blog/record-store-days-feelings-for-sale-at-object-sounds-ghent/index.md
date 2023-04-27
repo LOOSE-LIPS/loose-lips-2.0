@@ -12,10 +12,10 @@ banner:
     imported/record-store-days-feelings-for-sale-at-object-sounds-ghent/image1370.jpeg
 description: >-
   No matter which side your brain has been buttered on recently, most would
-  think you&rsquo;d have to be several slices short of a loaf to start a vinyl
-  shop in the middle of a global pandemic. But that&rsquo;s what Aimee Lara
-  Bacallan and Alec Seynaeve decided to do shortly after Belgium was plunged
-  into lockdown [...]Read More...
+  think you;d have to be several slices short of a loaf to start a vinyl shop in
+  the middle of a global pandemic. But that;s what Aimee Lara Bacallan and Alec
+  Seynaeve decided to do shortly after Belgium was plunged into lockdown
+  [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -8,11 +8,11 @@ author: 164
 banner:
   - imported/nanas-sunday-jams-2020-retrospective/image1371.jpeg
 description: >-
-  [Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered in
-  this playlist.] What&rsquo;s up Sunday Jammers! This is your editor Will Soer
-  speaking. Our weekly Sunday Jams feature has been running since long before I
-  joined the team in early 2018, I took over as editor about a year ago, and
-  just [...]Read More...
+  [Banner artwork by the majestic Trav, all of Nana;s jams are gathered in this
+  playlist.] What;s up Sunday Jammers! This is your editor Will Soer speaking.
+  Our weekly Sunday Jams feature has been running since long before I joined the
+  team in early 2018, I took over as editor about a year ago, and just [...]Read
+  More...
 published: true
 tags: feature
 featured: false

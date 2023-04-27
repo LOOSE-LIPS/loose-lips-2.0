@@ -9,7 +9,7 @@ banner:
   - >-
     imported/report-to-the-dancefloor-a-look-into-weareviables-mission/image1337.jpeg
 description: >-
-  &lsquo;Our culture is at risk&rsquo;. These words, written in bold on the
+  &lsquo;Our culture is at risk;. These words, written in bold on the
   WeAreViable website are, especially after reading their accompanying mission
   statement, hard to disagree with. You can look up the reasons given as to why
   so many clubs and live venues across the UK have had their licences stripped

@@ -8,11 +8,11 @@ author: 70
 banner:
   - imported/rs-records-in-order-to-care/image1126.jpeg
 description: >-
-  In Order To Care by R&#038;S Records&nbsp; It&rsquo;s nice when communities
-  come together for a good cause. Only a label with a towering presence like
-  R&amp;S Records could have the resources to gather 43 tracks &ndash; almost 4
-  hours &ndash; of brand new music from so many spheres of electronic music.
-  It&rsquo;s raised over &pound;35,000 [...]Read More...
+  In Order To Care by R&#038;S Records; It;s nice when communities come together
+  for a good cause. Only a label with a towering presence like R&amp;S Records
+  could have the resources to gather 43 tracks &ndash; almost 4 hours &ndash; of
+  brand new music from so many spheres of electronic music. It;s raised over
+  &pound;35,000 [...]Read More...
 published: true
 tags: review
 featured: false

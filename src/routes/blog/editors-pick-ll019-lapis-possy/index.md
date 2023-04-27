@@ -8,12 +8,11 @@ author: 138
 banner:
   - imported/editors-pick-ll019-lapis-possy/image1314.jpeg
 description: >-
-  This week for Editors&#39; Pick, microminimal records founding resident
-  &#8211; Meaney selects Lapis&rsquo; collaboration with the infamous Dr.
-  Pudding. The original track is an etherial melange of warming synths, soothing
-  vocals and uplifting tones &#8211; followed by an excellent remix from
-  St-Petersburg-based artist &#8211; Nuage. This remix retains a lot of the
-  calming motifs of [...]Read More...
+  This week for Editors; Pick, microminimal records founding resident ; Meaney
+  selects Lapis; collaboration with the infamous Dr. Pudding. The original track
+  is an etherial melange of warming synths, soothing vocals and uplifting tones
+  ; followed by an excellent remix from St-Petersburg-based artist ; Nuage. This
+  remix retains a lot of the calming motifs of [...]Read More...
 published: true
 tags: feature
 featured: false

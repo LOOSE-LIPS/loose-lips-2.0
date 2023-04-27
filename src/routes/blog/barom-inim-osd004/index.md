@@ -9,9 +9,8 @@ banner:
   - imported/barom-inim-osd004/image1290.jpeg
 description: >-
   A positive Grime-infused piece oscillating between waves of euphoria and cosy,
-  gentle percussive melodies. From Barom&#39;s don&#39;t leave, never arrive
-  please&nbsp;on Off-Switch Audio. Out now on digital &#8211;
-  https://offswitchaudio.bandcamp.com
+  gentle percussive melodies. From Barom;s don;t leave, never arrive please;on
+  Off-Switch Audio. Out now on digital ; https://offswitchaudio.bandcamp.com
   https://soundcloud.com/offswitchaudiohttps://soundcloud.com/barom [...]Read
   More...
 published: true

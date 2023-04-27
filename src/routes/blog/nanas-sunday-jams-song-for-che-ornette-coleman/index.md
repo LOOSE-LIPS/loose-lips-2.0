@@ -8,11 +8,10 @@ author: 125
 banner:
   - imported/nanas-sunday-jams-song-for-che-ornette-coleman/image1331.jpeg
 description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Yes Sunday Jammers. Welcome and hello to you
-  and you and you. Hope you are well, staying safe and managing to stay sane.
-  Just want to send a shout out to some lovely people who sent me some kind
-  [...]Read More...
+  Banner artwork by the majestic Trav, all of Nana;s jams are gathered in;this
+  playlist. Yes Yes Yes Sunday Jammers. Welcome and hello to you and you and
+  you. Hope you are well, staying safe and managing to stay sane. Just want to
+  send a shout out to some lovely people who sent me some kind [...]Read More...
 published: true
 tags: feature
 featured: false

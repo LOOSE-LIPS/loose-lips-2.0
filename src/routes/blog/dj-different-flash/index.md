@@ -9,8 +9,8 @@ banner:
   - imported/dj-different-flash/image824.jpeg
 description: >-
   A fresh vision of New Jack and RnB, beamed out from a nostalgia that has yet
-  to happen. From DJ DIFFERENT&#39;s Vision album. Out 30.07 on digital &#8211;
-  Pre-order: https://djdifferent.bandcamp.com/album/visions
+  to happen. From DJ DIFFERENT;s Vision album. Out 30.07 on digital ; Pre-order:
+  https://djdifferent.bandcamp.com/album/visions
   https://soundcloud.com/adifferentdj [...]Read More...
 published: true
 tags: premiere

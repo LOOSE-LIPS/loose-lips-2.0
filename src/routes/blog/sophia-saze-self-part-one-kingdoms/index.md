@@ -10,7 +10,7 @@ banner:
 description: >-
   Tbilisi-born Georgian artist Sophia Saze released the first part of her debut
   two-part album Self on Francis Harris&acute; imprint Kingdoms. Self (part
-  one)&nbsp;comprises a reflection of her struggles in life and expresses her
+  one);comprises a reflection of her struggles in life and expresses her
   experiences of growing up as a daughter of political refugees. Living in
   several different places, such as Russia, the United States, France, [...]Read
   More...

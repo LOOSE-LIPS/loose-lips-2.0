@@ -12,7 +12,7 @@ description: >-
   2018 to April 2019 &ndash; The 140 Roundup. Back then I was exploring
   producers who were working fluidly in between styles of 140BPM bass music,
   such as grime and dubstep. The problem with this approach was that many of
-  these artists aren&rsquo;t [...]Read More...
+  these artists aren;t [...]Read More...
 published: true
 tags: monthly-feature
 featured: false

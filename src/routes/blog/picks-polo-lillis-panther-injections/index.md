@@ -10,10 +10,10 @@ banner:
 description: >-
   This week, we invite the twisted pop provocateur, Bristolian DJ and producer
   Polo Lilli, fresh from the release of their transcendant breakbeat,
-  Pink-Floyd-on-pingers face-splash&nbsp;&#39;The Great Bootleg In The Sky&#39;
-  (out now on&nbsp;bandcamp). All Spotify-able tracks are gathered in&nbsp;this
-  playlist, take it away Prime Minister Polo&#8230; I like to think of a DJ set
-  as an [...]Read More...
+  Pink-Floyd-on-pingers face-splash;;The Great Bootleg In The Sky; (out now
+  on;bandcamp). All Spotify-able tracks are gathered in;this playlist, take it
+  away Prime Minister Polo&#8230; I like to think of a DJ set as an [...]Read
+  More...
 published: true
 tags: feature
 featured: false

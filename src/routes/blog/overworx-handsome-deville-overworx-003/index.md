@@ -8,10 +8,10 @@ author: 100
 banner:
   - imported/overworx-handsome-deville-overworx-003/image1060.jpeg
 description: >-
-  Another instalment of Ben Pest&#39;s OverworX project! Excerpt from the
-  forthcoming 3rd EP in the series, Handsome Deville&nbsp;is a dark, gutty and
-  unrelenting piece of high-octane Techno Funk! From OverworX 003&nbsp;on
-  OverworX. Out 10.04 on limited 12&quot; and digital &#8211; Pre-order:
+  Another instalment of Ben Pest;s OverworX project! Excerpt from the
+  forthcoming 3rd EP in the series, Handsome Deville;is a dark, gutty and
+  unrelenting piece of high-octane Techno Funk! From OverworX 003;on OverworX.
+  Out 10.04 on limited 12&quot; and digital ; Pre-order:
   https://overworx.bandcamp.com/album/overworx-003
   https://soundcloud.com/overworxhttps://www.facebook.com/overworxmusic/
   [...]Read More...

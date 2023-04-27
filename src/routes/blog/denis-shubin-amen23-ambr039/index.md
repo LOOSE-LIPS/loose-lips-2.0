@@ -8,12 +8,11 @@ author: 100
 banner:
   - imported/denis-shubin-amen23-ambr039/image1184.jpeg
 description: >-
-  In these rather strange times, who doesn&#39;t need some sweetness?
-  Amen23&nbsp;is a strong cure to palliate that;light and positive vibe, sliding
-  over a warm bassline all along, soothing and energising. From Denis
-  Shubin&#39;s STR8 EP on Amber Muse. Out 10.07 on digital via Trax Source,
-  24.07 via other online shops &#8211; Pre-order:
-  https://www.traxsource.com/title/1366631/str8-ep
+  In these rather strange times, who doesn;t need some sweetness? Amen23;is a
+  strong cure to palliate that;light and positive vibe, sliding over a warm
+  bassline all along, soothing and energising. From Denis Shubin;s STR8 EP on
+  Amber Muse. Out 10.07 on digital via Trax Source, 24.07 via other online shops
+  ; Pre-order: https://www.traxsource.com/title/1366631/str8-ep
   https://soundcloud.com/ambermusehttps://soundcloud.com/denisshubin [...]Read
   More...
 published: true

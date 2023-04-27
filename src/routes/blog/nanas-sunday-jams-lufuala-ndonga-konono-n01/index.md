@@ -8,11 +8,11 @@ author: 125
 banner:
   - imported/nanas-sunday-jams-lufuala-ndonga-konono-n01/image1224.jpeg
 description: >-
-  Artwork by the majestic&nbsp;Trav Yes Yes and Yes Sunday Jammers and welcome.
-  Hope all is good at your end and whatever it is may it be sublime and soulful.
-  So, for the next few episodes I am choosing artists/music from particular
-  labels that should feature somewhere on one of your playlists, (really they
-  should be [...]Read More...
+  Artwork by the majestic;Trav Yes Yes and Yes Sunday Jammers and welcome. Hope
+  all is good at your end and whatever it is may it be sublime and soulful. So,
+  for the next few episodes I am choosing artists/music from particular labels
+  that should feature somewhere on one of your playlists, (really they should be
+  [...]Read More...
 published: true
 tags: feature
 featured: false

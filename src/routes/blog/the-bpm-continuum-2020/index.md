@@ -8,11 +8,11 @@ author: 17
 banner:
   - imported/the-bpm-continuum-2020/image1057.jpeg
 description: >-
-  Upon launching this series of articles a few months ago, I&rsquo;ve been
-  looking for new ways to reflect the moving nature of forward-thinking bass
-  music beyond BPM considerations. In the first few editions of this feature, I
-  struggled with the fact that I mostly focus on actual releases &#8211; whether
-  they be self-made or done [...]Read More...
+  Upon launching this series of articles a few months ago, I;ve been looking for
+  new ways to reflect the moving nature of forward-thinking bass music beyond
+  BPM considerations. In the first few editions of this feature, I struggled
+  with the fact that I mostly focus on actual releases ; whether they be
+  self-made or done [...]Read More...
 published: true
 tags: feature
 featured: false

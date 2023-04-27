@@ -10,9 +10,9 @@ banner:
 description: >-
   Darkside badboi bizniz and beyond, from Greek producer
   &Pi;&Epsilon;&Rho;&Alpha; &Sigma;&Tau;&Alpha; &Omicron;&Rho;&Eta; (Peta Sta
-  Ori)! From &Pi;&Epsilon;&Rho;&Alpha; &Sigma;&Tau;&Alpha;
-  &Omicron;&Rho;&Eta;&#39;s REVANCHE&nbsp;EP on EVEL. Out 6.11.2020 on 8&quot;
-  and digital &#8211; Pre-order: https://evel.bandcamp.com/album/revanche
+  Ori)! From &Pi;&Epsilon;&Rho;&Alpha; &Sigma;&Tau;&Alpha; &Omicron;&Rho;&Eta;;s
+  REVANCHE;EP on EVEL. Out 6.11.2020 on 8&quot; and digital ; Pre-order:
+  https://evel.bandcamp.com/album/revanche
   https://soundcloud.com/evelrdcshttps://soundcloud.com/pera-sta-ori [...]Read
   More...
 published: true

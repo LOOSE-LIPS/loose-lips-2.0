@@ -8,9 +8,8 @@ author: 100
 banner:
   - imported/moy-megatherium-btr003/image1018.jpeg
 description: >-
-  An emotive epic of rolling breaks and trippy melodic bleeps! From Moy&#39;s
-  Error 502 EP on Batrachian Records. Out 14.02.2020 on 12&quot; &#8211;
-  Pre-order:
+  An emotive epic of rolling breaks and trippy melodic bleeps! From Moy;s Error
+  502 EP on Batrachian Records. Out 14.02.2020 on 12&quot; ; Pre-order:
   https://www.phonicarecords.com/product/moy-error-502-pre-order-batrachian/165257
   https://soundcloud.com/batrachian23 [...]Read More...
 published: true

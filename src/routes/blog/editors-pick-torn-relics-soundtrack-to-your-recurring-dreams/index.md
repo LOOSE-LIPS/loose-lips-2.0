@@ -10,10 +10,10 @@ banner:
     imported/editors-pick-torn-relics-soundtrack-to-your-recurring-dreams/image810.jpeg
 description: >-
   For this edition of Editors Pick, Hardy takes us back to memories of summers
-  gone by &#8211; in particular, two amazing nights: a Torn Relics gig at
-  Griessmuhle and a Loose Lips event in Manchester which also included
-  Schefelgelb. After releasing their first album, The Poisoned Chalice, Torn
-  Relics gave us a selection of 10 [...]Read More...
+  gone by ; in particular, two amazing nights: a Torn Relics gig at Griessmuhle
+  and a Loose Lips event in Manchester which also included Schefelgelb. After
+  releasing their first album, The Poisoned Chalice, Torn Relics gave us a
+  selection of 10 [...]Read More...
 published: true
 tags: feature
 featured: false

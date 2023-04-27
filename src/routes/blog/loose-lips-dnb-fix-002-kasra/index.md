@@ -8,11 +8,11 @@ author: 153
 banner:
   - imported/loose-lips-dnb-fix-002-kasra/image967.jpeg
 description: >-
-  DnB fix is back and today, we&rsquo;re showcasing the new release from
-  Critical Music head-honcho Kasra. Since its inception the label has constantly
-  led the way when it comes to dark technical drum and bass, and have they set
-  the bar high. The label has been home to some of the industry&rsquo;s finest
-  talent, finding [...]Read More...
+  DnB fix is back and today, we;re showcasing the new release from Critical
+  Music head-honcho Kasra. Since its inception the label has constantly led the
+  way when it comes to dark technical drum and bass, and have they set the bar
+  high. The label has been home to some of the industry;s finest talent, finding
+  [...]Read More...
 published: true
 tags: spotlight
 featured: false

@@ -8,12 +8,11 @@ author: 76
 banner:
   - imported/resonance-series-olivia-m-healy/image1164.jpeg
 description: >-
-  Welcome to this installment of the &#39;Resonance Series&#39; &#8211; curated
-  by Jasper Golding.&nbsp;This feature, running every other Tuesday, introduces
-  you to musical individuals through the art forms they engage in, telling a
-  personal story of their creative output and how different mediums influence
-  each other. For this edition we introduce you to Olivia Healy&#39;s dieties,
-  [...]Read More...
+  Welcome to this installment of the ;Resonance Series; ; curated by Jasper
+  Golding.;This feature, running every other Tuesday, introduces you to musical
+  individuals through the art forms they engage in, telling a personal story of
+  their creative output and how different mediums influence each other. For this
+  edition we introduce you to Olivia Healy;s dieties, [...]Read More...
 published: true
 tags: feature
 featured: false

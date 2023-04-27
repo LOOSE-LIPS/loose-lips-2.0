@@ -8,9 +8,9 @@ author: 100
 banner:
   - imported/euphoric-apocalyptica/image1298.jpeg
 description: >-
-  Well to the tenth edition of Deep Cuts! Our last edition was August&#39;s Dead
-  Inside But It&#39;s Ok, and after that I took a break for a month to focus on
-  our first Deep Cuts event (it was great). This month&#39;s theme, Euphoric
+  Well to the tenth edition of Deep Cuts! Our last edition was August;s Dead
+  Inside But It;s Ok, and after that I took a break for a month to focus on our
+  first Deep Cuts event (it was great). This month;s theme, Euphoric
   Apocalyptica, was suggested by a writer named Zoran Petković in the midst
   [...]Read More...
 published: true

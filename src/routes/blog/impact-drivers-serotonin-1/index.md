@@ -9,7 +9,7 @@ banner:
   - imported/impact-drivers-serotonin-1/image1369.jpeg
 description: >-
   Serotonin. What a playlist theme ay? You might imagine a serotonin playlist
-  simply gathering good music, or any music that sounds good when you&#39;re
+  simply gathering good music, or any music that sounds good when you;re
   munching chunks of cheek and seeing God in the process. This article implies
   something more specific, music that either evokes or hijacks those jagged,
   exciteable and unhinged rushes of euphoria that [...]Read More...

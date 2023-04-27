@@ -9,11 +9,11 @@ banner:
   - >-
     imported/objekt-x-ezra-miller-islington-assembly-hall-september-12th/image929.jpeg
 description: >-
-  I wasn&rsquo;t sure that melding computer-generated, drone-like imagery to
-  scorching sound design would work &nbsp;&#8211; but the pairing of Object and
-  visual artist Ezra Miller transported me out of Islington Assembly Hall and
-  out into the stratosphere. Objekt has become a beloved name of electronic
-  music fans of all stripes &#8211; I enjoyed spotting several [...]Read More...
+  I wasn;t sure that melding computer-generated, drone-like imagery to scorching
+  sound design would work ;; but the pairing of Object and visual artist Ezra
+  Miller transported me out of Islington Assembly Hall and out into the
+  stratosphere. Objekt has become a beloved name of electronic music fans of all
+  stripes ; I enjoyed spotting several [...]Read More...
 published: true
 tags: event-review
 featured: false

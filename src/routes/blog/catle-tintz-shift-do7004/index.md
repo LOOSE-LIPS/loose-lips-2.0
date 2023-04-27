@@ -7,11 +7,11 @@ slug: catle-tintz-shift-do7004
 author: 100
 banner: []
 description: >-
-  Flowing over CA$TLE&#39;s dark and moody production, Tintz raps with composure
-  about real life struggles, hard work and constant hustling. From
-  CA$TLE&nbsp;&amp; Tintz&#39;s Shift single on Bristol-based Dee Oh 7. Out now
-  on digital &#8211; https://dee-oh-7.bandcamp.com/album/shift .
-  https://soundcloud.com/cazzztle [...]Read More...
+  Flowing over CA$TLE;s dark and moody production, Tintz raps with composure
+  about real life struggles, hard work and constant hustling. From CA$TLE;&amp;
+  Tintz;s Shift single on Bristol-based Dee Oh 7. Out now on digital ;
+  https://dee-oh-7.bandcamp.com/album/shift . https://soundcloud.com/cazzztle
+  [...]Read More...
 published: true
 tags: premiere
 featured: false

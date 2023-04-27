@@ -11,7 +11,7 @@ description: >-
   A 2-Step/Darkside roller, self-released by ScanOne with 50% of all digital
   sales are going to a homeless charity and a limited vinyl will be available in
   2 weeks with an exclusive electro mix on the flip. Out now on limited 12&quot;
-  and digital &#8211; Order: https://scanone.bandcamp.com/album/2020-lockdown
+  and digital ; Order: https://scanone.bandcamp.com/album/2020-lockdown
   https://soundcloud.com/scanone [...]Read More...
 published: true
 tags: premiere

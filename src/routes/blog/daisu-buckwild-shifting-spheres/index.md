@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/daisu-buckwild-shifting-spheres/image1204.jpeg
 description: >-
-  Buckwild&nbsp;is hard to pin down; it&#39;s a stripped down number, that&#39;d
-  qualify as Dubstep but it&#39;s as if Minimal Techno had eaten a few edibles
-  and its legs started wobbling while surrounding sounds drift in and out of
-  focus.It&#39;s easy to get immersed into it and lose track of time, as you
-  start paying attention [...]Read More...
+  Buckwild;is hard to pin down; it;s a stripped down number, that;d qualify as
+  Dubstep but it;s as if Minimal Techno had eaten a few edibles and its legs
+  started wobbling while surrounding sounds drift in and out of focus.It;s easy
+  to get immersed into it and lose track of time, as you start paying attention
+  [...]Read More...
 published: true
 tags: premiere
 featured: false

@@ -11,8 +11,8 @@ banner:
 description: >-
   Film is a visual artform, but music radically alters the tone of those
   flickering images. In the third edition of Scenes in Sound, we open up the
-  cracked tape deck of Mark Jenkin&rsquo;s Bait.&nbsp; Seeing may be believing,
-  but passive knowledge requires a few more senses to solidify. When you know a
+  cracked tape deck of Mark Jenkin;s Bait.; Seeing may be believing, but passive
+  knowledge requires a few more senses to solidify. When you know a
   place&mdash;reallyknow a place&mdash;it [...]Read More...
 published: true
 tags: feature

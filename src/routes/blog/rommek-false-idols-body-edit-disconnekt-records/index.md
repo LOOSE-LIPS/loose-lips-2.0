@@ -9,8 +9,8 @@ banner:
   - imported/rommek-false-idols-body-edit-disconnekt-records/image1120.jpeg
 description: >-
   A pounding beast unleashed by Rommek. From Various Artists 002 Fundraiser
-  Compilation&nbsp;V/A compilation on Disconnekt Records. Out 15.05.2020 on
-  digital &#8211; Pre-order:
+  Compilation;V/A compilation on Disconnekt Records. Out 15.05.2020 on digital ;
+  Pre-order:
   https://disconnektrecords.bandcamp.com/album/various-artists-002-fundraiser-compilation
   https://soundcloud.com/disconnekthttps://soundcloud.com/rommek In solidarity
   with the worldwide pandemic situation, Disconnekt Records has brought together

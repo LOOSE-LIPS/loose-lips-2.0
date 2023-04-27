@@ -9,9 +9,9 @@ banner:
   - imported/yan-cook-counterclockwise-ep/image1059.jpeg
 description: >-
   Seldom do I listen to a new EP where all four tracks genuinely tickle my taste
-  buds. Yan Cook&rsquo;s latest release is one of these rare finds.&nbsp; The DJ
-  and producer from Kiev, Ukraine, made Counterclockwise the sixth release on
-  his own label, Cooked. Here, each track has its own value, decidedly different
+  buds. Yan Cook;s latest release is one of these rare finds.; The DJ and
+  producer from Kiev, Ukraine, made Counterclockwise the sixth release on his
+  own label, Cooked. Here, each track has its own value, decidedly different
   from the [...]Read More...
 published: true
 tags: release-review

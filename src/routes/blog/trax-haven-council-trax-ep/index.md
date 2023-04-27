@@ -10,8 +10,8 @@ banner:
 description: >-
   &amp;amp;lt;a
   href=&#8221;http://traxhaven.bandcamp.com/album/council-trax-ep&#8221;&amp;amp;gt;Council
-  Trax EP by TRAX HAVEN&amp;amp;lt;/a&amp;amp;gt; You&#39;re doing something
-  wrong if you play 160BPM and higher without any Trax Haven on your USB. The
+  Trax EP by TRAX HAVEN&amp;amp;lt;/a&amp;amp;gt; You;re doing something wrong
+  if you play 160BPM and higher without any Trax Haven on your USB. The
   Manchester and London-based crew are quickly gaining momentum as one of the
   most exciting platforms for footwork, jungle, halftime and everything quick
   with a hair of freaky, openly embracing any [...]Read More...

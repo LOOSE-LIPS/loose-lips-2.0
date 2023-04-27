@@ -10,9 +10,9 @@ banner:
 description: >-
   A lush Acid track! Opening a 3-tracker of slow, sweet and fizzy Acid House,
   signalling as well the return of Posthuman on their own I Love Acid imprint!
-  From Posthuman&#39;s I&nbsp;Love Acid 19 EP on Balkan Vinyl / I Love Acid.
-  While all 12&quot; have sold out already on the Balkan Vinyl Bandcamp, 100
-  more [...]Read More...
+  From Posthuman;s I;Love Acid 19 EP on Balkan Vinyl / I Love Acid. While all
+  12&quot; have sold out already on the Balkan Vinyl Bandcamp, 100 more
+  [...]Read More...
 published: true
 tags: premiere
 featured: false

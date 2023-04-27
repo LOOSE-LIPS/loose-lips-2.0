@@ -8,11 +8,11 @@ author: 13
 banner:
   - imported/kevin-richard-martin-sirens-room40/image873.jpeg
 description: >-
-  I first heard Kevin Martin&rsquo;s (aka The Bug) music in a film. I used to be
-  a huge cinephile, and The Conversation&nbsp;(1974)&nbsp;was&nbsp;one of my
-  favourite films. Coppola&#39;s classic really touched me, and led me to The
-  Bug&#39;s first album Tapping the Conversation. Being a breakbeat and hardcore
-  hip-hop addict, together with my love for dub [...]Read More...
+  I first heard Kevin Martin;s (aka The Bug) music in a film. I used to be a
+  huge cinephile, and The Conversation;(1974);was;one of my favourite films.
+  Coppola;s classic really touched me, and led me to The Bug;s first album
+  Tapping the Conversation. Being a breakbeat and hardcore hip-hop addict,
+  together with my love for dub [...]Read More...
 published: true
 tags: release-review
 featured: false

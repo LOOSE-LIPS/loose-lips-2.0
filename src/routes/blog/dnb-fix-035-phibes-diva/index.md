@@ -9,10 +9,10 @@ banner:
   - imported/dnb-fix-035-phibes-diva/image1317.jpeg
 description: >-
   Another week in Drum &amp; Bass has come and gone, but the spotlight is very
-  much stuck on Phibes, with this week&rsquo;s fix dedicated to the
-  brothers&#39; Third Dimension EP on the Born on Road imprint. It&rsquo;s
-  pretty generally accepted, that growing up around brothers, there is going to
-  be times where they don&rsquo;t get [...]Read More...
+  much stuck on Phibes, with this week;s fix dedicated to the brothers; Third
+  Dimension EP on the Born on Road imprint. It;s pretty generally accepted, that
+  growing up around brothers, there is going to be times where they don;t get
+  [...]Read More...
 published: true
 tags: feature
 featured: false

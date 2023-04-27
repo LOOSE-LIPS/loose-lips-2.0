@@ -8,11 +8,11 @@ author: 76
 banner:
   - imported/resonance-series-9-auguste-oldham/image1220.jpeg
 description: >-
-  Welcome to this edition of &#39;Resonance Series&#39; &#8211; a feature,
-  curated by Jasper Golding, about the interplay between art forms. A love for
-  showcasing and sharing music is at the centre of Loose Lips and there are
-  numerous ways in which this can be done. Music massively influences visual
-  art, and vice versa. This feature, [...]Read More...
+  Welcome to this edition of ;Resonance Series; ; a feature, curated by Jasper
+  Golding, about the interplay between art forms. A love for showcasing and
+  sharing music is at the centre of Loose Lips and there are numerous ways in
+  which this can be done. Music massively influences visual art, and vice versa.
+  This feature, [...]Read More...
 published: true
 tags: feature
 featured: false

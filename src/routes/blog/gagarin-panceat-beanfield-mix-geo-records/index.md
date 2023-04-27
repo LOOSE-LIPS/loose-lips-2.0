@@ -8,9 +8,9 @@ author: 100
 banner:
   - imported/gagarin-panceat-beanfield-mix-geo-records/image1330.jpeg
 description: >-
-  An adventure into dubbed out electronica that completes Gagarin&#39;s Live
-  Session. Offered to you as a free download! From Gagarin&#39;s&nbsp;The Great
-  North Wood LP on Geo Records. Out now on CD and digital &#8211;
+  An adventure into dubbed out electronica that completes Gagarin;s Live
+  Session. Offered to you as a free download! From Gagarin;s;The Great North
+  Wood LP on Geo Records. Out now on CD and digital ;
   https://gagarin.bandcamp.com/album/the-great-north-wood
   https://soundcloud.com/gagarin-1 [...]Read More...
 published: true

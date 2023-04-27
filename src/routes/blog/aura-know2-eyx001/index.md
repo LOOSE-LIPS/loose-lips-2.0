@@ -8,10 +8,10 @@ author: 100
 banner:
   - imported/aura-know2-eyx001/image1177.jpeg
 description: >-
-  Know2&nbsp;is a sub-heavy, dark and insidious club piece, crawling its way
-  into the digital jungle to then jump on its prey, injecting the victim with
-  the Venom of Ecstasy. From AURA&#39;s Salt EP on Early Reflex. Out 02.07.2020
-  on digital &#8211; Pre-order: https://earlyreflex.bandcamp.com/album/salt
+  Know2;is a sub-heavy, dark and insidious club piece, crawling its way into the
+  digital jungle to then jump on its prey, injecting the victim with the Venom
+  of Ecstasy. From AURA;s Salt EP on Early Reflex. Out 02.07.2020 on digital ;
+  Pre-order: https://earlyreflex.bandcamp.com/album/salt
   https://soundcloud.com/earlyreflexhttps://soundcloud.com/aura1111 [...]Read
   More...
 published: true

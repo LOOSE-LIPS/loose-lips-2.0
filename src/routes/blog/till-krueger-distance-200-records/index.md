@@ -9,8 +9,8 @@ banner:
   - imported/till-krueger-distance-200-records/image1351.jpeg
 description: >-
   A deeply soothing dubby number, calmly massaging any overworked synapses. From
-  Till Kr&uuml;ger&#39;s Gravity LP on 200 Records. Out now on 2&#215;12&quot;
-  and digital &#8211; https://till-krueger.bandcamp.com/album/gravity
+  Till Kr&uuml;ger;s Gravity LP on 200 Records. Out now on 2&#215;12&quot; and
+  digital ; https://till-krueger.bandcamp.com/album/gravity
   https://soundcloud.com/200musichttps://soundcloud.com/till-krueger [...]Read
   More...
 published: true

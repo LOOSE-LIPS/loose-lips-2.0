@@ -8,8 +8,8 @@ author: 76
 banner:
   - imported/loose-lips-resonance-series-tom-abbiss-smith/image1143.jpeg
 description: >-
-  The deep cuts of Tom abbiss smith&rsquo;s paper works first caught my eye at
-  the d&amp;ad new blood convention in 2018. He was manning a stand there which
+  The deep cuts of Tom abbiss smith;s paper works first caught my eye at the
+  d&amp;ad new blood convention in 2018. He was manning a stand there which
   displayed his smoothed out homages to nature and idyllic forms. A kind of
   shrine to his chilled-out work, his stand showed a bounty of patterned
   dopeness. Tom [...]Read More...

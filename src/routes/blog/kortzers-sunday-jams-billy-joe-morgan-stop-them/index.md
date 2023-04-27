@@ -8,11 +8,10 @@ author: 96
 banner:
   - imported/kortzers-sunday-jams-billy-joe-morgan-stop-them/image918.jpeg
 description: >-
-  This weeks&#39; selection comes from Billy Joe Morgan with Stop Them. This
-  track is a personal favourite and Sunday classic to say the least. This is the
-  only track that I&#39;ve come across from Billy but it&#39;s an absolute
-  Percy! If you were to only record one track this isn&#39;t a bad one to do,
-  [...]Read More...
+  This weeks; selection comes from Billy Joe Morgan with Stop Them. This track
+  is a personal favourite and Sunday classic to say the least. This is the only
+  track that I;ve come across from Billy but it;s an absolute Percy! If you were
+  to only record one track this isn;t a bad one to do, [...]Read More...
 published: true
 tags: feature
 featured: false

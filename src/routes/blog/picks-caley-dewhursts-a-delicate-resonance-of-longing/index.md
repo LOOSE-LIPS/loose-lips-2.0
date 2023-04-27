@@ -11,10 +11,9 @@ banner:
 description: >-
   Picks returns, this time with a close friend of the sqwaaa Caley Dewhurst, a
   graphic designer and Threads radio DJ who has contributed to our
-  recent&nbsp;Euphoric Apocalyptica&nbsp;collaborative article, digging this
-  time into his record collection for music that sits on the knife&#39;s edge
-  between warmth and frost. Enjoy,&nbsp;you can check out the tracks
-  on&nbsp;this here [...]Read More...
+  recent;Euphoric Apocalyptica;collaborative article, digging this time into his
+  record collection for music that sits on the knife;s edge between warmth and
+  frost. Enjoy,;you can check out the tracks on;this here [...]Read More...
 published: true
 tags: feature
 featured: false

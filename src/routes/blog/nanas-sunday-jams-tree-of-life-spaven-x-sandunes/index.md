@@ -8,11 +8,11 @@ author: 125
 banner:
   - imported/nanas-sunday-jams-tree-of-life-spaven-x-sandunes/image1294.jpeg
 description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Yes Sunday Jammers. Warmest of greetings and
-  sun salutations. How are you are keeping? Hope the icy Autumnal breezes are
-  bringing good vibes your way.&nbsp; So, I am turning over a new music leaf
-  this week in every sense; [...]Read More...
+  Banner artwork by the majestic Trav, all of Nana;s jams are gathered in;this
+  playlist. Yes Yes Yes Sunday Jammers. Warmest of greetings and sun
+  salutations. How are you are keeping? Hope the icy Autumnal breezes are
+  bringing good vibes your way.; So, I am turning over a new music leaf this
+  week in every sense; [...]Read More...
 published: true
 tags: feature
 featured: false

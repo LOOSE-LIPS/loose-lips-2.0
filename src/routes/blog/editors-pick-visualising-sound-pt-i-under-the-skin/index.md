@@ -9,11 +9,10 @@ banner:
   - imported/editors-pick-visualising-sound-pt-i-under-the-skin/image197.jpeg
 description: >-
   The connections and inter-play between different artistic mediums is something
-  which has always been a part of LL&#39;s projects &#8211; whether it&#39;s
-  visuals at events, our diverse editorial full of story-telling or showcasing
-  musicians via their visual art in the rebranded &#39;Resonance Series&#39;.
-  Frederick used his Editors Pick to draw attention to an amazing example
-  [...]Read More...
+  which has always been a part of LL;s projects ; whether it;s visuals at
+  events, our diverse editorial full of story-telling or showcasing musicians
+  via their visual art in the rebranded ;Resonance Series;. Frederick used his
+  Editors Pick to draw attention to an amazing example [...]Read More...
 published: true
 tags: feature
 featured: false

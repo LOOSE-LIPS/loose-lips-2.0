@@ -8,10 +8,9 @@ author: 100
 banner:
   - imported/seamouse-floating-cubes/image1364.jpeg
 description: >-
-  Floating Cubes&nbsp;is a deep and soothing journey through organic drums, lush
-  pads and sky-high, soaring synths. From Seamouse&#39;s Simultaneity&nbsp;EP on
-  eel. Out now on tape, CD and digital &#8211;
-  https://sea-mouse.bandcamp.com/album/simultaneity
+  Floating Cubes;is a deep and soothing journey through organic drums, lush pads
+  and sky-high, soaring synths. From Seamouse;s Simultaneity;EP on eel. Out now
+  on tape, CD and digital ; https://sea-mouse.bandcamp.com/album/simultaneity
   https://soundcloud.com/eeldisc [...]Read More...
 published: true
 tags: premiere

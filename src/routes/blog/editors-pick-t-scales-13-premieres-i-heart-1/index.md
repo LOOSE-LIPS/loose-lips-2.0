@@ -8,11 +8,11 @@ author: 159
 banner:
   - imported/editors-pick-t-scales-13-premieres-i-heart-1/image1102.jpeg
 description: >-
-  This week&#39;s Editors Pick, we turn to T-Scale, who is in charge of
-  premiers. &quot;I really hate myself for leaving out some other ones from this
-  list but fuck it, I&#39;ve had this dilemma before.. Here&#39;s 13 premieres I
-  heart in no particular order:&quot; Antoine Bobicz &#8211; Escalateur dans la
-  ciel (bau053) / BaumusikRecently premiered, [...]Read More...
+  This week;s Editors Pick, we turn to T-Scale, who is in charge of premiers.
+  &quot;I really hate myself for leaving out some other ones from this list but
+  fuck it, I;ve had this dilemma before.. Here;s 13 premieres I heart in no
+  particular order:&quot; Antoine Bobicz ; Escalateur dans la ciel (bau053) /
+  BaumusikRecently premiered, [...]Read More...
 published: true
 tags: feature
 featured: false

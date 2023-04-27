@@ -9,8 +9,8 @@ banner:
   - imported/equus-joker-ss003/image1332.jpeg
 description: >-
   A fast-paced, sub-heavy electroid number layered with majestic detroit-style
-  strings. Class! From Equus&#39; REHD {Raw, Uncut}&nbsp;EP on Slippery Sounds.
-  Out 27.11 on digital &#8211; Pre-order:
+  strings. Class! From Equus; REHD {Raw, Uncut};EP on Slippery Sounds. Out 27.11
+  on digital ; Pre-order:
   https://slipperysounds.bandcamp.com/album/ss003-equus-rehd-raw-uncut
   https://soundcloud.com/slipperysoundshttps://soundcloud.com/equusequus
   [...]Read More...

@@ -12,10 +12,10 @@ banner:
     imported/felix-raman-each-will-smile-at-the-others-welcome-fantasy-forever/image1373.jpeg
 description: >-
   Last premiere of the year, ending on a soft, intimate note with this sweet
-  ambient piece by Felix Raman. From A Blooming Event&nbsp;V/A compilation on
-  Fantasy Forever. A 17 track compilation featuring 18 artists from the
-  Westcoast of Jutland and beyond.A piece of common ground, a collection of
-  voices stringed together by friends.A Blooming Event, [...]Read More...
+  ambient piece by Felix Raman. From A Blooming Event;V/A compilation on Fantasy
+  Forever. A 17 track compilation featuring 18 artists from the Westcoast of
+  Jutland and beyond.A piece of common ground, a collection of voices stringed
+  together by friends.A Blooming Event, [...]Read More...
 published: true
 tags: premiere
 featured: false

@@ -11,7 +11,7 @@ banner:
   - >-
     imported/focus-africa-at-the-jago-presents-diallo-kora-w-wuntanara-awale-w-biram-seck/image825.jpeg
 description: >-
-  It&#39;s a sadly common story, with a near inevitable end: long established,
+  It;s a sadly common story, with a near inevitable end: long established,
   community- supporting music venue gets shut down to be turned into unnecessary
   luxury flats. Community and music fans unite in inspiring, life-affirming
   protest to stop said luxury flats. The result? Unnecessary luxury flats. In

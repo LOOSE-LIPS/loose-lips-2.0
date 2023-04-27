@@ -10,7 +10,7 @@ banner:
 description: >-
   Cork-based producer Gadget And The Cloud delivers a galloping techno number
   with lofi textures and airy pads. From Complex Contrast V/A on Yin Yang Label.
-  Out 04.09.2020 on digital &#8211; Pre-order:
+  Out 04.09.2020 on digital ; Pre-order:
   https://yinyanglabel.bandcamp.com/album/complex-contrast-v-a
   https://soundcloud.com/yinyanglabelhttps://soundcloud.com/gadgetandthecloud
   Combining a stellar pool of sounds from across the spectrum of electronic

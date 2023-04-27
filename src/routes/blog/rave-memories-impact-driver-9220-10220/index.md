@@ -8,10 +8,10 @@ author: 64
 banner:
   - imported/rave-memories-impact-driver-9220-10220/image1394.jpeg
 description: >-
-  Pictures by&nbsp;@miah.411 I have been asked to write about some rave memories
-  for this article. Right now they all seem like distant memories in a far off
-  land but let&#39;s keep the faith and hope we will all be out on a dance floor
-  soon, meeting randoms and shaking away our inhibitions. This was the [...]Read
+  Pictures by;@miah.411 I have been asked to write about some rave memories for
+  this article. Right now they all seem like distant memories in a far off land
+  but let;s keep the faith and hope we will all be out on a dance floor soon,
+  meeting randoms and shaking away our inhibitions. This was the [...]Read
   More...
 published: true
 tags: feature

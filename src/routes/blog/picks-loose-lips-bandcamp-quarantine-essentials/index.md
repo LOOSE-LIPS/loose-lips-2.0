@@ -9,10 +9,10 @@ banner:
   - imported/picks-loose-lips-bandcamp-quarantine-essentials/image1049.jpeg
 description: >-
   Times are tough. Money is tight. Boris Johnson has promised things will be
-  different this time, that the Tories won&#39;t screw over workers in the way
-  they did last time we had an economic crash (having recently announced a
-  budget not far off from that which they mocked Labour for a few months ago),
-  but [...]Read More...
+  different this time, that the Tories won;t screw over workers in the way they
+  did last time we had an economic crash (having recently announced a budget not
+  far off from that which they mocked Labour for a few months ago), but
+  [...]Read More...
 published: true
 tags: feature
 featured: false

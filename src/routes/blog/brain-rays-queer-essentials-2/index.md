@@ -10,10 +10,10 @@ banner:
 description: >-
   Hello to the Loose Lipped massive! Today we have a tuneblast from Brain Rays,
   an intriguing Devon-generated gentlemen who just does whatever he wants
-  really; high bpm beaters, scintillating soundtracks (including Rhys
-  Chapman&rsquo;s debut film Wonderkid), crew found-ings (Wrong Music and
-  Bizarre Rituals) and radio shows (Die Curious&nbsp;on Threads). Packing that
-  into one sentence wasn&rsquo;t [...]Read More...
+  really; high bpm beaters, scintillating soundtracks (including Rhys Chapman;s
+  debut film Wonderkid), crew found-ings (Wrong Music and Bizarre Rituals) and
+  radio shows (Die Curious;on Threads). Packing that into one sentence wasn;t
+  [...]Read More...
 published: true
 tags: picks
 featured: false

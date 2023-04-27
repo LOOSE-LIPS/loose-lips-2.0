@@ -8,13 +8,13 @@ author: 100
 banner:
   - imported/love-will-say-no-el-gordo-cc037/image1247.jpeg
 description: >-
-  Love Will Say No&#39;s El Gordo&nbsp;is an infectious Nu Disco number with
-  Latin House elements, balancing between rawness and spiciness! From Spirals
-  Vol.8&nbsp;V/A EP on Constant Circles. Out 4.9.2020 on digital &#8211;
-  Pre-order: https://fanlink.to/cc037
+  Love Will Say No;s El Gordo;is an infectious Nu Disco number with Latin House
+  elements, balancing between rawness and spiciness! From Spirals Vol.8;V/A EP
+  on Constant Circles. Out 4.9.2020 on digital ; Pre-order:
+  https://fanlink.to/cc037
   http://www.constantcircles.comhttps://lovewillsayno.bandcamp.com For the
-  eighth installment of Constant Circles&rsquo; forward thinking SPIRALS series,
-  the boundaries of house &amp;amp; techno are once again [...]Read More...
+  eighth installment of Constant Circles; forward thinking SPIRALS series, the
+  boundaries of house &amp;amp; techno are once again [...]Read More...
 published: true
 tags: premiere
 featured: false

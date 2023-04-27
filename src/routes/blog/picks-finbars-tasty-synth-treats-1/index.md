@@ -10,9 +10,9 @@ banner:
 description: >-
   Finbar is a beloved friend of the squad, who presents a monthly radio show on
   Music Box Radio called Codependent, has a one off show coming soon to Threads
-  named Chronic Intrigue and works with homeless people for St Mungo&rsquo;s
-  charity. He steps up today with an flavourful, electronic sound-platter, the
-  handful of his tracks [...]Read More...
+  named Chronic Intrigue and works with homeless people for St Mungo;s charity.
+  He steps up today with an flavourful, electronic sound-platter, the handful of
+  his tracks [...]Read More...
 published: true
 tags: feature
 featured: false

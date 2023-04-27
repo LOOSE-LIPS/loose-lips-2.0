@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/brainwaves/image793.jpeg
 description: >-
-  Last week, we&#39;ve premiered Catch-23 by Tout Casser, excerpts from
-  Brainwaves&#39; latest VA Caustic Dance EP.It was also a good opportunity to
-  chat with the guys behind this interesting label from Geneva and get some
-  insight. Who&rsquo;s behind Brainwaves and how did it start? Five aliens and a
-  lot of acid. All of us have [...]Read More...
+  Last week, we;ve premiered Catch-23 by Tout Casser, excerpts from Brainwaves;
+  latest VA Caustic Dance EP.It was also a good opportunity to chat with the
+  guys behind this interesting label from Geneva and get some insight. Who;s
+  behind Brainwaves and how did it start? Five aliens and a lot of acid. All of
+  us have [...]Read More...
 published: true
 tags: interview
 featured: false

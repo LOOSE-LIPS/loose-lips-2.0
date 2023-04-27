@@ -10,10 +10,10 @@ banner:
 description: >-
   2 2 D O L P H I N S offers us Britney and Ms. Dynamite in a futuristic
   celebrity deathmatch, funking each other with chopped up vocal weapons over
-  heavy swag beats on this fourth V/A from SKOOP! From SKOOP 4&nbsp;V/A
-  compilation on SKOOP. Out 31.07.2020 on digital &#8211; Pre-order:
+  heavy swag beats on this fourth V/A from SKOOP! From SKOOP 4;V/A compilation
+  on SKOOP. Out 31.07.2020 on digital ; Pre-order:
   https://skoop.bandcamp.com/album/vol-4 https://soundcloud.com/skoopskoop
-  SKOOP&#39;s 4th [...]Read More...
+  SKOOP;s 4th [...]Read More...
 published: true
 tags: premiere
 featured: false

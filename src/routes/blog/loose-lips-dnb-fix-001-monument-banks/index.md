@@ -9,10 +9,10 @@ banner:
   - imported/loose-lips-dnb-fix-001-monument-banks/image960.jpeg
 description: >-
   Given the increasing popularity of our Jungle and Hardcore Marathon events in
-  Manchester; we&#39;re delighted to announce a new feature on the website,
-  providing you with a regular Drum and Bass Fix.&nbsp; First up is Monument
-  Banks AKA Ben Heraud. &nbsp;After a slew of releases over on Melinki&rsquo;s
-  Four Corners Music, Monument Banks comes through [...]Read More...
+  Manchester; we;re delighted to announce a new feature on the website,
+  providing you with a regular Drum and Bass Fix.; First up is Monument Banks
+  AKA Ben Heraud. ;After a slew of releases over on Melinki;s Four Corners
+  Music, Monument Banks comes through [...]Read More...
 published: true
 tags: spotlight
 featured: false

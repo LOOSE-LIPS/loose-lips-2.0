@@ -8,10 +8,10 @@ author: 100
 banner:
   - imported/carola-bony-burb-espectro02/image1089.jpeg
 description: >-
-  Squeaking, squelching &nbsp;syncopated rhythms supporting an elegantly naive
+  Squeaking, squelching ;syncopated rhythms supporting an elegantly naive
   melodic backdrop, bringing peace into this controlled chaos. From Carola
-  Bony&#39;s Estrella 1996 EP on Amplio Espectro. Out 24.04.2020 on digital
-  &#8211; Pre-order: https://boomkat.com/products/estrella-1996
+  Bony;s Estrella 1996 EP on Amplio Espectro. Out 24.04.2020 on digital ;
+  Pre-order: https://boomkat.com/products/estrella-1996
   https://soundcloud.com/amplioespectrohttps://soundcloud.com/carolabony
   Estrella 1996 by Carola Bony is the second release of Amplio Espectro,a new
   label curated by Carisma that will release music monthly [...]Read More...

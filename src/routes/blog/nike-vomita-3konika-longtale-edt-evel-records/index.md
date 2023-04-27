@@ -11,8 +11,8 @@ description: >-
   Barcelona-based producer Nike Vomita features on the 5th instalment of the
   Adipem Fex Series, with a largerange of rhythms and tonal explorations. On
   3KONIKA (longtale Edt.), first track of the EP, the uptempo breaksflirt with
-  delicate, ghostly pads over a rug of fluctuating bassline. From Nike
-  Vomita&#39;s Rrose EP on EVEL Records. Out 01.10 on [...]Read More...
+  delicate, ghostly pads over a rug of fluctuating bassline. From Nike Vomita;s
+  Rrose EP on EVEL Records. Out 01.10 on [...]Read More...
 published: true
 tags: premiere
 featured: false

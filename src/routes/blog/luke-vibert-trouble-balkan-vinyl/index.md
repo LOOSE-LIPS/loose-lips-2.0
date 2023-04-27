@@ -10,10 +10,9 @@ banner:
 description: >-
   Xmas season is coming and Balkan is dropping this surprise, burning hot wax
   weapon! A split EP featuring Luke Vibert and Posthuman in full ecstatic rave
-  mode. Trouble&nbsp;is a juicy electro cut filled with vocal chops, vibrant
-  low-ends and ultra-funky synth lines! From Luke Vibert &amp; Posthuman&#39;s
-  Unitary Covert Sonic Procedures II&nbsp;EP on Balkan Recordings. [...]Read
-  More...
+  mode. Trouble;is a juicy electro cut filled with vocal chops, vibrant low-ends
+  and ultra-funky synth lines! From Luke Vibert &amp; Posthuman;s Unitary Covert
+  Sonic Procedures II;EP on Balkan Recordings. [...]Read More...
 published: true
 tags: premiere
 featured: false

@@ -10,8 +10,8 @@ banner:
 description: >-
   Cosmic Monkey from Latvia are coming in hot with their take on modern electro
   featuring an eerie atmosphere, menacing bass stabs, scary pitched down vocals
-  and a healthy dose of cowbells with Be Quiet. From Cosmic Monkey&#39;s Funk U
-  Up&nbsp;EP&nbsp;on Seven Sisters Records. Out now on digital &#8211; Buy:
+  and a healthy dose of cowbells with Be Quiet. From Cosmic Monkey;s Funk U
+  Up;EP;on Seven Sisters Records. Out now on digital ; Buy:
   https://sevensistersrecords.bandcamp.com/album/funk-u-up-ep
   https://soundcloud.com/sevensistersrecords [...]Read More...
 published: true

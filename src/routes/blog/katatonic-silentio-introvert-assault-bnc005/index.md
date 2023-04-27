@@ -9,8 +9,8 @@ banner:
   - imported/katatonic-silentio-introvert-assault-bnc005/image1148.jpeg
 description: >-
   Bass-heavy dystopian Electro from Milan-based producer Katatonic Silentio,
-  straight to the point! From Katatonic Silentio&#39;s Prisoner Of The Self EP
-  on Bristol NormCore. Out 18.06.2020 on 12&quot; and digital &#8211; Pre-order:
+  straight to the point! From Katatonic Silentio;s Prisoner Of The Self EP on
+  Bristol NormCore. Out 18.06.2020 on 12&quot; and digital ; Pre-order:
   https://bristolnormcore.bandcamp.com/album/katatonic-silentio-prisoner-of-the-self
   https://soundcloud.com/bristolnormcorehttps://soundcloud.com/katatonicsilentio
   [...]Read More...

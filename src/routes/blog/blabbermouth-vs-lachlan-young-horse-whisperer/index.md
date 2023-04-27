@@ -8,10 +8,9 @@ author: 100
 banner:
   - imported/blabbermouth-vs-lachlan-young-horse-whisperer/image1261.jpeg
 description: >-
-  Horse Whisperer&nbsp;is modern age satirical tale about the sometimes
-  inevitable and always unnecessary social stress that await us all. From
-  Blabbermouth vs Lachlan Young&#39;s The Edge of Reason&nbsp;LP. Out now on CD
-  and digital &#8211; Order:
+  Horse Whisperer;is modern age satirical tale about the sometimes inevitable
+  and always unnecessary social stress that await us all. From Blabbermouth vs
+  Lachlan Young;s The Edge of Reason;LP. Out now on CD and digital ; Order:
   https://blabbermouth2018.bandcamp.com/album/the-edge-of-reason Murray Lachlan
   Young is known not just for his BBC radio 6 poems and appearances on Loose
   Ends [...]Read More...
