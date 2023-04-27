@@ -5,6 +5,7 @@
    * @type {IBlog}
    */
   export let blog!: IBlog;
+  console.log(blog.description);
 </script>
 
 {#if blog && blog?.slug}
