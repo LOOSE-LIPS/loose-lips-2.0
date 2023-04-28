@@ -19,29 +19,29 @@ const totalPages = 68;
 
 const rootDir = process.cwd();
 
-async function getIframes(url, username, password) {
-  const auth = { username: username, password: password };
-  const response = await axios.get(url, { auth }).catch((e) => {
-    console.log(`Failed to get`, url);
-  });
-  if (!response) return [];
-  const $ = load(response.data);
-  const content = $("iframe");
-  const iframes = [];
-  content.each((index, x) => {
-    iframes.push({
-      src: $(x).attr("src") ?? null,
-      loading: $(x).attr("loading") ?? null,
-      width: $(x).attr("width") ?? null,
-      height: $(x).attr("height") ?? null,
-      frameborder: $(x).attr("frameborder") ?? null,
-      title: $(x).attr("title") ?? null,
-      scrolling: $(x).attr("scrolling") ?? "no",
-      frameborder: $(x).attr("frameborder") ?? "no",
-    });
-  });
-  return { iframes, url };
-}
+// async function getIframes(url, username, password) {
+//   const auth = { username: username, password: password };
+//   const response = await axios.get(url, { auth }).catch((e) => {
+//     console.log(`Failed to get`, url);
+//   });
+//   if (!response) return [];
+//   const $ = load(response.data);
+//   const content = $("iframe");
+//   const iframes = [];
+//   content.each((index, x) => {
+//     iframes.push({
+//       src: $(x).attr("src") ?? null,
+//       loading: $(x).attr("loading") ?? null,
+//       width: $(x).attr("width") ?? null,
+//       height: $(x).attr("height") ?? null,
+//       frameborder: $(x).attr("frameborder") ?? null,
+//       title: $(x).attr("title") ?? null,
+//       scrolling: $(x).attr("scrolling") ?? "no",
+//       frameborder: $(x).attr("frameborder") ?? "no",
+//     });
+//   });
+//   return { iframes, url };
+// }
 
 for (let i = 1; i < totalPages; i++) {
   phin({
@@ -168,7 +168,7 @@ for (let i = 1; i < totalPages; i++) {
           if (!fs.existsSync(folderDirectory)) {
             fs.mkdirSync(folderDirectory, { recursive: true });
           }
-          // console.log(`writing to: ${folderDirectory}`);
+          console.log(`writing to: ${folderDirectory}`);
           fs.writeFileSync(
             path.join(folderDirectory, "index.md"),
             "---\n" +
