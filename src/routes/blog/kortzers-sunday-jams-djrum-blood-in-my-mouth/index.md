@@ -7,16 +7,12 @@ slug: kortzers-sunday-jams-djrum-blood-in-my-mouth
 author: 96
 banner:
   - imported/kortzers-sunday-jams-djrum-blood-in-my-mouth/image743.jpeg
-description: >-
-  This week I&#39;ve chosen quite a reflective piece of music by Djrum called
-  Blood In My Mouth taken from his release on R&amp;S that came out in August
-  last year called Portrait With Firewood. The track is a brilliant piece of
-  soundscape and is quite moving. It&#39;s certainly the soundtrack to my
-  Sunday. [...]Read More...
+description: post.yoast_head_json.description
 published: true
 tags: feature
 featured: false
+itworked: true
 ---
-![image](../imported/kortzers-sunday-jams-djrum-blood-in-my-mouth/image743.jpeg)This week I've chosen quite a reflective piece of music by Djrum called Blood In My Mouth taken from his release on R&S that came out in August last year called Portrait With Firewood. The track is a brilliant piece of soundscape and is quite moving. It's certainly the soundtrack to my Sunday.
+![image](../imported/kortzers-sunday-jams-djrum-blood-in-my-mouth/image743.jpeg)This week I';ve chosen quite a reflective piece of music by Djrum called Blood In My Mouth taken from his release on R&S that came out in August last year called Portrait With Firewood. The track is a brilliant piece of soundscape and is quite moving. It';s certainly the soundtrack to my Sunday.
 
 <iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/qUi8Hj7-QIM?wmode=opaque'></iframe>

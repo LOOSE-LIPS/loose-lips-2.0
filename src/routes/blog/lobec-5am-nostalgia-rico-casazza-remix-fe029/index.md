@@ -17,8 +17,9 @@ description: >-
 published: true
 tags: premiere
 featured: false
+itworked: true
 ---
-![image](../imported/lobec-5am-nostalgia-rico-casazza-remix-fe029/image981.jpeg)Household name and long time friend [Rico Casazza](https://www.residentadvisor.net/dj/ricocasazza) delivers a nostalgic trip equipped with dreamy pads and heartfelt vocals.From [Lobec](https://www.discogs.com/artist/7307240-Lobec)'s _5AM Nostalgia_ EP  on [Furthur Electronix](https://www.facebook.com/FurthurElectronix/).Out January 2020 on 12" – Check for updates: [](https://furthurelectronix.bandcamp.com/)[https://furthurelectronix.bandcamp.com/](https://furthurelectronix.bandcamp.com/)  
+![image](../imported/lobec-5am-nostalgia-rico-casazza-remix-fe029/image981.jpeg)Household name and long time friend [Rico Casazza](https://www.residentadvisor.net/dj/ricocasazza) delivers a nostalgic trip equipped with dreamy pads and heartfelt vocals.From [Lobec](https://www.discogs.com/artist/7307240-Lobec)';s _5AM Nostalgia__';_EP_';';_on [Furthur Electronix](https://www.facebook.com/FurthurElectronix/).Out January 2020 on 12" '; Check for updates: [](https://furthurelectronix.bandcamp.com/)[https://furthurelectronix.bandcamp.com/](https://furthurelectronix.bandcamp.com/)  
 <iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/723046042&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>  
 [](https://soundcloud.com/ricocasazza)
 

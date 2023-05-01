@@ -15,33 +15,33 @@ import { load } from "cheerio";
 
 const username = "seedpipdev";
 const password = "ThisIsAPassword";
-const totalPages = 68;
+const totalPages = 61;
 
 const rootDir = process.cwd();
 
-// async function getIframes(url, username, password) {
-//   const auth = { username: username, password: password };
-//   const response = await axios.get(url, { auth }).catch((e) => {
-//     console.log(`Failed to get`, url);
-//   });
-//   if (!response) return [];
-//   const $ = load(response.data);
-//   const content = $("iframe");
-//   const iframes = [];
-//   content.each((index, x) => {
-//     iframes.push({
-//       src: $(x).attr("src") ?? null,
-//       loading: $(x).attr("loading") ?? null,
-//       width: $(x).attr("width") ?? null,
-//       height: $(x).attr("height") ?? null,
-//       frameborder: $(x).attr("frameborder") ?? null,
-//       title: $(x).attr("title") ?? null,
-//       scrolling: $(x).attr("scrolling") ?? "no",
-//       frameborder: $(x).attr("frameborder") ?? "no",
-//     });
-//   });
-//   return { iframes, url };
-// }
+async function getIframes(url, username, password) {
+  const auth = { username: username, password: password };
+  const response = await axios.get(url, { auth }).catch((e) => {
+    console.log(`Failed to get`, url);
+  });
+  if (!response) return [];
+  const $ = load(response.data);
+  const content = $("iframe");
+  const iframes = [];
+  content.each((index, x) => {
+    iframes.push({
+      src: $(x).attr("src") ?? null,
+      loading: $(x).attr("loading") ?? null,
+      width: $(x).attr("width") ?? null,
+      height: $(x).attr("height") ?? null,
+      frameborder: $(x).attr("frameborder") ?? null,
+      title: $(x).attr("title") ?? null,
+      scrolling: $(x).attr("scrolling") ?? "no",
+      frameborder: $(x).attr("frameborder") ?? "no",
+    });
+  });
+  return { iframes, url };
+}
 
 for (let i = 1; i < totalPages; i++) {
   phin({
@@ -129,10 +129,11 @@ for (let i = 1; i < totalPages; i++) {
             slug: post.slug,
             author: post.author,
             banner: images,
-            description: post.yoast_head_json.description,
+            description: post.yoast_head_json.og_description,
             published: true,
             tags: extract,
             featured: featured,
+            itworked: true,
           };
           const turndownService = new TurndownService({});
           turndownService.addRule("<3", {
@@ -160,7 +161,8 @@ for (let i = 1; i < totalPages; i++) {
           );
           const imgHtml = `<img src=../${images[0]} alt="image"></img>`;
           const imgMd = turndownService.turndown(imgHtml);
-          const yamlData = yaml.safeDump(data);
+          const yamlData = yaml.dump(data);
+
           const folderDirectory = path.join(
             rootDir,
             `src/routes/blog/${post.slug}`
@@ -178,7 +180,9 @@ for (let i = 1; i < totalPages; i++) {
               `${markdownString}`
           );
         })
-      );
+      ).catch((e) => {
+        console.log(e, "error");
+      });
     });
 }
 
@@ -199,3 +203,5 @@ const downloadImageTo = (url, dest) =>
       res.on("error", reject);
     });
   });
+
+// I w
