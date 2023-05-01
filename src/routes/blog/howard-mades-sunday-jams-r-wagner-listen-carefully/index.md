@@ -11,5 +11,6 @@ description: 'No explanation needed. Howard and the crew are at Bangface. [...]R
 published: true
 tags: feature
 featured: false
+itworked: true
 ---
 ![image](../imported/howard-mades-sunday-jams-r-wagner-listen-carefully/image1047.jpeg)No explanation needed. Howard and the crew are at Bangface.<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://www.youtube.com/embed/zpdZsPcrEm8'></iframe>

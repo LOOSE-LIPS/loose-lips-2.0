@@ -7,16 +7,12 @@ slug: kortzers-sunday-jams-william-basinski-dlp-3
 author: 96
 banner:
   - imported/kortzers-sunday-jams-william-basinski-dlp-3/image737.jpeg
-description: >-
-  Taking a turn from the trends of weeks gone by I&#39;ve chosen one of the
-  loops from William Basinski&#39;s Disintegration Loops. Basinski recorded the
-  loops from clips of ambient music with the tape eventually starting to
-  &nbsp;deteriorate and give distorted sound. Its surprising how easy it is to
-  listen to the same loop over &amp; [...]Read More...
+description: post.yoast_head_json.description
 published: true
 tags: feature
 featured: false
+itworked: true
 ---
-![image](../imported/kortzers-sunday-jams-william-basinski-dlp-3/image737.jpeg)Taking a turn from the trends of weeks gone by I've chosen one of the loops from William Basinski's Disintegration Loops. Basinski recorded the loops from clips of ambient music with the tape eventually starting to  deteriorate and give distorted sound. Its surprising how easy it is to listen to the same loop over & over for 40 minutes but the subtle changes & deteriorations give a hypnotic progression. I hope you've all had a great weekend & can sink into dIp 3 like I am.
+![image](../imported/kortzers-sunday-jams-william-basinski-dlp-3/image737.jpeg)Taking a turn from the trends of weeks gone by I';ve chosen one of the loops from William Basinski';s Disintegration Loops. Basinski recorded the loops from clips of ambient music with the tape eventually starting to ';deteriorate and give distorted sound. Its surprising how easy it is to listen to the same loop over & over for 40 minutes but the subtle changes & deteriorations give a hypnotic progression. I hope you';ve all had a great weekend & can sink into dIp 3 like I am.
 
 <iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/LGddm-hw-Xc?wmode=opaque'></iframe>

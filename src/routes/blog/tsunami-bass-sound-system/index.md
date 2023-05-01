@@ -16,5 +16,6 @@ description: >-
 published: true
 tags: interview
 featured: false
+itworked: true
 ---
 ![image](../imported/tsunami-bass-sound-system/image812.jpeg)

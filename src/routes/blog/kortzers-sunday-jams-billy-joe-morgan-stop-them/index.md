@@ -8,12 +8,14 @@ author: 96
 banner:
   - imported/kortzers-sunday-jams-billy-joe-morgan-stop-them/image918.jpeg
 description: >-
-  This weeks; selection comes from Billy Joe Morgan with Stop Them. This track
-  is a personal favourite and Sunday classic to say the least. This is the only
-  track that I;ve come across from Billy but it;s an absolute Percy! If you were
-  to only record one track this isn;t a bad one to do, [...]Read More...
+  This weeks&#39; selection comes from Billy Joe Morgan with Stop Them. This
+  track is a personal favourite and Sunday classic to say the least. This is the
+  only track that I&#39;ve come across from Billy but it&#39;s an absolute
+  Percy! If you were to only record one track this isn&#39;t a bad one to do,
+  [...]Read More...
 published: true
 tags: feature
 featured: false
+itworked: true
 ---
-![image](../imported/kortzers-sunday-jams-billy-joe-morgan-stop-them/image918.jpeg)This weeks' selection comes from Billy Joe Morgan with _Stop Them_. This track is a personal favourite and Sunday classic to say the least. This is the only track that I've come across from Billy but it's an absolute Percy! If you were to only record one track this isn't a bad one to do, although I'm hoping there there's more that I just haven't come across.<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/NztdBXunjBs?wmode=opaque'></iframe>
+![image](../imported/kortzers-sunday-jams-billy-joe-morgan-stop-them/image918.jpeg)This weeks'; selection comes from Billy Joe Morgan with _Stop Them_. This track is a personal favourite and Sunday classic to say the least. This is the only track that I';ve come across from Billy but it';s an absolute Percy! If you were to only record one track this isn';t a bad one to do, although I';m hoping there there';s more that I just haven';t come across.<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/NztdBXunjBs?wmode=opaque'></iframe>

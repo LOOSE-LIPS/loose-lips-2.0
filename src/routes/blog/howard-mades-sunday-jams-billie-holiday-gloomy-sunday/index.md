@@ -17,5 +17,6 @@ description: >-
 published: true
 tags: feature
 featured: false
+itworked: true
 ---
 ![image](../imported/howard-mades-sunday-jams-billie-holiday-gloomy-sunday/image1054.jpeg)This beautiful song originally written in 1932 by Rezső Seress, about asking his dead lover to join his planned funeral. Also known as the Hungarian suicide song, it was banned from radio stations across the world including the bbc until 2002, for its alleged ties to suicides.Morbid, but nevertheless a fucking good song.<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='//www.youtube.com/embed/KUCyjDOlnPU?wmode=opaque'></iframe>

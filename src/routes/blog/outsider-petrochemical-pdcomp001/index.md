@@ -15,5 +15,6 @@ description: >-
 published: true
 tags: premiere
 featured: false
+itworked: true
 ---
-![image](../imported/outsider-petrochemical-pdcomp001/image979.jpeg)Dripping and sticking refined petroleum beats!From _PDCOMP001_ V/A compilation on [Pressure Dome](https://pressuredome.bandcamp.com/).Out 6.12 on digital – Pre-order: [](https://fanlink.to/PDCOMP001)[https://fanlink.to/PDCOMP001](https://fanlink.to/PDCOMP001)<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722243728&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>[](https://soundcloud.com/pressuredome)[https://soundcloud.com/pressuredome](https://soundcloud.com/pressuredome)
+![image](../imported/outsider-petrochemical-pdcomp001/image979.jpeg)Dripping and sticking refined petroleum beats!From _PDCOMP001_ V/A compilation on [Pressure Dome](https://pressuredome.bandcamp.com/).Out 6.12 on digital '; Pre-order: [](https://fanlink.to/PDCOMP001)[https://fanlink.to/PDCOMP001](https://fanlink.to/PDCOMP001)<iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/722243728&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true'></iframe>[](https://soundcloud.com/pressuredome)[https://soundcloud.com/pressuredome](https://soundcloud.com/pressuredome)

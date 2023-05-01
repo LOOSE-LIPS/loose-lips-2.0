@@ -10,16 +10,17 @@ banner:
 description: >-
   STEPPING UP we have a transmission live from the very centre of the Loose Lips
   universe; Medallion Man AKA Frederick Sugden AKA Loose Lips Bossman AKA the
-  breakbeat dungeon master AKA Mr Big Love AKA ;I hate Boris Johnson as a man
-  and as a politician;. The reason we;re all here today. All Spotify-able tracks
-  [...]Read More...
+  breakbeat dungeon master AKA Mr Big Love AKA &#39;I hate Boris Johnson as a
+  man and as a politician&#39;. The reason we&#39;re all here today. All
+  Spotify-able tracks [...]Read More...
 published: true
 tags: feature
 featured: false
+itworked: true
 ---
-![image](../imported/picks-medallion-mans-mad-murky-melters/image1301.jpeg)**_STEPPING UP we have a transmission live from the very centre of the Loose Lips universe; Medallion Man AKA Frederick Sugden AKA Loose Lips Bossman AKA the breakbeat dungeon master AKA Mr Big Love AKA 'I hate Boris Johnson as a man and as a politician'. The reason we're all here today. All Spotify-able tracks gathered_** [**_here_**](https://open.spotify.com/playlist/1oXB6ruzqKvS9mEZaLcqe8?si=FablKtiWTqCVXcLNHnoyuA)**_, take it away Freddie…_**
+![image](../imported/picks-medallion-mans-mad-murky-melters/image1301.jpeg)**_STEPPING UP we have a transmission live from the very centre of the Loose Lips universe; Medallion Man AKA Frederick Sugden AKA Loose Lips Bossman AKA the breakbeat dungeon master AKA Mr Big Love AKA ';I hate Boris Johnson as a man and as a politician';. The reason we';re all here today. All Spotify-able tracks gathered';_**[**_here_**](https://open.spotify.com/playlist/1oXB6ruzqKvS9mEZaLcqe8?si=FablKtiWTqCVXcLNHnoyuA)**_, take it away Freddie…_**
 
-"10 pieces of mischievous malarkey, made malicious by meaningful musicians. Music that’s massively moving me."
+"10 pieces of mischievous malarkey, made malicious by meaningful musicians. Music that';s massively moving me."
 
 <iframe width='100%' height='300' scrolling='no' frameborder='no' allow='autoplay' src='http://www.youtube.com/embed/ieXfF89NrXQ?wmode=opaque'></iframe>Motivational.
 
