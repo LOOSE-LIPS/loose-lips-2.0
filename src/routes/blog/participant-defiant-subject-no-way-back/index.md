@@ -9,9 +9,9 @@ banner:
   - imported/participant-defiant-subject-no-way-back/image1147.jpeg
 description: >-
   Participant drops a dark and steady roller for both the head and the legs!
-  From Stir Crazy Vol.1 V/A compilation on No Way Back. Out now on digital
-  &#8211; https://nowaybackuk.bandcamp.com/album/stir-crazy-vol-1All proceeds
-  are going to PAFRAS (Positive Action For Refugees &amp; Asylum Seekers)
+  From Stir Crazy Vol.1 V/A compilation on No Way Back. Out now on digital –
+  https://nowaybackuk.bandcamp.com/album/stir-crazy-vol-1All proceeds are going
+  to PAFRAS (Positive Action For Refugees & Asylum Seekers)
   https://soundcloud.com/nwbschttps://soundcloud.com/participantmusichttps://www.facebook.com/NoWayBackUK/
   [...]Read More...
 published: true

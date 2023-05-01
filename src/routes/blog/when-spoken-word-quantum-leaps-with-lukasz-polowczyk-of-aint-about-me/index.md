@@ -14,7 +14,7 @@ description: >-
   Spoken word set to music is a lineage. You can trace its roots back to the 60s
   / 70s and the likes of The Last Poets, Gil Scott Heron and Linton Kwesi
   Johnson. Arguably, rap is also spoken word, but because it carved out its own
-  lane along the way, maybe it&rsquo;s more accurate to [...]Read More...
+  lane along the way, maybe it’s more accurate to [...]Read More...
 published: true
 tags: interview
 featured: false

@@ -9,9 +9,8 @@ banner:
   - imported/algorythm-popeye-cc034/image817.jpeg
 description: >-
   Raving in the middle of a field of arpeggiated wonders with Algorythm! From
-  Spirals Vol. 7 V/A compilation on Constant Circles. Out 24.05 on digital
-  &#8211; Pre-order: https://fanlink.to/cc034
-  https://soundcloud.com/constantcircles
+  Spirals Vol. 7 V/A compilation on Constant Circles. Out 24.05 on digital –
+  Pre-order: https://fanlink.to/cc034 https://soundcloud.com/constantcircles
   https://soundcloud.com/algorythm-official [...]Read More...
 published: true
 tags: premiere

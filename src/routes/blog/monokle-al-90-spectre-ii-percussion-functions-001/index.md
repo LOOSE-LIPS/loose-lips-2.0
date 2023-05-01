@@ -10,7 +10,7 @@ description: >-
   In this fantastic piece of dancefloor music, Monokle and AL-90 invite us on a
   journey that is at the same time personal and greatly euphoric, framed with
   dark undertones. From PERCUSSION FUNCTIONS 001 V/A compilation on Percussion
-  Functions. Out 15.05 on 12&quot; and digital
+  Functions. Out 15.05 on 12" and digital
   https://soundcloud.com/percussionfunctions https://soundcloud.com/monokle
   https://soundcloud.com/absurdlight [...]Read More...
 published: true

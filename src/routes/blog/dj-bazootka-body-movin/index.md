@@ -7,12 +7,7 @@ slug: dj-bazootka-body-movin
 author: 100
 banner:
   - imported/dj-bazootka-body-movin/image1144.jpeg
-description: >-
-  Down-to-the-floor pumpin&#39; &amp; bouncin&#39; booty number.&nbsp; From DJ
-  Bazootka&#39;s Body Movin&#39; EP. Includes a remix by Japanese Acid Person.
-  Out now on digital &#8211; Order:
-  https://djbazootka.bandcamp.com/album/body-movin
-  https://soundcloud.com/djbazootka [...]Read More...
+description: "Down-to-the-floor pumpin' & bouncin' booty number.\_ From DJ Bazootka's Body Movin' EP. Includes a remix by Japanese Acid Person. Out now on digital – Order: https://djbazootka.bandcamp.com/album/body-movin https://soundcloud.com/djbazootka [...]Read More..."
 published: true
 tags: premiere
 featured: false

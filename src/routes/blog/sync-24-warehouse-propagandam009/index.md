@@ -7,13 +7,7 @@ slug: sync-24-warehouse-propagandam009
 author: 100
 banner:
   - imported/sync-24-warehouse-propagandam009/image777.jpeg
-description: >-
-  Fast paced energy and bass drums so fat they can bend concrete, turning the
-  warehouse into a bouncy castle travelling the galaxy at hyperspeed.&nbsp; From
-  Sync 24 and Jensen Interceptor&#39;s Code Three split EP on Propaganda Moscow.
-  Out now on 12&quot; &#8211; Order: https://clone.nl/item54745.html
-  https://soundcloud.com/propagandamoscow
-  https://soundcloud.com/cultivated-electronics [...]Read More...
+description: "Fast paced energy and bass drums so fat they can bend concrete, turning the warehouse into a bouncy castle travelling the galaxy at hyperspeed.\_ From Sync 24 and Jensen Interceptor's Code Three split EP on Propaganda Moscow. Out now on 12\" – Order: https://clone.nl/item54745.html https://soundcloud.com/propagandamoscow https://soundcloud.com/cultivated-electronics [...]Read More..."
 published: true
 tags: premiere
 featured: false

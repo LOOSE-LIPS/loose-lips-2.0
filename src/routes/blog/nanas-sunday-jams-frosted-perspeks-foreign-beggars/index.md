@@ -7,12 +7,7 @@ slug: nanas-sunday-jams-frosted-perspeks-foreign-beggars
 author: 125
 banner:
   - imported/nanas-sunday-jams-frosted-perspeks-foreign-beggars/image1228.jpeg
-description: >-
-  &nbsp;Banner artwork by the majestic Trav Yes Yes Yes Sunday Jammers. Hotness
-  in the bloody city, love that life is making a comeback albeit with a
-  makeover. Hearing tales from friends who are having socially distanced fun,
-  listening to music and bobbing heads at DJ sets is like a dream in soft focus.
-  Headz bobbing [...]Read More...
+description: "\_Banner artwork by the majestic Trav Yes Yes Yes Sunday Jammers. Hotness in the bloody city, love that life is making a comeback albeit with a makeover. Hearing tales from friends who are having socially distanced fun, listening to music and bobbing heads at DJ sets is like a dream in soft focus. Headz bobbing [...]Read More..."
 published: true
 tags: feature
 featured: false

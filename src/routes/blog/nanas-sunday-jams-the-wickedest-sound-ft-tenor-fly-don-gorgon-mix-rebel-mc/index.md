@@ -10,12 +10,7 @@ author: 125
 banner:
   - >-
     imported/nanas-sunday-jams-the-wickedest-sound-ft-tenor-fly-don-gorgon-mix-rebel-mc/image1366.jpeg
-description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes and Yes Sunday Jammers. All is a madness once
-  again. Am hard trying not to dwell on the sands that are shifting so quickly
-  beneath us; it&rsquo;s just too disorientating, so instead I send you warm
-  salutations, wish you [...]Read More...
+description: "Banner artwork by the majestic Trav, all of Nana's jams are gathered in\_this playlist. Yes Yes and Yes Sunday Jammers. All is a madness once again. Am hard trying not to dwell on the sands that are shifting so quickly beneath us; it’s just too disorientating, so instead I send you warm salutations, wish you [...]Read More..."
 published: true
 tags: feature
 featured: false

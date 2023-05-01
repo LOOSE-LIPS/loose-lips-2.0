@@ -7,13 +7,7 @@ slug: wordless-tone
 author: 100
 banner:
   - imported/wordless-tone/image1051.jpeg
-description: >-
-  Welcome to our fourth monthly Deep Cuts article. What a month. This
-  month&rsquo;s theme is Wordless Tone, its prompt question was &#39;what music
-  speaks clearly without words&#39;.&nbsp;The illustration comes from&nbsp;Trav.
-  Music from each of this months&#39; writers is combined in the mix below,
-  their full answers below that.&nbsp; All the spotify-friendly music mentioned
-  is in&nbsp;this [...]Read More...
+description: "Welcome to our fourth monthly Deep Cuts article. What a month. This month’s theme is Wordless Tone, its prompt question was 'what music speaks clearly without words'.\_The illustration comes from\_Trav. Music from each of this months' writers is combined in the mix below, their full answers below that.\_ All the spotify-friendly music mentioned is in\_this [...]Read More..."
 published: true
 tags: deep-cuts
 featured: false

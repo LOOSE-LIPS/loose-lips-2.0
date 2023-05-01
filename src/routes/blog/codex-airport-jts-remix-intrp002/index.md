@@ -7,13 +7,7 @@ slug: codex-airport-jts-remix-intrp002
 author: 100
 banner:
   - imported/codex-airport-jts-remix-intrp002/image1255.jpeg
-description: >-
-  Durham-based producer JTS on remix duties here, taking the original into a
-  slick electronica leaning UKG number, building euphoria on top of the vocals!
-  From Codex&#39;s Airport / A Window Remixes EP on Interpolate Records. Out
-  18.09.2020 on digital &#8211; Pre-order:
-  https://interpolaterecords.bandcamp.com/album/airport-a-window-remixes
-  https://soundcloud.com/interpolaterecords &nbsp; [...]Read More...
+description: "Durham-based producer JTS on remix duties here, taking the original into a slick electronica leaning UKG number, building euphoria on top of the vocals! From Codex's Airport / A Window Remixes EP on Interpolate Records. Out 18.09.2020 on digital – Pre-order: https://interpolaterecords.bandcamp.com/album/airport-a-window-remixes https://soundcloud.com/interpolaterecords \_ [...]Read More..."
 published: true
 tags: premiere
 featured: false

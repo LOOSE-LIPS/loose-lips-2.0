@@ -8,11 +8,11 @@ author: 51
 banner:
   - imported/dnb-fix-017-dillinja-hard-noize-break-remix/image1140.jpeg
 description: >-
-  If I could pick one track to use as an example of Dillinja&rsquo;s genius, it
-  would be &lsquo;Hard Noize&rsquo;. 22 Years after its original release on Test
-  Recordings it returns May 29th as a remix by Break on Dillinja&rsquo;s imprint
-  Valve Recordings. 2020 has been difficult for many people so far. However, one
-  positive to [...]Read More...
+  If I could pick one track to use as an example of Dillinja’s genius, it would
+  be ‘Hard Noize’. 22 Years after its original release on Test Recordings it
+  returns May 29th as a remix by Break on Dillinja’s imprint Valve Recordings.
+  2020 has been difficult for many people so far. However, one positive to
+  [...]Read More...
 published: true
 tags: feature
 featured: false

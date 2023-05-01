@@ -6,15 +6,7 @@ type: post
 slug: church-andrews-matt-davies-bronko-health-06d
 author: 100
 banner: []
-description: >-
-  Simple in its form, Bronko&nbsp;is a substantially intricate marvel resulting
-  from the interaction of acoustic and digital mediums, giving not only this
-  piece, but the whole release a refined and emotionally-driven feel. A
-  masterpiece, no less. From Church Andrews &amp; Matt Davies&#39; NEIGHBOURS on
-  Health. Out 16.10.2020 on digital &#8211; Pre-order:
-  https://health.bandcamp.com/album/neighbours
-  https://health.bandcamp.comhttps://soundcloud.com/churchandrews The duo
-  [...]Read More...
+description: "Simple in its form, Bronko\_is a substantially intricate marvel resulting from the interaction of acoustic and digital mediums, giving not only this piece, but the whole release a refined and emotionally-driven feel. A masterpiece, no less. From Church Andrews & Matt Davies' NEIGHBOURS on Health. Out 16.10.2020 on digital – Pre-order: https://health.bandcamp.com/album/neighbours https://health.bandcamp.comhttps://soundcloud.com/churchandrews The duo [...]Read More..."
 published: true
 tags: premiere
 featured: false

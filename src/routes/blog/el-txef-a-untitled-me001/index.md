@@ -8,9 +8,9 @@ author: 100
 banner:
   - imported/el-txef-a-untitled-me001/image723.jpeg
 description: >-
-  Materia Exotica&#39;s first release with an Electrofunk tune worth robot
-  dancing to! From El_Txef_A&#39;s Blue Boat EP on Materia Exotica. Out 15.01 on
-  12&quot; &#8211; Pre-order: https://www.decks.de/m/eltxefa-blue_boat/cdg-ju
+  Materia Exotica's first release with an Electrofunk tune worth robot dancing
+  to! From El_Txef_A's Blue Boat EP on Materia Exotica. Out 15.01 on 12" –
+  Pre-order: https://www.decks.de/m/eltxefa-blue_boat/cdg-ju
   https://soundcloud.com/materiaexotica https://soundcloud.com/el_txef_a
   [...]Read More...
 published: true

@@ -7,13 +7,7 @@ slug: glass-ooh-sounds
 author: 100
 banner:
   - imported/glass-ooh-sounds/image1257.jpeg
-description: >-
-  In anticipation of Glass&#39; forthcoming release crY on&nbsp;OOH-sounds,
-  we&#39;ve caught up with the french duo as well as label boss Pardo for a
-  extensive double-bill interview. Hi Pardo! We&rsquo;ve been enjoying releases
-  from OOH-sounds since we&rsquo;ve discovered it through the&nbsp;Sim Hutchins
-  / Dale Cornish Decouple ][ Series&nbsp;and Wesqk Coast&rsquo;s&nbsp;S.T.A.S.H.
-  EP&nbsp;released early last year. What was [...]Read More...
+description: "In anticipation of Glass' forthcoming release crY on\_OOH-sounds, we've caught up with the french duo as well as label boss Pardo for a extensive double-bill interview. Hi Pardo! We’ve been enjoying releases from OOH-sounds since we’ve discovered it through the\_Sim Hutchins / Dale Cornish Decouple ][ Series\_and Wesqk Coast’s\_S.T.A.S.H. EP\_released early last year. What was [...]Read More..."
 published: true
 tags: interview
 featured: false

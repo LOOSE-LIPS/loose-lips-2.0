@@ -7,14 +7,7 @@ slug: blabbermouth-maschine-fragment-dirter-promotions
 author: 100
 banner:
   - imported/blabbermouth-maschine-fragment-dirter-promotions/image805.jpeg
-description: >-
-  A unique dystopian Rock song from an equally unique album. Thought provoking
-  and energising! From Blabbermouth&#39;s H&ouml;rspiel LP on Dirter Promotions.
-  Out 26.04 on 12&quot;, CD, cassette and digital.Pre-order physical release:
-  http://smarturl.it/BlabbermouthHorspiel&nbsp;Pre-order digital release:
-  http://www.dirterpromotions.com/ https://soundcloud.com/user-997091490
-  Here&#39;s some insight about this song, provided by Blabbermouth: Over here
-  and taking all our work! A.I. (Artificial Intelligence) [...]Read More...
+description: "A unique dystopian Rock song from an equally unique album. Thought provoking and energising! From Blabbermouth's Hörspiel LP on Dirter Promotions. Out 26.04 on 12\", CD, cassette and digital.Pre-order physical release: http://smarturl.it/BlabbermouthHorspiel\_Pre-order digital release: http://www.dirterpromotions.com/ https://soundcloud.com/user-997091490 Here's some insight about this song, provided by Blabbermouth: Over here and taking all our work! A.I. (Artificial Intelligence) [...]Read More..."
 published: true
 tags: premiere
 featured: false

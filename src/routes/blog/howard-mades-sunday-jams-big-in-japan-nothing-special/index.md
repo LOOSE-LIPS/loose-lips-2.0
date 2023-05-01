@@ -8,12 +8,7 @@ author: 63
 banner:
   - >-
     imported/howard-mades-sunday-jams-big-in-japan-nothing-special/image1001.jpeg
-description: >-
-  Contrary to the title, this song is definitely something special. Possibly the
-  most underrated band to come out of Liverpool. Deffo one of my favourites,
-  fuck the beatles with bells on.&nbsp; Jayne Cassey&#39;s vocals are so
-  eccentric, unique and almost childlike (she also used to perform with a
-  lampshade on her head, whilst the guitarist [...]Read More...
+description: "Contrary to the title, this song is definitely something special. Possibly the most underrated band to come out of Liverpool. Deffo one of my favourites, fuck the beatles with bells on.\_ Jayne Cassey's vocals are so eccentric, unique and almost childlike (she also used to perform with a lampshade on her head, whilst the guitarist [...]Read More..."
 published: true
 tags: feature
 featured: false

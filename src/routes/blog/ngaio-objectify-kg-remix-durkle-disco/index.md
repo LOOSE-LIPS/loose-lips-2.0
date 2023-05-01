@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/ngaio-objectify-kg-remix-durkle-disco/image1082.jpeg
 description: >-
-  An energetic UK Funky take on the original! From NGAIO&#39;s We Fly Remixes EP
-  on Durkle Disco. Out now on digital &#8211; Order:
+  An energetic UK Funky take on the original! From NGAIO's We Fly Remixes EP on
+  Durkle Disco. Out now on digital – Order:
   https://durkledisco.bandcamp.com/album/we-fly-remixes
   https://soundcloud.com/durklediscohttps://soundcloud.com/ngaioanyiahttps://soundcloud.com/karennyamekg
   [...]Read More...

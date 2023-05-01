@@ -9,8 +9,8 @@ banner:
   - imported/xdcvr-for-internal-use-only-ooh-018/image1015.jpeg
 description: >-
   A dive into semi-generative sequencing and FM synthesis, exploring meaningful
-  emotions with an attitude. From XDCVR&#39;s *1010010000 EP on OOH-sounds. Out
-  07.02.2020 &#8211; Pre-order: https://boomkat.com/products/10100100000
+  emotions with an attitude. From XDCVR's *1010010000 EP on OOH-sounds. Out
+  07.02.2020 – Pre-order: https://boomkat.com/products/10100100000
   https://soundcloud.com/ooh-soundshttps://soundcloud.com/xdcvr [...]Read
   More...
 published: true

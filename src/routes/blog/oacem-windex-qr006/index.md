@@ -12,8 +12,7 @@ description: >-
   hurricanes and thunderstorms with his Windex track. It starts with tidal waves
   crashing on top of each other with echoing whiplashes, transcending into
   heavenly soundscapes and regressing back into a deep sinking through never
-  ending trenches. From OACEM&#39;s Mixed Bacteria Soup album on [...]Read
-  More...
+  ending trenches. From OACEM's Mixed Bacteria Soup album on [...]Read More...
 published: true
 tags: premiere
 featured: false

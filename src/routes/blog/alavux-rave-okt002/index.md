@@ -7,14 +7,7 @@ slug: alavux-rave-okt002
 author: 100
 banner:
   - imported/alavux-rave-okt002/image1229.jpeg
-description: >-
-  A relentless trance-inducing acid-electro-tech number! From Alavux&#39;s
-  Glitch EP Vol.1 on Oktagon Records. Out now on limited
-  &nbsp;transparent&nbsp;7&quot; and digital &#8211;
-  https://alavux808.bandcamp.com/album/glitch-ep-vol-1(note that the 7&quot; is
-  already sold out)
-  www.alavux.blogspot.comwww.discogs.com/artist/1100696-Alavuxhttps://soundcloud.com/alavux
-  [...]Read More...
+description: "A relentless trance-inducing acid-electro-tech number! From Alavux's Glitch EP Vol.1 on Oktagon Records. Out now on limited \_transparent\_7\" and digital – https://alavux808.bandcamp.com/album/glitch-ep-vol-1(note that the 7\" is already sold out) www.alavux.blogspot.comwww.discogs.com/artist/1100696-Alavuxhttps://soundcloud.com/alavux [...]Read More..."
 published: true
 tags: premiere
 featured: false

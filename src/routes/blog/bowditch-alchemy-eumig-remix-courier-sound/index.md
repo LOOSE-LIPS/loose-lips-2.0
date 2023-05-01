@@ -7,13 +7,7 @@ slug: bowditch-alchemy-eumig-remix-courier-sound
 author: 100
 banner:
   - imported/bowditch-alchemy-eumig-remix-courier-sound/image781.jpeg
-description: >-
-  Eumig takes the original and re-localises it into a frozen moment in time.
-  Original taken from Bowditch&#39;s Alchemy 4&nbsp;EP on Courier. Out 18.03 on
-  limited mini CDr and digital &#8211; Pre-order:
-  https://couriersound.bandcamp.com/album/alchemy-4
-  https://soundcloud.com/couriersound http://soundcloud.com/stuartbowditch
-  https://soundcloud.com/user-215497162 [...]Read More...
+description: "Eumig takes the original and re-localises it into a frozen moment in time. Original taken from Bowditch's Alchemy 4\_EP on Courier. Out 18.03 on limited mini CDr and digital – Pre-order: https://couriersound.bandcamp.com/album/alchemy-4 https://soundcloud.com/couriersound http://soundcloud.com/stuartbowditch https://soundcloud.com/user-215497162 [...]Read More..."
 published: true
 tags: premiere
 featured: false

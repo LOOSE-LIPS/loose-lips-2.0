@@ -9,8 +9,8 @@ banner:
   - imported/whrk-mt-gaba-neur-evel033/image1206.jpeg
 description: >-
   A masterful gitch-o-matic braindance track, sliding through DSP spams under a
-  cosy romantic blanket and surrounded by bots on acid. From Whrk&#39;s
-  Tensafoam EP on Evel Records. Out now on digital &#8211; Order:
+  cosy romantic blanket and surrounded by bots on acid. From Whrk's Tensafoam EP
+  on Evel Records. Out now on digital – Order:
   https://evel.bandcamp.com/album/tensafoam
   https://soundcloud.com/evelrdcshttps://soundcloud.com/whrikk [...]Read More...
 published: true

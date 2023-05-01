@@ -13,7 +13,7 @@ description: >-
   melody-driven track. Hitting that Braindance itch!
   https://soundcloud.com/tudorbeatstudoracid.bandcamp.com This Live Session will
   be raising funds and awareness for fareshare.org.uk. Check out our Youtube,
-  Facebook &amp; Twitch pages at 18:30 (GMT). [...]Read More...
+  Facebook & Twitch pages at 18:30 (GMT). [...]Read More...
 published: true
 tags: live-session
 featured: false

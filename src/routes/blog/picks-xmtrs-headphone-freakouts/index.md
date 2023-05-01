@@ -7,13 +7,7 @@ slug: picks-xmtrs-headphone-freakouts
 author: 72
 banner:
   - imported/picks-xmtrs-headphone-freakouts/image1090.jpeg
-description: >-
-  As hailed by Jossy Mitsu, Corrupt Data is one of the most exciting underground
-  labels around, serving up fresh kicks of rave energy. Their new Covid-19
-  Support Compilation features the debut (in collaboration with Fiesta
-  Soundsystem)&nbsp;of an enormously talented producer and&nbsp;DJ, with a
-  dangerous quantity of genuine fire in the WIP folder. To celebrate, we
-  [...]Read More...
+description: "As hailed by Jossy Mitsu, Corrupt Data is one of the most exciting underground labels around, serving up fresh kicks of rave energy. Their new Covid-19 Support Compilation features the debut (in collaboration with Fiesta Soundsystem)\_of an enormously talented producer and\_DJ, with a dangerous quantity of genuine fire in the WIP folder. To celebrate, we [...]Read More..."
 published: true
 tags: feature
 featured: false

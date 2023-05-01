@@ -9,9 +9,8 @@ banner:
   - imported/bosconi-gang-band-150-snappy-boscogang0/image999.jpeg
 description: >-
   Syncopated mutant Funk speeding at 150 beats per minute with special guest A
-  Guy Called Gerald! From Bosconi Gang Band&#39;s Big Mob At Manifattura
-  Tabacchi LP on Bosconi Records. Out 15.01 on 12&quot; and digital &#8211;
-  Pre-order:
+  Guy Called Gerald! From Bosconi Gang Band's Big Mob At Manifattura Tabacchi LP
+  on Bosconi Records. Out 15.01 on 12" and digital – Pre-order:
   https://bosconirecords.bandcamp.com/album/boscogang0-big-mob-at-manifattura-tabacchi
   Manifattura Tabacchi is a former cigar and cigarette production site that is
   having a renaissance thanks to [...]Read More...

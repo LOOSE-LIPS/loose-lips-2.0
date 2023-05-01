@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/carl-finlow-carbon-deposits-vis317/image1064.jpeg
 description: >-
-  Cybernetic cruising in dark mode! From Carl Finlow&#39;s Apparatus LP on 20/20
-  Vision. Out 06.04.2020 on digital &#8211; Pre-order:
+  Cybernetic cruising in dark mode! From Carl Finlow's Apparatus LP on 20/20
+  Vision. Out 06.04.2020 on digital – Pre-order:
   https://www.juno.co.uk/products/carl-finlow-apparatus/741398-01/
   https://soundcloud.com/2020visionrecordingshttps://soundcloud.com/carlfinlow
   [...]Read More...

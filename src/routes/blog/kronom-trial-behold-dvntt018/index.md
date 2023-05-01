@@ -7,12 +7,7 @@ slug: kronom-trial-behold-dvntt018
 author: 100
 banner:
   - imported/kronom-trial-behold-dvntt018/image942.jpeg
-description: >-
-  Skopje-based producer Kronom unleashes an obsessive Broken Techno track,
-  showcasing his mastery of controlled noises and depth of sound.&nbsp; Out 4.11
-  on digital &#8211; Pre-orders from 17.11 on Bandcamp and 21.10 on Beatport.
-  https://soundcloud.com/kronombass https://soundcloud.com/dvntt [...]Read
-  More...
+description: "Skopje-based producer Kronom unleashes an obsessive Broken Techno track, showcasing his mastery of controlled noises and depth of sound.\_ Out 4.11 on digital – Pre-orders from 17.11 on Bandcamp and 21.10 on Beatport. https://soundcloud.com/kronombass https://soundcloud.com/dvntt [...]Read More..."
 published: true
 tags: premiere
 featured: false

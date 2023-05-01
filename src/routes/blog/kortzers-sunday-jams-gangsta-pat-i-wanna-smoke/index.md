@@ -9,10 +9,10 @@ banner:
   - imported/kortzers-sunday-jams-gangsta-pat-i-wanna-smoke/image847.jpeg
 description: >-
   This week is Memphis-inspired and comes from none other than Gangsta Pat!
-  Gangsta Pat isn&rsquo;t the first name that comes to mind when you think of a
-  Sunday Jam but let me assure you they don&rsquo;t get much better than this.
-  Pat Hall hails from Memphis and gained notoriety mainly in the 90s, he&#39;s
-  now [...]Read More...
+  Gangsta Pat isn’t the first name that comes to mind when you think of a Sunday
+  Jam but let me assure you they don’t get much better than this. Pat Hall hails
+  from Memphis and gained notoriety mainly in the 90s, he's now [...]Read
+  More...
 published: true
 tags: feature
 featured: false

@@ -7,14 +7,7 @@ slug: chris-mitchell-shadow-wands
 author: 43
 banner:
   - imported/chris-mitchell-shadow-wands/image752.jpeg
-description: >-
-  Shadow Wands encompasses a heavily synthesised and arpeggiated journey through
-  the darker sides of Chris Mitchell&#39;s mind, brought to life through the
-  famous 1980s American synthesiser, the Ensoniq ESQ1.&nbsp; &amp;amp;lt;a
-  href=&#8221;http://xcptmusic.bandcamp.com/album/xcptape02-shadow-wands&#8221;&amp;amp;gt;XCPTAPE02
-  | Shadow Wands by Chris Mitchell&amp;amp;lt;/a&amp;amp;gt; In Shadow Wands,
-  single notes dance in a sea of scales and an array of deftly-arranged
-  arpeggios, illustrating [...]Read More...
+description: "Shadow Wands encompasses a heavily synthesised and arpeggiated journey through the darker sides of Chris Mitchell's mind, brought to life through the famous 1980s American synthesiser, the Ensoniq ESQ1.\_ &amp;lt;a href=”http://xcptmusic.bandcamp.com/album/xcptape02-shadow-wands”&amp;gt;XCPTAPE02 | Shadow Wands by Chris Mitchell&amp;lt;/a&amp;gt; In Shadow Wands, single notes dance in a sea of scales and an array of deftly-arranged arpeggios, illustrating [...]Read More..."
 published: true
 tags: release-review
 featured: false

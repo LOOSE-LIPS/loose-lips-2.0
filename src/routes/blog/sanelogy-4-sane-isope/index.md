@@ -9,10 +9,10 @@ banner:
   - imported/sanelogy-4-sane-isope/image729.jpeg
 description: >-
   SANELOGY 4 track EP by Russell Burnell aka SANE is by far, one of the most
-  INSANE Techno records you&#39;ll ever hear. Released on the Belgian label
-  Isope and being delivered on lush Turquoise vinyl , it&#39;s clear to see that
-  a lot of thought has gone into this release, right down to the artwork
-  [...]Read More...
+  INSANE Techno records you'll ever hear. Released on the Belgian label Isope
+  and being delivered on lush Turquoise vinyl , it's clear to see that a lot of
+  thought has gone into this release, right down to the artwork [...]Read
+  More...
 published: true
 tags: release-review
 featured: false

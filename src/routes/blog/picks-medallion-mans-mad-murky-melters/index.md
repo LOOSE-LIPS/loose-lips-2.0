@@ -10,9 +10,9 @@ banner:
 description: >-
   STEPPING UP we have a transmission live from the very centre of the Loose Lips
   universe; Medallion Man AKA Frederick Sugden AKA Loose Lips Bossman AKA the
-  breakbeat dungeon master AKA Mr Big Love AKA &#39;I hate Boris Johnson as a
-  man and as a politician&#39;. The reason we&#39;re all here today. All
-  Spotify-able tracks [...]Read More...
+  breakbeat dungeon master AKA Mr Big Love AKA 'I hate Boris Johnson as a man
+  and as a politician'. The reason we're all here today. All Spotify-able tracks
+  [...]Read More...
 published: true
 tags: feature
 featured: false

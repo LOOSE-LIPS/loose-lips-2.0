@@ -7,13 +7,7 @@ slug: jfm-magic-moments
 author: 100
 banner:
   - imported/jfm-magic-moments/image1367.jpeg
-description: >-
-  Using Art of Noise&#39;s classic Moments in Love&#39;s main riff as a
-  backdrop, also referenced in the title, JFM create a sweet uplifting dance
-  track that reflects on his life experiences during this doomed year.But
-  it&#39;s not somber, it is lovely and hopeful, instead. From JFM&#39;s
-  self-released &#39;Magick Moments&#39; 2020&nbsp;EP. Out now on digital
-  &#8211; [...]Read More...
+description: "Using Art of Noise's classic Moments in Love's main riff as a backdrop, also referenced in the title, JFM create a sweet uplifting dance track that reflects on his life experiences during this doomed year.But it's not somber, it is lovely and hopeful, instead. From JFM's self-released 'Magick Moments' 2020\_EP. Out now on digital – [...]Read More..."
 published: true
 tags: premiere
 featured: false

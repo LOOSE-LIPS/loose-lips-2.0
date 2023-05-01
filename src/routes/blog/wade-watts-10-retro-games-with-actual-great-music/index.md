@@ -8,9 +8,9 @@ author: 100
 banner:
   - imported/wade-watts-10-retro-games-with-actual-great-music/image1399.jpeg
 description: >-
-  Who, or maybe should we say &#39;what&#39;, is Wade Watts?It&#39;s been
-  recently discovered that this entity has been synthesised in an FPGA.Yet, it
-  lives inside T-Scale&#39;s head permanently. A ghost in the shell, perhaps? A
+  Who, or maybe should we say 'what', is Wade Watts?It's been recently
+  discovered that this entity has been synthesised in an FPGA.Yet, it lives
+  inside T-Scale's head permanently. A ghost in the shell, perhaps? A
   non-malicious virus?No one knows. All we know for now are its releases on
   various labels such as Dionysian Mysteries, LOST [...]Read More...
 published: true

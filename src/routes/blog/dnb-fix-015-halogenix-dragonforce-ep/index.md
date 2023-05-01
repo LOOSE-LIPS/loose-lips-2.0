@@ -8,11 +8,11 @@ author: 112
 banner:
   - imported/dnb-fix-015-halogenix-dragonforce-ep/image1119.jpeg
 description: >-
-  More stellar quality production from Don Halogenix, he&rsquo;s offered up 4
-  tracks of solid straight-up well-dressed badman business on the Dragonforce
-  EP, out on Critical Music 8th of May. Title track Dragonforce is a proper
-  stepper that wouldn&rsquo;t be out of place in the murkiest of sets, cutting
-  through the rollers with crunch and attitude. [...]Read More...
+  More stellar quality production from Don Halogenix, he’s offered up 4 tracks
+  of solid straight-up well-dressed badman business on the Dragonforce EP, out
+  on Critical Music 8th of May. Title track Dragonforce is a proper stepper that
+  wouldn’t be out of place in the murkiest of sets, cutting through the rollers
+  with crunch and attitude. [...]Read More...
 published: true
 tags: feature
 featured: false

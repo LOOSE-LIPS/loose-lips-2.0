@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/otik-dioxide-dext012/image860.jpeg
 description: >-
-  Feels so good above prescribed dosage! Try it! From Otik&#39;s Dioxide EP on
-  DEXT Recordings. Out now on digital and 12&quot; &#8211;
+  Feels so good above prescribed dosage! Try it! From Otik's Dioxide EP on DEXT
+  Recordings. Out now on digital and 12" –
   https://dextrecordings.bandcamp.com/album/dioxide-ep
   https://soundcloud.com/dext-recordings https://soundcloud.com/otikmusic
   [...]Read More...

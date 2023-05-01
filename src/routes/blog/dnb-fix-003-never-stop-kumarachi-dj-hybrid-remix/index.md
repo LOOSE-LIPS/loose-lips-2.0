@@ -7,12 +7,7 @@ slug: dnb-fix-003-never-stop-kumarachi-dj-hybrid-remix
 author: 153
 banner:
   - imported/dnb-fix-003-never-stop-kumarachi-dj-hybrid-remix/image1003.jpeg
-description: >-
-  We&rsquo;re back for 2020!&nbsp; Having finally got over the holiday blues,
-  and the withdrawal; we&rsquo;re back with another Drum and Bass showcase.
-  &nbsp;This week we&rsquo;ve got the new Deep in the Jungle album. The sixth
-  instalment of this epic release contains tunes from Substrate, Veak, Conrad
-  Subs and Stompz. But our pick this time round [...]Read More...
+description: "We’re back for 2020!\_ Having finally got over the holiday blues, and the withdrawal; we’re back with another Drum and Bass showcase. \_This week we’ve got the new Deep in the Jungle album. The sixth instalment of this epic release contains tunes from Substrate, Veak, Conrad Subs and Stompz. But our pick this time round [...]Read More..."
 published: true
 tags: feature
 featured: false

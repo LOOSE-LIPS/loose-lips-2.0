@@ -8,7 +8,7 @@ author: 122
 banner:
   - imported/dnb-fix-033-wetman-ride-snoop/image1291.jpeg
 description: >-
-  This week&#39;s DnB fix comes all the way from the other side of the pond,
+  This week's DnB fix comes all the way from the other side of the pond,
   courtesy of Wetman, featuring on the Seattle based, Vivid Recordings. This
   latest release, The Wettening EP, is a five track journey of face melting,
   auditory opium. Comprised of bass-heavy, dubbed out beats, sprawled well

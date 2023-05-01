@@ -7,11 +7,11 @@ slug: dnb-fix-005-hurt-someone-chimpo-slay-drs
 author: 51
 banner: []
 description: >-
-  With Valentine&rsquo;s Day just around the corner three lords of Manchester
-  have chosen the perfect time to release this sexy Drum &amp; Bass future
-  anthem. DRS, Slay, and Chimpo team up on &lsquo;Hurt Someone&rsquo;, released
-  on Box &lsquo;n&rsquo; Lock. The track, which is produced by Chimpo himself,
-  features verses from all three artists and is [...]Read More...
+  With Valentine’s Day just around the corner three lords of Manchester have
+  chosen the perfect time to release this sexy Drum & Bass future anthem. DRS,
+  Slay, and Chimpo team up on ‘Hurt Someone’, released on Box ‘n’ Lock. The
+  track, which is produced by Chimpo himself, features verses from all three
+  artists and is [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -7,13 +7,7 @@ slug: picks-polo-lillis-panther-injections
 author: 100
 banner:
   - imported/picks-polo-lillis-panther-injections/image1209.jpeg
-description: >-
-  This week, we invite the twisted pop provocateur, Bristolian DJ and producer
-  Polo Lilli, fresh from the release of their transcendant breakbeat,
-  Pink-Floyd-on-pingers face-splash&nbsp;&#39;The Great Bootleg In The Sky&#39;
-  (out now on&nbsp;bandcamp). All Spotify-able tracks are gathered in&nbsp;this
-  playlist, take it away Prime Minister Polo&#8230; I like to think of a DJ set
-  as an [...]Read More...
+description: "This week, we invite the twisted pop provocateur, Bristolian DJ and producer Polo Lilli, fresh from the release of their transcendant breakbeat, Pink-Floyd-on-pingers face-splash\_'The Great Bootleg In The Sky' (out now on\_bandcamp). All Spotify-able tracks are gathered in\_this playlist, take it away Prime Minister Polo… I like to think of a DJ set as an [...]Read More..."
 published: true
 tags: feature
 featured: false

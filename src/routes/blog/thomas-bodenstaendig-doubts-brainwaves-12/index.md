@@ -10,8 +10,8 @@ banner:
 description: >-
   A period-piece of raw, provocative, uncompromising Electro Body Music from an
   authentic Ruhrpot degenerate!Out very soon on a label we fell in love with a
-  few months ago. From Thomas Bodenst&auml;ndig&#39;s Is This EBM? EP on
-  Brainwaves. Out 21.08 on digital &#8211; Pre-order:
+  few months ago. From Thomas Bodenständig's Is This EBM? EP on Brainwaves. Out
+  21.08 on digital – Pre-order:
   https://brainwavescrew.bandcamp.com/album/is-this-ebm
   https://soundcloud.com/brainwaves_crew [...]Read More...
 published: true

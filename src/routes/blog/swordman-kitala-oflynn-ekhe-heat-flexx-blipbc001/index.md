@@ -7,13 +7,7 @@ slug: swordman-kitala-oflynn-ekhe-heat-flexx-blipbc001
 author: 100
 banner:
   - imported/swordman-kitala-oflynn-ekhe-heat-flexx-blipbc001/image1188.jpeg
-description: >-
-  O&rsquo;Flynn and Ekhe have constructed a formidable, mutant electro,
-  sure-fire hitter built on vocal samples from Swordman Kitala and Tom
-  Blip&rsquo;s collaborative debut last year. Peppered with new vocal material
-  and unexpected turns, Swordman Kitala, O&rsquo;Flynn and Ekhe really make a
-  dream team on this track. From Swordman Kitala:&nbsp;Remixes EP on Blip Discs.
-  Out now [...]Read More...
+description: "O’Flynn and Ekhe have constructed a formidable, mutant electro, sure-fire hitter built on vocal samples from Swordman Kitala and Tom Blip’s collaborative debut last year. Peppered with new vocal material and unexpected turns, Swordman Kitala, O’Flynn and Ekhe really make a dream team on this track. From Swordman Kitala:\_Remixes EP on Blip Discs. Out now [...]Read More..."
 published: true
 tags: premiere
 featured: false

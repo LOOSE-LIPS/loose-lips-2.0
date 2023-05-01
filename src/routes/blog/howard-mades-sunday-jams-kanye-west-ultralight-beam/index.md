@@ -8,10 +8,10 @@ author: 63
 banner:
   - imported/howard-mades-sunday-jams-kanye-west-ultralight-beam/image1114.jpeg
 description: >-
-  So I know I did a Kanye tune last week but I don&#39;t care, this is a pivotal
+  So I know I did a Kanye tune last week but I don't care, this is a pivotal
   change in my life. This week I discovered the Wim Hoff breathing technique.
-  I&rsquo;d heard about it before off friends but just told them they were nuts
-  and I thought cold showers were just a bizzare form [...]Read More...
+  I’d heard about it before off friends but just told them they were nuts and I
+  thought cold showers were just a bizzare form [...]Read More...
 published: true
 tags: feature
 featured: false

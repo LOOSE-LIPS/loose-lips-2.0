@@ -9,10 +9,10 @@ banner:
   - imported/double-sustenance/image1354.jpeg
 description: >-
   So here we are, two years after I started gathering Deep Cuts contributions,
-  one year after we published the first multi-writer article &#39;Head
-  Space&#39;. I talked about the upsetting UK election results in this article,
-  not knowing just how much worse things would get, or how much life this
-  feature would give me. It&#39;s been [...]Read More...
+  one year after we published the first multi-writer article 'Head Space'. I
+  talked about the upsetting UK election results in this article, not knowing
+  just how much worse things would get, or how much life this feature would give
+  me. It's been [...]Read More...
 published: true
 tags: deep-cuts
 featured: false

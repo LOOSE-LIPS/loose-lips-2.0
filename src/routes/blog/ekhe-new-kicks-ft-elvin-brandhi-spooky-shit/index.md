@@ -9,9 +9,8 @@ banner:
   - imported/ekhe-new-kicks-ft-elvin-brandhi-spooky-shit/image977.jpeg
 description: >-
   Ekhe and Elvin Brandhi team up to have a go at ripping you a new hole with
-  this intense kick marathon! From Ekhe&#39;s Hed Fuq EP on Spooky Shit. Out
-  6.12 on digital &#8211; Pre-order:
-  https://spookyshit.bandcamp.com/album/hed-fuq
+  this intense kick marathon! From Ekhe's Hed Fuq EP on Spooky Shit. Out 6.12 on
+  digital – Pre-order: https://spookyshit.bandcamp.com/album/hed-fuq
   https://soundcloud.com/sp00kyshit https://soundcloud.com/ekhebeats
   https://soundcloud.com/elvin-brandhi-1 [...]Read More...
 published: true

@@ -12,11 +12,11 @@ banner:
   - >-
     imported/planet-euphorique-with-ccl-ciel-and-d-tiffany-at-the-pickle-factory-london-150220/image1025.jpeg
 description: >-
-  &lsquo;Toilets represent a temporary escape from the noise of glaring eyes and
+  ‘Toilets represent a temporary escape from the noise of glaring eyes and
   invasive hands. With unimaginably dirty surfaces and queues longer than is
   reasonable, all it usually takes is a small compliment to spark animated
-  conversation with another woman and her friends.&rsquo; This^ is from an
-  article (on the essential gal-dem blog) named &lsquo;The Joy [...]Read More...
+  conversation with another woman and her friends.’ This^ is from an article (on
+  the essential gal-dem blog) named ‘The Joy [...]Read More...
 published: true
 tags: event-review
 featured: false

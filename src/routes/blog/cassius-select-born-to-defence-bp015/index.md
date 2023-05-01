@@ -7,14 +7,7 @@ slug: cassius-select-born-to-defence-bp015
 author: 100
 banner:
   - imported/cassius-select-born-to-defence-bp015/image1329.jpeg
-description: >-
-  Hybrid broken beat goodness from Australian producer Cassius Select! This
-  title track is a sexy slow burner full of dancefloor freshness. From Cassius
-  Select&#39;s Born To Defence&nbsp;EP on Bristol-based Banoffee Pies. Out
-  4.12.2020 on 12&quot; and digital &#8211; Pre-order:
-  https://banoffeepiesrecords.bandcamp.com/album/heavyweight
-  https://soundcloud.com/banoffee-pieshttps://soundcloud.com/cassius-select
-  [...]Read More...
+description: "Hybrid broken beat goodness from Australian producer Cassius Select! This title track is a sexy slow burner full of dancefloor freshness. From Cassius Select's Born To Defence\_EP on Bristol-based Banoffee Pies. Out 4.12.2020 on 12\" and digital – Pre-order: https://banoffeepiesrecords.bandcamp.com/album/heavyweight https://soundcloud.com/banoffee-pieshttps://soundcloud.com/cassius-select [...]Read More..."
 published: true
 tags: premiere
 featured: false

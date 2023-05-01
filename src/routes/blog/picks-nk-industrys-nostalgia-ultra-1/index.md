@@ -7,13 +7,7 @@ slug: picks-nk-industrys-nostalgia-ultra-1
 author: 100
 banner:
   - imported/picks-nk-industrys-nostalgia-ultra-1/image1185.jpeg
-description: >-
-  NK INDUSTRY is a multidisciplinary recording artist based in North London.
-  After years of delivering his signature high-octane performances in and around
-  the capital, the Balamii and Threads-affiliated vocalist bided time and honed
-  in on his technical and songwriting abilities. Hard hitting lyricism, rapid
-  flows and flourishes of lightheartedness raise his debut single&nbsp;Somehow,
-  taken from [...]Read More...
+description: "NK INDUSTRY is a multidisciplinary recording artist based in North London. After years of delivering his signature high-octane performances in and around the capital, the Balamii and Threads-affiliated vocalist bided time and honed in on his technical and songwriting abilities. Hard hitting lyricism, rapid flows and flourishes of lightheartedness raise his debut single\_Somehow, taken from [...]Read More..."
 published: true
 tags: feature
 featured: false

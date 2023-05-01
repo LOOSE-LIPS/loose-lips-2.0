@@ -8,12 +8,7 @@ type: post
 slug: howard-mades-sunday-jams-sylvian-sakamoto-forbidden-colours
 author: 63
 banner: []
-description: >-
-  Such a beautiful piece, I only found it 2 days ago and tears did flow. Its
-  instrumental composed by Ryuichi Sakamoto is from a war film with David Bowie
-  called Merry Christmas Mr Lawrence, I havent seen it but I intend too. Then
-  the track was reissued with David Sylvian singing lyrics.&nbsp; Sorry this is
-  [...]Read More...
+description: "Such a beautiful piece, I only found it 2 days ago and tears did flow. Its instrumental composed by Ryuichi Sakamoto is from a war film with David Bowie called Merry Christmas Mr Lawrence, I havent seen it but I intend too. Then the track was reissued with David Sylvian singing lyrics.\_ Sorry this is [...]Read More..."
 published: true
 tags: feature
 featured: false

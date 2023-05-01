@@ -8,12 +8,11 @@ author: 146
 banner:
   - imported/biome-the-orcas-ep/image733.jpeg
 description: >-
-  Biome &mdash; one of Manchester&rsquo;s finest bass technicians &mdash; has
-  recently released The Orcas &mdash; a 3-track EP &mdash; as a teaser for his
-  forthcoming 2019 album. The whole release has a tense atmosphere,
-  characterised by rasping basslines and funky drum grooves created by this
-  unique producer. In the first track, &lsquo;Take Off&rsquo;, subtle pads
-  [...]Read More...
+  Biome — one of Manchester’s finest bass technicians — has recently released
+  The Orcas — a 3-track EP — as a teaser for his forthcoming 2019 album. The
+  whole release has a tense atmosphere, characterised by rasping basslines and
+  funky drum grooves created by this unique producer. In the first track, ‘Take
+  Off’, subtle pads [...]Read More...
 published: true
 tags: release-review
 featured: false

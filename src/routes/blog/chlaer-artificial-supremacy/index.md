@@ -8,8 +8,8 @@ author: 67
 banner:
   - imported/chlaer-artificial-supremacy/image1156.jpeg
 description: >-
-  Chl&auml;r has brought an unrelenting energy and an eclectic mix of tones to
-  his new EP on Bipolar Disorder. Originally from Switzerland and now based in
+  Chlär has brought an unrelenting energy and an eclectic mix of tones to his
+  new EP on Bipolar Disorder. Originally from Switzerland and now based in
   Berlin, he heads up Bipolar Disorder Recordings alongside The Chronics who is
   on remix duties for this release. The headline track, Artificial supremacy,
   offers a rolling bass and satisfying [...]Read More...

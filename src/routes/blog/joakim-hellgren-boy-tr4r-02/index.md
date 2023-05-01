@@ -7,13 +7,7 @@ slug: joakim-hellgren-boy-tr4r-02
 author: 100
 banner:
   - imported/joakim-hellgren-boy-tr4r-02/image831.jpeg
-description: >-
-  In a similar vein as his Lo-Fi House peers re-imagining House
-  Music,&nbsp;Joakim Hellgren drops his vision of a 93&#39; era &#39;Ardcore
-  Jungle track that punches through the guts! His d&amp;b focused contribution,
-  &lsquo;Boy&rsquo; is undoubtedly the most &lsquo;different&rsquo; of all the
-  tracks on show on TR4R02, principally because it adheres to a more d&amp;b
-  heavy [...]Read More...
+description: "In a similar vein as his Lo-Fi House peers re-imagining House Music,\_Joakim Hellgren drops his vision of a 93' era 'Ardcore Jungle track that punches through the guts! His d&b focused contribution, ‘Boy’ is undoubtedly the most ‘different’ of all the tracks on show on TR4R02, principally because it adheres to a more d&b heavy [...]Read More..."
 published: true
 tags: premiere
 featured: false

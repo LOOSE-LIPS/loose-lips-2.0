@@ -8,11 +8,11 @@ author: 96
 banner:
   - imported/kortzers-sunday-jams-velly-joonas-stopp-seisku-aeg/image778.jpeg
 description: >-
-  This week&#39;s selection comes in the form of Velly Joonas&#39;s Stopp Seisku
-  Aeg. The track was recorded in Soviet era Estonia and is an insightful look
-  into what kind of music was being made behind &quot;The iron Curtain&quot; at
-  what was creatively quite an oppressive period of time. Although recorded in
-  1980/83 the track wasn&#39;t [...]Read More...
+  This week's selection comes in the form of Velly Joonas's Stopp Seisku Aeg.
+  The track was recorded in Soviet era Estonia and is an insightful look into
+  what kind of music was being made behind "The iron Curtain" at what was
+  creatively quite an oppressive period of time. Although recorded in 1980/83
+  the track wasn't [...]Read More...
 published: true
 tags: feature
 featured: false

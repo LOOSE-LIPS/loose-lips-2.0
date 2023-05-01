@@ -7,12 +7,7 @@ slug: musicians-to-look-out-for-in-2021
 author: 100
 banner:
   - imported/musicians-to-look-out-for-in-2021/image1365.jpeg
-description: >-
-  As we end a truly odd and challenging year, we&#39;ve asked some of our crew
-  and extended family to look forward, onwards and upwards &#8211; sharing some
-  musical excitement! Jack Beattie:&nbsp;pq Nilihoxica&#39;s synth-extrodinaire
-  pq is a talented producer in his own right. Equally at home creating intricate
-  club-ready hits as he is expansive drones and [...]Read More...
+description: "As we end a truly odd and challenging year, we've asked some of our crew and extended family to look forward, onwards and upwards – sharing some musical excitement! Jack Beattie:\_pq Nilihoxica's synth-extrodinaire pq is a talented producer in his own right. Equally at home creating intricate club-ready hits as he is expansive drones and [...]Read More..."
 published: true
 tags: feature
 featured: false

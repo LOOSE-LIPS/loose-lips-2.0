@@ -9,9 +9,8 @@ banner:
   - imported/lbf-hypercharged-ie003/image1048.jpeg
 description: >-
   As if you were dropped inside the LHC as a quantum particle, Hypercharged
-  starts off the EP with strong, slick and contemporary aesthetics. From
-  LBF&#39;s Scent Of Gravity EP on Ideal Europa. Out 27.03.2020 on digital
-  &#8211; Pre-order:
+  starts off the EP with strong, slick and contemporary aesthetics. From LBF's
+  Scent Of Gravity EP on Ideal Europa. Out 27.03.2020 on digital – Pre-order:
   https://www.junodownload.com/products/lbf-la-boum-fatale-scent-of-gravity/4465576-02/
   https://soundcloud.com/idealeuropahttps://soundcloud.com/la-boum-fatale
   [...]Read More...

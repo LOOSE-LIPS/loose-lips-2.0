@@ -7,12 +7,7 @@ slug: eq-why-juke-pack-vol-1
 author: 70
 banner:
   - imported/eq-why-juke-pack-vol-1/image1292.jpeg
-description: >-
-  Juke Pack Vol.1 by EQ Why The footwork formula is a confounding one. Stock 808
-  drum kit sounds, vocal chops and sample loops are a lean recipe, yet fresh
-  takes from the limited ingredients turn up every day, 2 decades on.
-  &nbsp;Switch the emphasis from the rhythms to the melodies&nbsp;and you
-  suddenly have a different [...]Read More...
+description: "Juke Pack Vol.1 by EQ Why The footwork formula is a confounding one. Stock 808 drum kit sounds, vocal chops and sample loops are a lean recipe, yet fresh takes from the limited ingredients turn up every day, 2 decades on. \_Switch the emphasis from the rhythms to the melodies\_and you suddenly have a different [...]Read More..."
 published: true
 tags: review
 featured: false

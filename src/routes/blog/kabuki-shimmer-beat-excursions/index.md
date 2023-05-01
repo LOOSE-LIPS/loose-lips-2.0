@@ -7,12 +7,7 @@ slug: kabuki-shimmer-beat-excursions
 author: 100
 banner:
   - imported/kabuki-shimmer-beat-excursions/image1043.jpeg
-description: >-
-  A slow burning half-step hybrid from Kabuki, at crossroads between classic
-  Dubstep and Aux88-style Electro! From Beat Excursions #5&nbsp;V/A EP on Beat
-  Excursions. Out 27.03.2020 on digital &#8211; Pre-order:
-  https://iamkabuki.bandcamp.com/album/beat-excursions-5
-  https://soundcloud.com/iamkabuki [...]Read More...
+description: "A slow burning half-step hybrid from Kabuki, at crossroads between classic Dubstep and Aux88-style Electro! From Beat Excursions #5\_V/A EP on Beat Excursions. Out 27.03.2020 on digital – Pre-order: https://iamkabuki.bandcamp.com/album/beat-excursions-5 https://soundcloud.com/iamkabuki [...]Read More..."
 published: true
 tags: premiere
 featured: false

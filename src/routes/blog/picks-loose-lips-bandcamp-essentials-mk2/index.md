@@ -7,12 +7,7 @@ slug: picks-loose-lips-bandcamp-essentials-mk2
 author: 164
 banner:
   - imported/picks-loose-lips-bandcamp-essentials-mk2/image1050.jpeg
-description: >-
-  AND WE&#39;RE BACK. Over &nbsp;forty days of&nbsp;quarantine&nbsp;since
-  Bandcamp&#39;s last decision to waive their fees (when we published our first
-  Bandcamp Essentials article), shit has got real. And unreal. And then real
-  again. All that seems certain is that each day will bring peaks and troughs in
-  mood, and that we will turn to music for [...]Read More...
+description: "AND WE'RE BACK. Over \_forty days of\_quarantine\_since Bandcamp's last decision to waive their fees (when we published our first Bandcamp Essentials article), shit has got real. And unreal. And then real again. All that seems certain is that each day will bring peaks and troughs in mood, and that we will turn to music for [...]Read More..."
 published: true
 tags: feature
 featured: false

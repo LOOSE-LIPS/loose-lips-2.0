@@ -8,11 +8,11 @@ author: 121
 banner:
   - imported/editors-pick-trypheme-cpu-records/image1039.jpeg
 description: >-
-  It&rsquo;s rare in this day and age to experience music that is truly original
-  &#8211; seldom do I hear something that really manages to stimulate my senses
-  or spark sentiments in new ways. However, after seeing French electronic
-  artist Tryph&egrave;me&#39;s live performance in Manchester last Autumn, I was
-  left feeling overwhelmed, amazed and itching for [...]Read More...
+  It’s rare in this day and age to experience music that is truly original –
+  seldom do I hear something that really manages to stimulate my senses or spark
+  sentiments in new ways. However, after seeing French electronic artist
+  Tryphème's live performance in Manchester last Autumn, I was left feeling
+  overwhelmed, amazed and itching for [...]Read More...
 published: true
 tags: interview
 featured: false

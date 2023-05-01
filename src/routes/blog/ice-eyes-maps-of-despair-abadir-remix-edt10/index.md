@@ -7,14 +7,7 @@ slug: ice-eyes-maps-of-despair-abadir-remix-edt10
 author: 100
 banner:
   - imported/ice-eyes-maps-of-despair-abadir-remix-edt10/image1323.jpeg
-description: >-
-  Berlin-based Egyptian producer ABADIR reformulate Maps of Despair&nbsp;into a
-  hectic Jungle-meets-traditional-percussions piece. Highly satisfactory! From
-  Ice_Eyes&#39; Antipodes EP on Ernest D. Tapes. Out 16.11 on cassette and
-  digital &#8211; Pre-order:
-  https://ernestdtapes.bandcamp.com/album/antipodes-ep
-  https://soundcloud.com/ernestdtapeshttps://soundcloud.com/ice_eyeshttps://soundcloud.com/rami-abadir
-  [...]Read More...
+description: "Berlin-based Egyptian producer ABADIR reformulate Maps of Despair\_into a hectic Jungle-meets-traditional-percussions piece. Highly satisfactory! From Ice_Eyes' Antipodes EP on Ernest D. Tapes. Out 16.11 on cassette and digital – Pre-order: https://ernestdtapes.bandcamp.com/album/antipodes-ep https://soundcloud.com/ernestdtapeshttps://soundcloud.com/ice_eyeshttps://soundcloud.com/rami-abadir [...]Read More..."
 published: true
 tags: premiere
 featured: false

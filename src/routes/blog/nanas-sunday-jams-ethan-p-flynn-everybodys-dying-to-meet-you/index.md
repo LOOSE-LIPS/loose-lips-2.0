@@ -11,9 +11,8 @@ banner:
 description: >-
   Artwork by the majestic Trav Yes Yes Sunday Jammers. Another one has come,
   gone and getting ready to turn around again. Hope you are well, managing to
-  stay sane. So, some of you might be on this already &#8211; had a little back
-  and forth whether I should jump on the bandwagon- did not take [...]Read
-  More...
+  stay sane. So, some of you might be on this already – had a little back and
+  forth whether I should jump on the bandwagon- did not take [...]Read More...
 published: true
 tags: feature
 featured: false

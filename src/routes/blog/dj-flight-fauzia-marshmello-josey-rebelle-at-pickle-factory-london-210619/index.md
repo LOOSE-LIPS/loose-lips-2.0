@@ -9,11 +9,11 @@ slug: dj-flight-fauzia-marshmello-josey-rebelle-at-pickle-factory-london-210619
 author: 164
 banner: []
 description: >-
-  You would think that a &pound;3500 application fee, British and Singaporean
-  degrees, a British husband and a clean record would be enough to get a visa to
-  live here. Nope, the process is arduous, going through it is like having a
-  second job, and you don&rsquo;t get your money back if it&rsquo;s
-  unsuccessful. After my [...]Read More...
+  You would think that a £3500 application fee, British and Singaporean degrees,
+  a British husband and a clean record would be enough to get a visa to live
+  here. Nope, the process is arduous, going through it is like having a second
+  job, and you don’t get your money back if it’s unsuccessful. After my
+  [...]Read More...
 published: true
 tags: event-review
 featured: false

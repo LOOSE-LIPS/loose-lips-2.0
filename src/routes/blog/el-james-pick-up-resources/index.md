@@ -9,8 +9,8 @@ banner:
   - imported/el-james-pick-up-resources/image934.jpeg
 description: >-
   FM-driven club assault, transforming from Techno into Jungly breaks! From
-  HUMAN [RE]SOURCES Vol.3 V/A compilation on [re]sources. Out now on digital
-  &#8211; https://resources.bandcamp.com/ https://soundcloud.com/resourcesmusic
+  HUMAN [RE]SOURCES Vol.3 V/A compilation on [re]sources. Out now on digital –
+  https://resources.bandcamp.com/ https://soundcloud.com/resourcesmusic
   https://soundcloud.com/yungelj [...]Read More...
 published: true
 tags: premiere

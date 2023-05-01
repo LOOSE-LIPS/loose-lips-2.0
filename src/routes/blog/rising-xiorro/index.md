@@ -8,11 +8,11 @@ author: 7
 banner:
   - imported/rising-xiorro/image917.jpeg
 description: >-
-  RISING: XIORRO INTERVIEW &amp; REVIEW Felton Cortijo aka Xiorro has been
-  making earthquakes in the techno underground. Since co-founding ALKHEMY &amp;
-  The Black Hole back in 2016 with his partner Christina Hernandez (Adrestia),
-  he has proven to be one of the genre&rsquo;s most exciting new artists, as
-  well as one of the most genuine people [...]Read More...
+  RISING: XIORRO INTERVIEW & REVIEW Felton Cortijo aka Xiorro has been making
+  earthquakes in the techno underground. Since co-founding ALKHEMY & The Black
+  Hole back in 2016 with his partner Christina Hernandez (Adrestia), he has
+  proven to be one of the genre’s most exciting new artists, as well as one of
+  the most genuine people [...]Read More...
 published: true
 tags: interview
 featured: false

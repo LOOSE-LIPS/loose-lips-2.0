@@ -8,12 +8,11 @@ author: 164
 banner:
   - imported/yushhs-broken-beat-badness-1/image937.jpeg
 description: >-
-  Ahead of her set at Loose Lips&rsquo; 5th anniversary night in Bristol, we
-  asked local donnie Yushh to share some of the lush, hater-hushing sonic
-  badassery that characterises her sets. The Pressure Dome labelhead did not
-  disappoint, sharing a slew of &lsquo;Broken beat badddnessss&rsquo; (yes we
-  corrected the spelling, we&rsquo;re sorry.) Enjoy! Tom Blip &amp; [...]Read
-  More...
+  Ahead of her set at Loose Lips’ 5th anniversary night in Bristol, we asked
+  local donnie Yushh to share some of the lush, hater-hushing sonic badassery
+  that characterises her sets. The Pressure Dome labelhead did not disappoint,
+  sharing a slew of ‘Broken beat badddnessss’ (yes we corrected the spelling,
+  we’re sorry.) Enjoy! Tom Blip & [...]Read More...
 published: true
 tags: feature
 featured: false

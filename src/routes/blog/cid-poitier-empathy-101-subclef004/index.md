@@ -7,7 +7,7 @@ slug: cid-poitier-empathy-101-subclef004
 author: 100
 banner:
   - imported/cid-poitier-empathy-101-subclef004/image846.jpeg
-description: "There&#39;s a sweet sense a classy compassion on this bass-heavy number \U0001F642 From Cid Poitier&#39;s Earth Cry EP on Sub:Clef. Out 05.06 (World Environment Day) on digital &#8211; Pre-order: https://subclef.bandcamp.com/album/cid-poitier-earth-cry-ep https://soundcloud.com/subclef https://soundcloud.com/cid-poitier [...]Read More..."
+description: "There's a sweet sense a classy compassion on this bass-heavy number \U0001F642 From Cid Poitier's Earth Cry EP on Sub:Clef. Out 05.06 (World Environment Day) on digital – Pre-order: https://subclef.bandcamp.com/album/cid-poitier-earth-cry-ep https://soundcloud.com/subclef https://soundcloud.com/cid-poitier [...]Read More..."
 published: true
 tags: premiere
 featured: false

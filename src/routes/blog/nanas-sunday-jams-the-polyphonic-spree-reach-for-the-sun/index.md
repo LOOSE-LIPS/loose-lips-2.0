@@ -9,11 +9,11 @@ banner:
   - >-
     imported/nanas-sunday-jams-the-polyphonic-spree-reach-for-the-sun/image1385.jpeg
 description: >-
-  [Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered in
-  this playlist.] This week&rsquo;s Sunday Jam is a fizz-filled, elevating,
-  rhythmic slice of sonic loveliness. The tune that started off the best part of
-  my day, set up all the notes and just cheered everything up. I&rsquo;m keeping
-  it really short, all [...]Read More...
+  [Banner artwork by the majestic Trav, all of Nana's jams are gathered in this
+  playlist.] This week’s Sunday Jam is a fizz-filled, elevating, rhythmic slice
+  of sonic loveliness. The tune that started off the best part of my day, set up
+  all the notes and just cheered everything up. I’m keeping it really short, all
+  [...]Read More...
 published: true
 tags: feature
 featured: false

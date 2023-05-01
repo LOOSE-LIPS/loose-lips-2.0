@@ -9,10 +9,10 @@ slug: nanas-sunday-jams-the-light-3000-schneider-tm-kpt-michigan
 author: 125
 banner: []
 description: >-
-  [Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered in
-  this playlist.] Yes Yes Sunday Jammers. Happy, Happy New Year, we made it to
-  2021 and whatever way you made it to the finish line, well done. Not that we
-  are out of the woods yet, but there are slivers of light, [...]Read More...
+  [Banner artwork by the majestic Trav, all of Nana's jams are gathered in this
+  playlist.] Yes Yes Sunday Jammers. Happy, Happy New Year, we made it to 2021
+  and whatever way you made it to the finish line, well done. Not that we are
+  out of the woods yet, but there are slivers of light, [...]Read More...
 published: true
 tags: feature
 featured: false

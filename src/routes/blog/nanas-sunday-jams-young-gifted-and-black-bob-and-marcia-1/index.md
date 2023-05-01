@@ -9,11 +9,11 @@ banner:
   - >-
     imported/nanas-sunday-jams-young-gifted-and-black-bob-and-marcia-1/image1252.jpeg
 description: >-
-  Editor&#39;s note; the LL editorial team had a multi-layered mare last Sunday
-  that prevented us publishing this article, and thought it made sense to
-  release it the following Sunday. Banner artwork by Trav, all of Nana&#39;s
-  jams are gathered in this playlist. Hello Sunday Jammers, hope all is good at
-  your end of things. A [...]Read More...
+  Editor's note; the LL editorial team had a multi-layered mare last Sunday that
+  prevented us publishing this article, and thought it made sense to release it
+  the following Sunday. Banner artwork by Trav, all of Nana's jams are gathered
+  in this playlist. Hello Sunday Jammers, hope all is good at your end of
+  things. A [...]Read More...
 published: true
 tags: feature
 featured: false

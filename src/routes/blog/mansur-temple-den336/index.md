@@ -7,14 +7,7 @@ slug: mansur-temple-den336
 author: 100
 banner:
   - imported/mansur-temple-den336/image1195.jpeg
-description: >-
-  A cinematic journey through surreal landscapes, ported by the phenomenal voice
-  of Martina Horv&aacute;th. From Mansur&#39;s Temple&nbsp;EP on Denovali. Out
-  10.07.2020 on 12&quot;, CD and digital &#8211; Pre-order:
-  https://www.denovali.com/mansur https://soundcloud.com/denovali MANSUR is the
-  newly initiated project by Jason Kohnen (ex-The Kilimanjaro Darkjazz Ensemble,
-  ex-The Mount Fuji Doom- jazz Corporation) joined by Dimitry El-Demerdashi
-  (ex-Phurpa) and [...]Read More...
+description: "A cinematic journey through surreal landscapes, ported by the phenomenal voice of Martina Horváth. From Mansur's Temple\_EP on Denovali. Out 10.07.2020 on 12\", CD and digital – Pre-order: https://www.denovali.com/mansur https://soundcloud.com/denovali MANSUR is the newly initiated project by Jason Kohnen (ex-The Kilimanjaro Darkjazz Ensemble, ex-The Mount Fuji Doom- jazz Corporation) joined by Dimitry El-Demerdashi (ex-Phurpa) and [...]Read More..."
 published: true
 tags: premiere
 featured: false

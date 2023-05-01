@@ -7,13 +7,7 @@ slug: sophia-saze-self-part-one-kingdoms
 author: 98
 banner:
   - imported/sophia-saze-self-part-one-kingdoms/image899.jpeg
-description: >-
-  Tbilisi-born Georgian artist Sophia Saze released the first part of her debut
-  two-part album Self on Francis Harris&acute; imprint Kingdoms. Self (part
-  one)&nbsp;comprises a reflection of her struggles in life and expresses her
-  experiences of growing up as a daughter of political refugees. Living in
-  several different places, such as Russia, the United States, France, [...]Read
-  More...
+description: "Tbilisi-born Georgian artist Sophia Saze released the first part of her debut two-part album Self on Francis Harris´ imprint Kingdoms. Self (part one)\_comprises a reflection of her struggles in life and expresses her experiences of growing up as a daughter of political refugees. Living in several different places, such as Russia, the United States, France, [...]Read More..."
 published: true
 tags: release-review
 featured: false

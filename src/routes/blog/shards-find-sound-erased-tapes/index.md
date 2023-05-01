@@ -11,8 +11,8 @@ description: >-
   Find Sound is the debut album from Shards, a London-based vocal group led by
   singer, composer and producer Kieran Brunt. After a collaboration with Terry
   Riley in 2016, Brunt was asked by the Barbican to form a choral group for Nils
-  Frahm&rsquo;s Possibly Colliding Festival. This led to an invitation to
-  collaborate on vocal arrangements [...]Read More...
+  Frahm’s Possibly Colliding Festival. This led to an invitation to collaborate
+  on vocal arrangements [...]Read More...
 published: true
 tags: release-review
 featured: false

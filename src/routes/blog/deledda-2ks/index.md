@@ -7,13 +7,7 @@ slug: deledda-2ks
 author: 100
 banner:
   - imported/deledda-2ks/image1263.jpeg
-description: >-
-  We&#39;ve caught up with&nbsp;SCHiLLiNG&nbsp;and&nbsp;Kisk, talking about
-  their new project with Deledda on the forthcoming Spore&nbsp;EP on their very
-  own&nbsp;Apparel Tronic, from which you can have a glimpse at with our
-  premiere: Hi guys! Could you introduce yourselves in a few words to our
-  readers? Here&#39;s Ludovico Schilling (SCHiLLiNG), founder of Apparel Tronic
-  together with Giuseppe [...]Read More...
+description: "We've caught up with\_SCHiLLiNG\_and\_Kisk, talking about their new project with Deledda on the forthcoming Spore\_EP on their very own\_Apparel Tronic, from which you can have a glimpse at with our premiere: Hi guys! Could you introduce yourselves in a few words to our readers? Here's Ludovico Schilling (SCHiLLiNG), founder of Apparel Tronic together with Giuseppe [...]Read More..."
 published: true
 tags: interview
 featured: false

@@ -7,11 +7,11 @@ slug: nas1-minimono-guide-us-onwards
 author: 100
 banner: []
 description: >-
-  What&rsquo;s up sugarpuffs. It&rsquo;s your conductor speaking. The seas are
-  shifting under our feet, bubbling and bursting like the positive lasagne of
-  matter, problematic but potentially delicious. Will we all be dosed with
-  vaccine, shoveling down vegan mcmuffins at the midpoint of a 72 hour bender
-  this time 4 months from now? Who knows. I&rsquo;m [...]Read More...
+  What’s up sugarpuffs. It’s your conductor speaking. The seas are shifting
+  under our feet, bubbling and bursting like the positive lasagne of matter,
+  problematic but potentially delicious. Will we all be dosed with vaccine,
+  shoveling down vegan mcmuffins at the midpoint of a 72 hour bender this time 4
+  months from now? Who knows. I’m [...]Read More...
 published: true
 tags: picks
 featured: false

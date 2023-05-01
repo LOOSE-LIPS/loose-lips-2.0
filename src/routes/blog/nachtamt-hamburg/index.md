@@ -7,12 +7,7 @@ slug: nachtamt-hamburg
 author: 137
 banner:
   - imported/nachtamt-hamburg/image938.jpeg
-description: >-
-  It was almost a year ago that I first discovered the Hamburg-based
-  label&nbsp;Nachtamt. I was browsing online when I encountered a preview for
-  what was at the time their latest EP. I was immediately enthralled by the
-  pulsating bass and mesmerising soundscape of&nbsp;Neal White &#8211; Cistern
-  (Nachtamt #002).&nbsp; Since that day, I would go as [...]Read More...
+description: "It was almost a year ago that I first discovered the Hamburg-based label\_Nachtamt. I was browsing online when I encountered a preview for what was at the time their latest EP. I was immediately enthralled by the pulsating bass and mesmerising soundscape of\_Neal White – Cistern (Nachtamt #002).\_ Since that day, I would go as [...]Read More..."
 published: true
 tags: label-feature
 featured: false

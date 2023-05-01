@@ -7,11 +7,11 @@ slug: dnb-fix-026-t95-drs-on-site
 author: 51
 banner: []
 description: >-
-  Rising talent T95 and veteran MC DRS cross paths and release dark roller
-  &quot;On Site&quot; over on Overview Music. T95 is an up and coming producer
-  from Surrey, previously part of the duo Xyphon. This is his debut solo release
-  featuring veteran Mancunian wordsmith DRS. Despite that, it&#39;s not actually
-  the first time they&#39;ve linked [...]Read More...
+  Rising talent T95 and veteran MC DRS cross paths and release dark roller "On
+  Site" over on Overview Music. T95 is an up and coming producer from Surrey,
+  previously part of the duo Xyphon. This is his debut solo release featuring
+  veteran Mancunian wordsmith DRS. Despite that, it's not actually the first
+  time they've linked [...]Read More...
 published: true
 tags: feature
 featured: false

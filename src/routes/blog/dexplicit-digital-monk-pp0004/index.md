@@ -7,13 +7,7 @@ slug: dexplicit-digital-monk-pp0004
 author: 100
 banner:
   - imported/dexplicit-digital-monk-pp0004/image1232.jpeg
-description: >-
-  Dexplicit&nbsp;teleports us into a modern retro-future vision on Digital Monk:
-  a neon lit urban jungle nodding to the 80&#39;s videogame culture and
-  cyberpunk aesthetics. It&#39;s also an absolute banger. From Dexplicit&#39;s
-  Digital Monk EP on Pastel Prism. Out 17.08.2020 on digital &#8211; Pre-order:
-  https://dexplicit.bandcamp.com/album/digital-monk Also, offered alongside the
-  digital EP is a stylish &#39;Fluro Risograph&#39; [...]Read More...
+description: "Dexplicit\_teleports us into a modern retro-future vision on Digital Monk: a neon lit urban jungle nodding to the 80's videogame culture and cyberpunk aesthetics. It's also an absolute banger. From Dexplicit's Digital Monk EP on Pastel Prism. Out 17.08.2020 on digital – Pre-order: https://dexplicit.bandcamp.com/album/digital-monk Also, offered alongside the digital EP is a stylish 'Fluro Risograph' [...]Read More..."
 published: true
 tags: premiere
 featured: false

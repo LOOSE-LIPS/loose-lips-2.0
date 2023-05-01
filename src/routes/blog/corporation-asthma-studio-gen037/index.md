@@ -7,13 +7,7 @@ slug: corporation-asthma-studio-gen037
 author: 100
 banner:
   - imported/corporation-asthma-studio-gen037/image896.jpeg
-description: >-
-  Piano notes floating in the middle of granular clouds, slowly waking up a
-  giant malicious entity. From Corporation&#39;s Graffito&nbsp;album on Genot
-  Centre. Out 05.08 on cassette and digital &#8211; Pre-order:
-  https://genot.bandcamp.com/album/graffito https://soundcloud.com/genotcentre
-  https://soundcloud.com/keru-not-ever https://soundcloud.com/julienracine
-  [...]Read More...
+description: "Piano notes floating in the middle of granular clouds, slowly waking up a giant malicious entity. From Corporation's Graffito\_album on Genot Centre. Out 05.08 on cassette and digital – Pre-order: https://genot.bandcamp.com/album/graffito https://soundcloud.com/genotcentre https://soundcloud.com/keru-not-ever https://soundcloud.com/julienracine [...]Read More..."
 published: true
 tags: premiere
 featured: false

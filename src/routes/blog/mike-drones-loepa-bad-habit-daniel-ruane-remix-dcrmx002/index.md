@@ -10,8 +10,8 @@ author: 100
 banner: []
 description: >-
   Daniel Ruane re-interprets the original in a bass-driven, beatless, intricate
-  and gritty way. Powerful. From Mike Drones &amp; Lo&euml;pa&#39;s Still Bad
-  remix EP on Deep Cover. Out 12.04 on digital &#8211; Pre-order:
+  and gritty way. Powerful. From Mike Drones & Loëpa's Still Bad remix EP on
+  Deep Cover. Out 12.04 on digital – Pre-order:
   https://deepcoveruk.bandcamp.com/album/dcrmx002-still-bad
   https://soundcloud.com/deepcoveruk https://soundcloud.com/mike-drones
   https://soundcloud.com/loepa https://soundcloud.com/daniel-ruane-2 [...]Read

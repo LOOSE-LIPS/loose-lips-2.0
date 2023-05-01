@@ -9,9 +9,9 @@ banner:
   - imported/alfredo92-helfand-axces-records/image1010.jpeg
 description: >-
   Crystalline percussive notes advancing alongside smoothly pulsating
-  percussions into a mysteriousblue halo that sits on low frequencies&#8230;
-  From Alfredo92&#39;s Helfand EP on Axces Records. Out 10.02.2020 &#8211;
-  Pre-order: https://www.juno.co.uk/products/alfredo92-helfand-ep/745648-01
+  percussions into a mysteriousblue halo that sits on low frequencies… From
+  Alfredo92's Helfand EP on Axces Records. Out 10.02.2020 – Pre-order:
+  https://www.juno.co.uk/products/alfredo92-helfand-ep/745648-01
   https://soundcloud.com/axcesrecordingshttps://soundcloud.com/alfred092
   [...]Read More...
 published: true

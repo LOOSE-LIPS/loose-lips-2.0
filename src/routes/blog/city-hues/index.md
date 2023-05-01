@@ -7,12 +7,7 @@ slug: city-hues
 author: 100
 banner:
   - imported/city-hues/image1005.jpeg
-description: >-
-  Deep Cuts is a new multi-writer article format from Loose Lips. Members of our
-  sprawling community are asked to share music and experiences along a shared
-  theme.&nbsp; This month&rsquo;s theme is City Hues. Its prompt question:
-  &lsquo;What music sounds like your city (or a corner of it)?&rsquo;&nbsp;
-  Songs from each writer&rsquo;s contribution are gathered in [...]Read More...
+description: "Deep Cuts is a new multi-writer article format from Loose Lips. Members of our sprawling community are asked to share music and experiences along a shared theme.\_ This month’s theme is City Hues. Its prompt question: ‘What music sounds like your city (or a corner of it)?’\_ Songs from each writer’s contribution are gathered in [...]Read More..."
 published: true
 tags: deep-cuts
 featured: false

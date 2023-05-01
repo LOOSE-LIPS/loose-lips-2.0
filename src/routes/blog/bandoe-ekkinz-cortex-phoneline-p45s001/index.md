@@ -6,12 +6,7 @@ type: post
 slug: bandoe-ekkinz-cortex-phoneline-p45s001
 author: 100
 banner: []
-description: >-
-  Bad bwoi Breakstep! From Bandoe, Ekkinz &amp; Cortex&#39;s Phoneline / XS EP
-  on P45 Sound.&nbsp; Out now on digital &#8211; Order:
-  https://p45sound.bandcamp.com/releases
-  https://soundcloud.com/pfortyfivehttps://soundcloud.com/ekkinz [...]Read
-  More...
+description: "Bad bwoi Breakstep! From Bandoe, Ekkinz & Cortex's Phoneline / XS EP on P45 Sound.\_ Out now on digital – Order: https://p45sound.bandcamp.com/releases https://soundcloud.com/pfortyfivehttps://soundcloud.com/ekkinz [...]Read More..."
 published: true
 tags: premiere
 featured: false

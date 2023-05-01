@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/young-girl/image775.jpeg
 description: >-
-  In anticipation of Young Girl&#39;s forthcoming album A Marshmallow Called
-  Moon, here&#39;s a nice in-depth interview with the man behind the alias. How
-  has 2019 kicked off for you? I have literally zero complaints man, the
-  record&rsquo;s looking good, people seem keen. I&rsquo;ve shed a whole host of
-  shitty, stunted ideologies in the last 10 [...]Read More...
+  In anticipation of Young Girl's forthcoming album A Marshmallow Called Moon,
+  here's a nice in-depth interview with the man behind the alias. How has 2019
+  kicked off for you? I have literally zero complaints man, the record’s looking
+  good, people seem keen. I’ve shed a whole host of shitty, stunted ideologies
+  in the last 10 [...]Read More...
 published: true
 tags: interview
 featured: false

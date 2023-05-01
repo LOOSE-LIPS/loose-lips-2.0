@@ -11,8 +11,8 @@ description: >-
   Growing up in France, Luce was the introvert who wiled hours away making
   playlists for rooms, rather than preparing to inhabit their centre. After
   arriving in the UK 6 years ago, she started mixing records and the music span
-  her into the spotlight; &lsquo;I was at home doing a mix and putting together
-  the most [...]Read More...
+  her into the spotlight; ‘I was at home doing a mix and putting together the
+  most [...]Read More...
 published: true
 tags: feature
 featured: false

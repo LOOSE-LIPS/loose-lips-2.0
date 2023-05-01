@@ -9,10 +9,10 @@ banner:
   - imported/blind-sided/image1132.jpeg
 description: >-
   Welcome to our sixth monthly Deep Cuts article, whose contributions date back
-  to the project&rsquo;s early days, a year and a haf ago. Lee was the first
-  writer to send in writing that wasn&rsquo;t tailored to one of my initial
-  starter themes, something he had written purely for the sake of self
-  expression, that he [...]Read More...
+  to the project’s early days, a year and a haf ago. Lee was the first writer to
+  send in writing that wasn’t tailored to one of my initial starter themes,
+  something he had written purely for the sake of self expression, that he
+  [...]Read More...
 published: true
 tags: deep-cuts
 featured: false

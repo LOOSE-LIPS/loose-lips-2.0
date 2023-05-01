@@ -7,12 +7,7 @@ slug: sim-hutchins-edm-money-following-zero-001
 author: 100
 banner:
   - imported/sim-hutchins-edm-money-following-zero-001/image816.jpeg
-description: >-
-  Darkwave observed with an ultra-modern, high-definition lens capable of
-  catching the finest details of thisdark and electric mechanism. From Sim
-  Hutchins&#39; E.D.M. Money&nbsp;on Following Zero. Out 07.05 on digital
-  &#8211; Pre-order: https://simhutchins.bandcamp.com/album/e-d-m-money
-  https://soundcloud.com/simhutchins [...]Read More...
+description: "Darkwave observed with an ultra-modern, high-definition lens capable of catching the finest details of thisdark and electric mechanism. From Sim Hutchins' E.D.M. Money\_on Following Zero. Out 07.05 on digital – Pre-order: https://simhutchins.bandcamp.com/album/e-d-m-money https://soundcloud.com/simhutchins [...]Read More..."
 published: true
 tags: premiere
 featured: false

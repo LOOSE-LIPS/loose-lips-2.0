@@ -12,8 +12,8 @@ banner:
     imported/howard-mades-sunday-jams-nouvelle-vague-in-a-manner-of-speaking/image1073.jpeg
 description: >-
   SO i first heard this on Sugar Rush, a channel 4 show from like 2005 about
-  teenage girls in Brighton, definitely shouldn&#39;t of been watching it at the
-  age I was. But alas it sparked my raging lesbian hormones and showed me a very
+  teenage girls in Brighton, definitely shouldn't of been watching it at the age
+  I was. But alas it sparked my raging lesbian hormones and showed me a very
   good song. Nouvelle Vague are sick, you should all also check [...]Read
   More...
 published: true

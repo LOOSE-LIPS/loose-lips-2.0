@@ -7,14 +7,7 @@ slug: follies-not-right-now
 author: 100
 banner:
   - imported/follies-not-right-now/image844.jpeg
-description: >-
-  Spoken words gently floating over Follies&#39; pulsating Jazzy arrangement,
-  visually augmented by the movements of dancer IJ Chan in a rainbow of neons
-  lights in this video by Deirdre Beck. From Follies&#39; Interloper&nbsp;EP.
-  Out now on digital &#8211; Order:
-  https://folliesfollies.bandcamp.com/album/interloper Follies &#8211; &quot;Not
-  Right Now&quot; (Official Music Video) from Deirdre Beck on Vimeo.
-  https://soundcloud.com/folliesmusic Follies [...]Read More...
+description: "Spoken words gently floating over Follies' pulsating Jazzy arrangement, visually augmented by the movements of dancer IJ Chan in a rainbow of neons lights in this video by Deirdre Beck. From Follies' Interloper\_EP. Out now on digital – Order: https://folliesfollies.bandcamp.com/album/interloper Follies – \"Not Right Now\" (Official Music Video) from Deirdre Beck on Vimeo. https://soundcloud.com/folliesmusic Follies [...]Read More..."
 published: true
 tags: premiere
 featured: false

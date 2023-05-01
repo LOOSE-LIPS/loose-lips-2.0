@@ -8,12 +8,7 @@ author: 68
 banner:
   - >-
     imported/chalkys-sunday-jams-ysb-og-aka-kane-grocerys-yngxjugg/image1145.jpeg
-description: >-
-  What&#39;s up everyone, it&#39;s ya boy chalky stepping in this week to cover
-  for the regs, and this week I&#39;ve got a leftfield-steppa for ya&#39;ll.
-  This is the lead single from YSB OG x MOBBS&#39; mixtape called Lon D Town,
-  which you can peep over at FOGGS Ent&#39;s&nbsp;SoundCloud. The whole mixtape
-  is a vibe, but [...]Read More...
+description: "What's up everyone, it's ya boy chalky stepping in this week to cover for the regs, and this week I've got a leftfield-steppa for ya'll. This is the lead single from YSB OG x MOBBS' mixtape called Lon D Town, which you can peep over at FOGGS Ent's\_SoundCloud. The whole mixtape is a vibe, but [...]Read More..."
 published: true
 tags: feature
 featured: false

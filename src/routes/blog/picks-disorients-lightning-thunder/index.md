@@ -7,11 +7,11 @@ slug: picks-disorients-lightning-thunder
 author: 100
 banner: []
 description: >-
-  For this week&#39;s edition of picks, the dis.orient crew take control of the
-  aux. Having held residencies at London&#39;s Phonox and Bussey Building, and
-  Bristol&#39;s The Island and Old Crown Courts, their record vaults bursting
-  with off-beat energy, the crew came up with their own charismatic take on our
-  &#39;daytrip picks&#39; concept. All Spotify-able songs [...]Read More...
+  For this week's edition of picks, the dis.orient crew take control of the aux.
+  Having held residencies at London's Phonox and Bussey Building, and Bristol's
+  The Island and Old Crown Courts, their record vaults bursting with off-beat
+  energy, the crew came up with their own charismatic take on our 'daytrip
+  picks' concept. All Spotify-able songs [...]Read More...
 published: true
 tags: feature
 featured: false

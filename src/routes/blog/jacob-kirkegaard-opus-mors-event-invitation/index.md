@@ -8,11 +8,11 @@ author: 165
 banner:
   - imported/jacob-kirkegaard-opus-mors-event-invitation/image1007.jpeg
 description: >-
-  What happens to us after we die? This question hasn&rsquo;t ceased to
-  fascinate, possibly scare and eventually occupy the minds of anyone who ever
-  grasped the notion of one&rsquo;s mortality. But what happens to our corpses?
-  And how does it sound? Danish sound artist Jacob Kirkegaard, whose sound art
-  has resonated within the walls of [...]Read More...
+  What happens to us after we die? This question hasn’t ceased to fascinate,
+  possibly scare and eventually occupy the minds of anyone who ever grasped the
+  notion of one’s mortality. But what happens to our corpses? And how does it
+  sound? Danish sound artist Jacob Kirkegaard, whose sound art has resonated
+  within the walls of [...]Read More...
 published: true
 tags: feature
 featured: false

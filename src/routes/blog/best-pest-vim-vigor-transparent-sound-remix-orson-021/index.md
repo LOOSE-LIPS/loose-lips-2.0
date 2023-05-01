@@ -6,13 +6,7 @@ type: post
 slug: best-pest-vim-vigor-transparent-sound-remix-orson-021
 author: 100
 banner: []
-description: >-
-  Transparent Sound are delivering a highly euphoric, climaxical rendition of
-  Best Pest&#39;s original Electro Acid number. From&nbsp;Ben Pest&#39;s Vim
-  &amp; Vigor EP on Orson Records. Out soon on 12&quot; and digital &#8211;
-  Pre-order: https://www.juno.co.uk/products/ben-pest-vim-vigour-ep/785108-01/
-  https://soundcloud.com/orsonrecordshttps://soundcloud.com/benpesthttps://soundcloud.com/transparent-sound
-  [...]Read More...
+description: "Transparent Sound are delivering a highly euphoric, climaxical rendition of Best Pest's original Electro Acid number. From\_Ben Pest's Vim & Vigor EP on Orson Records. Out soon on 12\" and digital – Pre-order: https://www.juno.co.uk/products/ben-pest-vim-vigour-ep/785108-01/ https://soundcloud.com/orsonrecordshttps://soundcloud.com/benpesthttps://soundcloud.com/transparent-sound [...]Read More..."
 published: true
 tags: premiere
 featured: false

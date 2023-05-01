@@ -7,13 +7,7 @@ slug: equus-joker-ss003
 author: 100
 banner:
   - imported/equus-joker-ss003/image1332.jpeg
-description: >-
-  A fast-paced, sub-heavy electroid number layered with majestic detroit-style
-  strings. Class! From Equus&#39; REHD {Raw, Uncut}&nbsp;EP on Slippery Sounds.
-  Out 27.11 on digital &#8211; Pre-order:
-  https://slipperysounds.bandcamp.com/album/ss003-equus-rehd-raw-uncut
-  https://soundcloud.com/slipperysoundshttps://soundcloud.com/equusequus
-  [...]Read More...
+description: "A fast-paced, sub-heavy electroid number layered with majestic detroit-style strings. Class! From Equus' REHD {Raw, Uncut}\_EP on Slippery Sounds. Out 27.11 on digital – Pre-order: https://slipperysounds.bandcamp.com/album/ss003-equus-rehd-raw-uncut https://soundcloud.com/slipperysoundshttps://soundcloud.com/equusequus [...]Read More..."
 published: true
 tags: premiere
 featured: false

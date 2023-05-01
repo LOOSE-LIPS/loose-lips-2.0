@@ -8,11 +8,11 @@ author: 20
 banner:
   - imported/dnb-fix-030-artificial-intelligence-no-choice/image1264.jpeg
 description: >-
-  Yep, it&rsquo;s that time of the week again, and this DnB Fix is a new liquidy
-  one from the legends that are Artificial Intelligence, with their new EP
-  &quot;Signs&quot; on Metalheadz. Hailing from North London, Artificial
-  Intelligence are nothing short of a Drum &amp; Bass staple; their tunes have
-  graced many a record bag over [...]Read More...
+  Yep, it’s that time of the week again, and this DnB Fix is a new liquidy one
+  from the legends that are Artificial Intelligence, with their new EP "Signs"
+  on Metalheadz. Hailing from North London, Artificial Intelligence are nothing
+  short of a Drum & Bass staple; their tunes have graced many a record bag over
+  [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -9,8 +9,8 @@ banner:
   - imported/ice-eyes-individual-drops-gen035/image811.jpeg
 description: >-
   Granulated fragments of sounds falling from a CGI sky, hitting every vectors
-  of your digital body. From Ice_Eyes&#39; Individual Drops album on Genot
-  Centre. Out 30.04 on cassette and digital &#8211; Pre-order:
+  of your digital body. From Ice_Eyes' Individual Drops album on Genot Centre.
+  Out 30.04 on cassette and digital – Pre-order:
   https://genot.bandcamp.com/album/individual-drops
   https://soundcloud.com/genotcentre https://soundcloud.com/ice_eyes [...]Read
   More...

@@ -9,11 +9,10 @@ banner:
   - imported/kallida-festival-1/image906.jpeg
 description: >-
   Kallida festival 2019 was an absolute treat. From the picturesque gardens to
-  the Manor house, the festival couldn&rsquo;t help but make a strong
-  impression. Held this year at Sparkfields Hall in Yeovil, Somerset (19th-21st
-  July) the site stands out with the clever light installations, intimate club
-  spaces and tearout-fun main stage. The atmosphere was conducive [...]Read
-  More...
+  the Manor house, the festival couldn’t help but make a strong impression. Held
+  this year at Sparkfields Hall in Yeovil, Somerset (19th-21st July) the site
+  stands out with the clever light installations, intimate club spaces and
+  tearout-fun main stage. The atmosphere was conducive [...]Read More...
 published: true
 tags: review
 featured: false

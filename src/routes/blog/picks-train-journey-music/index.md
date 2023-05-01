@@ -10,9 +10,9 @@ banner:
 description: >-
   Each time we host a guest selector for our Picks series, we ask them to pick a
   theme, but this guest comes with one already part of the conceptual package.
-  Born out of the functionality of &lsquo;an extensive multi-genre music
-  playlist to sweeten the commute&rsquo;, Train Journey Music is a gorgeously
-  modern example of music [...]Read More...
+  Born out of the functionality of ‘an extensive multi-genre music playlist to
+  sweeten the commute’, Train Journey Music is a gorgeously modern example of
+  music [...]Read More...
 published: true
 tags: feature
 featured: false

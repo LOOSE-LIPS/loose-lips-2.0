@@ -9,10 +9,10 @@ banner:
   - imported/our-first-deep-cuts-event-130920/image1265.jpeg
 description: >-
   ***UPDATE*** All of the sets have been uploaded now. All of the artworks have
-  been sold, raising &pound;500 for the Ruff Sqwad Arts Foundation, massive
-  shout out to everyone who bought one, and everyone involved, you all smashed
-  it. I&#39;ve embedded all the sets below to listen and cherish, each is so
-  unique from the [...]Read More...
+  been sold, raising £500 for the Ruff Sqwad Arts Foundation, massive shout out
+  to everyone who bought one, and everyone involved, you all smashed it. I've
+  embedded all the sets below to listen and cherish, each is so unique from the
+  [...]Read More...
 published: true
 tags: feature
 featured: false

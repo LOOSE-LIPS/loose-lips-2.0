@@ -8,11 +8,11 @@ author: 7
 banner:
   - imported/error-lake-outline-nameless-near-dark/image1171.jpeg
 description: >-
-  Named after one of Burial&#39;s most haunting tracks, Near Dark is a new label
-  and night based in Peckham. &quot;Outline / Nameless&quot; is their first
-  release from error_lake, a young duo from the district currently living in
-  Mexico. Following its first couple of mixes, this first release aims to set
-  the stage for their characteristic [...]Read More...
+  Named after one of Burial's most haunting tracks, Near Dark is a new label and
+  night based in Peckham. "Outline / Nameless" is their first release from
+  error_lake, a young duo from the district currently living in Mexico.
+  Following its first couple of mixes, this first release aims to set the stage
+  for their characteristic [...]Read More...
 published: true
 tags: review
 featured: false

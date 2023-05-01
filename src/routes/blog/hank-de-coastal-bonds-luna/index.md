@@ -7,13 +7,7 @@ slug: hank-de-coastal-bonds-luna
 author: 100
 banner:
   - imported/hank-de-coastal-bonds-luna/image1293.jpeg
-description: >-
-  Starting with an arp line slightly reminiscent of The Orb&#39;s Little Fluffy
-  Clouds, Coastal Bonds&nbsp;takes you in the same direction, carefully
-  propelling you, eyes closed, above clouds.. From SAVE THE NIGHT &#8211;
-  GROOVE&nbsp;V/A EP on Luna. Out 16.10.2020 on 12&quot; &#8211;
-  https://lunaclub.com After almost 20 years of club business and countless
-  nights of dancing under [...]Read More...
+description: "Starting with an arp line slightly reminiscent of The Orb's Little Fluffy Clouds, Coastal Bonds\_takes you in the same direction, carefully propelling you, eyes closed, above clouds.. From SAVE THE NIGHT – GROOVE\_V/A EP on Luna. Out 16.10.2020 on 12\" – https://lunaclub.com After almost 20 years of club business and countless nights of dancing under [...]Read More..."
 published: true
 tags: premiere
 featured: false

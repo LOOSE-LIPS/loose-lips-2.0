@@ -6,11 +6,7 @@ type: post
 slug: us-it-crux-mana006
 author: 100
 banner: []
-description: >-
-  An ultra fresh Club track with Braindance sensibilities from Us &amp; It! From
-  3142&nbsp;V/A EP on 8MANA. Out 24.04.2019 &#8211; Pre-order:
-  https://8mana.bandcamp.com/album/3142
-  https://soundcloud.com/8-manahttps://soundcloud.com/usandit [...]Read More...
+description: "An ultra fresh Club track with Braindance sensibilities from Us & It! From 3142\_V/A EP on 8MANA. Out 24.04.2019 – Pre-order: https://8mana.bandcamp.com/album/3142 https://soundcloud.com/8-manahttps://soundcloud.com/usandit [...]Read More..."
 published: true
 tags: premiere
 featured: false

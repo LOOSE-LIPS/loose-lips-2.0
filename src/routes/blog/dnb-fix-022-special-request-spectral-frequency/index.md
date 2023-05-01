@@ -9,10 +9,10 @@ banner:
   - imported/dnb-fix-022-special-request-spectral-frequency/image1189.jpeg
 description: >-
   Special Request steals the spotlight this week for the fix, no questions
-  asked. His latest release courtesy of R&amp;S Records sees him coming onto
-  vinyl again with a 4 track EP that&rsquo;s nothing shy of naughty! Spectral
-  Frequency was originally part of a free Bandcamp release, &lsquo;Zero
-  Fucks&rsquo;, that was put out late last year [...]Read More...
+  asked. His latest release courtesy of R&S Records sees him coming onto vinyl
+  again with a 4 track EP that’s nothing shy of naughty! Spectral Frequency was
+  originally part of a free Bandcamp release, ‘Zero Fucks’, that was put out
+  late last year [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -10,13 +10,7 @@ author: 106
 banner:
   - >-
     imported/record-store-days-crisis-and-opportunity-at-milans-tempio-del-futuro-perduto/image1238.jpeg
-description: >-
-  What the world needs now is positive stories, sources of hope and inspiration
-  to counterbalance the chaos, anxiety and depression that engulfed us when
-  COVID-19 arrived. Don&rsquo;t worry, then; we&rsquo;ve got you covered.&nbsp;
-  &ldquo;Last week, the mayor of Milan said he really appreciated our
-  work,&rdquo; Tommaso Dapri, mastermind behind Tempio del Futuro Perduto,
-  explains when [...]Read More...
+description: "What the world needs now is positive stories, sources of hope and inspiration to counterbalance the chaos, anxiety and depression that engulfed us when COVID-19 arrived. Don’t worry, then; we’ve got you covered.\_ “Last week, the mayor of Milan said he really appreciated our work,” Tommaso Dapri, mastermind behind Tempio del Futuro Perduto, explains when [...]Read More..."
 published: true
 tags: feature
 featured: false

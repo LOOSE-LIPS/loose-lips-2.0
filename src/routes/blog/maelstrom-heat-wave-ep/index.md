@@ -8,10 +8,10 @@ author: 61
 banner:
   - imported/maelstrom-heat-wave-ep/image1021.jpeg
 description: >-
-  There&rsquo;s no two ways about it, the Mechatronica imprint has been steadily
+  There’s no two ways about it, the Mechatronica imprint has been steadily
   blowing up these last few years. Many electro fanatics religiously buy the
-  Berlin labels&rsquo; records, and I would hazard a guess that around 99% of
-  those who&rsquo;ve got into electro recently will have been drunkenly or
+  Berlin labels’ records, and I would hazard a guess that around 99% of those
+  who’ve got into electro recently will have been drunkenly or
   over-enthusiastically told about the wonders that await [...]Read More...
 published: true
 tags: review

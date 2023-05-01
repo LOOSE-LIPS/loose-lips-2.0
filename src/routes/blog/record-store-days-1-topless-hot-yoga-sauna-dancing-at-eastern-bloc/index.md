@@ -10,13 +10,7 @@ author: 106
 banner:
   - >-
     imported/record-store-days-1-topless-hot-yoga-sauna-dancing-at-eastern-bloc/image800.jpeg
-description: >-
-  People overuse words far too much. Maybe it&rsquo;s a result of our disposable
-  and insincere culture. Maybe not. Either way, we regularly overlook real
-  meanings in a desperate clamour for attention-grabbing sentences.&nbsp; Having
-  said that, few would deny Manchester&rsquo;s Eastern Bloc is what you&rsquo;d
-  call a &lsquo;bonafide institution&rsquo;.&nbsp; Its roots can be traced back
-  from [...]Read More...
+description: "People overuse words far too much. Maybe it’s a result of our disposable and insincere culture. Maybe not. Either way, we regularly overlook real meanings in a desperate clamour for attention-grabbing sentences.\_ Having said that, few would deny Manchester’s Eastern Bloc is what you’d call a ‘bonafide institution’.\_ Its roots can be traced back from [...]Read More..."
 published: true
 tags: feature
 featured: false

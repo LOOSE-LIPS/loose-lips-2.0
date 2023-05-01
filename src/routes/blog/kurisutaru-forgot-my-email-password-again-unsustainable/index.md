@@ -8,12 +8,7 @@ author: 100
 banner:
   - >-
     imported/kurisutaru-forgot-my-email-password-again-unsustainable/image1276.jpeg
-description: >-
-  Young Prague-based producer Kurisutaru gets the machines sweating on this
-  squelchy electro bleep tune! From Kurisutaru&#39;s Face Check&nbsp;EP in
-  Unsustainable. Out 28.09.2020 on digital &#8211;
-  https://unsustainable.bandcamp.com https://soundcloud.com/kkurisutaruu
-  [...]Read More...
+description: "Young Prague-based producer Kurisutaru gets the machines sweating on this squelchy electro bleep tune! From Kurisutaru's Face Check\_EP in Unsustainable. Out 28.09.2020 on digital – https://unsustainable.bandcamp.com https://soundcloud.com/kkurisutaruu [...]Read More..."
 published: true
 tags: premiere
 featured: false

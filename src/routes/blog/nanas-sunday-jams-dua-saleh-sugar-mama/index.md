@@ -9,10 +9,9 @@ banner:
   - imported/nanas-sunday-jams-dua-saleh-sugar-mama/image1193.jpeg
 description: >-
   Yes, Yes Sunday Jammers. Hope life is good. Hope the reset is happening at a
-  safe and reasonable pace. This week I have been on a rewind. In fact,
-  I&rsquo;ve been on a rerererererewind &ndash; inspired by a brief chat I had
-  earlier on in the week with Will Soer, Editor and Patron here at [...]Read
-  More...
+  safe and reasonable pace. This week I have been on a rewind. In fact, I’ve
+  been on a rerererererewind – inspired by a brief chat I had earlier on in the
+  week with Will Soer, Editor and Patron here at [...]Read More...
 published: true
 tags: feature
 featured: false

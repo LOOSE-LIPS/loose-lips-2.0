@@ -7,12 +7,7 @@ slug: soers-sunday-jams-phoebe-bridgers-garden-song
 author: 164
 banner:
   - imported/soers-sunday-jams-phoebe-bridgers-garden-song/image1036.jpeg
-description: >-
-  &#39;The doctor put her hands over my liver,She told me my resentment&#39;s
-  getting smaller&#39; My favourite artist of the last 3 years has just dropped
-  her first solo track in, well, 3 years.&nbsp; Three years since her debut
-  album was released, three years during which she&#39;s become fucking huge
-  despite making such INTENSELY dark songs, [...]Read More...
+description: "'The doctor put her hands over my liver,She told me my resentment's getting smaller' My favourite artist of the last 3 years has just dropped her first solo track in, well, 3 years.\_ Three years since her debut album was released, three years during which she's become fucking huge despite making such INTENSELY dark songs, [...]Read More..."
 published: true
 tags: feature
 featured: false

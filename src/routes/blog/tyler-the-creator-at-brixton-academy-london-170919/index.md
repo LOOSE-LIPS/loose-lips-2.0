@@ -11,8 +11,8 @@ description: >-
   The first time I saw Tyler live, I was 15, and it was his second British show.
   A free underage outdoor stage in Camden organised by Red Bull, who had
   evidently booked and set the timeslot for his crew Odd Future unaware of
-  oncoming internet buzz; the street&rsquo;s population swelled from 70
-  stragglers watching a [...]Read More...
+  oncoming internet buzz; the street’s population swelled from 70 stragglers
+  watching a [...]Read More...
 published: true
 tags: event-review
 featured: false

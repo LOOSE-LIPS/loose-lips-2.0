@@ -10,12 +10,7 @@ author: 124
 banner:
   - >-
     imported/editors-pick-underground-resistances-message-to-the-murderers-27-years-on/image954.jpeg
-description: >-
-  For this version of Editors&#39; Pick, Will takes us back to the thoughts of
-  Nadia Taylor who explores the rebellious history of Underground
-  Resistance&nbsp; I found this 12&quot; in Los Angeles on my recent travels.
-  Being an LA virgin, I hit the record stores hard, nothing escaped my crate,
-  not even psychedelic cabaret &nbsp;recordings. Being [...]Read More...
+description: "For this version of Editors' Pick, Will takes us back to the thoughts of Nadia Taylor who explores the rebellious history of Underground Resistance\_ I found this 12\" in Los Angeles on my recent travels. Being an LA virgin, I hit the record stores hard, nothing escaped my crate, not even psychedelic cabaret \_recordings. Being [...]Read More..."
 published: true
 tags: feature
 featured: false

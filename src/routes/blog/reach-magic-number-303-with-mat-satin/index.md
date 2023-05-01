@@ -7,7 +7,7 @@ slug: reach-magic-number-303-with-mat-satin
 author: 100
 banner:
   - imported/reach-magic-number-303-with-mat-satin/image1312.jpeg
-description: "If &lsquo;303&rsquo; resonates with you, then we probably don&rsquo;t need to reveal the story behind this number..\L But we will. \L\LThe Roland TB-303 bass line was released in the early 80&rsquo;s as an accompaniment to the Roland TR-606 drum machine, marketed as bass player replacement. After its flop, it found its way through to becoming [...]Read More..."
+description: "If ‘303’ resonates with you, then we probably don’t need to reveal the story behind this number..\L But we will. \L\LThe Roland TB-303 bass line was released in the early 80’s as an accompaniment to the Roland TR-606 drum machine, marketed as bass player replacement. After its flop, it found its way through to becoming [...]Read More..."
 published: true
 tags: mix-series
 featured: false

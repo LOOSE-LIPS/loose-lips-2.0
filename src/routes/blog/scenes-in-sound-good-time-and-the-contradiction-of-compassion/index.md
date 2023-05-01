@@ -12,8 +12,8 @@ description: >-
   Film is a visual artform, but music radically alters the tone of those
   flickering images. In the second edition of Scenes in Sound, we look at Good
   Time, and the contradictorily compassionate face of toxicity. In a strictly
-  nuts and bolts sense, music&rsquo;s role in cinema is often a subservient one.
-  A soundtrack is carried [...]Read More...
+  nuts and bolts sense, music’s role in cinema is often a subservient one. A
+  soundtrack is carried [...]Read More...
 published: true
 tags: editors-pick
 featured: false

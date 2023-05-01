@@ -8,12 +8,11 @@ author: 100
 banner:
   - imported/dr-nojoke-inventing-importance/image826.jpeg
 description: >-
-  Anticipating the release of Dr Nojoke&#39;s Inventing Importance LP on his own
-  CLIKNO imprint, we&#39;ve premiered Chirpim, a unique Dub
-  Techno-meets-Click-House track and took the opportunity to ask Bogdan, the man
-  behind the alias, a few interesting questions. Hi, Bogdan. How are you doing?
-  Could you introduce CLIKNO in a few words? Hi. I&acute;m doing [...]Read
-  More...
+  Anticipating the release of Dr Nojoke's Inventing Importance LP on his own
+  CLIKNO imprint, we've premiered Chirpim, a unique Dub Techno-meets-Click-House
+  track and took the opportunity to ask Bogdan, the man behind the alias, a few
+  interesting questions. Hi, Bogdan. How are you doing? Could you introduce
+  CLIKNO in a few words? Hi. I´m doing [...]Read More...
 published: true
 tags: interview
 featured: false

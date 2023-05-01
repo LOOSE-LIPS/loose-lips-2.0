@@ -8,12 +8,11 @@ author: 138
 banner:
   - imported/vedana-records-va-conexoes-vol-1/image980.jpeg
 description: >-
-  One of South America&rsquo;s most exciting labels &#8211; Vedana Records
-  returns with yet another stellar V.A. compilation. Founded in Santos in 2016
-  by Carolina Valdrighi, Rafael Aires, Rog&eacute;rio Soares and Thomas Moreira,
-  they have grown into a global phenomenon &#8211; with a myriad of
-  international artists partaking in this release. With many of the tracks
-  [...]Read More...
+  One of South America’s most exciting labels – Vedana Records returns with yet
+  another stellar V.A. compilation. Founded in Santos in 2016 by Carolina
+  Valdrighi, Rafael Aires, Rogério Soares and Thomas Moreira, they have grown
+  into a global phenomenon – with a myriad of international artists partaking in
+  this release. With many of the tracks [...]Read More...
 published: true
 tags: review
 featured: false

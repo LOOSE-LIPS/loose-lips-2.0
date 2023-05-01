@@ -7,12 +7,7 @@ slug: resonance-series-8-dougal-verinder-gedge
 author: 76
 banner:
   - imported/resonance-series-8-dougal-verinder-gedge/image1203.jpeg
-description: >-
-  Welcome to this edition of &nbsp;the &#39;Resonance&#39; Series &#8211; a
-  feature curated by Jasper Golding, about the interplay between art forms. A
-  love for showcasing and sharing music is at the centre of Loose Lips and there
-  are numerous ways in which this can be done. Music massively influences visual
-  art, and vice versa. This [...]Read More...
+description: "Welcome to this edition of \_the 'Resonance' Series – a feature curated by Jasper Golding, about the interplay between art forms. A love for showcasing and sharing music is at the centre of Loose Lips and there are numerous ways in which this can be done. Music massively influences visual art, and vice versa. This [...]Read More..."
 published: true
 tags: feature
 featured: false

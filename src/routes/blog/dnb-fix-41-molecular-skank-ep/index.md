@@ -8,11 +8,10 @@ author: 99
 banner:
   - imported/dnb-fix-41-molecular-skank-ep/image1372.jpeg
 description: >-
-  This week&rsquo;s DNB FIX sees us going in on a heavy roll with Molecular on
-  his Skank EP which has just dropped on Sofa Sound. A bit like popping candy,
-  this set of tunes is one sweet and explosive fill for your stockings &#8211;
-  hoping all you headz had a very Merry Christmas. Molecular has [...]Read
-  More...
+  This week’s DNB FIX sees us going in on a heavy roll with Molecular on his
+  Skank EP which has just dropped on Sofa Sound. A bit like popping candy, this
+  set of tunes is one sweet and explosive fill for your stockings – hoping all
+  you headz had a very Merry Christmas. Molecular has [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -7,12 +7,7 @@ slug: arad-radiance-haze
 author: 100
 banner:
   - imported/arad-radiance-haze/image1139.jpeg
-description: >-
-  VOITAX &middot; VOI 020 Arad | Radiance Haze (Snippets) Dara Smith, one half
-  of the successful duo Lakker, continues to reinvent himself through his solo
-  moniker ARAD. &nbsp;ARAD is not only an exploration of new sounds, but also an
-  exploration of persona: physically and virtually. Through ARAD, Smith is
-  allowing his many-tendriled mind to investigate [...]Read More...
+description: "VOITAX · VOI 020 Arad | Radiance Haze (Snippets) Dara Smith, one half of the successful duo Lakker, continues to reinvent himself through his solo moniker ARAD. \_ARAD is not only an exploration of new sounds, but also an exploration of persona: physically and virtually. Through ARAD, Smith is allowing his many-tendriled mind to investigate [...]Read More..."
 published: true
 tags: release-review
 featured: false

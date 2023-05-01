@@ -7,12 +7,7 @@ slug: artsclub
 author: 56
 banner:
   - imported/artsclub/image927.jpeg
-description: >-
-  After another successful Loose Lips day party in aid of the mental health
-  charity, Headway East London, we decided to catch up with artsclub and chat
-  about the exhibition, which is summarised below:&nbsp; Artsclub will be
-  curating an art exhibition entitled &lsquo;Square Format: A Celebration of Art
-  Contributions to Modern Day Club Culture&rsquo;. It aims [...]Read More...
+description: "After another successful Loose Lips day party in aid of the mental health charity, Headway East London, we decided to catch up with artsclub and chat about the exhibition, which is summarised below:\_ Artsclub will be curating an art exhibition entitled ‘Square Format: A Celebration of Art Contributions to Modern Day Club Culture’. It aims [...]Read More..."
 published: true
 tags: interview
 featured: false

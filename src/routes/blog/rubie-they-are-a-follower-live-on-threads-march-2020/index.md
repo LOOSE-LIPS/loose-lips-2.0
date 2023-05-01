@@ -7,12 +7,7 @@ slug: rubie-they-are-a-follower-live-on-threads-march-2020
 author: 100
 banner:
   - imported/rubie-they-are-a-follower-live-on-threads-march-2020/image1346.jpeg
-description: >-
-  Rubie is featuring on our 31st Live Session and this is their giveaway! An
-  acoustic piece recorded live on Threads back in March.&nbsp; Rubie is a
-  songstress and binary cleaver. With vocal centred balladry and theatrical
-  mathtronic art proggery, they go sailing on a soup &amp; advocate taking both.
-  You can download it for free [...]Read More...
+description: "Rubie is featuring on our 31st Live Session and this is their giveaway! An acoustic piece recorded live on Threads back in March.\_ Rubie is a songstress and binary cleaver. With vocal centred balladry and theatrical mathtronic art proggery, they go sailing on a soup & advocate taking both. You can download it for free [...]Read More..."
 published: true
 tags: free-download
 featured: false

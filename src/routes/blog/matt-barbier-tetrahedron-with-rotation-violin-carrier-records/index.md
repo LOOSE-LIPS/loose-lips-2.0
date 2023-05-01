@@ -11,12 +11,12 @@ banner:
   - >-
     imported/matt-barbier-tetrahedron-with-rotation-violin-carrier-records/image962.jpeg
 description: >-
-  A musical exploration of Platonic solids inspired by Tristan Duke&#39;s
-  abrasion holograms. Performed on violin. In Duke&rsquo;s holography practice,
-  lights reflect off of the intersections of hand etched circles to form
-  floating geometric images in space. In his works, Barbier transcribes these
-  holographic shapes into a lush sonic landscape using Plato&rsquo;s five
-  geometrically pure polyhedrons, [...]Read More...
+  A musical exploration of Platonic solids inspired by Tristan Duke's abrasion
+  holograms. Performed on violin. In Duke’s holography practice, lights reflect
+  off of the intersections of hand etched circles to form floating geometric
+  images in space. In his works, Barbier transcribes these holographic shapes
+  into a lush sonic landscape using Plato’s five geometrically pure polyhedrons,
+  [...]Read More...
 published: true
 tags: premiere
 featured: false

@@ -7,11 +7,7 @@ slug: vast-array-feat-cappo-thru-summer-mimmcomp004
 author: 100
 banner:
   - imported/vast-array-feat-cappo-thru-summer-mimmcomp004/image912.jpeg
-description: >-
-  As the summer slowly reaches through its end, Vast Array and Cappo give their
-  insightful perspective. From Mimm Exploration Compilation Vol 2&nbsp;VA
-  Compilation on Mimm. Out 13.09 on digital &#8211; More info via
-  https://www.mimm.co.uk https://soundcloud.com/mimmstore [...]Read More...
+description: "As the summer slowly reaches through its end, Vast Array and Cappo give their insightful perspective. From Mimm Exploration Compilation Vol 2\_VA Compilation on Mimm. Out 13.09 on digital – More info via https://www.mimm.co.uk https://soundcloud.com/mimmstore [...]Read More..."
 published: true
 tags: premiere
 featured: false

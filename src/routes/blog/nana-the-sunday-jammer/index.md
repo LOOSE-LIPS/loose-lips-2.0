@@ -8,11 +8,11 @@ author: 164
 banner:
   - imported/nana-the-sunday-jammer/image1215.jpeg
 description: >-
-  Loose Lips&rsquo; Sunday Jams feature has been going for over three years now,
-  with one writer tasked to provide a quick, honest weekly takeover of the aux
-  cable, one track that people should really hear. The fourth writer to take its
-  reins, Nana Fani-Kayode, is a producer at Threads radio and a dynamite writer,
-  one [...]Read More...
+  Loose Lips’ Sunday Jams feature has been going for over three years now, with
+  one writer tasked to provide a quick, honest weekly takeover of the aux cable,
+  one track that people should really hear. The fourth writer to take its reins,
+  Nana Fani-Kayode, is a producer at Threads radio and a dynamite writer, one
+  [...]Read More...
 published: true
 tags: interview
 featured: false

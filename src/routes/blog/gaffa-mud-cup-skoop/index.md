@@ -8,10 +8,10 @@ author: 100
 banner:
   - imported/gaffa-mud-cup-skoop/image1002.jpeg
 description: >-
-  Debut release from Gaffa on Edinburgh&#39;s very own SKOOP!On this number
+  Debut release from Gaffa on Edinburgh's very own SKOOP!On this number
   showcasing a talent for down and dirty Dubstep with a Lofi breaks flavour!
-  From Gaffa&#39;s The Gaffa Tape album on SKOOP. Out now on digital &#8211;
-  Check https://skoop.bandcamp.com! https://soundcloud.com/skoopskoop [...]Read
+  From Gaffa's The Gaffa Tape album on SKOOP. Out now on digital – Check
+  https://skoop.bandcamp.com! https://soundcloud.com/skoopskoop [...]Read
   More...
 published: true
 tags: premiere

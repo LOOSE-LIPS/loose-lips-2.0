@@ -7,11 +7,7 @@ slug: x-302-space-race-neurom-records
 author: 100
 banner:
   - imported/x-302-space-race-neurom-records/image1287.jpeg
-description: >-
-  Cavernous beats chasing each other in the deep lightless infinity on this
-  dark, dubby industrial piece. From X-302&#39;s Nirvana&nbsp;EP on Neurom
-  Records. Out 15.10 on digital &#8211; https://neuromrecords.bandcamp.com
-  https://soundcloud.com/neur0mhttps://soundcloud.com/x-302 [...]Read More...
+description: "Cavernous beats chasing each other in the deep lightless infinity on this dark, dubby industrial piece. From X-302's Nirvana\_EP on Neurom Records. Out 15.10 on digital – https://neuromrecords.bandcamp.com https://soundcloud.com/neur0mhttps://soundcloud.com/x-302 [...]Read More..."
 published: true
 tags: premiere
 featured: false

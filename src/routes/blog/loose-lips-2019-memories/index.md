@@ -7,12 +7,7 @@ slug: loose-lips-2019-memories
 author: 33
 banner:
   - imported/loose-lips-2019-memories/image991.jpeg
-description: >-
-  An incredible year, a whirlwind&#8230; 10 of our crew recount their finest
-  memories from the last 12 months of Loose Lips escapades, closing out the
-  decade in style&#8230; TOM BLAIN&nbsp;&#8211; DnB Fix editor / Manchester crew
-  Whilst the last year has been full of incredible times, my personal highlight
-  for 2019 is that it&#39;s the [...]Read More...
+description: "An incredible year, a whirlwind… 10 of our crew recount their finest memories from the last 12 months of Loose Lips escapades, closing out the decade in style… TOM BLAIN\_– DnB Fix editor / Manchester crew Whilst the last year has been full of incredible times, my personal highlight for 2019 is that it's the [...]Read More..."
 published: true
 tags: feature
 featured: false

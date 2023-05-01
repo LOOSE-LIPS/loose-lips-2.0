@@ -8,11 +8,11 @@ author: 164
 banner:
   - imported/soers-sunday-jams-l-u-c-y-summer-friends/image1130.jpeg
 description: >-
-  I&#39;m stepping in for this feature, but thankfully it&#39;s easy, as
-  I&#39;ve literally just been introduced to an absolutely perfect sunday jam.
-  It&#39;s from L U C Y, one of the untouchably brilliant DJ collective 6 Figure
-  Gang (which alongside Jossy Mitsu, who contributed to our recent multi-writer
-  article Fantasy Realm, and Fauzia, one of [...]Read More...
+  I'm stepping in for this feature, but thankfully it's easy, as I've literally
+  just been introduced to an absolutely perfect sunday jam. It's from L U C Y,
+  one of the untouchably brilliant DJ collective 6 Figure Gang (which alongside
+  Jossy Mitsu, who contributed to our recent multi-writer article Fantasy Realm,
+  and Fauzia, one of [...]Read More...
 published: true
 tags: feature
 featured: false

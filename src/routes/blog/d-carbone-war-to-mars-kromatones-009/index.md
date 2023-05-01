@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/d-carbone-war-to-mars-kromatones-009/image818.jpeg
 description: >-
-  One for the Techno soldiers! Heavy ammo! From D. Carbone&#39;s Paradise Beats
-  EP on Kromatones. Out 09.05 on 12&quot; and digital &#8211; Pre-order:
+  One for the Techno soldiers! Heavy ammo! From D. Carbone's Paradise Beats EP
+  on Kromatones. Out 09.05 on 12" and digital – Pre-order:
   https://kromatoneslabel.bandcamp.com/album/kt009-d-carbone-paradise-beats
   https://soundcloud.com/kromatones https://soundcloud.com/d-carbone [...]Read
   More...

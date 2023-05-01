@@ -7,12 +7,7 @@ slug: high-graid-bounce-ndx02
 author: 100
 banner:
   - imported/high-graid-bounce-ndx02/image753.jpeg
-description: >-
-  A steamy UK Funky track with enough subs to shake any club soundsystem. From
-  High Graid&#39;s&nbsp;Bounce&nbsp;EP on Indexlife. Out 15.02 on digital
-  &#8211; Pre-order: https://indexlife.bandcamp.com/releases
-  https://soundcloud.com/indexlife https://soundcloud.com/highgraid [...]Read
-  More...
+description: "A steamy UK Funky track with enough subs to shake any club soundsystem. From High Graid's\_Bounce\_EP on Indexlife. Out 15.02 on digital – Pre-order: https://indexlife.bandcamp.com/releases https://soundcloud.com/indexlife https://soundcloud.com/highgraid [...]Read More..."
 published: true
 tags: premiere
 featured: false

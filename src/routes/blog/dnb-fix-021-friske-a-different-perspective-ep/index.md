@@ -8,11 +8,11 @@ author: 112
 banner:
   - imported/dnb-fix-021-friske-a-different-perspective-ep/image1179.jpeg
 description: >-
-  Always a treat to see new releases from Metalheadz, especially when it&rsquo;s
-  a long-awaited EP from Friske. Here he offers up an impressive 16 tracks, no
+  Always a treat to see new releases from Metalheadz, especially when it’s a
+  long-awaited EP from Friske. Here he offers up an impressive 16 tracks, no
   collabs, simply his own personal take on drum and bass. This album has been 3
-  years in the making and judging from the fantastic previews out already,
-  it&rsquo;s obvious [...]Read More...
+  years in the making and judging from the fantastic previews out already, it’s
+  obvious [...]Read More...
 published: true
 tags: feature
 featured: false

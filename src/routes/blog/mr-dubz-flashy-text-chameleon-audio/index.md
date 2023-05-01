@@ -7,12 +7,7 @@ slug: mr-dubz-flashy-text-chameleon-audio
 author: 100
 banner:
   - imported/mr-dubz-flashy-text-chameleon-audio/image1117.jpeg
-description: >-
-  The Message&nbsp;instrumental&nbsp;revisited by Mr Dubz in this Club/Grime
-  banger! From Mr Dubz&#39; Hotterz EP on Chameleon Audio. Out 25.05.2020 on
-  digital &#8211; https://chameleonaudio.bandcamp.com
-  https://soundcloud.com/chameleonaudiohttps://soundcloud.com/mrdubz [...]Read
-  More...
+description: "The Message\_instrumental\_revisited by Mr Dubz in this Club/Grime banger! From Mr Dubz' Hotterz EP on Chameleon Audio. Out 25.05.2020 on digital – https://chameleonaudio.bandcamp.com https://soundcloud.com/chameleonaudiohttps://soundcloud.com/mrdubz [...]Read More..."
 published: true
 tags: premiere
 featured: false

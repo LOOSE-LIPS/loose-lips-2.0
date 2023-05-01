@@ -9,8 +9,8 @@ banner:
   - imported/chapel-ahead-and-shapeless-near-dark/image1386.jpeg
 description: >-
   Busy breakbeats contrasting with lush, cinematic pads working together to
-  dramatic effect. From chapel&#39;s rites to be forgotten EP on near dark. Out
-  22.01.2021 on digital &#8211; Pre-order:
+  dramatic effect. From chapel's rites to be forgotten EP on near dark. Out
+  22.01.2021 on digital – Pre-order:
   https://neardark.bandcamp.com/album/rites-to-be-forgotten
   https://soundcloud.com/neardarkldnhttps://soundcloud.com/chapel [...]Read
   More...

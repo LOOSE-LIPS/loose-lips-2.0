@@ -8,12 +8,7 @@ author: 125
 banner:
   - >-
     imported/nanas-sunday-jams-eating-noddemix-young-marble-giants/image1241.jpeg
-description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Sunday Jammers. Welcome back, I hope all is
-  well, good and right. Have you had a chance to check out this month&rsquo;s
-  edition of Deep Cuts yet? Get on it because it&rsquo;s a heavy slice and one
-  to gorge [...]Read More...
+description: "Banner artwork by the majestic Trav, all of Nana's jams are gathered in\_this playlist. Yes Yes Sunday Jammers. Welcome back, I hope all is well, good and right. Have you had a chance to check out this month’s edition of Deep Cuts yet? Get on it because it’s a heavy slice and one to gorge [...]Read More..."
 published: true
 tags: feature
 featured: false

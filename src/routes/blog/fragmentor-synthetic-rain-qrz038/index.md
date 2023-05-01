@@ -9,8 +9,8 @@ banner:
   - imported/fragmentor-synthetic-rain-qrz038/image738.jpeg
 description: >-
   Tokyo-based Italian producer Fragmentor delivers a contemplative piece driven
-  by shiny synths and Taiko-sounding drums. From Fragmentor&#39;s A Man Lost In
-  Time EP on Quartz Records. Out now on 12&quot; &#8211; Order:
+  by shiny synths and Taiko-sounding drums. From Fragmentor's A Man Lost In Time
+  EP on Quartz Records. Out now on 12" – Order:
   https://www.decks.de/track/fragmentor-a_man_lost_in_time/cdv-xg/en
   https://soundcloud.com/quartzrecords https://soundcloud.com/fragmentor
   [...]Read More...

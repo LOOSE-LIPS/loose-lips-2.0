@@ -9,8 +9,8 @@ banner:
   - imported/veus-dolt-hawaii-plus-ultra/image791.jpeg
 description: >-
   An very intriguing Techno track. Like witnessing the formation of a
-  supernatural storm on a haunted beach. From Veus Dolt&#39;s Infondato EP on
-  Plus Ultra. Out now on digital &#8211; Order:
+  supernatural storm on a haunted beach. From Veus Dolt's Infondato EP on Plus
+  Ultra. Out now on digital – Order:
   https://plusultralabel.bandcamp.com/album/infondato-ep
   https://soundcloud.com/plus-ultra-654507949
   https://soundcloud.com/user-931907632 [...]Read More...

@@ -8,11 +8,11 @@ author: 20
 banner:
   - imported/dnb-fix-018-as-i-fall-monrroe-feat-sydney/image1150.jpeg
 description: >-
-  Having floated around the liquid scene for many years&#8230; no pun intended,
+  Having floated around the liquid scene for many years… no pun intended,
   Monrroe has been honing in on and truly mastering his own sound; his latest
-  release &ldquo;As I Fall&rdquo; on Shogun Audio is a perfect example of how
-  his diligence has paid off; by carefully balancing the delicate vocals of
-  Sydney Chapman with raw [...]Read More...
+  release “As I Fall” on Shogun Audio is a perfect example of how his diligence
+  has paid off; by carefully balancing the delicate vocals of Sydney Chapman
+  with raw [...]Read More...
 published: true
 tags: feature
 featured: false

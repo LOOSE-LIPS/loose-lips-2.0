@@ -8,9 +8,8 @@ author: 100
 banner:
   - imported/withheld-vco-unsustainable/image1100.jpeg
 description: >-
-  A funky ride along an arpeggiated bassline! From Withheld&#39;s Digital Is
-  Dead, Long Live Digital EP on Unsustainable. Out 7.05 on digital &#8211;
-  Pre-order:
+  A funky ride along an arpeggiated bassline! From Withheld's Digital Is Dead,
+  Long Live Digital EP on Unsustainable. Out 7.05 on digital – Pre-order:
   https://unsustainable.bandcamp.com/album/digital-is-dead-long-live-digital
   https://soundcloud.com/withheld-uk [...]Read More...
 published: true

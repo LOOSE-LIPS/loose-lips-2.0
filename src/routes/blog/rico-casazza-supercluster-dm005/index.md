@@ -9,8 +9,8 @@ banner:
   - imported/rico-casazza-supercluster-dm005/image1011.jpeg
 description: >-
   Prolific producer Rico Casazza delivers a dubby Electro number that satisfies
-  both the head and the legs! From Rico Casazza&#39;s Purplewave EP on Dionysian
-  Mysteries. Out 14.02.2020 on 12&quot; and digital &#8211;
+  both the head and the legs! From Rico Casazza's Purplewave EP on Dionysian
+  Mysteries. Out 14.02.2020 on 12" and digital –
   https://www.juno.co.uk/products/rico-casazza-purplewave-ep/762899-01
   https://soundcloud.com/dionysian-mysterieshttps://soundcloud.com/ricocasazza
   [...]Read More...

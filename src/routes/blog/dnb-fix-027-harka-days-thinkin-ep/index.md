@@ -8,11 +8,11 @@ author: 27
 banner:
   - imported/dnb-fix-027-harka-days-thinkin-ep/image1239.jpeg
 description: >-
-  The Dreamers&rsquo; catalogue has always been about what&rsquo;s possible
-  rather than what&rsquo;s already been done. This week&#39;s DnB Fix explores
-  that with Harka. He might wonder around the BPMs of drum and bass, but
-  you&rsquo;re more likely to hear Yung Chop snares, reggae vocals and J Dilla
-  sirens than apache breaks (that&rsquo;s in there too). [...]Read More...
+  The Dreamers’ catalogue has always been about what’s possible rather than
+  what’s already been done. This week's DnB Fix explores that with Harka. He
+  might wonder around the BPMs of drum and bass, but you’re more likely to hear
+  Yung Chop snares, reggae vocals and J Dilla sirens than apache breaks (that’s
+  in there too). [...]Read More...
 published: true
 tags: feature
 featured: false

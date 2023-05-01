@@ -8,11 +8,11 @@ author: 163
 banner:
   - imported/dnb-fix-43-john-b-up-all-night-data-3-remix/image1391.jpeg
 description: >-
-  20 years after its original release, John B&rsquo;s seminal Metalheadz release
-  &lsquo;Up All Night&rsquo; returns to the forefront of Drum and Bass with a
-  stunning and eagerly anticipated remix by newcomers Data 3. Now entering the
-  27th year since inception in 1994, Metalheadz are continuing to honour their
-  Silver Jubilee into 2021. Having already hosted [...]Read More...
+  20 years after its original release, John B’s seminal Metalheadz release ‘Up
+  All Night’ returns to the forefront of Drum and Bass with a stunning and
+  eagerly anticipated remix by newcomers Data 3. Now entering the 27th year
+  since inception in 1994, Metalheadz are continuing to honour their Silver
+  Jubilee into 2021. Having already hosted [...]Read More...
 published: true
 tags: feature
 featured: false

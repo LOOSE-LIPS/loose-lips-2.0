@@ -7,12 +7,7 @@ slug: europe-vol-1-compilation-from-aurora
 author: 103
 banner:
   - imported/europe-vol-1-compilation-from-aurora/image1085.jpeg
-description: >-
-  Artists:&nbsp;Hesper Act, Mattia Prete, Nino Sebelic, Fran Hartnett, Stanislav
-  Glazov, Here Now There Then, Stndrd, FU 5 Release Date: May 27th, 2020 Format:
-  Digital Genre: Techno Aurora. is a brand new label from a group of like-minded
-  artists around Europe who look to connect people through techno. The first
-  release is a compilation that presents [...]Read More...
+description: "Artists:\_Hesper Act, Mattia Prete, Nino Sebelic, Fran Hartnett, Stanislav Glazov, Here Now There Then, Stndrd, FU 5 Release Date: May 27th, 2020 Format: Digital Genre: Techno Aurora. is a brand new label from a group of like-minded artists around Europe who look to connect people through techno. The first release is a compilation that presents [...]Read More..."
 published: true
 tags: release-review
 featured: false

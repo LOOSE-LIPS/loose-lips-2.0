@@ -7,12 +7,7 @@ slug: howard-mades-sunday-jams-chavela-vargas-paloma-negra
 author: 63
 banner:
   - imported/howard-mades-sunday-jams-chavela-vargas-paloma-negra/image1084.jpeg
-description: >-
-  I&#39;s sunday again, and I&#39;m in my garden trying to play this on my
-  guitar with a string missing and growling at my dog, trying to recreate her
-  growl at 1.42 (god it&#39;s good). Might buy a bottle of tequila, not
-  sure.&nbsp; This ranchera song has been covered by many but this version is my
-  [...]Read More...
+description: "I's sunday again, and I'm in my garden trying to play this on my guitar with a string missing and growling at my dog, trying to recreate her growl at 1.42 (god it's good). Might buy a bottle of tequila, not sure.\_ This ranchera song has been covered by many but this version is my [...]Read More..."
 published: true
 tags: feature
 featured: false

@@ -9,11 +9,10 @@ banner:
   - >-
     imported/kortzers-sunday-jams-shortie-no-mass-u-like-my-style-1/image913.jpeg
 description: >-
-  I can&#39;t tell you how much I love this song! Shortie No Mass is a little
-  known MC who first came to attention featuring on De La Soul&#39;s Buhloone
-  Mindstate. Unfortunately there&#39;s only a handful of tracks that can be
-  found online and I&#39;m not sure if she ever recorded many more than the ones
-  [...]Read More...
+  I can't tell you how much I love this song! Shortie No Mass is a little known
+  MC who first came to attention featuring on De La Soul's Buhloone Mindstate.
+  Unfortunately there's only a handful of tracks that can be found online and
+  I'm not sure if she ever recorded many more than the ones [...]Read More...
 published: true
 tags: feature
 featured: false

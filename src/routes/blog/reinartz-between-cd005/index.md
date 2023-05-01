@@ -10,8 +10,8 @@ banner:
 description: >-
   Berlin-based Mexican producer Reinartz serves us a brilliant chopped-up
   breakbeat number infused with futuristic sound design and a well decent amount
-  of gnarly bass! From Reinartz&#39;s Rave Coil EP on Corrupt Data &#8211;
-  www.corrupt-data.co.uk Out 13.03.2020 on CD and digital &#8211; Pre-order:
+  of gnarly bass! From Reinartz's Rave Coil EP on Corrupt Data –
+  www.corrupt-data.co.uk Out 13.03.2020 on CD and digital – Pre-order:
   https://corruptdata001.bandcamp.com/album/reinartz-ravecoil
   https://soundcloud.com/corrupt-data001https://soundcloud.com/rreinartz
   [...]Read More...

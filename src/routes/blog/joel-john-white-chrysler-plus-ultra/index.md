@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/joel-john-white-chrysler-plus-ultra/image879.jpeg
 description: >-
-  A more pumping take on Dub Techno! From Joel John&#39;s White Chrysler EP on
-  Plus Ultra. Out now on digital &#8211; Order:
+  A more pumping take on Dub Techno! From Joel John's White Chrysler EP on Plus
+  Ultra. Out now on digital – Order:
   https://plusultralabel.bandcamp.com/album/white-chrysler-ep
   https://soundcloud.com/plus-ultra-654507949
   https://soundcloud.com/joeljohnsound [...]Read More...

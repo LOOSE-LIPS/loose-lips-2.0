@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/bonasforsa-tinder-love/image1062.jpeg
 description: >-
-  A hazey and sexy Downtempo number, excerpt from Bonasforsa&#39;s new release.
-  From Bonasforsa&#39;s Dwa EP Out now on digital &#8211;
+  A hazey and sexy Downtempo number, excerpt from Bonasforsa's new release. From
+  Bonasforsa's Dwa EP Out now on digital –
   https://wearebonasforsa.bandcamp.com/album/dwa
   https://soundcloud.com/bonasforsahttps://soundcloud.com/ricocasazzahttps://soundcloud.com/sirius
   [...]Read More...

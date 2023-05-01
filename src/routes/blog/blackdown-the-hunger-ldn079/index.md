@@ -9,9 +9,9 @@ banner:
   - imported/blackdown-the-hunger-ldn079/image1046.jpeg
 description: >-
   A Weightless exploration of darkside 130bpm rollage, introducing the EP with
-  brooding tension, glowing in the middle of a storm. From Blackdown&#39;s
-  Rollage Vol4: The Hunger EP on Keysound Recordings. Out 13.03.2020 on digita
-  and streaming on Spotify (here) .Pre-order:
+  brooding tension, glowing in the middle of a storm. From Blackdown's Rollage
+  Vol4: The Hunger EP on Keysound Recordings. Out 13.03.2020 on digita and
+  streaming on Spotify (here) .Pre-order:
   https://boomkat.com/products/rollage-vol-4-the-hunger-ep
   https://soundcloud.com/keysound-recordings [...]Read More...
 published: true

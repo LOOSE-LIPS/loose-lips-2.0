@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/lnrs-velocities-of-thought/image1363.jpeg
 description: >-
-  Christ. What a time to be alive ay!!?? We&rsquo;ll remember this past Saturday
-  for the rest of our lives, mark my words. Britain is stuck in a solidified
-  loop that has swallowed up the winter, everything is the same every single
-  day, and yet, everything is changing. It&rsquo;s kind of like techno, at any
-  moment [...]Read More...
+  Christ. What a time to be alive ay!!?? We’ll remember this past Saturday for
+  the rest of our lives, mark my words. Britain is stuck in a solidified loop
+  that has swallowed up the winter, everything is the same every single day, and
+  yet, everything is changing. It’s kind of like techno, at any moment [...]Read
+  More...
 published: true
 tags: picks
 featured: false

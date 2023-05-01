@@ -7,12 +7,7 @@ slug: djrum-hard-to-say-tournesol-rs
 author: 88
 banner:
   - imported/djrum-hard-to-say-tournesol-rs/image915.jpeg
-description: >-
-  2018&#39;s LP Portrait With Firewood&nbsp;gained Djrum (AKA Felix Manuel) a
-  bevy of positive press and converted fans, creating a certifiable high point
-  of his near-decade of breaks-indebted electronica.&nbsp; The record was awash
-  with stirring cello, piano figures and vivd vocal work from guest Lola Empire
-  and represented Djrum putting his own playing at the centre [...]Read More...
+description: "2018's LP Portrait With Firewood\_gained Djrum (AKA Felix Manuel) a bevy of positive press and converted fans, creating a certifiable high point of his near-decade of breaks-indebted electronica.\_ The record was awash with stirring cello, piano figures and vivd vocal work from guest Lola Empire and represented Djrum putting his own playing at the centre [...]Read More..."
 published: true
 tags: release-review
 featured: false

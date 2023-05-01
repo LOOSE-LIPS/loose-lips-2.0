@@ -11,7 +11,7 @@ description: >-
   This is none other than Donor under a new alias and staying true to his punchy
   trademark, unleashing earthy snare rattles and a tweaked-out, panicky synth
   lines! From the From The Dark Volume 3 VA compilation on Cultivated
-  Electronics. Out 14.01 on 2&#215;12&quot; and digital &#8211; Pre-order:
+  Electronics. Out 14.01 on 2×12" and digital – Pre-order:
   https://www.juno.co.uk/products/from-the-dark-vol-3/713936-01/
   https://soundcloud.com/cultivated-electronics https://soundcloud.com/sc-164
   [...]Read More...

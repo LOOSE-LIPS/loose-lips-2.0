@@ -7,12 +7,7 @@ slug: dema-persistence-of-visions-ep-ibd002
 author: 85
 banner:
   - imported/dema-persistence-of-visions-ep-ibd002/image840.jpeg
-description: >-
-  With his Persistence of Visions EP, DE:MA presents 3 rolling Dub-Breakbeat (is
-  that a thing? It is now!) tracks ready for the open, peak and close of your
-  night.&nbsp; Persistence of Visions, a murky warm-up tune, features warm
-  swinging beats that provide space for ricocheting percussion, dragging dancers
-  into a stoned sway and steady head-bop.&nbsp; [...]Read More...
+description: "With his Persistence of Visions EP, DE:MA presents 3 rolling Dub-Breakbeat (is that a thing? It is now!) tracks ready for the open, peak and close of your night.\_ Persistence of Visions, a murky warm-up tune, features warm swinging beats that provide space for ricocheting percussion, dragging dancers into a stoned sway and steady head-bop.\_ [...]Read More..."
 published: true
 tags: release-review
 featured: false

@@ -7,13 +7,7 @@ slug: va-intera-vol-1
 author: 31
 banner:
   - imported/va-intera-vol-1/image751.jpeg
-description: >-
-  Portuguese collective&nbsp;Intera&nbsp;celebrates its first anniversary
-  with&nbsp;Intera Vol. 1, an 8-track compilation released on January 8, 2019.
-  INTERA VOL.1 by Intera The compilation features a group of underground artists
-  either from or residing in Portugal, and offers, through the
-  stylistically-wide range of music they produce, a different perspective on a
-  scene that has recently jumped to [...]Read More...
+description: "Portuguese collective\_Intera\_celebrates its first anniversary with\_Intera Vol. 1, an 8-track compilation released on January 8, 2019. INTERA VOL.1 by Intera The compilation features a group of underground artists either from or residing in Portugal, and offers, through the stylistically-wide range of music they produce, a different perspective on a scene that has recently jumped to [...]Read More..."
 published: true
 tags: release-review
 featured: false

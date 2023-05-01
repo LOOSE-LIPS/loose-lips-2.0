@@ -8,9 +8,9 @@ author: 100
 banner:
   - imported/autobodies-blind-summit-ledg010/image797.jpeg
 description: >-
-  From Stoogie Houzer&#39;s new project Autobodies, this track is a slow burner
-  that gets more and more attractive as it develops. From Autobodies&#39;
-  Bodywork EP on Eddy Larkin. Out now on digital &#8211; Order:
+  From Stoogie Houzer's new project Autobodies, this track is a slow burner that
+  gets more and more attractive as it develops. From Autobodies' Bodywork EP on
+  Eddy Larkin. Out now on digital – Order:
   https://eddylarkin.bandcamp.com/album/bodywork
   https://soundcloud.com/eddylarkin https://soundcloud.com/stoogiehouzer
   [...]Read More...

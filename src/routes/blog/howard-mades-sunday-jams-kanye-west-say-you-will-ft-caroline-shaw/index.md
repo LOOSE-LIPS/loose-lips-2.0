@@ -10,12 +10,7 @@ author: 63
 banner:
   - >-
     imported/howard-mades-sunday-jams-kanye-west-say-you-will-ft-caroline-shaw/image1105.jpeg
-description: >-
-  Better than the original version if you ask me. So its a good job no one&#39;s
-  askin&#39;.&nbsp; Kanye uploaded this remix to his soundcloud in 2015 along
-  with &quot;will i see it&quot; and it;s gorgeous. Yes i know some of his
-  actions may be questionable, but he&#39;s not well and doesn&#39;t care what
-  you think [...]Read More...
+description: "Better than the original version if you ask me. So its a good job no one's askin'.\_ Kanye uploaded this remix to his soundcloud in 2015 along with \"will i see it\" and it;s gorgeous. Yes i know some of his actions may be questionable, but he's not well and doesn't care what you think [...]Read More..."
 published: true
 tags: feature
 featured: false

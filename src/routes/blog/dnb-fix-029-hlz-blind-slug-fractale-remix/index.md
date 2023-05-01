@@ -8,11 +8,11 @@ author: 51
 banner:
   - imported/dnb-fix-029-hlz-blind-slug-fractale-remix/image1258.jpeg
 description: >-
-  International Drum &amp; Bass trio Fractale make their mark on Unchained
-  Recordings&rsquo; latest remix LP with a heavy hitting remix of HLZ&rsquo;s
-  half-time banger, Blind Slug. CHina based label; Unchained Audio celebrates
-  its diverse global network of incredible artists with a 16 track remix LP that
-  showcases some of the best new tracks the label [...]Read More...
+  International Drum & Bass trio Fractale make their mark on Unchained
+  Recordings’ latest remix LP with a heavy hitting remix of HLZ’s half-time
+  banger, Blind Slug. CHina based label; Unchained Audio celebrates its diverse
+  global network of incredible artists with a 16 track remix LP that showcases
+  some of the best new tracks the label [...]Read More...
 published: true
 tags: premiere
 featured: false

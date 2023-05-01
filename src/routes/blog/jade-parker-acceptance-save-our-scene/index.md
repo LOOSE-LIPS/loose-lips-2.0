@@ -10,9 +10,9 @@ banner:
 description: >-
   Jade Parker delivers here a soulful number, made during the lock down. I made
   it during lock down, with all that is going on, the track represents my
-  journey of &quot;Acceptance&quot;.The early breakdown represents the
-  &quot;early breakdown&quot; of this year and the BPM is much slower than I
-  usually work with, that&#39;s to represent the [...]Read More...
+  journey of "Acceptance".The early breakdown represents the "early breakdown"
+  of this year and the BPM is much slower than I usually work with, that's to
+  represent the [...]Read More...
 published: true
 tags: premiere
 featured: false

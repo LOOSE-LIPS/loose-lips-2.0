@@ -11,11 +11,11 @@ banner:
   - >-
     imported/record-store-days-3-going-deeper-underground-at-black-beacon-sound/image1028.jpeg
 description: >-
-  Warming to Benny Maths is easy. There&rsquo;s an infectious enthusiasm in his
-  tone which tells you why he does what he does, alongside business partner,
-  fellow DJ and good friend Toby Hickman. Together the pair established Black
-  Beacon Sound as an imprint in 2016, with the tagline &lsquo;For What We
-  Love&rsquo;. Its back catalogue is [...]Read More...
+  Warming to Benny Maths is easy. There’s an infectious enthusiasm in his tone
+  which tells you why he does what he does, alongside business partner, fellow
+  DJ and good friend Toby Hickman. Together the pair established Black Beacon
+  Sound as an imprint in 2016, with the tagline ‘For What We Love’. Its back
+  catalogue is [...]Read More...
 published: true
 tags: feature
 featured: false

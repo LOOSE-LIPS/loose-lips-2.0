@@ -8,11 +8,11 @@ author: 68
 banner:
   - imported/editors-pick-bangface-weekender-2020/image1052.jpeg
 description: >-
-  For this edition of Editors&#39; Pick, Jack takes us back to the rave.
-  &quot;It&#39;s been a while since I&#39;ve had the opportunity to go outside
-  and lose myself to music in front of a sound system, so there&#39;s no better
-  time to read this gonzo-styled documentation of the last rave on Earth.
-  Hopefully, it will [...]Read More...
+  For this edition of Editors' Pick, Jack takes us back to the rave. "It's been
+  a while since I've had the opportunity to go outside and lose myself to music
+  in front of a sound system, so there's no better time to read this
+  gonzo-styled documentation of the last rave on Earth. Hopefully, it will
+  [...]Read More...
 published: true
 tags: event-review
 featured: false

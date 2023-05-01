@@ -11,9 +11,8 @@ banner: []
 description: >-
   In anticipation of their forthcoming release, Stormfield and Nonima cooked up
   an edit of this tense, acidified, dreamlike industrial dancefloor number. From
-  Stormfield &amp; Nonima&#39;s Expanse EP on Combat Recordings. Out 24.04 on
-  digital &#8211; Pre-order:
-  https://combatrecordings.bandcamp.com/album/expanse-e-p
+  Stormfield & Nonima's Expanse EP on Combat Recordings. Out 24.04 on digital –
+  Pre-order: https://combatrecordings.bandcamp.com/album/expanse-e-p
   https://soundcloud.com/combatrecordings https://soundcloud.com/stormfield
   https://soundcloud.com/nonima [...]Read More...
 published: true

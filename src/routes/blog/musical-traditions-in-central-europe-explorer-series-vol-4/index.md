@@ -10,9 +10,9 @@ banner:
     imported/musical-traditions-in-central-europe-explorer-series-vol-4/image832.jpeg
 description: >-
   I must start by saying that the name Burnt Friedman always lurked at the edges
-  of my musical library. I guess he&#39;s one of those artists that have a huge
+  of my musical library. I guess he's one of those artists that have a huge
   portfolio of collaborations. For example, he is a guest artist on countless
-  legendary dub records, and you can&rsquo;t miss his name when scanning through
+  legendary dub records, and you can’t miss his name when scanning through
   collections [...]Read More...
 published: true
 tags: release-review

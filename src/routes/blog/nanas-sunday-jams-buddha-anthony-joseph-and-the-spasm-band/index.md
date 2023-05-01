@@ -8,12 +8,7 @@ author: 125
 banner:
   - >-
     imported/nanas-sunday-jams-buddha-anthony-joseph-and-the-spasm-band/image1260.jpeg
-description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Yes Sunday Jammers. Feels like it&rsquo;s been
-  a while. How are you doing? How are you feeling? Hope you are managing to stay
-  upright in the madness and that some of the Sunday Jams have been aiding your
-  journeying. [...]Read More...
+description: "Banner artwork by the majestic Trav, all of Nana's jams are gathered in\_this playlist. Yes Yes Yes Sunday Jammers. Feels like it’s been a while. How are you doing? How are you feeling? Hope you are managing to stay upright in the madness and that some of the Sunday Jams have been aiding your journeying. [...]Read More..."
 published: true
 tags: feature
 featured: false

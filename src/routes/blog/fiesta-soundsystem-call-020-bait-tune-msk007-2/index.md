@@ -8,12 +8,11 @@ author: 72
 banner:
   - imported/fiesta-soundsystem-call-020-bait-tune-msk007-2/image1094.jpeg
 description: >-
-  Fiesta Soundsystem &#8211; CALL 020-BAIT-TUNE [MSK007] by Fiesta Soundsystem I
-  first heard Fiesta Soundsystem&rsquo;s music around a year ago: I had just
-  played Denham Audio&rsquo;s &lsquo;Leighton Buzzin&rsquo;&rsquo; and
-  LMajor&rsquo;s &lsquo;Engineer&rsquo; and my flatmate suggested that we listen
-  to some similar tracks that his friend from university had been making. Ever
-  the sceptic when told by [...]Read More...
+  Fiesta Soundsystem – CALL 020-BAIT-TUNE [MSK007] by Fiesta Soundsystem I first
+  heard Fiesta Soundsystem’s music around a year ago: I had just played Denham
+  Audio’s ‘Leighton Buzzin’’ and LMajor’s ‘Engineer’ and my flatmate suggested
+  that we listen to some similar tracks that his friend from university had been
+  making. Ever the sceptic when told by [...]Read More...
 published: true
 tags: review
 featured: false

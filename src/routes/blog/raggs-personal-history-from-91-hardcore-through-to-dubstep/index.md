@@ -9,11 +9,11 @@ banner:
   - >-
     imported/raggs-personal-history-from-91-hardcore-through-to-dubstep/image1387.jpeg
 description: >-
-  It&rsquo;s time to get excited. Which is to say, it&rsquo;s the time when
-  we&rsquo;re all feeling shit and really realistically have no idea when rave
-  shall return, so the getting of excitement has to be gradual, substantial, for
-  the summer (or winter) of love to change lives as it should. Time to tune into
-  eachother&rsquo;s [...]Read More...
+  It’s time to get excited. Which is to say, it’s the time when we’re all
+  feeling shit and really realistically have no idea when rave shall return, so
+  the getting of excitement has to be gradual, substantial, for the summer (or
+  winter) of love to change lives as it should. Time to tune into eachother’s
+  [...]Read More...
 published: true
 tags: picks
 featured: false

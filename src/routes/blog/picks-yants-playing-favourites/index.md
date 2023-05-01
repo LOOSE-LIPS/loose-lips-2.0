@@ -8,11 +8,11 @@ author: 164
 banner:
   - imported/picks-yants-playing-favourites/image1042.jpeg
 description: >-
-  Pulsing, bouncin&#39;, swervin&#39; tunnel vision Techno. A crucial craft
-  within the Loose Lips aesthetic, and one which has been honed by Yant, a DJ
-  and producer whose work has been played in Fabric, Berghain. Bassiani, the
-  Ritz Hotel&#39;s secret sex dungeon, basically everywhere important. We&#39;re
-  very excited to share a few of this sesh necromancer&#39;s [...]Read More...
+  Pulsing, bouncin', swervin' tunnel vision Techno. A crucial craft within the
+  Loose Lips aesthetic, and one which has been honed by Yant, a DJ and producer
+  whose work has been played in Fabric, Berghain. Bassiani, the Ritz Hotel's
+  secret sex dungeon, basically everywhere important. We're very excited to
+  share a few of this sesh necromancer's [...]Read More...
 published: true
 tags: feature
 featured: false

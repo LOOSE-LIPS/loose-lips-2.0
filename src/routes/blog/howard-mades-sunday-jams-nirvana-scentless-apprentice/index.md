@@ -8,11 +8,11 @@ author: 63
 banner:
   - imported/howard-mades-sunday-jams-nirvana-scentless-apprentice/image990.jpeg
 description: >-
-  This is my favourite Nirvana tune, plus I&rsquo;m feeling a lot of teenage
-  angst today. It came out in 1992 on In Utero. The lyrics are based on Kurt
-  Cobain&rsquo;s favourite book &quot;Perfume&quot; by the German author Patrick
-  S&uuml;skind. The book is set in 18th century France, about a boy born with a
-  ridiculously heightened [...]Read More...
+  This is my favourite Nirvana tune, plus I’m feeling a lot of teenage angst
+  today. It came out in 1992 on In Utero. The lyrics are based on Kurt Cobain’s
+  favourite book "Perfume" by the German author Patrick Süskind. The book is set
+  in 18th century France, about a boy born with a ridiculously heightened
+  [...]Read More...
 published: true
 tags: feature
 featured: false

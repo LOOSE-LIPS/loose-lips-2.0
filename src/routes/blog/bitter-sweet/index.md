@@ -7,13 +7,7 @@ slug: bitter-sweet
 author: 100
 banner:
   - imported/bitter-sweet/image1173.jpeg
-description: >-
-  Welcome to our seventh monthly Deep Cuts article. The theme is Bitter Sweet,
-  its prompt question was &#39;what music makes darkness digestible (or even
-  tasty)?&#39;. It&#39;s worth mentioning that most of the contributions were
-  written over a month ago (some are even pre-Covid), hence the varied
-  interpretations of the theme,&nbsp;the contributions which are not related
-  [...]Read More...
+description: "Welcome to our seventh monthly Deep Cuts article. The theme is Bitter Sweet, its prompt question was 'what music makes darkness digestible (or even tasty)?'. It's worth mentioning that most of the contributions were written over a month ago (some are even pre-Covid), hence the varied interpretations of the theme,\_the contributions which are not related [...]Read More..."
 published: true
 tags: deep-cuts
 featured: false

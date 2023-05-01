@@ -8,11 +8,11 @@ author: 164
 banner:
   - imported/picks-dr-puddings-lockeddown-london-daytrip/image1041.jpeg
 description: >-
-  Such a bizarre time. We&#39;ve been in this mess long enough that some
-  creative fruits are coming out of it, creative connections have been made,
-  music has been shared and properly appreciated, but christ this is a headfuck
-  of a year. The best points seem tethered to the worst; one of the most
-  exciting occurences [...]Read More...
+  Such a bizarre time. We've been in this mess long enough that some creative
+  fruits are coming out of it, creative connections have been made, music has
+  been shared and properly appreciated, but christ this is a headfuck of a year.
+  The best points seem tethered to the worst; one of the most exciting
+  occurences [...]Read More...
 published: true
 tags: feature
 featured: false
