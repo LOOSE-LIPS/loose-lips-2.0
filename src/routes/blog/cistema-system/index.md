@@ -7,13 +7,7 @@ slug: cistema-system
 author: 124
 banner:
   - imported/cistema-system/image1066.jpeg
-description: >-
-  Things escalated pretty quickly since January, when I first attempted to
-  interview Vanya Samokrutkin &#8211; a creative force behind Ukrainian cross
-  disciplinary art-platform and record label&nbsp;система | system. Between two
-  countries, three languages and very bad internet connection, our initial
-  contact wasn&rsquo;t very fruitful, mainly because my questions were driven by
-  nostalgia and recent hype [...]Read More...
+description: "Things escalated pretty quickly since January, when I first attempted to interview Vanya Samokrutkin – a creative force behind Ukrainian cross disciplinary art-platform and record label\_система | system. Between two countries, three languages and very bad internet connection, our initial contact wasn’t very fruitful, mainly because my questions were driven by nostalgia and recent hype [...]Read More..."
 published: true
 tags: interview
 featured: false

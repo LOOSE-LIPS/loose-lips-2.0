@@ -8,11 +8,11 @@ author: 52
 banner:
   - imported/relaxer-coconut-grove-avenue-66/image941.jpeg
 description: >-
-  Brooklin&rsquo;s artist Daniel Martin-McCormick is back after a year hiatus
-  under his moniker Relaxer with Coconut Grove, a beautiful double EP comprising
-  of 9 tracks navigating between Ambient and melodic Techno. The album, to be
-  released on Los Angeles&#39; Avenue 66 &#8211; a sub label of Acid Test which
-  featured, among others, a few EPs [...]Read More...
+  Brooklin’s artist Daniel Martin-McCormick is back after a year hiatus under
+  his moniker Relaxer with Coconut Grove, a beautiful double EP comprising of 9
+  tracks navigating between Ambient and melodic Techno. The album, to be
+  released on Los Angeles' Avenue 66 – a sub label of Acid Test which featured,
+  among others, a few EPs [...]Read More...
 published: true
 tags: release-review
 featured: false

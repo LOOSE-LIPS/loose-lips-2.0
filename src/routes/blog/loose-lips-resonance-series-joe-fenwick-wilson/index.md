@@ -7,13 +7,7 @@ slug: loose-lips-resonance-series-joe-fenwick-wilson
 author: 76
 banner:
   - imported/loose-lips-resonance-series-joe-fenwick-wilson/image1109.jpeg
-description: >-
-  Welcome to the third instalment of the &#39;Resonance Series&#39; &#8211;
-  curated by Jasper Golding, it explores the interplay between art
-  forms.&nbsp;This feature, running every other Tuesday, introduces you to
-  musical individuals through the other art forms they engage in, telling a
-  personal story of their creative output and how different mediums influence
-  each other. Thoughtful [...]Read More...
+description: "Welcome to the third instalment of the 'Resonance Series' – curated by Jasper Golding, it explores the interplay between art forms.\_This feature, running every other Tuesday, introduces you to musical individuals through the other art forms they engage in, telling a personal story of their creative output and how different mediums influence each other. Thoughtful [...]Read More..."
 published: true
 tags: feature
 featured: false

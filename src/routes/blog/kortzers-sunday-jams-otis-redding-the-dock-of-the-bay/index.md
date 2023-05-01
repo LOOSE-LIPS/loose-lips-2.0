@@ -8,10 +8,10 @@ author: 96
 banner:
   - imported/kortzers-sunday-jams-otis-redding-the-dock-of-the-bay/image770.jpeg
 description: >-
-  This week I&#39;ve returned to Otis Redding. The Dock Of The Bay is a song
-  that everyone knows or has at least heard! As I&#39;ve previously said Otis
-  was my ground zero in terms of soul and blues music and this song was the
-  start of it all for me. The Dock Of The Bay [...]Read More...
+  This week I've returned to Otis Redding. The Dock Of The Bay is a song that
+  everyone knows or has at least heard! As I've previously said Otis was my
+  ground zero in terms of soul and blues music and this song was the start of it
+  all for me. The Dock Of The Bay [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/formal-method-black-heart-attraction-aeltd003/image1267.jpeg
 description: >-
-  A spanky EBM piece! From Formal Method&#39;s Artificial Desire EP on
-  Audioexit. Out now on 7&quot; &#8211; Order:
+  A spanky EBM piece! From Formal Method's Artificial Desire EP on Audioexit.
+  Out now on 7" – Order:
   https://audioexitrecords.bandcamp.com/album/aeltd003-artificial-desire
   https://soundcloud.com/formalmethodtechnohttps://soundcloud.com/audioexit
   [...]Read More...

@@ -10,7 +10,7 @@ banner:
 description: >-
   Sliding, waving, shifting, evaporating, getting through walls and
   electronics.This brilliant number takes you into a world of its own. From
-  NIKE_VOMITA&#39;s PHANTOM_EP on Concrete Collage. Out 23.01 on digital &#8211;
+  NIKE_VOMITA's PHANTOM_EP on Concrete Collage. Out 23.01 on digital –
   Pre-order: https://concretecollage.bandcamp.com/album/phantom-ep
   https://soundcloud.com/concrete-collage https://soundcloud.com/nike_vomita
   [...]Read More...

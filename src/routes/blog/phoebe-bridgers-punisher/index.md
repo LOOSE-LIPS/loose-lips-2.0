@@ -8,11 +8,11 @@ author: 164
 banner:
   - imported/phoebe-bridgers-punisher/image1194.jpeg
 description: >-
-  15 days after Phoebe Bridgers released her second solo album Punisher,
-  I&rsquo;m finally able to listen through it in full, properly. That&rsquo;s
-  not to say I didn&rsquo;t try; my flatmate was over at his girlfriend&rsquo;s
-  place when it was released, so I lay our spare mattress down next to our
-  speakers, lay down and turned [...]Read More...
+  15 days after Phoebe Bridgers released her second solo album Punisher, I’m
+  finally able to listen through it in full, properly. That’s not to say I
+  didn’t try; my flatmate was over at his girlfriend’s place when it was
+  released, so I lay our spare mattress down next to our speakers, lay down and
+  turned [...]Read More...
 published: true
 tags: review
 featured: false

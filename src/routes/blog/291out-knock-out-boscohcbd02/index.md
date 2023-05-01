@@ -12,7 +12,7 @@ description: >-
   ensemble 291out, starting the second volume of two fund-raising compilations
   coming out on Bosconi Records and set to raise money for the Banco Alimentare
   Onlus Foundation. From Home Cooked Beats V/A compilation on Bosconi Records.
-  Out now on digital &#8211;
+  Out now on digital –
   Order:https://bosconirecords.bandcamp.com/album/boscohcbd01-home-cooked-beats-vol-1https://bosconirecords.bandcamp.com/album/boscohcbd02-home-cooked-beats-vol-2
   https://soundcloud.com/bosconi-recordshttps://soundcloud.com/291out [...]Read
   More...

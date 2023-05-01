@@ -7,14 +7,7 @@ slug: tzusan
 author: 7
 banner:
   - imported/tzusan/image1192.jpeg
-description: >-
-  &amp;amp;lt;a
-  href=&#8221;http://thisisnotpop.bandcamp.com/album/babau&#8221;&amp;amp;gt;BABAU
-  by Tzusan&amp;amp;lt;/a&amp;amp;gt; What have you been up to recently? Fuck
-  all, obviously. Nah I&#39;ve been keeping myself busy enough making beats for
-  the next album and a few other projects I&#39;ve got bubbling away with the
-  SKOOP family and beyond.&nbsp; What&rsquo;s the story behind the name
-  &ldquo;Tzusan&rdquo;? I get this one a lot [...]Read More...
+description: "&amp;lt;a href=”http://thisisnotpop.bandcamp.com/album/babau”&amp;gt;BABAU by Tzusan&amp;lt;/a&amp;gt; What have you been up to recently? Fuck all, obviously. Nah I've been keeping myself busy enough making beats for the next album and a few other projects I've got bubbling away with the SKOOP family and beyond.\_ What’s the story behind the name “Tzusan”? I get this one a lot [...]Read More..."
 published: true
 tags: interview
 featured: false

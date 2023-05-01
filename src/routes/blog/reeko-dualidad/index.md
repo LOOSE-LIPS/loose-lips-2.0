@@ -8,8 +8,8 @@ author: 31
 banner:
   - imported/reeko-dualidad/image1358.jpeg
 description: >-
-  Reeko&rsquo;s latest release on his own Mental disorder imprint is a work of
-  art. Rough and elegant in equal parts, Dualidad is a sonic exploration of the
+  Reeko’s latest release on his own Mental disorder imprint is a work of art.
+  Rough and elegant in equal parts, Dualidad is a sonic exploration of the
   evasive border where noise and music meet. It invites us on a deep, emotional
   journey through the dark universe of our unconscious. So find yourself a
   comfortable position, [...]Read More...

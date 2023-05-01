@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/hanz-genred-walkthrough/image1345.jpeg
 description: >-
-  Hello mate!!! Yeah I&rsquo;m so sorry to knock on your door in such strange
-  times, rest assured this is only my astral projection so no viruses will be
-  passed, I just need some bangers, is that all right??? OH you&rsquo;re a DJ
-  whose record collection stretches from Dub Techno to Dancehall, fantastic!
-  That will get [...]Read More...
+  Hello mate!!! Yeah I’m so sorry to knock on your door in such strange times,
+  rest assured this is only my astral projection so no viruses will be passed, I
+  just need some bangers, is that all right??? OH you’re a DJ whose record
+  collection stretches from Dub Techno to Dancehall, fantastic! That will get
+  [...]Read More...
 published: true
 tags: picks
 featured: false

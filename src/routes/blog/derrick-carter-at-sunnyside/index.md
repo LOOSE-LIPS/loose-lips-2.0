@@ -8,11 +8,11 @@ author: 137
 banner:
   - imported/derrick-carter-at-sunnyside/image885.jpeg
 description: >-
-  Since Move D&rsquo;s mind-blowing set at Sunnyside, I have been desperate to
-  get back to the sun-kissed shoreline of Lake Ontario for another another
+  Since Move D’s mind-blowing set at Sunnyside, I have been desperate to get
+  back to the sun-kissed shoreline of Lake Ontario for another another
   instalment of their summer programme. Last weekend saw Sunnyside host the one
   and only Derrick Carter, alongside Richard Brooks, Sean Roman, Miz Megs and
-  Strange City &amp; Tele. On this gorgeously [...]Read More...
+  Strange City & Tele. On this gorgeously [...]Read More...
 published: true
 tags: event-review
 featured: false

@@ -7,13 +7,7 @@ slug: tzusan-cheap-thrills-free-refills-skoop-1
 author: 100
 banner:
   - imported/tzusan-cheap-thrills-free-refills-skoop-1/image974.jpeg
-description: >-
-  Another brilliant piece from the SKOOP collective this week! Excerpt from
-  Tzusan&#39;s anticipated BABAU album written in a dusty, dim-lit, window-less
-  studio shed somewhere around Edinburgh, Cheap Thrills Cheap Refills is a dark
-  and dreamy number with witty lyrics delivered with class. Don&#39;t sleep on
-  this!!&nbsp; From Tzusan&#39;s BABAU album on SKOOP. Out 27.11 on [...]Read
-  More...
+description: "Another brilliant piece from the SKOOP collective this week! Excerpt from Tzusan's anticipated BABAU album written in a dusty, dim-lit, window-less studio shed somewhere around Edinburgh, Cheap Thrills Cheap Refills is a dark and dreamy number with witty lyrics delivered with class. Don't sleep on this!!\_ From Tzusan's BABAU album on SKOOP. Out 27.11 on [...]Read More..."
 published: true
 tags: premiere
 featured: false

@@ -9,10 +9,10 @@ banner:
   - imported/lara-featsutty-common-sense-ep-peachy-sounds/image1319.jpeg
 description: >-
   Common Sense by Lara ft Sutty Peachy UK have borne new fruits for a long time.
-  Kicking off an events and mix series back in 2017, Gabriella&#39;s experience
-  over the decade &#8211; beginning as a Sheffield curator before expanding to
-  London &#8211; means their talent showcase always reflects who to look out for
-  from all [...]Read More...
+  Kicking off an events and mix series back in 2017, Gabriella's experience over
+  the decade – beginning as a Sheffield curator before expanding to London –
+  means their talent showcase always reflects who to look out for from all
+  [...]Read More...
 published: true
 tags: release-review
 featured: false

@@ -10,10 +10,10 @@ banner:
 description: >-
   The main motive of the 20th CTM festival was perseverance. Perseverance in
   resisting the polarization of society and simplified rhetoric, exploring its
-  opposite &#8211; &quot;the ephemeral, provincial&quot; and emphasizing
-  personal artistic experience as a means of empathy, pluralism, as an antidote
-  to absolute truths. The most illustrious embodiment of this discourse at the
-  festival was [...]Read More...
+  opposite – "the ephemeral, provincial" and emphasizing personal artistic
+  experience as a means of empathy, pluralism, as an antidote to absolute
+  truths. The most illustrious embodiment of this discourse at the festival was
+  [...]Read More...
 published: true
 tags: review
 featured: false

@@ -7,13 +7,7 @@ slug: error-lake-halves
 author: 100
 banner:
   - imported/error-lake-halves/image1398.jpeg
-description: >-
-  A piece that evokes being on a shore, far away, floating above the ground with
-  hazey waves of bliss flowing over your cheeks, cradled by error lake&#39;s
-  smooth, crooning voice. From error lake&#39;s&nbsp;windshield /
-  halves&nbsp;EP. Out now on digital &#8211;
-  https://errorlake.bandcamp.com/album/windshield-halves
-  https://soundcloud.com/error_lake [...]Read More...
+description: "A piece that evokes being on a shore, far away, floating above the ground with hazey waves of bliss flowing over your cheeks, cradled by error lake's smooth, crooning voice. From error lake's\_windshield / halves\_EP. Out now on digital – https://errorlake.bandcamp.com/album/windshield-halves https://soundcloud.com/error_lake [...]Read More..."
 published: true
 tags: premiere
 featured: false

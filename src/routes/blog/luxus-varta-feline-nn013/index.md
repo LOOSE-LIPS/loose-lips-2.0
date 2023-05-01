@@ -7,14 +7,7 @@ slug: luxus-varta-feline-nn013
 author: 100
 banner:
   - imported/luxus-varta-feline-nn013/image759.jpeg
-description: >-
-  Feline sounds like a quest for the right timing within its several parts.
-  Always looking for the superior rhythm and finally falling into an ambient
-  &ldquo;no time zone&rdquo;.&nbsp; From Luxus Varta&#39;s Plastic Time EP on
-  Nocta Numerica. Out 25.02 on 12&quot; and digital &#8211; Pre-order:
-  https://noctanumerica.bandcamp.com/album/plastic-time-nn013
-  https://soundcloud.com/nocta-numerica https://soundcloud.com/luxusvarta
-  [...]Read More...
+description: "Feline sounds like a quest for the right timing within its several parts. Always looking for the superior rhythm and finally falling into an ambient “no time zone”.\_ From Luxus Varta's Plastic Time EP on Nocta Numerica. Out 25.02 on 12\" and digital – Pre-order: https://noctanumerica.bandcamp.com/album/plastic-time-nn013 https://soundcloud.com/nocta-numerica https://soundcloud.com/luxusvarta [...]Read More..."
 published: true
 tags: premiere
 featured: false

@@ -8,11 +8,11 @@ author: 165
 banner:
   - imported/nene-h-ensemble-basiani-performance-at-ctm-festival/image1037.jpeg
 description: >-
-  We&#39;re all missing the experience of live music in venues right now: for
-  this edition of Editors&#39; Pick, Hardy takes us back to Zuzana Friday&#39;s
-  in depth review of a unique experience &#8211; Nene H &amp; Ensemble Basiani
-  at CTM festival, January 2020. I&rsquo;ve been following Nene H&rsquo;s
-  musical development for some years now. Apart [...]Read More...
+  We're all missing the experience of live music in venues right now: for this
+  edition of Editors' Pick, Hardy takes us back to Zuzana Friday's in depth
+  review of a unique experience – Nene H & Ensemble Basiani at CTM festival,
+  January 2020. I’ve been following Nene H’s musical development for some years
+  now. Apart [...]Read More...
 published: true
 tags: event-review
 featured: false

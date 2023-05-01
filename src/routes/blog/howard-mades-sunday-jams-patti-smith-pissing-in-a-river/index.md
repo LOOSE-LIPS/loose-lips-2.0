@@ -8,12 +8,7 @@ author: 63
 banner:
   - >-
     imported/howard-mades-sunday-jams-patti-smith-pissing-in-a-river/image1055.jpeg
-description: >-
-  Patti patti patti.&nbsp; Where do I start with this beautiful human, a true
-  fuckin&#39; poet.&nbsp; This tune was written by her and Ivan Kr&aacute;l,
-  after a breakup. Every tune of hers has such raw emotion, you can hear the
-  tragedy in her voice. I love her so much. Also the opening piano chord
-  sequence, which [...]Read More...
+description: "Patti patti patti.\_ Where do I start with this beautiful human, a true fuckin' poet.\_ This tune was written by her and Ivan Král, after a breakup. Every tune of hers has such raw emotion, you can hear the tragedy in her voice. I love her so much. Also the opening piano chord sequence, which [...]Read More..."
 published: true
 tags: feature
 featured: false

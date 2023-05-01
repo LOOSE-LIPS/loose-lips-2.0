@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/picks-safejas-electronic-inspirations/image1176.jpeg
 description: >-
-  This month&rsquo;s PICKS feature comes from Safejas, a Berlin-based producer
-  with a warm, explorative aesthetic, whose music treads the emotional fringes
-  of electronic music. His debut single Eyeline Inspector feels like it&rsquo;s
-  brooding over the memory of the dancefloor, whilst crucially being distant and
-  somehow detached from it. Its a piece of music not aimed [...]Read More...
+  This month’s PICKS feature comes from Safejas, a Berlin-based producer with a
+  warm, explorative aesthetic, whose music treads the emotional fringes of
+  electronic music. His debut single Eyeline Inspector feels like it’s brooding
+  over the memory of the dancefloor, whilst crucially being distant and somehow
+  detached from it. Its a piece of music not aimed [...]Read More...
 published: true
 tags: feature
 featured: false

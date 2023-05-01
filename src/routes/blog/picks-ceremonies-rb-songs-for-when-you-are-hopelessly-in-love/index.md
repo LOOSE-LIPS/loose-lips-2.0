@@ -9,11 +9,11 @@ slug: picks-ceremonies-rb-songs-for-when-you-are-hopelessly-in-love
 author: 164
 banner: []
 description: >-
-  As Canada&rsquo;s largest and most diverse city, Toronto has a lot of cultural
+  As Canada’s largest and most diverse city, Toronto has a lot of cultural
   crossovers with London, resulting in accusations that Drake has nicked London
   slang (Toronto encouraged Jamaican migration due to factors such as nurse
-  shortages in the 60s, not unlike the UK&rsquo;s postwar windrush) and
-  amusements when Drake samples the same Peverelist track that [...]Read More...
+  shortages in the 60s, not unlike the UK’s postwar windrush) and amusements
+  when Drake samples the same Peverelist track that [...]Read More...
 published: true
 tags: feature
 featured: false

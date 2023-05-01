@@ -10,8 +10,8 @@ banner:
 description: >-
   Dubbed out, hazey sound exploration from Rico Casazza, who delivers a deep dub
   techno number in the vein of Echochord or cv313 with added personal flair and
-  emotions. From Rico Casazza&#39;s self-released Perceptive Dance EP Out
-  15.01.2021 on digital &#8211; Pre-order:
+  emotions. From Rico Casazza's self-released Perceptive Dance EP Out 15.01.2021
+  on digital – Pre-order:
   https://ricocasazza.bandcamp.com/album/perceptive-dance-2
   https://soundcloud.com/ricocasazza [...]Read More...
 published: true

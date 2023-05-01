@@ -7,11 +7,7 @@ slug: petwo-evans-oxford-bags-ptrx02
 author: 100
 banner:
   - imported/petwo-evans-oxford-bags-ptrx02/image883.jpeg
-description: >-
-  A multi-faced, light generating monster stomping his way into the darkest of
-  basements. From Petwo Evans&#39; Petrax02&nbsp;EP on Petrax. Out now on
-  digital &#8211; Order: https://petwoevans.bandcamp.com/album/petrax02
-  https://soundcloud.com/petwoevans [...]Read More...
+description: "A multi-faced, light generating monster stomping his way into the darkest of basements. From Petwo Evans' Petrax02\_EP on Petrax. Out now on digital – Order: https://petwoevans.bandcamp.com/album/petrax02 https://soundcloud.com/petwoevans [...]Read More..."
 published: true
 tags: premiere
 featured: false

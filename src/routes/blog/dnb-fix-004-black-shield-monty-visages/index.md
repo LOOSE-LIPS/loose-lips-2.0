@@ -6,12 +6,7 @@ type: post
 slug: dnb-fix-004-black-shield-monty-visages
 author: 153
 banner: []
-description: >-
-  This week we&rsquo;re jumping in the deep end with a fresh release from 1985
-  Music; a label so closely entwined in Drum &amp; Bass royalty it most
-  certainly deserves your attention. &nbsp; Founded by Alix Perez, the label has
-  been the home to some of the deepest, darkest tracks to grace the world&#39;s
-  ears; with [...]Read More...
+description: "This week we’re jumping in the deep end with a fresh release from 1985 Music; a label so closely entwined in Drum & Bass royalty it most certainly deserves your attention. \_ Founded by Alix Perez, the label has been the home to some of the deepest, darkest tracks to grace the world's ears; with [...]Read More..."
 published: true
 tags: feature
 featured: false

@@ -8,10 +8,10 @@ author: 100
 banner:
   - imported/death-grips-guillotine-omori-remix-index-tapes/image1243.jpeg
 description: >-
-  We&#39;ve a special one for you, we&#39;ve hit the 500th premiere mark and we
-  wanted to make it very special. It came out as a natural way of saluting a
-  close friend from one of our crew: Stoyan Yovchev AKA Omori who sadly passed
-  away this year, having left a rich legacy of music to [...]Read More...
+  We've a special one for you, we've hit the 500th premiere mark and we wanted
+  to make it very special. It came out as a natural way of saluting a close
+  friend from one of our crew: Stoyan Yovchev AKA Omori who sadly passed away
+  this year, having left a rich legacy of music to [...]Read More...
 published: true
 tags: free-download
 featured: false

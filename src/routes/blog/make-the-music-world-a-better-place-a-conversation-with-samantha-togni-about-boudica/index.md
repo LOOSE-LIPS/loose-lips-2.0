@@ -13,10 +13,10 @@ banner:
     imported/make-the-music-world-a-better-place-a-conversation-with-samantha-togni-about-boudica/image1378.jpeg
 description: >-
   Samantha Togni is a London-based DJ, producer and teacher at London Sound
-  Academy, a core member of the INFERNO collective and founder of Boudica
-  &#8211; a platform promoting womxn and non-binary artists. Formerly an event
-  with a residency at The Pickle Factory, Boudica branched out and became a
-  radio show, a podcast, an online conference [...]Read More...
+  Academy, a core member of the INFERNO collective and founder of Boudica – a
+  platform promoting womxn and non-binary artists. Formerly an event with a
+  residency at The Pickle Factory, Boudica branched out and became a radio show,
+  a podcast, an online conference [...]Read More...
 published: true
 tags: interview
 featured: true

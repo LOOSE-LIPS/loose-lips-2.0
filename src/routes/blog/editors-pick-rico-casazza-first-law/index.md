@@ -8,11 +8,11 @@ author: 67
 banner:
   - imported/editors-pick-rico-casazza-first-law/image1112.jpeg
 description: >-
-  For this weeks Editors&#39; Pick, Richard Meaney selects Jack Bradbury&#39;s
-  preview of Rico Casazza &#8211; First Law. An exquisite blend of driving and
-  atmospheric acid house, it&#39;s available on his Bandcamp to listen &amp; buy
-  now! Rico Casazza&rsquo;s new three track EP &ldquo;First Law&rdquo; is
-  perfect for someone looking for an acid sound that is [...]Read More...
+  For this weeks Editors' Pick, Richard Meaney selects Jack Bradbury's preview
+  of Rico Casazza – First Law. An exquisite blend of driving and atmospheric
+  acid house, it's available on his Bandcamp to listen & buy now! Rico Casazza’s
+  new three track EP “First Law” is perfect for someone looking for an acid
+  sound that is [...]Read More...
 published: true
 tags: premiere
 featured: false

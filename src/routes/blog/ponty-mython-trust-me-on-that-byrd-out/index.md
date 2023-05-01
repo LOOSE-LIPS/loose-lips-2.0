@@ -10,7 +10,7 @@ banner:
 description: >-
   Ponty Mython delivers a retro-futuristic House track with strong bleep
   accents, totally immersive! From Pluralistic Reflex V/A compilation on Byrd
-  Out. Out 08.05.2020 on digital &#8211; Pre-order:
+  Out. Out 08.05.2020 on digital – Pre-order:
   https://byrdout.bandcamp.com/album/pluralistic-reflex
   https://soundcloud.com/byrdouthttps://soundcloud.com/pontymython [...]Read
   More...

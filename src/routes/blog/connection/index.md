@@ -7,13 +7,7 @@ slug: connection
 author: 100
 banner:
   - imported/connection/image1208.jpeg
-description: >-
-  Welcome to our eighth monthly Deep Cuts article. EIGHT. The theme is
-  Connection, its prompt question was &#39;what music represents someone / some
-  group you want to stay connected to?&#39;. As with last month&#39;s
-  theme&nbsp;Bitter Sweet, we&#39;ve been working on this since long before
-  quarantine, but there&#39;s a gorgeous synchronicity there.&nbsp; As always,
-  tracks from [...]Read More...
+description: "Welcome to our eighth monthly Deep Cuts article. EIGHT. The theme is Connection, its prompt question was 'what music represents someone / some group you want to stay connected to?'. As with last month's theme\_Bitter Sweet, we've been working on this since long before quarantine, but there's a gorgeous synchronicity there.\_ As always, tracks from [...]Read More..."
 published: true
 tags: deep-cuts
 featured: false

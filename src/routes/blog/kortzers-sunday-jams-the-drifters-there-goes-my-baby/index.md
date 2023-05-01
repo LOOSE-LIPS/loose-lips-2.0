@@ -8,11 +8,10 @@ author: 96
 banner:
   - imported/kortzers-sunday-jams-the-drifters-there-goes-my-baby/image983.jpeg
 description: >-
-  Today is going to be my final Sunday Jam! I&#39;ve thoroughly enjoyed
-  selecting the sounds of Sunday for the last year or so but now is time for me
-  to hand over the baton to good friend and colleague, Howard Made. Sunday Jams
-  has been a sobering duty each weekend, often waking late in the [...]Read
-  More...
+  Today is going to be my final Sunday Jam! I've thoroughly enjoyed selecting
+  the sounds of Sunday for the last year or so but now is time for me to hand
+  over the baton to good friend and colleague, Howard Made. Sunday Jams has been
+  a sobering duty each weekend, often waking late in the [...]Read More...
 published: true
 tags: feature
 featured: false

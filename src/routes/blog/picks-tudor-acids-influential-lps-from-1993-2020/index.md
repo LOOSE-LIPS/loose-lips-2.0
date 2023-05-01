@@ -9,10 +9,10 @@ banner:
   - imported/picks-tudor-acids-influential-lps-from-1993-2020/image1262.jpeg
 description: >-
   Tudor Acid is in the HOUSE motherfuckers. This is one seriously wiggy boi over
-  here, he&#39;s been wigging people out with his naughty fucking synths for
-  many years, the most recent of which have seen him bringing his live
-  acid/electro experiments to Threads radio, lugging his Roland boxes to
-  collaborative gigs around London, and just [...]Read More...
+  here, he's been wigging people out with his naughty fucking synths for many
+  years, the most recent of which have seen him bringing his live acid/electro
+  experiments to Threads radio, lugging his Roland boxes to collaborative gigs
+  around London, and just [...]Read More...
 published: true
 tags: feature
 featured: false

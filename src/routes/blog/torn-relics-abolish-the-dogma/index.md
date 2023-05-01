@@ -8,7 +8,7 @@ author: 40
 banner:
   - imported/torn-relics-abolish-the-dogma/image1063.jpeg
 description: >-
-  Torn Relics&#39; first release, The Poisoned Chalice (2019), was a triumph of
+  Torn Relics' first release, The Poisoned Chalice (2019), was a triumph of
   gut-punching dread, threading percussive techno with the mournful cries of a
   modulated violin. The pitch black mood of that record is in no short supply on
   Abolish the Dogma. Here, with their first LP, released in February by the

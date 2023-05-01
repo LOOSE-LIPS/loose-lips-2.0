@@ -12,8 +12,8 @@ banner:
     imported/vax-313-sitting-party-culture-hendrik-thomas-remix-pmg-tanz-digital/image1321.jpeg
 description: >-
   German producer Hendrik Thomas on remix duties here, taking a deep and spacey
-  house approach. From VAX 313&#39;s Sitting Party Culture EP on Skopje-based
-  PMG Tanz Digital. Out 23.11 on digital &#8211; Pre-order:
+  house approach. From VAX 313's Sitting Party Culture EP on Skopje-based PMG
+  Tanz Digital. Out 23.11 on digital – Pre-order:
   https://pmgtanzdigital.bandcamp.com/album/sitting-party-culture-incl-remixes-by-andreja-salpe-hendrik-thomas
   https://soundcloud.com/pmgtanzdigitalrecordshttps://soundcloud.com/vax313https://soundcloud.com/h-thomas
   [...]Read More...

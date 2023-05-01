@@ -7,12 +7,7 @@ slug: nanas-sunday-jams-have-i-little-simz
 author: 125
 banner:
   - imported/nanas-sunday-jams-have-i-little-simz/image1347.jpeg
-description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes and Yes Sunday Jammers. We made it to December,
-  there were moments where I thought it might not happen and some Loki-style
-  creature might hit the suspend button. However you got here, whichever way you
-  found your way, well done. [...]Read More...
+description: "Banner artwork by the majestic Trav, all of Nana's jams are gathered in\_this playlist. Yes and Yes Sunday Jammers. We made it to December, there were moments where I thought it might not happen and some Loki-style creature might hit the suspend button. However you got here, whichever way you found your way, well done. [...]Read More..."
 published: true
 tags: feature
 featured: false

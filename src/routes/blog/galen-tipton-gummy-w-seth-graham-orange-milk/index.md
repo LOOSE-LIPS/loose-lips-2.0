@@ -10,8 +10,8 @@ banner:
 description: >-
   Frolicking in multicolour grass surrounded by affectionate flying insects and
   enjoying the moment is just one example of the genius collage album from galen
-  tipton. From galen tipton&#39;s fake meat LP on Orange Milk Records. Out 27.09
-  on 12&quot; and digital &#8211; Pre-order:
+  tipton. From galen tipton's fake meat LP on Orange Milk Records. Out 27.09 on
+  12" and digital – Pre-order:
   https://orangemilkrecords.bandcamp.com/album/fake-meat
   https://soundcloud.com/orangemilk https://soundcloud.com/galentipton [...]Read
   More...

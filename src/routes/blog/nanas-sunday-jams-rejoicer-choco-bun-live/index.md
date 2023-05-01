@@ -8,10 +8,10 @@ author: 125
 banner: []
 description: >-
   Yes, Yes Sunday Jammers. Hope life is good. This week the tour stops in the
-  present courtesy of Rejoicer with &ldquo;Choco &amp; Bun- Live&rdquo;, full,
-  fresh and fly. Shout out to Noam Rodeh from the Ninja Tunes/Solid Steel Fan
-  Club for this one. All week I have been thinking about dancing, especially
-  Sunday dancing; for [...]Read More...
+  present courtesy of Rejoicer with “Choco & Bun- Live”, full, fresh and fly.
+  Shout out to Noam Rodeh from the Ninja Tunes/Solid Steel Fan Club for this
+  one. All week I have been thinking about dancing, especially Sunday dancing;
+  for [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -8,11 +8,11 @@ author: 99
 banner:
   - imported/dnb-fix-028-cia-limited-016/image1244.jpeg
 description: >-
-  Total Science&#39;s Bristol Based imprint; CIA, are back once again with the
-  ill behaviour. CIA Limited 016 is a heavy release featuring 2 massive tunes
+  Total Science's Bristol Based imprint; CIA, are back once again with the ill
+  behaviour. CIA Limited 016 is a heavy release featuring 2 massive tunes
   updated into 2 raucous remixes. Be Warned; this 2 track cut of pure rollage,
   is a serious security threat to your ears. Side A is ironically named
-  &lsquo;Lightweight&rsquo;. Don&rsquo;t be [...]Read More...
+  ‘Lightweight’. Don’t be [...]Read More...
 published: true
 tags: feature
 featured: false

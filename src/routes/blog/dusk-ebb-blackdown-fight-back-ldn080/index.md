@@ -7,13 +7,7 @@ slug: dusk-ebb-blackdown-fight-back-ldn080
 author: 100
 banner:
   - imported/dusk-ebb-blackdown-fight-back-ldn080/image1083.jpeg
-description: >-
-  A steppy number bouncing on grimey bass drops, featuring New Zealand&#39;s
-  Ebb. From Dusk + Blackdown&#39;s RollageLive vol.1: Nightfall&nbsp;compilation
-  album on Keysound Recordings. It aims for the sweet spot between a
-  longer-lived artist album and an in-the moment live DJ mix &#8211; yet
-  accessible without needing a vinyl deck, CD drive or a tape player. [...]Read
-  More...
+description: "A steppy number bouncing on grimey bass drops, featuring New Zealand's Ebb. From Dusk + Blackdown's RollageLive vol.1: Nightfall\_compilation album on Keysound Recordings. It aims for the sweet spot between a longer-lived artist album and an in-the moment live DJ mix – yet accessible without needing a vinyl deck, CD drive or a tape player. [...]Read More..."
 published: true
 tags: premiere
 featured: false

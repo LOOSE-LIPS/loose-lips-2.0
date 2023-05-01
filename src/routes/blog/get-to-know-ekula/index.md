@@ -7,13 +7,7 @@ slug: get-to-know-ekula
 author: 17
 banner:
   - imported/get-to-know-ekula/image842.jpeg
-description: >-
-  Ekula&nbsp;is hardly a new name when it comes to the 140BPM scene. As one half
-  of the&nbsp;Six Sunsets&nbsp;project, he contributed some of the last few
-  years best dubstep tunes (&ldquo;Shatter&rdquo; or &ldquo;Fever Skank&rdquo;
-  come to mind) on some of the sound&rsquo;s most exciting imprints, such
-  as&nbsp;Off-Switch Audio,&nbsp;Glassy&nbsp;or&nbsp;Banana Stand Sound, to name
-  but a few. The [...]Read More...
+description: "Ekula\_is hardly a new name when it comes to the 140BPM scene. As one half of the\_Six Sunsets\_project, he contributed some of the last few years best dubstep tunes (“Shatter” or “Fever Skank” come to mind) on some of the sound’s most exciting imprints, such as\_Off-Switch Audio,\_Glassy\_or\_Banana Stand Sound, to name but a few. The [...]Read More..."
 published: true
 tags: feature
 featured: false

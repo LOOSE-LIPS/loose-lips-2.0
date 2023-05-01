@@ -9,8 +9,8 @@ banner:
   - imported/alavux-space-junk-ba088/image732.jpeg
 description: >-
   Full throttle into a cosmic belt of space debris, heading towards the nearest
-  black hole. From Alavux&#39;s Cyberpunk EP on Bass Agenda. Out 18.01 on
-  digital &#8211; Follow Bass Agenda. https://soundcloud.com/bassagenda
+  black hole. From Alavux's Cyberpunk EP on Bass Agenda. Out 18.01 on digital –
+  Follow Bass Agenda. https://soundcloud.com/bassagenda
   https://soundcloud.com/alavux [...]Read More...
 published: true
 tags: premiere

@@ -7,13 +7,7 @@ slug: treeces-rap-up-future-high-off-life
 author: 158
 banner:
   - imported/treeces-rap-up-future-high-off-life/image1135.jpeg
-description: >-
-  &lsquo;Lord forgive me, for I been on a rampage.&rsquo; &lsquo;High Off
-  Life&rsquo; is now &#39;Atlanta Trap God&#39; Future&rsquo;s
-  32nd&nbsp;official full length release. Not only does the album title read
-  like a statement, the whole release plays like one: it&#39;s clear you&#39;re
-  listening to a maturing artist that has evolved and morphed throughout his
-  career, expanding [...]Read More...
+description: "‘Lord forgive me, for I been on a rampage.’ ‘High Off Life’ is now 'Atlanta Trap God' Future’s 32nd\_official full length release. Not only does the album title read like a statement, the whole release plays like one: it's clear you're listening to a maturing artist that has evolved and morphed throughout his career, expanding [...]Read More..."
 published: true
 tags: feature
 featured: false

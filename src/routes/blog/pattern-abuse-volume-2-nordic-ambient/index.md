@@ -9,7 +9,7 @@ banner:
   - imported/pattern-abuse-volume-2-nordic-ambient/image721.jpeg
 description: >-
   A collection of fairly unknown artists compiles a variety of Nordic ambient
-  music on Liquido&rsquo;s label Pattern Abuse. As opposed to the eclecticism of
+  music on Liquido’s label Pattern Abuse. As opposed to the eclecticism of
   Volume 1, Volume 2 heads in a more precise direction, delivering soothing
   synth atmospheres and icy sound signatures inspired by Scandinavia. Music from
   Nordic countries often has a certain character. Recurring [...]Read More...

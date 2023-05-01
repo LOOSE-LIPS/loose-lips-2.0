@@ -7,11 +7,11 @@ slug: luke-leadbelly-cbm24-xlv2-ps-4080
 author: 100
 banner: []
 description: >-
-  We have a mysterious and corrupted tune for you with today&rsquo;s premiere.
-  The next few months are going to be full of Charlie Boy Manson&rsquo;s
-  story-telling. His, and Loose Lips&rsquo;, first vinyl release is dropping
-  early next year with a single coming towards the back-end of 2020 &#8211; a
-  special collaboration with an incredible new [...]Read More...
+  We have a mysterious and corrupted tune for you with today’s premiere. The
+  next few months are going to be full of Charlie Boy Manson’s story-telling.
+  His, and Loose Lips’, first vinyl release is dropping early next year with a
+  single coming towards the back-end of 2020 – a special collaboration with an
+  incredible new [...]Read More...
 published: true
 tags: premiere
 featured: false

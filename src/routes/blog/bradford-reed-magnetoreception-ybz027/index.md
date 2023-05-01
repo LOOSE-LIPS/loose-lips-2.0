@@ -7,13 +7,7 @@ slug: bradford-reed-magnetoreception-ybz027
 author: 100
 banner:
   - imported/bradford-reed-magnetoreception-ybz027/image959.jpeg
-description: >-
-  Driven by the pencilina, an instrument that Brooklyn-based experimental
-  composer Bradford Reed invented, this brilliant piece of Avant-Guarde Jazz is
-  only one example of Reed&#39;s latest output in 13 years; showcasing a mastery
-  he and his fellow performers acquired during the years.&nbsp; From Bradford
-  Reed&#39;s What&#39;s Good for the Goose is Good&nbsp;LP on Youngbloods. Out
-  [...]Read More...
+description: "Driven by the pencilina, an instrument that Brooklyn-based experimental composer Bradford Reed invented, this brilliant piece of Avant-Guarde Jazz is only one example of Reed's latest output in 13 years; showcasing a mastery he and his fellow performers acquired during the years.\_ From Bradford Reed's What's Good for the Goose is Good\_LP on Youngbloods. Out [...]Read More..."
 published: true
 tags: premiere
 featured: false

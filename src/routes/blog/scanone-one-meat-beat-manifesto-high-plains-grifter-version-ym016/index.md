@@ -14,8 +14,8 @@ description: >-
   This version of the original track, drifting on a darker, atmospheric yet
   still in-ya-face vibe, is a twisted adventurein a urban landscape set
   somewhere in the middle of a twilight zone! From ScanOne meets Meat Beat
-  Manifesto &#8211; ONE EP on Yellow Machines. On sale from 14.10 at
-  https://yellow-machines.bandcamp.comAvailable on 12&quot; with 4 tracks and
+  Manifesto – ONE EP on Yellow Machines. On sale from 14.10 at
+  https://yellow-machines.bandcamp.comAvailable on 12" with 4 tracks and
   [...]Read More...
 published: true
 tags: premiere

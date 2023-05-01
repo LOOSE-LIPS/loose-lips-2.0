@@ -8,8 +8,8 @@ author: 99
 banner:
   - imported/dnb-fix-036-wardown-ep/image1320.jpeg
 description: >-
-  It&rsquo;s an eponymous project from Pete Rogers of Technimatic up this week;
-  With all the intensity of a Technimatic outing, yet even more personal and
+  It’s an eponymous project from Pete Rogers of Technimatic up this week; With
+  all the intensity of a Technimatic outing, yet even more personal and
   experimental. Emotive yet tranquilising, Wardown is that little bit of
   catharsis we all need. Is this a concept album? well, kind of. The axis of
   this album is the town [...]Read More...

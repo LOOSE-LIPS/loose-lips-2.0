@@ -7,13 +7,7 @@ slug: the-black-hole-releases-three-year-compilation
 author: 7
 banner:
   - imported/the-black-hole-releases-three-year-compilation/image972.jpeg
-description: >-
-  Brooklyn, NY &mdash; Attention, passengers! To celebrate the Black Hole&#39;s
-  three year anniversary, Brooklyn-based collective ALKHEMY has brought together
-  &ldquo;some of the mightiest in the galaxy&rdquo; of techno for this
-  characteristically energetic global compilation. It is now available to listen
-  and purchase on Soundcloud and Bandcamp via the collective&rsquo;s imprint,
-  Whirlwind.&nbsp; The cover art, inspired [...]Read More...
+description: "Brooklyn, NY — Attention, passengers! To celebrate the Black Hole's three year anniversary, Brooklyn-based collective ALKHEMY has brought together “some of the mightiest in the galaxy” of techno for this characteristically energetic global compilation. It is now available to listen and purchase on Soundcloud and Bandcamp via the collective’s imprint, Whirlwind.\_ The cover art, inspired [...]Read More..."
 published: true
 tags: feature
 featured: false

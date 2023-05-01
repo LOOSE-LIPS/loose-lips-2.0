@@ -7,12 +7,7 @@ slug: dnb-fix-011-subtension-tom-yum
 author: 153
 banner:
   - imported/dnb-fix-011-subtension-tom-yum/image1080.jpeg
-description: >-
-  This stupid isolation isn&rsquo;t going to stop us keeping you locked and
-  loaded with the hottest Drum &amp; Bass week in week out; this week&#39;s Fix
-  comes from Subtension and the Flexout Audio imprint.&nbsp; Flexout Audio seems
-  only natural for a producer such as Subtension; the young Slovakian has been
-  building pace within the industry [...]Read More...
+description: "This stupid isolation isn’t going to stop us keeping you locked and loaded with the hottest Drum & Bass week in week out; this week's Fix comes from Subtension and the Flexout Audio imprint.\_ Flexout Audio seems only natural for a producer such as Subtension; the young Slovakian has been building pace within the industry [...]Read More..."
 published: true
 tags: feature
 featured: false

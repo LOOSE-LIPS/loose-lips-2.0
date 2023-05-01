@@ -7,13 +7,7 @@ slug: night-shift-x-frequencies-charity-cruise
 author: 137
 banner:
   - imported/night-shift-x-frequencies-charity-cruise/image882.jpeg
-description: >-
-  Two of Toronto&rsquo;s hottest musical showcases took to the waves of Lake
-  Ontario last Thursday for a great cause. The weekly dance-music staple;
-  Nightshift,&nbsp;teamed up with monthly live-performance hub; Frequencies for
-  a night of nautical fun onboard the River Gambler.&nbsp; Both platforms are
-  committed to harbouring the music scene in Toronto through their regular free
-  [...]Read More...
+description: "Two of Toronto’s hottest musical showcases took to the waves of Lake Ontario last Thursday for a great cause. The weekly dance-music staple; Nightshift,\_teamed up with monthly live-performance hub; Frequencies for a night of nautical fun onboard the River Gambler.\_ Both platforms are committed to harbouring the music scene in Toronto through their regular free [...]Read More..."
 published: true
 tags: review
 featured: false

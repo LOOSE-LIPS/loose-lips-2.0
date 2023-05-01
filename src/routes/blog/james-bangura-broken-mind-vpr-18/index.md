@@ -7,13 +7,7 @@ slug: james-bangura-broken-mind-vpr-18
 author: 100
 banner:
   - imported/james-bangura-broken-mind-vpr-18/image1012.jpeg
-description: >-
-  Big bass kicks nonchalantly hit you in the face while you&#39;re rolling at
-  the club! From James Bangura EP on Vanity Press. Out 14.02.2020 on 12&quot;
-  and digital &#8211; &nbsp;Pre-order:
-  https://www.rubadub.co.uk/records/james-bangura-ep
-  https://soundcloud.com/vanitypresshttps://soundcloud.com/jamesbangura
-  [...]Read More...
+description: "Big bass kicks nonchalantly hit you in the face while you're rolling at the club! From James Bangura EP on Vanity Press. Out 14.02.2020 on 12\" and digital – \_Pre-order: https://www.rubadub.co.uk/records/james-bangura-ep https://soundcloud.com/vanitypresshttps://soundcloud.com/jamesbangura [...]Read More..."
 published: true
 tags: premiere
 featured: false

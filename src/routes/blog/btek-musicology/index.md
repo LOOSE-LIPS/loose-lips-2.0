@@ -8,11 +8,11 @@ author: 146
 banner:
   - imported/btek-musicology/image748.jpeg
 description: >-
-  A few words with Btek, an independent DJ, A&amp;R and Bookings Agent in the
-  northern scene. Facebook &#8211; BT3KMusicology Talking about his events brand
+  A few words with Btek, an independent DJ, A&R and Bookings Agent in the
+  northern scene. Facebook – BT3KMusicology Talking about his events brand
   Musicology and events that are lined up for 2019: I have worked on the
-  Elements events for 6 years alongside Nick Divine and Laurie Burton &#8211;
-  Elements is strictly for hip [...]Read More...
+  Elements events for 6 years alongside Nick Divine and Laurie Burton – Elements
+  is strictly for hip [...]Read More...
 published: true
 tags: feature
 featured: false

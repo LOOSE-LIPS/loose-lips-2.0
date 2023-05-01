@@ -11,8 +11,8 @@ description: >-
   Soaring string work, brittle melodies and crunchy, obtuse machine rhythms
   which sum up the soul of the label. From S27-X (I) and S27-X (II) V/A
   compilation on Section 27. This compilation celebrates the 10th year of
-  Section 27, an &quot;underground&quot; DIY online digital label run by Tam
-  Ferrans, operating out of Scotland since 2009. Taking [...]Read More...
+  Section 27, an "underground" DIY online digital label run by Tam Ferrans,
+  operating out of Scotland since 2009. Taking [...]Read More...
 published: true
 tags: premiere
 featured: false

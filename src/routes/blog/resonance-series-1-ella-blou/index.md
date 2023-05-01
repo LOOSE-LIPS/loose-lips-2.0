@@ -8,10 +8,10 @@ author: 76
 banner:
   - imported/resonance-series-1-ella-blou/image1075.jpeg
 description: >-
-  Welcome to the first ever edition of &#39;Resonance Series&#39; &#8211; a new
-  feature, curated by Jasper Golding, about the interplay between art forms. A
-  love for showcasing and sharing music is at the centre of Loose Lips and there
-  are numerous ways in which this can be done. Music massively influences visual
+  Welcome to the first ever edition of 'Resonance Series' – a new feature,
+  curated by Jasper Golding, about the interplay between art forms. A love for
+  showcasing and sharing music is at the centre of Loose Lips and there are
+  numerous ways in which this can be done. Music massively influences visual
   art, and vice [...]Read More...
 published: true
 tags: feature

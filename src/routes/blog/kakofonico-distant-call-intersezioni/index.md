@@ -9,9 +9,8 @@ banner:
   - imported/kakofonico-distant-call-intersezioni/image1205.jpeg
 description: >-
   Infectious, trance inducing groove built around various ethnic instruments and
-  a sharp, pumping beat!Hard to resist! From Kakofonico&#39;s Running Away EP on
-  Intersezioni. Out 22.07.2020 on digital &#8211;
-  https://intersezioni.bandcamp.com
+  a sharp, pumping beat!Hard to resist! From Kakofonico's Running Away EP on
+  Intersezioni. Out 22.07.2020 on digital – https://intersezioni.bandcamp.com
   https://soundcloud.com/intrsznhttps://soundcloud.com/kakofonico [...]Read
   More...
 published: true

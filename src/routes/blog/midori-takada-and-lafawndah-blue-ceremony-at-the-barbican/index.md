@@ -11,9 +11,9 @@ banner:
 description: >-
   Genre defying pop music is not a phrase one would quickly attribute to, now
   cult level, Japanese percussionist Midori Takada. So the collaboration with up
-  and comer Lafawndah doesn&rsquo;t jump out on paper. However, the little known
-  story of her taking up residence with legend David Bowie, and indulging in
-  acidic binges that would put [...]Read More...
+  and comer Lafawndah doesn’t jump out on paper. However, the little known story
+  of her taking up residence with legend David Bowie, and indulging in acidic
+  binges that would put [...]Read More...
 published: true
 tags: event-review
 featured: false

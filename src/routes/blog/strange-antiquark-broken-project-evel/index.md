@@ -7,13 +7,7 @@ slug: strange-antiquark-broken-project-evel
 author: 100
 banner:
   - imported/strange-antiquark-broken-project-evel/image1149.jpeg
-description: >-
-  A track that acts as a sensory deprivation tank; a cosmic transportation into
-  the squeaky mini-world created by Strange Antiquark on this V/A celebrating
-  the 5th anniversary of Barcelona-based label EVEL. Broken
-  Project&nbsp;features only on the CD Digipack release alongside another bonus
-  track! From 5YA V/A compilation on EVEL. Out now on limited CD (full [...]Read
-  More...
+description: "A track that acts as a sensory deprivation tank; a cosmic transportation into the squeaky mini-world created by Strange Antiquark on this V/A celebrating the 5th anniversary of Barcelona-based label EVEL. Broken Project\_features only on the CD Digipack release alongside another bonus track! From 5YA V/A compilation on EVEL. Out now on limited CD (full [...]Read More..."
 published: true
 tags: premiere
 featured: false

@@ -7,14 +7,7 @@ slug: konerytmi-ilmatila-rough-cuts-03
 author: 100
 banner:
   - imported/konerytmi-ilmatila-rough-cuts-03/image1274.jpeg
-description: >-
-  With its airy pads, squary, acidy bassline and more squelchy goodness,
-  Ilmatila&nbsp;is an oneiric electro tune with a capacity to widen your inner
-  smile. From Konerytmi&#39;s Kalevala EP on Too Rough 4 Radio. Out 29.10 on
-  cassette and digital &#8211; Pre-order:
-  https://toorough4radio.bandcamp.com/album/rough-cuts-03-konerytmi-kalevala-ep
-  https://soundcloud.com/toorough4radiohttps://soundcloud.com/tr4r-roughcutshttps://soundcloud.com/anna-melashchenko1
-  [...]Read More...
+description: "With its airy pads, squary, acidy bassline and more squelchy goodness, Ilmatila\_is an oneiric electro tune with a capacity to widen your inner smile. From Konerytmi's Kalevala EP on Too Rough 4 Radio. Out 29.10 on cassette and digital – Pre-order: https://toorough4radio.bandcamp.com/album/rough-cuts-03-konerytmi-kalevala-ep https://soundcloud.com/toorough4radiohttps://soundcloud.com/tr4r-roughcutshttps://soundcloud.com/anna-melashchenko1 [...]Read More..."
 published: true
 tags: premiere
 featured: false

@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/kaade-knobetter-bedroomer/image856.jpeg
 description: >-
-  Kaade&#39;s vocals over this brooding halfstep beat is highly effective! From
-  Kaade&#39;s Knobetter EP on Bedroomer. Out now on digital &#8211; Order:
+  Kaade's vocals over this brooding halfstep beat is highly effective! From
+  Kaade's Knobetter EP on Bedroomer. Out now on digital – Order:
   http://smarturl.it/kaadeknobetter https://soundcloud.com/bedroomer
   https://soundcloud.com/kkaade [...]Read More...
 published: true

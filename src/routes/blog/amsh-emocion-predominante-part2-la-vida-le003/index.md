@@ -7,13 +7,7 @@ slug: amsh-emocion-predominante-part2-la-vida-le003
 author: 100
 banner:
   - imported/amsh-emocion-predominante-part2-la-vida-le003/image988.jpeg
-description: >-
-  Industrial piece tinted by a languorous duo of Piano and Trumpet. As its album
-  title The Duel&nbsp;suggests, it immerses the listener into a contrasted bath
-  of rough and thoughtful emotions. From AMSH&#39;s The Duel LP on Line
-  Explorations. Out 21.01.2019 on 12&quot; and digital &#8211; Pre-order:
-  https://lineexplorations.bandcamp.com/album/amsh-the-duel-lp
-  https://soundcloud.com/609_amsh [...]Read More...
+description: "Industrial piece tinted by a languorous duo of Piano and Trumpet. As its album title The Duel\_suggests, it immerses the listener into a contrasted bath of rough and thoughtful emotions. From AMSH's The Duel LP on Line Explorations. Out 21.01.2019 on 12\" and digital – Pre-order: https://lineexplorations.bandcamp.com/album/amsh-the-duel-lp https://soundcloud.com/609_amsh [...]Read More..."
 published: true
 tags: premiere
 featured: false

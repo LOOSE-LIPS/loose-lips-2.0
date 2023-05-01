@@ -10,9 +10,9 @@ banner:
 description: >-
   I recently asked a friend to contribute to a team-review of a charity
   compilation, and suggested they write to whatever word limit they want, that
-  they &lsquo;go off on one&rsquo; about life in these times if they wish. They
-  were happy to do the review, but feared it would be inappropriate to whinge
-  about their [...]Read More...
+  they ‘go off on one’ about life in these times if they wish. They were happy
+  to do the review, but feared it would be inappropriate to whinge about their
+  [...]Read More...
 published: true
 tags: feature
 featured: false

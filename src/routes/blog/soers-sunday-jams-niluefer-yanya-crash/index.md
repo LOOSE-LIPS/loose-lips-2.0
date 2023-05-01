@@ -9,9 +9,9 @@ banner:
   - imported/soers-sunday-jams-niluefer-yanya-crash/image1313.jpeg
 description: >-
   [This is transcribed from audio notes I recorded whilst listening to Crash for
-  the first time, walking alongside a river at 7pm on a Friday. It&#39;s still a
-  Sunday Jam though. Also I&#39;m covering for Nana this week, my name&#39;s
-  Will, I edit Sunday Jams and Deep Cuts and whatnot.] So my first thought about
+  the first time, walking alongside a river at 7pm on a Friday. It's still a
+  Sunday Jam though. Also I'm covering for Nana this week, my name's Will, I
+  edit Sunday Jams and Deep Cuts and whatnot.] So my first thought about
   [...]Read More...
 published: true
 tags: feature

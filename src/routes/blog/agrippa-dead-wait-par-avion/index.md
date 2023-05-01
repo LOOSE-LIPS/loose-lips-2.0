@@ -8,11 +8,11 @@ author: 110
 banner:
   - imported/agrippa-dead-wait-par-avion/image876.jpeg
 description: >-
-  Agrippa&rsquo;s Dead Wait EP came out on May 31st on the UK-based
-  producer&#39;s own label Par Avion. Over the four tracks, Agrippa continues
-  with a sound he has crafted carefully through his previous releases. Filled
-  with intricate, rolling percussion, broken beats and cerebral samples, with
-  his latest EP, Agrippa takes things to a slightly darker [...]Read More...
+  Agrippa’s Dead Wait EP came out on May 31st on the UK-based producer's own
+  label Par Avion. Over the four tracks, Agrippa continues with a sound he has
+  crafted carefully through his previous releases. Filled with intricate,
+  rolling percussion, broken beats and cerebral samples, with his latest EP,
+  Agrippa takes things to a slightly darker [...]Read More...
 published: true
 tags: release-review
 featured: false

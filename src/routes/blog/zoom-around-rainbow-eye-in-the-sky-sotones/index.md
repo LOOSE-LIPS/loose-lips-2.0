@@ -9,8 +9,8 @@ banner:
   - imported/zoom-around-rainbow-eye-in-the-sky-sotones/image1136.jpeg
 description: >-
   Bass-heavy! Like being trapped inside an arcade game with subwoofers as your
-  main weapon! From Zoom Around Rainbow&#39;s Redeem EP on Sotones. Out 29.05 on
-  digital &#8211; http://sotones.co.uk
+  main weapon! From Zoom Around Rainbow's Redeem EP on Sotones. Out 29.05 on
+  digital – http://sotones.co.uk
   https://soundcloud.com/sotoneshttps://soundcloud.com/zoom-around-rainbowhttps://www.instagram.com/zoom_around_rainbow
   [...]Read More...
 published: true

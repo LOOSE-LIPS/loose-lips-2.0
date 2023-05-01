@@ -13,9 +13,8 @@ banner:
 description: >-
   Loose Lips chats to Stella and Caleb about the launch of their new night,
   Oblako, which begins at Fold on the 17th of May. Firstly, what does the name
-  mean? Stella: It means &lsquo;cloud&rsquo; in Russian. We were trying to come
-  up with a name for the night and we noticed one of caleb&rsquo;s favorite
-  [...]Read More...
+  mean? Stella: It means ‘cloud’ in Russian. We were trying to come up with a
+  name for the night and we noticed one of caleb’s favorite [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -9,10 +9,10 @@ banner:
   - imported/mosca-touchie-riddim-1/image957.jpeg
 description: >-
   Mosca is undoubtedly most well-known for his notorious 2011 release Done Me
-  Wrong/Bax with the EP&rsquo;s B-Side Bax currently boasting almost 2 million
-  Spotify listens, with its UKG inspired bass line and familiar 2-Step drum
-  patterns. You would be forgiven, then, for having slept on some of his more
-  recent releases, which haven&rsquo;t gained nearly [...]Read More...
+  Wrong/Bax with the EP’s B-Side Bax currently boasting almost 2 million Spotify
+  listens, with its UKG inspired bass line and familiar 2-Step drum patterns.
+  You would be forgiven, then, for having slept on some of his more recent
+  releases, which haven’t gained nearly [...]Read More...
 published: true
 tags: release-review
 featured: false

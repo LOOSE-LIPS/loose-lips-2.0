@@ -10,12 +10,7 @@ author: 146
 banner:
   - >-
     imported/silkie-dont-dj-for-free-rhythm-junkie-ep-pretty-weird-records/image734.jpeg
-description: >-
-  Coming correct with a serious bassline,&nbsp;Silkie&#39;s &#39;Dont Dj For
-  Free&#39; really takes me back to my teenage induction into bass music. In
-  this track, what stands out for me is the distorted and crushed wah-wah sound
-  twinned with the infectious &#39;itch n&#39; scratch&#39; beats and cheeky 808
-  cowbells and you got a sure-fire dancefloor banger. [...]Read More...
+description: "Coming correct with a serious bassline,\_Silkie's 'Dont Dj For Free' really takes me back to my teenage induction into bass music. In this track, what stands out for me is the distorted and crushed wah-wah sound twinned with the infectious 'itch n' scratch' beats and cheeky 808 cowbells and you got a sure-fire dancefloor banger. [...]Read More..."
 published: true
 tags: release-review
 featured: false

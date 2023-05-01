@@ -6,6 +6,7 @@ import phin from "phin";
 import path from "path";
 import axios from "axios";
 import { load } from "cheerio";
+import he from "he";
 
 //&#39
 //&#8211
@@ -120,7 +121,7 @@ for (let i = 1; i < totalPages; i++) {
               "'"
             );
           });
-
+          const description = he.decode(post.yoast_head_json.og_description);
           const data = {
             id: post.id,
             date: transformedDateString,
@@ -129,7 +130,7 @@ for (let i = 1; i < totalPages; i++) {
             slug: post.slug,
             author: post.author,
             banner: images,
-            description: post.yoast_head_json.og_description,
+            description: description,
             published: true,
             tags: extract,
             featured: featured,

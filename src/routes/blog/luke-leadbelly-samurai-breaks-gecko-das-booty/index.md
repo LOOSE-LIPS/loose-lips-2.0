@@ -6,13 +6,7 @@ type: post
 slug: luke-leadbelly-samurai-breaks-gecko-das-booty
 author: 100
 banner: []
-description: >-
-  Luke Leadbelly and Samurai Breaks deliver this banger with skyscraper-high
-  subs and slow-fast rave wickedness! From Luke Leadbelly&#39;s Sex, Drugs &amp;
-  on the Dole EP&nbsp;on Das Booty. Out 04.12.2020 on digital &#8211;
-  https://dasbootyrave.bandcamp.com
-  https://soundcloud.com/lukeleadbellyhttps://soundcloud.com/samuraibreaks
-  [...]Read More...
+description: "Luke Leadbelly and Samurai Breaks deliver this banger with skyscraper-high subs and slow-fast rave wickedness! From Luke Leadbelly's Sex, Drugs & on the Dole EP\_on Das Booty. Out 04.12.2020 on digital – https://dasbootyrave.bandcamp.com https://soundcloud.com/lukeleadbellyhttps://soundcloud.com/samuraibreaks [...]Read More..."
 published: true
 tags: premiere
 featured: false

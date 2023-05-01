@@ -9,11 +9,10 @@ banner:
   - imported/dai-3-unknown-artist-hiro-records/image880.jpeg
 description: >-
   July 3rd marks the release of the third instalment in the anonymous and
-  mysterious UK-based minimal project &#8211; hirō records. According to the
-  label, the term &#39;hirō&#39; roughly translates as &lsquo;to signify
-  abundance, generosity, tolerance and prosperity&rsquo;. The label&rsquo;s
-  title is both a nod to the founder&rsquo;s deep respect for Japanese culture
-  and the saving [...]Read More...
+  mysterious UK-based minimal project – hirō records. According to the label,
+  the term 'hirō' roughly translates as ‘to signify abundance, generosity,
+  tolerance and prosperity’. The label’s title is both a nod to the founder’s
+  deep respect for Japanese culture and the saving [...]Read More...
 published: true
 tags: release-review
 featured: false

@@ -8,11 +8,11 @@ author: 17
 banner:
   - imported/the-140-roundup-april-2019/image814.jpeg
 description: >-
-  April seemed like a quieter place compared to last month&rsquo;s frenzy. There
-  was still plenty to be found all over the 140BPM spectrum though, including
-  some promising insights into the next few months. One of the best releases
-  came in the form of Infernal Sounds unearthing two old school dubs from
-  veteran producer Cluekid, whose [...]Read More...
+  April seemed like a quieter place compared to last month’s frenzy. There was
+  still plenty to be found all over the 140BPM spectrum though, including some
+  promising insights into the next few months. One of the best releases came in
+  the form of Infernal Sounds unearthing two old school dubs from veteran
+  producer Cluekid, whose [...]Read More...
 published: true
 tags: monthly-feature
 featured: false

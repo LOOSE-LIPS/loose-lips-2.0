@@ -11,8 +11,8 @@ description: >-
   In a world far appart from the Berlin-minded, poker faced and over-serious
   Techno, there lies a kingdom where chipmunk vocals co-exist with ravey stabs
   in a fluo world, echoing the euphoria from 1992. Rave Theory is a fine example
-  of such a type of track that doesn&#39;t take itself seriously and can easily
-  put a [...]Read More...
+  of such a type of track that doesn't take itself seriously and can easily put
+  a [...]Read More...
 published: true
 tags: premiere
 featured: false

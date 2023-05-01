@@ -8,13 +8,7 @@ author: 24
 banner:
   - >-
     imported/picks-caley-dewhursts-a-delicate-resonance-of-longing/image1306.jpeg
-description: >-
-  Picks returns, this time with a close friend of the sqwaaa Caley Dewhurst, a
-  graphic designer and Threads radio DJ who has contributed to our
-  recent&nbsp;Euphoric Apocalyptica&nbsp;collaborative article, digging this
-  time into his record collection for music that sits on the knife&#39;s edge
-  between warmth and frost. Enjoy,&nbsp;you can check out the tracks
-  on&nbsp;this here [...]Read More...
+description: "Picks returns, this time with a close friend of the sqwaaa Caley Dewhurst, a graphic designer and Threads radio DJ who has contributed to our recent\_Euphoric Apocalyptica\_collaborative article, digging this time into his record collection for music that sits on the knife's edge between warmth and frost. Enjoy,\_you can check out the tracks on\_this here [...]Read More..."
 published: true
 tags: feature
 featured: false

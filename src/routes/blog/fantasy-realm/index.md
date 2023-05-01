@@ -7,12 +7,7 @@ slug: fantasy-realm
 author: 100
 banner:
   - imported/fantasy-realm/image1074.jpeg
-description: >-
-  Welcome to our fifth monthly Deep Cuts article. With hopes of aiding those of
-  us suffering from cabin fever in this strange time, this month&rsquo;s theme
-  is Fantasy Realm, its prompt question was &#39;what music conveys its own
-  unique world?&#39;.&nbsp;The illustration comes from&nbsp;Trav. Music from
-  this months&#39; writers is combined in the mix below, put [...]Read More...
+description: "Welcome to our fifth monthly Deep Cuts article. With hopes of aiding those of us suffering from cabin fever in this strange time, this month’s theme is Fantasy Realm, its prompt question was 'what music conveys its own unique world?'.\_The illustration comes from\_Trav. Music from this months' writers is combined in the mix below, put [...]Read More..."
 published: true
 tags: deep-cuts
 featured: false

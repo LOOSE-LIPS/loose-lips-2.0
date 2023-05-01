@@ -9,9 +9,9 @@ banner:
   - imported/anthony-naples-fog-fm/image858.jpeg
 description: >-
   The third LP from Anthony Naples over the last four years, Fog FM, released on
-  June 14, comes out on ANS (note the initials) &mdash; his own sub-label of
-  Incienso, which Naples co-founded with Jenny Slattery. Judging by the releases
-  on the Incienso catalogue, as well his own personal ANS sub-label, this latest
+  June 14, comes out on ANS (note the initials) — his own sub-label of Incienso,
+  which Naples co-founded with Jenny Slattery. Judging by the releases on the
+  Incienso catalogue, as well his own personal ANS sub-label, this latest
   offering fits [...]Read More...
 published: true
 tags: release-review

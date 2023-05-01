@@ -7,15 +7,7 @@ slug: zerodays-celestial-snooker-feat-beyonder
 author: 100
 banner:
   - imported/zerodays-celestial-snooker-feat-beyonder/image900.jpeg
-description: >-
-  Our family member Rico Casazza collaborates with spoken work artist and
-  vocalist Beyonder as Zer&oslash;days on this fat hazey number. Big lumps of
-  smoke coming out of the subwoofers while vocals transpire alongside floating
-  Dub chords. From Zer&oslash;days&#39; Donut Indigestion EP&nbsp; Out 18.09 on
-  digital &#8211; Pre-order:
-  https://rico909.bandcamp.com/album/zer-days-donut-indigestion
-  https://soundcloud.com/zerodayss https://soundcloud.com/ricocasazza [...]Read
-  More...
+description: "Our family member Rico Casazza collaborates with spoken work artist and vocalist Beyonder as Zerødays on this fat hazey number. Big lumps of smoke coming out of the subwoofers while vocals transpire alongside floating Dub chords. From Zerødays' Donut Indigestion EP\_ Out 18.09 on digital – Pre-order: https://rico909.bandcamp.com/album/zer-days-donut-indigestion https://soundcloud.com/zerodayss https://soundcloud.com/ricocasazza [...]Read More..."
 published: true
 tags: premiere
 featured: false

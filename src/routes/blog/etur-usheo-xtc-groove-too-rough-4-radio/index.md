@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/etur-usheo-xtc-groove-too-rough-4-radio/image932.jpeg
 description: >-
-  Etur Usheo undoubtedly brings the heat with a heavy breaks thumper &ldquo;XTC
-  Groove.&rdquo; All the qualities that made 90s breaks so good are channelled
-  here on &lsquo;XTC&rsquo;: carefully placed drops, floating arpeggios, sharp
-  vocals, and a groove that will be impossible to deny on the dancefloor. Usheo
-  has already established his cred in the house [...]Read More...
+  Etur Usheo undoubtedly brings the heat with a heavy breaks thumper “XTC
+  Groove.” All the qualities that made 90s breaks so good are channelled here on
+  ‘XTC’: carefully placed drops, floating arpeggios, sharp vocals, and a groove
+  that will be impossible to deny on the dancefloor. Usheo has already
+  established his cred in the house [...]Read More...
 published: true
 tags: premiere
 featured: false

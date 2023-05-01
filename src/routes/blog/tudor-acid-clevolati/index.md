@@ -8,11 +8,11 @@ author: 59
 banner:
   - imported/tudor-acid-clevolati/image956.jpeg
 description: >-
-  Tudor Acid&rsquo;s new album Clevolati is a leap into the unknown for the
-  artist as much as the listener, as he moves from hardware to coded instruments
-  using Max/MSP. A decision born from circumstances more than artistic
-  direction. Live-coded music and music programming are methods bubbling away in
-  the fringes of experimentalism. Some artists are [...]Read More...
+  Tudor Acid’s new album Clevolati is a leap into the unknown for the artist as
+  much as the listener, as he moves from hardware to coded instruments using
+  Max/MSP. A decision born from circumstances more than artistic direction.
+  Live-coded music and music programming are methods bubbling away in the
+  fringes of experimentalism. Some artists are [...]Read More...
 published: true
 tags: release-review
 featured: false

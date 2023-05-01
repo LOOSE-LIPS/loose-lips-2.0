@@ -7,13 +7,7 @@ slug: versalife-axion-vis314
 author: 100
 banner:
   - imported/versalife-axion-vis314/image889.jpeg
-description: >-
-  The man behind Conforce delivers an Electro track harboring his well defined
-  sonic palette. From Versalife&#39;s Machine Life&nbsp;on 20/20 Vision. Out
-  15.07 on digital. Vinyl is already available on
-  https://www.juno.co.uk/products/versalife-machine-life/715237-01.
-  https://soundcloud.com/2020visionrecordings https://soundcloud.com/conforce
-  [...]Read More...
+description: "The man behind Conforce delivers an Electro track harboring his well defined sonic palette. From Versalife's Machine Life\_on 20/20 Vision. Out 15.07 on digital. Vinyl is already available on https://www.juno.co.uk/products/versalife-machine-life/715237-01. https://soundcloud.com/2020visionrecordings https://soundcloud.com/conforce [...]Read More..."
 published: true
 tags: premiere
 featured: false

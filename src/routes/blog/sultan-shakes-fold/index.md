@@ -7,13 +7,7 @@ slug: sultan-shakes-fold
 author: 111
 banner:
   - imported/sultan-shakes-fold/image859.jpeg
-description: >-
-  Medallion Man interviews fellow-curator,&nbsp;Sultan Shakes,
-  following&nbsp;their night at FOLD this Saturday. What does The Mover mean to
-  you?&nbsp; Discovering The Mover was like finding the missing chapter in the
-  idiots guide to rave. How scared were you when I proposed the collaboration
-  with Loose Lips? I can&rsquo;t help being intimidated about spending an
-  inordinate amount [...]Read More...
+description: "Medallion Man interviews fellow-curator,\_Sultan Shakes, following\_their night at FOLD this Saturday. What does The Mover mean to you?\_ Discovering The Mover was like finding the missing chapter in the idiots guide to rave. How scared were you when I proposed the collaboration with Loose Lips? I can’t help being intimidated about spending an inordinate amount [...]Read More..."
 published: true
 tags: interview
 featured: false

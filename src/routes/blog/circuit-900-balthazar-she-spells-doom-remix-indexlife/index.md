@@ -8,12 +8,12 @@ author: 100
 banner:
   - imported/circuit-900-balthazar-she-spells-doom-remix-indexlife/image923.jpeg
 description: >-
-  Zambia&#39;s finest SHE Spells Doom on remix duties. Adding that flavour we
-  know and love; he deliversa straight up face melting flip on the original!
-  From Circuit 900&#39;s Balthaazar EP on INDEXLIFE. Out 20.09 on digital
-  &#8211; Pre-order: https://indexlife.bandcamp.com
-  https://soundcloud.com/indexlife https://soundcloud.com/circuit900
-  https://soundcloud.com/shespellsdoom [...]Read More...
+  Zambia's finest SHE Spells Doom on remix duties. Adding that flavour we know
+  and love; he deliversa straight up face melting flip on the original! From
+  Circuit 900's Balthaazar EP on INDEXLIFE. Out 20.09 on digital – Pre-order:
+  https://indexlife.bandcamp.com https://soundcloud.com/indexlife
+  https://soundcloud.com/circuit900 https://soundcloud.com/shespellsdoom
+  [...]Read More...
 published: true
 tags: premiere
 featured: false

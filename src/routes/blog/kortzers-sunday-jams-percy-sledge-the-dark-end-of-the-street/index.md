@@ -9,11 +9,11 @@ banner:
   - >-
     imported/kortzers-sunday-jams-percy-sledge-the-dark-end-of-the-street/image895.jpeg
 description: >-
-  This week I&#39;ve chosen Percy Sledge &#8211; The Dark End Of The Street.
-  Sledge is most well known for &quot;When A Man Loves A Woman&quot; which
-  easily could be a Sunday Jam. Sledge&#39;s soulful voice is backed by a dreamy
-  guitar riff that carries the track magically bar to bar, topped with heart
-  warming backing [...]Read More...
+  This week I've chosen Percy Sledge – The Dark End Of The Street. Sledge is
+  most well known for "When A Man Loves A Woman" which easily could be a Sunday
+  Jam. Sledge's soulful voice is backed by a dreamy guitar riff that carries the
+  track magically bar to bar, topped with heart warming backing [...]Read
+  More...
 published: true
 tags: feature
 featured: false

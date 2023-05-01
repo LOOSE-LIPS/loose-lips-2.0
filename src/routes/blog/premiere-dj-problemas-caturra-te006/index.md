@@ -11,7 +11,7 @@ description: >-
   Sub-heavy ritual music, like a dance around a fire whose flames follow the
   rhythms, which sendthe listener into a trance-like state. From Clairvoyance EP
   on Tormenta Electrica, featuring DJ Problemas and Overmann. Out 15.09 on
-  digital &#8211; Check https://tormentaelectrica.bandcamp.com for more info.
+  digital – Check https://tormentaelectrica.bandcamp.com for more info.
   https://soundcloud.com/tormenta-electrica-records
   https://soundcloud.com/djproblemas [...]Read More...
 published: true

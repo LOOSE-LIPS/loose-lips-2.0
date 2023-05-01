@@ -10,9 +10,9 @@ banner:
 description: >-
   To be perfectly topical, this is (part of) my lockdown soundtrack of the
   spring and summer. Lots of people have their quarantine playlists, but mine is
-  specifically sun-focused. I can&rsquo;t quite combine the act of lying in bed
-  on zoom all day with dark, dirgey music, it gets too bleak. So, we&rsquo;re
-  taking the happy [...]Read More...
+  specifically sun-focused. I can’t quite combine the act of lying in bed on
+  zoom all day with dark, dirgey music, it gets too bleak. So, we’re taking the
+  happy [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -9,8 +9,8 @@ banner:
   - imported/take-a-walk-on-the-sunnyside/image850.jpeg
 description: >-
   I have spent the past five or so months walking along the icy shores of Lake
-  Ontario, eagerly awaiting summer&rsquo;s arrival. Even in these colder months,
-  I always recommend to visitors of Toronto that they enjoy a southbound amble
+  Ontario, eagerly awaiting summer’s arrival. Even in these colder months, I
+  always recommend to visitors of Toronto that they enjoy a southbound amble
   through High Park to Sunnyside Beach. With the Loose Lips family recently
   here; I had the [...]Read More...
 published: true

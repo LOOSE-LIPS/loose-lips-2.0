@@ -10,9 +10,9 @@ banner:
 description: >-
   The end of the year is usually a slower moment for music industries, as
   releases normally abound in the few months prior, in time to be picked for
-  December&rsquo;s traditional tops. This seemed even truer this year, which may
-  or may not be linked to the &ldquo;top of the decade&rdquo; lists that were
-  added to [...]Read More...
+  December’s traditional tops. This seemed even truer this year, which may or
+  may not be linked to the “top of the decade” lists that were added to
+  [...]Read More...
 published: true
 tags: feature
 featured: false

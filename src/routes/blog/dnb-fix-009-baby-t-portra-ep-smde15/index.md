@@ -10,10 +10,9 @@ banner:
 description: >-
   You may recognise household name Brianna Price AKA B.Traits for her
   contribution to the bass house and breakbeat scene over the last 10 years.
-  &lsquo;Portra&rsquo; couldn&rsquo;t be any more dissimilar to her 2011 single
-  &lsquo;Fever&rsquo;, which paid homage to the up-lifting piano house tracks of
-  the 90s. Albeit, &lsquo;Fever&rsquo; was indeed a wicked track, but [...]Read
-  More...
+  ‘Portra’ couldn’t be any more dissimilar to her 2011 single ‘Fever’, which
+  paid homage to the up-lifting piano house tracks of the 90s. Albeit, ‘Fever’
+  was indeed a wicked track, but [...]Read More...
 published: true
 tags: feature
 featured: false

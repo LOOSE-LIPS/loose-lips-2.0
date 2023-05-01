@@ -9,7 +9,7 @@ banner:
   - imported/outsider-petrochemical-pdcomp001/image979.jpeg
 description: >-
   Dripping and sticking refined petroleum beats! From PDCOMP001 V/A compilation
-  on Pressure Dome. Out 6.12 on digital &#8211; Pre-order:
+  on Pressure Dome. Out 6.12 on digital – Pre-order:
   https://fanlink.to/PDCOMP001 https://soundcloud.com/pressuredome [...]Read
   More...
 published: true

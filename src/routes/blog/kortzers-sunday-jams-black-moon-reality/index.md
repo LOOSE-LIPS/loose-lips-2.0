@@ -8,11 +8,11 @@ author: 96
 banner:
   - imported/kortzers-sunday-jams-black-moon-reality/image898.jpeg
 description: >-
-  The week&#39;s selection comes from Brooklyn&#39;s Black Moon. This is easily
-  one of my favourite Hip Hop tracks and a Sunday Jams banger in its own right.
-  The beat itself sets the tone from the start, sampling Quincy Jones&#39;s
-  soothing strings. The track feels lazy, but in a good way and instantly
-  creates a feeling [...]Read More...
+  The week's selection comes from Brooklyn's Black Moon. This is easily one of
+  my favourite Hip Hop tracks and a Sunday Jams banger in its own right. The
+  beat itself sets the tone from the start, sampling Quincy Jones's soothing
+  strings. The track feels lazy, but in a good way and instantly creates a
+  feeling [...]Read More...
 published: true
 tags: feature
 featured: false

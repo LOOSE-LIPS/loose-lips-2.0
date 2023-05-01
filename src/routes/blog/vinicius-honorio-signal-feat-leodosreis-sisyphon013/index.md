@@ -12,7 +12,7 @@ description: >-
   label Sisyphon is rewriting the rules of the format for its upcoming
   Hammahalle compilation, replacing the classic double vinyl with a real piece
   of the club instead. In fact the latest Hammahalle release is handmade and
-  reflects Sisyphos&rsquo; long standing commitment to [...]Read More...
+  reflects Sisyphos’ long standing commitment to [...]Read More...
 published: true
 tags: premiere
 featured: false

@@ -7,13 +7,7 @@ slug: classical-mechanics-dead-sea-fruit-vis310
 author: 100
 banner:
   - imported/classical-mechanics-dead-sea-fruit-vis310/image757.jpeg
-description: >-
-  Stripped down and syncopated electronic Funk&nbsp;diving naked in a sea of
-  crunchy glitches. From Classical Mechanic&#39;s Count Basis EP on 2020Vision.
-  Out 18.02 on digital &#8211; Pre-order:
-  http://classic.beatport.com/release/count-basis/2489878
-  https://soundcloud.com/2020visionrecordings
-  https://soundcloud.com/classicalmechanics [...]Read More...
+description: "Stripped down and syncopated electronic Funk\_diving naked in a sea of crunchy glitches. From Classical Mechanic's Count Basis EP on 2020Vision. Out 18.02 on digital – Pre-order: http://classic.beatport.com/release/count-basis/2489878 https://soundcloud.com/2020visionrecordings https://soundcloud.com/classicalmechanics [...]Read More..."
 published: true
 tags: premiere
 featured: false

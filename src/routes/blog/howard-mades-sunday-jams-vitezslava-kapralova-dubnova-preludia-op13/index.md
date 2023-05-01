@@ -10,13 +10,7 @@ author: 63
 banner:
   - >-
     imported/howard-mades-sunday-jams-vitezslava-kapralova-dubnova-preludia-op13/image1008.jpeg
-description: >-
-  V&iacute;tězslava Kapr&aacute;lov&aacute; &nbsp;was a Czech composer and
-  conductor who birthed over 50 full compositions (across various genres,
-  although very few were actually published during her life) in her quarter
-  century stay on earth which was SNATCHED from her by tuberculosis whilst she
-  was in exile in France.&nbsp; Her April preludes written in 1937 are
-  captivating, [...]Read More...
+description: "Vítězslava Kaprálová \_was a Czech composer and conductor who birthed over 50 full compositions (across various genres, although very few were actually published during her life) in her quarter century stay on earth which was SNATCHED from her by tuberculosis whilst she was in exile in France.\_ Her April preludes written in 1937 are captivating, [...]Read More..."
 published: true
 tags: feature
 featured: false

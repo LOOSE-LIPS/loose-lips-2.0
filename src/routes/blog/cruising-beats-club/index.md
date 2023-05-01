@@ -8,7 +8,7 @@ author: 100
 banner:
   - imported/cruising-beats-club/image727.jpeg
 description: >-
-  Bass hopping! From the CLUB album by Cruising Beats Out now on digital &#8211;
+  Bass hopping! From the CLUB album by Cruising Beats Out now on digital –
   Order: https://cruze-faderdrhybrid.bandcamp.com/album/club
   https://soundcloud.com/cruisingbeats [...]Read More...
 published: true

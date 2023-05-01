@@ -8,12 +8,7 @@ type: post
 slug: nanas-sunday-jams-in-the-night-dakota-staton-george-shearing
 author: 125
 banner: []
-description: >-
-  Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered
-  in&nbsp;this playlist. Yes Yes Yes Sunday Jammers hope you are well, managing
-  to stay upright and that smiles are boundless wherever you are. I am all
-  smiles and extra this week sending a huge shout out and Happy Anniversary to
-  all the people [...]Read More...
+description: "Banner artwork by the majestic Trav, all of Nana's jams are gathered in\_this playlist. Yes Yes Yes Sunday Jammers hope you are well, managing to stay upright and that smiles are boundless wherever you are. I am all smiles and extra this week sending a huge shout out and Happy Anniversary to all the people [...]Read More..."
 published: true
 tags: feature
 featured: false

@@ -7,13 +7,7 @@ slug: lobec-5am-nostalgia-rico-casazza-remix-fe029
 author: 100
 banner:
   - imported/lobec-5am-nostalgia-rico-casazza-remix-fe029/image981.jpeg
-description: >-
-  Household name and long time friend Rico Casazza delivers a nostalgic trip
-  equipped with dreamy pads and heartfelt vocals. From Lobec&#39;s 5AM
-  Nostalgia&nbsp;EP&nbsp;&nbsp;on Furthur Electronix. Out January 2020 on
-  12&quot; &#8211; Check for updates: https://furthurelectronix.bandcamp.com/
-  https://soundcloud.com/ricocasazzahttps://soundcloud.com/lobecmusichttps://soundcloud.com/furthur_elect0nix
-  [...]Read More...
+description: "Household name and long time friend Rico Casazza delivers a nostalgic trip equipped with dreamy pads and heartfelt vocals. From Lobec's 5AM Nostalgia\_EP\_\_on Furthur Electronix. Out January 2020 on 12\" – Check for updates: https://furthurelectronix.bandcamp.com/ https://soundcloud.com/ricocasazzahttps://soundcloud.com/lobecmusichttps://soundcloud.com/furthur_elect0nix [...]Read More..."
 published: true
 tags: premiere
 featured: false

@@ -7,12 +7,7 @@ slug: 10-questions-with-2-bad-mice-1
 author: 84
 banner:
   - imported/10-questions-with-2-bad-mice-1/image1166.jpeg
-description: >-
-  So Moving Shadow&rsquo;s world domination began in Watton at Stone. Can you
-  tell us what the local strange past-time or traditional yearly thing was? Most
-  villages have one &#8211; for us it was worm charming in one nearby and orange
-  rolling down the high street closer to home.&nbsp; Actually there isn&#39;t
-  any I can think [...]Read More...
+description: "So Moving Shadow’s world domination began in Watton at Stone. Can you tell us what the local strange past-time or traditional yearly thing was? Most villages have one – for us it was worm charming in one nearby and orange rolling down the high street closer to home.\_ Actually there isn't any I can think [...]Read More..."
 published: true
 tags: interview
 featured: false

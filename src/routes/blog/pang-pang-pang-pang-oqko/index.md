@@ -9,8 +9,8 @@ banner:
   - imported/pang-pang-pang-pang-oqko/image788.jpeg
 description: >-
   Deconstructed industrial kick drums marinated in drone juice, served with
-  broken Techno sauce. From PANG&#39;s PANG EP on oqko. Out 5.4 on 12&quot; and
-  digital &#8211; Pre-order: https://pangofficial.bandcamp.com/album/pang
+  broken Techno sauce. From PANG's PANG EP on oqko. Out 5.4 on 12" and digital –
+  Pre-order: https://pangofficial.bandcamp.com/album/pang
   https://soundcloud.com/oqko [...]Read More...
 published: true
 tags: premiere

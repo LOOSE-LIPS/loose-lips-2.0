@@ -8,10 +8,10 @@ author: 100
 banner:
   - imported/fire-at-work-post-matter-mds005/image865.jpeg
 description: >-
-  Fire At Work redefines the terms &quot;Broken Beat&quot; and takes it quite
-  literally, smashing the rhythm into particles. From Neurosmasher V/A
-  compilation on Monolith Records. Out 24.06 on CD and digital &#8211;
-  Pre-order: https://monolithrecberlin.bandcamp.com/album/neurosmasher-cd
+  Fire At Work redefines the terms "Broken Beat" and takes it quite literally,
+  smashing the rhythm into particles. From Neurosmasher V/A compilation on
+  Monolith Records. Out 24.06 on CD and digital – Pre-order:
+  https://monolithrecberlin.bandcamp.com/album/neurosmasher-cd
   https://soundcloud.com/monolith-records https://soundcloud.com/fire-at-work
   [...]Read More...
 published: true

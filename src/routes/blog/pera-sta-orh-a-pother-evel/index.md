@@ -7,14 +7,7 @@ slug: pera-sta-orh-a-pother-evel
 author: 100
 banner:
   - imported/pera-sta-orh-a-pother-evel/image1296.jpeg
-description: >-
-  Darkside badboi bizniz and beyond, from Greek producer
-  &Pi;&Epsilon;&Rho;&Alpha; &Sigma;&Tau;&Alpha; &Omicron;&Rho;&Eta; (Peta Sta
-  Ori)! From &Pi;&Epsilon;&Rho;&Alpha; &Sigma;&Tau;&Alpha;
-  &Omicron;&Rho;&Eta;&#39;s REVANCHE&nbsp;EP on EVEL. Out 6.11.2020 on 8&quot;
-  and digital &#8211; Pre-order: https://evel.bandcamp.com/album/revanche
-  https://soundcloud.com/evelrdcshttps://soundcloud.com/pera-sta-ori [...]Read
-  More...
+description: "Darkside badboi bizniz and beyond, from Greek producer ΠΕΡΑ ΣΤΑ ΟΡΗ (Peta Sta Ori)! From ΠΕΡΑ ΣΤΑ ΟΡΗ's REVANCHE\_EP on EVEL. Out 6.11.2020 on 8\" and digital – Pre-order: https://evel.bandcamp.com/album/revanche https://soundcloud.com/evelrdcshttps://soundcloud.com/pera-sta-ori [...]Read More..."
 published: true
 tags: premiere
 featured: false

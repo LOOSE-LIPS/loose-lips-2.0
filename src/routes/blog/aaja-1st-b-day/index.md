@@ -10,9 +10,8 @@ banner:
 description: >-
   Why did you choose MOT for the venue? Our first party at MOT was to celebrate
   the 1 year anniversary of AAJA Deptford, our live streaming and event space in
-  SE London. MOT, if you haven&#39;t been, is a great warehouse space with
-  wicked staff and a wicked sound system. It seemed fitting to host [...]Read
-  More...
+  SE London. MOT, if you haven't been, is a great warehouse space with wicked
+  staff and a wicked sound system. It seemed fitting to host [...]Read More...
 published: true
 tags: interview
 featured: false

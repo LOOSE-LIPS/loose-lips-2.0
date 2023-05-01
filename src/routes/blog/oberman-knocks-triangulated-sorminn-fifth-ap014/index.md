@@ -9,7 +9,7 @@ banner:
   - imported/oberman-knocks-triangulated-sorminn-fifth-ap014/image874.jpeg
 description: >-
   Like sliding down an organic tube made of alien flesh. From Remhex Coyles EP
-  on aperture records. Out 05.07 on 12&quot; and digital &#8211; Pre-order:
+  on aperture records. Out 05.07 on 12" and digital – Pre-order:
   https://aperturerecords.bandcamp.com/album/remhex-coyles-ep
   https://soundcloud.com/aperture-records https://soundcloud.com/user-61385884
   [...]Read More...

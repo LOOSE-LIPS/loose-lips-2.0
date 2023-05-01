@@ -8,11 +8,11 @@ author: 125
 banner:
   - imported/nanas-sunday-jams-the-wire-fulton-lee/image1379.jpeg
 description: >-
-  [Banner artwork by the majestic Trav, all of Nana&#39;s jams are gathered in
-  this playlist.] Yes and Yes Sunday Jammers. Happy Happy New Year to you all. I
-  hope you&rsquo;re well, taking all things in your stride and finding room to
-  breathe. So, this year I am done with resolutions, still trying to make good
-  [...]Read More...
+  [Banner artwork by the majestic Trav, all of Nana's jams are gathered in this
+  playlist.] Yes and Yes Sunday Jammers. Happy Happy New Year to you all. I hope
+  you’re well, taking all things in your stride and finding room to breathe. So,
+  this year I am done with resolutions, still trying to make good [...]Read
+  More...
 published: true
 tags: feature
 featured: false

@@ -9,10 +9,9 @@ banner:
   - imported/orphan-swords-erosed-hedrev-000005/image864.jpeg
 description: >-
   Feet weighting 5 tons, reaching up to a seemingly unreachable goal higher than
-  humanely conceivable, this still doesn&#39;t stop you from continuing your way
-  up until your senses get overloaded with harsh feelings. From Orphan
-  Swords&#39; Ascent LP on Hedonic Reversal. Out 21.06 on white 12&quot; and
-  digital &#8211; Pre-order:
+  humanely conceivable, this still doesn't stop you from continuing your way up
+  until your senses get overloaded with harsh feelings. From Orphan Swords'
+  Ascent LP on Hedonic Reversal. Out 21.06 on white 12" and digital – Pre-order:
   https://hedonicreversal.bigcartel.com/product/orphan-swords-ascent
   https://soundcloud.com/hedonic_reversal https://soundcloud.com/orphanswords
   [...]Read More...

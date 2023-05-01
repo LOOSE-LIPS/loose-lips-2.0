@@ -9,9 +9,8 @@ banner:
   - imported/chris-mitchell-cure-yourself-and-groove-xcptape02/image747.jpeg
 description: >-
   Gritty machine drums propelled into retro-futurist landscapes. From Chris
-  Mitchell&#39;s Shadow Wands LP on XCPT Music. Out 11.02 on cassette and
-  digital &#8211; Pre-order:
-  https://xcptmusic.bandcamp.com/album/xcptape02-shadow-wands
+  Mitchell's Shadow Wands LP on XCPT Music. Out 11.02 on cassette and digital –
+  Pre-order: https://xcptmusic.bandcamp.com/album/xcptape02-shadow-wands
   https://soundcloud.com/xcptmusic https://soundcloud.com/chris-mitchell
   [...]Read More...
 published: true

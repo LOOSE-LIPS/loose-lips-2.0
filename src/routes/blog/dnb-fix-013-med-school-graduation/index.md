@@ -7,12 +7,7 @@ slug: dnb-fix-013-med-school-graduation
 author: 153
 banner:
   - imported/dnb-fix-013-med-school-graduation/image1099.jpeg
-description: >-
-  Having played host to much of the industry&rsquo;s rising talent, amongst many
-  big stars too; MedSchool has been at the forefront of Drum and Bass for over a
-  decade, and this release is no exception.&nbsp; MedSchool has always touted
-  itself as the trendsetter; having been set up back in 2006 by Hospital Records
-  founders, Tony [...]Read More...
+description: "Having played host to much of the industry’s rising talent, amongst many big stars too; MedSchool has been at the forefront of Drum and Bass for over a decade, and this release is no exception.\_ MedSchool has always touted itself as the trendsetter; having been set up back in 2006 by Hospital Records founders, Tony [...]Read More..."
 published: true
 tags: feature
 featured: false

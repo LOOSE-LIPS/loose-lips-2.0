@@ -11,10 +11,10 @@ banner:
   - >-
     imported/kortzers-sunday-jams-nicolas-jaar-space-is-only-noise-if-you-can-see/image894.jpeg
 description: >-
-  This week I&#39;ve gone for an emphatic Sunday of bass. Space Is Only Noise If
-  You Can See is a track that hits you out of nowhere, I remember when first
-  hearing it for the first time how it felt when that bassline pops in. The
-  track is a spaced out feel good banger and [...]Read More...
+  This week I've gone for an emphatic Sunday of bass. Space Is Only Noise If You
+  Can See is a track that hits you out of nowhere, I remember when first hearing
+  it for the first time how it felt when that bassline pops in. The track is a
+  spaced out feel good banger and [...]Read More...
 published: true
 tags: feature
 featured: false

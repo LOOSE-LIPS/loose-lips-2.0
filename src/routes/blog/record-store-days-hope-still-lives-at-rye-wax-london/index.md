@@ -7,12 +7,7 @@ slug: record-store-days-hope-still-lives-at-rye-wax-london
 author: 106
 banner:
   - imported/record-store-days-hope-still-lives-at-rye-wax-london/image1282.jpeg
-description: >-
-  If this were any standard week of any standard year they&rsquo;d be peddling
-  vinyl, pouring liquor and hosting parties. Suffice to say, 2020 is anything
-  but standard.&nbsp; A dance music community hub in Peckham, South London, Rye
-  Wax is exactly the sort of place the UK desperately needs more of. A space
-  that gives opportunity [...]Read More...
+description: "If this were any standard week of any standard year they’d be peddling vinyl, pouring liquor and hosting parties. Suffice to say, 2020 is anything but standard.\_ A dance music community hub in Peckham, South London, Rye Wax is exactly the sort of place the UK desperately needs more of. A space that gives opportunity [...]Read More..."
 published: true
 tags: feature
 featured: false

@@ -7,13 +7,7 @@ slug: kortzer-karen-beef088
 author: 100
 banner:
   - imported/kortzer-karen-beef088/image782.jpeg
-description: >-
-  Kortzer delivers a peak time Acid Techno tune tinted with spooky theremin-like
-  pads. From Selected Works #4 VA compilation on&nbsp;Beef Records. Out 15.03 on
-  digital &#8211; Pre-order:
-  http://classic.beatport.com/release/selected-works-number-4/2513701
-  https://soundcloud.com/beef https://soundcloud.com/auderkortzer [...]Read
-  More...
+description: "Kortzer delivers a peak time Acid Techno tune tinted with spooky theremin-like pads. From Selected Works #4 VA compilation on\_Beef Records. Out 15.03 on digital – Pre-order: http://classic.beatport.com/release/selected-works-number-4/2513701 https://soundcloud.com/beef https://soundcloud.com/auderkortzer [...]Read More..."
 published: true
 tags: premiere
 featured: false

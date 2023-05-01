@@ -7,15 +7,7 @@ slug: craig-walker-urgent-matter-lrc002
 author: 100
 banner:
   - imported/craig-walker-urgent-matter-lrc002/image1245.jpeg
-description: >-
-  Deep down into a smoked filled low ceiling basement, rushing feelings of
-  excitement pulsing as you clench your fist and punch the air. That&#39;s new
-  school club vibes delivered by Glasgow producer Craig Walker. From&nbsp;Right
-  Place, Wrong Time&nbsp;V/A&nbsp;on Left, Right &amp; Centre. Out on digital
-  28.08.2020 &#8211; Pre-order:
-  https://leftrightandcentre.bandcamp.com/album/vol-2-right-place-wrong-time-lrc002-2
-  https://soundcloud.com/leftrightandcentreukhttps://soundcloud.com/craigwalkermusic
-  [...]Read More...
+description: "Deep down into a smoked filled low ceiling basement, rushing feelings of excitement pulsing as you clench your fist and punch the air. That's new school club vibes delivered by Glasgow producer Craig Walker. From\_Right Place, Wrong Time\_V/A\_on Left, Right & Centre. Out on digital 28.08.2020 – Pre-order: https://leftrightandcentre.bandcamp.com/album/vol-2-right-place-wrong-time-lrc002-2 https://soundcloud.com/leftrightandcentreukhttps://soundcloud.com/craigwalkermusic [...]Read More..."
 published: true
 tags: premiere
 featured: false

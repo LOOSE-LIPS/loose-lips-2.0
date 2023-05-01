@@ -8,8 +8,8 @@ author: 100
 banner:
   - imported/helrad-endurance-ux/image1108.jpeg
 description: >-
-  Straight to the floor Techno stomper! From Helrad&#39;s Perseverance EP on
-  User Experience. Out 05.05.2020 on digital &#8211; Pre-order:
+  Straight to the floor Techno stomper! From Helrad's Perseverance EP on User
+  Experience. Out 05.05.2020 on digital – Pre-order:
   https://joefarr.bandcamp.com/ https://soundcloud.com/helrad_limited Born and
   bred in Naples, Helrad has been a DJ for more than 20 years in his hometown
   where he was heavily influenced by the techno scene. He thrives on 3 decks

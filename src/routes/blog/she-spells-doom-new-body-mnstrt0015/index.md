@@ -7,13 +7,7 @@ slug: she-spells-doom-new-body-mnstrt0015
 author: 100
 banner:
   - imported/she-spells-doom-new-body-mnstrt0015/image813.jpeg
-description: >-
-  New Body is a slow Club track hitting hard on the low end and filled with
-  synths evocating the &quot;Long live the new Flesh&quot; slogan. From SHE
-  Spells Doom&#39;s Neon Death EP&nbsp;on Monstart. Out 03.05 on digital &#8211;
-  Pre-order: https://monstart.bandcamp.com/album/she-spells-doom-neon-death-ep
-  https://soundcloud.com/monstart-crew https://soundcloud.com/shespellsdoom
-  [...]Read More...
+description: "New Body is a slow Club track hitting hard on the low end and filled with synths evocating the \"Long live the new Flesh\" slogan. From SHE Spells Doom's Neon Death EP\_on Monstart. Out 03.05 on digital – Pre-order: https://monstart.bandcamp.com/album/she-spells-doom-neon-death-ep https://soundcloud.com/monstart-crew https://soundcloud.com/shespellsdoom [...]Read More..."
 published: true
 tags: premiere
 featured: false

@@ -7,12 +7,7 @@ slug: in-conversation-with-repulsion-off-switch-audio
 author: 153
 banner:
   - imported/in-conversation-with-repulsion-off-switch-audio/image802.jpeg
-description: >-
-  Recently you&#39;ll have seen we featured Grand Prix by Repulsion; ahead of
-  the release of his new EP on Off Switch Audio. &nbsp;We were lucky enough to
-  speak with the man behind the exceptional release and talk to him about his
-  journey, his techniques and the future. Nice to speak to you today Joshua, for
-  [...]Read More...
+description: "Recently you'll have seen we featured Grand Prix by Repulsion; ahead of the release of his new EP on Off Switch Audio. \_We were lucky enough to speak with the man behind the exceptional release and talk to him about his journey, his techniques and the future. Nice to speak to you today Joshua, for [...]Read More..."
 published: true
 tags: interview
 featured: false

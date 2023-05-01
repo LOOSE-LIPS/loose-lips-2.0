@@ -11,7 +11,7 @@ description: >-
   This opening song from the 1970 Come To My Garden album is perfect for
   boosting your spirits after storm Ciara and storm Dennis have been kicking the
   fuck off. She writes this song about being a flower as a metaphor for
-  blossoming into a person I guess, it&#39;s hella cute and throws a couple of
+  blossoming into a person I guess, it's hella cute and throws a couple of
   [...]Read More...
 published: true
 tags: feature

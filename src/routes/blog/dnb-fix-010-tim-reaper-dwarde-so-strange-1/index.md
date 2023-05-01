@@ -7,11 +7,11 @@ slug: dnb-fix-010-tim-reaper-dwarde-so-strange-1
 author: 122
 banner: []
 description: >-
-  &#39;So Strange&#39; &ndash; no two words could better describe the current
-  scenario we are all faced with. The whole world has been grounded and it is
-  starting to look like summer 2020 will officially be cancelled; (not that I
-  think this is inherently a bad thing as it is most definitely for the best,
-  yet [...]Read More...
+  'So Strange' – no two words could better describe the current scenario we are
+  all faced with. The whole world has been grounded and it is starting to look
+  like summer 2020 will officially be cancelled; (not that I think this is
+  inherently a bad thing as it is most definitely for the best, yet [...]Read
+  More...
 published: true
 tags: feature
 featured: false

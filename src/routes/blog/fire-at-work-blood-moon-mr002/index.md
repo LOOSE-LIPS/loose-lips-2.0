@@ -9,8 +9,8 @@ banner:
   - imported/fire-at-work-blood-moon-mr002/image766.jpeg
 description: >-
   Feet on the ground and head in the moon, flirting with EBM and Electro on the
-  dancefloor until noon. From Fire at Work&#39;s Atomic Spawn EP on Monolith
-  Records. Out 06.03 on 12&quot; and digital &#8211; Pre-order:
+  dancefloor until noon. From Fire at Work's Atomic Spawn EP on Monolith
+  Records. Out 06.03 on 12" and digital – Pre-order:
   https://monolithrecberlin.bandcamp.com/album/atomic-spawn
   https://soundcloud.com/monolith-records https://soundcloud.com/fire-at-work
   [...]Read More...

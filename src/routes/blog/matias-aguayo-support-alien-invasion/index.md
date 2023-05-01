@@ -8,11 +8,11 @@ author: 110
 banner:
   - imported/matias-aguayo-support-alien-invasion/image836.jpeg
 description: >-
-  Matias Aguayo, German-Chilean producer/DJ and founder of the C&oacute;meme
-  label, releases his first album in six years! Well, for anyone fond of
-  Aguayo&rsquo;s productions, he&rsquo;s always been a bit of a stickler for the
-  unusual and groovy in the same hand. For me, listening back to some of his
-  earlier releases on both Com&eacute;me and [...]Read More...
+  Matias Aguayo, German-Chilean producer/DJ and founder of the Cómeme label,
+  releases his first album in six years! Well, for anyone fond of Aguayo’s
+  productions, he’s always been a bit of a stickler for the unusual and groovy
+  in the same hand. For me, listening back to some of his earlier releases on
+  both Coméme and [...]Read More...
 published: true
 tags: release-review
 featured: false

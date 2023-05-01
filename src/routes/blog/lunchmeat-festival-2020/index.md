@@ -10,10 +10,9 @@ banner:
 description: >-
   A full on marathon of audiovisual performances, live music, DJs, special AV
   events or discussions in the fall of 2020? SOPHIE, Helena Hauff, Robert Henke,
-  Shackleton&hellip;? Yes, we can! Despite this year&rsquo;s unpredictable
-  circumstances, the crew of Lunchmeat festival was determined not to follow
-  suit with many other music festivals and events which were forced [...]Read
-  More...
+  Shackleton…? Yes, we can! Despite this year’s unpredictable circumstances, the
+  crew of Lunchmeat festival was determined not to follow suit with many other
+  music festivals and events which were forced [...]Read More...
 published: true
 tags: pre-event-review
 featured: false

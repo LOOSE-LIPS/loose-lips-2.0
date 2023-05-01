@@ -7,12 +7,7 @@ slug: picks-500-premieres-and-counting-1
 author: 100
 banner:
   - imported/picks-500-premieres-and-counting-1/image1248.jpeg
-description: >-
-  We love nothing more than bringing the crew together at a time of celebration.
-  At the back-end of last week, we celebrated our 500th premiere on Loose Lips
-  with a special one from talented producer&nbsp;Omori&nbsp;who has left us way
-  too soon with a legacy of amazing music to dig into. You can read more about
-  [...]Read More...
+description: "We love nothing more than bringing the crew together at a time of celebration. At the back-end of last week, we celebrated our 500th premiere on Loose Lips with a special one from talented producer\_Omori\_who has left us way too soon with a legacy of amazing music to dig into. You can read more about [...]Read More..."
 published: true
 tags: feature
 featured: false

@@ -7,14 +7,7 @@ slug: gruth-somnum-exterreri-i-feat-db55-uuu24
 author: 100
 banner:
   - imported/gruth-somnum-exterreri-i-feat-db55-uuu24/image1311.jpeg
-description: >-
-  Somnum Exterreri I&nbsp;is an unadulterated, twenty minutes descent into dark,
-  dreamlike territories. No haste here, as time doesn&#39;t count anymore. From
-  Gruth&#39;s Somnum Exterreri LP on Urubu Tapes. Out soon on limited cassette
-  and digital &#8211; https://urubutapes.bandcamp.com/
-  https://soundcloud.com/gruthhttps://soundcloud.com/db55-1 Lisbon-based artist
-  Andr&eacute; Trindade and his Urubu Tapes are back with another sound/visual
-  object. The label&rsquo;s 24th [...]Read More...
+description: "Somnum Exterreri I\_is an unadulterated, twenty minutes descent into dark, dreamlike territories. No haste here, as time doesn't count anymore. From Gruth's Somnum Exterreri LP on Urubu Tapes. Out soon on limited cassette and digital – https://urubutapes.bandcamp.com/ https://soundcloud.com/gruthhttps://soundcloud.com/db55-1 Lisbon-based artist André Trindade and his Urubu Tapes are back with another sound/visual object. The label’s 24th [...]Read More..."
 published: true
 tags: premiere
 featured: false

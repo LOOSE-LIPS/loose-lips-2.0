@@ -8,10 +8,10 @@ author: 74
 banner:
   - imported/the-power-of-daves-psycho/image1030.jpeg
 description: >-
-  It&rsquo;s amazing how important our mental welfare is, yet how little we
-  discuss it. The moment you cut your finger you draw for a band aid, however a
-  suicidal thought and you brush it off as nothing, letting a mental cut bleed.
-  We all need to talk more about our mind and where our heads [...]Read More...
+  It’s amazing how important our mental welfare is, yet how little we discuss
+  it. The moment you cut your finger you draw for a band aid, however a suicidal
+  thought and you brush it off as nothing, letting a mental cut bleed. We all
+  need to talk more about our mind and where our heads [...]Read More...
 published: true
 tags: feature
 featured: false

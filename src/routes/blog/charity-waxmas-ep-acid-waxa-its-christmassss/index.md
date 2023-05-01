@@ -7,12 +7,7 @@ slug: charity-waxmas-ep-acid-waxa-its-christmassss
 author: 122
 banner:
   - imported/charity-waxmas-ep-acid-waxa-its-christmassss/image1368.jpeg
-description: >-
-  Your eyes spring open, you jump up out of your deep hibernation pod. Your
-  Amazon incorporated Alexa smart-home shouts at you through every wall, floor,
-  ceiling, cupboard and orifice with a synthesised vocal palate that resembles
-  an uncanny likeness of Noddy Holder performing fellatio on a Dalek.&nbsp; The
-  year is 2050, Christmas day to be [...]Read More...
+description: "Your eyes spring open, you jump up out of your deep hibernation pod. Your Amazon incorporated Alexa smart-home shouts at you through every wall, floor, ceiling, cupboard and orifice with a synthesised vocal palate that resembles an uncanny likeness of Noddy Holder performing fellatio on a Dalek.\_ The year is 2050, Christmas day to be [...]Read More..."
 published: true
 tags: review
 featured: false

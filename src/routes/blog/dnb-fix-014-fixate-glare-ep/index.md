@@ -7,12 +7,7 @@ slug: dnb-fix-014-fixate-glare-ep
 author: 70
 banner:
   - imported/dnb-fix-014-fixate-glare-ep/image1110.jpeg
-description: >-
-  That Sherelle moment?&nbsp;Quality over quantity. Fixate&rsquo;s only release
-  of 2019, and probably the biggest UK club tune of the year. You might&rsquo;ve
-  gotten this too if you were fast enough. This time, on Exit Records, the ride
-  is a much darker one.&nbsp; Fixate &middot; GLARE EP Old-school hip-hop
-  bounces with a hair of Rob D [...]Read More...
+description: "That Sherelle moment?\_Quality over quantity. Fixate’s only release of 2019, and probably the biggest UK club tune of the year. You might’ve gotten this too if you were fast enough. This time, on Exit Records, the ride is a much darker one.\_ Fixate · GLARE EP Old-school hip-hop bounces with a hair of Rob D [...]Read More..."
 published: true
 tags: feature
 featured: false

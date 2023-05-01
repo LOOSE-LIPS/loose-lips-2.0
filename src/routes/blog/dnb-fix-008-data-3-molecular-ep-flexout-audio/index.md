@@ -7,12 +7,7 @@ slug: dnb-fix-008-data-3-molecular-ep-flexout-audio
 author: 51
 banner:
   - imported/dnb-fix-008-data-3-molecular-ep-flexout-audio/image1053.jpeg
-description: >-
-  Introducing the sounds of the near future, with Data 3. &nbsp;Legend has it
-  that the trio met when they were all studying Particle Physics at The
-  University of Hebden &ndash; located somewhere off the coast of Callisto,
-  Jupiter&rsquo;s second largest moon. They have now chosen to direct their
-  scientific talents to the study and production [...]Read More...
+description: "Introducing the sounds of the near future, with Data 3. \_Legend has it that the trio met when they were all studying Particle Physics at The University of Hebden – located somewhere off the coast of Callisto, Jupiter’s second largest moon. They have now chosen to direct their scientific talents to the study and production [...]Read More..."
 published: true
 tags: feature
 featured: false

@@ -7,12 +7,7 @@ slug: dnb-fix-024-unknown-artist-lovely001
 author: 112
 banner:
   - imported/dnb-fix-024-unknown-artist-lovely001/image1211.jpeg
-description: >-
-  Just in time for Summer, Unknown Artist has set the perfect sonic scene on
-  this super sumptuous, remix EP of feel-good music all at 174bpm. Layered with
-  cheeky samples, and good vibes, this non-bootleg bootleg is Lovely by name and
-  nature.&nbsp; Unknown Artist is back on Fokuz Records, an imprint that&rsquo;s
-  really pushing the no [...]Read More...
+description: "Just in time for Summer, Unknown Artist has set the perfect sonic scene on this super sumptuous, remix EP of feel-good music all at 174bpm. Layered with cheeky samples, and good vibes, this non-bootleg bootleg is Lovely by name and nature.\_ Unknown Artist is back on Fokuz Records, an imprint that’s really pushing the no [...]Read More..."
 published: true
 tags: feature
 featured: true

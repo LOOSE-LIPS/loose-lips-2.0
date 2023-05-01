@@ -9,12 +9,12 @@ banner:
   - imported/berk-offset-565-leipzig-rough-cuts-vol2/image1381.jpeg
 description: >-
   Wonky electro delights courtesy of Berk Offset! From Rough Cuts Vol.2 V/A
-  compilation on Too Rough 4 Radio. Out 15.01.2021 on digital &#8211; Pre-order:
+  compilation on Too Rough 4 Radio. Out 15.01.2021 on digital – Pre-order:
   https://toorough4radio.bandcamp.com/album/rough-cuts-vol-2-various-artists
   https://soundcloud.com/toorough4radiohttps://soundcloud.com/berk The murky,
-  underwater &lsquo;Leipzig 565&rsquo; track by Berk Offset balances on a sparse
-  but gritty backbone of an angry thump kick and a pulsating sample. This
-  German-based producer provides [...]Read More...
+  underwater ‘Leipzig 565’ track by Berk Offset balances on a sparse but gritty
+  backbone of an angry thump kick and a pulsating sample. This German-based
+  producer provides [...]Read More...
 published: true
 tags: premiere
 featured: false

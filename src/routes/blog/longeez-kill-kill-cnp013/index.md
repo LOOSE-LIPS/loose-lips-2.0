@@ -7,12 +7,7 @@ slug: longeez-kill-kill-cnp013
 author: 100
 banner:
   - imported/longeez-kill-kill-cnp013/image1392.jpeg
-description: >-
-  Nodding back to the proto-dubstep days of uk garage, Kill Kill is a crisp and
-  warm dancefloor sweetness. From Longeez&#39;s Illicit Material&nbsp;EP on
-  Bristol-based Canap&eacute; Records.
-  https://soundcloud.com/canaperecordshttps://soundcloud.com/longeez [...]Read
-  More...
+description: "Nodding back to the proto-dubstep days of uk garage, Kill Kill is a crisp and warm dancefloor sweetness. From Longeez's Illicit Material\_EP on Bristol-based Canapé Records. https://soundcloud.com/canaperecordshttps://soundcloud.com/longeez [...]Read More..."
 published: true
 tags: premiere
 featured: false

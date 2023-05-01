@@ -9,8 +9,8 @@ banner:
   - imported/214-it-never-really-ends-ce034/image1035.jpeg
 description: >-
   Extra slick Electro that has everything you need for an ass shaking session!
-  From 214&#39;s Si View EP on Cultivated Electronics. 02.03.2020 on 12&quot;
-  and digital &#8211; Pre-order: https://clone.nl/item59294.html
+  From 214's Si View EP on Cultivated Electronics. 02.03.2020 on 12" and digital
+  – Pre-order: https://clone.nl/item59294.html
   https://soundcloud.com/cultivated-electronicshttps://soundcloud.com/214_electro
   [...]Read More...
 published: true

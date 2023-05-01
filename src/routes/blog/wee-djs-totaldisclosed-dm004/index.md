@@ -9,8 +9,8 @@ banner:
   - imported/wee-djs-totaldisclosed-dm004/image789.jpeg
 description: >-
   Wee DJs dropping here an absolutely dirty Electro track, in the most brilliant
-  way. From DM004 VA compilation on Dionysian Mysteries. Out 5.04 on 12&quot;
-  and digital &#8211; Pre-order: https://clone.nl/item55209.html
+  way. From DM004 VA compilation on Dionysian Mysteries. Out 5.04 on 12" and
+  digital – Pre-order: https://clone.nl/item55209.html
   https://soundcloud.com/dionysian-mysteries https://soundcloud.com/the-wee-djs
   [...]Read More...
 published: true

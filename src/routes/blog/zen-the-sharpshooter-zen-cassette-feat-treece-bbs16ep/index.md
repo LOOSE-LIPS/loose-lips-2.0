@@ -7,13 +7,7 @@ slug: zen-the-sharpshooter-zen-cassette-feat-treece-bbs16ep
 author: 100
 banner:
   - imported/zen-the-sharpshooter-zen-cassette-feat-treece-bbs16ep/image891.jpeg
-description: >-
-  Our resident Treece (aka Charlie Boy Manson) layers his authentic flow over
-  Zen&#39;s laidback, vaporwave beats, performing some colourful word gymnastic!
-  A brilliant combo! From Zen the Sharpshooter&#39;s Manhattan Centre, Monday
-  Night&nbsp;EP on Black Beacon Sound. Out 15.07 on digital. Limited edition
-  T&#39;s will also be available exclusively at the Independent Label Market
-  this Saturday [...]Read More...
+description: "Our resident Treece (aka Charlie Boy Manson) layers his authentic flow over Zen's laidback, vaporwave beats, performing some colourful word gymnastic! A brilliant combo! From Zen the Sharpshooter's Manhattan Centre, Monday Night\_EP on Black Beacon Sound. Out 15.07 on digital. Limited edition T's will also be available exclusively at the Independent Label Market this Saturday [...]Read More..."
 published: true
 tags: premiere
 featured: false

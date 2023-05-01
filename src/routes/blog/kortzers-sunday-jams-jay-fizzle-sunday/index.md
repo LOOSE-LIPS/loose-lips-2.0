@@ -8,11 +8,11 @@ author: 96
 banner:
   - imported/kortzers-sunday-jams-jay-fizzle-sunday/image950.jpeg
 description: >-
-  I&#39;ve chosen something abit different this week in the fashion of Jay
-  Fizzle. This track came out yesterday if I&#39;m correct and comes straight
-  from Memphis! After spending some time in Memphis with Medallion Man earlier
-  this year I came across quite a few new Hip Hop &amp; Trap artists who are
-  killing it in [...]Read More...
+  I've chosen something abit different this week in the fashion of Jay Fizzle.
+  This track came out yesterday if I'm correct and comes straight from Memphis!
+  After spending some time in Memphis with Medallion Man earlier this year I
+  came across quite a few new Hip Hop & Trap artists who are killing it in
+  [...]Read More...
 published: true
 tags: feature
 featured: false

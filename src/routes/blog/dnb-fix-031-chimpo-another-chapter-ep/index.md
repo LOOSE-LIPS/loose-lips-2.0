@@ -8,11 +8,11 @@ author: 27
 banner:
   - imported/dnb-fix-031-chimpo-another-chapter-ep/image1273.jpeg
 description: >-
-  Are you ready? Hands up. There&rsquo;s no intro. There&rsquo;s no easing in.
-  If you&rsquo;re looking for an &lsquo;(Interlude)&rsquo; hallway through to
-  calm you down, it isn&rsquo;t here. Chimpo steps up to the plate in this
-  week&#39;s DnB Fix; with his new release &quot;Another Chapter&quot; over on
-  Box N Lock. Another Chapter is pure Sicko Mode [...]Read More...
+  Are you ready? Hands up. There’s no intro. There’s no easing in. If you’re
+  looking for an ‘(Interlude)’ hallway through to calm you down, it isn’t here.
+  Chimpo steps up to the plate in this week's DnB Fix; with his new release
+  "Another Chapter" over on Box N Lock. Another Chapter is pure Sicko Mode
+  [...]Read More...
 published: true
 tags: feature
 featured: false

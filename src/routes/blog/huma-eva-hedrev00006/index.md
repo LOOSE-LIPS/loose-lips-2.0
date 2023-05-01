@@ -7,12 +7,7 @@ slug: huma-eva-hedrev00006
 author: 100
 banner:
   - imported/huma-eva-hedrev00006/image961.jpeg
-description: >-
-  Mayhem in the Garden of Eden! Excerpt from Huma&#39;s forthcoming album of the
-  same name, a deep and technological tale of extremes!&nbsp; From Huma&#39;s
-  Eva&nbsp;LP on Hedonic Reversal. Out 11.11 on 2&#215;12&quot; and digital
-  &#8211; http://hedonicreversal.com https://soundcloud.com/hedonic_reversal
-  https://soundcloud.com/huma4444 [...]Read More...
+description: "Mayhem in the Garden of Eden! Excerpt from Huma's forthcoming album of the same name, a deep and technological tale of extremes!\_ From Huma's Eva\_LP on Hedonic Reversal. Out 11.11 on 2×12\" and digital – http://hedonicreversal.com https://soundcloud.com/hedonic_reversal https://soundcloud.com/huma4444 [...]Read More..."
 published: true
 tags: premiere
 featured: false

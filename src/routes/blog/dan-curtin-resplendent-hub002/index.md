@@ -10,8 +10,8 @@ banner:
 description: >-
   From the vaults of Techno legend Dan Curtin, Resplendent is a volcanic,
   uptempo Disco-Techno number released alongside 3 other previously unreleased
-  tracks from 1999 to 2001. Positive energy! From Dan Curtin&#39;s Indiscrete EP
-  on Hubplate. Out 8.11 on 12&quot; &#8211; Pre-order:
+  tracks from 1999 to 2001. Positive energy! From Dan Curtin's Indiscrete EP on
+  Hubplate. Out 8.11 on 12" – Pre-order:
   https://www.deejay.de/Dan_Curtin_Indiscrete_EP_HUB002_Vinyl__940319
   https://soundcloud.com/hubplate https://soundcloud.com/dan-curtin [...]Read
   More...

@@ -8,11 +8,10 @@ author: 125
 banner:
   - imported/nanas-sunday-jams-susan-jane-eugene-mcdaniels/image1201.jpeg
 description: >-
-  Yes Yes Sunday Jammers. So, another week and it&rsquo;s all change again and
-  again hope you are managing to find some balance and safe distances to enjoy
-  the mini reset. So, this week I have been deep diving into a load of breezy
-  and delicious pop music, pure heaven to take the edge off the [...]Read
-  More...
+  Yes Yes Sunday Jammers. So, another week and it’s all change again and again
+  hope you are managing to find some balance and safe distances to enjoy the
+  mini reset. So, this week I have been deep diving into a load of breezy and
+  delicious pop music, pure heaven to take the edge off the [...]Read More...
 published: true
 tags: feature
 featured: false

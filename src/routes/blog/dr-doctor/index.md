@@ -12,8 +12,7 @@ description: >-
   manager and radio host, Dr Doctor has been a powerful unifying force on the
   underground electronic music scene. His work with the E.L.M Collective label
   has brought together a variety of producers on three superb compilations. The
-  latest compilation &ldquo;psionics&rdquo; has just been released [...]Read
-  More...
+  latest compilation “psionics” has just been released [...]Read More...
 published: true
 tags: interview
 featured: false

@@ -8,12 +8,12 @@ author: 7
 banner:
   - imported/dnb-fix-007-bluematter-real-loreltd004/image1026.jpeg
 description: >-
-  We&rsquo;ve been waiting a long time for this vinyl-only release from
-  Bluematter&mdash;the collaboration between Jozef K &amp; Thomas
-  Ragsdale&mdash;on Bristol-based label Western Lore, run by Alex Eveson.
-  We&rsquo;re very happy to be premiering the opener, &lsquo;Real&rsquo;. As
-  long-time members of the electronic music scene, Bluematter has come through
-  with a refreshing fusion of influences, effortlessly [...]Read More...
+  We’ve been waiting a long time for this vinyl-only release from Bluematter—the
+  collaboration between Jozef K & Thomas Ragsdale—on Bristol-based label Western
+  Lore, run by Alex Eveson. We’re very happy to be premiering the opener,
+  ‘Real’. As long-time members of the electronic music scene, Bluematter has
+  come through with a refreshing fusion of influences, effortlessly [...]Read
+  More...
 published: true
 tags: premiere
 featured: false

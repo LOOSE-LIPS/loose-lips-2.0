@@ -7,15 +7,7 @@ slug: paul-blackford-perspectives
 author: 110
 banner:
   - imported/paul-blackford-perspectives/image1069.jpeg
-description: >-
-  &amp;amp;lt;a
-  href=&#8221;http://paulblackford.bandcamp.com/album/perspectives&#8221;&amp;amp;gt;Perspectives
-  by Paul Blackford&amp;amp;lt;/a&amp;amp;gt; Paul Blackford is back (with a
-  tape that came out in September 2019) &#8211; but the release date
-  doesn&rsquo;t matter. What is important is the music, and Paul
-  Blackford&rsquo;s music has a timeless quality!&nbsp; In this tape, entitled
-  &lsquo;Perspectives&rsquo;, Blackford comes back to his downtempo roots. This
-  tape, which marks [...]Read More...
+description: "&amp;lt;a href=”http://paulblackford.bandcamp.com/album/perspectives”&amp;gt;Perspectives by Paul Blackford&amp;lt;/a&amp;gt; Paul Blackford is back (with a tape that came out in September 2019) – but the release date doesn’t matter. What is important is the music, and Paul Blackford’s music has a timeless quality!\_ In this tape, entitled ‘Perspectives’, Blackford comes back to his downtempo roots. This tape, which marks [...]Read More..."
 published: true
 tags: release-review
 featured: false

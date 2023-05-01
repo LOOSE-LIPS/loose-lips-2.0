@@ -11,7 +11,7 @@ description: >-
   Yes, Yes Sunday Jammers, so my name is Nana and I am going to be your regular
   tour guide from this point in. Really looking forward to going out on the road
   with you. I am taking over this post at time when the world around us seems to
-  be unearthing, it&#39;s impossible not to [...]Read More...
+  be unearthing, it's impossible not to [...]Read More...
 published: true
 tags: feature
 featured: false

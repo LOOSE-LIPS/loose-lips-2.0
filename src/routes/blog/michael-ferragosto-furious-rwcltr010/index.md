@@ -9,9 +9,9 @@ banner:
   - imported/michael-ferragosto-furious-rwcltr010/image910.jpeg
 description: >-
   Totally raw and saturated live drum machine goodness.It just gets your primal
-  instincts out of your guts from the first few seconds! From Raw Culture&#39;s
-  Pushers Vol.3 VA on Raw Culture. Out now on 12&quot; and digital &#8211;
-  Order: https://rawculture.bandcamp.com/album/raw-cultures-pushers-03
+  instincts out of your guts from the first few seconds! From Raw Culture's
+  Pushers Vol.3 VA on Raw Culture. Out now on 12" and digital – Order:
+  https://rawculture.bandcamp.com/album/raw-cultures-pushers-03
   https://soundcloud.com/raw-culture-recordings [...]Read More...
 published: true
 tags: premiere

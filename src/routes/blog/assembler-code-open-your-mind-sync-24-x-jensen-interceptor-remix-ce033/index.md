@@ -10,13 +10,7 @@ author: 100
 banner:
   - >-
     imported/assembler-code-open-your-mind-sync-24-x-jensen-interceptor-remix-ce033/image1000.jpeg
-description: >-
-  Sync 24 and Jensen Interceptor on remix duties on this high octane Electro
-  weapon!&nbsp; From Assembler Code&#39;s Write Pulse EP on Cultivated
-  Electronics. Out this 20.01 on 12&quot; &#8211; Pre-order:
-  https://clone.nl/item58443.html
-  https://soundcloud.com/cultivated-electronicshttps://soundcloud.com/assemblerchttps://soundcloud.com/jensen-interceptor
-  [...]Read More...
+description: "Sync 24 and Jensen Interceptor on remix duties on this high octane Electro weapon!\_ From Assembler Code's Write Pulse EP on Cultivated Electronics. Out this 20.01 on 12\" – Pre-order: https://clone.nl/item58443.html https://soundcloud.com/cultivated-electronicshttps://soundcloud.com/assemblerchttps://soundcloud.com/jensen-interceptor [...]Read More..."
 published: true
 tags: premiere
 featured: false

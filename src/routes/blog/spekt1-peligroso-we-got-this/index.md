@@ -8,9 +8,8 @@ author: 100
 banner:
   - imported/spekt1-peligroso-we-got-this/image1256.jpeg
 description: >-
-  A tasty tropical club number! From Spekt1&#39;s Flowery Combat EP on We Got
-  This. Out 14.09.2020 on digital &#8211; Pre-order:
-  https://fanlink.to/FloweryCombat
+  A tasty tropical club number! From Spekt1's Flowery Combat EP on We Got This.
+  Out 14.09.2020 on digital – Pre-order: https://fanlink.to/FloweryCombat
   https://soundcloud.com/spekt1https://soundcloud.com/wegotthisofficial
   [...]Read More...
 published: true

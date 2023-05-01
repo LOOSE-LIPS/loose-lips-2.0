@@ -9,7 +9,7 @@ banner:
   - imported/daat-037-osva001/image920.jpeg
 description: >-
   Claustrophobic bass assault! From Permissions VA on One.Seventy. Out 20.09 on
-  digital &#8211; Pre-order: www.beatport.com/release/permissions/2691307
+  digital – Pre-order: www.beatport.com/release/permissions/2691307
   https://soundcloud.com/oneseventyldn [...]Read More...
 published: true
 tags: premiere

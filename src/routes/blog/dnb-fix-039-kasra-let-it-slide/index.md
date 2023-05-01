@@ -9,10 +9,10 @@ banner:
   - imported/dnb-fix-039-kasra-let-it-slide/image1349.jpeg
 description: >-
   All rise for King Kasra, the man that gifted Critical Records to the world.
-  This week&#39;s DnB Fix features another treat from the pioneering boss
-  himself. With his latest release &quot;Let It Slide&quot; featuring Slay; and
-  the introspective B side &quot;I Don&rsquo;t Know What The Future
-  Brings&quot;. Born in 2002; the Critical sound has been [...]Read More...
+  This week's DnB Fix features another treat from the pioneering boss himself.
+  With his latest release "Let It Slide" featuring Slay; and the introspective B
+  side "I Don’t Know What The Future Brings". Born in 2002; the Critical sound
+  has been [...]Read More...
 published: true
 tags: feature
 featured: false

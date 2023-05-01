@@ -9,11 +9,10 @@ banner:
   - imported/ceili-rough-n-ready/image1027.jpeg
 description: >-
   Obscuur Records is a label that has been systematically pushing harsh,
-  industrial techno for 5 years now. Based in Utrecht, the Netherlands,
-  they&rsquo;ve been putting out releases at an unbelievably prolific rate.
-  Mainly focussing on digital EPs aided by their Ōtomo Trax sublabel, they boast
-  a roster including the large majority of artists that dominate [...]Read
-  More...
+  industrial techno for 5 years now. Based in Utrecht, the Netherlands, they’ve
+  been putting out releases at an unbelievably prolific rate. Mainly focussing
+  on digital EPs aided by their Ōtomo Trax sublabel, they boast a roster
+  including the large majority of artists that dominate [...]Read More...
 published: true
 tags: review
 featured: false

@@ -7,14 +7,7 @@ slug: amis-same-cloud-dub-skoop
 author: 100
 banner:
   - imported/amis-same-cloud-dub-skoop/image1348.jpeg
-description: >-
-  Edinburgh-based Skoop collective has been working hard this year with a
-  plethora of slick releases.From this new one from Amis, we have the title
-  track&#39;s version diving into dubby territories with drill-ish influences.
-  From Amis&#39; Same Cloud&nbsp;EP on Skoop. Out 31.12.2020 on digital &#8211;
-  https://skoop.bandcamp.com
-  https://soundcloud.com/skoopskoophttps://soundcloud.com/soundsofliftup
-  [...]Read More...
+description: "Edinburgh-based Skoop collective has been working hard this year with a plethora of slick releases.From this new one from Amis, we have the title track's version diving into dubby territories with drill-ish influences. From Amis' Same Cloud\_EP on Skoop. Out 31.12.2020 on digital – https://skoop.bandcamp.com https://soundcloud.com/skoopskoophttps://soundcloud.com/soundsofliftup [...]Read More..."
 published: true
 tags: premiere
 featured: false

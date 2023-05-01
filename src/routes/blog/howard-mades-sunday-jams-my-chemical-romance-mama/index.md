@@ -7,12 +7,7 @@ slug: howard-mades-sunday-jams-my-chemical-romance-mama
 author: 63
 banner:
   - imported/howard-mades-sunday-jams-my-chemical-romance-mama/image1006.jpeg
-description: >-
-  Seeing as their new tour has just been announced and I&#39;m fucking elated.
-  You can all have a bowl of this, I will literally fight you if you say
-  they&#39;re not a good band.&nbsp; Anyone who does a polka-esque tune about a
-  solider at war writing letters to his mother who is ashamed of him, [...]Read
-  More...
+description: "Seeing as their new tour has just been announced and I'm fucking elated. You can all have a bowl of this, I will literally fight you if you say they're not a good band.\_ Anyone who does a polka-esque tune about a solider at war writing letters to his mother who is ashamed of him, [...]Read More..."
 published: true
 tags: feature
 featured: false

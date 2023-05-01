@@ -9,8 +9,8 @@ banner:
   - imported/church-andrews-23-health011/image769.jpeg
 description: >-
   A pretty naughty, skeletal assault of time signature experiments and morphing
-  temporals. From Church Andrews&#39; CA2 on Health. Out 08.03 on digital
-  &#8211; Pre-order:
+  temporals. From Church Andrews' CA2 on Health. Out 08.03 on digital –
+  Pre-order:
   https://boomkat.com/products/ca2-619c14ba-ba5e-42ac-9701-3fefa5d60c5c
   https://soundcloud.com/churchandrews/ [...]Read More...
 published: true

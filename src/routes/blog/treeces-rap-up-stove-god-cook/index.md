@@ -7,12 +7,7 @@ slug: treeces-rap-up-stove-god-cook
 author: 158
 banner:
   - imported/treeces-rap-up-stove-god-cook/image1067.jpeg
-description: >-
-  In this new feature, Treece will be delving in to the world of rap music,
-  reviewing current global sounds from NY Street Rap to new school Memphis and
-  beyond&#8230; &nbsp;&lsquo;I just sold a brick out the church parking lot
-  hallelujah&rsquo; Although I love the name, pre-quarantine I couldn&rsquo;t
-  tell you who Stove God Cook$ was. [...]Read More...
+description: "In this new feature, Treece will be delving in to the world of rap music, reviewing current global sounds from NY Street Rap to new school Memphis and beyond… \_‘I just sold a brick out the church parking lot hallelujah’ Although I love the name, pre-quarantine I couldn’t tell you who Stove God Cook$ was. [...]Read More..."
 published: true
 tags: release-review
 featured: false

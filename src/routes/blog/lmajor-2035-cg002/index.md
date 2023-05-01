@@ -9,9 +9,9 @@ banner:
   - imported/lmajor-2035-cg002/image809.jpeg
 description: >-
   A properly naughty UK Hardcore tune that materialises a rave inside the
-  listener&#39;s head. From LMajor and Mani Festo&#39;s Club Glow Vol.2 on Borai
-  &amp; Denham Audio. Out 26.04 on digital and limited cassette &#8211;
-  Pre-order: https://clubglow.bandcamp.com/ https://soundcloud.com/denhamaudio
+  listener's head. From LMajor and Mani Festo's Club Glow Vol.2 on Borai &
+  Denham Audio. Out 26.04 on digital and limited cassette – Pre-order:
+  https://clubglow.bandcamp.com/ https://soundcloud.com/denhamaudio
   https://soundcloud.com/lmajor [...]Read More...
 published: true
 tags: premiere

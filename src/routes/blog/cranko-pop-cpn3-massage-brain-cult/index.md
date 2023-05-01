@@ -11,7 +11,7 @@ description: >-
   This is quite an accurate musical description of how it feels when you have
   your feet striding in a soft ground dripping out of acid lava, encountering a
   plethora of paradoxal emotions. From the Cranko PoP EP on Massage Brain Cult.
-  Out now on cassette and digital &#8211; Order:
+  Out now on cassette and digital – Order:
   https://massagebraincult.bandcamp.com/album/cranko-pop
   https://soundcloud.com/cranko_pop https://soundcloud.com/thisnumber
   https://soundcloud.com/massagebraincult [...]Read More...

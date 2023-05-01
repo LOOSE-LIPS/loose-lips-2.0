@@ -10,8 +10,8 @@ banner:
 description: >-
   Kosmische musik excursions by La Houle, put into image by graphic artist
   Antoine Djack, mirroring the minimalist, yet heartwarming and contemplative
-  quality of this piece. Usually accustomed to noisy pop, the band&rsquo;s
-  singer and composer Simon Sockeel took advantage of this confinement period to
+  quality of this piece. Usually accustomed to noisy pop, the band’s singer and
+  composer Simon Sockeel took advantage of this confinement period to
   re-discover paintings by his grandfather, Lionel, which inspired him to
   re-think [...]Read More...
 published: true

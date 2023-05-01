@@ -9,11 +9,10 @@ banner:
   - imported/dnb-fix-034-spectrasoul-end-of-an-era/image1304.jpeg
 description: >-
   14 years after Jack Stevens and David Kennett joined forces to create a
-  plethora of the most iconic Drum &amp; Bass tracks in existence, they have
-  finally called it a day. Spectrasoul, the duo behind masterpieces such as
-  &lsquo;Away With Me&rsquo;, &lsquo;Glimpse&rsquo; and &lsquo;Burst&rsquo;
-  alongside multiple high profile remixes and collaborations with the industries
-  top [...]Read More...
+  plethora of the most iconic Drum & Bass tracks in existence, they have finally
+  called it a day. Spectrasoul, the duo behind masterpieces such as ‘Away With
+  Me’, ‘Glimpse’ and ‘Burst’ alongside multiple high profile remixes and
+  collaborations with the industries top [...]Read More...
 published: true
 tags: feature
 featured: false

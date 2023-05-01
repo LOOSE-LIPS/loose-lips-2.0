@@ -7,15 +7,7 @@ slug: rommek-false-idols-body-edit-disconnekt-records
 author: 100
 banner:
   - imported/rommek-false-idols-body-edit-disconnekt-records/image1120.jpeg
-description: >-
-  A pounding beast unleashed by Rommek. From Various Artists 002 Fundraiser
-  Compilation&nbsp;V/A compilation on Disconnekt Records. Out 15.05.2020 on
-  digital &#8211; Pre-order:
-  https://disconnektrecords.bandcamp.com/album/various-artists-002-fundraiser-compilation
-  https://soundcloud.com/disconnekthttps://soundcloud.com/rommek In solidarity
-  with the worldwide pandemic situation, Disconnekt Records has brought together
-  a number of artists who have appeared in its previous events for this special
-  compilation. Each artist is contributing [...]Read More...
+description: "A pounding beast unleashed by Rommek. From Various Artists 002 Fundraiser Compilation\_V/A compilation on Disconnekt Records. Out 15.05.2020 on digital – Pre-order: https://disconnektrecords.bandcamp.com/album/various-artists-002-fundraiser-compilation https://soundcloud.com/disconnekthttps://soundcloud.com/rommek In solidarity with the worldwide pandemic situation, Disconnekt Records has brought together a number of artists who have appeared in its previous events for this special compilation. Each artist is contributing [...]Read More..."
 published: true
 tags: premiere
 featured: false

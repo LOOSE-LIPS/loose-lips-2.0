@@ -8,9 +8,9 @@ author: 100
 banner:
   - imported/wade-watts-303-colours-dmc006/image870.jpeg
 description: >-
-  From our resident T-Scale&#39;s retro-futuristic, video-game influenced alter
-  ego comes an acidic, garagey, ghettotechy club banger! From DMC006 V/A
-  compilation on Dionysian Mysteries. Out 10.07 on digital &#8211; Pre-order:
+  From our resident T-Scale's retro-futuristic, video-game influenced alter ego
+  comes an acidic, garagey, ghettotechy club banger! From DMC006 V/A compilation
+  on Dionysian Mysteries. Out 10.07 on digital – Pre-order:
   https://dionysian-mysteries.bandcamp.com/album/dmc006-v-a-2
   http://soundcloud.com/dionysian-mysteries https://soundcloud.com/wade-watts
   https://soundcloud.com/jef-t-scale [...]Read More...

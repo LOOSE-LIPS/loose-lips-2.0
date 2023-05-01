@@ -8,8 +8,8 @@ author: 137
 banner:
   - imported/wiggle-turns-25/image893.jpeg
 description: >-
-  The modern world seems so far detached from the 1990&rsquo;s, a decade which
-  to me is characterised by cheesy movies, painful dial-up internet and iconic
+  The modern world seems so far detached from the 1990’s, a decade which to me
+  is characterised by cheesy movies, painful dial-up internet and iconic
   video-game consoles. It was a simpler time. The world was still reeling from
   the fall of the Berlin Wall, Donald Trump was a mere casino tycoon flirting
   with bankruptcy and [...]Read More...

@@ -10,9 +10,8 @@ banner:
     imported/pera-sta-ori-gone-beautiful-scanone-version-yellow-machines/image796.jpeg
 description: >-
   ScanOne revisits the original, slowing it down a little and steering it into
-  Breakbeat territories. From &Pi;&Epsilon;&Rho;&Alpha; &Sigma;&Tau;&Alpha;
-  &Omicron;&Rho;&Eta;&#39;s Iskios EP on Yellow Machines. Out 6.04 on 12&quot;
-  and digital &#8211; Available from this Saturday on
+  Breakbeat territories. From ΠΕΡΑ ΣΤΑ ΟΡΗ's Iskios EP on Yellow Machines. Out
+  6.04 on 12" and digital – Available from this Saturday on
   https://yellow-machines.bandcamp.com Yellow Machines is back after a 5 year
   break with a 4 track EP, 2 original tracks from [...]Read More...
 published: true

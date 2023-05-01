@@ -8,11 +8,10 @@ author: 61
 banner:
   - imported/rowka-deconstruct-ep/image966.jpeg
 description: >-
-  While Rowka may not be a name you may be too familiar with, I&rsquo;d be
-  willing to bet that if you&rsquo;ve been to any decent techno event in the UK
-  in the last year, you&rsquo;ll have heard at least one of his productions or
-  remixes. Miles Murgett, the Manchester-based producer has kept his nose to
-  [...]Read More...
+  While Rowka may not be a name you may be too familiar with, I’d be willing to
+  bet that if you’ve been to any decent techno event in the UK in the last year,
+  you’ll have heard at least one of his productions or remixes. Miles Murgett,
+  the Manchester-based producer has kept his nose to [...]Read More...
 published: true
 tags: release-review
 featured: false

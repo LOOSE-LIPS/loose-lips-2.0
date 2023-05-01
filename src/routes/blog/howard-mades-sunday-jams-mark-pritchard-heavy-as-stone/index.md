@@ -8,12 +8,7 @@ author: 63
 banner:
   - >-
     imported/howard-mades-sunday-jams-mark-pritchard-heavy-as-stone/image1029.jpeg
-description: >-
-  Feeling heavy as stone here today, boys.&nbsp; I put this on and was
-  delightfully surprised, as I forgot how much better this tune gets as it goes
-  on. I initially wanted to dissociate and revel in my own sadness, but then,
-  when that double time bass slaps in at around 4.20 I forgot I was [...]Read
-  More...
+description: "Feeling heavy as stone here today, boys.\_ I put this on and was delightfully surprised, as I forgot how much better this tune gets as it goes on. I initially wanted to dissociate and revel in my own sadness, but then, when that double time bass slaps in at around 4.20 I forgot I was [...]Read More..."
 published: true
 tags: feature
 featured: false

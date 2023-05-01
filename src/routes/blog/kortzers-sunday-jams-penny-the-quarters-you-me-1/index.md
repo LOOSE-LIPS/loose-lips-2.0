@@ -7,11 +7,11 @@ slug: kortzers-sunday-jams-penny-the-quarters-you-me-1
 author: 96
 banner: []
 description: >-
-  This week I&#39;ve chosen a piece of music that I can only describe as
-  beautiful. Penny &amp; The Quarters are a much unknown group, having recorded
-  some demo tracks in the 1970&#39;s including this one. The group never reached
-  the heights they were destined for and were never signed. The tracks were
-  found when Clem [...]Read More...
+  This week I've chosen a piece of music that I can only describe as beautiful.
+  Penny & The Quarters are a much unknown group, having recorded some demo
+  tracks in the 1970's including this one. The group never reached the heights
+  they were destined for and were never signed. The tracks were found when Clem
+  [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -10,9 +10,8 @@ banner:
 description: >-
   Initially a traditional Ghanaian piece, Agbekor gets a modern,
   club/dance-orientated redesign with heavy 808s and syncopated percussion. From
-  Burland&#39;s Tell Me Why You Worry EP on Mawimbi Records. Out 13.09 on
-  digital &#8211; Order:
-  https://wearemawimbi.bandcamp.com/album/tell-me-why-you-worry-ep
+  Burland's Tell Me Why You Worry EP on Mawimbi Records. Out 13.09 on digital –
+  Order: https://wearemawimbi.bandcamp.com/album/tell-me-why-you-worry-ep
   https://soundcloud.com/wearemawimbi https://soundcloud.com/burlandmusic
   [...]Read More...
 published: true

@@ -7,12 +7,7 @@ slug: hrdvsion-come-on-f-bd15
 author: 100
 banner:
   - imported/hrdvsion-come-on-f-bd15/image1182.jpeg
-description: >-
-  Come On, F&nbsp;is an adventurous piece, starting as an electro club track
-  with neon rave aesthetics, it develops into more introspective and sombre
-  tones, yet keeping the balance and not forgetting its role as a dance track.
-  Class! Hrdvsion, brother of Mathew Jonson, recording together as Midnight
-  Operator, is dropping his first solo EP in [...]Read More...
+description: "Come On, F\_is an adventurous piece, starting as an electro club track with neon rave aesthetics, it develops into more introspective and sombre tones, yet keeping the balance and not forgetting its role as a dance track. Class! Hrdvsion, brother of Mathew Jonson, recording together as Midnight Operator, is dropping his first solo EP in [...]Read More..."
 published: true
 tags: premiere
 featured: false

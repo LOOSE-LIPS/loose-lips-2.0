@@ -8,11 +8,11 @@ author: 164
 banner:
   - imported/still-woozy-at-dingwalls-camden-130519/image843.jpeg
 description: >-
-  We walk and talk and smoke along Regent&rsquo;s Canal, appreciating the
-  sunshine that&rsquo;s been tickling us all day through our respective windows.
-  M points to a swinging rounded chair on an adjacent 5th floor balcony,
-  they&rsquo;d love to have it in our flat. H &#8211; who doesn&rsquo;t live
-  with us but is over a lot, [...]Read More...
+  We walk and talk and smoke along Regent’s Canal, appreciating the sunshine
+  that’s been tickling us all day through our respective windows. M points to a
+  swinging rounded chair on an adjacent 5th floor balcony, they’d love to have
+  it in our flat. H – who doesn’t live with us but is over a lot, [...]Read
+  More...
 published: true
 tags: event-review
 featured: false

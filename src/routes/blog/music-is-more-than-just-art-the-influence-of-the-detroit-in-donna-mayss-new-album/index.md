@@ -11,13 +11,7 @@ author: 165
 banner:
   - >-
     imported/music-is-more-than-just-art-the-influence-of-the-detroit-in-donna-mayss-new-album/image1388.jpeg
-description: >-
-  Donna Maya is a Berlin-based artist combining experimental electronic sounds
-  and contemporary beats with the theremin (one of the oldest electronic music
-  instruments) which she modulates with effects. Maya&rsquo;s new
-  album&nbsp;Lost Spaces&rarr;Detroit captures her visit to the rust belt city,
-  with field recordings sculpting musical portraits that highlight the contrast
-  between former purpose and present [...]Read More...
+description: "Donna Maya is a Berlin-based artist combining experimental electronic sounds and contemporary beats with the theremin (one of the oldest electronic music instruments) which she modulates with effects. Maya’s new album\_Lost Spaces→Detroit captures her visit to the rust belt city, with field recordings sculpting musical portraits that highlight the contrast between former purpose and present [...]Read More..."
 published: true
 tags: feature
 featured: false

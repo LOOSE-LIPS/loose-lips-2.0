@@ -10,7 +10,7 @@ description: >-
   Paris-based Japanese producer Motomitsu delivers an authentic Detroit Techno
   period piece, rolling with that classy melancholic yet uplifting vibe many
   early Detroit Techno records sported! From Paravisionary V/A EP on Soiree
-  Records International. Out 09.12 on 12&quot; and digital &#8211; Pre-order:
+  Records International. Out 09.12 on 12" and digital – Pre-order:
   https://www.traxsource.com/title/1224925/paravisionary
   https://soundcloud.com/soireerecords https://soundcloud.com/motomitsu
   [...]Read More...

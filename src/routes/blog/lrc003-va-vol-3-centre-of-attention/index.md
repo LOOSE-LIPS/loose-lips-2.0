@@ -7,13 +7,7 @@ slug: lrc003-va-vol-3-centre-of-attention
 author: 163
 banner:
   - imported/lrc003-va-vol-3-centre-of-attention/image1338.jpeg
-description: >-
-  Manchester based Left, Right &amp; Centre are known for peddling bass music
-  from all directions. On Friday 27th&nbsp;November, the multi-faceted crew
-  return to showcase their third and final four track label compilation.&nbsp;
-  Containing four distinctly contrasting approaches to electronic bass music,
-  LRC003 (much like the two releases that preceded it) captures the dynamic
-  nature of [...]Read More...
+description: "Manchester based Left, Right & Centre are known for peddling bass music from all directions. On Friday 27th\_November, the multi-faceted crew return to showcase their third and final four track label compilation.\_ Containing four distinctly contrasting approaches to electronic bass music, LRC003 (much like the two releases that preceded it) captures the dynamic nature of [...]Read More..."
 published: true
 tags: release-review
 featured: false

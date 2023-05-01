@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/bchara-marba-el-hobb-as004/image902.jpeg
 description: >-
-  Marba&#39; El Hobb (Square of Love) sees a rougher, more industrial approach
-  to flipping over an old Fairuz song. The result is a fuzzy, brutalist
-  concoction oozing with soulful vocals and oud notes, while overflowing with
-  texture. (The digital preorder sees a more club-friendly version of the
-  track!) From Bchara&#39;s Edits (Vol. 1) on Anti [...]Read More...
+  Marba' El Hobb (Square of Love) sees a rougher, more industrial approach to
+  flipping over an old Fairuz song. The result is a fuzzy, brutalist concoction
+  oozing with soulful vocals and oud notes, while overflowing with texture. (The
+  digital preorder sees a more club-friendly version of the track!) From
+  Bchara's Edits (Vol. 1) on Anti [...]Read More...
 published: true
 tags: premiere
 featured: false

@@ -7,13 +7,7 @@ slug: astrid-gnosis
 author: 111
 banner:
   - imported/astrid-gnosis/image861.jpeg
-description: >-
-  Ahead of tonight&#39;s mad rave at FOLD in London, the inspiring,
-  nugabber-loving Astrid Gnosis answers some short, snappy questions, ahead of
-  her hybrid live set! https://www.facebook.com/events/1082849241922269/
-  https://www.residentadvisor.net/events/1264136 What can people expect on
-  Saturday? Punches in slo motion. Have you had always had Gnosis? How did
-  Astrid Gnosis first come about?&nbsp; It is my true name. [...]Read More...
+description: "Ahead of tonight's mad rave at FOLD in London, the inspiring, nugabber-loving Astrid Gnosis answers some short, snappy questions, ahead of her hybrid live set! https://www.facebook.com/events/1082849241922269/ https://www.residentadvisor.net/events/1264136 What can people expect on Saturday? Punches in slo motion. Have you had always had Gnosis? How did Astrid Gnosis first come about?\_ It is my true name. [...]Read More..."
 published: true
 tags: interview
 featured: false

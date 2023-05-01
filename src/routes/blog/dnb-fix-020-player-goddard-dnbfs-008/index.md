@@ -8,11 +8,11 @@ author: 20
 banner:
   - imported/dnb-fix-020-player-goddard-dnbfs-008/image1167.jpeg
 description: >-
-  In the Drum and Bass industry, it&rsquo;s not very often that an artist
-  appears seemingly out of thin air. Years of honing your craft just to be given
-  that one big shot has generally been the norm. But if 2020 hasn&rsquo;t thrown
-  enough curveball&rsquo;s yet; here&rsquo;s another, Goddard with a momentous
-  debut on DnB Allstars, [...]Read More...
+  In the Drum and Bass industry, it’s not very often that an artist appears
+  seemingly out of thin air. Years of honing your craft just to be given that
+  one big shot has generally been the norm. But if 2020 hasn’t thrown enough
+  curveball’s yet; here’s another, Goddard with a momentous debut on DnB
+  Allstars, [...]Read More...
 published: true
 tags: feature
 featured: false

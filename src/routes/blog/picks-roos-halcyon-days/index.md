@@ -8,11 +8,11 @@ author: 100
 banner:
   - imported/picks-roos-halcyon-days/image1236.jpeg
 description: >-
-  Hello and welcome! This week&#39;s picks comes from Roo, a writer and editor
-  with the cheek to co-found a top quality blog whose name comes dangerously
-  close to sounding cooler than &#39;loose lips&#39;; Halcyon Wax! She also runs
-  a womxn + non binary collective named Shifting Spheres, organising DJ
-  workshops in Manchester to promote inclusivity, [...]Read More...
+  Hello and welcome! This week's picks comes from Roo, a writer and editor with
+  the cheek to co-found a top quality blog whose name comes dangerously close to
+  sounding cooler than 'loose lips'; Halcyon Wax! She also runs a womxn + non
+  binary collective named Shifting Spheres, organising DJ workshops in
+  Manchester to promote inclusivity, [...]Read More...
 published: true
 tags: feature
 featured: false

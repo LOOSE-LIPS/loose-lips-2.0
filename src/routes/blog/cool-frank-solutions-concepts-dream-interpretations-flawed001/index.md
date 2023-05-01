@@ -9,9 +9,8 @@ slug: cool-frank-solutions-concepts-dream-interpretations-flawed001
 author: 100
 banner: []
 description: >-
-  Funktastic techno jam from US-based producer Cool &amp; Frank! From Cool &amp;
-  Frank&#39;s Contacts In The Unseen World EP on FLAWEd Records. Out now on
-  12&quot; &#8211; Order:
+  Funktastic techno jam from US-based producer Cool & Frank! From Cool & Frank's
+  Contacts In The Unseen World EP on FLAWEd Records. Out now on 12" – Order:
   https://www.deejay.de/Cool%26Frank_Contacts_In_The_Unseen_World_FLAWED001_Vinyl__955459
   https://soundcloud.com/cooliofranco [...]Read More...
 published: true

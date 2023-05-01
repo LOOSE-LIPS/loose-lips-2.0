@@ -8,7 +8,7 @@ author: 57
 banner:
   - imported/editors-pick-kallida-festival/image866.jpeg
 description: >-
-  For this version of Editors&#39; Pick, Jack selects a charming recollection of
+  For this version of Editors' Pick, Jack selects a charming recollection of
   Kallida Festival, reminding us of the kind of reckless abandon we will no
   doubt be able to recreate in the not-too-distant future.. As we head into
   July, a month which is on average the warmest month in the Northern

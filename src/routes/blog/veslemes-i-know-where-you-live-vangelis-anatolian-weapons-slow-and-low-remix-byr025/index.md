@@ -11,13 +11,7 @@ author: 100
 banner:
   - >-
     imported/veslemes-i-know-where-you-live-vangelis-anatolian-weapons-slow-and-low-remix-byr025/image1207.jpeg
-description: >-
-  Athen-based producer Anatolian Weapons on remix duties here, distillating the
-  original into a slow, gritty and corrosive acid dub piece. &nbsp; From
-  Veslemes&#39; Know Where You Live Vangelis! EP on Byrd Out. Out 24.07.2020 on
-  limited cassette and digital &#8211; Pre-order:
-  https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis
-  https://soundcloud.com/byrdouthttps://soundcloud.com/felizol [...]Read More...
+description: "Athen-based producer Anatolian Weapons on remix duties here, distillating the original into a slow, gritty and corrosive acid dub piece. \_ From Veslemes' Know Where You Live Vangelis! EP on Byrd Out. Out 24.07.2020 on limited cassette and digital – Pre-order: https://byrdout.bandcamp.com/album/i-know-where-you-live-vangelis https://soundcloud.com/byrdouthttps://soundcloud.com/felizol [...]Read More..."
 published: true
 tags: premiere
 featured: false

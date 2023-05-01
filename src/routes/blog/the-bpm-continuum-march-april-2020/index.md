@@ -8,11 +8,11 @@ author: 17
 banner:
   - imported/the-bpm-continuum-march-april-2020/image1137.jpeg
 description: >-
-  As much as I&rsquo;d love not to start with the obligatory topic that the
-  entire world&rsquo;s been focusing on in the past two months, I&rsquo;m
-  compelled to by the effects on our ecosystem. It just wouldn&rsquo;t be right
-  to write a feature on forward-thinking electronic music and the way bass music
-  moves and not mention [...]Read More...
+  As much as I’d love not to start with the obligatory topic that the entire
+  world’s been focusing on in the past two months, I’m compelled to by the
+  effects on our ecosystem. It just wouldn’t be right to write a feature on
+  forward-thinking electronic music and the way bass music moves and not mention
+  [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -8,10 +8,10 @@ author: 51
 banner: []
 description: >-
   After what seems like a millennium of quality output from GLXY already, last
-  week saw the highly anticipated release of their debut album &lsquo;Research
-  &amp; Development&rsquo; on Shogun Audio. Upon hearing the news that GLXY were
-  planning to drop their debut album, my initial thoughts were &ndash;
-  &lsquo;Wait, how have GLXY not released an album [...]Read More...
+  week saw the highly anticipated release of their debut album ‘Research &
+  Development’ on Shogun Audio. Upon hearing the news that GLXY were planning to
+  drop their debut album, my initial thoughts were – ‘Wait, how have GLXY not
+  released an album [...]Read More...
 published: true
 tags: feature
 featured: false
