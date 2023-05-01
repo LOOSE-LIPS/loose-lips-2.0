@@ -7,7 +7,13 @@ slug: goeliath-hard-failure-egru003
 author: 100
 banner:
   - imported/goeliath-hard-failure-egru003/image762.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Powerful waves of exaltation hitting a shore of contemplation. By
+  G&Ouml;LIATH. From Magnus Opus VA compilation on Egregore. Out 04.03 on
+  digital &#8211; Pre-order:
+  https://egregorecollective.bandcamp.com/album/egru003-va-magnum-opus
+  https://soundcloud.com/egreg-re https://soundcloud.com/g-liath [...]Read
+  More...
 published: true
 tags: premiere
 featured: false

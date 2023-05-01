@@ -7,7 +7,13 @@ slug: picks-loose-lips-x-5ras-top-jungle-tracks
 author: 164
 banner:
   - imported/picks-loose-lips-x-5ras-top-jungle-tracks/image785.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Fire, thunder, chaos, rhythm, speed. Jungle. We usually invite individual
+  guests to share themed Picks pieces, but for this edition the Loose Lips and
+  5RA Teams went B2B, vibing off a shared love for that hardest shaking,
+  massive-est of genres, the sound that is jungle. (Shouts to&nbsp;Finn&nbsp;for
+  the design!) Finnegan Travers: 1. Splash &#8211; Babylon&nbsp; [...]Read
+  More...
 published: true
 tags: feature
 featured: false

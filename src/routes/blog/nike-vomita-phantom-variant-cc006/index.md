@@ -7,7 +7,13 @@ slug: nike-vomita-phantom-variant-cc006
 author: 100
 banner:
   - imported/nike-vomita-phantom-variant-cc006/image736.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Sliding, waving, shifting, evaporating, getting through walls and
+  electronics.This brilliant number takes you into a world of its own. From
+  NIKE_VOMITA&#39;s PHANTOM_EP on Concrete Collage. Out 23.01 on digital &#8211;
+  Pre-order: https://concretecollage.bandcamp.com/album/phantom-ep
+  https://soundcloud.com/concrete-collage https://soundcloud.com/nike_vomita
+  [...]Read More...
 published: true
 tags: premiere
 featured: false

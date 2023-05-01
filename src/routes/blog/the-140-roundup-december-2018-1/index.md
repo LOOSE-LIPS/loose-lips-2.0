@@ -7,7 +7,12 @@ slug: the-140-roundup-december-2018-1
 author: 17
 banner:
   - imported/the-140-roundup-december-2018-1/image728.jpeg
-description: post.yoast_head_json.description
+description: >-
+  December is always a special month in the ecosystem of music, with the album
+  front suddenly getting quieter following a few months of frenzy and labels
+  sorting some of their highest-profile releases before the holiday season. The
+  end of 2018 was no different, with a relentless assault of some of the biggest
+  players in 140BPM [...]Read More...
 published: true
 tags: monthly-feature
 featured: false

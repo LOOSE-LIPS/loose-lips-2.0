@@ -7,7 +7,13 @@ slug: remo-persona-mrr13
 author: 100
 banner:
   - imported/remo-persona-mrr13/image787.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Shifting through moments of light and darkness, this bass-infused number is
+  also augmented with intricate sound design which gives it a strong character.
+  From Remo&#39;s Persona album on Maturre. Out now on cassette and digital
+  &nbsp;&#8211; Pre-order: https://remo75.bandcamp.com/album/persona
+  https://soundcloud.com/maturre https://soundcloud.com/remo-music [...]Read
+  More...
 published: true
 tags: premiere
 featured: false

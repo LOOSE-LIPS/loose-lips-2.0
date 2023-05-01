@@ -7,7 +7,12 @@ slug: agon-wardub-the-bass-society
 author: 100
 banner:
   - imported/agon-wardub-the-bass-society/image735.jpeg
-description: post.yoast_head_json.description
+description: >-
+  An absolutely slimey Grime track from Ag&ocirc;n! It is part of a compilation
+  that gathers french Bass music producers from various crews and cities around
+  the Hexagon and showcase the variety the scene has to offer in a spontaneous
+  and uncompromising way. From La Dub War &#8211; Round 1&nbsp;VA compilation on
+  The Bass Society. Out [...]Read More...
 published: true
 tags: premiere
 featured: false

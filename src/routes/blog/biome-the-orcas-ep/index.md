@@ -7,7 +7,13 @@ slug: biome-the-orcas-ep
 author: 146
 banner:
   - imported/biome-the-orcas-ep/image733.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Biome &mdash; one of Manchester&rsquo;s finest bass technicians &mdash; has
+  recently released The Orcas &mdash; a 3-track EP &mdash; as a teaser for his
+  forthcoming 2019 album. The whole release has a tense atmosphere,
+  characterised by rasping basslines and funky drum grooves created by this
+  unique producer. In the first track, &lsquo;Take Off&rsquo;, subtle pads
+  [...]Read More...
 published: true
 tags: release-review
 featured: false

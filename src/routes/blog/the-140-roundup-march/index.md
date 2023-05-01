@@ -7,7 +7,12 @@ slug: the-140-roundup-march
 author: 17
 banner:
   - imported/the-140-roundup-march/image768.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Last month, I used these lines to mention a few newcomers that will most
+  certainly deliver in 2019. Now it&rsquo;s February and they have been able to
+  meet expectations already. I was eagerly awaiting the Tubz new solo EP for
+  Chameleon Audio, one of grime&rsquo;s most reliable labels at the moment. Ya
+  Get Me? is [...]Read More...
 published: true
 tags: monthly-feature
 featured: false

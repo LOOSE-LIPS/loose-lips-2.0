@@ -8,7 +8,12 @@ author: 96
 banner:
   - >-
     imported/kortzers-sunday-jams-luther-allison-bad-news-is-coming/image904.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Bad News Is Coming is one of those tracks that as soon as it starts playing
+  and the vocals come in you think, fucking hell whats this then? As soon as
+  Luther Allison starts singing its as if his voice starts resonating deep
+  inside you and gives you a feeling that&#39;s captivating, controlling and
+  utterly [...]Read More...
 published: true
 tags: feature
 featured: false

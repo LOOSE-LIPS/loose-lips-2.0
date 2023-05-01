@@ -7,7 +7,11 @@ slug: kortzers-sunday-jams-cypress-hill-i-wanna-get-high
 author: 96
 banner:
   - imported/kortzers-sunday-jams-cypress-hill-i-wanna-get-high/image750.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Taken from the album Black Sunday it goes without saying that this is a
+  certified Sunday Jam. The track came from the hazy cloud of smoke that is
+  cypress hill in 1993 embedded in what I personally think is one of the best
+  Hip Hop albums of all time. Its dreamy, mellow back beat is [...]Read More...
 published: true
 tags: feature
 featured: false

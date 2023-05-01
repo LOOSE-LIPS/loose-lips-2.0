@@ -15,7 +15,7 @@ import { load } from "cheerio";
 
 const username = "seedpipdev";
 const password = "ThisIsAPassword";
-const totalPages = 61;
+const totalPages = 68;
 
 const rootDir = process.cwd();
 

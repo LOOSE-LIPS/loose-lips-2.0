@@ -7,7 +7,13 @@ slug: suny-zoee-julia-star-interview-each-other
 author: 164
 banner:
   - imported/suny-zoee-julia-star-interview-each-other/image783.jpeg
-description: post.yoast_head_json.description
+description: >-
+  To celebrate three of London&rsquo;s most, exciting, distinctive
+  creators&rsquo; EP not2b, Loose Lips considered interviewing the nextgen
+  squad, before deciding that it would make more sense to let them take control
+  of the narrative. They&rsquo;re performing live along with an extended family
+  of hook-heavy rule breakers&nbsp;next Thursday, be there or be
+  toxic&#8230;not2b by Suny, Zoee [...]Read More...
 published: true
 tags: feature
 featured: false

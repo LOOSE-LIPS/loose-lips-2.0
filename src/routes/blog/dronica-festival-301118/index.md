@@ -7,7 +7,12 @@ slug: dronica-festival-301118
 author: 156
 banner:
   - imported/dronica-festival-301118/image722.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Dronica is a tri-yearly, two-day sound and art festival, held at the Old
+  Church in Stoke Newington. Founded in 2016 by Nicola Serra, the festival
+  mainly focuses on experimental, drone and free form-approach art performances.
+  Nicola, who studied at London Academy of Music Production, has a background as
+  a drummer, percussionist, sound engineer and events [...]Read More...
 published: true
 tags: festival-review
 featured: false

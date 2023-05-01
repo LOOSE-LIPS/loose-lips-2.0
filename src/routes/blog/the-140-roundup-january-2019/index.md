@@ -7,7 +7,12 @@ slug: the-140-roundup-january-2019
 author: 17
 banner:
   - imported/the-140-roundup-january-2019/image744.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Switching years is the perfect moment to reflect on the past year and to look
+  forward to what&rsquo;s coming next. When it comes to 140BPM sounds, 2018
+  looked rejuvenated by new producers making waves, proactive crews keeping
+  release schedules hectic and actual hits shaking dances worldwide. I have to
+  say, though, that I&rsquo;m expecting even [...]Read More...
 published: true
 tags: monthly-feature
 featured: false

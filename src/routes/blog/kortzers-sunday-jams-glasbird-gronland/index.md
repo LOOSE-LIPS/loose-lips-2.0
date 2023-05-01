@@ -7,7 +7,12 @@ slug: kortzers-sunday-jams-glasbird-gronland
 author: 96
 banner:
   - imported/kortzers-sunday-jams-glasbird-gronland/image786.jpeg
-description: post.yoast_head_json.description
+description: >-
+  This week I&#39;ve chosen what&#39;s been a recent favourite of mine,
+  Gr&oslash;nland by Gl&aring;sbird. I&#39;ve decided to feature the whole ep as
+  I&#39;ve really enjoyed listening to it recently as well as it being perfect
+  for any Sunday. It was released on Whitelabrecs February 9th this year by an
+  artist who I think is best [...]Read More...
 published: true
 tags: feature
 featured: false

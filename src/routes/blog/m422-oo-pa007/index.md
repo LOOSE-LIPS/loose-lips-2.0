@@ -7,7 +7,13 @@ slug: m422-oo-pa007
 author: 100
 banner:
   - imported/m422-oo-pa007/image724.jpeg
-description: post.yoast_head_json.description
+description: >-
+  A progressive recollection of frozen memories. From Pattern Abuse Compilation
+  2 &#8211; Nordic Ambient on Pattern Abuse. Out now on cassette and digital
+  &#8211; Order:
+  https://pattern-abuse.bandcamp.com/album/pattern-abuse-compilation-2-nordic-ambient
+  https://soundcloud.com/pattern-abuse https://soundcloud.com/m422-m3d14
+  [...]Read More...
 published: true
 tags: premiere
 featured: false

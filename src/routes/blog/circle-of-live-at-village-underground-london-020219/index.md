@@ -7,7 +7,12 @@ slug: circle-of-live-at-village-underground-london-020219
 author: 61
 banner:
   - imported/circle-of-live-at-village-underground-london-020219/image776.jpeg
-description: post.yoast_head_json.description
+description: >-
+  I was indubitably lucky to witness the first ever Circle of Live performance
+  at Freerotation 2018, so was already acutely aware of the project&rsquo;s
+  organic wizardry. The 6 hours of collaborative spontaneity were a highlight of
+  the festival season, acting as the perfect end to another stunning Freero. The
+  initial performance included Dorisburg and Johanna [...]Read More...
 published: true
 tags: event-review
 featured: false

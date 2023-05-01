@@ -7,7 +7,13 @@ slug: picks-laanis-guide-to-mosh-pit-jazz
 author: 164
 banner:
   - imported/picks-laanis-guide-to-mosh-pit-jazz/image765.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Nu-Jazz has been bubbling as London&rsquo;s most exciting underground movement
+  for some time now, but it&rsquo;s not easy to appreciate the energy from
+  outside: no Spotify playlist or pseudo-academic article can capture its
+  riotous energy. Enter&nbsp;Laani, a Brownswood-affiliated DJ whose&nbsp;Jazz
+  Tings&nbsp;show on Threads showcases the vibrancy and attitude of the scene,
+  mixed, presented and interviewed [...]Read More...
 published: true
 tags: feature
 featured: false

@@ -7,7 +7,11 @@ slug: pang-pang-pang-pang-oqko
 author: 100
 banner:
   - imported/pang-pang-pang-pang-oqko/image788.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Deconstructed industrial kick drums marinated in drone juice, served with
+  broken Techno sauce. From PANG&#39;s PANG EP on oqko. Out 5.4 on 12&quot; and
+  digital &#8211; Pre-order: https://pangofficial.bandcamp.com/album/pang
+  https://soundcloud.com/oqko [...]Read More...
 published: true
 tags: premiere
 featured: false

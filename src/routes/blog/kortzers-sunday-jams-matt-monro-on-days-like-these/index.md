@@ -7,7 +7,12 @@ slug: kortzers-sunday-jams-matt-monro-on-days-like-these
 author: 96
 banner:
   - imported/kortzers-sunday-jams-matt-monro-on-days-like-these/image784.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Matt Monro, dubbed &quot;The Man With The Golden Voice&quot; brings this
+  week&#39;s selection in the shape of &quot;On Days Like These&quot;. The track
+  is most commonly known for being the opening track in The Italian Job and even
+  though the track never charted in either the UKor the US, it is recognised as
+  one of [...]Read More...
 published: true
 tags: feature
 featured: false

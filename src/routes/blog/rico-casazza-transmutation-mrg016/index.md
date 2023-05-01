@@ -7,7 +7,13 @@ slug: rico-casazza-transmutation-mrg016
 author: 61
 banner:
   - imported/rico-casazza-transmutation-mrg016/image739.jpeg
-description: post.yoast_head_json.description
+description: >-
+  6 years since its inception, Murge Recordings is only releasing its 16th
+  record. Boasting an unabashedly sporadic discography, the label has released
+  records by revered names such as K Alexi Shelby, Mark Ambrose, Oskar
+  Szafraniec and Wavescape despite its intermittent nature. A large portion of
+  the Murge output was reserved solely for MP3 releases, including [...]Read
+  More...
 published: true
 tags: release-review
 featured: false

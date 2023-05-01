@@ -7,7 +7,10 @@ slug: cruising-beats-club
 author: 100
 banner:
   - imported/cruising-beats-club/image727.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Bass hopping! From the CLUB album by Cruising Beats Out now on digital &#8211;
+  Order: https://cruze-faderdrhybrid.bandcamp.com/album/club
+  https://soundcloud.com/cruisingbeats [...]Read More...
 published: true
 tags: premiere
 featured: false

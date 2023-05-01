@@ -7,7 +7,11 @@ slug: bayalien-sound-system-blunted
 author: 100
 banner:
   - imported/bayalien-sound-system-blunted/image772.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Forward-minded Dubstep, going for a dynamic and non-repetitive approach. From
+  Bayalien Sound System&#39;s Peach Optimo EP. Out 15.03 on digital &#8211;
+  Pre-order: https://bayalien.bandcamp.com/track/peach-optimo
+  https://soundcloud.com/bayalien [...]Read More...
 published: true
 tags: premiere
 featured: false

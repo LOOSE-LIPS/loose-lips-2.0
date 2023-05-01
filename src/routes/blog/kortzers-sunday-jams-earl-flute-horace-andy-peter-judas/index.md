@@ -8,7 +8,12 @@ type: post
 slug: kortzers-sunday-jams-earl-flute-horace-andy-peter-judas
 author: 96
 banner: []
-description: post.yoast_head_json.description
+description: >-
+  The last few Sunday Jams have stuck along a reggae, roots &amp; dub feel. This
+  week is no different as I&#39;ve chosen Peter &amp; Judas by Earl Flute &amp;
+  Horace Andy. Earl Flute is a famous reggae guitarist / singer &amp; Horace
+  Andy a famous Songwriter. Peter &amp; Judas is a Sunday anthem without a
+  [...]Read More...
 published: true
 tags: feature
 featured: false

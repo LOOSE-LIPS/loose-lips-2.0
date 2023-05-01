@@ -7,7 +7,14 @@ slug: wesqk-coast-stash-ooh-011
 author: 100
 banner:
   - imported/wesqk-coast-stash-ooh-011/image779.jpeg
-description: post.yoast_head_json.description
+description: >-
+  Taken from Wesqk Coast&rsquo;s limited edition cassette [OOH-011] the video
+  for &#39;S.T.A.S.H.&#39;explores post-modern accelerationism with playful
+  spirit taking advantage of the rhetoricalaesthetics of computer gaming, pop-up
+  financial info-graphics, commercial advertising andflash animations for social
+  media.The naive scenarios set up with free stock footage found on-line create
+  a surreal metaphorof the superficial omnivorous voracity governed today
+  [...]Read More...
 published: true
 tags: premiere
 featured: false

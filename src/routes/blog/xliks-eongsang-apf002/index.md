@@ -7,7 +7,13 @@ slug: xliks-eongsang-apf002
 author: 100
 banner:
   - imported/xliks-eongsang-apf002/image742.jpeg
-description: post.yoast_head_json.description
+description: >-
+  A driving, immersive track punctuated by hard turns of events! From alpine
+  funk classics vol.2&nbsp;VA compilation on Shoganai. Out 31.01 on cassette and
+  digital &#8211; Pre-order:
+  https://shoganai-records.bandcamp.com/album/alpine-funk-classics-vol-2
+  https://soundcloud.com/shoganai-records https://soundcloud.com/55h22 [...]Read
+  More...
 published: true
 tags: premiere
 featured: false
