@@ -8,12 +8,6 @@ import axios from "axios";
 import { load } from "cheerio";
 import he from "he";
 
-//&#39
-//&#8211
-//&rsquo;
-//&nbsp;
-//&#8217;s
-
 const username = "seedpipdev";
 const password = "ThisIsAPassword";
 const totalPages = 68;

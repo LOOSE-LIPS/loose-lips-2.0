@@ -101,7 +101,7 @@
   >
     Most Recent
   </h2>
-  <div class="flex flex-row flex-wrap w-full mt-4 items-center">
+  <div class="flex flex-row flex-wrap w-full mt-4 items-center mb-2">
     {#each tags as tag, index (tag)}
       <Button
         {tag}
