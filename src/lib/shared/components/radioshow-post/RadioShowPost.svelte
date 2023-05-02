@@ -60,12 +60,13 @@
     title={showData.title}
     style="color: #cccccc; text-decoration: none;"
   > -->
+
+    <img src={showData.banner} alt="banner" />
     <h3
       class="text-lg md:text-xl font-medium  w-full text-gray-900 dark:text-gray-100"
     >
       {showData.title}
     </h3>
-    <img src={showData.banner} alt="banner" />
     <!-- </a> -->
     <!-- <iframe
     title="title"
