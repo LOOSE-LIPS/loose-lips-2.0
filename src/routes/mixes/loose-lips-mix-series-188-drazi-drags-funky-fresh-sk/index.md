@@ -21,4 +21,6 @@ description: >-
 published: true
 tags: Hip Hop
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-188-drazi-drags-funky-fresh-sk&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 One of Macedonia’s finest Hip Hop selectors digging through the crates for us!https://www.facebook.com/djdrazidragsWent we first visited Skopje, a good few years ago now, Drazi Drags was one of the first local musicians we connected with. Since, we’ve travelled across his country with him, playing gigs, spitting tunes together driving down the motorway, and eating obscene amounts of fast food. BIGUPS DRAGAN!Also, make sure to check out his ‘UK Rap Hitters’ picks feature for our blog here – http://loose-lips.co.uk/blog/picks-dj-drazi-drags-uk-rap-hitters-1.TRACKLIST:Undisclosed.

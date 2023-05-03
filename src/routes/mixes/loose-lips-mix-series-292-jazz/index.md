@@ -19,4 +19,6 @@ description: >-
 published: true
 tags: Eclectronics
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-292-jazz&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Introducing JAZZ to our mix series for 120′ of techno, electro, breakbeat and UKG from Two Shells, DJ Plead, Deadboy, LSDXOXO, Main Phase, Puglist, K-Lone and many more, with one common denominator: positive energy!“Like most of my mixes, I wanted to take listeners through a deep journey, starting off with slowed down blends, through to high-energy beats, rhythms and mixed vocals to create an intense, feel good mix. Something that shouts ‘we’re nearly there .. on the dancefloor together, grooving and head bopping’.”!TRACKLIST:\-undisclosed-www.loose-lips.co.uk

@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Neo-Classical
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-264-time-rival&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 We’re very glad to welcome Triplicate label boss Time Rival on our Mix Series for a sweet, mellow and uplifting journey!@timerival  
 @triplicaterecordsThis mix features new and old music from underground artists from the online electronic music scene You’ll hear a good mix of downtempo, electronica, IDM, and a little bit of ambient to round things out. It’s somewhat laid back, a touch energetic, and mostly positive vibes. All of the music included in this mix is available on Bandcamp for purchase. Links at the bottom.Time Rival AKA Michael Southard also curates mixes for his label Triplicate Records in a series called TRIP FMTRIP FM On Mxcloud – https://www.mixcloud.com/tripfm/  
 TRIP FM On Bandcamp – https://tripfm.bandcamp.com/  

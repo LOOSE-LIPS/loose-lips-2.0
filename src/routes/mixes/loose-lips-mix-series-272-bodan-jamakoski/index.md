@@ -14,6 +14,8 @@ description: "Our new entry is from Bodan Jamakoski, who we&#8217;ve collaborate
 published: true
 tags: Techno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-272-bodan-jamakoski&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Our new entry is from Bodan Jamakoski, who we’ve collaborated and shared the decks with for our 5th year anniversary event at club Minus 1 with Billy Nasty, Medallion Man and T-Scale.  
 Enjoy these 81 minutes of hypnotic, sharp and driving Techno!@bodan-jamakoski   
 @audiobahn101 Bodan Jamakoski is a Macedonian DJ and producer from Skopje, Macedonia.  

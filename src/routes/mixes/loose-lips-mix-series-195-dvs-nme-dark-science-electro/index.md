@@ -22,7 +22,9 @@ description: >-
 published: true
 tags: Electro
 ---
-Rave and cry!DVS NME is an Electro and Post Punk enthusiast, living in Colorado. He runs a daily blog called ‘Dark Science Electro’ which features news, live sets, guest mixes, upcoming shows, premieres as well as a weekly radio show on Intergalactic FM. Electro producer representing @transientforce, @solar\_one\_music, Fundamental Records, @pulse-drift-recordings, @ukonx and more.TRACKLIST:Maroje T – LA Confidential  
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-195-dvs-nme-dark-science-electro&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
+Rave and cry!<iframe loading="lazy" title="DVS NME" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F47838&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>DVS NME is an Electro and Post Punk enthusiast, living in Colorado. He runs a daily blog called ‘Dark Science Electro’ which features news, live sets, guest mixes, upcoming shows, premieres as well as a weekly radio show on Intergalactic FM. Electro producer representing @transientforce, @solar\_one\_music, Fundamental Records, @pulse-drift-recordings, @ukonx and more.TRACKLIST:Maroje T – LA Confidential  
 Zeta Reticula – Southern Skies  
 Dynarec – Rise Of The Fall  
 Datawave – Chrysalis  

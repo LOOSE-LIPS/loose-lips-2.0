@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: Bass
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-tom-moon-293&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Old friend and Switch founder Tom Moon steps up for one hour blend of quality contemporary club music, hinting to better times. Play it loud, this is a good cure!@similartastesOr as Tom puts it: “Songs I’d make my morning porridge to”.https://www.instagram.com/tom\_\_moon  
 https://www.instagram.com/switchuk\_TRACKLIST:North Sea Dialect – Salt \[NMBRS57\]  
 James Massiah – Ride Or Di \[Self-released\]  

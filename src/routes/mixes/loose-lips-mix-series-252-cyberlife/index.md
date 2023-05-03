@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Eclectronics
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-252-cyberlife&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Paris-based Cyberlife is our 252nd entry! A 3-hour mix evolving at its own pace from Drone into Bass and Drum & Bass territories.  
 Here’s some time very well spent!@cyberlife-musicBoth DJ and producer inspired by a wide range of electronic genres, between Dub Techno, IDM, Drum & Bass, tribalistic World Music, Ambient, Trip-Hop & psychedelic music.  
 Cyberlife, who got rooted years ago in the techno culture, brings the ambition to shape a very personal style, surfing on forward thinking, psychedelic, hypnotic and melancholic vibes. By applying layers of effects on stretched field recordings or destructured analogue synth jams on a large scale of tempos, the exploration of the meanders of the matrix of electronic music defines his director line, with an aim to find transcendence and reveal a futuristic and organic universe rooted to some old school influences. Don’t look for the nerd behind this name, keep the mystery and unpredictability, and share a musical mindtrip.Facebook: https://www.facebook.com/cyberlife.music  

@@ -20,8 +20,10 @@ description: >-
 published: true
 tags: Raveeee
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-283-soosee-cue&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Soosee Cue dropping 68′ of rave euphoria – an energising trip down the Hardcore Continuum!Have pHun in this mix of Breakbeat, Dubstep, Speed Garage, Hardcore and Jungle Tekno.We came across Soosee via her incredible recent mix for the @sisu\_crew fundraiser for Southall Black Sisters – https://southallblacksisters.org.uk. Hearing such versatility sparked our attention!@SooseeCueProving that you’re never too old, a late starter in playing out, London-based Soosee Cue loves to select, mix and spin tunes for dance floors home and away.Most loved by those movers and groovers eager to shake their thang to something raucous…In May this year Soosee was thrilled to become a Core DJ for Sisu, a community providing a platform to educate, inspire and showcase aspiring female, female-identifying and non-binary DJs and music producers.https://www.sisucrew.co.uk  
-  
+<iframe loading="lazy" title="Soosee Cue" width="200" height="250" src="https://www.mixcloud.com/widget/follow/?u=https%3A%2F%2Fwww.mixcloud.com%2FSooseeCue%2F" frameborder="0"></iframe>  
 https://www.open.spotify.com/SooseeCue  
 https://www.facebook.com/SooseeCue  
 https://www.residentadvisor.net/dj/sooseecue  

@@ -19,5 +19,7 @@ description: >-
 published: true
 tags: Bass
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-241-korzi&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 A little bit of this, a little bit of that.This transmission is a compilation of all sorts of bass-weight, techno and general two footed slide tackles that sum up what Manchester-based Korzi has been up too. Lots of new material from friends, family and himself in this one, something Korzi is noted for as he cements his lap-time on the UK DJ circuit.https://www.facebook.com/korzimusicLeft, Right & Centre / Harmless Youth / Limbo RadioTracklist:  
 \-undisclosed-www.loose-lips.co.uk

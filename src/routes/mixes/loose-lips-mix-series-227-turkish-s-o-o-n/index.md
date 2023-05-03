@@ -19,8 +19,10 @@ description: >-
 published: true
 tags: Smooth Grooves
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-227-turkish-soon&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Recorded through the smoke from Turkish’s front room in SE London, this mix deviates from his usual speciality to focus more on trippy dance floor tunes, dreaming of playing the interdimensional warm-up slot at the Cabaret Voltaire in Edinburgh.Like a trip to outer space in a cardboard box…@thatmanturk
 
 > [S.O.O.N.](https://threadsradio.com/project/s-o-o-n/)
 
-Performing regularly on @threadsradio, as one half of S.O.O.N, playing jazz and broken beats, Turkish is one hell of a selector.TRACKLIST:Undisclosed.
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“S.O.O.N.” — Threads Radio" src="https://threadsradio.com/project/s-o-o-n/embed/#?secret=GMbcsZLsAE" data-secret="GMbcsZLsAE" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>Performing regularly on @threadsradio, as one half of S.O.O.N, playing jazz and broken beats, Turkish is one hell of a selector.TRACKLIST:Undisclosed.

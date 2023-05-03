@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: UK Rave
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-310-happiness-stan&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Happiness Stan representing Devon’s Road label with a mix consisting of new 165bpm hardcore & jungle tracks.Launching early in 2021, Devon’s Road will feature loads of talented producers who are passionate about rave music and have a clear talent and a unique sound to share!This mix showcases some forthcoming tracks coming out on Devon’s Road in 2021 as well as featuring new music from Happiness Stan, Heny G, E. Hill & Mathieson, Haps & Dubz, Kin, Robin Wylie & J Kenzo & Bedsit Producers!Facebook: www.facebook.com/devonsroadrecordings  
 IG: www.instagram.com/devonsroadrecordingsTRACKLIST:1\. Second Realm (Hardcore Vinylist Records) – E. Hill & Mathieson  
 2\. W.I.L. (Devon’s Road) – Happiness Stan  

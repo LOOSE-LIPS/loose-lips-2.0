@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Riddims
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-249-ekula&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 “Since I’ve been flexing a lot of 140s and own-productions in recent mixes, I decided it would be good to dust off a lot of my ukg, breaks, funky and rave records for an all-vinyl party session. Blood, sweat, tears and a few punched walls went into this thanks to dreaded needle skips, but it finally came together! I’ve featured old tunes, new tunes and 10″ dubplates, so you can expect a mixed bag!” – Ekulahttps://www.facebook.com/EkulaSixSunsetsOne half of the critically-acclaimed dubstep duo, Six Sunsets, Ekula is a multi-genre producer/DJ based in South London. Having completed a US tour as Six Sunsets this year, Ekula boasts a number of high profile bookings including performances at Fabriclondon, Boomtown Fair, Outlook Festival, Rinse FM and Bristol Carnival. Ekula hosts the monthly Six Sunsets show on Sub FM, alongside a breaks and 140 jungle focused club night and Threads Radio show, called All Colours. Releases can be heard via Heavy Traffic Recordings, In:Flux Audio, Pack London and eatmybeat.Tracklist:Blackdown – Wicked Vibes (Horsepower o-g remix) \[Keysound Recordings\]  
 Goldie ft. KRS One – Digital (Armand Van Heldon Mix) \[London Records\]  
 Daluq – Supafine \[Soulja\]  

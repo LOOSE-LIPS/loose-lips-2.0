@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Acid
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-230-dave-nullvoid&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Dave NULL/VOID drops the Acid in its raw and corrosive form, going for a crescendo build up, until rocketing into Acidcore territory for an extremely satisfying visceral effect!@dave-nullvoid aka David Graham is a Glasgow-based DJ and a film-maker who has been running industrial techno night NULL / VOID since July 2017.  
 Their monthly parties (first Sunday of the month in Nice N Sleazys’ basement along with occasional events in other venues) have seen guests such as Christina Sealey of Orphx, Keepsakes, Post Scriptum, Ben Techy, Scenedrone, Duellist, Sluhg, Qual, Soft Riot and JD Twitch of Optimo.  
 David has appeared on online radio shows such as Butterfly Effect and Kenny Campbell’s Industrial Wasteland (both on Fnoob Techno Radio) and has been a resident on Pure Radio Holland’s Retribution Radio Show.  

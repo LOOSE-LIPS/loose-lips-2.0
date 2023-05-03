@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: Eclectronics
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-237-veronica-maximova&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 It’s with great pleasure that we’re inviting Veronica Maximova on our 237th Mix Series!She’s released an amazing LP titled “Computerlove” last year on VOITAX, blending Electro, Synth Pop, Industrial and Experimental.  
 This mix reflects this eclecticism while staying coherent and keeping a storyline.@veronicamaximova  
 www.veronicamaximova.com  

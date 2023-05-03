@@ -20,4 +20,6 @@ description: >-
 published: true
 tags: Techno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-223-trevor-wilkes&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 90 minutes of pumping electro, techno and ravey madness from the man who’ll be playing alongside, and has invited, @medallionman & @kortzer for our Loose Lips showcase gig in Hamilton, Canada in May!@trevor-wilkesTrevor is a legend, renowned for being an incredibly unique DJ, slamming tunes together in no-nonsense fashion.Make sure to check out the live streams he hosts – every Friday @ Noon EST (-5 GMT) @ www.facebook.com/FitMBleepRadio.“I live in Canada (Hamilton, Ontario), but all the music I like and the people associated with it are far away. Everything I do is an attempt to make the world a smaller place for like minded people.”TRACKLIST:Undisclosed.

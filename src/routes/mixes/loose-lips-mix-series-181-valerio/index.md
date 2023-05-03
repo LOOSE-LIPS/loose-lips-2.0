@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: Techno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-181-valerio&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 @valerio-moscaritoloWith releases on labels such as Variant Electronic and Shape of Void, Valerio here creeps through the gears into a flourish of high-energy techno…TRACKLIST:1 – Mattias Fridell – Negligera Allt  
 2 – Below Surface & Tension – Room Concept  
 3 – Zenker Brothers – Mintro  

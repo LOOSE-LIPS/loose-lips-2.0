@@ -19,8 +19,10 @@ description: >-
 published: true
 tags: Out of Body Pop
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-289-will-soers&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Stepping up for a debut mix, after two years as a Loose Lips editor and one year on Threads radio, we have boyDrama himself, Will Soer.@willsoerThis mix distills ‘Out Of Body Pop’, the genrescape coined and explored by Soer’s Threads Radio show and blog, music that balances 4am oddness and emotive warmth.https://outofbodypop.wordpress.com  
-Recorded in one, unplanned take, it features out of body icons such as Shanti Celeste, Fatima and Phoebe Bridgers (via Better Oblivion Community Centre), alongside next-gen jedis Julia Star, Lauryn and McGregor (all of whom have collaborated with Soer on his monthly Deep Cuts articles, exploring personal experiences of music).http://loose-lips.co.uk/blog/connectionTRACKLIST:Notice Me – Julia Star  
+<iframe loading="lazy" title="Will Soer" width="200" height="250" src="https://www.mixcloud.com/widget/follow/?u=https%3A%2F%2Fwww.mixcloud.com%2Fwill-soer%2F" frameborder="0"></iframe>Recorded in one, unplanned take, it features out of body icons such as Shanti Celeste, Fatima and Phoebe Bridgers (via Better Oblivion Community Centre), alongside next-gen jedis Julia Star, Lauryn and McGregor (all of whom have collaborated with Soer on his monthly Deep Cuts articles, exploring personal experiences of music).http://loose-lips.co.uk/blog/connectionTRACKLIST:Notice Me – Julia Star  
 Sleepwalkin’ (Daydreamin’ Version) – Better Oblivion Community Center  
 Strung Up – Shanti Celeste  
 Midnight – Coldplay  

@@ -1,15 +1,8 @@
 <script lang="ts">
-  import { onMount } from "svelte";
-
-  import { environment } from "$environment/environment";
-
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import RecommendedPostContainer from "$lib/shared/components/recommended-posts/RecommendedPostsContainer.svelte";
 
   import { blogTypeDate } from "$utils/date-formatters";
-  import { readingTime } from "$lib/utils/reading-time";
-  import RecentPostsContainer from "$lib/shared/components/recent-posts-container/RecentPostsContainer.svelte";
-  import RecommendedPost from "$lib/shared/components/recommended-post/RecommendedPost.svelte";
 
   export let blogs;
   export let tags = [];

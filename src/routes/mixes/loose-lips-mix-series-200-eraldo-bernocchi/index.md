@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: Electronics
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-200-eraldo-bernocchi&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 200 weeks ago, we started a weekly mix series to showcase the DJ escapades (and occasional live sets) of some of our favourite selectors, from across the musical spectrum.  
 200 weeks later, its a chilly Friday lunchtime and we’re just clicking —-UPLOAD—- on a bonkers mix from Eraldo Bernocchi, an inspiring musician, producer and sound sculptor who was the founding member of the experimental 80’s project, Sigillum S, and co-founder of RareNoise Records.@eraldo-bernocchiCheck out this interview we did with Eraldo from over a year ago now – http://loose-lips.co.uk/blog/editors-pick-eraldo-bernocchi-interview.This special mix comes in the lead-up to the release of an evocative soundtrack created by Eraldo for a new documentary film on American artist, Cy Twombly.  
 Imagined and produced by Michele Buongiorno, written and directed by Andrea Bettinetti, Cy Dear was presented privately at the Museum of Modern Art in New York City in the Spring of 2018 and will have its festival premiere this Fall.  

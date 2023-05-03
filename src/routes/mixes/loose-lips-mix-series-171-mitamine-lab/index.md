@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: we love happy hardcore
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-171-mitamine-lab&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Acid, happy hardcore, techno, classics and more…this mix is gonna boost your energy like an awful vegan kombucha wonder drink.https://www.facebook.com/MitamineLabMitamineLab, culture curators from Mexico, Italy & NY. ML is now also a cultural agency dedicated to consultancy, management, communication, mediation and strategies for cultural and artistic projects + a radio show in different platforms all around the world, including Ibero909FM in Mexico City and Resonance EXTRA in London. This mix was cooked by Mim, main head behind Mitamine, art historian, audiovisual artist and independent cultural manager/consultant based in CDMX – not a DJ, just a sarcastic female selector with a very eclectic style.TRACKLIST:Joan La Barbara – Calligraphy II / Shadows  
 Tontos Expanding Head Band – Riversong  
 David Hudson – Kadimakara  

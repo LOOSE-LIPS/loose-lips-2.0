@@ -18,5 +18,7 @@ description: >-
 published: true
 tags: Acid Grooves
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-303-mat-satin&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Magic number 303! Mat Satin extracted an 80%-proof acid solution from his wax collection. Squelches, smooth pads, bleeps…too many ingredients to mention! Have pHun!TRACKLIST:  
 – undisclosed –www.loose-lips.co.uk

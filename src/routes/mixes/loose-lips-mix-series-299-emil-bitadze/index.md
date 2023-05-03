@@ -18,5 +18,7 @@ description: >-
 published: true
 tags: Soulful Bleep
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/emil-bitadze-299-loose-lips-mix-series&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Introduced to us by our dear friend @ricocasazza after a tour in Georgia, Tbilisi-based Emil Bitadze distils a crystal clear, soulful, bleepy house and techno set. Enjoy!@emilbitadzeTRACKLIST:  
 – undisclosed –www.loose-lips.co.uk

@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Eclectronics
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-288-dj-lynce&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 We’re inviting you to dive into this out-of-time mix from Portuguese DJ and avid record collector, DJ Lynce. Digging from obscure lo-fi electronic dub through to early electro gems and many other fascinating pieces of music that defy genres and classification.@pedrosantosAlthough this may sound paradoxical, DJ Lynce embodies both the character of the ultimate anti-DJ and of a definite “must-to” within the city’s musical scene.Owner of a rather idiosyncratic record collection which he de-manipulates with a faultless technique, Lynce’s peculiarity creates something intelligible and poetic to mould around a club goers expectations.This method of operations has produced some really oblique and one-of-a-kind DJ sets; sound pieces that translate to Portuguese the motto “for those who know”.https://www.instagram.com/\_lynce\_  
 https://www.facebook.com/pedrosantospmssTRACKLIST:DSIP – Take Care Dear!  
 1991 – Distortion Of Time  

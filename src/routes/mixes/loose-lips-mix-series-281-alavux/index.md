@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Electrotechno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-281-alavux&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Up next in this weekly series of sensations, we have a great friend and producer of sublime Electro & Techno!Look forward to a balanced dosage of machine funk and raw power, in this mix made up mostly of his own Alavux unreleased material!@alavux“I’ve been effin’ with Alavux musically for a couple of years now. I even interviewed him back when I was conducting interviews with electro scenesters on a semi-regular basis. What I most dig about the brother is his gritty raw take on warehouse music – his beats don’t sound like they were meticulously crafted in some cold dark laboratory; they sound like they were made by a man who pounded back a pint or two, lit a blunt and worked the f–k out of his gear. Pure passion, designed to keep asses movin’ on the dancefloor. This music transcends techno or electro – it’s for kopfickers and booty shakers, and demands to be played loud.” By Madden Wachsenhoff (www.djmadwax.com)TRACKLIST:1\. Alavux – Airlock Door  
 2\. Alavux – Flight Reverb  
 3\. Alavux – Phase 01  

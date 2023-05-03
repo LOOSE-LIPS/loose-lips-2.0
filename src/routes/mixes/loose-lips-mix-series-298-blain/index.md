@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: DnB
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-298-blain&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Having spent the last few years working behind the scenes at Loose Lips, it was about time Blain got behind the decks! Our DnB savant, who’s running our weekly DnB Fix feature, steps up to the plate with the 174bpm bangers.https://www.instagram.com/blaintingsExpect to find dark in the light and light in the dark…TRACKLIST:  
 Tropical (Napes Bootleg) – SL  
 Seeds of Change – Dawn Wall  

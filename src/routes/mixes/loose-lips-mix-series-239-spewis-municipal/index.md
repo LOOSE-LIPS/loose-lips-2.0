@@ -19,5 +19,7 @@ description: >-
 published: true
 tags: Techno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-239-spewis-municipal&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Interesting sound design within the infinite realm of that thing we call ‘techno’, from a man well respected for his unique warm-up sets at the Municipal parties in Newcastle.@spewisTracklist:  
 \-undisclosed-www.loose-lips.co.uk

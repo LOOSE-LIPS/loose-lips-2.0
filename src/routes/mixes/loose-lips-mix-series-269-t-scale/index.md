@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Feral Bass
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-269-t-scale&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Our very own resident, our very own head of website & content mgmt, our very own Belgian Grime fanatic…eventually joins into the bloody mix series!@jef-t-scale“This mix is at midway between what I play in clubs and the shit you can expect if you hang out with me”As a producer, remixer and DJ involved with Threads Radio where he also co-hosts a show, one of the heads of Loose Lips, Pure Data tutor, as well as co-founder of forward-thinking record label Faster Than Music, Belgian-born T-Scale is one of those multi-talented, hard-working activists who acts on all fronts, having also built a solid reputation as a quality selector with gigs all over the UK and Europe, combined with an output of outstanding productions and remixes.Always seeking new musical grounds and known for his attention to details and mutant approach to music, he has released and remixed, sometimes under different aliases such as Wade Watts and Sine Labs, on labels such as Dionysian Mysteries, Rodz-Konez, Reposition, Loose Lips, LOST EARS, Black Leather Records, post-label, Electric Bacon Records, Mottomotto, Strict Tempo, GroundzeroTeknocamp and Faster Than Music.fasterthanmusic.bandcamp.comTRACKLIST:Intro  
 Reinartz – In  
 Mosca – Swann Morton  

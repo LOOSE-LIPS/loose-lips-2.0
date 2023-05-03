@@ -24,6 +24,8 @@ description: >-
 published: true
 tags: Electro
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-248-posthuman&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 In anticipation of our 5th anniversary legs in Lisbon and Paris this weekend, @posthuman graces us with a fiery mix of Electro, Acid, Breaks, Juke and Rave music! Oi Oiiii!!!LISBON — https://www.facebook.com/events/524855711606771  
 PARIS — https://www.facebook.com/events/2382644558618585A modern spearhead of Acid House, resident & boss at long-running club night & vinyl-only label ‘I Love Acid”, and also running Balkan Vinyl.Joshu has run well over a hundred parties since 2007 across the UK & Europe – with current regular residencies at Pickle Factory in London and Gorilla in Manchester.The duo have an extensive back catalogue of 12″s on labels the like of Tusk Wax, X-Kalay, Dixon Avenue Basement Jams, Body Work, Craigie Knowes, Shipwrec, Chiwax, Acid Avengers, B12 Records as well as their own imprints.Tracklist:Exakt & Hyde – I Am The Enemy  
 B Calloway – Shake That Body  
