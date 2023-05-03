@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Broken Beat
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-w-paxman-verrell-watch-the-hype&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 @verrelluk @noodsradio
 
 Getting into gear with our new radio residency in Bristol on Noods Radio, hosted by @paxmanmcr. Off the back of a very heavy Loose Lips weekend, with events in Manny & Bristol, resident Paxman somehow kept it together…

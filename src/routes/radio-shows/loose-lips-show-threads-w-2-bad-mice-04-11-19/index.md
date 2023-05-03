@@ -23,6 +23,8 @@ description: >-
 published: true
 tags: Hardcore
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-2-bad-mice-041119&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Hands down, one of the most fun shows we’ve ever hosted. Legends in the room, jokes flowing!
 
 2 Bad Mice joined us on @threadsradio, ahead of their appearance for our forthcoming 5th Anniversary party in Manchester – https://www.facebook.com/events/2651560191543452.

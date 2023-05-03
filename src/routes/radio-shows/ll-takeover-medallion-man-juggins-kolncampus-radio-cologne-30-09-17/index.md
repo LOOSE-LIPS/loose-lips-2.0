@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: House
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/ll-takeover-medallion-man-juggins-kolncampus-radio-cologne-300917&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 After their recent gig in Cologne, 2 of our residents headed down to Kolncampus for a guest mix and some chat!
 
 http://loose-lips.co.uk  

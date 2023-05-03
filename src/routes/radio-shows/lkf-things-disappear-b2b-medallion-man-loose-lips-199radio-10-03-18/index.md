@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: Rave
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/lkf-things-disappear-b2b-medallion-man-loose-lips-199radio-100318&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Saturday morning madness from two of 199radio’s main idiots.
 
 https://www.facebook.com/thingsdisappear  

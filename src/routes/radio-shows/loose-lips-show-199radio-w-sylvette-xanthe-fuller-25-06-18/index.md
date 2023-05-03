@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: Acoustic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-sylvette-xanthe-fuller-250618&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 A really special show for you here.
 
 It all kicked off with Charlie from Sylvette who chatted to us about the band’s brand new release and Manchester’s up & downs, followed by a really impressive live studio performance.

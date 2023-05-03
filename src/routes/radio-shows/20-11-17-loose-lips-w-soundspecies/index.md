@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Electronic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/199radio/201117-loose-lips-w-soundspecies&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 The Loose Lips show with your host Medallion Man. This week we have DJ/musician/producer brothers Henry and Oliver Keen, also known as Soundspecies. They sat down to chat about their fascinating mix of electronic experimentation and traditional rhythmic percussion, alongside tales of their musical collaborations in Cuba.
 
 http://loose-lips.co.uk  

@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: Techno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-dog-eyes-full-show-takeover-08-jun-20&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Loose Lips resident weirdo and Index Tapes founder Dog Eyes steps in this week for two hours of noisy UK techno bangers, showcasing Untold’s Pennyroyal label and featuring music from the likes of Cadans and Randomer, and a remix of a Death Grips classic. Dedicated to Jeorgia.
 
 @loose-lips123  

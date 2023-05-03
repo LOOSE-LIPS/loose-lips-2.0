@@ -18,6 +18,8 @@ description: >-
 published: true
 tags: Techno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-physik-25-may-20&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Bristol-based Physik takes over from Loose Lips with some tasty techno ticklers!
 
 Bristol-based Physik takes over from Loose Lips with some tasty techno ticklers!

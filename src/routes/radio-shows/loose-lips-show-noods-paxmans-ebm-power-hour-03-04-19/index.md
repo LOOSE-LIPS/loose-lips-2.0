@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: EBM
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-w-paxman-ebm-power-hour-noods-radio&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 @noodsradio @paxmanmcr
 
 Resident Paxman kicks off a new radio residency on Bristol based Noods Radio. This show delved into his EBM collection to find all things aggressive, arpeggiated, and most importantly, anything with a massive snare on the 2nd & 4th!

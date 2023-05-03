@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: Rinse FM
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/rinsefm/looselips291119?in=loose-lips123/sets/radioshows&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 with Medallion Man, Blackdown, Rommek, Kortzer, Ganesa, Footsoldier, T-Scale & Paxman (Hosted by Treece & Koast MC)
 
 Rinse FM Boxing Day 2019 @ XOYO – Tickets: smarturl.it/boxingday\_19

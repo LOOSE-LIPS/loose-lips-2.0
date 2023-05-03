@@ -25,6 +25,8 @@ description: >-
 published: true
 tags: Hip Hop
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/ll-show-199radio-w-cotd-danny-lover-lee-scott-lukey-luscious-salar-slumrok-300418&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 A special special show….
 
 Mid their debut UK tour, and in anticipation of their debut album, some of the legendary ‘Cult of The Damned’ joined Loose Lips to chat shit, freestyle and discuss the adventures.

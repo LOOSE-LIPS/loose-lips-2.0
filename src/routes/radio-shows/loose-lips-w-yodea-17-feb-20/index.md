@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Weatherall
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-yodea-17-feb-20&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Yodea in the studio with @medallionman, ahead of @loose-lips123 @ Viva Dalston this Friday 21st Feb!
 
 Look forward to acid, trip-hop, garage, industrial…and a Weatherall tribute, to wave goodbye to a man whose impact on the musical landscapes around us will stay with us forever.

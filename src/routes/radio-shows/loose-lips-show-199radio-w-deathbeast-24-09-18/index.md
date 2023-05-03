@@ -20,6 +20,10 @@ description: >-
 published: true
 tags: Psychedelia
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-deathbeast-240918&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Having recently mixed the 184th edition of our Loose Lips mix series, started to write for the blog, and played at our recent Arts Emergency fundraiser all-dayer at Grow Hackney, having Deathbeast as guest on the LL show was that final step of true true initiation…
+
+<iframe loading="lazy" title="Loose Lips Mix Series - 184 - Electric Nougat by Loose Lips" width="640" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F495793863&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>
 
 Release of the week = https://defendersofstyle.bandcamp.com/album/dirty-sterling

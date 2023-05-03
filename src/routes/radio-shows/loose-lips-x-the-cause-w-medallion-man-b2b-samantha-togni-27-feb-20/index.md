@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: Rave
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-x-the-cause-w-medallion-man-b2b-samantha-togni-27-feb-20&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Ahead of this Friday’s event at The Cause, two of the line-up’s DJs come together for their first ever b2b to whet your appetite for what is sure to be a mad night!
 
 https://www.facebook.com/events/2681150108779501

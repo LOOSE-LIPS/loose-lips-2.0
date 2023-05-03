@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: We Are The Robots
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-medallion-man-11-may-20&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Back at the wheel, @medallionman takes the reigns of the @loose-lips123 show, hosting it for the first time during isolation.
 
 What a Devonian diva! 2 hours of selections spanning eccentric electro, Kanye West & some new grimey numbers.
