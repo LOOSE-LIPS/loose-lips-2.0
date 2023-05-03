@@ -1,17 +1,9 @@
 <script lang="ts">
   import { onMount } from "svelte";
 
-  // Environment
   import { environment } from "$environment/environment";
 
-  // Models
-
-  // Components
   import HeadTags from "$components/head-tags/HeadTags.svelte";
-  //   import ExternalLink from "$ui/components/external-link/ExternalLink.svelte";
-  //   import ShareButtons from "$ui/components/share-buttons/ShareButtons.svelte";
-  //   import NextArticle from "$ui/components/next-article/NextArticle.svelte";
-  //   import TagsContainer from "$ui/components/tags-container/TagsContainer.svelte";
   import RecommendedPostContainer from "$lib/shared/components/recommended-posts/RecommendedPostsContainer.svelte";
 
   // Utils
@@ -19,8 +11,7 @@
   import { readingTime } from "$lib/utils/reading-time";
   import RecentPostsContainer from "$lib/shared/components/recent-posts-container/RecentPostsContainer.svelte";
   import RecommendedPost from "$lib/shared/components/recommended-post/RecommendedPost.svelte";
-  //   import RecommendedPostsContainer from "$shared/components/recommended-posts/RecommendedPostsContainer.svelte";
-  //   import { blogTags } from "$lib/data/tags";
+
   export let blogs;
   // Exports
   export let tags = [];
