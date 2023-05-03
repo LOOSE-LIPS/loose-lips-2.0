@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Freeform
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-315-francis-redman&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Following his recent PICKS on our blog, Francis Redman conjures a series of ethereal musical landscapes punctuated by intricate rhythms and warm grooves!francisredman.com/dj  
 troubleinutopia.com  
 loose-lips.co.uk/blog/francis-redmans-hopeful-dawn“In some respects this mix jumps off from my Hopeful Dawn picks for Loose Lips earlier this month; like most people I have been concerned with what has been going on in the world in recent times – there is a lot to worry about, but there are also always things to rouse us with hope.On my Threads Radio Show I have been engaging with thoughts about nature recently – and more specifically our relationship with it. These are the things I was thinking about as I put this together – as we approach another spring in this turbulent stasis we find ourselves in. ”Francis Redman is a broadcaster and DJ, he presents a monthly show on Threads Radio and runs a small record label called Trouble in Utopia.Photo Credit: georginacook.netTRACKLIST:Ellen Arkbro – For Organ and Brass  

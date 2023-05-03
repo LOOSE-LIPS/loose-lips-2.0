@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: Cinema
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/denovali-286-loose-lips-mix-series&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Lock in for 66′ of cinematic, emotional music – courtesy of a truly inspiration label. Enjoy this sonic film!@denovaliDenovali Records is an independent record label founded in 2005. The program of Denovali covers ambient, electronica, experimental, drone, jazz, modern composition & sound art.Since 2007 they have curated and organised international music festivals, and in line with the start of the label activities in 2005, Denovali opened an online record store also featuring records from other record labels.https://denovali.comTRACKLIST:01\. Bersarin Quartett – Prolog  
 02\. Dictaphone – Opening Night  
 03\. The Kilimanjaro Darkjazz Ensemble – Giallo  

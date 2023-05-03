@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: Electro
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-258-timothy-j-fairplay&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 For today’s edition of our Mix Series we have analog don Timothy J. Fairplay delivering an hour long electro mix that includes a wonderful array of tracks ranging from the 80s, 90s & 00s, through to current tracks.@timothy-j-fairplayTimothy describes his electro sets as generally having a ‘Detroit-like feel’, regardless of the origin of songs. He singles out the AS1 track by Arnold Steiner, in this mix, whose release on Metroplex has been a favourite of his for the past couple of years. Also, Timothy drew special attention to the last two tracks by DJ Maaco, a producer who he holds in high regard who is part of Cybotron’s touring lineup.https://www.facebook.com/timothyfairplay  
 [Tweets by TimothyFairplay](https://twitter.com/TimothyFairplay?ref_src=twsrc%5Etfw)  
 https://www.instagram.com/juniorfairplayTracklist:Orgue Electronique – The Eye That Never Sleeps A2  

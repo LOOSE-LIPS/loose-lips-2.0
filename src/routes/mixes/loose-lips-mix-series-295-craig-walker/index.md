@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Rave
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-295-craig-walker&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Fresh from releasing a steaming basement techno number on @leftrightandcentreuk (which we premiered: http://loose-lips.co.uk/blog/craig-walker-urgent-matter-lrc002), Craig Walker here blends up a one hour selection of rave-infused music for you to smash your sitting room up to!@craigwalkermusic“I basically went into a mix thinking what would it be like to go clubbing again – deep basslines, crazy hi-hat structures and peak time euphoria was what I was aiming to go for in this mix. Selecting those certain tunes that would do it for me in a club. Featuring new music from Mani Festo, Korzi, Kessler, Mystique and my new single out now on Left, Right & Centre.”TRACKLIST:  
 1\. Laurel Halo – Hot Style \[Mother’s Finest\]  
 2\. Reptant – Monolith \[Planet Euphorique\]  

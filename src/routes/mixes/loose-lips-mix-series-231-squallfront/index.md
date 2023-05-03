@@ -19,4 +19,6 @@ description: >-
 published: true
 tags: Multi-genre
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-231-squallfront&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Here’s an ultra-varied selection ready to tingle your cortex for the next couple hours!@eckerecords @xantraxmusic @johnnycounceEcke Records’ duo Squallfront join the Loose Lips Mix Series with an array of their favourite tunes – expect classics, chillers & experimental cuts, taking you over 2 hours.TRACKLIST:Undisclosed.

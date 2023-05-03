@@ -20,8 +20,10 @@ description: >-
 published: true
 tags: Eclectic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-182-max-mason&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 “After 6 months of travel, I have arrived in Hanoi.It only seemed fair to share some of the tracks I’ve picked up from Berlin, Indo and Japan, and to include a remix I’m working on at the moment.An everything goes mix – just the way I like it.”https://www.facebook.com/maxmasonmusic  
-TRACKLIST:Good Life (Ian’s La Buena Vida En Notas Mix)- Ian Pooley  
+<iframe loading="lazy" title="Max Mason" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F11492249&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>TRACKLIST:Good Life (Ian’s La Buena Vida En Notas Mix)- Ian Pooley  
 Look How Hard I’ve Tried – Barker  
 Voids Two – Martyn  
 ?? – Rap Roulette  

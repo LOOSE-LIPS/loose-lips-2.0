@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: House
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-263-ballsdeep&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 On our next entry, Yourboybarold & PlayingWithScissors representing Ballsdeep showcase their deep groovy underground sound!Putting on decisively different parties in and around London for 10 years. From forest’s to warehouse, clubs to old kebab shops.  
 Ballsdeep’s began in The Foundry in north London with the ethos of ‘For Friends by Friends’ and have continued to keep that all ‘friends inside’ atmosphere in their parties.  
 A monthly radio show on Threads plus gigs at The cause, Egg LDN, number 90 and more showing that underground deep sound is still prominent in the capital!TRACKLIST:  

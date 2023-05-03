@@ -114,6 +114,7 @@ for (let i = 1; i < totalPages; i++) {
               tags: tags,
             };
             const turndownService = new TurndownService();
+            turndownService.keep(["pre", "iframe"]);
             turndownService.addRule("new rule", {
               filter: "p",
               replacement: function (content) {
@@ -124,8 +125,17 @@ for (let i = 1; i < totalPages; i++) {
                 }
               },
             });
-
-            const markdownString = turndownService.turndown(
+            const widget = `<iframe id="sc-widget"
+            title="title"
+            width="100"
+            height="160"
+            scrolling="no"
+            frameborder="yes"
+            allow="autoplay"
+            src=${iframeLink}></iframe>`;
+            const testWidget = "<h1>hello</h1>";
+            const widgetMarkdown = turndownService.turndown(widget);
+            const contentMarkdown = turndownService.turndown(
               mix.content.rendered
             );
 
@@ -142,10 +152,13 @@ for (let i = 1; i < totalPages; i++) {
             console.log(`writing to: ${folderDirectory}`);
             fs.writeFileSync(
               path.join(folderDirectory, "index.md"),
-              "---\n" + yamlData.trim() + "\n---\n" + markdownString
+              "---\n" +
+                yamlData.trim() +
+                "\n---\n" +
+                widgetMarkdown +
+                "\n---\n" +
+                contentMarkdown
             );
-
-            console.log(res.tags);
           })
           .catch(() => {
             null;

@@ -19,5 +19,7 @@ description: >-
 published: true
 tags: Swag
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-280-catle&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Our 280th is from CA$TLE! One of our editorial’s writers, who we met through @ekula\_sixsunsets introducing us to his sick productions.@cazzztleCA$TLE’s paused his isolation-encouraged production schedule for this Loose Lips journey. He’s never been about genre.TRACKLIST:  
 – see instagram.com/cazzztle –www.loose-lips.co.uk

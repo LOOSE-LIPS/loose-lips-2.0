@@ -20,11 +20,7 @@ description: >-
 published: true
 tags: Electronic
 ---
-A moody, mischievous mix from the founder of Silent Kraft, one of Rennes’ most popular club nights, which our residents @medallionman & @rommek were lucky enough to play at a few years back!
-
-  
-https://www.facebook.com/silentkraft
-
-TRACKLIST:
-
-Undisclosed.
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-197-julien-de-castilho&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
+A moody, mischievous mix from the founder of Silent Kraft, one of Rennes’ most popular club nights, which our residents @medallionman & @rommek were lucky enough to play at a few years back!<iframe loading="lazy" title="Julien de Castilho" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F9434442&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>  
+https://www.facebook.com/silentkraftTRACKLIST:Undisclosed.

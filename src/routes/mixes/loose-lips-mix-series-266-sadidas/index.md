@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: Bass
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/sadidas-266-loose-lips-mix-series&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 For the 266th installment of our Mix Series, we’re welcoming sadidas for 35′ of Bass-orientated dancefloor music!@sadidascreps  
 https://www.instagram.com/sadidas.crepsLondon-bred DJ sadidas came up through the queer club world.  
 From residenting at Dalston Superstore and playing naughty warehouse raves like Big Dyke Energy to DJing cyphers with the likes of Flirta D at Jungle Jam, she brings big bassy bangers at the 140 mark, digging up the wildest sounds that will have you skankin all night long.TRACKLIST:  

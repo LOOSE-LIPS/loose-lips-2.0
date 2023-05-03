@@ -19,4 +19,6 @@ description: >-
 published: true
 tags: Techno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-169-gambeat&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 A year or so ago, Deep Emotions Collective, a Birmingham-based techno outfit invited our residents @rommek & @medallionman to play at Spotlight in the UK’s 2nd capital.Gambeat especially impressed us that night and so we’re now delighted to release a vinyl mix from the Voyager Podcast founder.TRACKLIST:Undisclosed.

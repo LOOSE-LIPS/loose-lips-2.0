@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Neuro Flex
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-287-glass&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 We’re excited to have french duo Glass on this new Mix Series edition! They’ve cooked up this 60′ dish of brain melting, limb flexing, neuro gymnastic music for your own enjoyment!It’s also a pleasure to have them feature on our forthcoming LL017 V/A coming out this Friday 10.07, in aid of Ruff Sqwad Arts Foundation – https://www.ruffsqwadarts.org/about. Check out the release here – https://looselips123.bandcamp.com.@glassglassmusicGlass is a production team based in Caen, France, due to debut on OOH-sounds next September with a new EP.Check their latest release ‘Postlexia’ on CSR : https://comicsansrecords.bandcamp.com/track/postlexiaand their previous EP ‘L.U.C.A’ on Santé Records:  
 https://santerecords.bandcamp.com/album/glass-l-u-c-a-ep-srd003https://www.facebook.com/glassglassmusic  
 https://www.instagram.com/glassglassmusic  

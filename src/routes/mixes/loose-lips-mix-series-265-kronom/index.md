@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Industrial
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-265-kronom&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Our 265th entry sees Macedonian rising talent and noise fanatic Kronom deploy his arsenal of distorted rhythms and bleak dystopian textures for 90′!@kronombassKronom is a Skopje based producer that specialises in creating concrete percussion and cavernous synths with his guitar pedals, recorder and tape deck.Having started producing music at the age of 13 and DJ’ing later on, his sets have evolved into a hectic combination of multi-genre face melters, broken rhythms and industrial textures, meanwhile gaining support and playing alongside such names as Pessimist, Eomac, Ancient Methods, Ontal, Rommek, Shifted, Drew McDowall, Sim Hutchins and more.He’s also a co-founder of the Skopje-based forward thinking electronic music label “Faster Than Music”, part of the “Btkrsh” collective and Macedonia’s transmutative, multidisciplinary “Desonanz Festival”.@fasterthanmusic  
 https://fasterthanmusic.bandcamp.com  
 https://www.facebook.com/fasterthanmusic  

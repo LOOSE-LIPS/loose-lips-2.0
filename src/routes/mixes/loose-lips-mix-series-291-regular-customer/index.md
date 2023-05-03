@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Steamwave
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-291-regular-customer&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Regular Customer is no stranger to Loose Lips! As well as being Kozber and 1/2 of Bonasforsa with Rico Casazza, who we’ve covered quite extensively, he’s also been working with us on several releases as our mastering engineer, including both our latest LL017 and LL018 (check: https://bit.ly/2XN6w1U).Here, we’re driven along a twisted 45 minute road of technoid, vaporwave and leftfield electronics.@regularcustomer  
 @sirius  
 @bonasforsaSirustudio, mastering studio:  

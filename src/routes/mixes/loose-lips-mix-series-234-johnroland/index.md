@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Bass
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-234-johnroland&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 An ecstatic journey through breaks, bass and beyond from the guys behind Digital Distortions!“A bunch of tracks played one after the other in a sequence designed  
 to make a dancefloor wobble and groove.”https://www.facebook.com/JohnandRoland  
 https://digitaldistortions.co.ukTRACKLIST:Undisclosed.www.loose-lips.co.uk

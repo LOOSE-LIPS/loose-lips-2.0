@@ -19,5 +19,7 @@ description: >-
 published: true
 tags: 0-800-CH4LKY
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-294-chalky&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Blood, sweat, tears, 30 quid and a total of 12 well spent hours went into putting this mix together. And it shows – the mysterious Chalky gets things done on our 294th Mix Series!@chalkyyyyyVarying from EBM to Electro and Rhythmic Noise, Breaks to Techno, Jungle and Happy Hardcore, these 104′ surely can easily summon your inner tireless child.TRACKLIST:  
 – undisclosed –www.loose-lips.co.uk

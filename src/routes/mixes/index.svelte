@@ -11,7 +11,6 @@
   }
 </script>
 
-
 <script lang="ts">
   import HeadTags from "$components/head-tags/HeadTags.svelte";
   import type { IMetaTagProperties } from "$models/interfaces/imeta-tag-properties.interface";
@@ -52,8 +51,6 @@
       return selectedTags.includes(x.tags);
     });
   };
-  console.log(visible);
-  console.log("test");
 </script>
 
 <HeadTags {metaData} />

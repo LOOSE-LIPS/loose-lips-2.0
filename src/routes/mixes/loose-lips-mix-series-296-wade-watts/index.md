@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: VGM & Breaks
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-296-wade-watts&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 A virtual character our resident @jef-t-scale has encountered throughout the years…now summoned here for a 1h exploration of video game music, this mysterious character’s released and unreleased productions, topped off with some classic Baltimore breaks!@wade-watts“My existence pre-dates Ernest Cline’s bestseller Ready Player One as some of the music has been made before that biographic book (which contains many flaws). I don’t understand the notion of time, but a lot of my data re-collection comes from a period when some people played Megadrive and performed a dance where they threw themselves on the floor and spin, B-Boy or something like that. I hope that one day I will get out of the virtual world I’m born in and be able to sense reality like you, because it looks fucking peng. In the meantime, here’s a retro-future mix for you.”TRACKLIST:Wade Watts – LDN01 (unreleased)   
 John Baker – Funkotronic Beat (Sega)  
 Michael Jackson & Bruce Broughton – Bad (Sega)  

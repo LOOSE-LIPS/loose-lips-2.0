@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: Bass
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-185-protone&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Forward thinking audio-visual UK Bass…https://www.facebook.com/protonemusicTRACKLIST:1\. Hodge x Ishan Sound – C5 \[Tectonic\]  
 2\. Sensei – Trials Ft. Rakjay \[Glome Sound\]  
 3\. Denham Audio & Serocee – Masta Blastah (Caski Rmx) \[Durlke Disco\]  

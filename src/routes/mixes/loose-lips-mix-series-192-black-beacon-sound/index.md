@@ -20,19 +20,9 @@ description: >-
 published: true
 tags: live
 ---
-Benny and Toby have constructed loads of little loops, broken them down into their component parts, then put them back together, kind of like a musical jigsaw, to create a unique, one-off continual mix of music.
-
-They’ve done two before, at 110bpm and 120bpm as Nord Suburban Genossenschaft, but they’re using that name for a more political project now, so this is the first one they’ve done as BBS.
-
-It’s 96bpm all the way through, it’s a moody, heavy beast and it’s right up Loose Lips’ street. A bit wonky and a bit woozy, but still full of grooves!
-
-https://www.facebook.com/blackbeaconsoundintl
-
-Check out our recent interview with them here – http://loose-lips.co.uk/blog/black-beacon-sound.
-
-TRACKLIST: Black Beacon Sound – You Got A Fiver?
-
-1\. Too Many Hills!  
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-192-black-beacon-sound&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
+Benny and Toby have constructed loads of little loops, broken them down into their component parts, then put them back together, kind of like a musical jigsaw, to create a unique, one-off continual mix of music.They’ve done two before, at 110bpm and 120bpm as Nord Suburban Genossenschaft, but they’re using that name for a more political project now, so this is the first one they’ve done as BBS.It’s 96bpm all the way through, it’s a moody, heavy beast and it’s right up Loose Lips’ street. A bit wonky and a bit woozy, but still full of grooves!https://www.facebook.com/blackbeaconsoundintlCheck out our recent interview with them here – http://loose-lips.co.uk/blog/black-beacon-sound.TRACKLIST: Black Beacon Sound – You Got A Fiver?1\. Too Many Hills!  
 2\. Same Journey, Different Life  
 3\. Chloe  
 4\. Positive Vibration  

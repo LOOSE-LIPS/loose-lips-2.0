@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Inverza
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-277-suton&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 We turn to a special guest who we met during our 5th Anniversary tour, when he invited us to collaborate with his Inverza Electronics night in Belgrade! And damn did we have a good time….A brutalist mix fluctuating between Techno, Breaks, Electro and Industrial.@suuutooonSuton is a DJ and producer from Serbia working under different aliases for almost a decade. He is in charge of a newly formed electronic music platform; Inverza. Suton’s approach to music nurtures eclecticism and proper sonic manipulation, in order to craft a unique and ever-moving sound.https://www.facebook.com/inverzaelectronics  
 https://www.instagram.com/inverza\_\_  
 https://www.facebook.com/dnoxmoraTRACKLIST:  

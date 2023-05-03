@@ -19,7 +19,9 @@ description: >-
 published: true
 tags: Techno
 ---
-Paraguayan perfection.Renato kicked it all off in Asunción & Ciudad Del Este before starting to make a name for himself in Buenos Aires in 2017. He’s now released on labels such as 4/4 Deep Culture, DVNTT and Utnd.TRACKLIST:Bis Zum Nächsten Tag – Schwefelgelb (Phase Fatale Remix)  
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-175-renato-silveira&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
+Paraguayan perfection.<iframe loading="lazy" title="RENATO SILVEIRA" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F27805771&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>Renato kicked it all off in Asunción & Ciudad Del Este before starting to make a name for himself in Buenos Aires in 2017. He’s now released on labels such as 4/4 Deep Culture, DVNTT and Utnd.TRACKLIST:Bis Zum Nächsten Tag – Schwefelgelb (Phase Fatale Remix)  
 Mr. Gasmask – Machine Stuermer  
 Giorgio Gigli & VSK – Memories Of An Unconnceted Era  
 Advanced Human – Grinding (Black Hats Remix)  

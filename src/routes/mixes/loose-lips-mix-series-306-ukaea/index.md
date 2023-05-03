@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: CULT
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-306-ukaea&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 UKAEA announces the colour from the get go: here’s a 95 minutes sonic assault of melting, deconstructed industrial badbwoi bizniz!@user-799719556“A patchwork of tracks from the UKAEA album, Energy Is Forever, out now on Hominid Sound; interwoven with friends, influences and inspirations.”Photo credit: Samantha HayleyTRACKLIST:UKAEA – Qandisa  
 Medical Negligence – The Old Contract  
 Harrga – Desert Song  

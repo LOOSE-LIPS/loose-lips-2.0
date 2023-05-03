@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Electronic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-218-gagarin&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Gagarin is the solo incarnation of musician Graham “ Dids” Dowdall – who has a long career of performing and collaborating with the likes of Nico, Pere Ubu, Rothko, Roshi ft Pars Radio, Suns of Arqa and much more. Originally a drummer, as Gagarin he creates music that crosses boundaries from sound art to dance music to free improvisation to ambient.@gagarin-1“This features a few of my own pieces alongside several tracks released recently on Courier Sounds who released my own Phenomenology EP as well as songs that felt they fitted the quickly warming up early spring.”Tracklist:Gagarin – Hogmanay  
 Viridian – Juno  
 Milky Genes – Faint infection  

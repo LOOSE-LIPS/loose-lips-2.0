@@ -19,7 +19,9 @@ description: >-
 published: true
 tags: Techno
 ---
-Rob James is the co-founder of Birmingham Cultural collective ‘Project Birmingham’ and helps run local club night ‘MoodFix’ where he holds a residency. Able to play a range of genres from Funk and Soul to Disco House and Techno, he always try to keep the crowd on their toes and has had the opportunity to play at venues across the country, from Corsica studios to Patterns in Brighton and The Hare and Hounds in Birmingham.  
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-172-rob-james&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
+Rob James is the co-founder of Birmingham Cultural collective ‘Project Birmingham’ and helps run local club night ‘MoodFix’ where he holds a residency. Able to play a range of genres from Funk and Soul to Disco House and Techno, he always try to keep the crowd on their toes and has had the opportunity to play at venues across the country, from Corsica studios to Patterns in Brighton and The Hare and Hounds in Birmingham.<iframe loading="lazy" title="MoodFix" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F145626907&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>  
 https://www.facebook.com/rob.ashby.94  
 https://www.facebook.com/projectbirmingham/This 75 minute mix seems him delve deep into his record collection, playing a mixture of Electro, House and off kilter Techno, inspired by the industrial back drop of the city he loves.TRACKLIST:St Theodore – I Need Ya (Discotopia Edit)  
 St Theodore – For U (KSKY Remix)  

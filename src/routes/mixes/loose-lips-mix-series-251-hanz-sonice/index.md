@@ -18,5 +18,7 @@ description: >-
 published: true
 tags: Rave
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-251-hanz-sonice&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 After having the Loose Lips Mix Series on their hit list for quite some time, Hanz & Sonice collaborate on a mix that sums up their styles in 120 minutes of heat. Without the need for rigorous planning before playing together, this marks a point for the pair where they can promptly, but coherently, lay down a mix and SLOT IT to the highest order.https://www.facebook.com/strangeriddimsLock into Hanz & Sonice’s eclectic styles – the pair have been playing together and individually, for the past 4 years throughout Manchester and beyond, as part of the Strange Riddims Crew. As solo acts they both search far and wide incorporating genres from all over the globe…together they’re a force to be reckoned with!Tracklist:  
 \-undisclosed-www.loose-lips.co.uk

@@ -17,5 +17,7 @@ description: >-
 published: true
 tags: Grime
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-308-asif-kid&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Slimzos releasee and prolific producer AS.IF KID provides this 31′ hyperactive mix of absolutely hard grime beats!@sid-akhurstTRACKLIST:  
 – undisclosed –www.loose-lips.co.uk

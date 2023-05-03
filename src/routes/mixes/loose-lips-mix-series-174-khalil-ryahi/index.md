@@ -20,8 +20,10 @@ description: >-
 published: true
 tags: House
 ---
-Introducing this ‘Infinite Pleasure’ mix from a familiar face in the Dutch nightlife scene, Khalil Ryahi, aka Khalil!  
-TRACKLIST:dreams – underground sky – apron records  
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-174-khalil&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
+Introducing this ‘Infinite Pleasure’ mix from a familiar face in the Dutch nightlife scene, Khalil Ryahi, aka Khalil!<iframe loading="lazy" title="INFINITE PLEASURE" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F138955239&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>  
+<iframe loading="lazy" title="KRY" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F40410&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>TRACKLIST:dreams – underground sky – apron records  
 molinaro – ty – apron records  
 ross from friends – crimson – magicwire  
 unknown – untitled – infinite pleasure (forthcoming)  

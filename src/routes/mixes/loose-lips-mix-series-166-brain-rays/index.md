@@ -19,7 +19,9 @@ description: >-
 published: true
 tags: House
 ---
-To promote the official release of Air Max (feat. Neil Landstrumm) on My Techno Weighs A Ton, forthcoming in the next few days, Brain Rays has put together this ass-shakin’ mix. Featuring both tracks from the forthcoming MTWAT release as well as 2 tracks from an upcoming release with Neil Landstrumm on DJ Haus’ label Unknown to the Unknown. Also features fresh remixes and dubs from the likes of Stoogie Houzer (Bizarre Rituals), Riffs (Colour Blind/Full Fridge) and certified bangers from SHA SHA Kimbo, Le Dom, Fearz, and Altered Natives.A Devonian hero!TRACKLISTOliver Dollar & Daniel Steinberg – Perc it Straight (dub version)  
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-166-brain-rays&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
+To promote the official release of Air Max (feat. Neil Landstrumm) on My Techno Weighs A Ton, forthcoming in the next few days, Brain Rays has put together this ass-shakin’ mix. Featuring both tracks from the forthcoming MTWAT release as well as 2 tracks from an upcoming release with Neil Landstrumm on DJ Haus’ label Unknown to the Unknown. Also features fresh remixes and dubs from the likes of Stoogie Houzer (Bizarre Rituals), Riffs (Colour Blind/Full Fridge) and certified bangers from SHA SHA Kimbo, Le Dom, Fearz, and Altered Natives.<iframe loading="lazy" title="Brain Rays" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F259249952&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>A Devonian hero!TRACKLISTOliver Dollar & Daniel Steinberg – Perc it Straight (dub version)  
 Bodyjack – Brock Out (Unknown to the Unknown)  
 Neil Landstrumm – Rectorate Power (Forthcoming Unknown to the Unknown)  
 Riffs – Paperclip (Deal wit it, Get wit it) (Dub)  

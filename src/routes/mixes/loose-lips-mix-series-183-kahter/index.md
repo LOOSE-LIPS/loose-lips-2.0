@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Electronic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-mix-series-182-kahter&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Kahter is a DJ/Producer based in the South-West of England, making tight, technical and powerful genre-defying tracks set to push any worthy sound system.His contemporary DJ sets provide an insightful and moody curation of techno, dub and grime.@kahterTRACKLIST:1 – Ploy – =O  
 2 – Maribour – Chrominance  
 3- Cabasa – A L’école  
