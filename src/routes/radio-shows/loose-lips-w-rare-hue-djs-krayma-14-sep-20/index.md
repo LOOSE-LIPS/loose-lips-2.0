@@ -18,6 +18,8 @@ description: >-
 published: true
 tags: Live Radio
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-rare-hue-krayma-14-sept-20&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 @loose-lips123 welcome Rare Hue DJs & rapper Krayma onto their weekly Threads show!
 
 Following on from last week’s jam with Repeat Beat Poet, they’ll also be finishing the show on another live session!

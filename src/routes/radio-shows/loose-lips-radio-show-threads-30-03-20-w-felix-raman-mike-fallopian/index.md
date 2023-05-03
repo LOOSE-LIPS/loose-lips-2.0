@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Drum & Bass
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-wfelix-raman-and-mike-fallopian&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Loose Lips resident Felix Raman was joined by Mike Fallopian (returning from his year long hiatus), live from the lockdown in their Homerton abode. A soundtrack to the insanity of isolated days, weeks, months….
 
 @felixstock-1

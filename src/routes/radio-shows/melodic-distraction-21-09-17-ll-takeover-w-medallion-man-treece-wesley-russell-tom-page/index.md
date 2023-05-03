@@ -20,7 +20,11 @@ description: >-
 published: true
 tags: Eclectic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/melodic-distraction-210917-ll-takeover-wmedallion-man-treece-wesley-russell-tom-page?in=loose-lips123/sets/other-radio-shows-residents&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 > [Home](https://melodicdistraction.com/)
+
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="“Home” — Melodic Distraction" src="https://melodicdistraction.com/embed/#?secret=E0OHWOYc50" data-secret="E0OHWOYc50" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 http://loose-lips.co.uk
 

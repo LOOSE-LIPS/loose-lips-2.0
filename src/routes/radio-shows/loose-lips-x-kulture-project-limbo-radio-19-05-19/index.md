@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Drum & Bass
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-x-kulture-project-limbo-radio-190519&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Both crews in effect ahead of another mad line-up in Manchester, more collabs coming soon.
 
 http://loose-lips.co.uk/events/loose-lips-x-kulture-project-jungle-hardcore-marathon-pt-ii

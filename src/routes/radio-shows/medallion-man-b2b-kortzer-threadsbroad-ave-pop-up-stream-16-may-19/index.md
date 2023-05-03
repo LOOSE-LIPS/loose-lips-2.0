@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: rap
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/medallion-man-b2b-kortzer?in=threadsradio/sets/threadsbroad-ave-pop-up-stream-in-memphis&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 May 2019 – Threads\* pop-up in Memphis, a city on the Mississippi River in southwest Tennessee, famous for the influential strains of blues, soul and rock ‘n’ roll that originated there.
 
 We’re honoured to have been able to showcase a breadth of the modern musical talent there today, stretching from Hip Hop through to various experimental electronic vibrations.

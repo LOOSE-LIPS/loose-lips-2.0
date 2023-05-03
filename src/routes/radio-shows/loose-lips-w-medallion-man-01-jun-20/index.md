@@ -18,6 +18,8 @@ description: >-
 published: true
 tags: Lively
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-medallion-man-01-jun-20?in=loose-lips123/sets/radioshows&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 To kick off june, the weekly @loose-lips123 show ran back down to an isolated Devon bedroom.
 
 Hosted by someone…wait…who the FRED is FUCK?

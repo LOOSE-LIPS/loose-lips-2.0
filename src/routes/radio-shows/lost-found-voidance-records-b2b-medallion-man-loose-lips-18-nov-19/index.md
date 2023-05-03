@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Bass
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/lost-found-voidance-records-b2b-medallion-man-loose-lips-18-nov-19?in=loose-lips123/sets/radioshows&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Following on from their link-up event in Berlin, at Maze Bar, on the weekend just gone, these two Threads hosts b2b’d it up for the first time, exploring the beautiful middle grounds of UK garage and bass music.
 
 @medallionman @loose-lips123  

@@ -113,9 +113,21 @@ for (let i = 1; i < totalPages; i++) {
             tags: tags,
           };
           const turndownService = new TurndownService();
+          turndownService.keep(["iframe"]);
+          const widget = `<iframe id="sc-widget"
+          title="title"
+          width="100"
+          height="160"
+          scrolling="no"
+          frameborder="yes"
+          allow="autoplay"
+          src=${iframeLink}></iframe>`;
+
+          const widgetMarkdown = turndownService.turndown(widget);
           const markdownString = turndownService.turndown(
             show.content.rendered
           );
+
           const yamlData = yaml.safeDump(data);
           const folderDirectory = path.join(
             rootDir,
@@ -127,7 +139,12 @@ for (let i = 1; i < totalPages; i++) {
 
           fs.writeFileSync(
             path.join(folderDirectory, "index.md"),
-            "---\n" + yamlData.trim() + "\n---\n" + markdownString
+            "---\n" +
+              yamlData.trim() +
+              "\n---\n" +
+              widgetMarkdown +
+              "\n---\n" +
+              markdownString
           );
         });
       });

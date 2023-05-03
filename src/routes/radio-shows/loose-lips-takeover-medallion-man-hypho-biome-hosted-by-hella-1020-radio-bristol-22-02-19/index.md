@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: Dubstep
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-takeover-medallion-man-hypho-biome-hosted-by-hella-1020-radio-bristol-220219&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Ahead of http://loose-lips.co.uk/events/all-colours-x-bass-militia-x-loose-lips-in-bristol, Loose Lips headed down for a pre-event 1020 session, as per tradition.
 
 @medallionman b2b @hyphoofficial b2b @biome-official, w/ @helladubs on mic.

@@ -18,6 +18,8 @@ description: >-
 published: true
 tags: House
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-noods-w-hypho-29052019&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 This month on our Bristol-based radio residency, on Noods, resident Paxman was joined by friend and dubstep producer @hyphoofficial, the day before his latest release on Swamp81.
 
 30 min alter ego mix spanning all things house and rave!

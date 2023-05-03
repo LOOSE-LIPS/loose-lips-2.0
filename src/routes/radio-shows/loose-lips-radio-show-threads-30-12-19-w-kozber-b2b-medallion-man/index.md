@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: Rowdy
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-radio-show-threads-301219-w-kozber-b2b-medallion-man&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Finishing off 2019 with one of show of less chat, more mixing…host Medallion Man changed up our usual format to invite Polish guru, Kozber, into the studio for his and Medallion Man’s first ever b2b session!
 
 @medallionman  

@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: Electronic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-malissa-sisu-170619&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 @medallionmanmusic invited his beloved @malissa08 from all-female arts collective, Sisu, onto our weekly @threadsradio show this week.
 
 Following up on her mix and interview with us back in December 2017 – http://loose-lips.co.uk/blog/malissa-lauren-harper-scratch-collective – we chatted about where her and Sisu have come from then to now!

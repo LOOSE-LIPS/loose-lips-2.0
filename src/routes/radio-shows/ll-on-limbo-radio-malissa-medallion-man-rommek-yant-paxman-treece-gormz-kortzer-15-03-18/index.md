@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: Eclectic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-takeover-limbo-radio-15th-march?in=loose-lips123/sets/radioshows&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 The Loose Lips takeover on Limbo Radio in Manchester prior to our night @ the White Hotel with Shackleton & WSR…
 
 Damn it went off!

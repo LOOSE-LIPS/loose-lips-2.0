@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Off-kilter
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-threads-w-nose-dive-110219&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Loose Lips joined by the duo known as Nose Dive this week…nose divin’ into all kinds of off-kilter industrial tunes!
 
 Kendrick meets a Trance classic in one special moment of this 2 hour adventure.

@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: Poetry
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-w-repeat-beat-poet-threads-radio-07-sep-20&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 We welcome The Repeat Beat Poet onto the first show of September 2020, following on from his recent contribution to our Loose Lips V/A – https://looselips123.bandcamp.com/track/the-repeat-beat-poet-this-that-feat-safenath.
 
 PJ is a Hip Hop Poet, artist, and broadcaster who fuses traditional poetics and Hip Hop culture to capture and extend moments of time, thought, and feeling. PJ has appeared across the UK and internationally whilst also producing and co-founding the Hip Hop open mic night Pen-Ting, being a house emcee with Hip Hop label and jam night Imaginary Millions, hosting the Hip Hop/Spoken Word radio show #TheRepeatBeatBroadcast…and if that weren’t enough, also hosting the multi-award nominated Lunar Poetry Podcast, which is archived in the British Library!

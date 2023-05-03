@@ -17,6 +17,8 @@ description: >-
 published: true
 tags: Techno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-alphajaks-full-show-takeover-27-apr-21?fbclid=IwAR1TRG2y4GlmYMZjK0I9DiD6UCLrg3tRMuYy8DHjtgzmsS5-1iCkqxalTYs&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 An eclectic mix of 140bpm techno with dashes of ebm and trance, from a Loose Lips Manchester affiliate.
 
 @loose-lips123  

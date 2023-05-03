@@ -22,6 +22,8 @@ description: >-
 published: true
 tags: Acid
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-the-doubtful-guest-160718&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Finding out their intended guests for this week’s show, Eminent Audio, had gone down with food poisoning lead to Loose Lips inviting on one of their very favourite producers! Everything happens for a reason ey
 
 http://loose-lips.co.uk

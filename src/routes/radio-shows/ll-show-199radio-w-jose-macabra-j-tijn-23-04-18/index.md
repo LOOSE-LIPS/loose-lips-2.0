@@ -18,11 +18,13 @@ description: >-
 published: true
 tags: Techno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/ll-show-199radio-w-jose-macabra-jtijn-230418&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Noise art, through to sexual favours and grime classics!
 
 http://loose-lips.co.uk
 
-  
+<iframe loading="lazy" title="Jose Macabra Sound Design/Sound Art" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F242365&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>  
 https://soundcloud.com/jtijn
 
 Release of the week = https://huntleyspalmers.bandcamp.com/album/h-p-clyde-built-40-compilation-free

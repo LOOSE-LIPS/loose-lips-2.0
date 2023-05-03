@@ -21,9 +21,12 @@ description: >-
 published: true
 tags: Jungle
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/buttonhead-weeaboo-massive-b2b-medallion-man-loose-lips-199radio-230318&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Random, ropey at times, incredibly eclectic, and a fuck load of fun!
 
 http://loose-lips.co.uk  
-  
+<iframe loading="lazy" title="Medallion Man" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F26518926&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>  
+<iframe loading="lazy" title="20/06/17 - Weeaboo Massive" width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?feed=https%3A%2F%2Fwww.mixcloud.com%2F199Radio%2F200617-weeaboo-massive%2F&amp;hide_cover=1" frameborder="0"></iframe>
 
 https://www.newriverstudios.com/199radio/listen

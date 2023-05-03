@@ -25,6 +25,8 @@ description: >-
 published: true
 tags: Electronic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/jeffs-spesh-b2b-medallion-man-loose-lips-199radio-130618?in=loose-lips123/sets/radioshows&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 We’ve recently become good friends with Jeff Spesh, one of the fine DJs on the @199radio roster.
 
 Our very own @medallionman stepped up last week for an impromptu b2b….the first time they’d ever played together!

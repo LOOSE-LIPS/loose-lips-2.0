@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Dancehall
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/29-aug-19-loose-lips-w-don-sinini&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Ahead of the @loose-lips123 & @skoopskoop party in Edinburgh tomorrow night, headliner and dancehall don, @sininigenie , joined @medallionman for a wee interview, hype about his Scottish debut, and a mad live performance!
 
 GET READY SCOTLAND!

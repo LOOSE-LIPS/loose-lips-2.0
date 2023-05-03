@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Jazz
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-199radio-w-dutchie-drpudding-170918&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 D…D…D…D…!
 
 A special show this week, with 2 guests. Hold Tight Records’ Dutchie up from Bristol, joined by producer/engineer/DJ/festival thrower, Dr.Pudding (not Mr.Pudding!!!!)

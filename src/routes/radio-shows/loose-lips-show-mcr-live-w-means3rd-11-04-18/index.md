@@ -17,4 +17,6 @@ description: >-
 published: true
 tags: Techno
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-wmeans-3rd-110418?in=loose-lips123/sets/radioshows&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 In the run up to our event on the 12th of may at Hidden with Neil Landstrumm and Paul Blackford, this week’s resident Kortzer is joined by Eastern Bloc Record’s Means&3rd for a guest mix in the 2nd hour.

@@ -20,6 +20,8 @@ description: >-
 published: true
 tags: Electronic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-trax-haven-full-show-takeover?in=loose-lips123/sets/radioshows&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Trax Haven is a footwork/jungle music label and platform founded by DJs Airpods and Jetski. The pair take over from Loose Lips with an hour each of fresh 160bpm bangers and plenty of label exclusives.
 
 soundcloud.com/traxhaven160  

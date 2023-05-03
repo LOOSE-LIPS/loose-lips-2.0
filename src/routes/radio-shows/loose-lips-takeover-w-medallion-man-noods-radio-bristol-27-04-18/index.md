@@ -21,4 +21,6 @@ description: >-
 published: true
 tags: Eclectic
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-takeover-w-medallion-man-noods-radio-bristol-270418&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 In anticipation of our last event in Bristol with FLmm & J.Tijn, @medallionman hobbled down to Noods to play one of the quickest radio shows we’ve ever done!

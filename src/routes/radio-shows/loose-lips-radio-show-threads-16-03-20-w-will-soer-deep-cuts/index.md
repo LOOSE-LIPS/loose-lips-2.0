@@ -21,6 +21,8 @@ description: >-
 published: true
 tags: Indie
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/loose-lips-show-wwill-soer-deep-cuts-16-mar-20?in=loose-lips123/sets/radioshows&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Recorded shortly before the Threads studio had to close because of Corona Virus, Loose Lips’ creative editor Will Soer came in for a blast of emotional melodies typical of his Out Of Body Pop show, before recording this month’s Deep Cuts mix live in the second hour.This month’s Deep Cuts theme is ‘Wordless Tone’, check the article here: https://bit.ly/2UcjJ2V
 
 Artwork by Trav, check his website here: https://bit.ly/2WAo5ST

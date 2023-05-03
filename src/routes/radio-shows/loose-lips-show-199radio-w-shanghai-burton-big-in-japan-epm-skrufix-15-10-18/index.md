@@ -24,12 +24,14 @@ description: >-
 published: true
 tags: off-kilter
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/loose-lips123/show-199radio-w-shanghai-burton-big-in-japanepmskrufix-151018&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 The LL show travels where @medallionman travels! This week, he’s in Berlin, and is joined by musical chameleon, Liam Nolan!
 
 Banging electronic music from across the globe accompanies chat about Berlin’s diversity, repping South American scenes, being a modern day digital music distributor, and much much more!
 
-  
-  
+<iframe loading="lazy" title="skrufix" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F3788023&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>  
+<iframe loading="lazy" title="Big in Japan Records" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F311941603&amp;show_artwork=true&amp;maxwidth=640&amp;maxheight=960&amp;dnt=1"></iframe>  
 https://epm-music.com
 
 http://loose-lips.co.uk

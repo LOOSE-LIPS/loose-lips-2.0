@@ -19,6 +19,8 @@ description: >-
 published: true
 tags: Grime
 ---
+<iframe id="sc-widget" title="title" width="100" height="160" scrolling="no" frameborder="yes" allow="autoplay" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/threadsradio/loose-lips-w-trim-01-apr-19&amp;color=00aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+---
 Ahead of Loose Lips’ party in Leeds with Trim aka Trimbal aka Taliban Trim aka Sith Lord Trim-Trim Cherooooooooo, he came onto their weekly Monday night show for an incredibly engaging interview and freestyle.
 
 Trim has been a standout figure on the grime scene since his days in Roll Deep, from the critically acclaimed “Soulfood” mixtape series through to more recent collaborations with heavyweight producers such as Bad Taste Record’s Walter Ego and Mercury Prize winner James Blake.
