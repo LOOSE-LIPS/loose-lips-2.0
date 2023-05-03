@@ -1,5 +1,4 @@
 <script lang="ts">
-  import type { log } from "console";
   import { onMount } from "svelte";
   import { currentTrack } from "../../../../stores";
 
@@ -20,8 +19,6 @@
     let iframeElement = document.getElementById("perP");
     widget = sc.Widget(iframeElement);
     widget.bind(sc.Widget.Events.READY, function () {
-      console.log("LETS GOOOOOOO");
-
       widget.play();
     });
   };
