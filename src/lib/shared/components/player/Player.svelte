@@ -7,7 +7,7 @@
   currentTrack.subscribe((prev) => {
     track = prev;
   });
-
+  console.log(track);
   const getSc = async () => {
     if ((window as any)?.SC) return (window as any)?.SC;
     await new Promise((resolve) => setTimeout(resolve, 100));
@@ -44,7 +44,7 @@
   <div />
 {:else}
   <div class="fixed bottom-0 left-0 right-0 bg-white text-black h-36 py-2 px-4">
-    <iframe
+    <!-- <iframe
       id="perP"
       title="title"
       width="100%"
@@ -53,6 +53,6 @@
       frameborder="no"
       allow="autoplay"
       src={track}
-    />
+    /> -->
   </div>
 {/if}
