@@ -1,4 +1,4 @@
-export default interface IEventsCard {
+export interface IEventsCard {
   layout: string;
   title: string;
   description: string;
